@@ -7,6 +7,8 @@ A small web-based dashboard for monitoring private-credit news by digest date an
 ```bash
 python3 -m http.server 4173
 ```
+## Public Link
+https://gallon00920.github.io/Credit_bearing_news_updater/
 
 Then open `http://127.0.0.1:4173`. If that port is already busy, use another port, for example `python3 -m http.server 4174`.
 
