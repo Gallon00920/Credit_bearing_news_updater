@@ -33,7 +33,7 @@ python3 scripts/update_news.py --today-only
 Set your Qwen / DashScope key before running the full pipeline:
 
 ```bash
-export DASHSCOPE_API_KEY="sk-ws-H.PDRHYER.YnTa.MEYCIQCpXefTyYBy2cclGn8A1v-y4yBoaLzHglR1b8Fou0t4vAIhAIlNT9alJIt-XtGvAgPkDQVS_hp38MvptQC5qHpRkHEW"
+export DASHSCOPE_API_KEY="YOUR_API_KEYS"
 python3 scripts/update_news.py
 ```
 
