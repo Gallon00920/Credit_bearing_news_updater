@@ -1,0 +1,522 @@
+:root {
+  color-scheme: light;
+  --bg: #f6f7f4;
+  --surface: #ffffff;
+  --surface-soft: #eef4ef;
+  --ink: #20231f;
+  --muted: #62685f;
+  --line: #d9ded6;
+  --accent: #1f6f55;
+  --accent-strong: #174d40;
+  --gold: #b57912;
+  --rose: #a63d40;
+  --sky: #386b8f;
+  --shadow: 0 18px 42px rgba(32, 35, 31, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 28px clamp(18px, 4vw, 48px) 18px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(14px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 4px;
+  font-size: clamp(28px, 4vw, 46px);
+  line-height: 1.05;
+  letter-spacing: 0;
+}
+
+.subtitle {
+  max-width: 900px;
+  margin-top: 10px;
+  color: var(--muted);
+  line-height: 1.55;
+  font-size: 15px;
+}
+
+.eyebrow {
+  color: var(--accent-strong);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-shrink: 0;
+}
+
+.last-updated {
+  display: grid;
+  gap: 2px;
+  text-align: right;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.last-updated strong {
+  color: var(--ink);
+  font-size: 13px;
+}
+
+.language-toggle {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  width: 78px;
+  height: 38px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  padding: 3px;
+  cursor: pointer;
+  box-shadow: 0 8px 22px rgba(32, 35, 31, 0.06);
+}
+
+.toggle-option {
+  display: grid;
+  place-items: center;
+  height: 30px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.toggle-option.active {
+  color: #ffffff;
+  background: var(--accent);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  gap: 22px;
+  padding: 24px clamp(18px, 4vw, 48px) 48px;
+}
+
+.date-panel,
+.news-panel {
+  min-width: 0;
+}
+
+.date-panel {
+  position: sticky;
+  top: 134px;
+  align-self: start;
+}
+
+.panel-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: end;
+  margin-bottom: 12px;
+}
+
+.panel-heading h2,
+.toolbar h2 {
+  font-size: 20px;
+}
+
+.fine-print {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.calendar {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 12px;
+  box-shadow: 0 8px 22px rgba(32, 35, 31, 0.05);
+}
+
+.calendar-controls {
+  display: grid;
+  grid-template-columns: 32px 1fr 1fr 32px;
+  gap: 8px;
+  align-items: end;
+  margin-bottom: 12px;
+}
+
+.calendar-controls label {
+  display: grid;
+  gap: 4px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.calendar-controls select,
+.calendar-nav {
+  min-width: 0;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--ink);
+}
+
+.calendar-controls select {
+  padding: 0 8px;
+}
+
+.calendar-nav {
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.calendar-nav:disabled {
+  cursor: not-allowed;
+  color: #a3a9a0;
+  background: #f1f3ef;
+}
+
+.calendar-weekdays,
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.calendar-weekdays {
+  gap: 4px;
+  margin-bottom: 5px;
+}
+
+.calendar-weekdays span {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.calendar-grid {
+  gap: 4px;
+}
+
+.calendar-day {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: #f8faf7;
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.calendar-day:hover,
+.calendar-day.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(31, 111, 85, 0.12);
+}
+
+.calendar-day.active {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.calendar-day.outside-month {
+  color: #a3a9a0;
+  background: #f1f3ef;
+}
+
+.calendar-day:disabled {
+  cursor: not-allowed;
+  color: #c1c6bd;
+  background: #f3f4f1;
+}
+
+.calendar-day small {
+  position: absolute;
+  right: 4px;
+  bottom: 3px;
+  min-width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: var(--gold);
+  color: #ffffff;
+  font-size: 9px;
+  line-height: 1;
+}
+
+.calendar-day.active small {
+  background: #ffffff;
+  color: var(--accent-strong);
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.toolbar-stats {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.toolbar-stats div {
+  min-width: 118px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 10px 12px;
+}
+
+.toolbar-stats span {
+  display: block;
+  font-size: 18px;
+  font-weight: 850;
+  color: var(--accent-strong);
+}
+
+.toolbar-stats small {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.news-list {
+  display: grid;
+  gap: 18px;
+}
+
+.gp-section {
+  display: grid;
+  gap: 10px;
+}
+
+.gp-section-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  padding: 6px 2px 10px;
+}
+
+.gp-section-header h3 {
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.gp-section-header span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.gp-section-body {
+  display: grid;
+  gap: 12px;
+}
+
+.gp-empty {
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.58);
+  padding: 12px;
+}
+
+.news-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 18px;
+  box-shadow: var(--shadow);
+}
+
+.news-card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: start;
+}
+
+.news-title {
+  max-width: 920px;
+  font-size: 20px;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+
+.region-pill {
+  flex-shrink: 0;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  padding: 4px 8px;
+  color: var(--sky);
+  font-size: 11px;
+  font-weight: 850;
+}
+
+.region-pill.europe {
+  color: var(--gold);
+}
+
+.region-pill.global,
+.region-pill.other {
+  color: var(--rose);
+}
+
+.summary {
+  margin-top: 10px;
+  color: #343830;
+  font-size: 15px;
+  line-height: 1.62;
+}
+
+.source-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.article-link {
+  color: var(--accent-strong);
+  font-weight: 800;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.source-meta {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 14px;
+}
+
+.tag {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 4px 8px;
+  color: var(--muted);
+  background: var(--surface-soft);
+  font-size: 11px;
+  line-height: 1;
+}
+
+.tag.gp {
+  color: var(--accent-strong);
+  background: #edf7f2;
+}
+
+.tag.sector {
+  color: #5f4616;
+  background: #fbf3df;
+}
+
+.empty-state {
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  padding: 28px;
+  background: var(--surface);
+  color: var(--muted);
+}
+
+.empty-state h3 {
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+
+@media (max-width: 860px) {
+  .app-header,
+  .toolbar,
+  .news-card-header {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .header-actions,
+  .toolbar-stats {
+    justify-content: space-between;
+  }
+
+  .last-updated {
+    text-align: left;
+  }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .date-panel {
+    position: static;
+  }
+
+  .calendar {
+    max-width: 420px;
+  }
+}
+
+@media (max-width: 520px) {
+  .app-header {
+    padding-top: 20px;
+  }
+
+  .toolbar-stats {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .toolbar-stats div {
+    min-width: 0;
+  }
+
+  .news-card {
+    padding: 15px;
+  }
+}

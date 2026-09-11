@@ -1,0 +1,78 @@
+name: Update news dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Update mode"
+        required: true
+        default: "today"
+        type: choice
+        options:
+          - today
+          - full
+  schedule:
+    - cron: "0 * * * *"
+    - cron: "30 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-dashboard-update
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    env:
+      DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+          cache-dependency-path: |
+            requirements-semantic.txt
+            requirements-colbert.txt
+
+      - name: Cache Hugging Face models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: huggingface-colbert-${{ runner.os }}-${{ hashFiles('requirements-colbert.txt') }}
+          restore-keys: |
+            huggingface-colbert-${{ runner.os }}-
+
+      - name: Install semantic dependencies
+        run: pip install -r requirements-semantic.txt
+
+      - name: Install optional ColBERT dependencies
+        run: pip install -r requirements-colbert.txt || echo "PyLate unavailable; updater will fall back to DashScope dense semantic scoring."
+
+      - name: Run updater
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "full" ]; then
+            python3 scripts/update_news.py
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "30 23 * * *" ]; then
+            python3 scripts/update_news.py
+          else
+            python3 scripts/update_news.py --today-only
+          fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/semantic_queries.json
+          if git diff --cached --quiet; then
+            echo "No news data changes to commit."
+          else
+            git commit -m "Update news dashboard data"
+            git push
+          fi

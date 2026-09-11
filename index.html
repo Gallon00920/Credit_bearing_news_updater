@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Credit News Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow" data-i18n="eyebrow">Private credit daily monitor</p>
+        <h1 data-i18n="title">Credit News Dashboard</h1>
+        <p class="subtitle" data-i18n="subtitle">
+          US-led coverage with a Europe watchlist for credit strategies, asset-based finance, CLOs, software lending, real estate, mortgage, aircraft leasing, and GP stakes.
+        </p>
+      </div>
+      <div class="header-actions">
+        <div class="last-updated">
+          <span data-i18n="lastUpdated">Updated</span>
+          <strong id="lastUpdated">--</strong>
+        </div>
+        <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch language">
+          <span class="toggle-option active" data-lang-pill="en">EN</span>
+          <span class="toggle-option" data-lang-pill="zh">繁</span>
+        </button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="date-panel" aria-label="News calendar">
+        <div class="panel-heading">
+          <h2 data-i18n="calendar">Calendar</h2>
+          <span id="retentionLabel" class="fine-print"></span>
+        </div>
+        <div id="calendar" class="calendar"></div>
+      </aside>
+
+      <section class="news-panel">
+        <div class="toolbar">
+          <div>
+            <p class="eyebrow" data-i18n="selectedDate">Selected date</p>
+            <h2 id="selectedDateLabel">--</h2>
+          </div>
+          <div class="toolbar-stats" aria-label="Digest statistics">
+            <div>
+              <span id="itemCount">0</span>
+              <small data-i18n="stories">stories</small>
+            </div>
+          </div>
+        </div>
+
+        <div id="emptyState" class="empty-state" hidden>
+          <h3 data-i18n="emptyTitle">No news saved for this date</h3>
+          <p data-i18n="emptyBody">Run the updater to fetch and score new items, then refresh this page.</p>
+        </div>
+
+        <div id="newsList" class="news-list"></div>
+      </section>
+    </main>
+
+    <script src="src/app.js" type="module"></script>
+  </body>
+</html>

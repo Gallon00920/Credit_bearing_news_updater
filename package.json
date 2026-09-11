@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "update": "python3 scripts/update_news.py",
+    "update:today": "python3 scripts/update_news.py --today-only",
+    "update:dry-run": "python3 scripts/update_news.py --dry-run"
+  },
+  "private": true
+}

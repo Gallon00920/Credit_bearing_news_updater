@@ -1,0 +1,114 @@
+{
+  "retentionDays": 90,
+  "lookbackDays": 90,
+  "maxItemsPerGp": 6,
+  "minimumScore": 7,
+  "semanticScoring": {
+    "enabled": true,
+    "queryCachePath": "data/semantic_queries.json",
+    "backend": "auto",
+    "qwenProvider": "dashscope",
+    "qwenModel": "qwen-plus",
+    "qwenApiKeyEnv": "DASHSCOPE_API_KEY",
+    "denseEmbeddingModel": "text-embedding-v2",
+    "colbertModel": "colbert-ir/colbertv2.0",
+    "rawScoreMin": 0,
+    "rawScoreMax": 30,
+    "scoreScale": 12,
+    "minimumFinalScore": 12
+  },
+  "translation": {
+    "enabled": true,
+    "qwenProvider": "dashscope",
+    "qwenModel": "qwen-plus",
+    "qwenApiKeyEnv": "DASHSCOPE_API_KEY",
+    "targetLanguage": "Traditional Chinese"
+  },
+  "gps": [
+    "Blue Owl",
+    "OTF",
+    "Pretium",
+    "KKR",
+    "PAG",
+    "Bayview",
+    "CIFC",
+    "Basepoint",
+    "NB",
+    "Apollo",
+    "Bain Capital",
+    "Guggenheim",
+    "HSBC AM"
+  ],
+  "gpQueries": {
+    "Blue Owl": ["Blue Owl private credit", "Blue Owl direct lending BDC software credit"],
+    "OTF": ["Blue Owl Technology Finance OTF BDC", "OTF public BDC Blue Owl credit"],
+    "Pretium": ["Pretium private credit mortgage real estate", "Pretium residential credit mortgage"],
+    "KKR": ["KKR private credit direct lending CLO", "KKR asset backed finance private credit"],
+    "PAG": ["PAG private credit direct lending real estate credit", "PAG credit private debt"],
+    "Bayview": ["Bayview Asset Management mortgage credit", "Bayview mortgage private credit"],
+    "CIFC": ["CIFC CLO credit", "CIFC asset management CLO private credit"],
+    "Basepoint": ["Basepoint private credit asset backed lending", "Basepoint lending real estate credit"],
+    "NB": ["Neuberger Berman private credit direct lending", "NB private credit Neuberger Berman"],
+    "Apollo": ["Apollo private credit direct lending asset backed finance", "Apollo credit aircraft leasing mortgage CLO"],
+    "Bain Capital": ["Bain Capital private credit direct lending", "Bain Capital credit facility private debt"],
+    "Guggenheim": ["Guggenheim private credit CLO asset backed lending", "Guggenheim credit CLO"],
+    "HSBC AM": ["HSBC Asset Management private credit", "HSBC AM direct lending private credit Europe"]
+  },
+  "sourceQueries": [
+    "private credit direct lending Blue Owl OTF software BDC",
+    "private credit direct lending KKR Apollo Bain Capital Guggenheim",
+    "private credit CLO CIFC KKR Guggenheim asset backed lending",
+    "private credit real estate mortgage Pretium Bayview Basepoint PAG",
+    "aircraft leasing aviation finance Apollo KKR private credit",
+    "GP stakes private credit Blue Owl KKR Apollo",
+    "Europe private credit direct lending Apollo KKR HSBC Asset Management"
+  ],
+  "rssFeeds": [
+    {
+      "name": "SEC Blue Owl Technology Finance filings",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001747777&type=8-K%25&owner=exclude&count=40&output=atom"
+    },
+    {
+      "name": "PR Newswire Financial Services",
+      "url": "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss"
+    },
+    {
+      "name": "Business Wire Finance News",
+      "url": "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpQWw=="
+    },
+    {
+      "name": "ABF Journal",
+      "url": "https://www.abfjournal.com/feed/"
+    },
+    {
+      "name": "Asset Securitization Report",
+      "url": "https://asreport.americanbanker.com/feed"
+    },
+    {
+      "name": "HousingWire",
+      "url": "https://www.housingwire.com/feed/"
+    },
+    {
+      "name": "Private Equity Wire Credit",
+      "url": "https://www.privateequitywire.co.uk/feed/"
+    }
+  ],
+  "preferredSources": [
+    "Reuters",
+    "Bloomberg",
+    "Financial Times",
+    "Wall Street Journal",
+    "Private Credit Daily",
+    "Creditflux",
+    "Structured Credit Investor",
+    "ABL Advisor",
+    "Asset Securitization Report",
+    "PR Newswire",
+    "Business Wire",
+    "SEC",
+    "Apollo",
+    "KKR",
+    "Blue Owl",
+    "Bain Capital"
+  ]
+}
