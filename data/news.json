@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-12T16:14:45.366637+00:00",
+  "updatedAt": "2026-09-12T16:42:49.894034+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8005,9 +8005,94 @@
     },
     "2026-09-12": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-12-73fcf6ca8393",
+            "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "summaryZh": "NKE、OWL、SMR 股價上周創下52週新低：引發拋售的原因為何？Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-12",
+            "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "contentFingerprint": "04cb1cc8e46ac0ee",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a tracked GP whose public equity reflects its credit-focused business (including direct lending, CLOs, and structured credit); the article references OWL stock performance, implying market sentiment toward its credit operations — no indication of non-credit activities like PE or infra."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.46,
+              "finalScore": 10.46,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-09-12-1331205a8f49",
+            "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
+            "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
+            "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%. <img class=\"Image\" data-image-size=\"headshotSmall\" alt=\"1639669758144.jpg\" srcset=\"https://arizent.brightspotcdn.com/dims4/default/7686cb5/2147483647/strip/true/crop/400x400+0+0/resize/48x48!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fab%2Ff6%2Fccfe328149a9bd87fbf06545e450%2F1639669758144.jpg...",
+            "summaryZh": "本次交易擁有該平台今年發行的最大抵押品池，共計294筆貸款，且符合條件的貸款比例最高，達45.1%。",
+            "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
+            "source": "Asset Securitization Report",
+            "publishedAt": "2026-09-12",
+            "lede": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%. <img class=\"Image\" data-image-size=\"headshotSmall\" alt=\"1639669758144.jpg\" srcset=\"https://arizent.brightspotcdn.com/dims4/default/7686cb5/2147483647/strip/true/crop/400x400+0+0/resize/48x48!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fab%2Ff6%2Fccfe328149a9bd87fbf06545e450%2F1639669758144.jpg...",
+            "articleExcerpt": "PMT Loan Trust raises $363.6 million in prime RMBS. The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+            "contentFingerprint": "a081bdb95a35d0c8",
+            "region": "US",
+            "gps": [
+              "Pretium"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [
+                "mortgage"
+              ],
+              "llmExclude": false,
+              "llmReason": "Pretium is a tracked GP with a core credit business in residential mortgage-backed securities (RMBS); this article describes a prime RMBS issuance by PMT Loan Trust, which is a vehicle managed by Pretium."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.0,
+              "finalScore": 24.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [],
         "PAG": [],
         "Bayview": [],
@@ -8019,7 +8104,91 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-12-73fcf6ca8393",
+          "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "summaryZh": "NKE、OWL、SMR 股價上周創下52週新低：引發拋售的原因為何？Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-12",
+          "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "contentFingerprint": "04cb1cc8e46ac0ee",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a tracked GP whose public equity reflects its credit-focused business (including direct lending, CLOs, and structured credit); the article references OWL stock performance, implying market sentiment toward its credit operations — no indication of non-credit activities like PE or infra."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.46,
+            "finalScore": 10.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-12-1331205a8f49",
+          "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
+          "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
+          "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%. <img class=\"Image\" data-image-size=\"headshotSmall\" alt=\"1639669758144.jpg\" srcset=\"https://arizent.brightspotcdn.com/dims4/default/7686cb5/2147483647/strip/true/crop/400x400+0+0/resize/48x48!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fab%2Ff6%2Fccfe328149a9bd87fbf06545e450%2F1639669758144.jpg...",
+          "summaryZh": "本次交易擁有該平台今年發行的最大抵押品池，共計294筆貸款，且符合條件的貸款比例最高，達45.1%。",
+          "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
+          "source": "Asset Securitization Report",
+          "publishedAt": "2026-09-12",
+          "lede": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%. <img class=\"Image\" data-image-size=\"headshotSmall\" alt=\"1639669758144.jpg\" srcset=\"https://arizent.brightspotcdn.com/dims4/default/7686cb5/2147483647/strip/true/crop/400x400+0+0/resize/48x48!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fab%2Ff6%2Fccfe328149a9bd87fbf06545e450%2F1639669758144.jpg...",
+          "articleExcerpt": "PMT Loan Trust raises $363.6 million in prime RMBS. The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+          "contentFingerprint": "a081bdb95a35d0c8",
+          "region": "US",
+          "gps": [
+            "Pretium"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [
+              "mortgage"
+            ],
+            "llmExclude": false,
+            "llmReason": "Pretium is a tracked GP with a core credit business in residential mortgage-backed securities (RMBS); this article describes a prime RMBS issuance by PMT Loan Trust, which is a vehicle managed by Pretium."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 6.0,
+            "finalScore": 24.0,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
