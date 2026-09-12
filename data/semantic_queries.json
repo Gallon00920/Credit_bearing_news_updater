@@ -4,5 +4,151 @@
     "Plain-English framing:",
     "News about loans, debt funds, and credit deals in the U.S. (and some European markets) involving major private credit firms like Apollo, KKR, Blue Owl, and Pretium—especially when covering software companies, real estate mortgages, aircraft financing, CLOs, or when those firms raise new funds, restructure troubled loans, or adjust how they manage their credit portfolios.",
     "Industry/trade-press framing:"
-  ]
+  ],
+  "hydeByGp": {
+    "Blue Owl": {
+      "promptHash": "4d7b1beb15b49715748021070d49dda99ab3914c",
+      "relevant": [
+        "Blue Owl Capital’s BDC, Blue Owl Capital Income Corp (formerly OWL), announces a $350 million follow-on offering to fund new direct lending commitments to middle-market companies, with proceeds earmarked for senior secured loans.",
+        "Blue Owl’s CLO platform closes Blue Owl CLO IX with $850 million of collateralized loan obligations, targeting investment in broadly syndicated and middle-market corporate debt.",
+        "Blue Owl expands its asset-based finance capabilities through the acquisition of a specialty finance firm focused on inventory and receivables financing for industrials—explicitly structured as a credit-led, collateral-backed lending platform."
+      ],
+      "notRelevant": [
+        "Blue Owl acquires a portfolio of U.S. data centers via its private equity arm, Blue Owl Growth Partners, in an all-equity transaction with no debt financing, credit covenants, or lender involvement.",
+        "Blue Owl announces the sale of its majority stake in a renewable energy infrastructure fund—structured as an equity co-investment vehicle with no associated debt issuance, lending activity, or credit risk transfer."
+      ]
+    },
+    "Portfolio": {
+      "promptHash": "e1c8356208dec72824251f14d0f92323de692041",
+      "relevant": [
+        "Portfolio announces a $450M direct lending fund focused on middle-market borrowers in industrials and business services, with senior secured loans and covenant-lite structures.",
+        "Portfolio’s CLO management platform launches its seventh collateralized loan obligation, targeting AAA-rated tranches and backed by a diversified portfolio of broadly syndicated and club loans.",
+        "Portfolio provides a $120M asset-based revolving credit facility to a specialty retail company, secured by inventory and receivables, as part of its structured finance vertical."
+      ],
+      "notRelevant": [
+        "Portfolio acquires a portfolio of solar generation assets through its infrastructure equity strategy, using equity capital without recourse debt or lender-aligned structuring.",
+        "Portfolio leads a leveraged buyout of a software company via its private equity arm, deploying majority equity capital and retaining full operational control—no lending, credit facility, or structured financing component is disclosed."
+      ]
+    },
+    "Apollo": {
+      "promptHash": "a4382f0e875a369a20dd08155b29fe73baec6332",
+      "relevant": [
+        "Apollo Global Management announces the launch of a new $2.5 billion senior secured direct lending fund targeting middle-market companies, with capital commitments from institutional investors and a focus on first-lien, cash-flow-based lending.",
+        "Apollo-managed CLO 2024-1 closes at $1.1 billion, featuring exposure to U.S. leveraged loans and incorporating enhanced ESG-aligned credit covenants—marking its ninth CLO issuance in the past 18 months.",
+        "Ares Acquisition Corp., a publicly traded BDC advised by Apollo, raises $450 million in a follow-on equity offering to expand its portfolio of asset-based loans collateralized by inventory and receivables."
+      ],
+      "notRelevant": [
+        "Apollo acquires a controlling stake in a U.S. semiconductor manufacturing facility through a private equity buyout, with value creation focused on operational turnaround and capacity expansion—not debt financing or credit structuring.",
+        "Apollo sells its 49% interest in a European offshore wind farm consortium to a sovereign wealth fund, a transaction structured as an equity divestiture with no associated lending, refinancing, or credit facility involvement."
+      ]
+    },
+    "OTF": {
+      "promptHash": "aa0a2f37c9c1bd57b5e089d8dd48364fb36a773a",
+      "relevant": [
+        "OTF announces a $450M direct lending facility to a middle-market industrial company, structured as a first-lien term loan with covenant-lite features—highlighting its credit underwriting approach and portfolio exposure in asset-based finance.",
+        "OTF’s CLO management platform issues its third collateralized loan obligation this year, with $1.2B in leveraged loan assets, featuring revised warehouse lines and enhanced risk retention disclosures per SEC guidelines.",
+        "OTF acquires a minority stake in a BDC through a strategic co-investment vehicle, explicitly to provide senior secured debt financing and gain exposure to the BDC’s underlying loan portfolio."
+      ],
+      "notRelevant": [
+        "OTF leads a $2.8B leveraged buyout of a software services firm alongside a PE co-sponsor, acquiring 100% equity ownership with no debt financing or credit-related role for OTF.",
+        "OTF sells its 40% equity interest in a wind farm portfolio to an infrastructure fund—purely an equity divestiture with no associated lending, credit facilities, or structured financing involvement."
+      ]
+    },
+    "Pretium": {
+      "promptHash": "bfd803f8c0eecd9805c4ad86e16fc1cf2f358f38",
+      "relevant": [
+        "Pretium announces a $750 million senior secured credit facility to fund its new direct lending platform targeting middle-market U.S. companies, with loan terms, collateral structure, and syndication details disclosed.",
+        "Pretium’s CLO management arm closes Pretium Capital CLO IX, a $1.2 billion collateralized loan obligation backed by broadly syndicated corporate loans, including portfolio composition, rating agency assignments, and warehouse financing arrangements.",
+        "Pretium expands its asset-based lending division by acquiring a specialty finance firm focused on inventory- and receivables-backed facilities for consumer goods distributors—highlighting credit underwriting criteria, advance rates, and covenant structures."
+      ],
+      "notRelevant": [
+        "Pretium acquires a portfolio of Class A office buildings in Sun Belt markets through its real estate equity strategy, with no debt financing or credit structuring role—purely an equity ownership transaction.",
+        "Pretium leads a $3.4 billion leveraged buyout of a healthcare IT services provider via its private equity arm, where Pretium acts solely as the controlling equity sponsor and does not provide or arrange any financing to the target or the acquisition vehicle."
+      ]
+    },
+    "KKR": {
+      "promptHash": "e753aa7e5bdd6d0b5bd27e417b0f4eb1e6d62234",
+      "relevant": [
+        "KKR Capital Markets priced a $1.2 billion CLO 2024-1, marking its seventh collateralized loan obligation issuance this year and expanding its managed CLO portfolio to over $50 billion.",
+        "KKR Credit announced a $350 million senior secured term loan to a mid-market manufacturing company, structured as part of its U.S. direct lending platform’s latest fund deployment.",
+        "KKR & Co. reported that its BDC, KKR Income Opportunities Fund (KIO), increased its portfolio of first-lien, floating-rate loans by 18% quarter-over-quarter, citing strong origination activity in asset-based finance and specialty finance sectors."
+      ],
+      "notRelevant": [
+        "KKR acquired a majority stake in a European logistics real estate portfolio for €2.4 billion — a core equity investment in industrial assets with no debt financing or credit structuring role by KKR.",
+        "KKR led a $7.3 billion leveraged buyout of a consumer healthcare company, where it acted solely as the private equity sponsor; the transaction financing was arranged by third-party banks and involved no KKR-originated credit facility, CLO, or balance sheet lending."
+      ]
+    },
+    "Bayview": {
+      "promptHash": "7dba20cab598d1b3c874e3ee45caeffc54886638",
+      "relevant": [
+        "Bayview announces the closing of its new $1.2 billion senior secured direct lending fund, targeting middle-market companies with covenant-lite structures and unitranche facilities.",
+        "Bayview serves as collateral manager for a newly issued $750 million AAA-rated CLO, with focus on U.S. broadly syndicated loans and enhanced warehouse financing terms.",
+        "Bayview provides a $200 million asset-based revolving credit facility to a manufacturing company, secured by inventory and receivables, structured with borrowing base mechanics and monthly reporting covenants."
+      ],
+      "notRelevant": [
+        "Bayview acquires a portfolio of solar generation assets through its infrastructure equity platform — no debt financing, credit structuring, or lender role involved.",
+        "Bayview leads a leveraged buyout of a software company via its private equity arm, using equity capital and third-party debt arranged by other lenders — Bayview itself does not provide or manage the financing."
+      ]
+    },
+    "CIFC": {
+      "promptHash": "a6958275e6e4e7343597d567a97648914ffbad69",
+      "relevant": [
+        "CIFC announces the closing of a $750M senior secured direct lending fund focused on middle-market corporate borrowers, with commitments from institutional investors and a target yield of 10–12% LIBOR +.",
+        "CIFC serves as collateral manager for a newly issued $1.2B AAA-rated CLO, marking its 18th managed CLO and reflecting expansion in its structured credit platform.",
+        "CIFC’s BDC affiliate, CIFC Corp., reports Q2 2024 portfolio growth in asset-based loans—primarily against inventory and receivables—with net investment income up 14% YoY due to higher yield and deployment pace."
+      ],
+      "notRelevant": [
+        "CIFC acquires a controlling stake in a U.S. renewable energy developer through its private equity arm, with plans to hold and operate the portfolio of solar assets long-term.",
+        "CIFC announces the sale of its majority-owned logistics real estate platform—including 12 industrial properties—to a public REIT, citing strategic portfolio rationalization in its equity real estate business."
+      ]
+    },
+    "NB": {
+      "promptHash": "83c7906f7fe2b4a2c5600623ed8e5ddb543abc1b",
+      "relevant": [
+        "NB announces the launch of a new $1.2 billion senior secured direct lending fund targeting middle-market companies, with commitments from institutional investors and a focus on first-lien, cash-flow-based underwriting.",
+        "NB’s CLO management platform issues its seventh collateralized loan obligation, featuring exposure to U.S. leveraged loans and governed by a standard cash flow waterfall with credit enhancement features.",
+        "NB provides a $450 million asset-based lending facility to a manufacturing company, secured by inventory and accounts receivable, structured as a revolving credit line with borrowing base mechanics."
+      ],
+      "notRelevant": [
+        "NB acquires a portfolio of solar generation assets through its infrastructure equity strategy — no debt financing, lending, or credit structuring is involved or disclosed.",
+        "NB leads a $3.8 billion leveraged buyout of a consumer goods company via its flagship private equity fund, with financing arranged entirely by third-party banks and no NB-originated credit facility or balance sheet exposure."
+      ]
+    },
+    "HSBC AM": {
+      "promptHash": "a3dcda72ec7405909d2a98f2f1f11a0c4f7c77bf",
+      "relevant": [
+        "HSBC AM announces the launch of a new $1.2 billion senior secured direct lending fund targeting mid-market U.S. corporates, with commitments from institutional investors and a focus on first-lien, cash-flow-based underwriting.",
+        "HSBC AM’s CLO platform prices its seventh collateralized loan obligation (CLO 7.0), featuring a $450 million Class A tranche rated AAA, backed by a diversified portfolio of broadly syndicated leveraged loans.",
+        "HSBC AM provides a $280 million asset-based revolving credit facility to a European logistics company, secured against inventory and receivables, as part of its structured finance offering for sponsor-backed businesses."
+      ],
+      "notRelevant": [
+        "HSBC AM acquires a 70% stake in a Spanish renewable energy developer through its infrastructure equity strategy — no debt financing, credit structuring, or lending component involved.",
+        "HSBC AM leads a €950 million buyout of a German industrial software firm via its flagship private equity fund, using equity capital and third-party acquisition financing arranged externally — HSBC AM itself did not originate, underwrite, or hold any credit instrument."
+      ]
+    },
+    "Bain Capital": {
+      "promptHash": "70598c0210d2144dfe8455f9658772b01fef970c",
+      "relevant": [
+        "Bain Capital Credit announces the closing of a $1.2 billion senior secured direct lending fund focused on U.S. middle-market companies, with commitments from institutional investors and a target hold size of $50–$150 million per loan.",
+        "Bain Capital’s CLO platform issues its seventh collateralized loan obligation, a $750 million AAA-rated vehicle backed by a diversified portfolio of broadly syndicated and middle-market leveraged loans.",
+        "Bain Capital Credit provides a $400 million asset-based revolving credit facility to a manufacturing company, secured by accounts receivable and inventory, as part of a refinancing and working capital optimization initiative."
+      ],
+      "notRelevant": [
+        "Bain Capital Private Equity acquires a majority stake in a European industrial software firm through a leveraged buyout — no lending, credit facility, or structured finance instrument is originated, managed, or discussed.",
+        "Bain Capital Infrastructure Partners sells its 49% stake in a U.K. offshore wind farm to a sovereign wealth fund — the transaction involves equity ownership transfer and operational assets, with no credit extension, debt issuance, or financing structuring by Bain."
+      ]
+    },
+    "Guggenheim": {
+      "promptHash": "75e0d387bd6e5ac8d37a7383bd544407b095d075",
+      "relevant": [
+        "Guggenheim Partners Investment Management announces the launch of a new $1.2 billion senior secured direct lending fund targeting middle-market companies, with capital commitments from institutional investors and a focus on first-lien, cash-flow-based loans.",
+        "Guggenheim Securities acts as co-manager on a $750 million CLO issuance backed by a diversified portfolio of U.S. corporate leveraged loans, marking its fifth CLO warehouse closure this year.",
+        "Guggenheim’s BDC, Guggenheim Strategic Opportunities Fund (GOF), reports a 12% quarter-over-quarter increase in net investment income driven by higher yields on its asset-based lending portfolio and successful refinancing of several warehouse facilities."
+      ],
+      "notRelevant": [
+        "Guggenheim Partners acquires a controlling stake in a U.S. solar energy developer through its infrastructure equity platform — the transaction is structured as an equity-only buyout with no debt financing, credit facility, or lender role for Guggenheim.",
+        "Guggenheim announces the sale of its majority-owned industrial real estate portfolio to a public REIT; the deal involves only equity transfer and does not include any retained financing, loan origination, or credit-related servicing arrangements."
+      ]
+    }
+  }
 }

@@ -1,4 +1,16 @@
 const DATA_URL = "data/news.json";
+const REPORT_ISSUE_URL = "https://github.com/Gallon00920/Credit_bearing_news_updater/issues/new";
+const REPORT_STORAGE_KEY = "news-dashboard-report-logs";
+const TRACKED_SECTORS = [
+  "software",
+  "private credit / direct lending",
+  "GP stakes",
+  "aircraft leasing",
+  "asset-backed lending",
+  "real estate",
+  "mortgage",
+  "CLO",
+];
 
 const uiText = {
   en: {
@@ -23,6 +35,18 @@ const uiText = {
     published: "Published",
     source: "Source",
     noDate: "No date",
+    report: "Report",
+    reportEyebrow: "Feedback",
+    reportTitle: "Report classification issue",
+    reportReason: "Reason",
+    wrongGp: "Wrong GP",
+    wrongSector: "Wrong sub-sector",
+    notCredit: "Not credit related",
+    correctGps: "Correct GP(s)",
+    correctSectors: "Correct sub-sector(s)",
+    reportDetails: "Additional reason",
+    cancelReport: "Cancel",
+    submitReport: "Submit report",
   },
   zh: {
     eyebrow: "私人信貸每日監察",
@@ -46,6 +70,18 @@ const uiText = {
     published: "發布",
     source: "來源",
     noDate: "無日期",
+    report: "回報",
+    reportEyebrow: "反饋",
+    reportTitle: "回報分類問題",
+    reportReason: "原因",
+    wrongGp: "GP 錯誤",
+    wrongSector: "子行業錯誤",
+    notCredit: "非信貸相關",
+    correctGps: "正確 GP",
+    correctSectors: "正確子行業",
+    reportDetails: "補充原因",
+    cancelReport: "取消",
+    submitReport: "提交回報",
   },
 };
 
@@ -53,6 +89,7 @@ let dashboardData = null;
 let selectedDate = null;
 let calendarMonth = null;
 let language = localStorage.getItem("news-dashboard-language") || "en";
+let reportingItem = null;
 
 const calendar = document.querySelector("#calendar");
 const newsList = document.querySelector("#newsList");
@@ -62,6 +99,12 @@ const lastUpdated = document.querySelector("#lastUpdated");
 const itemCount = document.querySelector("#itemCount");
 const retentionLabel = document.querySelector("#retentionLabel");
 const languageToggle = document.querySelector("#languageToggle");
+const reportDialog = document.querySelector("#reportDialog");
+const reportForm = document.querySelector("#reportForm");
+const reportArticleTitle = document.querySelector("#reportArticleTitle");
+const correctGps = document.querySelector("#correctGps");
+const correctSectors = document.querySelector("#correctSectors");
+const reportDetails = document.querySelector("#reportDetails");
 
 async function init() {
   dashboardData = await loadData();
@@ -88,6 +131,11 @@ function bindEvents() {
     language = language === "en" ? "zh" : "en";
     localStorage.setItem("news-dashboard-language", language);
     render();
+  });
+
+  reportForm.addEventListener("submit", submitReport);
+  document.querySelectorAll("[data-report-close]").forEach((button) => {
+    button.addEventListener("click", () => reportDialog.close());
   });
 }
 
@@ -245,8 +293,90 @@ function renderNewsCard(item) {
       <span class="source-meta">${uiText[language].published}: ${formatDate(item.publishedAt || item.date || selectedDate)}</span>
     </div>
     <div class="tags">${renderTags(item)}</div>
+    <button class="report-button" type="button">${uiText[language].report}</button>
   `;
+  card.querySelector(".report-button").addEventListener("click", () => openReportDialog(item));
   return card;
+}
+
+function openReportDialog(item) {
+  reportingItem = item;
+  reportArticleTitle.textContent = item.title || "";
+  reportDetails.value = "";
+  populateReportSelect(correctGps, dashboardData.scope?.gps || [], item.gps || []);
+  populateReportSelect(correctSectors, TRACKED_SECTORS, item.sectors || []);
+  reportForm.elements.reasonType.value = "wrong_gp";
+  if (typeof reportDialog.showModal === "function") {
+    reportDialog.showModal();
+  } else {
+    reportDialog.setAttribute("open", "");
+  }
+}
+
+function populateReportSelect(select, options, selectedValues) {
+  select.innerHTML = "";
+  options.forEach((option) => {
+    const node = document.createElement("option");
+    node.value = option;
+    node.textContent = option;
+    node.selected = selectedValues.includes(option);
+    select.append(node);
+  });
+}
+
+function submitReport(event) {
+  event.preventDefault();
+  if (!reportingItem) return;
+
+  const reasonType = reportForm.elements.reasonType.value;
+  const report = {
+    reportedAt: new Date().toISOString(),
+    reasonType,
+    reason: reportDetails.value.trim(),
+    itemId: reportingItem.id || "",
+    title: reportingItem.title || "",
+    url: reportingItem.url || "",
+    source: reportingItem.source || "",
+    publishedAt: reportingItem.publishedAt || "",
+    lede: reportingItem.lede || "",
+    articleText: reportingItem.articleExcerpt || `${reportingItem.title || ""}. ${reportingItem.lede || ""}`.trim(),
+    original: {
+      gps: reportingItem.gps || [],
+      sectors: reportingItem.sectors || [],
+    },
+    corrected: {
+      gps: selectedOptions(correctGps),
+      sectors: selectedOptions(correctSectors),
+      exclude: reasonType === "not_credit",
+    },
+  };
+
+  saveReportLocally(report);
+  window.open(githubIssueUrl(report), "_blank", "noopener,noreferrer");
+  reportDialog.close();
+}
+
+function selectedOptions(select) {
+  return Array.from(select.selectedOptions).map((option) => option.value);
+}
+
+function saveReportLocally(report) {
+  const existing = JSON.parse(localStorage.getItem(REPORT_STORAGE_KEY) || "[]");
+  existing.push(report);
+  localStorage.setItem(REPORT_STORAGE_KEY, JSON.stringify(existing));
+}
+
+function githubIssueUrl(report) {
+  const title = `News classification report: ${report.title}`.slice(0, 160);
+  const body = [
+    "Please review this report and, if valid, append it to `data/golden_cases.json`.",
+    "",
+    "```json",
+    JSON.stringify(report, null, 2),
+    "```",
+  ].join("\n");
+  const params = new URLSearchParams({ title, body });
+  return `${REPORT_ISSUE_URL}?${params.toString()}`;
 }
 
 function buildGpGroups(dateData) {

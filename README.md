@@ -37,6 +37,7 @@ Set your Qwen / DashScope key before running the full pipeline:
 
 ```bash
 export DASHSCOPE_API_KEY="YOUR_API_KEYS"
+export HF_TOKEN="YOUR_API_KEYS"
 python3 scripts/update_news.py
 ```
 
@@ -60,6 +61,13 @@ The public site is intended to stay fully static. News updates are handled by `.
 - The workflow uses repository secrets named `DASHSCOPE_API_KEY` and optional `HF_TOKEN`.
 - Cloudflare Pages, GitHub Pages, or another static host can redeploy automatically from GitHub after the workflow commits changed `data/news.json` or `data/semantic_queries.json`.
 
+Duplicate handling uses two layers:
+
+- Layer 1: normalized URL dedupe strips query strings and fragments, then treats exact canonical URL matches as the same article.
+- Layer 2: same-day content dedupe compares a stable title/lede fingerprint and high title-token similarity, so syndicated versions of the same story from different URLs can collapse into one item.
+- If duplicates are found, the updater keeps the higher-priority source where possible: SEC/company filings first, then Reuters/Bloomberg/FT/WSJ, then specialist credit trade press, then wires, then aggregators/syndications.
+- Replaced duplicates retain the lower-priority copy under `alternateSources` for auditability.
+
 ## Source And Update Tools
 
 The current updater is primarily a free RSS / Atom ingestion script, not a browser scraper. It uses `urllib.request` to call RSS, Atom, and Google News RSS search URLs, parses XML with `xml.etree.ElementTree`, scores the returned metadata, and writes selected items into `data/news.json`.
@@ -69,8 +77,9 @@ Current source method:
 - Google News RSS search: API-like RSS feed calls generated from `config/news_sources.json`.
 - GP-specific feeds: one or more search feeds for every required GP: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, NB, Apollo, Bain Capital, Guggenheim, and HSBC AM.
 - Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-backed lending, aircraft / aviation finance, software credit, and GP-stakes topics.
-- Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, Asset Securitization Report RSS, HousingWire RSS, and Private Equity Wire RSS.
-- Direct website scraping: not used for routine ingestion. If semantic scoring is enabled, the updater may make a simple free HTML fetch of an article URL to extract a meta description or first text words for scoring only; it does not bypass paywalls, submit forms, or run a headless browser.
+- Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, HousingWire RSS, and Private Equity Wire RSS.
+- HTML source parser: Asset Securitization Report is fetched as a normal HTML page from `https://asreport.americanbanker.com/feed` and parsed with a dedicated listing-page extractor because that URL does not return valid RSS/XML.
+- Direct article-page scraping: not used for routine ingestion. If semantic scoring is enabled, the updater may make a simple free HTML fetch of an article URL to extract a meta description or first text words for scoring only; it does not bypass paywalls, submit forms, or run a headless browser.
 - Paid/news API integrations: not used in this version.
 - Full article extraction: limited. Automated summaries are still based mainly on RSS title/source/snippet metadata; semantic scoring uses title + lede + first available 200 free article words when fetchable.
 
@@ -80,7 +89,16 @@ Preferred sources are configured in `config/news_sources.json` and include Reute
 
 The updater decides whether an item aligns with the mandate using keyword scoring first, then semantic scoring when the configured model dependencies and API key are available.
 
-Keyword scoring remains in place:
+GP and sub-sector categorization now combines keyword detection and LLM classification:
+
+- Keyword detection still scans `title + RSS description/lede + source` against `GP_ALIASES` and `SECTOR_KEYWORDS` in `scripts/update_news.py`.
+- Qwen also classifies the article into tracked GP(s), tracked sub-sector(s), and a possible non-credit exclusion flag.
+- The saved GP list is the union of keyword-detected GPs and LLM-detected GPs.
+- The saved sub-sector list is the union of keyword-detected sub-sectors and LLM-detected sub-sectors.
+- If Qwen says the article is about a tracked GP's non-credit business with no lending, financing, or structured-finance angle, the item is excluded before threshold scoring.
+- If Qwen is unavailable, the updater falls back to keyword-only tags.
+
+Keyword scoring remains in place after classification:
 
 - GP coverage: each required GP has its own bucket. An item can enter a GP bucket only if the GP or one of its aliases is detected in the title, source, or RSS snippet.
 - Credit relevance: items score higher when they mention credit, debt, loans, lending, financing, facilities, securitization, CLOs, BDCs, mortgages, or asset-backed finance.
@@ -95,9 +113,9 @@ Items below `minimumScore` are excluded. Within each GP bucket, the script sorts
 Semantic scoring:
 
 - Semantic scoring is part of the default `python3 scripts/update_news.py` pipeline.
-- The updater builds a canonical prose version of the keyword rules from the GP list, sub-sector list, credit context, region preference, and mega-manager guardrail.
-- LangChain calls Qwen through the `ChatTongyi` / DashScope integration, configured as `qwen-plus` by default, to rewrite that canonical rule into exactly three alternative prompts: plain-English, industry/trade-press, and deal-flow / transaction framing.
-- The exact prompt template is embedded in `scripts/update_news.py` and cached in `data/semantic_queries.json` so it does not regenerate unless the canonical rule changes.
+- LangChain calls Qwen through the `ChatTongyi` / DashScope integration, configured as `qwen-plus` by default, to generate HyDE-style examples for each tracked GP: three short descriptions of credit-relevant news and two short descriptions of non-relevant non-credit news.
+- The updater scores the article against the three generated credit-relevant examples for its fused GP tags.
+- The HyDE prompt template is embedded in `scripts/update_news.py` and cached in `data/semantic_queries.json` so it does not regenerate unless the prompt or precedent data changes.
 - With `semanticScoring.backend: "auto"`, the updater first tries PyLate / ColBERTv2 for MaxSim-style late-interaction scoring. If PyLate cannot be imported, it falls back to LangChain DashScope dense embeddings, which install cleanly on Python 3.13.
 - The candidate document is `title + lede + first ~200 free article words`.
 - The three raw semantic scores are averaged into `semanticScore`.
@@ -105,6 +123,17 @@ Semantic scoring:
 - The final decision score is `finalScore = keywordScore + semanticScore`.
 - If semantic scoring is active, the item must clear `semanticScoring.minimumFinalScore`; otherwise it uses `minimumScore`.
 - Each saved item includes `scoreBreakdown.keywordScore`, `scoreBreakdown.semanticScore`, and `scoreBreakdown.finalScore` for auditability.
+
+## Report Feedback
+
+Each news card includes a Report button for classification feedback.
+
+- Readers can report wrong GP, wrong sub-sector, or not credit related.
+- The report captures the article title, URL, source, publication date, lede/excerpt, original GP/sub-sector tags, corrected GP/sub-sector tags, and the reader's reason.
+- Because the public site is static, the browser cannot write directly to `data/golden_cases.json`. Instead, the report is stored in browser local storage and opens a prefilled GitHub Issue containing structured JSON.
+- After review, valid reports should be copied into `data/golden_cases.json`.
+- To append a reviewed report JSON locally, save the report body to a temporary JSON file and run `python3 scripts/add_golden_case.py path/to/report.json`, then commit `data/golden_cases.json`.
+- Future updater runs include those golden cases in the Qwen classification and HyDE prompts under precedential wrong/non-relevant cases.
 
 Semantic dependencies are optional because the base dashboard should still run without model infrastructure. For the full semantic and translation pipeline:
 
@@ -126,8 +155,10 @@ You can change the backend, model name, or API-key environment variable in `conf
 
 - `index.html`, `styles.css`, `src/app.js`: static dashboard UI.
 - `data/news.json`: retained daily news digests.
+- `data/golden_cases.json`: reviewed feedback cases used in future LLM classification and HyDE prompts.
 - `config/news_sources.json`: RSS search queries, source preferences, thresholds, and retention settings.
 - `scripts/update_news.py`: manual or scheduled update script.
+- `scripts/add_golden_case.py`: helper for appending reviewed report JSON into the golden-case file.
 - `requirements-semantic.txt`: Python 3.13-safe LangChain + DashScope dependencies for semantic scoring.
 - `requirements-colbert.txt`: optional PyLate / ColBERT dependency for token-wise semantic scoring.
 - `docs/news_methodology.md`: filtering logic, limitations, and next steps.

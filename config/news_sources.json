@@ -3,6 +3,12 @@
   "lookbackDays": 90,
   "maxItemsPerGp": 6,
   "minimumScore": 7,
+  "classification": {
+    "enabled": true,
+    "qwenProvider": "dashscope",
+    "qwenModel": "qwen-plus",
+    "qwenApiKeyEnv": "DASHSCOPE_API_KEY"
+  },
   "semanticScoring": {
     "enabled": true,
     "queryCachePath": "data/semantic_queries.json",
@@ -15,7 +21,7 @@
     "rawScoreMin": 0,
     "rawScoreMax": 30,
     "scoreScale": 12,
-    "minimumFinalScore": 12
+    "minimumFinalScore": 10
   },
   "translation": {
     "enabled": true,
@@ -81,16 +87,19 @@
       "url": "https://www.abfjournal.com/feed/"
     },
     {
-      "name": "Asset Securitization Report",
-      "url": "https://asreport.americanbanker.com/feed"
-    },
-    {
       "name": "HousingWire",
       "url": "https://www.housingwire.com/feed/"
     },
     {
       "name": "Private Equity Wire Credit",
       "url": "https://www.privateequitywire.co.uk/feed/"
+    }
+  ],
+  "htmlSources": [
+    {
+      "name": "Asset Securitization Report",
+      "url": "https://asreport.americanbanker.com/feed",
+      "parser": "asset_securitization_report"
     }
   ],
   "preferredSources": [

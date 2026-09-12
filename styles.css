@@ -459,6 +459,148 @@ h1 {
   background: #fbf3df;
 }
 
+.report-button {
+  margin-top: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--muted);
+  padding: 7px 10px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.report-button:hover {
+  border-color: var(--accent);
+  color: var(--accent-strong);
+}
+
+.report-dialog {
+  width: min(560px, calc(100vw - 28px));
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0;
+  color: var(--ink);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.report-dialog::backdrop {
+  background: rgba(32, 35, 31, 0.28);
+}
+
+.report-dialog form {
+  display: grid;
+  gap: 16px;
+  padding: 20px;
+}
+
+.report-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: start;
+}
+
+.report-heading h2 {
+  margin-top: 3px;
+  font-size: 20px;
+}
+
+.report-close {
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.report-article-title {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.report-dialog fieldset {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.report-dialog legend,
+.report-dialog label > span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.report-dialog label {
+  display: grid;
+  gap: 6px;
+}
+
+.report-dialog fieldset label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink);
+  font-size: 13px;
+}
+
+.report-dialog select,
+.report-dialog textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--ink);
+  padding: 8px;
+}
+
+.report-dialog select {
+  min-height: 94px;
+}
+
+.report-dialog textarea {
+  resize: vertical;
+  line-height: 1.45;
+}
+
+.report-actions {
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+}
+
+.primary-button,
+.secondary-button {
+  border-radius: 8px;
+  padding: 9px 12px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.primary-button {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.secondary-button {
+  border: 1px solid var(--line);
+  background: #ffffff;
+  color: var(--muted);
+}
+
 .empty-state {
   border: 1px dashed var(--line);
   border-radius: 8px;

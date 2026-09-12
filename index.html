@@ -59,6 +59,47 @@
       </section>
     </main>
 
+    <dialog id="reportDialog" class="report-dialog">
+      <form id="reportForm" method="dialog">
+        <div class="report-heading">
+          <div>
+            <p class="eyebrow" data-i18n="reportEyebrow">Feedback</p>
+            <h2 data-i18n="reportTitle">Report classification issue</h2>
+          </div>
+          <button class="report-close" type="button" data-report-close aria-label="Close">×</button>
+        </div>
+
+        <p id="reportArticleTitle" class="report-article-title"></p>
+
+        <fieldset>
+          <legend data-i18n="reportReason">Reason</legend>
+          <label><input type="radio" name="reasonType" value="wrong_gp" checked /> <span data-i18n="wrongGp">Wrong GP</span></label>
+          <label><input type="radio" name="reasonType" value="wrong_sector" /> <span data-i18n="wrongSector">Wrong sub-sector</span></label>
+          <label><input type="radio" name="reasonType" value="not_credit" /> <span data-i18n="notCredit">Not credit related</span></label>
+        </fieldset>
+
+        <label>
+          <span data-i18n="correctGps">Correct GP(s)</span>
+          <select id="correctGps" multiple></select>
+        </label>
+
+        <label>
+          <span data-i18n="correctSectors">Correct sub-sector(s)</span>
+          <select id="correctSectors" multiple></select>
+        </label>
+
+        <label>
+          <span data-i18n="reportDetails">Additional reason</span>
+          <textarea id="reportDetails" rows="4"></textarea>
+        </label>
+
+        <div class="report-actions">
+          <button type="button" class="secondary-button" data-report-close data-i18n="cancelReport">Cancel</button>
+          <button type="submit" class="primary-button" data-i18n="submitReport">Submit report</button>
+        </div>
+      </form>
+    </dialog>
+
     <script src="src/app.js" type="module"></script>
   </body>
 </html>

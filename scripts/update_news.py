@@ -28,23 +28,76 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "news.json"
 CONFIG_PATH = ROOT / "config" / "news_sources.json"
-SEMANTIC_PROMPT = """You are helping build a semantic search filter for an investment-news monitoring
-system. Below is a canonical description of a topic we track for private credit
-investors. Rewrite it into 3 alternative versions that describe the SAME topic
-using different vocabulary, framing, and level of technicality a financial
-journalist might use — so we can catch articles worded differently than our
-keyword list.
+GOLDEN_CASES_PATH = ROOT / "data" / "golden_cases.json"
+SEMANTIC_PROMPT = """{gp_name} is a multi-strategy alternative asset manager. We ONLY track news
+related to its credit / lending / structured-finance strategies (e.g. direct
+lending, BDCs, CLOs, asset-based finance) — NOT its private equity, infrastructure,
+or real estate equity strategies unless those specifically involve credit or
+financing activity.
 
-Rules:
+Write 3 short descriptions (1-2 sentences each) of what a credit-relevant news
+article about {gp_name} looks like, and 2 short descriptions of what a
+NON-relevant article about {gp_name} looks like (e.g. a PE buyout, an
+infrastructure asset sale, unrelated corporate news) — so we can distinguish them.
 
-- Do not introduce new topics or broaden scope beyond what is described.
-- Vary between: (a) a plain-English framing, (b) an industry/trade-press framing,
-  (c) a deal-flow / transaction framing.
-- Keep each version to 1-2 sentences.
-- Output as a numbered list, nothing else.
+Output format:
+RELEVANT:
+1. ...
+2. ...
+3. ...
+NOT RELEVANT:
+4. ...
+5. ...
 
-Canonical description:
-"{keyword_rule_in_prose}"
+PRECEDENTIAL NOT RELEVANT CASES:
+{bad_history_logs}
+"""
+CLASSIFICATION_PROMPT = """You are a classification assistant for an investment-news monitoring system.
+
+The portfolio only holds CREDIT-related exposure to the managers below — never
+their private equity, infrastructure, or real estate equity strategies unless
+those specifically involve lending, financing, or credit activity.
+
+TRACKED GPs:
+{gp_list}
+
+(Note: several of these are multi-strategy mega-funds. Only tag a GP if the
+article is about its credit / lending / structured-finance business — a
+buyout, infra asset sale, or unrelated corporate news about the SAME firm
+name must NOT be tagged.)
+
+TRACKED SUB-SECTORS:
+- software
+- private credit / direct lending
+- GP stakes
+- aircraft leasing
+- asset-backed lending
+- real estate (credit/financing angle only, not equity/development)
+- mortgage
+- CLO
+
+TASK:
+Read the article below. Determine:
+1. Which tracked GP(s), if any, it is about (credit-relevant activity only).
+2. Which tracked sub-sector(s), if any, it belongs to.
+3. Whether it should be EXCLUDED because it's about a tracked GP's non-credit
+   business (equity buyout, infrastructure, sports/media assets, etc.) with no
+   credit/financing angle.
+
+HERE ARE SOME PRECEDENTIAL WRONG CASES:
+{bad_history_logs}
+
+ARTICLE:
+Title: {article_title}
+Text: {article_body}
+
+Output valid JSON only, with this shape:
+{{
+  "gps": ["tracked GP name"],
+  "sectors": ["tracked sub-sector"],
+  "exclude": false,
+  "reason": "short explanation"
+}}
 """
 TRANSLATION_PROMPT = """Translate the following investment-news summary into Traditional Chinese.
 
@@ -135,6 +188,29 @@ CREDIT_CONTEXT = [
     "asset based",
 ]
 
+MONTH_INDEX = {
+    "january": 1,
+    "february": 2,
+    "march": 3,
+    "april": 4,
+    "may": 5,
+    "june": 6,
+    "july": 7,
+    "august": 8,
+    "september": 9,
+    "october": 10,
+    "november": 11,
+    "december": 12,
+}
+WARNED_KEYS: set[str] = set()
+
+
+def warn_once(key: str, message: str) -> None:
+    if key in WARNED_KEYS:
+        return
+    WARNED_KEYS.add(key)
+    print(message, file=sys.stderr)
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Update the private-credit news dashboard.")
@@ -160,17 +236,20 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
     date_key = date_key or dt.date.today().isoformat()
     config = load_json(CONFIG_PATH)
     data = load_json(DATA_PATH)
+    golden_cases = load_golden_cases()
     translator = make_chinese_translator(config)
 
     retention_days = int(config.get("retentionDays") or data.get("retentionDays") or 90)
     lookback_days = 1 if today_only else int(config.get("lookbackDays", 14))
-    semantic_scorer = make_semantic_scorer(config)
+    classifier = make_article_classifier(config, golden_cases)
+    semantic_scorer = make_semantic_scorer(config, golden_cases)
     selected_by_gp = select_items_by_gp(
         config,
         date_key,
         lookback_days,
         semantic_scorer,
         translator,
+        classifier,
         same_day_only=today_only,
     )
     selected_by_date = group_selected_by_date(selected_by_gp)
@@ -201,6 +280,12 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
 def load_json(path: Path) -> dict:
     with path.open(encoding="utf-8") as handle:
         return json.load(handle)
+
+
+def load_golden_cases() -> dict:
+    if GOLDEN_CASES_PATH.exists():
+        return load_json(GOLDEN_CASES_PATH)
+    return {"cases": []}
 
 
 def fetch_google_candidates(queries: list[str], lookback_days: int) -> list[dict]:
@@ -234,6 +319,98 @@ def fetch_rss_candidates(feeds: list[dict]) -> list[dict]:
         except ET.ParseError as exc:
             print(f"Warning: failed to parse RSS feed {feed.get('name', feed.get('url'))!r}: {exc}", file=sys.stderr)
     return dedupe(candidates)
+
+
+def fetch_html_candidates(sources: list[dict]) -> list[dict]:
+    candidates = []
+    for source in sources:
+        parser = source.get("parser")
+        if parser != "asset_securitization_report":
+            print(f"Warning: unknown HTML source parser {parser!r} for {source.get('name', source.get('url'))!r}", file=sys.stderr)
+            continue
+        candidates.extend(fetch_asset_securitization_report_candidates(source))
+    return dedupe(candidates)
+
+
+def fetch_asset_securitization_report_candidates(source: dict) -> list[dict]:
+    try:
+        with urllib.request.urlopen(request_for(source["url"]), timeout=20) as response:
+            charset = response.headers.get_content_charset() or "utf-8"
+            payload = response.read(1_000_000).decode(charset, errors="ignore")
+    except Exception as exc:
+        print(f"Warning: failed to fetch HTML source {source.get('name', source.get('url'))!r}: {exc}", file=sys.stderr)
+        return []
+    return parse_asset_securitization_report_html(payload, source)
+
+
+def parse_asset_securitization_report_html(html_payload: str, source: dict) -> list[dict]:
+    items = []
+    seen = set()
+    for match in re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', html_payload):
+        href = html.unescape(match.group(1)).strip()
+        title = clean_html(match.group(2))
+        if not is_probable_asr_article(href, title):
+            continue
+        url = urllib.parse.urljoin(source["url"], href)
+        normalized = normalize_url(url)
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+        context = html_payload[match.end() : match.end() + 1800]
+        description = extract_asr_description(context, title)
+        items.append(
+            {
+                "title": title,
+                "url": url,
+                "description": description,
+                "source": source.get("name", "Asset Securitization Report"),
+                "publishedAt": parse_asr_listing_date(context),
+            }
+        )
+    return items
+
+
+def is_probable_asr_article(href: str, title: str) -> bool:
+    if len(title) < 24:
+        return False
+    lowered_title = title.lower()
+    if lowered_title.startswith(("image:", "subscribe", "login", "load more")):
+        return False
+    lowered_href = href.lower()
+    if any(token in lowered_href for token in [".jpg", ".jpeg", ".png", "#", "javascript:", "mailto:"]):
+        return False
+    return "asreport.americanbanker.com" in lowered_href or href.startswith("/")
+
+
+def extract_asr_description(context: str, title: str) -> str:
+    text = clean_html(context)
+    text = re.sub(r"\bBy\s+.+?(?:Editor|Reporter|Capital Markets Editor)\b", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b\d+h ago\b", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?\b", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if text.lower().startswith(title.lower()):
+        text = text[len(title) :].strip()
+    return textwrap.shorten(text or title, width=520, placeholder="...")
+
+
+def parse_asr_listing_date(context: str) -> str:
+    text = clean_html(context)
+    if re.search(r"\b\d+h ago\b", text, flags=re.IGNORECASE):
+        return dt.date.today().isoformat()
+    match = re.search(
+        r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:,\s+(\d{4}))?\b",
+        text,
+    )
+    if not match:
+        return dt.date.today().isoformat()
+    month = MONTH_INDEX[match.group(1).lower()]
+    day = int(match.group(2))
+    year = int(match.group(3) or dt.date.today().year)
+    parsed = dt.date(year, month, day)
+    today = dt.date.today()
+    if not match.group(3) and parsed > today + dt.timedelta(days=7):
+        parsed = dt.date(year - 1, month, day)
+    return parsed.isoformat()
 
 
 def google_news_rss_url(query: str, lookback_days: int) -> str:
@@ -376,6 +553,7 @@ def select_items_by_gp(
     lookback_days: int,
     semantic_scorer: "SemanticScorer | None",
     translator: "ChineseTranslator | None",
+    classifier: "ArticleClassifier | None",
     same_day_only: bool = False,
 ) -> dict[str, list[dict]]:
     gp_order = config.get("gps") or list(GP_ALIASES)
@@ -395,11 +573,13 @@ def select_items_by_gp(
             max_items,
             semantic_scorer,
             translator,
+            classifier,
             same_day_only=same_day_only,
         )
 
     general_candidates = fetch_google_candidates(config.get("sourceQueries", []), lookback_days)
     general_candidates = merge_items(general_candidates, fetch_rss_candidates(config.get("rssFeeds", [])))
+    general_candidates = merge_items(general_candidates, fetch_html_candidates(config.get("htmlSources", [])))
     general_selected = select_items(
         general_candidates,
         config,
@@ -409,6 +589,7 @@ def select_items_by_gp(
         max_items,
         semantic_scorer,
         translator,
+        classifier,
         same_day_only=same_day_only,
     )
     for item in general_selected:
@@ -428,6 +609,7 @@ def select_items(
     max_items: int,
     semantic_scorer: "SemanticScorer | None",
     translator: "ChineseTranslator | None",
+    classifier: "ArticleClassifier | None",
     same_day_only: bool = False,
 ) -> list[dict]:
     scored = []
@@ -440,7 +622,9 @@ def select_items(
             continue
         if not same_day_only and (published < cutoff or published > tomorrow):
             continue
-        enriched = enrich_item(item, config, focus_gp, semantic_scorer, translator)
+        enriched = enrich_item(item, config, focus_gp, semantic_scorer, translator, classifier)
+        if enriched.get("excludedByClassifier"):
+            continue
         if focus_gp and focus_gp not in enriched["gps"]:
             continue
         threshold = score_threshold(config, semantic_scorer)
@@ -457,13 +641,19 @@ def enrich_item(
     focus_gp: str | None,
     semantic_scorer: "SemanticScorer | None",
     translator: "ChineseTranslator | None",
+    classifier: "ArticleClassifier | None",
 ) -> dict:
-    if semantic_scorer and not item.get("articleText"):
+    if (semantic_scorer or classifier) and not item.get("articleText"):
         item = dict(item)
         item["articleText"] = fetch_article_text(item["url"])
     blob = f"{item['title']} {item.get('description', '')} {item.get('source', '')}".lower()
-    gps = match_terms(blob, GP_ALIASES)
-    sectors = match_terms(blob, SECTOR_KEYWORDS)
+    keyword_gps = match_terms(blob, GP_ALIASES)
+    keyword_sectors = match_terms(blob, SECTOR_KEYWORDS)
+    llm_classification = classifier.classify(item) if classifier else default_classification()
+    llm_gps = valid_ordered_labels(llm_classification.get("gps", []), config.get("gps") or list(GP_ALIASES))
+    llm_sectors = valid_ordered_labels(llm_classification.get("sectors", []), list(SECTOR_KEYWORDS))
+    gps = union_ordered(config.get("gps") or list(GP_ALIASES), keyword_gps, llm_gps)
+    sectors = union_ordered(list(SECTOR_KEYWORDS), keyword_sectors, llm_sectors)
     region = detect_region(blob)
     source_bonus = source_score(item.get("source", ""), config.get("preferredSources", []))
     keyword_score = source_bonus + len(gps) * 4 + len(sectors) * 3
@@ -481,10 +671,13 @@ def enrich_item(
             keyword_score += 4
         else:
             keyword_score -= 4
-    semantic_score = semantic_scorer.score(item) if semantic_scorer else 0
+    semantic_item = dict(item)
+    semantic_item["gps"] = gps
+    semantic_score = semantic_scorer.score(semantic_item) if semantic_scorer else 0
     final_score = keyword_score + semantic_score
 
     summary = summarize(item)
+    article_excerpt = document_for_semantic_scoring(item)
     summary_zh = item.get("summaryZh") or ""
     if not summary_zh.strip() or summary_zh.strip() == MISSING_ZH_SUMMARY:
         summary_zh = translate_summary(summary, translator)
@@ -498,10 +691,27 @@ def enrich_item(
         "source": item.get("source") or "Google News",
         "publishedAt": item["publishedAt"],
         "lede": item.get("description", ""),
+        "articleExcerpt": article_excerpt,
+        "contentFingerprint": content_fingerprint(
+            {
+                "title": item["title"],
+                "description": item.get("description", ""),
+                "publishedAt": item["publishedAt"],
+            }
+        ),
         "region": region,
         "gps": gps,
         "sectors": sectors,
         "curation": "rss_filter",
+        "excludedByClassifier": bool(llm_classification.get("exclude")),
+        "classificationBreakdown": {
+            "keywordGps": keyword_gps,
+            "llmGps": llm_gps,
+            "keywordSectors": keyword_sectors,
+            "llmSectors": llm_sectors,
+            "llmExclude": bool(llm_classification.get("exclude")),
+            "llmReason": llm_classification.get("reason", ""),
+        },
         "score": final_score,
         "scoreBreakdown": {
             "keywordScore": keyword_score,
@@ -513,7 +723,7 @@ def enrich_item(
 
 
 def score_threshold(config: dict, semantic_scorer: "SemanticScorer | None") -> int:
-    if semantic_scorer:
+    if semantic_scorer and not getattr(semantic_scorer, "failed", False):
         return int(config.get("semanticScoring", {}).get("minimumFinalScore") or config.get("minimumScore", 7))
     return int(config.get("minimumScore", 7))
 
@@ -658,13 +868,123 @@ def normalize_existing_gp_buckets(date_digest: dict) -> dict[str, list[dict]]:
 
 def merge_items(existing: list[dict], incoming: list[dict]) -> list[dict]:
     merged = list(existing)
-    existing_urls = {normalize_url(item["url"]) for item in merged}
     for item in incoming:
-        url = normalize_url(item["url"])
-        if url not in existing_urls:
+        duplicate_index = find_duplicate_index(merged, item)
+        if duplicate_index is None:
             merged.append(item)
-            existing_urls.add(url)
+            continue
+        if should_replace_duplicate(merged[duplicate_index], item):
+            merged[duplicate_index] = merge_duplicate_metadata(merged[duplicate_index], item)
     return merged
+
+
+def find_duplicate_index(items: list[dict], candidate: dict) -> int | None:
+    candidate_url = normalize_url(candidate.get("url", ""))
+    candidate_fingerprint = content_fingerprint(candidate)
+    candidate_date = candidate.get("publishedAt") or candidate.get("date")
+
+    for index, item in enumerate(items):
+        if candidate_url and normalize_url(item.get("url", "")) == candidate_url:
+            return index
+        if candidate_date and candidate_date != (item.get("publishedAt") or item.get("date")):
+            continue
+        item_fingerprint = item.get("contentFingerprint") or content_fingerprint(item)
+        if candidate_fingerprint and item_fingerprint and candidate_fingerprint == item_fingerprint:
+            return index
+        if title_similarity(item.get("title", ""), candidate.get("title", "")) >= 0.88:
+            return index
+    return None
+
+
+def should_replace_duplicate(existing: dict, candidate: dict) -> bool:
+    existing_priority = source_priority(existing.get("source", ""))
+    candidate_priority = source_priority(candidate.get("source", ""))
+    if candidate_priority != existing_priority:
+        return candidate_priority > existing_priority
+    existing_score = existing.get("score") or existing.get("scoreBreakdown", {}).get("finalScore", 0)
+    candidate_score = candidate.get("score") or candidate.get("scoreBreakdown", {}).get("finalScore", 0)
+    return candidate_score > existing_score
+
+
+def merge_duplicate_metadata(existing: dict, candidate: dict) -> dict:
+    merged = dict(candidate)
+    alternate_sources = list(existing.get("alternateSources", []))
+    alternate = {
+        "source": existing.get("source", ""),
+        "url": existing.get("url", ""),
+        "title": existing.get("title", ""),
+    }
+    if alternate["url"] and normalize_url(alternate["url"]) != normalize_url(candidate.get("url", "")):
+        alternate_sources.append(alternate)
+    for source in candidate.get("alternateSources", []):
+        if source not in alternate_sources:
+            alternate_sources.append(source)
+    if alternate_sources:
+        merged["alternateSources"] = alternate_sources
+    return merged
+
+
+def content_fingerprint(item: dict) -> str:
+    title_tokens = significant_tokens(item.get("title", ""))
+    body_tokens = significant_tokens(item.get("description") or item.get("lede") or item.get("summary") or item.get("articleExcerpt") or "")
+    tokens = title_tokens[:14] + body_tokens[:18]
+    if len(tokens) < 4:
+        return ""
+    date_key = (item.get("publishedAt") or item.get("date") or "")[:10]
+    return hashlib.sha1(f"{date_key}:{' '.join(tokens)}".encode("utf-8")).hexdigest()[:16]
+
+
+def title_similarity(left: str, right: str) -> float:
+    left_tokens = set(significant_tokens(left))
+    right_tokens = set(significant_tokens(right))
+    if not left_tokens or not right_tokens:
+        return 0
+    return len(left_tokens & right_tokens) / len(left_tokens | right_tokens)
+
+
+def significant_tokens(value: str) -> list[str]:
+    stopwords = {
+        "the",
+        "a",
+        "an",
+        "and",
+        "or",
+        "of",
+        "to",
+        "in",
+        "for",
+        "on",
+        "with",
+        "by",
+        "from",
+        "as",
+        "at",
+        "is",
+        "are",
+        "its",
+        "new",
+        "news",
+        "says",
+        "said",
+        "update",
+    }
+    tokens = re.findall(r"[a-z0-9]+", clean_html(value).lower())
+    return [token for token in tokens if len(token) > 2 and token not in stopwords]
+
+
+def source_priority(source: str) -> int:
+    lowered = source.lower()
+    priority_groups = [
+        ("sec", "edgar", "company filing"),
+        ("reuters", "bloomberg", "financial times", "wall street journal"),
+        ("asset securitization report", "creditflux", "structured credit investor", "private credit daily", "abl advisor"),
+        ("business wire", "pr newswire", "globenewswire"),
+        ("yahoo", "marketscreener", "tipranks", "benzinga", "google news"),
+    ]
+    for index, group in enumerate(priority_groups):
+        if any(token in lowered for token in group):
+            return len(priority_groups) - index
+    return 2
 
 
 def flatten_unique(by_gp: dict[str, list[dict]]) -> list[dict]:
@@ -675,12 +995,23 @@ def config_gp_order(data: dict) -> list[str]:
     return data.get("scope", {}).get("gps") or list(GP_ALIASES)
 
 
-def make_semantic_scorer(config: dict) -> "SemanticScorer | None":
+def make_article_classifier(config: dict, golden_cases: dict) -> "ArticleClassifier | None":
+    classification_config = config.get("classification", {})
+    if not classification_config.get("enabled", True):
+        return None
+    try:
+        return ArticleClassifier(config, golden_cases)
+    except Exception as exc:
+        print(f"Warning: LLM classification unavailable; falling back to keyword tags: {exc}", file=sys.stderr)
+        return None
+
+
+def make_semantic_scorer(config: dict, golden_cases: dict | None = None) -> "SemanticScorer | None":
     semantic_config = config.get("semanticScoring", {})
     if not semantic_config.get("enabled", True):
         return None
     try:
-        return SemanticScorer(config)
+        return SemanticScorer(config, golden_cases or {"cases": []})
     except Exception as exc:
         print(f"Warning: semantic scoring unavailable; falling back to keyword scoring: {exc}", file=sys.stderr)
         return None
@@ -708,23 +1039,79 @@ class ChineseTranslator:
         self.llm = make_qwen_chat_model(self.qwen_config, "Chinese translation")
 
     def translate(self, summary: str) -> str:
-        response = self.llm.invoke(TRANSLATION_PROMPT.format(summary=summary))
-        translated = getattr(response, "content", str(response)).strip()
-        return translated or MISSING_ZH_SUMMARY
+        try:
+            response = self.llm.invoke(TRANSLATION_PROMPT.format(summary=summary))
+            translated = getattr(response, "content", str(response)).strip()
+            return translated or MISSING_ZH_SUMMARY
+        except Exception as exc:
+            warn_once("translation_runtime", f"Warning: Chinese translation failed during runtime; using placeholders: {exc}")
+            return MISSING_ZH_SUMMARY
+
+
+class ArticleClassifier:
+    def __init__(self, config: dict, golden_cases: dict):
+        self.config = config
+        self.golden_cases = golden_cases
+        classification_config = config.get("classification", {})
+        semantic_config = config.get("semanticScoring", {})
+        self.qwen_config = {
+            "qwenModel": classification_config.get("qwenModel") or semantic_config.get("qwenModel", "qwen-plus"),
+            "qwenApiKeyEnv": classification_config.get("qwenApiKeyEnv") or semantic_config.get("qwenApiKeyEnv", "DASHSCOPE_API_KEY"),
+        }
+        self.llm = make_qwen_chat_model(self.qwen_config, "GP and sector classification")
+
+    def classify(self, item: dict) -> dict:
+        article_body = document_for_semantic_scoring(item)
+        prompt = CLASSIFICATION_PROMPT.format(
+            gp_list="\n".join(f"- {gp}" for gp in self.config.get("gps", list(GP_ALIASES))),
+            bad_history_logs=format_golden_cases(self.golden_cases, limit=8),
+            article_title=item.get("title", ""),
+            article_body=article_body,
+        )
+        try:
+            response = self.llm.invoke(prompt)
+            content = getattr(response, "content", str(response))
+        except Exception as exc:
+            warn_once("classification_runtime", f"Warning: LLM classification failed during runtime; using keyword tags: {exc}")
+            return default_classification(reason="LLM classification unavailable at runtime")
+        try:
+            payload = parse_json_object(content)
+        except ValueError:
+            return default_classification(reason="LLM classification returned invalid JSON")
+        return {
+            "gps": payload.get("gps", []) if isinstance(payload.get("gps", []), list) else [],
+            "sectors": payload.get("sectors", []) if isinstance(payload.get("sectors", []), list) else [],
+            "exclude": bool(payload.get("exclude")),
+            "reason": str(payload.get("reason", "")),
+        }
 
 
 class SemanticScorer:
-    def __init__(self, config: dict):
+    def __init__(self, config: dict, golden_cases: dict):
         self.config = config
         self.semantic_config = config.get("semanticScoring", {})
-        self.queries = self.load_or_generate_queries()
+        self.golden_cases = golden_cases
+        self.query_cache = self.load_query_cache()
         self.backend = self.load_backend()
+        self.failed = False
 
     def score(self, item: dict) -> float:
         document = document_for_semantic_scoring(item)
-        if not document or not self.queries:
+        gps = item.get("gps") or []
+        try:
+            queries = self.queries_for_gps(gps)
+        except Exception as exc:
+            self.failed = True
+            warn_once("semantic_query_runtime", f"Warning: semantic query generation failed during runtime; using keyword score only: {exc}")
             return 0
-        raw_scores = [self.backend.score(query, document) for query in self.queries]
+        if not document or not queries:
+            return 0
+        try:
+            raw_scores = [self.backend.score(query, document) for query in queries]
+        except Exception as exc:
+            self.failed = True
+            warn_once("semantic_score_runtime", f"Warning: semantic scoring failed during runtime; using keyword score only: {exc}")
+            return 0
         avg_raw = sum(raw_scores) / len(raw_scores)
         return round(self.normalize_score(avg_raw), 2)
 
@@ -750,45 +1137,48 @@ class SemanticScorer:
             return DashScopeDenseBackend(self.semantic_config)
         raise RuntimeError(f"Unknown semantic scoring backend: {backend_name}")
 
-    def load_or_generate_queries(self) -> list[str]:
+    def load_query_cache(self) -> dict:
         cache_path = ROOT / self.semantic_config.get("queryCachePath", "data/semantic_queries.json")
-        canonical = canonical_requirement_text(self.config)
-        canonical_hash = hashlib.sha1(canonical.encode("utf-8")).hexdigest()
-        cached = load_json(cache_path) if cache_path.exists() else {}
-        if cached.get("canonicalHash") == canonical_hash and cached.get("queries"):
-            return cached["queries"]
+        if cache_path.exists():
+            return load_json(cache_path)
+        return {}
 
-        queries = generate_semantic_queries_with_qwen(canonical, self.semantic_config)
-        cache_path.parent.mkdir(parents=True, exist_ok=True)
-        cache_path.write_text(
-            json.dumps({"canonicalHash": canonical_hash, "queries": queries}, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
+    def queries_for_gps(self, gps: list[str]) -> list[str]:
+        active_gps = gps or ["Portfolio"]
+        queries: list[str] = []
+        for gp in active_gps:
+            queries.extend(self.load_or_generate_hyde_queries(gp))
         return queries
 
+    def load_or_generate_hyde_queries(self, gp: str) -> list[str]:
+        cache_path = ROOT / self.semantic_config.get("queryCachePath", "data/semantic_queries.json")
+        bad_history_logs = format_golden_cases(self.golden_cases, gp=gp, limit=6)
+        prompt = SEMANTIC_PROMPT.format(gp_name=gp, bad_history_logs=bad_history_logs)
+        prompt_hash = hashlib.sha1(prompt.encode("utf-8")).hexdigest()
+        cached_by_gp = self.query_cache.setdefault("hydeByGp", {})
+        cached = cached_by_gp.get(gp, {})
+        if cached.get("promptHash") == prompt_hash and cached.get("relevant"):
+            return cached["relevant"]
 
-def canonical_requirement_text(config: dict) -> str:
-    gps = ", ".join(config.get("gps") or list(GP_ALIASES))
-    sectors = ", ".join(SECTOR_KEYWORDS)
-    return (
-        "Investment news for private credit investors with a primarily US focus and selective Europe coverage. "
-        f"Track only credit-related activity involving these GPs or their credit platforms: {gps}. "
-        f"Relevant sub-sectors are {sectors}. Relevant articles include direct lending, private debt, BDC activity, "
-        "CLOs, asset-backed lending or securitization, mortgage and real estate credit, aircraft or aviation finance, "
-        "software borrower credit stress, GP stakes or GP-led liquidity solutions, financing transactions, fund raises, "
-        "portfolio stress, valuation marks, defaults, restructurings, or material manager strategy changes."
-    )
+        relevant, not_relevant = generate_hyde_queries_with_qwen(prompt, self.semantic_config)
+        cached_by_gp[gp] = {
+            "promptHash": prompt_hash,
+            "relevant": relevant,
+            "notRelevant": not_relevant,
+        }
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(json.dumps(self.query_cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        return relevant
 
 
-def generate_semantic_queries_with_qwen(canonical: str, semantic_config: dict) -> list[str]:
-    prompt = SEMANTIC_PROMPT.format(keyword_rule_in_prose=canonical)
+def generate_hyde_queries_with_qwen(prompt: str, semantic_config: dict) -> tuple[list[str], list[str]]:
     llm = make_qwen_chat_model(semantic_config, "semantic query generation")
     response = llm.invoke(prompt)
     content = getattr(response, "content", str(response))
-    queries = parse_numbered_list(content)
-    if len(queries) != 3:
-        raise RuntimeError(f"Expected 3 Qwen semantic query rewrites, got {len(queries)}")
-    return queries
+    relevant, not_relevant = parse_hyde_sections(content)
+    if len(relevant) != 3:
+        raise RuntimeError(f"Expected 3 Qwen HyDE relevant descriptions, got {len(relevant)}")
+    return relevant, not_relevant[:2]
 
 
 def make_qwen_chat_model(qwen_config: dict, purpose: str):
@@ -893,13 +1283,89 @@ class DashScopeDenseBackend:
         return cosine_similarity(query_vector, document_vector)
 
 
-def parse_numbered_list(content: str) -> list[str]:
-    queries = []
+def default_classification(reason: str = "") -> dict:
+    return {"gps": [], "sectors": [], "exclude": False, "reason": reason}
+
+
+def valid_ordered_labels(labels: list[str], allowed: list[str]) -> list[str]:
+    normalized = {str(label).strip().lower(): str(label).strip() for label in allowed}
+    matched = []
+    for label in labels:
+        key = str(label).strip().lower()
+        if key in normalized:
+            matched.append(normalized[key])
+    return union_ordered(allowed, matched)
+
+
+def union_ordered(order: list[str], *label_lists: list[str]) -> list[str]:
+    selected = {label for labels in label_lists for label in labels}
+    ordered = [label for label in order if label in selected]
+    extras = [label for label in selected if label not in ordered]
+    return ordered + sorted(extras)
+
+
+def parse_json_object(content: str) -> dict:
+    cleaned = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.IGNORECASE | re.MULTILINE).strip()
+    try:
+        payload = json.loads(cleaned)
+    except json.JSONDecodeError:
+        match = re.search(r"\{.*\}", cleaned, flags=re.DOTALL)
+        if not match:
+            raise ValueError("No JSON object found")
+        payload = json.loads(match.group(0))
+    if not isinstance(payload, dict):
+        raise ValueError("JSON payload is not an object")
+    return payload
+
+
+def parse_hyde_sections(content: str) -> tuple[list[str], list[str]]:
+    relevant = []
+    not_relevant = []
+    active = None
     for line in content.splitlines():
+        lowered = line.strip().lower()
+        if lowered.startswith("relevant"):
+            active = "relevant"
+            continue
+        if lowered.startswith("not relevant"):
+            active = "not_relevant"
+            continue
         cleaned = re.sub(r"^\s*\d+[\).\s-]+", "", line).strip()
-        if cleaned:
-            queries.append(cleaned)
-    return queries[:3]
+        if not cleaned:
+            continue
+        if active == "relevant":
+            relevant.append(cleaned)
+        elif active == "not_relevant":
+            not_relevant.append(cleaned)
+    return relevant[:3], not_relevant[:2]
+
+
+def format_golden_cases(golden_cases: dict, gp: str | None = None, limit: int = 8) -> str:
+    cases = golden_cases.get("cases", []) if isinstance(golden_cases, dict) else []
+    selected = []
+    for case in cases:
+        if gp and gp != "Portfolio":
+            original_gps = case.get("original", {}).get("gps", [])
+            corrected_gps = case.get("corrected", {}).get("gps", [])
+            if gp not in original_gps and gp not in corrected_gps:
+                continue
+        selected.append(case)
+        if len(selected) >= limit:
+            break
+    if not selected:
+        return "None yet."
+    lines = []
+    for index, case in enumerate(selected, start=1):
+        original = case.get("original", {})
+        corrected = case.get("corrected", {})
+        lines.append(
+            f"{index}. Title: {case.get('title', '')}\n"
+            f"   Article excerpt: {textwrap.shorten(case.get('articleText', ''), width=520, placeholder='...')}\n"
+            f"   Wrong answer: GP={original.get('gps', [])}; sectors={original.get('sectors', [])}\n"
+            f"   Correct answer: GP={corrected.get('gps', [])}; sectors={corrected.get('sectors', [])}; "
+            f"exclude={corrected.get('exclude', False)}; reason={case.get('reason', '')}"
+        )
+    return "\n".join(lines)
 
 
 def cosine_similarity(left: list[float], right: list[float]) -> float:
