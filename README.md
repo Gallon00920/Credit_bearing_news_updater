@@ -27,10 +27,10 @@ To preview without writing:
 python3 scripts/update_news.py --dry-run
 ```
 
-For the hourly same-day update:
+For the hourly recent-window update:
 
 ```bash
-python3 scripts/update_news.py --today-only
+python3 scripts/update_news.py --recent-days 3
 ```
 
 Set your Qwen / DashScope key before running the full pipeline:
@@ -56,8 +56,11 @@ The visible calendar always covers the latest 90 calendar days ending today. The
 
 The public site is intended to stay fully static. News updates are handled by `.github/workflows/update-news.yml`, which runs the Python updater in GitHub Actions and commits changed JSON data back to the repository.
 
-- Hourly: runs `python3 scripts/update_news.py --today-only`. This fetches current sources, admits only articles whose `publishedAt` date is today, dedupes by normalized URL, applies keyword + semantic scoring, translates new Chinese summaries, and merges only into today's bucket.
+- Hourly: runs `python3 scripts/update_news.py --recent-days 3`. This fetches current sources, admits only articles whose `publishedAt` date is within the latest three calendar days, dedupes by normalized URL, applies keyword + semantic scoring, translates new Chinese summaries, and merges only into those recent date buckets.
+- Manual today refresh: the top-right `Refresh Today` button opens the GitHub Actions workflow page where an authorized repository user can choose `Run workflow` with mode `today`; that runs `python3 scripts/update_news.py --recent-days 1`.
 - Full-window updates can still be run manually with `python3 scripts/update_news.py` when you want to refresh the rolling 90-day archive, backfill missing Chinese summaries, or capture late-indexed older articles.
+- The top-right `Full 90-Day Refresh` button shows a warning first, then opens the GitHub Actions workflow page where an authorized repository user can choose `Run workflow` with mode `full`.
+- GitHub Actions uses `concurrency.cancel-in-progress: false`, so a manual today run does not cancel or overwrite the automatic hourly recent-window job. If another refresh is already running, GitHub queues the next run.
 - The workflow uses repository secrets named `DASHSCOPE_API_KEY` and optional `HF_TOKEN`.
 - Cloudflare Pages, GitHub Pages, or another static host can redeploy automatically from GitHub after the workflow commits changed `data/news.json` or `data/semantic_queries.json`.
 
@@ -77,8 +80,8 @@ Current source method:
 - Google News RSS search: API-like RSS feed calls generated from `config/news_sources.json`.
 - GP-specific feeds: one or more search feeds for every required GP: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, NB, Apollo, Bain Capital, Guggenheim, and HSBC AM.
 - Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-backed lending, aircraft / aviation finance, software credit, and GP-stakes topics.
-- Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, HousingWire RSS, and Private Equity Wire RSS.
-- HTML source parser: Asset Securitization Report is fetched as a normal HTML page from `https://asreport.americanbanker.com/feed` and parsed with a dedicated listing-page extractor because that URL does not return valid RSS/XML.
+- Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, HousingWire RSS, Private Equity Wire RSS, Connect Money topic feeds for private debt / CLOs / business lending / alternatives / real estate, and Mortgage News Daily RSS feeds for mortgage industry news, MBS commentary, and full news.
+- HTML source parsers: Asset Securitization Report is fetched as a normal HTML page from `https://asreport.americanbanker.com/feed` and parsed with a dedicated listing-page extractor because that URL does not return valid RSS/XML. A generic listing-page extractor also reads public article indexes from ABL Advisor, Structured Credit Investor, and Inside Mortgage Finance.
 - Direct article-page scraping: not used for routine ingestion. If semantic scoring is enabled, the updater may make a simple free HTML fetch of an article URL to extract a meta description or first text words for scoring only; it does not bypass paywalls, submit forms, or run a headless browser.
 - Paid/news API integrations: not used in this version.
 - Full article extraction: limited. Automated summaries are still based mainly on RSS title/source/snippet metadata; semantic scoring uses title + lede + first available 200 free article words when fetchable.
@@ -108,7 +111,7 @@ Keyword scoring remains in place after classification:
 - Source quality: preferred institutional, trade, filing, wire, and manager sources receive a score bonus.
 - Recency: searches are bounded by the configured lookback window, currently 90 days, and storage/display is bounded by the rolling 90-day window.
 
-Items below `minimumScore` are excluded. Within each GP bucket, the script sorts by relevance score and publication date, then keeps up to `maxItemsPerGp`.
+Items below `minimumScore`, currently `5`, are excluded when semantic scoring is unavailable. Within each GP bucket, the script sorts by relevance score and publication date, then keeps up to `maxItemsPerGp`.
 
 Semantic scoring:
 
@@ -121,7 +124,7 @@ Semantic scoring:
 - The three raw semantic scores are averaged into `semanticScore`.
 - `semanticScore` is normalized from the backend's raw range onto the same approximate point scale as the keyword score, currently up to 12 points.
 - The final decision score is `finalScore = keywordScore + semanticScore`.
-- If semantic scoring is active, the item must clear `semanticScoring.minimumFinalScore`; otherwise it uses `minimumScore`.
+- If semantic scoring is active, the item must clear `semanticScoring.minimumFinalScore`, currently `7`; otherwise it uses `minimumScore`.
 - Each saved item includes `scoreBreakdown.keywordScore`, `scoreBreakdown.semanticScore`, and `scoreBreakdown.finalScore` for auditability.
 
 ## Report Feedback

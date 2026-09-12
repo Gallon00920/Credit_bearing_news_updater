@@ -7,11 +7,11 @@ The dashboard is static and reads from `data/news.json`. It does not refresh by 
 News updates are automated through GitHub Actions:
 
 ```bash
-python3 scripts/update_news.py --today-only
+python3 scripts/update_news.py --recent-days 3
 python3 scripts/update_news.py
 ```
 
-The hourly job runs `--today-only`, which fetches current sources but only admits articles published today. The daily night job runs the full command, refreshes the rolling 90-day window, backfills missing Chinese summaries, and prunes old dates. Each date contains separate buckets for every required GP: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, NB, Apollo, Bain Capital, Guggenheim, and HSBC AM.
+The hourly job runs `--recent-days 3`, which fetches current sources but only admits articles published in the latest three calendar days. The full command can still be run manually to refresh the rolling 90-day window, backfill missing Chinese summaries, and prune old dates. Each date contains separate buckets for every required GP: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, NB, Apollo, Bain Capital, Guggenheim, and HSBC AM.
 
 ## Sources
 
@@ -21,7 +21,8 @@ The current script uses Google News RSS searches because they require no paid AP
 - Asset-backed lending, securitization, mortgage, real estate credit, aircraft / aviation finance, and CLOs.
 - The requested GP list: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, Neuberger Berman / NB, Apollo, Bain Capital, Guggenheim, and HSBC Asset Management.
 - A US-first mix with standing Europe queries. The interface no longer shows a US / Europe percentage box; the region remains visible on each article card.
-- Asset Securitization Report is handled by a dedicated HTML listing-page parser because its configured `/feed` URL returns HTML rather than valid RSS/XML.
+- Direct RSS / Atom feeds include SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire, Business Wire, ABF Journal, HousingWire, Private Equity Wire, Connect Money topic feeds for private debt / CLOs / business lending / alternatives / real estate, and Mortgage News Daily mortgage / MBS feeds.
+- HTML source parsers cover Asset Securitization Report, ABL Advisor, Structured Credit Investor, and Inside Mortgage Finance. ASR uses a dedicated parser because its configured `/feed` URL returns HTML rather than valid RSS/XML; the others use a generic public listing-page extractor.
 
 The seeded first digest was manually curated from recent source material including WSJ, Reuters / MarketScreener, SEC filings, manager press releases, Business Wire, Private Credit Daily, easyJet investor announcements, and ABC News Australia for the PAG-linked Bathla item.
 
@@ -50,10 +51,10 @@ Each news card includes a Report button. Reports capture the article excerpt, or
 
 This is a practical first version, not a full institutional news system.
 
-- Google News RSS can miss paywalled trade publications, alter source links, or surface duplicate syndications.
+- Google News RSS and free publisher feeds can miss paywalled trade publications, alter source links, or surface duplicate syndications.
 - The updater creates English summaries from article titles and RSS snippets. Qwen translates missing Chinese summaries when `DASHSCOPE_API_KEY` is available.
 - Keyword + LLM classification is stronger than keyword matching alone, but still depends on available RSS/article text and prompt quality.
 - No article full-text extraction is included, so paywalled or JavaScript-heavy pages are summarized only from available metadata.
 - No alerting, email delivery, authentication, or central analyst approval queue is included.
 
-With more time, I would add direct feeds or licensed APIs for Bloomberg, LCD, Creditflux, Private Debt Investor, Debtwire, SCI, ABL Advisor, SEC EDGAR company feeds, and manager IR pages; add a central analyst review screen; add bilingual summarization with source citations; track recurring borrowers and funds; and store more detailed provenance / relevance scores per item for auditability.
+With more time, I would add licensed APIs for Bloomberg, LCD, Creditflux, Private Debt Investor, Debtwire, and manager IR pages; add a central analyst review screen; add bilingual summarization with source citations; track recurring borrowers and funds; and store more detailed provenance / relevance scores per item for auditability.

@@ -1,5 +1,6 @@
 const DATA_URL = "data/news.json";
 const REPORT_ISSUE_URL = "https://github.com/Gallon00920/Credit_bearing_news_updater/issues/new";
+const MANUAL_REFRESH_WORKFLOW_URL = "https://github.com/Gallon00920/Credit_bearing_news_updater/actions/workflows/update-news.yml";
 const REPORT_STORAGE_KEY = "news-dashboard-report-logs";
 const TRACKED_SECTORS = [
   "software",
@@ -19,6 +20,8 @@ const uiText = {
     subtitle:
       "US-led coverage with a Europe watchlist for credit strategies, asset-based finance, CLOs, software lending, real estate, mortgage, aircraft leasing, and GP stakes.",
     lastUpdated: "Updated",
+    todayRefreshButton: "Refresh Today",
+    fullRefreshButton: "Full 90-Day Refresh",
     calendar: "Calendar",
     selectedDate: "Selected date",
     stories: "stories",
@@ -47,6 +50,15 @@ const uiText = {
     reportDetails: "Additional reason",
     cancelReport: "Cancel",
     submitReport: "Submit report",
+    refreshEyebrow: "Manual update",
+    todayRefreshTitle: "Refresh today's news?",
+    todayRefreshWarning:
+      "This manual run refreshes only today's news and dedupes against the saved dashboard data. It does not replace the automatic hourly recent-window refresh; if another update is already running, GitHub Actions will queue this run.",
+    fullRefreshTitle: "Run full 90-day refresh?",
+    fullRefreshWarning:
+      "This may take more than 45 minutes. During that time, the public dashboard will keep showing the current saved news, and you will not be able to read the newly refreshed 90-day results until the update finishes and GitHub Pages redeploys. Please only continue if you are sure.",
+    cancelRefresh: "Cancel",
+    confirmRefresh: "Continue to GitHub Actions",
   },
   zh: {
     eyebrow: "私人信貸每日監察",
@@ -54,6 +66,8 @@ const uiText = {
     subtitle:
       "以美國市場為主，並追蹤歐洲動態，涵蓋信貸策略、資產支持融資、CLO、軟件貸款、房地產、按揭、飛機租賃及 GP stakes。",
     lastUpdated: "更新時間",
+    todayRefreshButton: "更新今日",
+    fullRefreshButton: "完整更新 90 日",
     calendar: "日曆",
     selectedDate: "所選日期",
     stories: "則新聞",
@@ -82,6 +96,15 @@ const uiText = {
     reportDetails: "補充原因",
     cancelReport: "取消",
     submitReport: "提交回報",
+    refreshEyebrow: "手動更新",
+    todayRefreshTitle: "更新今日新聞？",
+    todayRefreshWarning:
+      "此手動執行只會更新今日新聞，並會與已儲存的儀表板資料去重。它不會取代每小時自動執行的最近日期更新；如果已有其他更新正在執行，GitHub Actions 會將此執行排入佇列。",
+    fullRefreshTitle: "執行完整 90 日更新？",
+    fullRefreshWarning:
+      "此更新可能需要超過 45 分鐘。在此期間，公開儀表板仍會顯示目前已儲存的新聞；你需要等到更新完成並由 GitHub Pages 重新部署後，才能閱讀新的 90 日更新結果。請確認你真的要繼續。",
+    cancelRefresh: "取消",
+    confirmRefresh: "前往 GitHub Actions",
   },
 };
 
@@ -90,6 +113,7 @@ let selectedDate = null;
 let calendarMonth = null;
 let language = localStorage.getItem("news-dashboard-language") || "en";
 let reportingItem = null;
+let pendingRefreshMode = "full";
 
 const calendar = document.querySelector("#calendar");
 const newsList = document.querySelector("#newsList");
@@ -98,6 +122,8 @@ const selectedDateLabel = document.querySelector("#selectedDateLabel");
 const lastUpdated = document.querySelector("#lastUpdated");
 const itemCount = document.querySelector("#itemCount");
 const retentionLabel = document.querySelector("#retentionLabel");
+const todayRefreshButton = document.querySelector("#todayRefreshButton");
+const fullRefreshButton = document.querySelector("#fullRefreshButton");
 const languageToggle = document.querySelector("#languageToggle");
 const reportDialog = document.querySelector("#reportDialog");
 const reportForm = document.querySelector("#reportForm");
@@ -105,12 +131,16 @@ const reportArticleTitle = document.querySelector("#reportArticleTitle");
 const correctGps = document.querySelector("#correctGps");
 const correctSectors = document.querySelector("#correctSectors");
 const reportDetails = document.querySelector("#reportDetails");
+const refreshDialog = document.querySelector("#refreshDialog");
+const refreshDialogTitle = document.querySelector("#refreshDialogTitle");
+const refreshDialogBody = document.querySelector("#refreshDialogBody");
+const confirmManualRefresh = document.querySelector("#confirmManualRefresh");
 
 async function init() {
+  bindEvents();
   dashboardData = await loadData();
   selectedDate = chooseInitialDate(dashboardData);
   calendarMonth = selectedDate.slice(0, 7);
-  bindEvents();
   render();
 }
 
@@ -127,21 +157,77 @@ function chooseInitialDate(data) {
 }
 
 function bindEvents() {
-  languageToggle.addEventListener("click", () => {
-    language = language === "en" ? "zh" : "en";
-    localStorage.setItem("news-dashboard-language", language);
-    render();
+  if (languageToggle) {
+    languageToggle.addEventListener("click", () => {
+      language = language === "en" ? "zh" : "en";
+      localStorage.setItem("news-dashboard-language", language);
+      if (dashboardData) render();
+    });
+  }
+
+  if (todayRefreshButton) {
+    todayRefreshButton.addEventListener("click", () => openRefreshDialog("today"));
+  }
+  if (fullRefreshButton) {
+    fullRefreshButton.addEventListener("click", () => openRefreshDialog("full"));
+  }
+  if (confirmManualRefresh) {
+    confirmManualRefresh.addEventListener("click", openManualRefreshWorkflow);
+  }
+  document.querySelectorAll("[data-refresh-close]").forEach((button) => {
+    button.addEventListener("click", () => refreshDialog?.close());
   });
 
-  reportForm.addEventListener("submit", submitReport);
+  if (reportForm) {
+    reportForm.addEventListener("submit", submitReport);
+  }
   document.querySelectorAll("[data-report-close]").forEach((button) => {
-    button.addEventListener("click", () => reportDialog.close());
+    button.addEventListener("click", () => reportDialog?.close());
   });
+}
+
+function openRefreshDialog(mode) {
+  pendingRefreshMode = mode;
+  syncRefreshDialogText();
+  if (refreshDialog && typeof refreshDialog.showModal === "function") {
+    try {
+      refreshDialog.showModal();
+      return;
+    } catch (error) {
+      console.warn("Unable to open refresh dialog; using browser confirm instead.", error);
+    }
+  }
+  if (refreshDialog) {
+    refreshDialog.setAttribute("open", "");
+    return;
+  }
+  confirmManualRefreshWithBrowserDialog();
+}
+
+function syncRefreshDialogText() {
+  if (!refreshDialogTitle || !refreshDialogBody) return;
+  const modePrefix = pendingRefreshMode === "today" ? "todayRefresh" : "fullRefresh";
+  refreshDialogTitle.textContent = uiText[language][`${modePrefix}Title`];
+  refreshDialogBody.textContent = uiText[language][`${modePrefix}Warning`];
+}
+
+function openManualRefreshWorkflow() {
+  window.open(MANUAL_REFRESH_WORKFLOW_URL, "_blank", "noopener,noreferrer");
+  refreshDialog?.close();
+}
+
+function confirmManualRefreshWithBrowserDialog() {
+  const modePrefix = pendingRefreshMode === "today" ? "todayRefresh" : "fullRefresh";
+  const confirmed = window.confirm(`${uiText[language][`${modePrefix}Title`]}\n\n${uiText[language][`${modePrefix}Warning`]}`);
+  if (confirmed) {
+    openManualRefreshWorkflow();
+  }
 }
 
 function render() {
   document.documentElement.lang = language === "zh" ? "zh-Hant" : "en";
   applyUiText();
+  syncRefreshDialogText();
   renderHeader();
   renderCalendar();
   renderNews();

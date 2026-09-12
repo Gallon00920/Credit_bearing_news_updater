@@ -2,7 +2,7 @@
   "retentionDays": 90,
   "lookbackDays": 90,
   "maxItemsPerGp": 6,
-  "minimumScore": 7,
+  "minimumScore": 5,
   "classification": {
     "enabled": true,
     "qwenProvider": "dashscope",
@@ -21,7 +21,7 @@
     "rawScoreMin": 0,
     "rawScoreMax": 30,
     "scoreScale": 12,
-    "minimumFinalScore": 10
+    "minimumFinalScore": 7
   },
   "translation": {
     "enabled": true,
@@ -93,6 +93,38 @@
     {
       "name": "Private Equity Wire Credit",
       "url": "https://www.privateequitywire.co.uk/feed/"
+    },
+    {
+      "name": "Connect Money Private Debt",
+      "url": "https://www.connectmoney.com/feed?story-market=private-debt"
+    },
+    {
+      "name": "Connect Money CLOs",
+      "url": "https://www.connectmoney.com/feed?story-market=clos"
+    },
+    {
+      "name": "Connect Money Business Lending & Finance",
+      "url": "https://www.connectmoney.com/feed?story-market=business-lending-finance"
+    },
+    {
+      "name": "Connect Money Alternative Assets",
+      "url": "https://www.connectmoney.com/feed?story-market=alternative-assets"
+    },
+    {
+      "name": "Connect Money Real Estate",
+      "url": "https://www.connectmoney.com/feed?story-market=real-estate"
+    },
+    {
+      "name": "Mortgage News Daily Industry News",
+      "url": "https://www.mortgagenewsdaily.com/rss/news"
+    },
+    {
+      "name": "Mortgage News Daily MBS Commentary",
+      "url": "https://www.mortgagenewsdaily.com/rss/mbs"
+    },
+    {
+      "name": "Mortgage News Daily Full News",
+      "url": "https://www.mortgagenewsdaily.com/rss/full"
     }
   ],
   "htmlSources": [
@@ -100,6 +132,26 @@
       "name": "Asset Securitization Report",
       "url": "https://asreport.americanbanker.com/feed",
       "parser": "asset_securitization_report"
+    },
+    {
+      "name": "ABL Advisor News",
+      "url": "https://www.abladvisor.com/NewsList.aspx",
+      "parser": "generic_listing"
+    },
+    {
+      "name": "Structured Credit Investor Weekly Issue",
+      "url": "https://www.structuredcreditinvestor.com/weeklyissue/default.asp",
+      "parser": "generic_listing"
+    },
+    {
+      "name": "Inside Mortgage Finance MBS & ABS",
+      "url": "https://www.insidemortgagefinance.com/articles/topic/676-inside-mbs-abs",
+      "parser": "generic_listing"
+    },
+    {
+      "name": "Inside Mortgage Finance News",
+      "url": "https://www.insidemortgagefinance.com/articles/topic/1578?page=1",
+      "parser": "generic_listing"
     }
   ],
   "preferredSources": [

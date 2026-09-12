@@ -20,6 +20,12 @@
           <span data-i18n="lastUpdated">Updated</span>
           <strong id="lastUpdated">--</strong>
         </div>
+        <button id="todayRefreshButton" class="today-refresh-button" type="button" data-i18n="todayRefreshButton">
+          Refresh Today
+        </button>
+        <button id="fullRefreshButton" class="full-refresh-button" type="button" data-i18n="fullRefreshButton">
+          Full 90-Day Refresh
+        </button>
         <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch language">
           <span class="toggle-option active" data-lang-pill="en">EN</span>
           <span class="toggle-option" data-lang-pill="zh">繁</span>
@@ -100,6 +106,27 @@
       </form>
     </dialog>
 
-    <script src="src/app.js" type="module"></script>
+    <dialog id="refreshDialog" class="refresh-dialog">
+      <form method="dialog">
+        <div class="report-heading">
+          <div>
+            <p class="eyebrow" data-i18n="refreshEyebrow">Manual update</p>
+            <h2 id="refreshDialogTitle">Run full 90-day refresh?</h2>
+          </div>
+          <button class="report-close" type="button" data-refresh-close aria-label="Close">×</button>
+        </div>
+
+        <p id="refreshDialogBody" class="refresh-warning">
+          This may take more than 45 minutes. During that time, the public dashboard will keep showing the current saved news, and you will not be able to read the newly refreshed 90-day results until the update finishes and GitHub Pages redeploys. Please only continue if you are sure.
+        </p>
+
+        <div class="report-actions">
+          <button type="button" class="secondary-button" data-refresh-close data-i18n="cancelRefresh">Cancel</button>
+          <button type="button" id="confirmManualRefresh" class="primary-button" data-i18n="confirmRefresh">Continue to GitHub Actions</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="src/app.js?v=20260913-manual-refresh" type="module"></script>
   </body>
 </html>

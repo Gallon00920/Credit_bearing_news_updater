@@ -95,6 +95,40 @@ h1 {
   font-size: 13px;
 }
 
+.today-refresh-button,
+.full-refresh-button {
+  min-height: 38px;
+  border-radius: 8px;
+  padding: 0 12px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 850;
+  white-space: nowrap;
+  box-shadow: 0 8px 22px rgba(32, 35, 31, 0.06);
+}
+
+.today-refresh-button {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--accent-strong);
+}
+
+.today-refresh-button:hover {
+  border-color: var(--accent);
+  background: var(--surface-soft);
+}
+
+.full-refresh-button {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.full-refresh-button:hover {
+  background: var(--accent-strong);
+  border-color: var(--accent-strong);
+}
+
 .language-toggle {
   display: inline-grid;
   grid-template-columns: 1fr 1fr;
@@ -476,7 +510,8 @@ h1 {
   color: var(--accent-strong);
 }
 
-.report-dialog {
+.report-dialog,
+.refresh-dialog {
   width: min(560px, calc(100vw - 28px));
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -486,11 +521,13 @@ h1 {
   box-shadow: var(--shadow);
 }
 
-.report-dialog::backdrop {
+.report-dialog::backdrop,
+.refresh-dialog::backdrop {
   background: rgba(32, 35, 31, 0.28);
 }
 
-.report-dialog form {
+.report-dialog form,
+.refresh-dialog form {
   display: grid;
   gap: 16px;
   padding: 20px;
@@ -524,6 +561,12 @@ h1 {
   color: var(--muted);
   font-size: 13px;
   line-height: 1.45;
+}
+
+.refresh-warning {
+  color: #343830;
+  font-size: 14px;
+  line-height: 1.6;
 }
 
 .report-dialog fieldset {
@@ -625,6 +668,10 @@ h1 {
   .header-actions,
   .toolbar-stats {
     justify-content: space-between;
+  }
+
+  .header-actions {
+    flex-wrap: wrap;
   }
 
   .last-updated {

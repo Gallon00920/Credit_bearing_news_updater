@@ -190,17 +190,29 @@ CREDIT_CONTEXT = [
 
 MONTH_INDEX = {
     "january": 1,
+    "jan": 1,
     "february": 2,
+    "feb": 2,
     "march": 3,
+    "mar": 3,
     "april": 4,
+    "apr": 4,
     "may": 5,
     "june": 6,
+    "jun": 6,
     "july": 7,
+    "jul": 7,
     "august": 8,
+    "aug": 8,
     "september": 9,
+    "sep": 9,
+    "sept": 9,
     "october": 10,
+    "oct": 10,
     "november": 11,
+    "nov": 11,
     "december": 12,
+    "dec": 12,
 }
 WARNED_KEYS: set[str] = set()
 
@@ -216,14 +228,14 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Update the private-credit news dashboard.")
     parser.add_argument("--date", default=dt.date.today().isoformat(), help="Digest date, YYYY-MM-DD.")
     parser.add_argument("--dry-run", action="store_true", help="Print selected items without writing.")
-    parser.add_argument("--today-only", action="store_true", help="Fetch, score, and merge only same-day news.")
+    parser.add_argument("--recent-days", type=int, help="Fetch, score, and merge only this many recent calendar days.")
     args = parser.parse_args()
 
-    result = update_news(args.date, dry_run=args.dry_run, today_only=args.today_only)
+    result = update_news(args.date, dry_run=args.dry_run, recent_days=args.recent_days)
     if args.dry_run:
         print(json.dumps(result["selectedByDate"], ensure_ascii=False, indent=2))
     else:
-        mode = "today-only" if result["todayOnly"] else "full-window"
+        mode = f"recent-{result['recentDays']}-day" if result["recentDays"] else "full-window"
         print(
             f"Ran {mode} update; wrote {result['selectedItemCount']} item(s) across "
             f"{result['selectedDateCount']} published date(s) to {DATA_PATH}; "
@@ -233,15 +245,17 @@ def main() -> int:
     return 0
 
 
-def update_news(date_key: str | None = None, dry_run: bool = False, today_only: bool = False) -> dict:
+def update_news(date_key: str | None = None, dry_run: bool = False, recent_days: int | None = None) -> dict:
     date_key = date_key or dt.date.today().isoformat()
+    if recent_days is not None and recent_days < 1:
+        raise ValueError("--recent-days must be at least 1")
     config = load_json(CONFIG_PATH)
     data = load_json(DATA_PATH)
     golden_cases = load_golden_cases()
     translator = make_chinese_translator(config)
 
     retention_days = int(config.get("retentionDays") or data.get("retentionDays") or 90)
-    lookback_days = 1 if today_only else int(config.get("lookbackDays", 14))
+    lookback_days = recent_days if recent_days else int(config.get("lookbackDays", 14))
     classifier = make_article_classifier(config, golden_cases)
     semantic_scorer = make_semantic_scorer(config, golden_cases)
     selected_by_gp = select_items_by_gp(
@@ -251,14 +265,14 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
         semantic_scorer,
         translator,
         classifier,
-        same_day_only=today_only,
+        recent_days=recent_days,
     )
     selected_by_date = group_selected_by_date(selected_by_gp)
     selected_item_count = sum(len(items) for items in selected_by_gp.values())
 
     result = {
         "date": date_key,
-        "todayOnly": today_only,
+        "recentDays": recent_days,
         "selectedByDate": selected_by_date,
         "selectedItemCount": selected_item_count,
         "selectedDateCount": len(selected_by_date),
@@ -270,8 +284,8 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
     if dry_run:
         return result
 
-    if today_only:
-        merge_today_digest(data, date_key, selected_by_date.get(date_key, {}))
+    if recent_days:
+        merge_recent_digests(data, date_key, selected_by_date)
     else:
         merge_digests_by_published_date(data, date_key, selected_by_date, retention_days)
         result["translatedCount"] = translate_existing_chinese_summaries(data, translator)
@@ -328,10 +342,12 @@ def fetch_html_candidates(sources: list[dict]) -> list[dict]:
     candidates = []
     for source in sources:
         parser = source.get("parser")
-        if parser != "asset_securitization_report":
+        if parser == "asset_securitization_report":
+            candidates.extend(fetch_asset_securitization_report_candidates(source))
+        elif parser == "generic_listing":
+            candidates.extend(fetch_generic_listing_candidates(source))
+        else:
             print(f"Warning: unknown HTML source parser {parser!r} for {source.get('name', source.get('url'))!r}", file=sys.stderr)
-            continue
-        candidates.extend(fetch_asset_securitization_report_candidates(source))
     return dedupe(candidates)
 
 
@@ -344,6 +360,17 @@ def fetch_asset_securitization_report_candidates(source: dict) -> list[dict]:
         print(f"Warning: failed to fetch HTML source {source.get('name', source.get('url'))!r}: {exc}", file=sys.stderr)
         return []
     return parse_asset_securitization_report_html(payload, source)
+
+
+def fetch_generic_listing_candidates(source: dict) -> list[dict]:
+    try:
+        with urllib.request.urlopen(request_for(source["url"]), timeout=20) as response:
+            charset = response.headers.get_content_charset() or "utf-8"
+            payload = response.read(1_500_000).decode(charset, errors="ignore")
+    except Exception as exc:
+        print(f"Warning: failed to fetch HTML source {source.get('name', source.get('url'))!r}: {exc}", file=sys.stderr)
+        return []
+    return parse_generic_listing_html(payload, source)
 
 
 def parse_asset_securitization_report_html(html_payload: str, source: dict) -> list[dict]:
@@ -373,6 +400,80 @@ def parse_asset_securitization_report_html(html_payload: str, source: dict) -> l
     return items
 
 
+def parse_generic_listing_html(html_payload: str, source: dict) -> list[dict]:
+    items = []
+    seen = set()
+    for match in re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', html_payload):
+        href = html.unescape(match.group(1)).strip()
+        title = clean_html(match.group(2))
+        url = urllib.parse.urljoin(source["url"], href)
+        if not is_probable_listing_article(url, title, source):
+            continue
+        normalized = normalize_url(url)
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+        context_start = max(0, match.start() - 350)
+        context = html_payload[context_start : match.end() + 1800]
+        description = extract_listing_description(context, title, source.get("name", "HTML source"))
+        items.append(
+            {
+                "title": title,
+                "url": url,
+                "description": description,
+                "source": source.get("name", "HTML source"),
+                "publishedAt": parse_listing_date(context),
+            }
+        )
+    return items
+
+
+def is_probable_listing_article(url: str, title: str, source: dict) -> bool:
+    if len(title) < 24:
+        return False
+    lowered_title = title.lower()
+    blocked_title_prefixes = (
+        "advertise",
+        "article feeds",
+        "blog feeds",
+        "contact",
+        "home",
+        "image:",
+        "latest news",
+        "load more",
+        "login",
+        "news feeds",
+        "privacy",
+        "read more",
+        "rss",
+        "sign in",
+        "subscribe",
+        "terms",
+    )
+    if lowered_title.startswith(blocked_title_prefixes):
+        return False
+
+    parsed_url = urllib.parse.urlsplit(url)
+    parsed_source = urllib.parse.urlsplit(source["url"])
+    lowered_path = parsed_url.path.lower()
+    lowered_url = url.lower()
+    if parsed_url.scheme not in {"http", "https"}:
+        return False
+    if parsed_url.netloc and parsed_source.netloc and parsed_url.netloc != parsed_source.netloc:
+        return False
+    if any(token in lowered_url for token in [".jpg", ".jpeg", ".png", ".gif", ".webp", "#", "javascript:", "mailto:"]):
+        return False
+
+    source_name = source.get("name", "").lower()
+    if "inside mortgage finance" in source_name:
+        return bool(re.search(r"/articles/\d+", lowered_path)) and "/articles/topic/" not in lowered_path
+    if "abl advisor" in source_name:
+        return "/news/" in lowered_path or "readstory.aspx" in lowered_path
+    if "structured credit investor" in source_name:
+        return "article" in lowered_path and "weeklyissue" not in lowered_path
+    return True
+
+
 def is_probable_asr_article(href: str, title: str) -> bool:
     if len(title) < 24:
         return False
@@ -396,22 +497,62 @@ def extract_asr_description(context: str, title: str) -> str:
     return textwrap.shorten(text or title, width=520, placeholder="...")
 
 
+def extract_listing_description(context: str, title: str, source_name: str) -> str:
+    text = clean_html(context)
+    text = re.sub(r"\bBy\s+[A-Z][A-Za-z .,'-]{2,80}\b", " ", text)
+    text = re.sub(r"\bRead\s+More\b", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bSubscribe\b.*", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b\d+h ago\b", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2}(?:,\s+\d{4})?(?:\s*@\s*\d{1,2}:\d{2}\s*[AP]M)?\b", " ", text)
+    text = re.sub(r"\b\d{1,2}/\d{1,2}/\d{2,4}\b", " ", text)
+    text = re.sub(re.escape(source_name), " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+", " ", text).strip()
+    if text.lower().startswith(title.lower()):
+        text = text[len(title) :].strip()
+    return textwrap.shorten(text or title, width=520, placeholder="...")
+
+
 def parse_asr_listing_date(context: str) -> str:
+    return parse_listing_date(context)
+
+
+def parse_listing_date(context: str) -> str:
     text = clean_html(context)
     if re.search(r"\b\d+h ago\b", text, flags=re.IGNORECASE):
         return dt.date.today().isoformat()
-    match = re.search(
-        r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:,\s+(\d{4}))?\b",
-        text,
-    )
-    if not match:
+    if re.search(r"\btoday\b", text, flags=re.IGNORECASE):
         return dt.date.today().isoformat()
-    month = MONTH_INDEX[match.group(1).lower()]
-    day = int(match.group(2))
-    year = int(match.group(3) or dt.date.today().year)
-    parsed = dt.date(year, month, day)
+    if re.search(r"\byesterday\b", text, flags=re.IGNORECASE):
+        return (dt.date.today() - dt.timedelta(days=1)).isoformat()
+    match = re.search(
+        r"\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t|tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+(\d{1,2})(?:,\s+(\d{4}))?\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        month = MONTH_INDEX[match.group(1).lower().rstrip(".")]
+        day = int(match.group(2))
+        year = int(match.group(3) or dt.date.today().year)
+        return normalize_listing_date(year, month, day, has_year=bool(match.group(3)))
+
+    numeric = re.search(r"\b(\d{1,2})/(\d{1,2})/(\d{2,4})\b", text)
+    if numeric:
+        month = int(numeric.group(1))
+        day = int(numeric.group(2))
+        year = int(numeric.group(3))
+        if year < 100:
+            year += 2000
+        return normalize_listing_date(year, month, day, has_year=True)
+    return dt.date.today().isoformat()
+
+
+def normalize_listing_date(year: int, month: int, day: int, has_year: bool) -> str:
+    try:
+        parsed = dt.date(year, month, day)
+    except ValueError:
+        return dt.date.today().isoformat()
     today = dt.date.today()
-    if not match.group(3) and parsed > today + dt.timedelta(days=7):
+    if not has_year and parsed > today + dt.timedelta(days=7):
         parsed = dt.date(year - 1, month, day)
     return parsed.isoformat()
 
@@ -563,7 +704,7 @@ def select_items_by_gp(
     semantic_scorer: "SemanticScorer | None",
     translator: "ChineseTranslator | None",
     classifier: "ArticleClassifier | None",
-    same_day_only: bool = False,
+    recent_days: int | None = None,
 ) -> dict[str, list[dict]]:
     gp_order = config.get("gps") or list(GP_ALIASES)
     gp_queries = config.get("gpQueries", {})
@@ -583,7 +724,7 @@ def select_items_by_gp(
             semantic_scorer,
             translator,
             classifier,
-            same_day_only=same_day_only,
+            recent_days=recent_days,
         )
 
     general_candidates = fetch_google_candidates(config.get("sourceQueries", []), lookback_days)
@@ -599,7 +740,7 @@ def select_items_by_gp(
         semantic_scorer,
         translator,
         classifier,
-        same_day_only=same_day_only,
+        recent_days=recent_days,
     )
     for item in general_selected:
         for gp in item.get("gps", []):
@@ -619,17 +760,14 @@ def select_items(
     semantic_scorer: "SemanticScorer | None",
     translator: "ChineseTranslator | None",
     classifier: "ArticleClassifier | None",
-    same_day_only: bool = False,
+    recent_days: int | None = None,
 ) -> list[dict]:
     scored = []
     target_date = dt.date.fromisoformat(date_key)
-    cutoff = target_date - dt.timedelta(days=lookback_days)
-    tomorrow = target_date + dt.timedelta(days=1)
+    cutoff = target_date - dt.timedelta(days=(recent_days or lookback_days) - 1)
     for item in candidates:
         published = dt.date.fromisoformat(item["publishedAt"])
-        if same_day_only and published != target_date:
-            continue
-        if not same_day_only and (published < cutoff or published > tomorrow):
+        if published < cutoff or published > target_date:
             continue
         enriched = enrich_item(item, config, focus_gp, semantic_scorer, translator, classifier)
         if enriched.get("excludedByClassifier"):
@@ -840,10 +978,12 @@ def merge_digests_by_published_date(
     prune_old_dates(data, run_date_key, retention_days)
 
 
-def merge_today_digest(data: dict, date_key: str, selected_by_gp: dict[str, list[dict]]) -> None:
+def merge_recent_digests(data: dict, run_date_key: str, selected_by_date: dict[str, dict[str, list[dict]]]) -> None:
     data["updatedAt"] = dt.datetime.now(dt.timezone.utc).isoformat()
     data.setdefault("dates", {})
-    merge_digest_for_date(data, date_key, selected_by_gp)
+    for published_date, selected_by_gp in selected_by_date.items():
+        merge_digest_for_date(data, published_date, selected_by_gp)
+    ensure_window_date(data, run_date_key)
 
 
 def merge_digest_for_date(data: dict, date_key: str, selected_by_gp: dict[str, list[dict]]) -> None:

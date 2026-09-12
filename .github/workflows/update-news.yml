@@ -6,10 +6,11 @@ on:
       mode:
         description: "Update mode"
         required: true
-        default: "today"
+        default: "recent"
         type: choice
         options:
           - today
+          - recent
           - full
   schedule:
     - cron: "0 * * * *"
@@ -58,8 +59,10 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "full" ]; then
             python3 scripts/update_news.py
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "today" ]; then
+            python3 scripts/update_news.py --recent-days 1
           else
-            python3 scripts/update_news.py --today-only
+            python3 scripts/update_news.py --recent-days 3
           fi
 
       - name: Commit updated data
