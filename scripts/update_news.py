@@ -227,7 +227,8 @@ def main() -> int:
         print(
             f"Ran {mode} update; wrote {result['selectedItemCount']} item(s) across "
             f"{result['selectedDateCount']} published date(s) to {DATA_PATH}; "
-            f"backfilled {result['translatedCount']} Chinese summarie(s)"
+            f"backfilled {result['translatedCount']} Chinese summarie(s); "
+            f"sanitized {result['sanitizedCount']} saved field(s)"
         )
     return 0
 
@@ -262,6 +263,7 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
         "selectedItemCount": selected_item_count,
         "selectedDateCount": len(selected_by_date),
         "translatedCount": 0,
+        "sanitizedCount": 0,
         "dataPath": str(DATA_PATH),
     }
 
@@ -273,6 +275,7 @@ def update_news(date_key: str | None = None, dry_run: bool = False, today_only: 
     else:
         merge_digests_by_published_date(data, date_key, selected_by_date, retention_days)
         result["translatedCount"] = translate_existing_chinese_summaries(data, translator)
+    result["sanitizedCount"] = sanitize_saved_news(data)
     DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return result
 
@@ -500,8 +503,14 @@ def atom_link(node: ET.Element, ns: dict[str, str]) -> str:
 
 
 def clean_html(value: str) -> str:
-    value = html.unescape(value or "")
+    value = value or ""
+    value = re.sub(r"(?is)&lt;\s*(?:img|picture|source)\b.*?(?:&gt;|$)", " ", value)
+    value = re.sub(r"(?is)<\s*(?:img|picture|source)\b.*?(?:>|$)", " ", value)
+    value = html.unescape(value)
+    value = re.sub(r"(?is)<\s*(?:img|picture|source)\b.*?(?:>|$)", " ", value)
+    value = re.sub(r"(?is)<(script|style|noscript|svg|picture).*?</\1>", " ", value)
     value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\b(?:srcset|src|alt|data-image-size|class)=['\"][^'\"]*['\"]", " ", value, flags=re.IGNORECASE)
     value = re.sub(r"\s+", " ", value)
     return value.strip()
 
@@ -1213,6 +1222,22 @@ def translate_existing_chinese_summaries(data: dict, translator: "ChineseTransla
                 translated_by_key[key] = translator.translate(item.get("summary", ""))
             item["summaryZh"] = translated_by_key[key]
             changed += 1
+    return changed
+
+
+def sanitize_saved_news(data: dict) -> int:
+    changed = 0
+    fields = ["summary", "summaryZh", "lede", "articleExcerpt"]
+    for date_digest in data.get("dates", {}).values():
+        for item in iter_digest_items(date_digest):
+            for field in fields:
+                value = item.get(field)
+                if not isinstance(value, str):
+                    continue
+                cleaned = clean_html(value)
+                if cleaned != value:
+                    item[field] = cleaned
+                    changed += 1
     return changed
 
 
