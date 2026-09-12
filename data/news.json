@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-12T18:56:47.809514+00:00",
+  "updatedAt": "2026-09-12T19:50:21.981727+00:00",
   "scope": {
     "regions": [
       "US",
@@ -34,110 +34,6 @@
     ]
   },
   "dates": {
-    "2026-06-15": {
-      "byGp": {
-        "Blue Owl": [],
-        "OTF": [],
-        "Pretium": [],
-        "KKR": [],
-        "PAG": [],
-        "Bayview": [],
-        "CIFC": [],
-        "Basepoint": [],
-        "NB": [],
-        "Apollo": [],
-        "Bain Capital": [],
-        "Guggenheim": [],
-        "HSBC AM": [
-          {
-            "id": "2026-06-15-c7554a49399e",
-            "title": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor",
-            "titleZh": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor",
-            "summary": "HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-            "summaryZh": "滙豐資產管理為淨資產值融資合作策略籌集10億美元《另類信貸投資者》",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkE1djhlemVISl9tMW1qMjJub0NUQWMzLVVtdElVd2JVRkk4bVJTdjZHMExnVkFSeFlrZHk3Y2t2RmtLaHZCcU1yM2s3MjFwRVNWaDdWLTE3ay1PeV9ORWl2WktPVUNUdEMxNFFTamd0S3hmcDRtcDBuWFNseW5vYUcya2k2SGRMbWtRS3NCMWdmT0l5aHRKLUJaQVRLby1sNldUa0dPaFkyVEE?oc=5",
-            "source": "Alternative Credit Investor",
-            "publishedAt": "2026-06-15",
-            "lede": "HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-            "articleExcerpt": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor. HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-            "contentFingerprint": "5639f9cbea44e7fd",
-            "region": "Global",
-            "gps": [
-              "HSBC AM"
-            ],
-            "sectors": [
-              "private credit / direct lending"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "HSBC AM"
-              ],
-              "llmGps": [
-                "HSBC AM"
-              ],
-              "keywordSectors": [],
-              "llmSectors": [
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "NAV financing is a credit strategy involving lending against the net asset value of private funds, falling squarely under private credit / direct lending — a tracked sub-sector — and is conducted by HSBC AM’s credit business."
-            },
-            "scoreBreakdown": {
-              "keywordScore": 14,
-              "semanticScore": 6.38,
-              "finalScore": 20.38,
-              "semanticEnabled": true
-            }
-          }
-        ]
-      },
-      "items": [
-        {
-          "id": "2026-06-15-c7554a49399e",
-          "title": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor",
-          "titleZh": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor",
-          "summary": "HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-          "summaryZh": "滙豐資產管理為淨資產值融資合作策略籌集10億美元《另類信貸投資者》",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkE1djhlemVISl9tMW1qMjJub0NUQWMzLVVtdElVd2JVRkk4bVJTdjZHMExnVkFSeFlrZHk3Y2t2RmtLaHZCcU1yM2s3MjFwRVNWaDdWLTE3ay1PeV9ORWl2WktPVUNUdEMxNFFTamd0S3hmcDRtcDBuWFNseW5vYUcya2k2SGRMbWtRS3NCMWdmT0l5aHRKLUJaQVRLby1sNldUa0dPaFkyVEE?oc=5",
-          "source": "Alternative Credit Investor",
-          "publishedAt": "2026-06-15",
-          "lede": "HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-          "articleExcerpt": "HSBC AM raises $1bn for NAV financing partnership strategy - Alternative Credit Investor. HSBC AM raises $1bn for NAV financing partnership strategy Alternative Credit Investor",
-          "contentFingerprint": "5639f9cbea44e7fd",
-          "region": "Global",
-          "gps": [
-            "HSBC AM"
-          ],
-          "sectors": [
-            "private credit / direct lending"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "HSBC AM"
-            ],
-            "llmGps": [
-              "HSBC AM"
-            ],
-            "keywordSectors": [],
-            "llmSectors": [
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "NAV financing is a credit strategy involving lending against the net asset value of private funds, falling squarely under private credit / direct lending — a tracked sub-sector — and is conducted by HSBC AM’s credit business."
-          },
-          "scoreBreakdown": {
-            "keywordScore": 14,
-            "semanticScore": 6.38,
-            "finalScore": 20.38,
-            "semanticEnabled": true
-          }
-        }
-      ]
-    },
     "2026-06-16": {
       "byGp": {
         "Blue Owl": [],
@@ -1754,6 +1650,8 @@
             "source": "Financial Times",
             "publishedAt": "2026-07-09",
             "lede": "UBS helped trigger exodus from Blue Owl private credit fund Financial Times",
+            "articleExcerpt": "UBS helped trigger exodus from Blue Owl private credit fund - Financial Times. UBS helped trigger exodus from Blue Owl private credit fund Financial Times",
+            "contentFingerprint": "de2ec38e0f8cc65c",
             "region": "Global",
             "gps": [
               "Blue Owl"
@@ -1762,10 +1660,27 @@
               "private credit / direct lending"
             ],
             "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly references 'Blue Owl private credit fund', which falls squarely within the tracked credit-related activity for Blue Owl."
+            },
             "scoreBreakdown": {
               "keywordScore": 17,
-              "semanticScore": 2.67,
-              "finalScore": 19.67,
+              "semanticScore": 6.6,
+              "finalScore": 23.6,
               "semanticEnabled": true
             }
           }
@@ -1837,6 +1752,8 @@
           "source": "Financial Times",
           "publishedAt": "2026-07-09",
           "lede": "UBS helped trigger exodus from Blue Owl private credit fund Financial Times",
+          "articleExcerpt": "UBS helped trigger exodus from Blue Owl private credit fund - Financial Times. UBS helped trigger exodus from Blue Owl private credit fund Financial Times",
+          "contentFingerprint": "de2ec38e0f8cc65c",
           "region": "Global",
           "gps": [
             "Blue Owl"
@@ -1845,10 +1762,27 @@
             "private credit / direct lending"
           ],
           "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly references 'Blue Owl private credit fund', which falls squarely within the tracked credit-related activity for Blue Owl."
+          },
           "scoreBreakdown": {
             "keywordScore": 17,
-            "semanticScore": 2.67,
-            "finalScore": 19.67,
+            "semanticScore": 6.6,
+            "finalScore": 23.6,
             "semanticEnabled": true
           }
         },
@@ -3975,6 +3909,48 @@
               "finalScore": 23.32,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-07-31-5a4166d67230",
+            "title": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire",
+            "titleZh": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire",
+            "summary": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+            "summaryZh": "黑石將收購滙豐銀行旗下規模達360億澳元的澳洲住宅貸款投資組合 WebWire",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaGhJcHlYVWV2N2gyS0FkejJiRlVLNnlEaVpwVWpuYVRXcDM0WG9JV2RaY0JRMGlLemlNSVAxTTZXQ3dWSzBUYWsyVHBKMTladUlKSjRqa0MxbDJzNDc3TA?oc=5",
+            "source": "WebWire",
+            "publishedAt": "2026-07-31",
+            "lede": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+            "articleExcerpt": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire. Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+            "contentFingerprint": "0c499f1662db1a4c",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [
+                "mortgage"
+              ],
+              "llmSectors": [
+                "mortgage"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article describes HSBC’s sale of a A$36B Australian home loan portfolio to Blackstone; HSBC AM (a tracked GP) is the seller, and the asset being transacted is a mortgage loan portfolio — squarely within the 'mortgage' sub-sector and credit/financing activity. The transaction reflects HSBC AM’s credit-related exposure (origination, servicing, or portfolio management of residential mortgages), not equity, infrastructure, or unrelated corporate news."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.33,
+              "finalScore": 20.33,
+              "semanticEnabled": true
+            }
           }
         ]
       },
@@ -4058,6 +4034,48 @@
             "keywordScore": 17,
             "semanticScore": 6.32,
             "finalScore": 23.32,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-07-31-5a4166d67230",
+          "title": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire",
+          "titleZh": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire",
+          "summary": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+          "summaryZh": "黑石將收購滙豐銀行旗下規模達360億澳元的澳洲住宅貸款投資組合 WebWire",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaGhJcHlYVWV2N2gyS0FkejJiRlVLNnlEaVpwVWpuYVRXcDM0WG9JV2RaY0JRMGlLemlNSVAxTTZXQ3dWSzBUYWsyVHBKMTladUlKSjRqa0MxbDJzNDc3TA?oc=5",
+          "source": "WebWire",
+          "publishedAt": "2026-07-31",
+          "lede": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+          "articleExcerpt": "Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio - WebWire. Blackstone to Acquire HSBC’s A$36 Billion Australian Home Loan Portfolio WebWire",
+          "contentFingerprint": "0c499f1662db1a4c",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [
+              "mortgage"
+            ],
+            "llmSectors": [
+              "mortgage"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article describes HSBC’s sale of a A$36B Australian home loan portfolio to Blackstone; HSBC AM (a tracked GP) is the seller, and the asset being transacted is a mortgage loan portfolio — squarely within the 'mortgage' sub-sector and credit/financing activity. The transaction reflects HSBC AM’s credit-related exposure (origination, servicing, or portfolio management of residential mortgages), not equity, infrastructure, or unrelated corporate news."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.33,
+            "finalScore": 20.33,
             "semanticEnabled": true
           }
         }
@@ -6089,12 +6107,38 @@
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVC1aODRMb2QtR2VUNjV5anlRNndVdHpiVDlBdjZfYUxXMVM1SXNVendpZlRaS1drSnFTLWJSZ3I4VlNLV2NWcXlEUHlCR0dZYXN6SW1Lb3BqazNRY2s4UzVNci1NMmJvVl9MZ1V1dEpHYTV5WkZNdGFWNHFoWlhTZ2VBaEw3UjZTMlY0WllBZmRiWnlOVWUxOFVkSVRRazNzUEdrcnNBbEx5cnNYSWh6SXZxSFlxci1LWGRBcGpIeHdYNVlsV0lqN2lZamlHNEZjS1E?oc=5",
             "source": "MarketBeat",
             "publishedAt": "2026-09-02",
+            "lede": "Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? MarketBeat",
+            "articleExcerpt": "Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? - MarketBeat. Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? MarketBeat",
+            "contentFingerprint": "ba3f224dfdd7b103",
             "region": "US",
             "gps": [
               "Bain Capital"
             ],
-            "sectors": [],
-            "curation": "rss_filter"
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance (BCSF) is a publicly traded business development company (BDC) managed by Bain Capital Credit, which focuses on private credit and direct lending — squarely within the tracked credit-relevant activity for Bain Capital."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.67,
+              "finalScore": 21.67,
+              "semanticEnabled": true
+            }
           },
           {
             "id": "2026-09-02-460c0ebcb074",
@@ -6187,12 +6231,38 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVC1aODRMb2QtR2VUNjV5anlRNndVdHpiVDlBdjZfYUxXMVM1SXNVendpZlRaS1drSnFTLWJSZ3I4VlNLV2NWcXlEUHlCR0dZYXN6SW1Lb3BqazNRY2s4UzVNci1NMmJvVl9MZ1V1dEpHYTV5WkZNdGFWNHFoWlhTZ2VBaEw3UjZTMlY0WllBZmRiWnlOVWUxOFVkSVRRazNzUEdrcnNBbEx5cnNYSWh6SXZxSFlxci1LWGRBcGpIeHdYNVlsV0lqN2lZamlHNEZjS1E?oc=5",
           "source": "MarketBeat",
           "publishedAt": "2026-09-02",
+          "lede": "Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? MarketBeat",
+          "articleExcerpt": "Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? - MarketBeat. Bain Capital Specialty Finance (NYSE:BCSF) Hits New 1-Year Low - Should You Sell? MarketBeat",
+          "contentFingerprint": "ba3f224dfdd7b103",
           "region": "US",
           "gps": [
             "Bain Capital"
           ],
-          "sectors": [],
-          "curation": "rss_filter"
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance (BCSF) is a publicly traded business development company (BDC) managed by Bain Capital Credit, which focuses on private credit and direct lending — squarely within the tracked credit-relevant activity for Bain Capital."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.67,
+            "finalScore": 21.67,
+            "semanticEnabled": true
+          }
         },
         {
           "id": "2026-09-02-460c0ebcb074",
@@ -8098,51 +8168,7 @@
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
-        "NB": [
-          {
-            "id": "2026-09-12-1331205a8f49",
-            "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
-            "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
-            "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
-            "summaryZh": "本次交易為該平台今年發行的抵押品池規模最大者，共包含294筆貸款，且符合條件貸款占比最高，達45.1%。",
-            "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
-            "source": "Asset Securitization Report",
-            "publishedAt": "2026-09-12",
-            "lede": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
-            "articleExcerpt": "PMT Loan Trust raises $363.6 million in prime RMBS. The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
-            "contentFingerprint": "a081bdb95a35d0c8",
-            "region": "US",
-            "gps": [
-              "NB"
-            ],
-            "sectors": [
-              "asset-backed lending",
-              "mortgage"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [],
-              "llmGps": [
-                "NB"
-              ],
-              "keywordSectors": [
-                "asset-backed lending"
-              ],
-              "llmSectors": [
-                "mortgage"
-              ],
-              "llmExclude": false,
-              "llmReason": "PMT Loan Trust is a mortgage-backed securities platform operated by Nationstar Mortgage Holdings, which rebranded as Mr. Cooper Group; however, NB (Nationstar) is a tracked GP and its core credit business includes mortgage origination, servicing, and RMBS issuance — this article directly references prime RMBS issuance, a credit/financing activity within the tracked mortgage sub-sector."
-            },
-            "scoreBreakdown": {
-              "keywordScore": 18,
-              "semanticScore": 6.21,
-              "finalScore": 24.21,
-              "semanticEnabled": true
-            }
-          }
-        ],
+        "NB": [],
         "Apollo": [],
         "Bain Capital": [],
         "Guggenheim": [],
@@ -8194,7 +8220,7 @@
           "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
           "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
           "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
-          "summaryZh": "本次交易為該平台今年發行的抵押品池規模最大者，共包含294筆貸款，且符合條件貸款占比最高，達45.1%。",
+          "summaryZh": "本次交易擁有該平台今年發行的最大抵押品池，共計294筆貸款，且符合條件的貸款比例最高，達45.1%。",
           "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
           "source": "Asset Securitization Report",
           "publishedAt": "2026-09-12",
@@ -8203,7 +8229,7 @@
           "contentFingerprint": "a081bdb95a35d0c8",
           "region": "US",
           "gps": [
-            "NB"
+            "Pretium"
           ],
           "sectors": [
             "asset-backed lending",
@@ -8214,7 +8240,7 @@
           "classificationBreakdown": {
             "keywordGps": [],
             "llmGps": [
-              "NB"
+              "Pretium"
             ],
             "keywordSectors": [
               "asset-backed lending"
@@ -8223,12 +8249,12 @@
               "mortgage"
             ],
             "llmExclude": false,
-            "llmReason": "PMT Loan Trust is a mortgage-backed securities platform operated by Nationstar Mortgage Holdings, which rebranded as Mr. Cooper Group; however, NB (Nationstar) is a tracked GP and its core credit business includes mortgage origination, servicing, and RMBS issuance — this article directly references prime RMBS issuance, a credit/financing activity within the tracked mortgage sub-sector."
+            "llmReason": "Pretium is a tracked GP with a core credit business in residential mortgage-backed securities (RMBS); this article describes a prime RMBS issuance by PMT Loan Trust, which is a vehicle managed by Pretium."
           },
           "scoreBreakdown": {
             "keywordScore": 18,
-            "semanticScore": 6.21,
-            "finalScore": 24.21,
+            "semanticScore": 6.0,
+            "finalScore": 24.0,
             "semanticEnabled": true
           }
         }
@@ -8238,7 +8264,51 @@
       "byGp": {
         "Blue Owl": [],
         "OTF": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-09-13-1331205a8f49",
+            "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
+            "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
+            "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+            "summaryZh": "本次交易為該平台今年發行的抵押品池規模最大者，共計294筆貸款，且符合條件貸款占比最高，達45.1%。",
+            "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
+            "source": "Asset Securitization Report",
+            "publishedAt": "2026-09-13",
+            "lede": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+            "articleExcerpt": "PMT Loan Trust raises $363.6 million in prime RMBS. The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+            "contentFingerprint": "83f2f07aca43f081",
+            "region": "US",
+            "gps": [
+              "Pretium"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [
+                "mortgage"
+              ],
+              "llmExclude": false,
+              "llmReason": "Pretium is a tracked GP with a core credit business focused on residential mortgage-backed securities (RMBS) and mortgage lending; this article describes a prime RMBS issuance by PMT Loan Trust, which is a vehicle managed by Pretium."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.0,
+              "finalScore": 24.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [],
         "PAG": [],
         "Bayview": [],
@@ -8250,7 +8320,51 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-13-1331205a8f49",
+          "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
+          "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
+          "summary": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+          "summaryZh": "本次交易為該平台今年發行的抵押品池規模最大者，共計294筆貸款，且符合條件貸款占比最高，達45.1%。",
+          "url": "https://asreport.americanbanker.com/news/pmt-loan-trust-raises-363-6-million-in-prime-rmbs",
+          "source": "Asset Securitization Report",
+          "publishedAt": "2026-09-13",
+          "lede": "The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+          "articleExcerpt": "PMT Loan Trust raises $363.6 million in prime RMBS. The current transaction has the largest collateral pool that the platform has issued all year, with 294 loans, and it has the highest percentage of conforming loans, at 45.1%.",
+          "contentFingerprint": "83f2f07aca43f081",
+          "region": "US",
+          "gps": [
+            "Pretium"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [
+              "mortgage"
+            ],
+            "llmExclude": false,
+            "llmReason": "Pretium is a tracked GP with a core credit business focused on residential mortgage-backed securities (RMBS) and mortgage lending; this article describes a prime RMBS issuance by PMT Loan Trust, which is a vehicle managed by Pretium."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 6.0,
+            "finalScore": 24.0,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
