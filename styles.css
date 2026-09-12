@@ -657,6 +657,13 @@ h1 {
   margin-bottom: 6px;
 }
 
+.site-footer {
+  padding: 0 clamp(18px, 4vw, 48px) 30px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
 @media (max-width: 860px) {
   .app-header,
   .toolbar,
