@@ -57,7 +57,7 @@ The visible calendar always covers the latest 90 calendar days ending today. The
 The public site is intended to stay fully static. News updates are handled by `.github/workflows/update-news.yml`, which runs the Python updater in GitHub Actions and commits changed JSON data back to the repository.
 
 - Hourly: runs `python3 scripts/update_news.py --today-only`. This fetches current sources, admits only articles whose `publishedAt` date is today, dedupes by normalized URL, applies keyword + semantic scoring, translates new Chinese summaries, and merges only into today's bucket.
-- Daily at night: runs `python3 scripts/update_news.py`. This refreshes the full rolling 90-day window, backfills missing Chinese summaries, and prunes dates outside the retention window so late-indexed older articles can still be captured.
+- Full-window updates can still be run manually with `python3 scripts/update_news.py` when you want to refresh the rolling 90-day archive, backfill missing Chinese summaries, or capture late-indexed older articles.
 - The workflow uses repository secrets named `DASHSCOPE_API_KEY` and optional `HF_TOKEN`.
 - Cloudflare Pages, GitHub Pages, or another static host can redeploy automatically from GitHub after the workflow commits changed `data/news.json` or `data/semantic_queries.json`.
 
