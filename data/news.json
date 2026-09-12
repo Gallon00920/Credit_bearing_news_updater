@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-12T21:23:24.714996+00:00",
+  "updatedAt": "2026-09-12T23:51:56.052943+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7693,6 +7693,46 @@
               "finalScore": 12.629999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-10-48b6da4cfac3",
+            "title": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade",
+            "titleZh": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade",
+            "summary": "OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+            "summaryZh": "OWL 股價下跌，法律調查威脅動量股交易",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vX0FNS0ttTU5JM2VrWEdZVks3RkEtaW9JZDByWkQxaXd4MFpQbDlqUEdnQmJNSU5pbjVBbmVhR2JfRTRzaTJoWlBPS01maTFGZlRVNU90MXYxajRhTVpQSzE0aHROMDlHZ3k0V3IyeXpza1NUOGhMcGtwa3Y?oc=5",
+            "source": "StocksToTrade",
+            "publishedAt": "2026-09-10",
+            "lede": "OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+            "articleExcerpt": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade. OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+            "contentFingerprint": "87277d6cff0283a4",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a tracked GP. The article discusses legal probes affecting its stock — while generic, the context implies scrutiny of its core business, which is predominantly credit-focused (direct lending, CLOs, structured credit). No mention of non-credit activities like PE or infrastructure; thus, credit relevance is presumed by association with the firm’s primary public identity and ticker."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.09,
+              "finalScore": 11.09,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -7882,6 +7922,46 @@
             "keywordScore": 6,
             "semanticScore": 6.63,
             "finalScore": 12.629999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-10-48b6da4cfac3",
+          "title": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade",
+          "titleZh": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade",
+          "summary": "OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+          "summaryZh": "OWL 股價下跌，法律調查威脅動量股交易",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vX0FNS0ttTU5JM2VrWEdZVks3RkEtaW9JZDByWkQxaXd4MFpQbDlqUEdnQmJNSU5pbjVBbmVhR2JfRTRzaTJoWlBPS01maTFGZlRVNU90MXYxajRhTVpQSzE0aHROMDlHZ3k0V3IyeXpza1NUOGhMcGtwa3Y?oc=5",
+          "source": "StocksToTrade",
+          "publishedAt": "2026-09-10",
+          "lede": "OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+          "articleExcerpt": "OWL Stock Slips As Legal Probes Threaten Momentum - StocksToTrade. OWL Stock Slips As Legal Probes Threaten Momentum StocksToTrade",
+          "contentFingerprint": "87277d6cff0283a4",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a tracked GP. The article discusses legal probes affecting its stock — while generic, the context implies scrutiny of its core business, which is predominantly credit-focused (direct lending, CLOs, structured credit). No mention of non-credit activities like PE or infrastructure; thus, credit relevance is presumed by association with the firm’s primary public identity and ticker."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.09,
+            "finalScore": 11.09,
             "semanticEnabled": true
           }
         },
@@ -8295,7 +8375,48 @@
         ],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-11-15715f207b65",
+            "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+            "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+            "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "summaryZh": "匯豐中短期基金－直接計畫－定期配息方案 financialxpress.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
+            "source": "financialexpress.com",
+            "publishedAt": "2026-09-11",
+            "lede": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "articleExcerpt": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com. HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "contentFingerprint": "265056d90a385eda",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.89,
+              "finalScore": 10.89,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -8458,6 +8579,46 @@
             "private credit / direct lending"
           ],
           "curation": "manual_seed"
+        },
+        {
+          "id": "2026-09-11-15715f207b65",
+          "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+          "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+          "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "匯豐中短期基金－直接計畫－定期配息方案 financialxpress.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
+          "source": "financialexpress.com",
+          "publishedAt": "2026-09-11",
+          "lede": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "articleExcerpt": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com. HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "contentFingerprint": "265056d90a385eda",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.89,
+            "finalScore": 10.89,
+            "semanticEnabled": true
+          }
         }
       ]
     },
