@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-12T19:50:21.981727+00:00",
+  "updatedAt": "2026-09-12T21:23:24.714996+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7651,7 +7651,50 @@
     },
     "2026-09-10": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-10-3b3607298700",
+            "title": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de",
+            "titleZh": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de",
+            "summary": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+            "summaryZh": "IREN 的 24 億美元 Blue Owl 救援資金迎來 6.84 億美元的清算。ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQczhDT1dob1JMN0h1djNjbTNNLXhVUmFNN3FUbk5LQ3NVdGdKVUZoZjB4SFVwQTVZdXFXXzZVUnU4SU1wSFhqVU5uSGZiMFlXNEZlc3NGWUVEaHBPcWg2ajh3RnQxbkk2bXdqNTU5Wm5fSWhhWFpYazl0UUxvRXl5OEVhTkhZdGxIdXNKT1lrcUJWUDhTT0pjSWdaNy1PenpRQlZJemxNYWR4Y2ZTYnNkbHAzWlJKZXBBQUFoRGpoalNKMkFYWV9qMXNjZnpTNlowM2E1Zg?oc=5",
+            "source": "ad-hoc-news.de",
+            "publishedAt": "2026-09-10",
+            "lede": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+            "articleExcerpt": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de. IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+            "contentFingerprint": "af728f97dfd8a565",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article title references IREN's '$2.4 Billion Blue Owl Lifeline', implying a credit or financing facility provided by Blue Owl — consistent with its core private credit/direct lending business. No indication of equity, infrastructure, or other non-credit activity."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.63,
+              "finalScore": 12.629999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [
           {
@@ -7703,7 +7746,50 @@
             }
           }
         ],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-10-e64f3dfcba5a",
+            "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+            "titleZh": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+            "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "summaryZh": "KKR（KKR）2026年第一季度財報電話會議紀錄《財富》",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
+            "source": "Fortune",
+            "publishedAt": "2026-09-10",
+            "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "contentFingerprint": "abdc2ac311d3bdca",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Earnings call transcripts for KKR typically include disclosures and performance updates across its major segments, including its large and publicly reported private credit/direct lending business; absent contrary indication (e.g., explicit focus only on buyouts or infrastructure), earnings calls are presumed to cover material credit activities given their scale and prominence in KKR's financial reporting."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.14,
+              "finalScore": 11.14,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -7758,6 +7844,48 @@
       },
       "items": [
         {
+          "id": "2026-09-10-3b3607298700",
+          "title": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de",
+          "titleZh": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de",
+          "summary": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+          "summaryZh": "IREN 的 24 億美元 Blue Owl 救援資金迎來 6.84 億美元的清算。ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQczhDT1dob1JMN0h1djNjbTNNLXhVUmFNN3FUbk5LQ3NVdGdKVUZoZjB4SFVwQTVZdXFXXzZVUnU4SU1wSFhqVU5uSGZiMFlXNEZlc3NGWUVEaHBPcWg2ajh3RnQxbkk2bXdqNTU5Wm5fSWhhWFpYazl0UUxvRXl5OEVhTkhZdGxIdXNKT1lrcUJWUDhTT0pjSWdaNy1PenpRQlZJemxNYWR4Y2ZTYnNkbHAzWlJKZXBBQUFoRGpoalNKMkFYWV9qMXNjZnpTNlowM2E1Zg?oc=5",
+          "source": "ad-hoc-news.de",
+          "publishedAt": "2026-09-10",
+          "lede": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+          "articleExcerpt": "IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning - ad-hoc-news.de. IREN's $2.4 Billion Blue Owl Lifeline Meets a $684 Million Reckoning ad-hoc-news.de",
+          "contentFingerprint": "af728f97dfd8a565",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article title references IREN's '$2.4 Billion Blue Owl Lifeline', implying a credit or financing facility provided by Blue Owl — consistent with its core private credit/direct lending business. No indication of equity, infrastructure, or other non-credit activity."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.63,
+            "finalScore": 12.629999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-10-b3d5bd35edcc",
           "title": "Pretium acquires Cascade Financial in push to expand manufactured housing lending - pei-privaterealestate.com",
           "titleZh": "Pretium acquires Cascade Financial in push to expand manufactured housing lending - pei-privaterealestate.com",
@@ -7802,6 +7930,48 @@
             "keywordScore": 20,
             "semanticScore": 7.05,
             "finalScore": 27.05,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-10-e64f3dfcba5a",
+          "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+          "titleZh": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+          "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "summaryZh": "KKR（KKR）2026年第一季度財報電話會議紀錄《財富》",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
+          "source": "Fortune",
+          "publishedAt": "2026-09-10",
+          "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "contentFingerprint": "abdc2ac311d3bdca",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Earnings call transcripts for KKR typically include disclosures and performance updates across its major segments, including its large and publicly reported private credit/direct lending business; absent contrary indication (e.g., explicit focus only on buyouts or infrastructure), earnings calls are presumed to cover material credit activities given their scale and prominence in KKR's financial reporting."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.14,
+            "finalScore": 11.14,
             "semanticEnabled": true
           }
         },
@@ -7861,19 +8031,92 @@
             "source": "connectmoney.com",
             "publishedAt": "2026-09-11",
             "lede": "Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+            "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt - connectmoney.com. Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+            "contentFingerprint": "da064d57ffeab83f",
             "region": "Global",
             "gps": [
               "Blue Owl",
               "OTF"
             ],
             "sectors": [
-              "software"
+              "software",
+              "private credit / direct lending"
             ],
             "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is Blue Owl's credit-focused vehicle targeting technology companies; the $800M debt raise supports its direct lending/credit activities in the software sector."
+            },
             "scoreBreakdown": {
-              "keywordScore": 18,
-              "semanticScore": 2.26,
-              "finalScore": 20.259999999999998,
+              "keywordScore": 21,
+              "semanticScore": 6.37,
+              "finalScore": 27.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-11-63c751a9f287",
+            "title": "Blue Owl Technology Finance Raises $800M in Debt",
+            "titleZh": "Blue Owl Technology Finance Raises $800M in Debt",
+            "summary": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept.",
+            "summaryZh": "Blue Owl Technology Finance Corp.（OTF）自6月30日以來已籌集8億美元債務融資，並完成一筆1.5億美元的高級無擔保票據私募發行；該業務發展公司持續為其不斷擴大的科技相關投資組合提供資金。本次最新融資包括1.5億美元、票面利率7.60%、到期日為9月的高級無擔保票據。",
+            "url": "https://www.connectmoney.com/stories/blue-owl-technology-finance-raises-800m-in-debt/",
+            "source": "Google News",
+            "publishedAt": "2026-09-11",
+            "lede": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ... The post Blue Owl Technology Finance Raises $800M in Debt appeared first on Connect Money .",
+            "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt. Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ...",
+            "contentFingerprint": "66067143b438b20b",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "keywordSectors": [
+                "software",
+                "CLO"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article describes Blue Owl Technology Finance Corp. (a BDC under Blue Owl/OTF) raising debt to fund technology-related investments — directly aligned with private credit/direct lending in the software sub-sector. OTF is listed as a tracked GP and is explicitly named as the entity behind the BDC."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 7.79,
+              "finalScore": 29.79,
               "semanticEnabled": true
             }
           }
@@ -7889,19 +8132,91 @@
             "source": "connectmoney.com",
             "publishedAt": "2026-09-11",
             "lede": "Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+            "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt - connectmoney.com. Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+            "contentFingerprint": "da064d57ffeab83f",
             "region": "Global",
             "gps": [
               "Blue Owl",
               "OTF"
             ],
             "sectors": [
-              "software"
+              "software",
+              "private credit / direct lending"
             ],
             "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is Blue Owl's dedicated technology-focused direct lending platform; raising $800M in debt indicates credit/financing activity, squarely within tracked private credit / direct lending sub-sector."
+            },
             "scoreBreakdown": {
-              "keywordScore": 18,
-              "semanticScore": 2.26,
-              "finalScore": 20.259999999999998,
+              "keywordScore": 21,
+              "semanticScore": 6.37,
+              "finalScore": 27.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-11-63c751a9f287",
+            "title": "Blue Owl Technology Finance Raises $800M in Debt",
+            "titleZh": "Blue Owl Technology Finance Raises $800M in Debt",
+            "summary": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept.",
+            "summaryZh": "Blue Owl Technology Finance Corp.（OTF）自6月30日以來已籌集8億美元債務融資，並完成一筆1.5億美元的高級無擔保票據私募發行；該業務發展公司持續為其不斷擴大的科技相關投資組合提供資金。本次最新融資包括1.5億美元、票面利率7.60%、到期日為9月的高級無擔保票據。",
+            "url": "https://www.connectmoney.com/stories/blue-owl-technology-finance-raises-800m-in-debt/",
+            "source": "Google News",
+            "publishedAt": "2026-09-11",
+            "lede": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ... The post Blue Owl Technology Finance Raises $800M in Debt appeared first on Connect Money .",
+            "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt. Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ...",
+            "contentFingerprint": "66067143b438b20b",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "keywordSectors": [
+                "software",
+                "CLO"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article describes Blue Owl Technology Finance Corp. (a BDC under Blue Owl/OTF) raising debt to fund technology-related investments — directly aligned with private credit/direct lending in the software sub-sector. OTF is listed as a tracked GP and is explicitly named as the entity behind the BDC."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 7.79,
+              "finalScore": 29.79,
               "semanticEnabled": true
             }
           }
@@ -7993,19 +8308,92 @@
           "source": "connectmoney.com",
           "publishedAt": "2026-09-11",
           "lede": "Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+          "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt - connectmoney.com. Blue Owl Technology Finance Raises $800M in Debt connectmoney.com",
+          "contentFingerprint": "da064d57ffeab83f",
           "region": "Global",
           "gps": [
             "Blue Owl",
             "OTF"
           ],
           "sectors": [
-            "software"
+            "software",
+            "private credit / direct lending"
           ],
           "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance is Blue Owl's credit-focused vehicle targeting technology companies; the $800M debt raise supports its direct lending/credit activities in the software sector."
+          },
           "scoreBreakdown": {
-            "keywordScore": 18,
-            "semanticScore": 2.26,
-            "finalScore": 20.259999999999998,
+            "keywordScore": 21,
+            "semanticScore": 6.37,
+            "finalScore": 27.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-11-63c751a9f287",
+          "title": "Blue Owl Technology Finance Raises $800M in Debt",
+          "titleZh": "Blue Owl Technology Finance Raises $800M in Debt",
+          "summary": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept.",
+          "summaryZh": "Blue Owl Technology Finance Corp.（OTF）自6月30日以來已籌集8億美元債務融資，並完成一筆1.5億美元的高級無擔保票據私募發行；該業務發展公司持續為其不斷擴大的科技相關投資組合提供資金。本次最新融資包括1.5億美元、票面利率7.60%、到期日為9月的高級無擔保票據。",
+          "url": "https://www.connectmoney.com/stories/blue-owl-technology-finance-raises-800m-in-debt/",
+          "source": "Google News",
+          "publishedAt": "2026-09-11",
+          "lede": "Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ... The post Blue Owl Technology Finance Raises $800M in Debt appeared first on Connect Money .",
+          "articleExcerpt": "Blue Owl Technology Finance Raises $800M in Debt. Blue Owl Technology Finance Corp. (OTF) has raised $800 million in debt financing since June 30, closing a $150 million private placement of senior unsecured notes as the business development company continues to fund a growing portfolio of technology-related investments. The latest financing consists of $150 million of 7.60% senior unsecured notes due Sept. 3, ...",
+          "contentFingerprint": "66067143b438b20b",
+          "region": "US",
+          "gps": [
+            "Blue Owl",
+            "OTF"
+          ],
+          "sectors": [
+            "software",
+            "private credit / direct lending",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "llmGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "keywordSectors": [
+              "software",
+              "CLO"
+            ],
+            "llmSectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article describes Blue Owl Technology Finance Corp. (a BDC under Blue Owl/OTF) raising debt to fund technology-related investments — directly aligned with private credit/direct lending in the software sub-sector. OTF is listed as a tracked GP and is explicitly named as the entity behind the BDC."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 22,
+            "semanticScore": 7.79,
+            "finalScore": 29.79,
             "semanticEnabled": true
           }
         },
@@ -8115,6 +8503,56 @@
               "finalScore": 10.46,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-12-8fe46838b61b",
+            "title": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "titleZh": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "summary": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "summaryZh": "Blue Owl、KKR、黑石集團、Apollo Global股票下跌，因私人信貸風險依然存在（Benzinga）",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ05PbEF2V1RNVVJrc3dIZTFTdG1yNmhwV0EwczB2MWNVZHJmSmlBajlZdEs5cGFqNElkQ1NjQ3U4cHNseUNSbnZoVHVQaGxMWWg5U1FJc0xWalNCWkhLdkExc1pSNFpTcW02WHpWOVVIQzVOYTQ2OW95YjhHeEVxZ3gzS3hZZmRRUnhTZHJPZ1R4dVQyeHExUkdGOFltRks1bno1TDF4R0RHV01rVjVlVDVHV0ppcEdhdG1CcnZTbzkxZklkQzdqUGp0bEpYY014eHF5b01Ndw?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-09-12",
+            "lede": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "articleExcerpt": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga. Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "contentFingerprint": "898de58aaf8e402b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Apollo"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article explicitly references 'Private Credit Risks' in connection with Blue Owl, KKR, and Apollo — all tracked GPs — and focuses on their stock performance driven by concerns in their private credit businesses. No non-credit activities (e.g., buyouts, infrastructure, real estate equity) are mentioned."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 5.53,
+              "finalScore": 27.53,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -8163,13 +8601,115 @@
             }
           }
         ],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-12-8fe46838b61b",
+            "title": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "titleZh": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "summary": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "summaryZh": "Blue Owl、KKR、黑石集團、Apollo Global股票下跌，因私人信貸風險依然存在（Benzinga）",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ05PbEF2V1RNVVJrc3dIZTFTdG1yNmhwV0EwczB2MWNVZHJmSmlBajlZdEs5cGFqNElkQ1NjQ3U4cHNseUNSbnZoVHVQaGxMWWg5U1FJc0xWalNCWkhLdkExc1pSNFpTcW02WHpWOVVIQzVOYTQ2OW95YjhHeEVxZ3gzS3hZZmRRUnhTZHJPZ1R4dVQyeHExUkdGOFltRks1bno1TDF4R0RHV01rVjVlVDVHV0ppcEdhdG1CcnZTbzkxZklkQzdqUGp0bEpYY014eHF5b01Ndw?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-09-12",
+            "lede": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "articleExcerpt": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga. Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "contentFingerprint": "898de58aaf8e402b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Apollo"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article explicitly references 'Private Credit Risks' in connection with Blue Owl, KKR, and Apollo — all tracked GPs — and focuses on their stock performance driven by concerns in their private credit businesses. No non-credit activities (e.g., buyouts, infrastructure, real estate equity) are mentioned."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 5.53,
+              "finalScore": 27.53,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-09-12-8fe46838b61b",
+            "title": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "titleZh": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+            "summary": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "summaryZh": "Blue Owl、KKR、黑石集團、Apollo Global股票下跌，因私人信貸風險依然存在（Benzinga）",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ05PbEF2V1RNVVJrc3dIZTFTdG1yNmhwV0EwczB2MWNVZHJmSmlBajlZdEs5cGFqNElkQ1NjQ3U4cHNseUNSbnZoVHVQaGxMWWg5U1FJc0xWalNCWkhLdkExc1pSNFpTcW02WHpWOVVIQzVOYTQ2OW95YjhHeEVxZ3gzS3hZZmRRUnhTZHJPZ1R4dVQyeHExUkdGOFltRks1bno1TDF4R0RHV01rVjVlVDVHV0ppcEdhdG1CcnZTbzkxZklkQzdqUGp0bEpYY014eHF5b01Ndw?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-09-12",
+            "lede": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "articleExcerpt": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga. Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+            "contentFingerprint": "898de58aaf8e402b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Apollo"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Apollo"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article explicitly references 'Private Credit Risks' in connection with Blue Owl, KKR, and Apollo — all tracked GPs — and focuses on their stock performance driven by concerns in their private credit businesses. No non-credit activities (e.g., buyouts, infrastructure, real estate equity) are mentioned."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 5.53,
+              "finalScore": 27.53,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
@@ -8212,6 +8752,56 @@
             "keywordScore": 6,
             "semanticScore": 4.46,
             "finalScore": 10.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-12-8fe46838b61b",
+          "title": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+          "titleZh": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga",
+          "summary": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+          "summaryZh": "Blue Owl、KKR、黑石集團、Apollo Global股票下跌，因私人信貸風險依然存在（Benzinga）",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ05PbEF2V1RNVVJrc3dIZTFTdG1yNmhwV0EwczB2MWNVZHJmSmlBajlZdEs5cGFqNElkQ1NjQ3U4cHNseUNSbnZoVHVQaGxMWWg5U1FJc0xWalNCWkhLdkExc1pSNFpTcW02WHpWOVVIQzVOYTQ2OW95YjhHeEVxZ3gzS3hZZmRRUnhTZHJPZ1R4dVQyeHExUkdGOFltRks1bno1TDF4R0RHV01rVjVlVDVHV0ppcEdhdG1CcnZTbzkxZklkQzdqUGp0bEpYY014eHF5b01Ndw?oc=5",
+          "source": "Benzinga",
+          "publishedAt": "2026-09-12",
+          "lede": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+          "articleExcerpt": "Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain - Benzinga. Blue Owl, KKR, Blackstone, Apollo Global Stocks Retreat as Private Credit Risks Remain Benzinga",
+          "contentFingerprint": "898de58aaf8e402b",
+          "region": "Global",
+          "gps": [
+            "Blue Owl",
+            "KKR",
+            "Apollo"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "KKR",
+              "Apollo"
+            ],
+            "llmGps": [
+              "Blue Owl",
+              "KKR",
+              "Apollo"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article explicitly references 'Private Credit Risks' in connection with Blue Owl, KKR, and Apollo — all tracked GPs — and focuses on their stock performance driven by concerns in their private credit businesses. No non-credit activities (e.g., buyouts, infrastructure, real estate equity) are mentioned."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 22,
+            "semanticScore": 5.53,
+            "finalScore": 27.53,
             "semanticEnabled": true
           }
         },
