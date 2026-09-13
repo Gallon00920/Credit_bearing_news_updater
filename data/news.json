@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-13T02:21:38.848954+00:00",
+  "updatedAt": "2026-09-13T08:00:11.806236+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9069,7 +9069,48 @@
         "Apollo": [],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-13-12e06a7ee035",
+            "title": "HSBC Ultra Short Term Fund Direct growth - Upstox",
+            "titleZh": "HSBC Ultra Short Term Fund Direct growth - Upstox",
+            "summary": "HSBC Ultra Short Term Fund Direct growth Upstox",
+            "summaryZh": "匯豐超短期基金（直接成長型）Upstox",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNfSkRPenA1b2xtRU1taEluM0hJN0poWUJITks0a2Y0Vi1DMkczTzZPUFc5bDRmQTZmblY0Mm41TkFSWjBacjJ4cjJndkpmOGJtNWZBenh2M1FPeHdTdnNBTVZadTN2SDVKZW9tTEptSmliUTFMTGlpRWR0MzNBNU43T2Rycm1mWXROWDliM3dkUQ?oc=5",
+            "source": "Upstox",
+            "publishedAt": "2026-09-13",
+            "lede": "HSBC Ultra Short Term Fund Direct growth Upstox",
+            "articleExcerpt": "HSBC Ultra Short Term Fund Direct growth - Upstox. HSBC Ultra Short Term Fund Direct growth Upstox",
+            "contentFingerprint": "c17dcd001f919cba",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.36,
+              "finalScore": 11.36,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -9112,6 +9153,46 @@
             "keywordScore": 18,
             "semanticScore": 6.0,
             "finalScore": 24.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-13-12e06a7ee035",
+          "title": "HSBC Ultra Short Term Fund Direct growth - Upstox",
+          "titleZh": "HSBC Ultra Short Term Fund Direct growth - Upstox",
+          "summary": "HSBC Ultra Short Term Fund Direct growth Upstox",
+          "summaryZh": "匯豐超短期基金（直接成長型）Upstox",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNfSkRPenA1b2xtRU1taEluM0hJN0poWUJITks0a2Y0Vi1DMkczTzZPUFc5bDRmQTZmblY0Mm41TkFSWjBacjJ4cjJndkpmOGJtNWZBenh2M1FPeHdTdnNBTVZadTN2SDVKZW9tTEptSmliUTFMTGlpRWR0MzNBNU43T2Rycm1mWXROWDliM3dkUQ?oc=5",
+          "source": "Upstox",
+          "publishedAt": "2026-09-13",
+          "lede": "HSBC Ultra Short Term Fund Direct growth Upstox",
+          "articleExcerpt": "HSBC Ultra Short Term Fund Direct growth - Upstox. HSBC Ultra Short Term Fund Direct growth Upstox",
+          "contentFingerprint": "c17dcd001f919cba",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.36,
+            "finalScore": 11.36,
             "semanticEnabled": true
           }
         }
