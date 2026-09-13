@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-13T13:09:22.815728+00:00",
+  "updatedAt": "2026-09-13T16:59:48.061422+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9062,7 +9062,50 @@
         ],
         "KKR": [],
         "PAG": [],
-        "Bayview": [],
+        "Bayview": [
+          {
+            "id": "2026-09-13-6bb9f2a419fd",
+            "title": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times",
+            "titleZh": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times",
+            "summary": "Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+            "summaryZh": "Castle Trust Bank 被 Sixth Street 和 Bayview 收購，《金融科技時報》",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEVFU0E1Z3NsLS0tYlBtQ3g0NWRuN2l2UGN6cHF6ZVRYaVBHSHdLdmthU2VWNWgyYVBRbDVYOEF2MFVUa0FZdktRaXZ1X2ZoVnhDTmh1OXkyNE4xWmthRE01emhKTEtYT2E1bS05VTAxakZnazN6aTcyMkVWQjhhLXUxYjI2eGdVLUIw?oc=5",
+            "source": "The Fintech Times",
+            "publishedAt": "2026-09-13",
+            "lede": "Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+            "articleExcerpt": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times. Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+            "contentFingerprint": "fbc6ae3e8ded5b73",
+            "region": "Global",
+            "gps": [
+              "Bayview"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bayview"
+              ],
+              "llmGps": [
+                "Bayview"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Bayview is a tracked GP, and its involvement in the acquisition of Castle Trust Bank — a bank with lending and credit activities — aligns with its credit-focused business (e.g., specialty finance, consumer and commercial lending). Sixth Street is not a tracked GP, so only Bayview is tagged. The transaction reflects credit/financing activity, not equity buyout or non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.39,
+              "finalScore": 11.39,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
@@ -9153,6 +9196,48 @@
             "keywordScore": 18,
             "semanticScore": 6.0,
             "finalScore": 24.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-13-6bb9f2a419fd",
+          "title": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times",
+          "titleZh": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times",
+          "summary": "Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+          "summaryZh": "Castle Trust Bank 被 Sixth Street 和 Bayview 收購，《金融科技時報》",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEVFU0E1Z3NsLS0tYlBtQ3g0NWRuN2l2UGN6cHF6ZVRYaVBHSHdLdmthU2VWNWgyYVBRbDVYOEF2MFVUa0FZdktRaXZ1X2ZoVnhDTmh1OXkyNE4xWmthRE01emhKTEtYT2E1bS05VTAxakZnazN6aTcyMkVWQjhhLXUxYjI2eGdVLUIw?oc=5",
+          "source": "The Fintech Times",
+          "publishedAt": "2026-09-13",
+          "lede": "Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+          "articleExcerpt": "Castle Trust Bank Acquired by Sixth Street and Bayview - The Fintech Times. Castle Trust Bank Acquired by Sixth Street and Bayview The Fintech Times",
+          "contentFingerprint": "fbc6ae3e8ded5b73",
+          "region": "Global",
+          "gps": [
+            "Bayview"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bayview"
+            ],
+            "llmGps": [
+              "Bayview"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Bayview is a tracked GP, and its involvement in the acquisition of Castle Trust Bank — a bank with lending and credit activities — aligns with its credit-focused business (e.g., specialty finance, consumer and commercial lending). Sixth Street is not a tracked GP, so only Bayview is tagged. The transaction reflects credit/financing activity, not equity buyout or non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.39,
+            "finalScore": 11.39,
             "semanticEnabled": true
           }
         },
