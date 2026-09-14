@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-14T02:34:19.877765+00:00",
+  "updatedAt": "2026-09-14T08:27:32.051059+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9013,7 +9013,48 @@
     },
     "2026-09-13": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-13-73fcf6ca8393",
+            "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "summaryZh": "NKE、OWL、SMR 股價上周創下52週新低：引發拋售的原因為何？Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-13",
+            "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "contentFingerprint": "96ce06dc23445b05",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a publicly traded entity whose primary business is credit-focused (private credit, direct lending, structured credit, CLOs); the article references OWL's stock price decline, implying market activity related to its core credit business — no indication of non-credit activities like PE or infrastructure."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.46,
+              "finalScore": 10.46,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [
           {
@@ -9156,6 +9197,46 @@
         ]
       },
       "items": [
+        {
+          "id": "2026-09-13-73fcf6ca8393",
+          "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "summaryZh": "NKE、OWL、SMR 股價上周創下52週新低：引發拋售的原因為何？Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-13",
+          "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "contentFingerprint": "96ce06dc23445b05",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a publicly traded entity whose primary business is credit-focused (private credit, direct lending, structured credit, CLOs); the article references OWL's stock price decline, implying market activity related to its core credit business — no indication of non-credit activities like PE or infrastructure."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.46,
+            "finalScore": 10.46,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-09-13-1331205a8f49",
           "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
