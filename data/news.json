@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-15T18:47:26.664389+00:00",
+  "updatedAt": "2026-09-15T22:37:00.674558+00:00",
   "scope": {
     "regions": [
       "US",
@@ -10450,9 +10450,148 @@
               "finalScore": 15.57,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-15-50fe6fd3fc03",
+            "title": "8-K  - Current report",
+            "titleZh": "8-K  - Current report",
+            "summary": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+            "summaryZh": "提交日期：2026-09-15 檔案編號：0001193125-26-391950 檔案大小：1 MB 第1.01項：簽訂重大最終協議 第2.03項：註冊人產生直接財務義務或表外安排項下之義務 第9.01項：財務報表及附件",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747777/000119312526391950/0001193125-26-391950-index.htm",
+            "source": "SEC Blue Owl Technology Finance filings",
+            "publishedAt": "2026-09-15",
+            "lede": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+            "articleExcerpt": "8-K - Current report. EDGAR Filing Documents for 0001193125-26-391950 SEC.gov EDGAR Latest Filings Filings search tools Filing Detail SEC Home » Company Search » Current Page Form 8-K - Current report: SEC Accession No. 0001193125-26-391950 Filing Date 2026-09-15 Accepted 2026-09-15 16:15:19 Documents 12 Period of Report 2026-09-11 Items Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits Interactive Data Document Format Files Seq Description Document Type Size 1 8-K d74167d8k.htm iXBRL 8-K 25267 2 EX-10.1 d74167dex101.htm EX-10.1 1074458 Complete submission text file 0001193125-26-391950.txt 1467476 Data Files Seq Description Document Type Size 3 XBRL TAXONOMY EXTENSION SCHEMA otf-20260911.xsd EX-101.SCH 3175 4 XBRL TAXONOMY EXTENSION LABEL LINKBASE otf-20260911_lab.xml EX-101.LAB 17234 5 XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE otf-20260911_pre.xml EX-101.PRE 10810 15 EXTRACTED XBRL INSTANCE DOCUMENT d74167d8k_htm.xml XML 3502 Mailing Address 399 PARK AVENUE NEW YORK NY 10022 Business Address 399 PARK AVENUE NEW YORK NY 10022 (212) 419-3000 Blue Owl Technology Finance Corp. (Filer) CIK : 0001747777 (see all company filings) EIN. : 000000000 | State of Incorp.: MD | Fiscal Year End: 1231 Type: 8-K | Act: 34 | File No.: 814-01284",
+            "contentFingerprint": "9b753dc4b9901bff",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "OTF"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The filing is for 'Blue Owl Technology Finance Corp.', a registered entity with CIK 0001747777, and the document is an SEC Form 8-K reporting entry into a material definitive agreement and creation of a direct financial obligation — consistent with credit/financing activity. 'OTF' is the tracked abbreviation for Owl Rock Technology Finance Corp., a publicly traded BDC affiliated with Blue Owl focused on technology-focused direct lending. Although 'Blue Owl' is in the name, the filer is specifically OTF (a credit vehicle), and the filing context (Items 1.01 and 2.03) confirms credit-relevant activity — not equity, PE, or non-credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 4.35,
+              "finalScore": 26.35,
+              "semanticEnabled": true
+            }
           }
         ],
-        "OTF": [],
+        "OTF": [
+          {
+            "id": "2026-09-15-50fe6fd3fc03",
+            "title": "8-K  - Current report",
+            "titleZh": "8-K  - Current report",
+            "summary": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+            "summaryZh": "提交日期：2026-09-15 檔案編號：0001193125-26-391950 檔案大小：1 MB 第1.01項：簽訂重大最終協議 第2.03項：註冊人產生直接財務義務或表外安排項下之義務 第9.01項：財務報表及附件",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747777/000119312526391950/0001193125-26-391950-index.htm",
+            "source": "SEC Blue Owl Technology Finance filings",
+            "publishedAt": "2026-09-15",
+            "lede": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+            "articleExcerpt": "8-K - Current report. EDGAR Filing Documents for 0001193125-26-391950 SEC.gov EDGAR Latest Filings Filings search tools Filing Detail SEC Home » Company Search » Current Page Form 8-K - Current report: SEC Accession No. 0001193125-26-391950 Filing Date 2026-09-15 Accepted 2026-09-15 16:15:19 Documents 12 Period of Report 2026-09-11 Items Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits Interactive Data Document Format Files Seq Description Document Type Size 1 8-K d74167d8k.htm iXBRL 8-K 25267 2 EX-10.1 d74167dex101.htm EX-10.1 1074458 Complete submission text file 0001193125-26-391950.txt 1467476 Data Files Seq Description Document Type Size 3 XBRL TAXONOMY EXTENSION SCHEMA otf-20260911.xsd EX-101.SCH 3175 4 XBRL TAXONOMY EXTENSION LABEL LINKBASE otf-20260911_lab.xml EX-101.LAB 17234 5 XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE otf-20260911_pre.xml EX-101.PRE 10810 15 EXTRACTED XBRL INSTANCE DOCUMENT d74167d8k_htm.xml XML 3502 Mailing Address 399 PARK AVENUE NEW YORK NY 10022 Business Address 399 PARK AVENUE NEW YORK NY 10022 (212) 419-3000 Blue Owl Technology Finance Corp. (Filer) CIK : 0001747777 (see all company filings) EIN. : 000000000 | State of Incorp.: MD | Fiscal Year End: 1231 Type: 8-K | Act: 34 | File No.: 814-01284",
+            "contentFingerprint": "9b753dc4b9901bff",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "OTF"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The filing is for 'Blue Owl Technology Finance Corp.', a registered entity with CIK 0001747777, and the document is an SEC Form 8-K reporting entry into a material definitive agreement and creation of a direct financial obligation — consistent with credit/financing activity. 'OTF' is the tracked abbreviation for Owl Rock Technology Finance Corp., a publicly traded BDC affiliated with Blue Owl focused on technology-focused direct lending. Although 'Blue Owl' is in the name, the filer is specifically OTF (a credit vehicle), and the filing context (Items 1.01 and 2.03) confirms credit-relevant activity — not equity, PE, or non-credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 4.35,
+              "finalScore": 26.35,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-15-13cb6b954626",
+            "title": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO",
+            "titleZh": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO",
+            "summary": "NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis.",
+            "summaryZh": "紐約——（商業線）TPG RE Finance Trust, Inc.（紐約證券交易所代碼：TRTX）（「TRTX」或「本公司」）今日宣布TRTX 2026-FL8定價，該交易為一筆規模達10億美元的管理型商業不動產抵押貸款債務憑證。本公司預計將向機構投資者發行約8.2億美元之投資級證券，為TRTX提供以非逐日盯市、無追索權方式提供的定期融資。",
+            "url": "http://www.businesswire.com/news/home/20260915566974/en/TPG-RE-Finance-Trust-Inc.-Announces-Pricing-of-1.0-Billion-Commercial-Real-Estate-CLO/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+            "source": "Google News",
+            "publishedAt": "2026-09-15",
+            "lede": "NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis. TRTX 2026-FL8 includes a 30-month reinvestment period and a weighted average int",
+            "articleExcerpt": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO. NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis. TRTX 2026-FL8 includes a 30-month reinvestment period and a weighted average int",
+            "contentFingerprint": "f11a47f639077f2f",
+            "region": "US",
+            "gps": [
+              "OTF"
+            ],
+            "sectors": [
+              "real estate",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "OTF"
+              ],
+              "keywordSectors": [
+                "real estate",
+                "CLO"
+              ],
+              "llmSectors": [
+                "CLO"
+              ],
+              "llmExclude": false,
+              "llmReason": "TPG RE Finance Trust, Inc. (TRTX) is the publicly traded vehicle of Oaktree's real estate finance business — commonly referred to as OTF (Oaktree Real Estate Finance Trust, formerly known as Oaktree Strategic Income Corp. and rebranded under OTF branding). The article describes a $1B commercial real estate CLO, which is credit-focused structured finance activity directly tied to OTF’s lending/financing strategy — not equity real estate or other non-credit businesses."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.74,
+              "finalScore": 21.740000000000002,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Pretium": [
           {
             "id": "2026-09-15-1331205a8f49",
@@ -10624,6 +10763,48 @@
               "keywordScore": 19,
               "semanticScore": 5.88,
               "finalScore": 24.88,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-15-f5595372fc53",
+            "title": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch",
+            "titleZh": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch",
+            "summary": "KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+            "summaryZh": "KKR投資級別貸款承作額突破800億美元，隨信貸需求增長 《另類投資觀察》",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFlncGNlRjNWcUU4S1ZvbXJ3MjRpb2Q5ZzFheUtVd0hYZjBCV0xpTnNreVBWaW1FWUpZNWZtbFBlWHhTSl9jQ0xIRkQycVdWNi1hUTVwQ0pvc2pmQm9pQkFMYm1HSWlkV2tUUVFvOGViQXRqa0RtTllQbXpiQmQyekJyVnpvclNYRnRPZjJKQTNmS0VTeTM4dkF1VlhKbXlXVjZQUEtkbjhyVUtoelNJcw?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-09-15",
+            "lede": "KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+            "articleExcerpt": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch. KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+            "contentFingerprint": "7b54cb54bb4b7f9d",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article highlights KKR's $80bn in investment-grade origination, which falls under its credit-focused direct lending activity — a core part of its private credit business, not equity, infrastructure, or other non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 7.05,
+              "finalScore": 21.05,
               "semanticEnabled": true
             }
           }
@@ -10891,6 +11072,97 @@
           }
         },
         {
+          "id": "2026-09-15-50fe6fd3fc03",
+          "title": "8-K  - Current report",
+          "titleZh": "8-K  - Current report",
+          "summary": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+          "summaryZh": "提交日期：2026-09-15 檔案編號：0001193125-26-391950 檔案大小：1 MB 第1.01項：簽訂重大最終協議 第2.03項：註冊人產生直接財務義務或表外安排項下之義務 第9.01項：財務報表及附件",
+          "url": "https://www.sec.gov/Archives/edgar/data/1747777/000119312526391950/0001193125-26-391950-index.htm",
+          "source": "SEC Blue Owl Technology Finance filings",
+          "publishedAt": "2026-09-15",
+          "lede": "Filed: 2026-09-15 AccNo: 0001193125-26-391950 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+          "articleExcerpt": "8-K - Current report. EDGAR Filing Documents for 0001193125-26-391950 SEC.gov EDGAR Latest Filings Filings search tools Filing Detail SEC Home » Company Search » Current Page Form 8-K - Current report: SEC Accession No. 0001193125-26-391950 Filing Date 2026-09-15 Accepted 2026-09-15 16:15:19 Documents 12 Period of Report 2026-09-11 Items Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits Interactive Data Document Format Files Seq Description Document Type Size 1 8-K d74167d8k.htm iXBRL 8-K 25267 2 EX-10.1 d74167dex101.htm EX-10.1 1074458 Complete submission text file 0001193125-26-391950.txt 1467476 Data Files Seq Description Document Type Size 3 XBRL TAXONOMY EXTENSION SCHEMA otf-20260911.xsd EX-101.SCH 3175 4 XBRL TAXONOMY EXTENSION LABEL LINKBASE otf-20260911_lab.xml EX-101.LAB 17234 5 XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE otf-20260911_pre.xml EX-101.PRE 10810 15 EXTRACTED XBRL INSTANCE DOCUMENT d74167d8k_htm.xml XML 3502 Mailing Address 399 PARK AVENUE NEW YORK NY 10022 Business Address 399 PARK AVENUE NEW YORK NY 10022 (212) 419-3000 Blue Owl Technology Finance Corp. (Filer) CIK : 0001747777 (see all company filings) EIN. : 000000000 | State of Incorp.: MD | Fiscal Year End: 1231 Type: 8-K | Act: 34 | File No.: 814-01284",
+          "contentFingerprint": "9b753dc4b9901bff",
+          "region": "US",
+          "gps": [
+            "Blue Owl",
+            "OTF"
+          ],
+          "sectors": [
+            "software",
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "llmGps": [
+              "OTF"
+            ],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The filing is for 'Blue Owl Technology Finance Corp.', a registered entity with CIK 0001747777, and the document is an SEC Form 8-K reporting entry into a material definitive agreement and creation of a direct financial obligation — consistent with credit/financing activity. 'OTF' is the tracked abbreviation for Owl Rock Technology Finance Corp., a publicly traded BDC affiliated with Blue Owl focused on technology-focused direct lending. Although 'Blue Owl' is in the name, the filer is specifically OTF (a credit vehicle), and the filing context (Items 1.01 and 2.03) confirms credit-relevant activity — not equity, PE, or non-credit business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 22,
+            "semanticScore": 4.35,
+            "finalScore": 26.35,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-15-13cb6b954626",
+          "title": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO",
+          "titleZh": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO",
+          "summary": "NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis.",
+          "summaryZh": "紐約——（商業線）TPG RE Finance Trust, Inc.（紐約證券交易所代碼：TRTX）（「TRTX」或「本公司」）今日宣布TRTX 2026-FL8定價，該交易為一筆規模達10億美元的管理型商業不動產抵押貸款債務憑證。本公司預計將向機構投資者發行約8.2億美元之投資級證券，為TRTX提供以非逐日盯市、無追索權方式提供的定期融資。",
+          "url": "http://www.businesswire.com/news/home/20260915566974/en/TPG-RE-Finance-Trust-Inc.-Announces-Pricing-of-1.0-Billion-Commercial-Real-Estate-CLO/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+          "source": "Google News",
+          "publishedAt": "2026-09-15",
+          "lede": "NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis. TRTX 2026-FL8 includes a 30-month reinvestment period and a weighted average int",
+          "articleExcerpt": "TPG RE Finance Trust, Inc. Announces Pricing of $1.0 Billion Commercial Real Estate CLO. NEW YORK--(BUSINESS WIRE)--TPG RE Finance Trust, Inc. (NYSE: TRTX) (“TRTX” or the “Company”) today announced the pricing of TRTX 2026-FL8, a $1.0 billion managed Commercial Real Estate Collateralized Loan Obligation. The Company expects approximately $820.0 million of investment grade securities to be placed with institutional investors, providing TRTX with term financing on a non-mark-to-market, non-recourse basis. TRTX 2026-FL8 includes a 30-month reinvestment period and a weighted average int",
+          "contentFingerprint": "f11a47f639077f2f",
+          "region": "US",
+          "gps": [
+            "OTF"
+          ],
+          "sectors": [
+            "real estate",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "OTF"
+            ],
+            "keywordSectors": [
+              "real estate",
+              "CLO"
+            ],
+            "llmSectors": [
+              "CLO"
+            ],
+            "llmExclude": false,
+            "llmReason": "TPG RE Finance Trust, Inc. (TRTX) is the publicly traded vehicle of Oaktree's real estate finance business — commonly referred to as OTF (Oaktree Real Estate Finance Trust, formerly known as Oaktree Strategic Income Corp. and rebranded under OTF branding). The article describes a $1B commercial real estate CLO, which is credit-focused structured finance activity directly tied to OTF’s lending/financing strategy — not equity real estate or other non-credit businesses."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.74,
+            "finalScore": 21.740000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-15-1331205a8f49",
           "title": "PMT Loan Trust raises $363.6 million in prime RMBS",
           "titleZh": "PMT Loan Trust raises $363.6 million in prime RMBS",
@@ -11058,6 +11330,48 @@
             "keywordScore": 19,
             "semanticScore": 5.88,
             "finalScore": 24.88,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-15-f5595372fc53",
+          "title": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch",
+          "titleZh": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch",
+          "summary": "KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+          "summaryZh": "KKR投資級別貸款承作額突破800億美元，隨信貸需求增長 《另類投資觀察》",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFlncGNlRjNWcUU4S1ZvbXJ3MjRpb2Q5ZzFheUtVd0hYZjBCV0xpTnNreVBWaW1FWUpZNWZtbFBlWHhTSl9jQ0xIRkQycVdWNi1hUTVwQ0pvc2pmQm9pQkFMYm1HSWlkV2tUUVFvOGViQXRqa0RtTllQbXpiQmQyekJyVnpvclNYRnRPZjJKQTNmS0VTeTM4dkF1VlhKbXlXVjZQUEtkbjhyVUtoelNJcw?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-09-15",
+          "lede": "KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+          "articleExcerpt": "KKR tops $80bn in investment-grade origination as credit demand grows - Alternatives Watch. KKR tops $80bn in investment-grade origination as credit demand grows Alternatives Watch",
+          "contentFingerprint": "7b54cb54bb4b7f9d",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article highlights KKR's $80bn in investment-grade origination, which falls under its credit-focused direct lending activity — a core part of its private credit business, not equity, infrastructure, or other non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 7.05,
+            "finalScore": 21.05,
             "semanticEnabled": true
           }
         },
