@@ -149,6 +149,18 @@
         "Guggenheim Partners acquires a controlling stake in a U.S. solar energy developer through its infrastructure equity platform — the transaction is structured as an equity-only buyout with no debt financing, credit facility, or lender role for Guggenheim.",
         "Guggenheim announces the sale of its majority-owned industrial real estate portfolio to a public REIT; the deal involves only equity transfer and does not include any retained financing, loan origination, or credit-related servicing arrangements."
       ]
+    },
+    "PAG": {
+      "promptHash": "8b0820f75d3f1e344a3eb84441fc8fabc77af5d5",
+      "relevant": [
+        "PAG’s credit arm closes a $1.2 billion senior secured direct lending fund focused on mid-market U.S. companies, with commitments from institutional investors and a target yield of 10–12%.",
+        "A PAG-managed CLO (Collateralized Loan Obligation) issues its seventh tranche of AAA-rated notes to refinance maturing debt and expand exposure to broadly syndicated leveraged loans.",
+        "PAG provides a $450 million asset-based revolving credit facility to a manufacturing company, secured by inventory and receivables, as part of a broader refinancing initiative."
+      ],
+      "notRelevant": [
+        "PAG acquires a majority stake in a Southeast Asian logistics park operator through its infrastructure equity platform — no debt financing, loan origination, or credit structuring involved.",
+        "PAG announces the sale of its controlling interest in a European hotel portfolio via a private equity real estate transaction — purely an equity disposition with no associated lending, credit facility, or structured finance component."
+      ]
     }
   }
 }
