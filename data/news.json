@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-16T00:36:34.206613+00:00",
+  "updatedAt": "2026-09-16T03:15:12.442692+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9941,22 +9941,23 @@
             }
           },
           {
-            "id": "2026-09-14-4b92bccf21ad",
-            "title": "Apollo at Barclays conference: ai financing and private credit push - Investing.com",
-            "titleZh": "Apollo at Barclays conference: ai financing and private credit push - Investing.com",
-            "summary": "Apollo at Barclays conference: ai financing and private credit push Investing.com",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHVEQkJJSElEeVB5c051cXVnSzF1cnpWSXRUdXpybjlaTFEtckhxc2RtR1g1dXhHQWljdmNESGVuenFUaldkdFpaSmNROThyNGZXREZIVUhJeC0zOWlLaHNXUGNoX25FOFFEMVhFZUtXUWJVZ2lrMkNqQmlqamNCUnM0a1pwOUFHMFNPXzM2cWdTcHNKQTh6OGJrd2xNbENKVk1sQWtxWEd0SXZYTjFRTUI3U3B3RFc5YlhnODVlQWcxbFZHaHB2dVRB?oc=5",
-            "source": "Investing.com",
+            "id": "2026-09-14-8f42b7f8a32b",
+            "title": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada",
+            "titleZh": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada",
+            "summary": "Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+            "summaryZh": "Apollo於巴克萊會議：人工智慧融資與私人信貸推動",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGpORmprUG1KVUw0dGw0RzMtbmlJNkgyMDY0Z2txUHdabExNNXVtM2RMR2V3OVNTYmpBZVVtMWx2ZDVnY0lhRngxMm1LZkZjYzZELXIwdHUwRm0wYm02RjRxcGU3R3ZEcWN5WDFESDJPUldGVHE2RGItNTNiQmxVN1dxXzBNall0YkREZ1Bsdy1HU3FRalRXd0R5TFRRY1NkOTBZSjZUeEhaaXRwOEJmVmo0T2FwSEpwY3ptZVBLc1UtSlRGZlE?oc=5",
+            "source": "Investing.com Canada",
             "publishedAt": "2026-09-14",
-            "lede": "Apollo at Barclays conference: ai financing and private credit push Investing.com",
-            "articleExcerpt": "Apollo at Barclays conference: ai financing and private credit push - Investing.com. Apollo at Barclays conference: ai financing and private credit push Investing.com",
-            "contentFingerprint": "a9fb417eefb800e6",
+            "lede": "Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+            "articleExcerpt": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada. Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+            "contentFingerprint": "a39093f1ae3c6b74",
             "region": "Global",
             "gps": [
               "Apollo"
             ],
             "sectors": [
+              "software",
               "private credit / direct lending"
             ],
             "curation": "rss_filter",
@@ -9965,20 +9966,32 @@
               "keywordGps": [
                 "Apollo"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
               "keywordSectors": [
                 "private credit / direct lending"
               ],
-              "llmSectors": [],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Article explicitly mentions 'Apollo' in the context of 'ai financing and private credit push' — both fall under tracked credit-relevant activities: 'private credit / direct lending' is a tracked sub-sector, and 'ai financing' implies credit/financing activity tied to software/AI companies, aligning with the 'software' sub-sector (as software companies are common borrowers in direct lending). No indication of non-credit activities like buyouts or equity investments."
             },
             "scoreBreakdown": {
-              "keywordScore": 14,
-              "semanticScore": 5.8,
-              "finalScore": 19.8,
+              "keywordScore": 17,
+              "semanticScore": 5.76,
+              "finalScore": 22.759999999999998,
               "semanticEnabled": true
-            }
+            },
+            "alternateSources": [
+              {
+                "source": "Investing.com",
+                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHVEQkJJSElEeVB5c051cXVnSzF1cnpWSXRUdXpybjlaTFEtckhxc2RtR1g1dXhHQWljdmNESGVuenFUaldkdFpaSmNROThyNGZXREZIVUhJeC0zOWlLaHNXUGNoX25FOFFEMVhFZUtXUWJVZ2lrMkNqQmlqamNCUnM0a1pwOUFHMFNPXzM2cWdTcHNKQTh6OGJrd2xNbENKVk1sQWtxWEd0SXZYTjFRTUI3U3B3RFc5YlhnODVlQWcxbFZHaHB2dVRB?oc=5",
+                "title": "Apollo at Barclays conference: ai financing and private credit push - Investing.com"
+              }
+            ]
           }
         ],
         "Bain Capital": [],
@@ -10322,22 +10335,23 @@
           }
         },
         {
-          "id": "2026-09-14-4b92bccf21ad",
-          "title": "Apollo at Barclays conference: ai financing and private credit push - Investing.com",
-          "titleZh": "Apollo at Barclays conference: ai financing and private credit push - Investing.com",
-          "summary": "Apollo at Barclays conference: ai financing and private credit push Investing.com",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHVEQkJJSElEeVB5c051cXVnSzF1cnpWSXRUdXpybjlaTFEtckhxc2RtR1g1dXhHQWljdmNESGVuenFUaldkdFpaSmNROThyNGZXREZIVUhJeC0zOWlLaHNXUGNoX25FOFFEMVhFZUtXUWJVZ2lrMkNqQmlqamNCUnM0a1pwOUFHMFNPXzM2cWdTcHNKQTh6OGJrd2xNbENKVk1sQWtxWEd0SXZYTjFRTUI3U3B3RFc5YlhnODVlQWcxbFZHaHB2dVRB?oc=5",
-          "source": "Investing.com",
+          "id": "2026-09-14-8f42b7f8a32b",
+          "title": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada",
+          "titleZh": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada",
+          "summary": "Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+          "summaryZh": "Apollo於巴克萊會議：人工智慧融資與私人信貸推動",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGpORmprUG1KVUw0dGw0RzMtbmlJNkgyMDY0Z2txUHdabExNNXVtM2RMR2V3OVNTYmpBZVVtMWx2ZDVnY0lhRngxMm1LZkZjYzZELXIwdHUwRm0wYm02RjRxcGU3R3ZEcWN5WDFESDJPUldGVHE2RGItNTNiQmxVN1dxXzBNall0YkREZ1Bsdy1HU3FRalRXd0R5TFRRY1NkOTBZSjZUeEhaaXRwOEJmVmo0T2FwSEpwY3ptZVBLc1UtSlRGZlE?oc=5",
+          "source": "Investing.com Canada",
           "publishedAt": "2026-09-14",
-          "lede": "Apollo at Barclays conference: ai financing and private credit push Investing.com",
-          "articleExcerpt": "Apollo at Barclays conference: ai financing and private credit push - Investing.com. Apollo at Barclays conference: ai financing and private credit push Investing.com",
-          "contentFingerprint": "a9fb417eefb800e6",
+          "lede": "Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+          "articleExcerpt": "Apollo at Barclays conference: ai financing and private credit push By Investing.com - Investing.com Canada. Apollo at Barclays conference: ai financing and private credit push By Investing.com Investing.com Canada",
+          "contentFingerprint": "a39093f1ae3c6b74",
           "region": "Global",
           "gps": [
             "Apollo"
           ],
           "sectors": [
+            "software",
             "private credit / direct lending"
           ],
           "curation": "rss_filter",
@@ -10346,20 +10360,32 @@
             "keywordGps": [
               "Apollo"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
             "keywordSectors": [
               "private credit / direct lending"
             ],
-            "llmSectors": [],
+            "llmSectors": [
+              "software",
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "Article explicitly mentions 'Apollo' in the context of 'ai financing and private credit push' — both fall under tracked credit-relevant activities: 'private credit / direct lending' is a tracked sub-sector, and 'ai financing' implies credit/financing activity tied to software/AI companies, aligning with the 'software' sub-sector (as software companies are common borrowers in direct lending). No indication of non-credit activities like buyouts or equity investments."
           },
           "scoreBreakdown": {
-            "keywordScore": 14,
-            "semanticScore": 5.8,
-            "finalScore": 19.8,
+            "keywordScore": 17,
+            "semanticScore": 5.76,
+            "finalScore": 22.759999999999998,
             "semanticEnabled": true
-          }
+          },
+          "alternateSources": [
+            {
+              "source": "Investing.com",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHVEQkJJSElEeVB5c051cXVnSzF1cnpWSXRUdXpybjlaTFEtckhxc2RtR1g1dXhHQWljdmNESGVuenFUaldkdFpaSmNROThyNGZXREZIVUhJeC0zOWlLaHNXUGNoX25FOFFEMVhFZUtXUWJVZ2lrMkNqQmlqamNCUnM0a1pwOUFHMFNPXzM2cWdTcHNKQTh6OGJrd2xNbENKVk1sQWtxWEd0SXZYTjFRTUI3U3B3RFc5YlhnODVlQWcxbFZHaHB2dVRB?oc=5",
+              "title": "Apollo at Barclays conference: ai financing and private credit push - Investing.com"
+            }
+          ]
         },
         {
           "id": "2026-09-14-77476faf2942",
@@ -11580,6 +11606,24 @@
           }
         }
       ]
+    },
+    "2026-09-16": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
