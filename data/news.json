@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-18T07:57:37.689297+00:00",
+  "updatedAt": "2026-09-18T12:41:28.813276+00:00",
   "scope": {
     "regions": [
       "US",
@@ -12479,7 +12479,48 @@
             }
           }
         ],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-09-16-584cc76da194",
+            "title": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch",
+            "titleZh": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch",
+            "summary": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0FuU3dtck9xdXJKRjNHb3A4UGx3ZkVENnRuNExMVUtBOC1FRTVwY1lsWE5NeEozbmExLUR3bmFXMGtBRUJyd1EtaVZCYWRFbWhrWFI5Y3pFRFY0eGp2RXZNRXJkak5NakQ4R2RWeEZJLVNpcXJiR1NCZnBfRFlLSzJrSzlNZVlMM1p3OVllTXZfNXpKWEdoZi1B?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-09-16",
+            "lede": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+            "articleExcerpt": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch. Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+            "contentFingerprint": "890f0ce560864b0c",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 7.28,
+              "finalScore": 21.28,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "HSBC AM": [
           {
@@ -13030,6 +13071,46 @@
           }
         },
         {
+          "id": "2026-09-16-584cc76da194",
+          "title": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch",
+          "titleZh": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch",
+          "summary": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0FuU3dtck9xdXJKRjNHb3A4UGx3ZkVENnRuNExMVUtBOC1FRTVwY1lsWE5NeEozbmExLUR3bmFXMGtBRUJyd1EtaVZCYWRFbWhrWFI5Y3pFRFY0eGp2RXZNRXJkak5NakQ4R2RWeEZJLVNpcXJiR1NCZnBfRFlLSzJrSzlNZVlMM1p3OVllTXZfNXpKWEdoZi1B?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-09-16",
+          "lede": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+          "articleExcerpt": "Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus - Alternatives Watch. Bain Capital’s VC arm closes $1.6bn Fund XI with AI, early-stage focus Alternatives Watch",
+          "contentFingerprint": "890f0ce560864b0c",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 7.28,
+            "finalScore": 21.28,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-16-05a1e9a4d71f",
           "title": "HSBC AM unveils sterling short-duration bond fund - Portfolio Adviser",
           "titleZh": "HSBC AM unveils sterling short-duration bond fund - Portfolio Adviser",
@@ -13341,6 +13422,48 @@
               "keywordScore": 3,
               "semanticScore": 6.95,
               "finalScore": 9.95,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-17-57dc3ffd2b55",
+            "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+            "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+            "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
+            "source": "scanx.trade",
+            "publishedAt": "2026-09-17",
+            "lede": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "articleExcerpt": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade. KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "contentFingerprint": "f8ebc1a24040598c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.02,
+              "finalScore": 24.02,
               "semanticEnabled": true
             }
           }
@@ -13778,6 +13901,48 @@
           }
         },
         {
+          "id": "2026-09-17-57dc3ffd2b55",
+          "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+          "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+          "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
+          "source": "scanx.trade",
+          "publishedAt": "2026-09-17",
+          "lede": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+          "articleExcerpt": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade. KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+          "contentFingerprint": "f8ebc1a24040598c",
+          "region": "Global",
+          "gps": [
+            "Blue Owl",
+            "OTF"
+          ],
+          "sectors": [
+            "software"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 6.02,
+            "finalScore": 24.02,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-17-ff670fbf60ce",
           "title": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
           "titleZh": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
@@ -13971,10 +14136,126 @@
     },
     "2026-09-18": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-18-4105b5bd5d22",
+            "title": "Blue Owl Capital expands funding via new CLO securitization - TipRanks",
+            "titleZh": "Blue Owl Capital expands funding via new CLO securitization - TipRanks",
+            "summary": "Blue Owl Capital expands funding via new CLO securitization TipRanks",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkI0RHlBTXY3empCdE52dkFvMWw0dlpHNnJMZUw0LVZUVHpKb2tGam9zUEhCdFpYZG1oQVlfSUZmekQ5LXJOa05lN0UtcnZMNjhMaVVqcHppejN0ZXNjY2NmMThPeU0weFBCZzdtUHg4OXc1MmxHNndaUnFuc2xhSzBNNWhwOGFuRk9VZkVHTGlYWEhKSGNoSnFkSnZHbkdkRnRQdEs5OEE0ZnAxQ3BLZg?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-09-18",
+            "lede": "Blue Owl Capital expands funding via new CLO securitization TipRanks",
+            "articleExcerpt": "Blue Owl Capital expands funding via new CLO securitization - TipRanks. Blue Owl Capital expands funding via new CLO securitization TipRanks",
+            "contentFingerprint": "384a4cd58519ce86",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending",
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 7.97,
+              "finalScore": 26.97,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-18-ef40ddcec656",
+            "title": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
+            "titleZh": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
+            "summary": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUVfcGJ5V3VIVkxtM01sYXVoTnJCV0ozT2wwYXhlTmFkZmVhVld0Xy1nWjdUTm5MTHEwdTRIdWJjdTN3cHFRQzBNNkNaeXIwbW1GTEx0amJJNTMwakdTT1poRkl3cEhkZV9XLUd2VUthSDR6V2ZWRzZ0SURSR1psRjAweFpHQlpXUC1Jd2p4QW9HYmpSMnNzSmctV0c1QUJENTN2MVdLeWtuR3V1bHdoOHpVcWlrRkVDM2RkLWVvNF93WU1vMDRSb0JIbWR0QdIB0wFBVV95cUxQbnZ2YTRHX0JJSG1tUC1LcHFLUUR0RlVMSTFEMEM2dkZPNGFCSmZCYkgwRUF5c3kwdEM2bGhKU1FJck9GbzRzbUlCMGVWenBhclA2TFBTX01aOWtmd0liQXRrMlVyc01zdlFFeEZ3TURwQWJNSjBMeEtmV0haZlVWT2VCbjRzY05FcDVrNTFYd0NnRVBrbXVhLWRuaDlObmEybHZScFE1cnYxM1U1ZllfZUEycmczbHZFcURHQzNXZTdRNnhDY1RsMzlGa2x6Z0VPNXFR?oc=5",
+            "source": "simplywall.st",
+            "publishedAt": "2026-09-18",
+            "lede": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+            "articleExcerpt": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st. KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+            "contentFingerprint": "e69e092886cd9b0f",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.8,
+              "finalScore": 9.8,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-18-7402d5ec941d",
+            "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
+            "titleZh": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
+            "summary": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWdncVlkdWlkeFFJLUdoRWc1MENodF9wSVZyd0pQVW9xYzZtM1dpVlR3ZVNpUTdfeWN1SEhfOHkzREc4SENES1pnR1lScEp0akVGZFpvcnoyNHNiVHA4RG12RFhVUkt6TFBDMTZYZXdKSVZUUmMyejgxZUJsdkdMcnYzczcwM1N1Vmp5dXhpZk8xVUV5RzZlZ0xzSGNJLThBTW1lZzkzdFBwck5PR1RaMUJua3lYcHBsRkFKZW1QcVptN3IwRzBRTlNiNkNmMU5JdHpnSkxJQQ?oc=5",
+            "source": "MarketWatch",
+            "publishedAt": "2026-09-18",
+            "lede": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+            "articleExcerpt": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch. The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+            "contentFingerprint": "394360407bbf0b44",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.54,
+              "finalScore": 7.54,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -14023,6 +14304,120 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-09-18-4105b5bd5d22",
+          "title": "Blue Owl Capital expands funding via new CLO securitization - TipRanks",
+          "titleZh": "Blue Owl Capital expands funding via new CLO securitization - TipRanks",
+          "summary": "Blue Owl Capital expands funding via new CLO securitization TipRanks",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkI0RHlBTXY3empCdE52dkFvMWw0dlpHNnJMZUw0LVZUVHpKb2tGam9zUEhCdFpYZG1oQVlfSUZmekQ5LXJOa05lN0UtcnZMNjhMaVVqcHppejN0ZXNjY2NmMThPeU0weFBCZzdtUHg4OXc1MmxHNndaUnFuc2xhSzBNNWhwOGFuRk9VZkVHTGlYWEhKSGNoSnFkSnZHbkdkRnRQdEs5OEE0ZnAxQ3BLZg?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-09-18",
+          "lede": "Blue Owl Capital expands funding via new CLO securitization TipRanks",
+          "articleExcerpt": "Blue Owl Capital expands funding via new CLO securitization - TipRanks. Blue Owl Capital expands funding via new CLO securitization TipRanks",
+          "contentFingerprint": "384a4cd58519ce86",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending",
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 7.97,
+            "finalScore": 26.97,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-ef40ddcec656",
+          "title": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
+          "titleZh": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
+          "summary": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUVfcGJ5V3VIVkxtM01sYXVoTnJCV0ozT2wwYXhlTmFkZmVhVld0Xy1nWjdUTm5MTHEwdTRIdWJjdTN3cHFRQzBNNkNaeXIwbW1GTEx0amJJNTMwakdTT1poRkl3cEhkZV9XLUd2VUthSDR6V2ZWRzZ0SURSR1psRjAweFpHQlpXUC1Jd2p4QW9HYmpSMnNzSmctV0c1QUJENTN2MVdLeWtuR3V1bHdoOHpVcWlrRkVDM2RkLWVvNF93WU1vMDRSb0JIbWR0QdIB0wFBVV95cUxQbnZ2YTRHX0JJSG1tUC1LcHFLUUR0RlVMSTFEMEM2dkZPNGFCSmZCYkgwRUF5c3kwdEM2bGhKU1FJck9GbzRzbUlCMGVWenBhclA2TFBTX01aOWtmd0liQXRrMlVyc01zdlFFeEZ3TURwQWJNSjBMeEtmV0haZlVWT2VCbjRzY05FcDVrNTFYd0NnRVBrbXVhLWRuaDlObmEybHZScFE1cnYxM1U1ZllfZUEycmczbHZFcURHQzNXZTdRNnhDY1RsMzlGa2x6Z0VPNXFR?oc=5",
+          "source": "simplywall.st",
+          "publishedAt": "2026-09-18",
+          "lede": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+          "articleExcerpt": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st. KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
+          "contentFingerprint": "e69e092886cd9b0f",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.8,
+            "finalScore": 9.8,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-7402d5ec941d",
+          "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
+          "titleZh": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
+          "summary": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWdncVlkdWlkeFFJLUdoRWc1MENodF9wSVZyd0pQVW9xYzZtM1dpVlR3ZVNpUTdfeWN1SEhfOHkzREc4SENES1pnR1lScEp0akVGZFpvcnoyNHNiVHA4RG12RFhVUkt6TFBDMTZYZXdKSVZUUmMyejgxZUJsdkdMcnYzczcwM1N1Vmp5dXhpZk8xVUV5RzZlZ0xzSGNJLThBTW1lZzkzdFBwck5PR1RaMUJua3lYcHBsRkFKZW1QcVptN3IwRzBRTlNiNkNmMU5JdHpnSkxJQQ?oc=5",
+          "source": "MarketWatch",
+          "publishedAt": "2026-09-18",
+          "lede": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+          "articleExcerpt": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch. The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
+          "contentFingerprint": "394360407bbf0b44",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.54,
+            "finalScore": 7.54,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-09-18-820042dc4b88",
           "title": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
