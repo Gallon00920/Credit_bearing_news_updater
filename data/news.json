@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-18T19:28:24.868029+00:00",
+  "updatedAt": "2026-09-18T22:37:45.514494+00:00",
   "scope": {
     "regions": [
       "US",
@@ -11917,7 +11917,8 @@
             "title": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases - scanx.trade",
             "titleZh": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases - scanx.trade",
             "summary": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases scanx.trade",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "Blue Owl牵头Iren 24亿美元债务融资交易，用于采购英伟达芯片。scanx.trade",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0s0X3RVZkFnSUYyMVY2S3l3OUJxNHlaNE0wWW1rajdKMU9vdGlFN2FLV1FCVjBURGg0dVJIZWdlRWhuc0VqV1lPYXlHaExwTDJzSmREeENkUl9yR01zcmhxOUIxUzU5OFZnU0JWQWNPWVNoU0NKLU0wUmlQNDBtTFctTW5jX2JXLXJLdkMzbG8zaEJnUzN4NG5jVGN3elR0Mkhoeml2cldZckREQzRwN1hCTDVVRWF3aDBNS3VnYnI?oc=5",
             "source": "scanx.trade",
             "publishedAt": "2026-09-16",
@@ -11928,23 +11929,29 @@
             "gps": [
               "Blue Owl"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Blue Owl"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Blue Owl is leading a $2.4 billion debt deal — a credit-focused, direct lending activity — to finance Iren’s purchase of Nvidia chips; this falls squarely within Blue Owl’s credit/structured finance business and not its non-credit strategies."
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 14,
               "semanticScore": 7.36,
-              "finalScore": 18.36,
+              "finalScore": 21.36,
               "semanticEnabled": true
             }
           },
@@ -11985,7 +11992,53 @@
             }
           }
         ],
-        "OTF": [],
+        "OTF": [
+          {
+            "id": "2026-09-16-56f38523c1af",
+            "title": "TPG RE Finance Trust Prices $1B CRE CLO",
+            "titleZh": "TPG RE Finance Trust Prices $1B CRE CLO",
+            "summary": "TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market.",
+            "summaryZh": "TPG房地产金融信托公司已定价一只规模为10亿美元的管理型商业地产抵押贷款债务凭证。TRTX 2026-FL8预计将向机构投资者发行约8.2亿美元的投资级证券。该融资为无追索权且不按市值计价。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.connectmoney.com/stories/tpg-re-finance-trust-prices-1b-cre-clo/",
+            "source": "Google News",
+            "publishedAt": "2026-09-16",
+            "lede": "TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market. The transaction carries a weighted average interest rate of one-month Term SOFR plus 1.43% before transaction costs ... The post TPG RE Finance Trust Prices $1B CRE CLO appeared first on Connect Money .",
+            "articleExcerpt": "TPG RE Finance Trust Prices $1B CRE CLO. TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market. The transaction carries a weighted average interest rate of one-month Term SOFR plus 1.43% before transaction costs ...",
+            "contentFingerprint": "42e466ee8a95c944",
+            "region": "US",
+            "gps": [
+              "OTF"
+            ],
+            "sectors": [
+              "real estate",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "OTF"
+              ],
+              "keywordSectors": [
+                "real estate",
+                "CLO"
+              ],
+              "llmSectors": [
+                "CLO"
+              ],
+              "llmExclude": false,
+              "llmReason": "TPG RE Finance Trust (TRTX) is a publicly traded vehicle managed by Oaktree Fund Management (OTF), focused exclusively on commercial real estate debt — specifically senior loans and CLOs backed by CRE assets. The article describes a $1B CRE CLO issuance, which falls squarely within OTF’s credit/structured-finance business and aligns with tracked sub-sectors CLO and real estate (credit/financing angle only)."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.58,
+              "finalScore": 21.58,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Pretium": [
           {
             "id": "2026-09-16-98d6cbc81937",
@@ -12615,7 +12668,8 @@
           "title": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases - scanx.trade",
           "titleZh": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases - scanx.trade",
           "summary": "Blue Owl leads $2.4 billion Iren debt deal for Nvidia chip purchases scanx.trade",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "Blue Owl牵头Iren 24亿美元债务融资交易，用于采购英伟达芯片。scanx.trade",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0s0X3RVZkFnSUYyMVY2S3l3OUJxNHlaNE0wWW1rajdKMU9vdGlFN2FLV1FCVjBURGg0dVJIZWdlRWhuc0VqV1lPYXlHaExwTDJzSmREeENkUl9yR01zcmhxOUIxUzU5OFZnU0JWQWNPWVNoU0NKLU0wUmlQNDBtTFctTW5jX2JXLXJLdkMzbG8zaEJnUzN4NG5jVGN3elR0Mkhoeml2cldZckREQzRwN1hCTDVVRWF3aDBNS3VnYnI?oc=5",
           "source": "scanx.trade",
           "publishedAt": "2026-09-16",
@@ -12626,23 +12680,29 @@
           "gps": [
             "Blue Owl"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Blue Owl"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "Blue Owl is leading a $2.4 billion debt deal — a credit-focused, direct lending activity — to finance Iren’s purchase of Nvidia chips; this falls squarely within Blue Owl’s credit/structured finance business and not its non-credit strategies."
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 14,
             "semanticScore": 7.36,
-            "finalScore": 18.36,
+            "finalScore": 21.36,
             "semanticEnabled": true
           }
         },
@@ -12679,6 +12739,51 @@
             "keywordScore": 3,
             "semanticScore": 5.45,
             "finalScore": 8.45,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-16-56f38523c1af",
+          "title": "TPG RE Finance Trust Prices $1B CRE CLO",
+          "titleZh": "TPG RE Finance Trust Prices $1B CRE CLO",
+          "summary": "TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market.",
+          "summaryZh": "TPG房地产金融信托公司已定价一只规模为10亿美元的管理型商业地产抵押贷款债务凭证。TRTX 2026-FL8预计将向机构投资者发行约8.2亿美元的投资级证券。该融资为无追索权且不按市值计价。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.connectmoney.com/stories/tpg-re-finance-trust-prices-1b-cre-clo/",
+          "source": "Google News",
+          "publishedAt": "2026-09-16",
+          "lede": "TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market. The transaction carries a weighted average interest rate of one-month Term SOFR plus 1.43% before transaction costs ... The post TPG RE Finance Trust Prices $1B CRE CLO appeared first on Connect Money .",
+          "articleExcerpt": "TPG RE Finance Trust Prices $1B CRE CLO. TPG RE Finance Trust has priced a $1 billion managed commercial real estate collateralized loan obligation. TRTX 2026-FL8 is expected to place approximately $820 million of investment-grade securities with institutional investors. The financing will be nonrecourse and non-mark-to-market. The transaction carries a weighted average interest rate of one-month Term SOFR plus 1.43% before transaction costs ...",
+          "contentFingerprint": "42e466ee8a95c944",
+          "region": "US",
+          "gps": [
+            "OTF"
+          ],
+          "sectors": [
+            "real estate",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "OTF"
+            ],
+            "keywordSectors": [
+              "real estate",
+              "CLO"
+            ],
+            "llmSectors": [
+              "CLO"
+            ],
+            "llmExclude": false,
+            "llmReason": "TPG RE Finance Trust (TRTX) is a publicly traded vehicle managed by Oaktree Fund Management (OTF), focused exclusively on commercial real estate debt — specifically senior loans and CLOs backed by CRE assets. The article describes a $1B CRE CLO issuance, which falls squarely within OTF’s credit/structured-finance business and aligns with tracked sub-sectors CLO and real estate (credit/financing angle only)."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.58,
+            "finalScore": 21.58,
             "semanticEnabled": true
           }
         },
@@ -13204,7 +13309,8 @@
             "title": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence - puck.news",
             "titleZh": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence - puck.news",
             "summary": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence puck.news",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "蓝 Owl 相关事件及更多债权人对债权人的冲突 puck.news",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzJYc1dnMURHeVVUOWVYR0NXVmFMNDd4SzlDVDQ0dkF3eE5FWHFYVWtBeWlBTkV6X2xZZXE4aWdkbXhkS0U0elBPUjVhXzd2S0dHclJuTkItS2E5OG1yellGTzd1NUJPN19sZVRmcm9ZWDNmVkhVNGx6di1ITkxQVGhONnk2WWpGNGZTaFU1Z2FmSkttaS1STUJpajZYdw?oc=5",
             "source": "puck.news",
             "publishedAt": "2026-09-17",
@@ -13215,23 +13321,29 @@
             "gps": [
               "Blue Owl"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Blue Owl"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Title explicitly references 'Blue Owl–Adjacent Saga' in context of 'Creditor-on-Creditor Violence', strongly implying involvement in credit-related disputes or dynamics — consistent with Blue Owl’s core private credit/direct lending business. No indication of non-credit activities (e.g., PE, infra, real estate equity) is present."
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 14,
               "semanticScore": 4.87,
-              "finalScore": 15.870000000000001,
+              "finalScore": 18.87,
               "semanticEnabled": true
             }
           },
@@ -13319,37 +13431,44 @@
           },
           {
             "id": "2026-09-17-af4f4c30e087",
-            "title": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView",
-            "titleZh": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView",
-            "summary": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "title": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com",
+            "titleZh": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com",
+            "summary": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+            "summaryZh": "Blue Owl Capital管理的基金完成与Trustmark的9170万美元售后回租交易",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUYxX19EN1BQajl0XzUwOUpzV0xNQWNMX2hlSkI1Q1ZiNzRpUmdScXJHaUdFYk0yT1FJVXJtMHJ0SXRxWk9IblNjd0tlZ20tOEJlTXd1R0NWanp6WVNWX2lzN2pRd2lzS2s2YWt2YjFxLXZRUUltdVZTU1RHSFN3UnAydzREQVF4b1lnaHVtQVM1cjRDWGdRWFEyN2NLc09tZW5xcHJkTjBuTFZIUjVNbnFGUU10bkUzSWlpMmRib3hJTWhJVjFHZ19Rd3prUzJBN3lFdjZsVWN2dE5TRUpONGFLLUZ5Zw?oc=5",
-            "source": "TradingView",
+            "source": "tradingview.com",
             "publishedAt": "2026-09-17",
-            "lede": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-            "articleExcerpt": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView. Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-            "contentFingerprint": "b694b49f2393f330",
+            "lede": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+            "articleExcerpt": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com. Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+            "contentFingerprint": "da8c1ac76008ce72",
             "region": "Global",
             "gps": [
               "Blue Owl"
             ],
-            "sectors": [],
+            "sectors": [
+              "aircraft leasing"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Blue Owl"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "aircraft leasing"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Sale-leaseback transaction is a credit/financing activity; Blue Owl’s aircraft leasing business falls under tracked sub-sector 'aircraft leasing'."
             },
             "scoreBreakdown": {
-              "keywordScore": 3,
+              "keywordScore": 6,
               "semanticScore": 7.85,
-              "finalScore": 10.85,
+              "finalScore": 13.85,
               "semanticEnabled": true
             }
           },
@@ -13430,7 +13549,8 @@
             "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
             "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
             "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "KBRA授予Blue Owl Technology Finance Corp. 4亿美元票据BBB评级。scanx.trade",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
             "source": "scanx.trade",
             "publishedAt": "2026-09-17",
@@ -13443,7 +13563,8 @@
               "OTF"
             ],
             "sectors": [
-              "software"
+              "software",
+              "private credit / direct lending"
             ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
@@ -13452,18 +13573,22 @@
                 "Blue Owl",
                 "OTF"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
               "keywordSectors": [
                 "software"
               ],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Blue Owl Technology Finance Corp. is Blue Owl's SEC-registered business development company (BDC) focused on direct lending to technology companies; the $400M notes represent a credit financing instrument, squarely within tracked private credit/direct lending activity."
             },
             "scoreBreakdown": {
-              "keywordScore": 18,
+              "keywordScore": 21,
               "semanticScore": 6.02,
-              "finalScore": 24.02,
+              "finalScore": 27.02,
               "semanticEnabled": true
             }
           }
@@ -13714,7 +13839,51 @@
           }
         ],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-17-298e49946c63",
+            "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
+            "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
+            "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+            "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等机构参与14亿美元电池融资项目《另类投资观察》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3I4MDJqNUFndUxsUjgzZHJYRzUxUThpZGprMTdHZGhnT0p1OVlwOUljRGRsTE5ZZlZJQ0pTTUM3U3JUa05Ec0k3MUFNRXNDcG51SUtGSU0zdUQ2YWZPVzMtRnR1LWZTUEJxdGQwdEthZ2pESnNtZkZqYXpJUTZob09Jd3ZOSXpzTmp6enE2OWRZYVE1OE4yUXR2ZlJ4MTlBbE5RdmpodFlLa19lcWJOTGRSOWpva0szcjBn?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-09-17",
+            "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+            "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+            "contentFingerprint": "64d4a5dc8bd82315",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn battery financings in the context of private credit — indicating its credit/lending activity, consistent with the portfolio’s credit-only mandate."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.19,
+              "finalScore": 20.19,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -13722,7 +13891,8 @@
           "title": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence - puck.news",
           "titleZh": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence - puck.news",
           "summary": "A Blue Owl–Adjacent Saga & More Creditor-on-Creditor Violence puck.news",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "蓝 Owl 相关事件及更多债权人对债权人的冲突 puck.news",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzJYc1dnMURHeVVUOWVYR0NXVmFMNDd4SzlDVDQ0dkF3eE5FWHFYVWtBeWlBTkV6X2xZZXE4aWdkbXhkS0U0elBPUjVhXzd2S0dHclJuTkItS2E5OG1yellGTzd1NUJPN19sZVRmcm9ZWDNmVkhVNGx6di1ITkxQVGhONnk2WWpGNGZTaFU1Z2FmSkttaS1STUJpajZYdw?oc=5",
           "source": "puck.news",
           "publishedAt": "2026-09-17",
@@ -13733,23 +13903,29 @@
           "gps": [
             "Blue Owl"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Blue Owl"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "Title explicitly references 'Blue Owl–Adjacent Saga' in context of 'Creditor-on-Creditor Violence', strongly implying involvement in credit-related disputes or dynamics — consistent with Blue Owl’s core private credit/direct lending business. No indication of non-credit activities (e.g., PE, infra, real estate equity) is present."
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 14,
             "semanticScore": 4.87,
-            "finalScore": 15.870000000000001,
+            "finalScore": 18.87,
             "semanticEnabled": true
           }
         },
@@ -13837,37 +14013,44 @@
         },
         {
           "id": "2026-09-17-af4f4c30e087",
-          "title": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView",
-          "titleZh": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView",
-          "summary": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "title": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com",
+          "titleZh": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com",
+          "summary": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+          "summaryZh": "Blue Owl Capital管理的基金完成与Trustmark的9170万美元售后回租交易",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUYxX19EN1BQajl0XzUwOUpzV0xNQWNMX2hlSkI1Q1ZiNzRpUmdScXJHaUdFYk0yT1FJVXJtMHJ0SXRxWk9IblNjd0tlZ20tOEJlTXd1R0NWanp6WVNWX2lzN2pRd2lzS2s2YWt2YjFxLXZRUUltdVZTU1RHSFN3UnAydzREQVF4b1lnaHVtQVM1cjRDWGdRWFEyN2NLc09tZW5xcHJkTjBuTFZIUjVNbnFGUU10bkUzSWlpMmRib3hJTWhJVjFHZ19Rd3prUzJBN3lFdjZsVWN2dE5TRUpONGFLLUZ5Zw?oc=5",
-          "source": "TradingView",
+          "source": "tradingview.com",
           "publishedAt": "2026-09-17",
-          "lede": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-          "articleExcerpt": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - TradingView. Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark TradingView",
-          "contentFingerprint": "b694b49f2393f330",
+          "lede": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+          "articleExcerpt": "Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark - tradingview.com. Funds Managed by Blue Owl Capital Complete $91.7M Sale-Leaseback Transaction with Trustmark tradingview.com",
+          "contentFingerprint": "da8c1ac76008ce72",
           "region": "Global",
           "gps": [
             "Blue Owl"
           ],
-          "sectors": [],
+          "sectors": [
+            "aircraft leasing"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Blue Owl"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "aircraft leasing"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "Sale-leaseback transaction is a credit/financing activity; Blue Owl’s aircraft leasing business falls under tracked sub-sector 'aircraft leasing'."
           },
           "scoreBreakdown": {
-            "keywordScore": 3,
+            "keywordScore": 6,
             "semanticScore": 7.85,
-            "finalScore": 10.85,
+            "finalScore": 13.85,
             "semanticEnabled": true
           }
         },
@@ -13948,7 +14131,8 @@
           "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
           "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
           "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "KBRA授予Blue Owl Technology Finance Corp. 4亿美元票据BBB评级。scanx.trade",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
           "source": "scanx.trade",
           "publishedAt": "2026-09-17",
@@ -13961,7 +14145,8 @@
             "OTF"
           ],
           "sectors": [
-            "software"
+            "software",
+            "private credit / direct lending"
           ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
@@ -13970,18 +14155,22 @@
               "Blue Owl",
               "OTF"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
             "keywordSectors": [
               "software"
             ],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "Blue Owl Technology Finance Corp. is Blue Owl's SEC-registered business development company (BDC) focused on direct lending to technology companies; the $400M notes represent a credit financing instrument, squarely within tracked private credit/direct lending activity."
           },
           "scoreBreakdown": {
-            "keywordScore": 18,
+            "keywordScore": 21,
             "semanticScore": 6.02,
-            "finalScore": 24.02,
+            "finalScore": 27.02,
             "semanticEnabled": true
           }
         },
@@ -14174,6 +14363,49 @@
             "finalScore": 9.36,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-09-17-298e49946c63",
+          "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
+          "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
+          "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+          "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等机构参与14亿美元电池融资项目《另类投资观察》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3I4MDJqNUFndUxsUjgzZHJYRzUxUThpZGprMTdHZGhnT0p1OVlwOUljRGRsTE5ZZlZJQ0pTTUM3U3JUa05Ec0k3MUFNRXNDcG51SUtGSU0zdUQ2YWZPVzMtRnR1LWZTUEJxdGQwdEthZ2pESnNtZkZqYXpJUTZob09Jd3ZOSXpzTmp6enE2OWRZYVE1OE4yUXR2ZlJ4MTlBbE5RdmpodFlLa19lcWJOTGRSOWpva0szcjBn?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-09-17",
+          "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+          "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
+          "contentFingerprint": "64d4a5dc8bd82315",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn battery financings in the context of private credit — indicating its credit/lending activity, consistent with the portfolio’s credit-only mandate."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.19,
+            "finalScore": 20.19,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -14231,7 +14463,8 @@
             "title": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
             "titleZh": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
             "summary": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "KKR（KKR）私募投资级交易规模突破800亿美元。simplywall.st",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUVfcGJ5V3VIVkxtM01sYXVoTnJCV0ozT2wwYXhlTmFkZmVhVld0Xy1nWjdUTm5MTHEwdTRIdWJjdTN3cHFRQzBNNkNaeXIwbW1GTEx0amJJNTMwakdTT1poRkl3cEhkZV9XLUd2VUthSDR6V2ZWRzZ0SURSR1psRjAweFpHQlpXUC1Jd2p4QW9HYmpSMnNzSmctV0c1QUJENTN2MVdLeWtuR3V1bHdoOHpVcWlrRkVDM2RkLWVvNF93WU1vMDRSb0JIbWR0QdIB0wFBVV95cUxQbnZ2YTRHX0JJSG1tUC1LcHFLUUR0RlVMSTFEMEM2dkZPNGFCSmZCYkgwRUF5c3kwdEM2bGhKU1FJck9GbzRzbUlCMGVWenBhclA2TFBTX01aOWtmd0liQXRrMlVyc01zdlFFeEZ3TURwQWJNSjBMeEtmV0haZlVWT2VCbjRzY05FcDVrNTFYd0NnRVBrbXVhLWRuaDlObmEybHZScFE1cnYxM1U1ZllfZUEycmczbHZFcURHQzNXZTdRNnhDY1RsMzlGa2x6Z0VPNXFR?oc=5",
             "source": "simplywall.st",
             "publishedAt": "2026-09-18",
@@ -14242,23 +14475,29 @@
             "gps": [
               "KKR"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "KKR"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "KKR"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "The article references 'KKR Private Investment Grade Deal Volume', which aligns with KKR's private credit / direct lending business — a credit-relevant activity involving financing to investment-grade or near-investment-grade companies, distinct from equity buyouts or infrastructure."
             },
             "scoreBreakdown": {
-              "keywordScore": 3,
+              "keywordScore": 6,
               "semanticScore": 6.8,
-              "finalScore": 9.8,
+              "finalScore": 12.8,
               "semanticEnabled": true
             }
           },
@@ -14333,6 +14572,53 @@
               "finalScore": 7.49,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-18-193cbf7807df",
+            "title": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock",
+            "titleZh": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock",
+            "summary": "NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026.",
+            "summaryZh": "纽约——（商业线）KKR房地产金融信托公司（“公司”或“KREF”）（纽约证券交易所代码：KREF）宣布，董事会已宣告就2026年第三季度派发每股普通股0.10美元的股息。该股息将于2026年10月15日支付给截至2026年9月30日登记在册的KREF普通股股东。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "http://www.businesswire.com/news/home/20260918023233/en/KKR-Real-Estate-Finance-Trust-Inc.-Declares-Quarterly-Dividend-of-0.10-Per-Share-of-Common-Stock/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+            "source": "Google News",
+            "publishedAt": "2026-09-18",
+            "lede": "NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026. About KKR Real Estate Finance Trust Inc. KREF is a real estate finance company that focuses primarily on originating and acquiring senior loans secu",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock. NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026. About KKR Real Estate Finance Trust Inc. KREF is a real estate finance company that focuses primarily on originating and acquiring senior loans secu",
+            "contentFingerprint": "ecd798813bbecc24",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "asset-backed lending",
+                "real estate"
+              ],
+              "llmSectors": [
+                "real estate"
+              ],
+              "llmExclude": false,
+              "llmReason": "KREF is KKR's publicly traded real estate finance vehicle focused on originating and acquiring senior loans — a credit/financing activity, not equity real estate development or ownership."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 7.3,
+              "finalScore": 22.3,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -14380,7 +14666,86 @@
         ],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-18-b1596058acd1",
+            "title": "HSBC launches sterling bond fund - Funds Europe",
+            "titleZh": "HSBC launches sterling bond fund - Funds Europe",
+            "summary": "HSBC launches sterling bond fund Funds Europe",
+            "summaryZh": "汇丰银行推出英镑债券基金《 Funds Europe》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9keUswODh0MlJjUFBsb2MxaFBZWUdhZXFpeVFUSVhObEhfU1NvbHFpUkM2dHRaT09WZjNNc2YtZ2N4enpYTmNhaTFmUGNydEd4aGpyQ24wSDZBdGx3WXJEOHBCVlQzYmt5aFE?oc=5",
+            "source": "Funds Europe",
+            "publishedAt": "2026-09-18",
+            "lede": "HSBC launches sterling bond fund Funds Europe",
+            "articleExcerpt": "HSBC launches sterling bond fund - Funds Europe. HSBC launches sterling bond fund Funds Europe",
+            "contentFingerprint": "7eb5b64cd4d392b4",
+            "region": "Europe",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "mortgage"
+              ],
+              "llmExclude": false,
+              "llmReason": "HSBC AM is a tracked GP, and a sterling bond fund may include UK mortgage-backed securities or residential/commercial mortgage exposure; bond funds managed by asset managers like HSBC AM fall under credit-related activity, consistent with the mandate to track credit/financing strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 5.95,
+              "finalScore": 12.95,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-18-464523d7c609",
+            "title": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East",
+            "titleZh": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East",
+            "summary": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+            "summaryZh": "纽卡斯尔一处444床位学生公寓资产，由汇丰银行以1.65亿英镑的组合交易出售。《北方东部报》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0d5SEE4bGxwY3Q0dFFCWHZJaXl0dks0SWZuLTI5THk2SW1rS2YtelhvN3NKNUVGOHplcUE2ODJfUWZaYXIwUXJnOEtUeHNWcVJwWG1jUEpmNVQteUdubkg4M0dXdDRkczR5TXFhaC1UTGx2eC1YdkRJeEh2dkJGdnJ0X1JtSGpsUmdLbjk4NVdMa1E5d2NxUEk4QURKdThJc3BCZA?oc=5",
+            "source": "Place North East",
+            "publishedAt": "2026-09-18",
+            "lede": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+            "articleExcerpt": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East. Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+            "contentFingerprint": "48cadc607a4ff9b5",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "HSBC AM is a tracked GP; the article references HSBC selling a student housing asset — however, the phrasing 'sold by HSBC' suggests HSBC was the owner/seller, likely in a real estate equity capacity. But critically, the article provides no detail on financing, lending, credit activity, or debt involvement — it only describes an equity sale of a real estate asset. Since the portfolio tracks only HSBC AM’s credit/financing activity (e.g., real estate debt, mortgage lending, CRE loans), and this appears to be an equity disposition with no stated credit angle, it should be excluded."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.67,
+              "finalScore": 8.67,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -14430,7 +14795,8 @@
           "title": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
           "titleZh": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion - simplywall.st",
           "summary": "KKR (KKR) Private Investment Grade Deal Volume Topped $80 Billion simplywall.st",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "KKR（KKR）私募投资级交易规模突破800亿美元。simplywall.st",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUVfcGJ5V3VIVkxtM01sYXVoTnJCV0ozT2wwYXhlTmFkZmVhVld0Xy1nWjdUTm5MTHEwdTRIdWJjdTN3cHFRQzBNNkNaeXIwbW1GTEx0amJJNTMwakdTT1poRkl3cEhkZV9XLUd2VUthSDR6V2ZWRzZ0SURSR1psRjAweFpHQlpXUC1Jd2p4QW9HYmpSMnNzSmctV0c1QUJENTN2MVdLeWtuR3V1bHdoOHpVcWlrRkVDM2RkLWVvNF93WU1vMDRSb0JIbWR0QdIB0wFBVV95cUxQbnZ2YTRHX0JJSG1tUC1LcHFLUUR0RlVMSTFEMEM2dkZPNGFCSmZCYkgwRUF5c3kwdEM2bGhKU1FJck9GbzRzbUlCMGVWenBhclA2TFBTX01aOWtmd0liQXRrMlVyc01zdlFFeEZ3TURwQWJNSjBMeEtmV0haZlVWT2VCbjRzY05FcDVrNTFYd0NnRVBrbXVhLWRuaDlObmEybHZScFE1cnYxM1U1ZllfZUEycmczbHZFcURHQzNXZTdRNnhDY1RsMzlGa2x6Z0VPNXFR?oc=5",
           "source": "simplywall.st",
           "publishedAt": "2026-09-18",
@@ -14441,23 +14807,29 @@
           "gps": [
             "KKR"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "KKR"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "KKR"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "The article references 'KKR Private Investment Grade Deal Volume', which aligns with KKR's private credit / direct lending business — a credit-relevant activity involving financing to investment-grade or near-investment-grade companies, distinct from equity buyouts or infrastructure."
           },
           "scoreBreakdown": {
-            "keywordScore": 3,
+            "keywordScore": 6,
             "semanticScore": 6.8,
-            "finalScore": 9.8,
+            "finalScore": 12.8,
             "semanticEnabled": true
           }
         },
@@ -14534,6 +14906,53 @@
           }
         },
         {
+          "id": "2026-09-18-193cbf7807df",
+          "title": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock",
+          "titleZh": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock",
+          "summary": "NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026.",
+          "summaryZh": "纽约——（商业线）KKR房地产金融信托公司（“公司”或“KREF”）（纽约证券交易所代码：KREF）宣布，董事会已宣告就2026年第三季度派发每股普通股0.10美元的股息。该股息将于2026年10月15日支付给截至2026年9月30日登记在册的KREF普通股股东。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "http://www.businesswire.com/news/home/20260918023233/en/KKR-Real-Estate-Finance-Trust-Inc.-Declares-Quarterly-Dividend-of-0.10-Per-Share-of-Common-Stock/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+          "source": "Google News",
+          "publishedAt": "2026-09-18",
+          "lede": "NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026. About KKR Real Estate Finance Trust Inc. KREF is a real estate finance company that focuses primarily on originating and acquiring senior loans secu",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.10 Per Share of Common Stock. NEW YORK--(BUSINESS WIRE)--KKR Real Estate Finance Trust Inc. (the “Company” or “KREF”) (NYSE: KREF) announced that the Board of Directors has declared a dividend of $0.10 per share of common stock with respect to the third quarter of 2026. The dividend is payable on October 15, 2026 to KREF’s common stockholders of record as of September 30, 2026. About KKR Real Estate Finance Trust Inc. KREF is a real estate finance company that focuses primarily on originating and acquiring senior loans secu",
+          "contentFingerprint": "ecd798813bbecc24",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "asset-backed lending",
+              "real estate"
+            ],
+            "llmSectors": [
+              "real estate"
+            ],
+            "llmExclude": false,
+            "llmReason": "KREF is KKR's publicly traded real estate finance vehicle focused on originating and acquiring senior loans — a credit/financing activity, not equity real estate development or ownership."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 7.3,
+            "finalScore": 22.3,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-18-820042dc4b88",
           "title": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
           "titleZh": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
@@ -14566,6 +14985,84 @@
             "keywordScore": 5,
             "semanticScore": 4.42,
             "finalScore": 9.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-b1596058acd1",
+          "title": "HSBC launches sterling bond fund - Funds Europe",
+          "titleZh": "HSBC launches sterling bond fund - Funds Europe",
+          "summary": "HSBC launches sterling bond fund Funds Europe",
+          "summaryZh": "汇丰银行推出英镑债券基金《 Funds Europe》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9keUswODh0MlJjUFBsb2MxaFBZWUdhZXFpeVFUSVhObEhfU1NvbHFpUkM2dHRaT09WZjNNc2YtZ2N4enpYTmNhaTFmUGNydEd4aGpyQ24wSDZBdGx3WXJEOHBCVlQzYmt5aFE?oc=5",
+          "source": "Funds Europe",
+          "publishedAt": "2026-09-18",
+          "lede": "HSBC launches sterling bond fund Funds Europe",
+          "articleExcerpt": "HSBC launches sterling bond fund - Funds Europe. HSBC launches sterling bond fund Funds Europe",
+          "contentFingerprint": "7eb5b64cd4d392b4",
+          "region": "Europe",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "mortgage"
+            ],
+            "llmExclude": false,
+            "llmReason": "HSBC AM is a tracked GP, and a sterling bond fund may include UK mortgage-backed securities or residential/commercial mortgage exposure; bond funds managed by asset managers like HSBC AM fall under credit-related activity, consistent with the mandate to track credit/financing strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 7,
+            "semanticScore": 5.95,
+            "finalScore": 12.95,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-464523d7c609",
+          "title": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East",
+          "titleZh": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East",
+          "summary": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+          "summaryZh": "纽卡斯尔一处444床位学生公寓资产，由汇丰银行以1.65亿英镑的组合交易出售。《北方东部报》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0d5SEE4bGxwY3Q0dFFCWHZJaXl0dks0SWZuLTI5THk2SW1rS2YtelhvN3NKNUVGOHplcUE2ODJfUWZaYXIwUXJnOEtUeHNWcVJwWG1jUEpmNVQteUdubkg4M0dXdDRkczR5TXFhaC1UTGx2eC1YdkRJeEh2dkJGdnJ0X1JtSGpsUmdLbjk4NVdMa1E5d2NxUEk4QURKdThJc3BCZA?oc=5",
+          "source": "Place North East",
+          "publishedAt": "2026-09-18",
+          "lede": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+          "articleExcerpt": "Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal - Place North East. Newcastle 444-bed student asset sold by HSBC in £165m portfolio deal Place North East",
+          "contentFingerprint": "48cadc607a4ff9b5",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "HSBC AM is a tracked GP; the article references HSBC selling a student housing asset — however, the phrasing 'sold by HSBC' suggests HSBC was the owner/seller, likely in a real estate equity capacity. But critically, the article provides no detail on financing, lending, credit activity, or debt involvement — it only describes an equity sale of a real estate asset. Since the portfolio tracks only HSBC AM’s credit/financing activity (e.g., real estate debt, mortgage lending, CRE loans), and this appears to be an equity disposition with no stated credit angle, it should be excluded."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.67,
+            "finalScore": 8.67,
             "semanticEnabled": true
           }
         }
