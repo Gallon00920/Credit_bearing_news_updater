@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-18T12:41:28.813276+00:00",
+  "updatedAt": "2026-09-18T17:00:16.746142+00:00",
   "scope": {
     "regions": [
       "US",
@@ -13468,7 +13468,50 @@
             }
           }
         ],
-        "OTF": [],
+        "OTF": [
+          {
+            "id": "2026-09-17-57dc3ffd2b55",
+            "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+            "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
+            "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
+            "source": "scanx.trade",
+            "publishedAt": "2026-09-17",
+            "lede": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "articleExcerpt": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade. KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
+            "contentFingerprint": "f8ebc1a24040598c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.02,
+              "finalScore": 24.02,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Pretium": [],
         "KKR": [],
         "PAG": [],
