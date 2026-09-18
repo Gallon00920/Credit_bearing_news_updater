@@ -1,6 +1,6 @@
 # Credit News Dashboard
 
-A small web-based dashboard for monitoring private-credit news by digest date and by GP. It opens on today by default, lets users pick any date inside the rolling 90-day calendar window, shows every required GP as its own same-day section, and supports English / Traditional Chinese page switching.
+A small web-based dashboard for monitoring private-credit news by digest date, GP, and sub-sector. It opens on today by default, lets users pick any date inside the rolling 90-day calendar window, can switch grouping between GP and sub-sector, can show selected-week or selected-month top-20 scored items sorted by publication date, and supports English / Simplified Chinese page switching.
 
 ## Run locally
 
@@ -44,7 +44,7 @@ python3 scripts/update_news.py
 Chinese abstracts:
 
 - New items use the English summary first.
-- If `summaryZh` is missing, the updater translates the English summary into Traditional Chinese with the same DashScope Qwen model configured for semantic scoring, currently `qwen-plus`.
+- If `summaryZh` is missing, the updater translates the English summary into Simplified Chinese with the same DashScope Qwen model configured for semantic scoring, currently `qwen-plus`.
 - The API key is read from `DASHSCOPE_API_KEY` by default.
 - Existing manually written Chinese abstracts are preserved.
 - Existing saved items with missing or placeholder Chinese abstracts are backfilled during the full `python3 scripts/update_news.py` run.

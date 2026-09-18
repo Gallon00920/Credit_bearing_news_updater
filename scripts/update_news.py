@@ -2,7 +2,7 @@
 """Fetch, score, and append relevant credit news to data/news.json.
 
 The updater uses free RSS/Atom feeds, keyword scoring, semantic scoring through
-LangChain + Qwen, optional PyLate/ColBERTv2 MaxSim, and Qwen Traditional Chinese
+LangChain + Qwen, optional PyLate/ColBERTv2 MaxSim, and Qwen Simplified Chinese
 translation when the configured dependencies and API key are available.
 """
 
@@ -99,7 +99,7 @@ Output valid JSON only, with this shape:
   "reason": "short explanation"
 }}
 """
-TRANSLATION_PROMPT = """Translate the following investment-news summary into Traditional Chinese.
+TRANSLATION_PROMPT = """Translate the following investment-news summary into Simplified Chinese.
 
 Rules:
 - Preserve company names, fund names, ticker symbols, dates, and monetary figures.
@@ -110,7 +110,7 @@ Rules:
 English summary:
 {summary}
 """
-MISSING_ZH_SUMMARY = "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。"
+MISSING_ZH_SUMMARY = "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。"
 
 GP_ALIASES = {
     "Blue Owl": ["blue owl", "owl rock"],
@@ -826,14 +826,17 @@ def enrich_item(
     summary = summarize(item)
     article_excerpt = document_for_semantic_scoring(item)
     summary_zh = item.get("summaryZh") or ""
+    summary_zh_language = item.get("summaryZhLanguage") or ""
     if not summary_zh.strip() or summary_zh.strip() == MISSING_ZH_SUMMARY:
         summary_zh = translate_summary(summary, translator)
+        summary_zh_language = translator.target_language if translator else ""
     return {
         "id": stable_id(item),
         "title": item["title"],
         "titleZh": item["title"],
         "summary": summary,
         "summaryZh": summary_zh,
+        "summaryZhLanguage": summary_zh_language,
         "url": item["url"],
         "source": item.get("source") or "Google News",
         "publishedAt": item["publishedAt"],
@@ -1181,6 +1184,7 @@ class ChineseTranslator:
     def __init__(self, config: dict):
         translation_config = config.get("translation", {})
         semantic_config = config.get("semanticScoring", {})
+        self.target_language = translation_config.get("targetLanguage", "Simplified Chinese")
         self.qwen_config = {
             "qwenModel": translation_config.get("qwenModel") or semantic_config.get("qwenModel", "qwen-plus"),
             "qwenApiKeyEnv": translation_config.get("qwenApiKeyEnv") or semantic_config.get("qwenApiKeyEnv", "DASHSCOPE_API_KEY"),
@@ -1355,12 +1359,13 @@ def translate_existing_chinese_summaries(data: dict, translator: "ChineseTransla
     translated_by_key: dict[str, str] = {}
     for date_digest in data.get("dates", {}).values():
         for item in iter_digest_items(date_digest):
-            if not needs_chinese_summary(item):
+            if not needs_chinese_summary(item, translator.target_language):
                 continue
             key = item.get("id") or item.get("url") or item.get("summary")
             if key not in translated_by_key:
                 translated_by_key[key] = translator.translate(item.get("summary", ""))
             item["summaryZh"] = translated_by_key[key]
+            item["summaryZhLanguage"] = translator.target_language
             changed += 1
     return changed
 
@@ -1396,9 +1401,11 @@ def iter_digest_items(date_digest: dict):
             yield item
 
 
-def needs_chinese_summary(item: dict) -> bool:
+def needs_chinese_summary(item: dict, target_language: str | None = None) -> bool:
     summary_zh = (item.get("summaryZh") or "").strip()
-    return not summary_zh or summary_zh == MISSING_ZH_SUMMARY
+    if not summary_zh or summary_zh == MISSING_ZH_SUMMARY:
+        return True
+    return bool(target_language and item.get("summaryZhLanguage") != target_language)
 
 
 class PyLateColbertBackend:

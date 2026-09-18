@@ -28,7 +28,7 @@
         </button>
         <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch language">
           <span class="toggle-option active" data-lang-pill="en">EN</span>
-          <span class="toggle-option" data-lang-pill="zh">繁</span>
+          <span class="toggle-option" data-lang-pill="zh">简</span>
         </button>
       </div>
     </header>
@@ -48,8 +48,14 @@
             <p class="eyebrow" data-i18n="selectedDate">Selected date</p>
             <h2 id="selectedDateLabel">--</h2>
           </div>
-          <div class="toolbar-stats" aria-label="Digest statistics">
-            <div>
+          <div class="toolbar-controls" aria-label="Dashboard controls">
+            <div class="view-toggle" aria-label="Digest scope">
+              <button type="button" class="active" data-view-mode="day" data-i18n="viewDay">Day</button>
+              <button type="button" data-view-mode="week" data-i18n="viewWeek">Week Top 20</button>
+              <button type="button" data-view-mode="month" data-i18n="viewMonth">Month Top 20</button>
+            </div>
+            <button id="groupModeToggle" class="group-mode-toggle" type="button">Group by sub-sector</button>
+            <div class="toolbar-stats" aria-label="Digest statistics">
               <span id="itemCount">0</span>
               <small data-i18n="stories">stories</small>
             </div>
@@ -131,6 +137,6 @@
       </form>
     </dialog>
 
-    <script src="src/app.js?v=20260913-manual-refresh" type="module"></script>
+    <script src="src/app.js?v=20260919-sector-rankings" type="module"></script>
   </body>
 </html>

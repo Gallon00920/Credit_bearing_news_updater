@@ -2,6 +2,7 @@ const DATA_URL = "data/news.json";
 const REPORT_ISSUE_URL = "https://github.com/Gallon00920/Credit_bearing_news_updater/issues/new";
 const MANUAL_REFRESH_WORKFLOW_URL = "https://github.com/Gallon00920/Credit_bearing_news_updater/actions/workflows/update-news.yml";
 const REPORT_STORAGE_KEY = "news-dashboard-report-logs";
+const GROUP_MODE_STORAGE_KEY = "news-dashboard-group-mode";
 const TRACKED_SECTORS = [
   "software",
   "private credit / direct lending",
@@ -22,13 +23,19 @@ const uiText = {
     lastUpdated: "Updated",
     todayRefreshButton: "Refresh Today",
     fullRefreshButton: "Full 90-Day Refresh",
+    viewDay: "Day",
+    viewWeek: "Week Top 20",
+    viewMonth: "Month Top 20",
+    groupBySector: "Group by sub-sector",
+    groupByGp: "Group by GP",
+    unclassified: "Unclassified",
     calendar: "Calendar",
     selectedDate: "Selected date",
     stories: "stories",
     gpCoverage: "GP sections",
     emptyTitle: "No news saved for this date",
     emptyBody: "Run the updater to fetch and score new items, then refresh this page.",
-    noGpNews: "No qualifying credit news found for this GP on the selected date.",
+    noGpNews: "No qualifying credit news found for this group in the selected view.",
     hasNews: "Saved news",
     noNews: "No saved news",
     month: "Month",
@@ -61,48 +68,54 @@ const uiText = {
     confirmRefresh: "Continue to GitHub Actions",
   },
   zh: {
-    eyebrow: "私人信貸每日監察",
-    title: "信貸新聞儀表板",
+    eyebrow: "私募信贷每日监测",
+    title: "信贷新闻仪表板",
     subtitle:
-      "以美國市場為主，並追蹤歐洲動態，涵蓋信貸策略、資產支持融資、CLO、軟件貸款、房地產、按揭、飛機租賃及 GP stakes。",
-    lastUpdated: "更新時間",
+      "以美国市场为主，并追踪欧洲动态，涵盖信贷策略、资产支持融资、CLO、软件贷款、房地产、按揭、飞机租赁及 GP stakes。",
+    lastUpdated: "更新时间",
     todayRefreshButton: "更新今日",
     fullRefreshButton: "完整更新 90 日",
-    calendar: "日曆",
-    selectedDate: "所選日期",
-    stories: "則新聞",
-    gpCoverage: "GP 分組",
-    emptyTitle: "此日期尚未儲存新聞",
-    emptyBody: "請先執行更新腳本抓取並評分新聞，然後重新整理頁面。",
-    noGpNews: "此 GP 在所選日期未找到符合條件的信貸新聞。",
-    hasNews: "已儲存新聞",
-    noNews: "未儲存新聞",
+    viewDay: "单日",
+    viewWeek: "本周 Top 20",
+    viewMonth: "本月 Top 20",
+    groupBySector: "按子行业分组",
+    groupByGp: "按 GP 分组",
+    unclassified: "未分类",
+    calendar: "日历",
+    selectedDate: "所选日期",
+    stories: "则新闻",
+    gpCoverage: "GP 分组",
+    emptyTitle: "此视图尚未储存新闻",
+    emptyBody: "请先执行更新脚本抓取并评分新闻，然后刷新页面。",
+    noGpNews: "此分组在当前视图中未找到符合条件的信贷新闻。",
+    hasNews: "已储存新闻",
+    noNews: "未储存新闻",
     month: "月份",
     year: "年份",
     retention: (days) => `保留最近 ${days} 日`,
-    readOriginal: "閱讀原文",
-    published: "發布",
-    source: "來源",
-    noDate: "無日期",
-    report: "回報",
-    reportEyebrow: "反饋",
-    reportTitle: "回報分類問題",
+    readOriginal: "阅读原文",
+    published: "发布",
+    source: "来源",
+    noDate: "无日期",
+    report: "回报",
+    reportEyebrow: "反馈",
+    reportTitle: "回报分类问题",
     reportReason: "原因",
-    wrongGp: "GP 錯誤",
-    wrongSector: "子行業錯誤",
-    notCredit: "非信貸相關",
-    correctGps: "正確 GP",
-    correctSectors: "正確子行業",
-    reportDetails: "補充原因",
+    wrongGp: "GP 错误",
+    wrongSector: "子行业错误",
+    notCredit: "非信贷相关",
+    correctGps: "正确 GP",
+    correctSectors: "正确子行业",
+    reportDetails: "补充原因",
     cancelReport: "取消",
-    submitReport: "提交回報",
-    refreshEyebrow: "手動更新",
-    todayRefreshTitle: "更新今日新聞？",
+    submitReport: "提交回报",
+    refreshEyebrow: "手动更新",
+    todayRefreshTitle: "更新今日新闻？",
     todayRefreshWarning:
-      "此手動執行只會更新今日新聞，並會與已儲存的儀表板資料去重。它不會取代每小時自動執行的最近日期更新；如果已有其他更新正在執行，GitHub Actions 會將此執行排入佇列。",
-    fullRefreshTitle: "執行完整 90 日更新？",
+      "此手动执行只会更新今日新闻，并会与已储存的仪表板数据去重。它不会取代每小时自动执行的最近日期更新；如果已有其他更新正在执行，GitHub Actions 会将此执行排入队列。",
+    fullRefreshTitle: "执行完整 90 日更新？",
     fullRefreshWarning:
-      "此更新可能需要超過 45 分鐘。在此期間，公開儀表板仍會顯示目前已儲存的新聞；你需要等到更新完成並由 GitHub Pages 重新部署後，才能閱讀新的 90 日更新結果。請確認你真的要繼續。",
+      "此更新可能需要超过 45 分钟。在此期间，公开仪表板仍会显示目前已储存的新闻；你需要等到更新完成并由 GitHub Pages 重新部署后，才能阅读新的 90 日更新结果。请确认你真的要继续。",
     cancelRefresh: "取消",
     confirmRefresh: "前往 GitHub Actions",
   },
@@ -114,6 +127,8 @@ let calendarMonth = null;
 let language = localStorage.getItem("news-dashboard-language") || "en";
 let reportingItem = null;
 let pendingRefreshMode = "full";
+let groupMode = localStorage.getItem(GROUP_MODE_STORAGE_KEY) || "gp";
+let viewMode = "day";
 
 const calendar = document.querySelector("#calendar");
 const newsList = document.querySelector("#newsList");
@@ -124,6 +139,8 @@ const itemCount = document.querySelector("#itemCount");
 const retentionLabel = document.querySelector("#retentionLabel");
 const todayRefreshButton = document.querySelector("#todayRefreshButton");
 const fullRefreshButton = document.querySelector("#fullRefreshButton");
+const groupModeToggle = document.querySelector("#groupModeToggle");
+const viewModeButtons = document.querySelectorAll("[data-view-mode]");
 const languageToggle = document.querySelector("#languageToggle");
 const reportDialog = document.querySelector("#reportDialog");
 const reportForm = document.querySelector("#reportForm");
@@ -162,6 +179,21 @@ function bindEvents() {
       language = language === "en" ? "zh" : "en";
       localStorage.setItem("news-dashboard-language", language);
       if (dashboardData) render();
+    });
+  }
+
+  viewModeButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      viewMode = button.dataset.viewMode || "day";
+      render();
+    });
+  });
+
+  if (groupModeToggle) {
+    groupModeToggle.addEventListener("click", () => {
+      groupMode = groupMode === "gp" ? "sector" : "gp";
+      localStorage.setItem(GROUP_MODE_STORAGE_KEY, groupMode);
+      render();
     });
   }
 
@@ -225,12 +257,13 @@ function confirmManualRefreshWithBrowserDialog() {
 }
 
 function render() {
-  document.documentElement.lang = language === "zh" ? "zh-Hant" : "en";
+  document.documentElement.lang = language === "zh" ? "zh-Hans" : "en";
   applyUiText();
   syncRefreshDialogText();
   renderHeader();
   renderCalendar();
   renderNews();
+  renderViewControls();
   renderLanguageToggle();
 }
 
@@ -330,12 +363,11 @@ function setCalendarMonth(date) {
 }
 
 function renderNews() {
-  const dateData = dashboardData.dates?.[selectedDate];
-  const groups = buildGpGroups(dateData);
-  const items = collectItemsForDate(dateData);
-  selectedDateLabel.textContent = selectedDate ? formatDate(selectedDate) : uiText[language].noDate;
-  itemCount.textContent = items.length;
-  emptyState.hidden = items.length > 0;
+  const view = getActiveView();
+  const groups = buildGroupsForItems(view.items);
+  selectedDateLabel.textContent = view.label;
+  itemCount.textContent = view.items.length;
+  emptyState.hidden = view.items.length > 0;
   newsList.innerHTML = "";
 
   groups.forEach((group) => {
@@ -343,7 +375,7 @@ function renderNews() {
     section.className = "gp-section";
     section.innerHTML = `
       <div class="gp-section-header">
-        <h3>${escapeHtml(group.gp)}</h3>
+        <h3>${escapeHtml(group.label)}</h3>
         <span>${group.items.length} ${uiText[language].stories}</span>
       </div>
       <div class="gp-section-body"></div>
@@ -361,6 +393,84 @@ function renderNews() {
 
     newsList.append(section);
   });
+}
+
+function getActiveView() {
+  if (viewMode === "week") {
+    const range = getWeekRange(parseDate(selectedDate));
+    const items = topScoredItems(collectItemsBetween(range.start, range.end), 20);
+    return {
+      items: sortItemsByDate(items),
+      label: `${formatDate(toDateKey(range.start))} - ${formatDate(toDateKey(range.end))}`,
+    };
+  }
+
+  if (viewMode === "month") {
+    const current = parseDate(selectedDate);
+    const start = startOfMonth(current);
+    const end = new Date(current.getFullYear(), current.getMonth() + 1, 0);
+    const items = topScoredItems(collectItemsBetween(start, end), 20);
+    return {
+      items: sortItemsByDate(items),
+      label: new Intl.DateTimeFormat(language === "zh" ? "zh-Hans-CN" : "en-US", { year: "numeric", month: "long" }).format(current),
+    };
+  }
+
+  const dateData = dashboardData.dates?.[selectedDate];
+  return {
+    items: collectItemsForDate(dateData),
+    label: selectedDate ? formatDate(selectedDate) : uiText[language].noDate,
+  };
+}
+
+function buildGroupsForItems(items) {
+  const order = groupMode === "sector" ? TRACKED_SECTORS : dashboardData.scope?.gps || [];
+  const field = groupMode === "sector" ? "sectors" : "gps";
+  const groups = order.map((label) => ({
+    label,
+    items: dedupeItems(items.filter((item) => (item[field] || []).includes(label))),
+  }));
+  const unclassified = dedupeItems(items.filter((item) => !(item[field] || []).length));
+  if (unclassified.length) {
+    groups.push({ label: uiText[language].unclassified, items: unclassified });
+  }
+  return groups;
+}
+
+function collectItemsBetween(start, end) {
+  const items = [];
+  Object.entries(dashboardData.dates || {}).forEach(([dateKey, dateData]) => {
+    const date = parseDate(dateKey);
+    if (date >= start && date <= end) {
+      items.push(...collectItemsForDate(dateData));
+    }
+  });
+  return dedupeItems(items);
+}
+
+function topScoredItems(items, limit) {
+  return [...dedupeItems(items)]
+    .sort((a, b) => getItemScore(b) - getItemScore(a) || compareItemDates(b, a))
+    .slice(0, limit);
+}
+
+function sortItemsByDate(items) {
+  return [...items].sort((a, b) => compareItemDates(b, a) || getItemScore(b) - getItemScore(a));
+}
+
+function compareItemDates(a, b) {
+  return String(a.publishedAt || a.date || "").localeCompare(String(b.publishedAt || b.date || ""));
+}
+
+function getItemScore(item) {
+  const breakdown = item.scoreBreakdown || {};
+  return Number(breakdown.finalScore ?? item.score ?? (Number(breakdown.keywordScore || 0) + Number(breakdown.semanticScore || 0))) || 0;
+}
+
+function getWeekRange(date) {
+  const start = addDays(date, -((date.getDay() + 6) % 7));
+  const end = addDays(start, 6);
+  return { start, end };
 }
 
 function renderNewsCard(item) {
@@ -465,20 +575,6 @@ function githubIssueUrl(report) {
   return `${REPORT_ISSUE_URL}?${params.toString()}`;
 }
 
-function buildGpGroups(dateData) {
-  const gpOrder = dashboardData.scope?.gps || [];
-  const items = dateData?.items || [];
-  const byGp = dateData?.byGp || {};
-
-  return gpOrder.map((gp) => {
-    const groupedItems = byGp[gp] || items.filter((item) => (item.gps || []).includes(gp));
-    return {
-      gp,
-      items: dedupeItems(groupedItems),
-    };
-  });
-}
-
 function collectItemsForDate(dateData) {
   if (!dateData) return [];
   const items = [...(dateData.items || [])];
@@ -502,6 +598,15 @@ function renderTags(item) {
   return [...gpTags, ...sectorTags].join("");
 }
 
+function renderViewControls() {
+  viewModeButtons.forEach((button) => {
+    button.classList.toggle("active", button.dataset.viewMode === viewMode);
+  });
+  if (groupModeToggle) {
+    groupModeToggle.textContent = groupMode === "gp" ? uiText[language].groupBySector : uiText[language].groupByGp;
+  }
+}
+
 function renderLanguageToggle() {
   document.querySelectorAll("[data-lang-pill]").forEach((node) => {
     node.classList.toggle("active", node.dataset.langPill === language);
@@ -518,7 +623,7 @@ function localized(item, field) {
 function formatDate(value) {
   if (!value) return "--";
   const date = new Date(`${value.slice(0, 10)}T12:00:00Z`);
-  return new Intl.DateTimeFormat(language === "zh" ? "zh-Hant-HK" : "en-US", {
+  return new Intl.DateTimeFormat(language === "zh" ? "zh-Hans-CN" : "en-US", {
     year: "numeric",
     month: "short",
     day: "numeric",
@@ -529,7 +634,7 @@ function formatDate(value) {
 function formatDateTime(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return value;
-  return new Intl.DateTimeFormat(language === "zh" ? "zh-Hant-HK" : "en-US", {
+  return new Intl.DateTimeFormat(language === "zh" ? "zh-Hans-CN" : "en-US", {
     year: "numeric",
     month: "short",
     day: "numeric",
@@ -558,14 +663,14 @@ function getSelectableYears(start, end) {
 
 function getMonthNames() {
   return Array.from({ length: 12 }, (_, month) =>
-    new Intl.DateTimeFormat(language === "zh" ? "zh-Hant-HK" : "en-US", { month: "short" }).format(new Date(2026, month, 1))
+    new Intl.DateTimeFormat(language === "zh" ? "zh-Hans-CN" : "en-US", { month: "short" }).format(new Date(2026, month, 1))
   );
 }
 
 function getWeekdays() {
   const base = new Date(2026, 0, 4);
   return Array.from({ length: 7 }, (_, index) =>
-    new Intl.DateTimeFormat(language === "zh" ? "zh-Hant-HK" : "en-US", { weekday: "short" }).format(addDays(base, index))
+    new Intl.DateTimeFormat(language === "zh" ? "zh-Hans-CN" : "en-US", { weekday: "short" }).format(addDays(base, index))
   );
 }
 
