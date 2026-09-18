@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-18T17:00:16.746142+00:00",
+  "updatedAt": "2026-09-18T19:28:24.868029+00:00",
   "scope": {
     "regions": [
       "US",
@@ -14297,6 +14297,42 @@
               "finalScore": 7.54,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-18-6f6129cbfc3b",
+            "title": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS",
+            "titleZh": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS",
+            "summary": "KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmpOVG9NRUZPWUhPN3VPVENYLTBGcUc5Sy1uby00TzU4UExCSjRqaGhVQ2JqTlYwd3AyZnlRaVJaenhoSFpKaGxLUEc3MmhUb0VjcTlwd2Z0M2tVaDJDMkdQaDhrUE1yaVUxVmEyQmtEYTFqLXpDWEoxV1g1cFRoMmZHWTdnVmUtMHpB?oc=5",
+            "source": "UA.NEWS",
+            "publishedAt": "2026-09-18",
+            "lede": "KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+            "articleExcerpt": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS. KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+            "contentFingerprint": "a06c193a29ba29f4",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.49,
+              "finalScore": 7.49,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -14458,6 +14494,42 @@
             "keywordScore": 3,
             "semanticScore": 4.54,
             "finalScore": 7.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-6f6129cbfc3b",
+          "title": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS",
+          "titleZh": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS",
+          "summary": "KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmpOVG9NRUZPWUhPN3VPVENYLTBGcUc5Sy1uby00TzU4UExCSjRqaGhVQ2JqTlYwd3AyZnlRaVJaenhoSFpKaGxLUEc3MmhUb0VjcTlwd2Z0M2tVaDJDMkdQaDhrUE1yaVUxVmEyQmtEYTFqLXpDWEoxV1g1cFRoMmZHWTdnVmUtMHpB?oc=5",
+          "source": "UA.NEWS",
+          "publishedAt": "2026-09-18",
+          "lede": "KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+          "articleExcerpt": "KKR forecasts two Fed rate hikes — MarketWatch - UA.NEWS. KKR forecasts two Fed rate hikes — MarketWatch UA.NEWS",
+          "contentFingerprint": "a06c193a29ba29f4",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.49,
+            "finalScore": 7.49,
             "semanticEnabled": true
           }
         },
