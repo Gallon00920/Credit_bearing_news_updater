@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-19T01:15:45.126574+00:00",
+  "updatedAt": "2026-09-19T05:33:16.630002+00:00",
   "scope": {
     "regions": [
       "US",
@@ -13591,6 +13591,47 @@
               "finalScore": 27.02,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-17-73fcf6ca8393",
+            "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "summaryZh": "NKE、OWL、SMR股票上周触及52周低点：抛售潮由何驱动？Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-17",
+            "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "contentFingerprint": "66ae284761a843f1",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker symbol for Blue Owl Capital, a tracked GP whose primary public business is credit-focused (private credit, direct lending, CLOs, structured finance); the article references OWL stock underperformance, implying coverage of the firm itself — and since Blue Owl has no material non-credit equity strategies (e.g., no PE/infra/RE equity platforms), its stock movement is reasonably attributable to its core credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.46,
+              "finalScore": 10.46,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [
@@ -14195,6 +14236,47 @@
           }
         },
         {
+          "id": "2026-09-17-73fcf6ca8393",
+          "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "summaryZh": "NKE、OWL、SMR股票上周触及52周低点：抛售潮由何驱动？Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-17",
+          "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "contentFingerprint": "66ae284761a843f1",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker symbol for Blue Owl Capital, a tracked GP whose primary public business is credit-focused (private credit, direct lending, CLOs, structured finance); the article references OWL stock underperformance, implying coverage of the firm itself — and since Blue Owl has no material non-credit equity strategies (e.g., no PE/infra/RE equity platforms), its stock movement is reasonably attributable to its core credit business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.46,
+            "finalScore": 10.46,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-17-ff670fbf60ce",
           "title": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
           "titleZh": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
@@ -14656,7 +14738,53 @@
           }
         ],
         "PAG": [],
-        "Bayview": [],
+        "Bayview": [
+          {
+            "id": "2026-09-18-6799560d4323",
+            "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "summaryZh": "第六街与湾景收购城堡信托银行抵押贷款组合",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+            "source": "Mortgage Soup",
+            "publishedAt": "2026-09-18",
+            "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "contentFingerprint": "f860683359902971",
+            "region": "Global",
+            "gps": [
+              "Bayview"
+            ],
+            "sectors": [
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bayview"
+              ],
+              "llmGps": [
+                "Bayview"
+              ],
+              "keywordSectors": [
+                "mortgage"
+              ],
+              "llmSectors": [
+                "mortgage"
+              ],
+              "llmExclude": false,
+              "llmReason": "Bayview is a tracked GP and the article describes its acquisition of Castle Trust Bank, a UK-based mortgage lender — a credit/financing activity directly aligned with the mortgage sub-sector."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.32,
+              "finalScore": 19.32,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
@@ -14994,6 +15122,51 @@
           }
         },
         {
+          "id": "2026-09-18-6799560d4323",
+          "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "summaryZh": "第六街与湾景收购城堡信托银行抵押贷款组合",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+          "source": "Mortgage Soup",
+          "publishedAt": "2026-09-18",
+          "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "contentFingerprint": "f860683359902971",
+          "region": "Global",
+          "gps": [
+            "Bayview"
+          ],
+          "sectors": [
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bayview"
+            ],
+            "llmGps": [
+              "Bayview"
+            ],
+            "keywordSectors": [
+              "mortgage"
+            ],
+            "llmSectors": [
+              "mortgage"
+            ],
+            "llmExclude": false,
+            "llmReason": "Bayview is a tracked GP and the article describes its acquisition of Castle Trust Bank, a UK-based mortgage lender — a credit/financing activity directly aligned with the mortgage sub-sector."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.32,
+            "finalScore": 19.32,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-18-820042dc4b88",
           "title": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
           "titleZh": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
@@ -15121,7 +15294,53 @@
         "Blue Owl": [],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-19-4d7c0a47a0c4",
+            "title": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat",
+            "titleZh": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat",
+            "summary": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+            "summaryZh": "KKR认为人工智能融资和私人信贷将推动其下一波增长浪潮 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaER2NU4wTVFiMzlPNGp6Y1RQZWFYUWVteFM1ODJzWjg3U05UX2w5N1ZuaW1ndHJGZV9oYXp4LWFJcVhqQU1QOVNPdk1oLTVIRnpnTkE3U1E1SVJoVHhQNk94NkxnOVZVdEtpZHI3em1yNnVaWVhPSFdSSG5vX2NZcnRJVzdGdURFZTkySzFERGZTeFNELUdhdjI5MmJuR05YTjZZOXFnRnlmTWVLZ0lVUXVueWVUTEVoOUlTWDZnSWhDd2s?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-09-19",
+            "lede": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+            "articleExcerpt": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat. KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+            "contentFingerprint": "cbb82a73d99f0608",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-relevant activities; no mention of equity buyouts, infrastructure, or other non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.09,
+              "finalScore": 20.09,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -15132,7 +15351,53 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-19-4d7c0a47a0c4",
+          "title": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat",
+          "titleZh": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat",
+          "summary": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+          "summaryZh": "KKR认为人工智能融资和私人信贷将推动其下一波增长浪潮 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaER2NU4wTVFiMzlPNGp6Y1RQZWFYUWVteFM1ODJzWjg3U05UX2w5N1ZuaW1ndHJGZV9oYXp4LWFJcVhqQU1QOVNPdk1oLTVIRnpnTkE3U1E1SVJoVHhQNk94NkxnOVZVdEtpZHI3em1yNnVaWVhPSFdSSG5vX2NZcnRJVzdGdURFZTkySzFERGZTeFNELUdhdjI5MmJuR05YTjZZOXFnRnlmTWVLZ0lVUXVueWVUTEVoOUlTWDZnSWhDd2s?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-09-19",
+          "lede": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+          "articleExcerpt": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - MarketBeat. KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave MarketBeat",
+          "contentFingerprint": "cbb82a73d99f0608",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-relevant activities; no mention of equity buyouts, infrastructure, or other non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.09,
+            "finalScore": 20.09,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
