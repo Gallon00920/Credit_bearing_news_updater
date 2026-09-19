@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-19T14:09:33.279008+00:00",
+  "updatedAt": "2026-09-19T17:17:07.898634+00:00",
   "scope": {
     "regions": [
       "US",
@@ -13903,17 +13903,17 @@
         "HSBC AM": [
           {
             "id": "2026-09-17-298e49946c63",
-            "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
-            "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
-            "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-            "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等机构参与14亿美元电池融资项目《另类投资观察》",
+            "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com",
+            "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com",
+            "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+            "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等参与14亿美元电池融资项目 alternativeswatch.com",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3I4MDJqNUFndUxsUjgzZHJYRzUxUThpZGprMTdHZGhnT0p1OVlwOUljRGRsTE5ZZlZJQ0pTTUM3U3JUa05Ec0k3MUFNRXNDcG51SUtGSU0zdUQ2YWZPVzMtRnR1LWZTUEJxdGQwdEthZ2pESnNtZkZqYXpJUTZob09Jd3ZOSXpzTmp6enE2OWRZYVE1OE4yUXR2ZlJ4MTlBbE5RdmpodFlLa19lcWJOTGRSOWpva0szcjBn?oc=5",
-            "source": "Alternatives Watch",
+            "source": "alternativeswatch.com",
             "publishedAt": "2026-09-17",
-            "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-            "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-            "contentFingerprint": "64d4a5dc8bd82315",
+            "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+            "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+            "contentFingerprint": "c8bd82f97567f219",
             "region": "Global",
             "gps": [
               "HSBC AM"
@@ -13935,12 +13935,53 @@
                 "private credit / direct lending"
               ],
               "llmExclude": false,
-              "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn battery financings in the context of private credit — indicating its credit/lending activity, consistent with the portfolio’s credit-only mandate."
+              "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn in battery financings — a credit/lending activity falling under private credit / direct lending."
             },
             "scoreBreakdown": {
               "keywordScore": 14,
-              "semanticScore": 6.19,
-              "finalScore": 20.19,
+              "semanticScore": 6.34,
+              "finalScore": 20.34,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-17-15715f207b65",
+            "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+            "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+            "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "summaryZh": "汇丰中短期基金—直接计划—定期分红方案 financialexpress.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
+            "source": "financialexpress.com",
+            "publishedAt": "2026-09-17",
+            "lede": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "articleExcerpt": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com. HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+            "contentFingerprint": "7df7bdf4281f408a",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.89,
+              "finalScore": 10.89,
               "semanticEnabled": true
             }
           }
@@ -14482,17 +14523,17 @@
         },
         {
           "id": "2026-09-17-298e49946c63",
-          "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
-          "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch",
-          "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-          "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等机构参与14亿美元电池融资项目《另类投资观察》",
+          "title": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com",
+          "titleZh": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com",
+          "summary": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+          "summaryZh": "私募信贷简报：汇丰银行、三井住友银行等参与14亿美元电池融资项目 alternativeswatch.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3I4MDJqNUFndUxsUjgzZHJYRzUxUThpZGprMTdHZGhnT0p1OVlwOUljRGRsTE5ZZlZJQ0pTTUM3U3JUa05Ec0k3MUFNRXNDcG51SUtGSU0zdUQ2YWZPVzMtRnR1LWZTUEJxdGQwdEthZ2pESnNtZkZqYXpJUTZob09Jd3ZOSXpzTmp6enE2OWRZYVE1OE4yUXR2ZlJ4MTlBbE5RdmpodFlLa19lcWJOTGRSOWpva0szcjBn?oc=5",
-          "source": "Alternatives Watch",
+          "source": "alternativeswatch.com",
           "publishedAt": "2026-09-17",
-          "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-          "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - Alternatives Watch. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings Alternatives Watch",
-          "contentFingerprint": "64d4a5dc8bd82315",
+          "lede": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+          "articleExcerpt": "Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings - alternativeswatch.com. Private credit briefs: HSBC, SMBC among backers of $1.4bn battery financings alternativeswatch.com",
+          "contentFingerprint": "c8bd82f97567f219",
           "region": "Global",
           "gps": [
             "HSBC AM"
@@ -14514,12 +14555,53 @@
               "private credit / direct lending"
             ],
             "llmExclude": false,
-            "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn battery financings in the context of private credit — indicating its credit/lending activity, consistent with the portfolio’s credit-only mandate."
+            "llmReason": "HSBC AM is a tracked GP, and the article references HSBC as a backer of $1.4bn in battery financings — a credit/lending activity falling under private credit / direct lending."
           },
           "scoreBreakdown": {
             "keywordScore": 14,
-            "semanticScore": 6.19,
-            "finalScore": 20.19,
+            "semanticScore": 6.34,
+            "finalScore": 20.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-17-15715f207b65",
+          "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+          "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
+          "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "汇丰中短期基金—直接计划—定期分红方案 financialexpress.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
+          "source": "financialexpress.com",
+          "publishedAt": "2026-09-17",
+          "lede": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "articleExcerpt": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com. HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "contentFingerprint": "7df7bdf4281f408a",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.89,
+            "finalScore": 10.89,
             "semanticEnabled": true
           }
         }
@@ -14622,7 +14704,8 @@
             "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
             "titleZh": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
             "summary": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "美联储对经济增长的信心从未如此之强。根据KKR的观点，投资者现在应采取的行动。MarketWatch",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWdncVlkdWlkeFFJLUdoRWc1MENodF9wSVZyd0pQVW9xYzZtM1dpVlR3ZVNpUTdfeWN1SEhfOHkzREc4SENES1pnR1lScEp0akVGZFpvcnoyNHNiVHA4RG12RFhVUkt6TFBDMTZYZXdKSVZUUmMyejgxZUJsdkdMcnYzczcwM1N1Vmp5dXhpZk8xVUV5RzZlZ0xzSGNJLThBTW1lZzkzdFBwck5PR1RaMUJua3lYcHBsRkFKZW1QcVptN3IwRzBRTlNiNkNmMU5JdHpnSkxJQQ?oc=5",
             "source": "MarketWatch",
             "publishedAt": "2026-09-18",
@@ -14633,23 +14716,29 @@
             "gps": [
               "KKR"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "KKR"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "KKR"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "The article title references KKR offering investment advice in the context of Fed confidence on growth; while sparse, it is plausible and consistent with KKR's prominent private credit/direct lending business — a tracked credit-relevant activity. No mention of non-credit strategies (e.g., buyouts, infrastructure) or unrelated corporate news; the framing suggests macro/credit-oriented guidance typical of their credit platform."
             },
             "scoreBreakdown": {
-              "keywordScore": 3,
+              "keywordScore": 6,
               "semanticScore": 4.54,
-              "finalScore": 7.54,
+              "finalScore": 10.54,
               "semanticEnabled": true
             }
           },
@@ -14829,6 +14918,49 @@
               "keywordScore": 8,
               "semanticScore": 4.42,
               "finalScore": 12.42,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-18-8ff880bf280e",
+            "title": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn",
+            "titleZh": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn",
+            "summary": "Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+            "summaryZh": "据彭博社报道，阿波罗全球管理公司正与软银集团就增加一笔贷款进行磋商，该贷款以日本综合企业软银集团旗下愿景基金2号所持资产为抵押；软银集团此举旨在为其对OpenAI的大额投资寻求额外融资。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.privateequitywire.co.uk/apollo-weighs-expanding-softbanks-vision-fund-loan-to-9bn/",
+            "source": "Google News",
+            "publishedAt": "2026-09-18",
+            "lede": "Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+            "articleExcerpt": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn. Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+            "contentFingerprint": "8fa8bc5027b622b3",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article describes Apollo considering an expansion of a loan facility backed by Vision Fund 2 assets — a credit/lending activity, consistent with Apollo’s private credit business. No equity buyout, infrastructure, or non-credit strategy is referenced."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 10,
+              "semanticScore": 8.21,
+              "finalScore": 18.21,
               "semanticEnabled": true
             }
           }
@@ -15011,7 +15143,8 @@
           "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
           "titleZh": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. - MarketWatch",
           "summary": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR. MarketWatch",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "美联储对经济增长的信心从未如此之强。根据KKR的观点，投资者现在应采取的行动。MarketWatch",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWdncVlkdWlkeFFJLUdoRWc1MENodF9wSVZyd0pQVW9xYzZtM1dpVlR3ZVNpUTdfeWN1SEhfOHkzREc4SENES1pnR1lScEp0akVGZFpvcnoyNHNiVHA4RG12RFhVUkt6TFBDMTZYZXdKSVZUUmMyejgxZUJsdkdMcnYzczcwM1N1Vmp5dXhpZk8xVUV5RzZlZ0xzSGNJLThBTW1lZzkzdFBwck5PR1RaMUJua3lYcHBsRkFKZW1QcVptN3IwRzBRTlNiNkNmMU5JdHpnSkxJQQ?oc=5",
           "source": "MarketWatch",
           "publishedAt": "2026-09-18",
@@ -15022,23 +15155,29 @@
           "gps": [
             "KKR"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "KKR"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "KKR"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "The article title references KKR offering investment advice in the context of Fed confidence on growth; while sparse, it is plausible and consistent with KKR's prominent private credit/direct lending business — a tracked credit-relevant activity. No mention of non-credit strategies (e.g., buyouts, infrastructure) or unrelated corporate news; the framing suggests macro/credit-oriented guidance typical of their credit platform."
           },
           "scoreBreakdown": {
-            "keywordScore": 3,
+            "keywordScore": 6,
             "semanticScore": 4.54,
-            "finalScore": 7.54,
+            "finalScore": 10.54,
             "semanticEnabled": true
           }
         },
@@ -15210,6 +15349,49 @@
             "keywordScore": 8,
             "semanticScore": 4.42,
             "finalScore": 12.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-18-8ff880bf280e",
+          "title": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn",
+          "titleZh": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn",
+          "summary": "Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+          "summaryZh": "据彭博社报道，阿波罗全球管理公司正与软银集团就增加一笔贷款进行磋商，该贷款以日本综合企业软银集团旗下愿景基金2号所持资产为抵押；软银集团此举旨在为其对OpenAI的大额投资寻求额外融资。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.privateequitywire.co.uk/apollo-weighs-expanding-softbanks-vision-fund-loan-to-9bn/",
+          "source": "Google News",
+          "publishedAt": "2026-09-18",
+          "lede": "Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+          "articleExcerpt": "Apollo weighs expanding SoftBank’s Vision Fund loan to $9bn. Apollo Global Management is in discussions with SoftBank Group over a potential increase in a loan backed by assets held in the Japanese conglomerate’s Vision Fund 2, as SoftBank seeks additional financing for its substantial investment in OpenAI, according to a report by Bloomberg.",
+          "contentFingerprint": "8fa8bc5027b622b3",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article describes Apollo considering an expansion of a loan facility backed by Vision Fund 2 assets — a credit/lending activity, consistent with Apollo’s private credit business. No equity buyout, infrastructure, or non-credit strategy is referenced."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 10,
+            "semanticScore": 8.21,
+            "finalScore": 18.21,
             "semanticEnabled": true
           }
         },
