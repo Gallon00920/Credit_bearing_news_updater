@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-19T05:33:16.630002+00:00",
+  "updatedAt": "2026-09-19T10:26:43.808081+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15339,6 +15339,51 @@
               "finalScore": 20.09,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-19-b026ee4e4b46",
+            "title": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance",
+            "titleZh": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance",
+            "summary": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+            "summaryZh": "KKR认为人工智能融资和私人信贷将推动其下一波增长浪潮 雅虎财经",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVNhMy1UX1N3UDNqZWlKeWlqajNtM1ZyRnQtdkZKaUs5SkRMRmtVSUM2QzB4Z0tXc05wYXhQdklFZVRsNjB4cnRBVG51WGlndnRNZUR1V0d1em1xSjh4MGhDOElhaW5PU2M2bXNaNGZQNEZuYzN6TlJsTGEzb09BYWpZWlIwZFRaaDlwQl9yVGlFd2hsZ2JvSVdB?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-09-19",
+            "lede": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+            "articleExcerpt": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance. KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+            "contentFingerprint": "442633972cb356fc",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-related activities; no mention of non-credit strategies like buyouts or infrastructure."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.82,
+              "finalScore": 19.82,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -15394,6 +15439,51 @@
             "keywordScore": 14,
             "semanticScore": 6.09,
             "finalScore": 20.09,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-19-b026ee4e4b46",
+          "title": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance",
+          "titleZh": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance",
+          "summary": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+          "summaryZh": "KKR认为人工智能融资和私人信贷将推动其下一波增长浪潮 雅虎财经",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVNhMy1UX1N3UDNqZWlKeWlqajNtM1ZyRnQtdkZKaUs5SkRMRmtVSUM2QzB4Z0tXc05wYXhQdklFZVRsNjB4cnRBVG51WGlndnRNZUR1V0d1em1xSjh4MGhDOElhaW5PU2M2bXNaNGZQNEZuYzN6TlJsTGEzb09BYWpZWlIwZFRaaDlwQl9yVGlFd2hsZ2JvSVdB?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-19",
+          "lede": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+          "articleExcerpt": "KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave - Yahoo Finance. KKR Sees AI Financing, Private Credit Fueling Its Next Growth Wave Yahoo Finance",
+          "contentFingerprint": "442633972cb356fc",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-related activities; no mention of non-credit strategies like buyouts or infrastructure."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.82,
+            "finalScore": 19.82,
             "semanticEnabled": true
           }
         }
