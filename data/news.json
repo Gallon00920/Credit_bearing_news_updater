@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-18T22:37:45.514494+00:00",
+  "updatedAt": "2026-09-19T01:15:45.126574+00:00",
   "scope": {
     "regions": [
       "US",
@@ -13599,7 +13599,8 @@
             "title": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
             "titleZh": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes - scanx.trade",
             "summary": "KBRA assigns BBB rating to Blue Owl Technology Finance Corp. $400m notes scanx.trade",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "KBRA授予Blue Owl Technology Finance Corp. 4亿美元票据BBB评级。scanx.trade",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHFodEd6RzNXYWVXaG9kVkRKNEtFcFdzMzdkQzNuV2ZpOV80MzFILVlHRGg1TkdsbGxSdlJkWVFfaFBDeVdMOVFrdERTb2J5Wjc5T0ZOQTNUWVVjcFc0U1dHTE0wUnVjcFEwWTh2MkRQaFVIMHZFeURTdmZvakhzaFRDWjZlZWZSUGk1VXM1cUFGSUlwWUdTN2NQUGNyS25kczZRc1M3eG11TU5SUV9rWlhITUFnd2NzWVdwV1ZyOGhtYVVvS1E?oc=5",
             "source": "scanx.trade",
             "publishedAt": "2026-09-17",
@@ -13612,7 +13613,8 @@
               "OTF"
             ],
             "sectors": [
-              "software"
+              "software",
+              "private credit / direct lending"
             ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
@@ -13621,18 +13623,22 @@
                 "Blue Owl",
                 "OTF"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
               "keywordSectors": [
                 "software"
               ],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "Blue Owl Technology Finance Corp. is Blue Owl's SEC-registered business development company (BDC) focused on direct lending to technology companies; the $400M notes represent a credit financing instrument, squarely within tracked private credit/direct lending activity."
             },
             "scoreBreakdown": {
-              "keywordScore": 18,
+              "keywordScore": 21,
               "semanticScore": 6.02,
-              "finalScore": 24.02,
+              "finalScore": 27.02,
               "semanticEnabled": true
             }
           }
@@ -13650,7 +13656,8 @@
             "title": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
             "titleZh": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
             "summary": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment finance.biggo.com",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "阿波罗公司正就将软银贷款扩大至90亿美元进行谈判，以资助追加的OpenAI投资。finance.biggo.com",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTk1MSExTRnpINVhUcUp1OHhuWW1OdGZLTTQtLTNZQ3V3cXlZc1hteXREZmVHdU42T3hXT1VpZVpGOHoxWEtoY1RrU1A2Nl9VVnBxUWJYWEt6SzJFUHpCdkVGVFJVTEJ4dm91U3A2UnFMaXFhM2c?oc=5",
             "source": "finance.biggo.com",
             "publishedAt": "2026-09-17",
@@ -13661,23 +13668,29 @@
             "gps": [
               "Apollo"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Apollo"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "The article describes Apollo engaging in a loan expansion to SoftBank — a credit activity (lending) — specifically to finance an OpenAI investment, falling squarely within Apollo's private credit / direct lending business."
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 14,
               "semanticScore": 7.57,
-              "finalScore": 18.57,
+              "finalScore": 21.57,
               "semanticEnabled": true
             }
           },
@@ -13728,7 +13741,8 @@
             "title": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets - Briefs Finance",
             "titleZh": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets - Briefs Finance",
             "summary": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets Briefs Finance",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "阿波罗公司考虑向软银集团提供90亿美元贷款，以支持其对OpenAI的投资。《Briefs Finance》报道",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmYzYW5KeXpUcVBMM0NFRlo3dDZ4WFY3bElwaS1HUzBScjNweFdEbjVtZUd4ZEp1cUswOXpWc0lJaGJ2RTBXT3h5dE5vbXItR3RhNmZfVTZwYlM3MGM5LTNhOEZiUFJSY0FFWU5UelNmNWNtQXJCTEF5VE5lb0hxMmlGLWtNSGZQNFhTQk9ncXhWdw?oc=5",
             "source": "Briefs Finance",
             "publishedAt": "2026-09-17",
@@ -13739,23 +13753,29 @@
             "gps": [
               "Apollo"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Apollo"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "The article describes Apollo considering a $9B loan to SoftBank, which is a direct lending/credit activity — squarely within Apollo’s private credit business and not related to its equity, infrastructure, or other non-credit strategies."
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 14,
               "semanticScore": 6.71,
-              "finalScore": 17.71,
+              "finalScore": 20.71,
               "semanticEnabled": true
             }
           },
@@ -14179,7 +14199,8 @@
           "title": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
           "titleZh": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment - finance.biggo.com",
           "summary": "Apollo in Talks to Expand SoftBank Loan to $9 Billion to Fuel Additional OpenAI Investment finance.biggo.com",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "阿波罗公司正就将软银贷款扩大至90亿美元进行谈判，以资助追加的OpenAI投资。finance.biggo.com",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTk1MSExTRnpINVhUcUp1OHhuWW1OdGZLTTQtLTNZQ3V3cXlZc1hteXREZmVHdU42T3hXT1VpZVpGOHoxWEtoY1RrU1A2Nl9VVnBxUWJYWEt6SzJFUHpCdkVGVFJVTEJ4dm91U3A2UnFMaXFhM2c?oc=5",
           "source": "finance.biggo.com",
           "publishedAt": "2026-09-17",
@@ -14190,23 +14211,29 @@
           "gps": [
             "Apollo"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Apollo"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "The article describes Apollo engaging in a loan expansion to SoftBank — a credit activity (lending) — specifically to finance an OpenAI investment, falling squarely within Apollo's private credit / direct lending business."
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 14,
             "semanticScore": 7.57,
-            "finalScore": 18.57,
+            "finalScore": 21.57,
             "semanticEnabled": true
           }
         },
@@ -14257,7 +14284,8 @@
           "title": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets - Briefs Finance",
           "titleZh": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets - Briefs Finance",
           "summary": "Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets Briefs Finance",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "阿波罗公司考虑向软银集团提供90亿美元贷款，以支持其对OpenAI的投资。《Briefs Finance》报道",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmYzYW5KeXpUcVBMM0NFRlo3dDZ4WFY3bElwaS1HUzBScjNweFdEbjVtZUd4ZEp1cUswOXpWc0lJaGJ2RTBXT3h5dE5vbXItR3RhNmZfVTZwYlM3MGM5LTNhOEZiUFJSY0FFWU5UelNmNWNtQXJCTEF5VE5lb0hxMmlGLWtNSGZQNFhTQk9ncXhWdw?oc=5",
           "source": "Briefs Finance",
           "publishedAt": "2026-09-17",
@@ -14268,23 +14296,29 @@
           "gps": [
             "Apollo"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Apollo"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "The article describes Apollo considering a $9B loan to SoftBank, which is a direct lending/credit activity — squarely within Apollo’s private credit business and not related to its equity, infrastructure, or other non-credit strategies."
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 14,
             "semanticScore": 6.71,
-            "finalScore": 17.71,
+            "finalScore": 20.71,
             "semanticEnabled": true
           }
         },
@@ -14632,7 +14666,8 @@
             "title": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
             "titleZh": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
             "summary": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? Kalkine Media",
-            "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+            "summaryZh": "阿波罗公司（纽约证券交易所代码：APO）的交易是否会改变其标普500指数成分股特征？Kalkine媒体",
+            "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzh4Z1ZUR1ZoVUhRdGRTZEl1dUxCZ2M5RERydi1HZnRTektBbGpzbzVTXzBWUFJKUnhJWHZWRm52OHBpTm4wdGdqMWJxY3pMYXd5NHk0VDRvblhpVzVESXZEUTNfNTVFQzQ5WTk3VldKZi1RdUItYno3aTZ0YTlNOXk5V2tzY0NYVHU4REhIclZUYnZrNk5KcExVcDg?oc=5",
             "source": "Kalkine Media",
             "publishedAt": "2026-09-18",
@@ -14643,23 +14678,29 @@
             "gps": [
               "Apollo"
             ],
-            "sectors": [],
+            "sectors": [
+              "private credit / direct lending"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Apollo"
               ],
-              "llmGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime"
+              "llmReason": "The article title references 'Apollo (NYSE:APO) Deals' in the context of its S&P 500 profile — a common framing for publicly traded alternative asset managers where credit/debt strategies (e.g., private credit, CLOs, structured finance) dominate revenue and market perception. Apollo’s public filings and investor communications consistently emphasize its credit platform (including direct lending, distressed debt, and CLOs) as core to its earnings and valuation. No mention of buyouts, infrastructure, or equity-only activity is present; the generic reference to 'Deals' in this financial media context defaults to its dominant, credit-related business lines."
             },
             "scoreBreakdown": {
-              "keywordScore": 5,
+              "keywordScore": 8,
               "semanticScore": 4.42,
-              "finalScore": 9.42,
+              "finalScore": 12.42,
               "semanticEnabled": true
             }
           }
@@ -14957,7 +14998,8 @@
           "title": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
           "titleZh": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? - Kalkine Media",
           "summary": "Could Apollo (NYSE:APO) Deals Shift Its S&P 500 Profile? Kalkine Media",
-          "summaryZh": "此條目的中文摘要尚未人工整理；請先參考英文摘要與原文連結。",
+          "summaryZh": "阿波罗公司（纽约证券交易所代码：APO）的交易是否会改变其标普500指数成分股特征？Kalkine媒体",
+          "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzh4Z1ZUR1ZoVUhRdGRTZEl1dUxCZ2M5RERydi1HZnRTektBbGpzbzVTXzBWUFJKUnhJWHZWRm52OHBpTm4wdGdqMWJxY3pMYXd5NHk0VDRvblhpVzVESXZEUTNfNTVFQzQ5WTk3VldKZi1RdUItYno3aTZ0YTlNOXk5V2tzY0NYVHU4REhIclZUYnZrNk5KcExVcDg?oc=5",
           "source": "Kalkine Media",
           "publishedAt": "2026-09-18",
@@ -14968,23 +15010,29 @@
           "gps": [
             "Apollo"
           ],
-          "sectors": [],
+          "sectors": [
+            "private credit / direct lending"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Apollo"
             ],
-            "llmGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime"
+            "llmReason": "The article title references 'Apollo (NYSE:APO) Deals' in the context of its S&P 500 profile — a common framing for publicly traded alternative asset managers where credit/debt strategies (e.g., private credit, CLOs, structured finance) dominate revenue and market perception. Apollo’s public filings and investor communications consistently emphasize its credit platform (including direct lending, distressed debt, and CLOs) as core to its earnings and valuation. No mention of buyouts, infrastructure, or equity-only activity is present; the generic reference to 'Deals' in this financial media context defaults to its dominant, credit-related business lines."
           },
           "scoreBreakdown": {
-            "keywordScore": 5,
+            "keywordScore": 8,
             "semanticScore": 4.42,
-            "finalScore": 9.42,
+            "finalScore": 12.42,
             "semanticEnabled": true
           }
         },
@@ -15067,6 +15115,24 @@
           }
         }
       ]
+    },
+    "2026-09-19": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
