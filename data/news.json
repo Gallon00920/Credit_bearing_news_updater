@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-19T19:26:20.244302+00:00",
+  "updatedAt": "2026-09-19T22:14:00.589447+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15531,17 +15531,17 @@
           },
           {
             "id": "2026-09-19-461a55a48543",
-            "title": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media",
-            "titleZh": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media",
-            "summary": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-            "summaryZh": "为何市场正在重新评估Blue Owl Capital Corporation（OBDC）？Kalkine Media",
+            "title": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com",
+            "titleZh": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com",
+            "summary": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+            "summaryZh": "为何市场正在重新评估Blue Owl Capital Corporation（OBDC）？kalkinemedia.com",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXlJTTZqckhOTC1KbmpTOTVKc0lNN183eGpOTFI3MmNzWnpPcDJGOTVwX0c0RmxXcEs0b2FDYkh4UXlMUXh3V1FraVpmVk9RWWlLNGpyVXVlWjJPR19aaEI3UVNfa2VneFVGZW95MEU5Q2s5VzBtMjRkU3pRZEtxc3ZnMWI3RTZBZmY4N01zWk84MGRVWDFVVVpKRTVsaE9hREVfMGx6cUJJT1k?oc=5",
-            "source": "Kalkine Media",
+            "source": "kalkinemedia.com",
             "publishedAt": "2026-09-19",
-            "lede": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-            "articleExcerpt": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media. Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-            "contentFingerprint": "5ca12515c1a110b7",
+            "lede": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+            "articleExcerpt": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com. Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+            "contentFingerprint": "22249864e16cff9c",
             "region": "Global",
             "gps": [
               "Blue Owl"
@@ -15565,12 +15565,12 @@
                 "private credit / direct lending"
               ],
               "llmExclude": false,
-              "llmReason": "OBDC is Blue Owl's publicly traded business development company focused on private credit and direct lending; the article title and context indicate market reassessment of this credit-focused vehicle, not its non-credit businesses."
+              "llmReason": "OBDC is Blue Owl's publicly traded business development company focused on private credit and direct lending; the article title explicitly references it in a market reassessment context, implying coverage of its core credit strategy."
             },
             "scoreBreakdown": {
               "keywordScore": 14,
-              "semanticScore": 6.1,
-              "finalScore": 20.1,
+              "semanticScore": 6.16,
+              "finalScore": 20.16,
               "semanticEnabled": true
             }
           }
@@ -15677,7 +15677,49 @@
         "Apollo": [],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-19-6c7e62749e5b",
+            "title": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times",
+            "titleZh": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times",
+            "summary": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+            "summaryZh": "汇丰中长期基金-IDCW季度（₹10.63）— 净值、评论及资产配置，《经济时报》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUloT0g1S2oySnJSWktSYzBSc1V4eERRME8xOTIzdFB0XzZMSzNCOV9DZ09zVW01V0w1REJPRVJ6U2JVWnRVM0N5VE0zSnRTalExRy1IRG1WV0Z2Q3JXb3hLSEltVUt1WWlSdjdvSDlXWXhxSGcwOEl0c1BrcXF4NEVtMHYxRVZNNUdzY1B3Njg?oc=5",
+            "source": "The Economic Times",
+            "publishedAt": "2026-09-19",
+            "lede": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+            "articleExcerpt": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times. HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+            "contentFingerprint": "f78ff894296cfc00",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article references 'HSBC Medium to Long Term Fund', which is a debt-oriented mutual fund managed by HSBC Asset Management (HSBC AM). Such funds typically invest in corporate bonds, government securities, and other fixed-income instruments — aligning with credit-related exposure. While not explicitly labeled 'private credit', medium-to-long-term debt funds fall under the broader credit/income mandate tracked for HSBC AM, and are distinct from equity, infra, or PE activities."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.01,
+              "finalScore": 12.01,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -15729,17 +15771,17 @@
         },
         {
           "id": "2026-09-19-461a55a48543",
-          "title": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media",
-          "titleZh": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media",
-          "summary": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-          "summaryZh": "为何市场正在重新评估Blue Owl Capital Corporation（OBDC）？Kalkine Media",
+          "title": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com",
+          "titleZh": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com",
+          "summary": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+          "summaryZh": "为何市场正在重新评估Blue Owl Capital Corporation（OBDC）？kalkinemedia.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXlJTTZqckhOTC1KbmpTOTVKc0lNN183eGpOTFI3MmNzWnpPcDJGOTVwX0c0RmxXcEs0b2FDYkh4UXlMUXh3V1FraVpmVk9RWWlLNGpyVXVlWjJPR19aaEI3UVNfa2VneFVGZW95MEU5Q2s5VzBtMjRkU3pRZEtxc3ZnMWI3RTZBZmY4N01zWk84MGRVWDFVVVpKRTVsaE9hREVfMGx6cUJJT1k?oc=5",
-          "source": "Kalkine Media",
+          "source": "kalkinemedia.com",
           "publishedAt": "2026-09-19",
-          "lede": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-          "articleExcerpt": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - Kalkine Media. Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? Kalkine Media",
-          "contentFingerprint": "5ca12515c1a110b7",
+          "lede": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+          "articleExcerpt": "Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? - kalkinemedia.com. Why Is the Market Reassessing Blue Owl Capital Corporation (OBDC)? kalkinemedia.com",
+          "contentFingerprint": "22249864e16cff9c",
           "region": "Global",
           "gps": [
             "Blue Owl"
@@ -15763,12 +15805,12 @@
               "private credit / direct lending"
             ],
             "llmExclude": false,
-            "llmReason": "OBDC is Blue Owl's publicly traded business development company focused on private credit and direct lending; the article title and context indicate market reassessment of this credit-focused vehicle, not its non-credit businesses."
+            "llmReason": "OBDC is Blue Owl's publicly traded business development company focused on private credit and direct lending; the article title explicitly references it in a market reassessment context, implying coverage of its core credit strategy."
           },
           "scoreBreakdown": {
             "keywordScore": 14,
-            "semanticScore": 6.1,
-            "finalScore": 20.1,
+            "semanticScore": 6.16,
+            "finalScore": 20.16,
             "semanticEnabled": true
           }
         },
@@ -15859,6 +15901,47 @@
             "keywordScore": 14,
             "semanticScore": 5.82,
             "finalScore": 19.82,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-19-6c7e62749e5b",
+          "title": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times",
+          "titleZh": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times",
+          "summary": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+          "summaryZh": "汇丰中长期基金-IDCW季度（₹10.63）— 净值、评论及资产配置，《经济时报》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUloT0g1S2oySnJSWktSYzBSc1V4eERRME8xOTIzdFB0XzZMSzNCOV9DZ09zVW01V0w1REJPRVJ6U2JVWnRVM0N5VE0zSnRTalExRy1IRG1WV0Z2Q3JXb3hLSEltVUt1WWlSdjdvSDlXWXhxSGcwOEl0c1BrcXF4NEVtMHYxRVZNNUdzY1B3Njg?oc=5",
+          "source": "The Economic Times",
+          "publishedAt": "2026-09-19",
+          "lede": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+          "articleExcerpt": "HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation - The Economic Times. HSBC Medium to Long Term Fund-IDCW Quarterly (₹ 10.63) - NAV, Reviews & asset allocation The Economic Times",
+          "contentFingerprint": "f78ff894296cfc00",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article references 'HSBC Medium to Long Term Fund', which is a debt-oriented mutual fund managed by HSBC Asset Management (HSBC AM). Such funds typically invest in corporate bonds, government securities, and other fixed-income instruments — aligning with credit-related exposure. While not explicitly labeled 'private credit', medium-to-long-term debt funds fall under the broader credit/income mandate tracked for HSBC AM, and are distinct from equity, infra, or PE activities."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.01,
+            "finalScore": 12.01,
             "semanticEnabled": true
           }
         }
