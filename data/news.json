@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-20T08:19:10.903070+00:00",
+  "updatedAt": "2026-09-20T13:34:12.552406+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15690,6 +15690,47 @@
               "finalScore": 12.83,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-19-73fcf6ca8393",
+            "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+            "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "summaryZh": "NKE、OWL、SMR股票上周触及52周低点：抛售潮由何驱动？Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-19",
+            "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+            "contentFingerprint": "69af7ca3db0a6041",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a publicly traded entity whose primary business is credit-focused (direct lending, CLOs, structured credit, and specialty finance); the article references OWL's stock price decline, implying relevance to its core credit operations — no mention of non-credit activities like PE or infrastructure."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.46,
+              "finalScore": 10.46,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -15973,6 +16014,47 @@
             "keywordScore": 8,
             "semanticScore": 4.83,
             "finalScore": 12.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-19-73fcf6ca8393",
+          "title": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "titleZh": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits",
+          "summary": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "summaryZh": "NKE、OWL、SMR股票上周触及52周低点：抛售潮由何驱动？Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkNRWkx0MG1tWVVhckZES0VJNk56UE1hbjNLbzRhcWNEa3V0aGZvWF9rODNmcnZvX2FXdm9iYWlIblNKOGt4U2dSWGRBc2g5VGdvenFLWFlFZ0tzV2lMNDR3aDE1TkN1cUFxcWIxVjJnQ09HeVVkX2p1eVNTV2tHcEpsM0tVaTFTY3pZNkNCOGhwNEdGU1hwQy1DUW9pX1RUV3VIbVhuYlZ0V2JKbVE?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-19",
+          "lede": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "articleExcerpt": "NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? - Stocktwits. NKE, OWL, SMR Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? Stocktwits",
+          "contentFingerprint": "69af7ca3db0a6041",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker symbol for Blue Owl Capital Inc., a publicly traded entity whose primary business is credit-focused (direct lending, CLOs, structured credit, and specialty finance); the article references OWL's stock price decline, implying relevance to its core credit operations — no mention of non-credit activities like PE or infrastructure."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.46,
+            "finalScore": 10.46,
             "semanticEnabled": true
           }
         },
