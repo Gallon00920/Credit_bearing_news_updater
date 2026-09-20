@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-20T13:34:12.552406+00:00",
+  "updatedAt": "2026-09-20T17:22:40.168932+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15055,7 +15055,7 @@
             "title": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal - Place North West",
             "titleZh": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal - Place North West",
             "summary": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal Place North West",
-            "summaryZh": "HSBC以1.65亿英镑的投资组合交易出售一对利物浦学生公寓资产，《北方西部地产》报道",
+            "summaryZh": "HSBC以1.65亿英镑的投资组合交易出售一对利物浦学生公寓资产，《北方西部地产报》",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWi1QR3BNRnl0NFFkYzVnWHliNExab3kwN2JUR1p1eTIwSzlFQk45TnBKek5sdjRXNGRiampWTGhudjlKcVQtdHFBQ1dGcTh0ampJZVJhUE93bXdwWFNoZHE4VnhJV2liTmctN0JjYmVNd1VlOExjcnpRTXpyeWpfRWI1a2FoNG1jTW9zLUhUbmV3TG1HMHh2VjI1QjRzNzNidjRWOQ?oc=5",
             "source": "Place North West",
@@ -15067,7 +15067,9 @@
             "gps": [
               "HSBC AM"
             ],
-            "sectors": [],
+            "sectors": [
+              "real estate"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
@@ -15076,14 +15078,16 @@
                 "HSBC AM"
               ],
               "keywordSectors": [],
-              "llmSectors": [],
+              "llmSectors": [
+                "real estate"
+              ],
               "llmExclude": false,
-              "llmReason": "HSBC AM is a tracked GP; the article describes a portfolio sale of student housing assets by HSBC — consistent with its real estate credit/financing activity (e.g., mortgage lending or debt investment in student housing), not equity ownership or development. Student accommodation financing is a recognized real estate credit sub-sector."
+              "llmReason": "HSBC AM sold a portfolio of student housing assets; student housing financing/credit activity falls under 'real estate (credit/financing angle only)' — consistent with tracked scope, as HSBC AM’s real estate credit platform engages in lending, debt financing, and mortgage-backed strategies for residential/commercial real estate, including student housing. No indication this was an equity sale by HSBC’s private equity or infrastructure arm."
             },
             "scoreBreakdown": {
-              "keywordScore": 3,
+              "keywordScore": 6,
               "semanticScore": 5.69,
-              "finalScore": 8.690000000000001,
+              "finalScore": 11.690000000000001,
               "semanticEnabled": true
             }
           }
@@ -15519,7 +15523,7 @@
           "title": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal - Place North West",
           "titleZh": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal - Place North West",
           "summary": "Pair of Liverpool student assets sold by HSBC in £165m portfolio deal Place North West",
-          "summaryZh": "HSBC以1.65亿英镑的投资组合交易出售一对利物浦学生公寓资产，《北方西部地产》报道",
+          "summaryZh": "HSBC以1.65亿英镑的投资组合交易出售一对利物浦学生公寓资产，《北方西部地产报》",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWi1QR3BNRnl0NFFkYzVnWHliNExab3kwN2JUR1p1eTIwSzlFQk45TnBKek5sdjRXNGRiampWTGhudjlKcVQtdHFBQ1dGcTh0ampJZVJhUE93bXdwWFNoZHE4VnhJV2liTmctN0JjYmVNd1VlOExjcnpRTXpyeWpfRWI1a2FoNG1jTW9zLUhUbmV3TG1HMHh2VjI1QjRzNzNidjRWOQ?oc=5",
           "source": "Place North West",
@@ -15531,7 +15535,9 @@
           "gps": [
             "HSBC AM"
           ],
-          "sectors": [],
+          "sectors": [
+            "real estate"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
@@ -15540,14 +15546,16 @@
               "HSBC AM"
             ],
             "keywordSectors": [],
-            "llmSectors": [],
+            "llmSectors": [
+              "real estate"
+            ],
             "llmExclude": false,
-            "llmReason": "HSBC AM is a tracked GP; the article describes a portfolio sale of student housing assets by HSBC — consistent with its real estate credit/financing activity (e.g., mortgage lending or debt investment in student housing), not equity ownership or development. Student accommodation financing is a recognized real estate credit sub-sector."
+            "llmReason": "HSBC AM sold a portfolio of student housing assets; student housing financing/credit activity falls under 'real estate (credit/financing angle only)' — consistent with tracked scope, as HSBC AM’s real estate credit platform engages in lending, debt financing, and mortgage-backed strategies for residential/commercial real estate, including student housing. No indication this was an equity sale by HSBC’s private equity or infrastructure arm."
           },
           "scoreBreakdown": {
-            "keywordScore": 3,
+            "keywordScore": 6,
             "semanticScore": 5.69,
-            "finalScore": 8.690000000000001,
+            "finalScore": 11.690000000000001,
             "semanticEnabled": true
           }
         }
