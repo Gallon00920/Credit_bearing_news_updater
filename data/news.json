@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-20T20:13:31.762700+00:00",
+  "updatedAt": "2026-09-20T22:30:14.933937+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15837,6 +15837,49 @@
               "finalScore": 22.82,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-19-5e5fc25557d0",
+            "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
+            "titleZh": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
+            "summary": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+            "summaryZh": "KKR（KKR）2026年第二季度财报电话会议纪要《财富》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+            "source": "Fortune",
+            "publishedAt": "2026-09-19",
+            "lede": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+            "articleExcerpt": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+            "contentFingerprint": "21fabb013b2b6782",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Earnings call transcripts for multi-strategy firms like KKR are tagged for credit exposure when the firm reports consolidated results that include material contributions from its credit business (e.g., KKR Credit, KKR Capital Markets, direct lending, CLOs). Absent explicit disclaimers or focus solely on non-credit segments (e.g., 'this call is exclusively about our global macro hedge fund'), earnings calls are assumed to reflect all major segments — and KKR’s credit platform is a core, publicly disclosed pillar of its business. No indication in title or text that this call excludes or ignores credit."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.11,
+              "finalScore": 11.11,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -16159,6 +16202,49 @@
             "keywordScore": 17,
             "semanticScore": 5.82,
             "finalScore": 22.82,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-19-5e5fc25557d0",
+          "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
+          "titleZh": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
+          "summary": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+          "summaryZh": "KKR（KKR）2026年第二季度财报电话会议纪要《财富》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+          "source": "Fortune",
+          "publishedAt": "2026-09-19",
+          "lede": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+          "articleExcerpt": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+          "contentFingerprint": "21fabb013b2b6782",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Earnings call transcripts for multi-strategy firms like KKR are tagged for credit exposure when the firm reports consolidated results that include material contributions from its credit business (e.g., KKR Credit, KKR Capital Markets, direct lending, CLOs). Absent explicit disclaimers or focus solely on non-credit segments (e.g., 'this call is exclusively about our global macro hedge fund'), earnings calls are assumed to reflect all major segments — and KKR’s credit platform is a core, publicly disclosed pillar of its business. No indication in title or text that this call excludes or ignores credit."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.11,
+            "finalScore": 11.11,
             "semanticEnabled": true
           }
         },
