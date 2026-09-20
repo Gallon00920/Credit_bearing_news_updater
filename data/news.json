@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-19T22:14:00.589447+00:00",
+  "updatedAt": "2026-09-20T00:07:26.645995+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15641,6 +15641,7 @@
               "KKR"
             ],
             "sectors": [
+              "software",
               "private credit / direct lending"
             ],
             "curation": "rss_filter",
@@ -15656,15 +15657,16 @@
                 "private credit / direct lending"
               ],
               "llmSectors": [
+                "software",
                 "private credit / direct lending"
               ],
               "llmExclude": false,
-              "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-related activities; no mention of non-credit strategies like buyouts or infrastructure."
+              "llmReason": "Article explicitly highlights KKR's 'AI Financing' (credit/financing activity tied to software/AI sector) and 'Private Credit' — both fall squarely within tracked credit-relevant activities and sub-sectors."
             },
             "scoreBreakdown": {
-              "keywordScore": 14,
+              "keywordScore": 17,
               "semanticScore": 5.82,
-              "finalScore": 19.82,
+              "finalScore": 22.82,
               "semanticEnabled": true
             }
           }
@@ -15877,6 +15879,7 @@
             "KKR"
           ],
           "sectors": [
+            "software",
             "private credit / direct lending"
           ],
           "curation": "rss_filter",
@@ -15892,15 +15895,16 @@
               "private credit / direct lending"
             ],
             "llmSectors": [
+              "software",
               "private credit / direct lending"
             ],
             "llmExclude": false,
-            "llmReason": "Article explicitly highlights KKR's 'AI Financing' and 'Private Credit' as drivers of its next growth wave — both fall squarely within tracked credit-related activities; no mention of non-credit strategies like buyouts or infrastructure."
+            "llmReason": "Article explicitly highlights KKR's 'AI Financing' (credit/financing activity tied to software/AI sector) and 'Private Credit' — both fall squarely within tracked credit-relevant activities and sub-sectors."
           },
           "scoreBreakdown": {
-            "keywordScore": 14,
+            "keywordScore": 17,
             "semanticScore": 5.82,
-            "finalScore": 19.82,
+            "finalScore": 22.82,
             "semanticEnabled": true
           }
         },
