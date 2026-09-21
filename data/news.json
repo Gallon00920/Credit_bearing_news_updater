@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-20T22:30:14.933937+00:00",
+  "updatedAt": "2026-09-21T00:47:47.531835+00:00",
   "scope": {
     "regions": [
       "US",
@@ -15839,17 +15839,17 @@
             }
           },
           {
-            "id": "2026-09-19-5e5fc25557d0",
-            "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
-            "titleZh": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
-            "summary": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
-            "summaryZh": "KKR（KKR）2026年第二季度财报电话会议纪要《财富》",
+            "id": "2026-09-19-e64f3dfcba5a",
+            "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+            "titleZh": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+            "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "summaryZh": "KKR（KKR）2026年第一季度财报电话会议记录《财富》杂志",
             "summaryZhLanguage": "Simplified Chinese",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
             "source": "Fortune",
             "publishedAt": "2026-09-19",
-            "lede": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
-            "articleExcerpt": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+            "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
             "contentFingerprint": "21fabb013b2b6782",
             "region": "Global",
             "gps": [
@@ -15872,14 +15872,21 @@
                 "private credit / direct lending"
               ],
               "llmExclude": false,
-              "llmReason": "Earnings call transcripts for multi-strategy firms like KKR are tagged for credit exposure when the firm reports consolidated results that include material contributions from its credit business (e.g., KKR Credit, KKR Capital Markets, direct lending, CLOs). Absent explicit disclaimers or focus solely on non-credit segments (e.g., 'this call is exclusively about our global macro hedge fund'), earnings calls are assumed to reflect all major segments — and KKR’s credit platform is a core, publicly disclosed pillar of its business. No indication in title or text that this call excludes or ignores credit."
+              "llmReason": "Earnings call transcripts for KKR are included only if they discuss credit-related performance; Q1 earnings calls routinely break out credit segments (e.g., Corporate Credit, Direct Lending, CLOs) alongside other businesses. Absent explicit indication that the transcript focuses solely on non-credit activities (e.g., buyouts or infrastructure), the default assumption is coverage includes material credit activity — and KKR’s credit platform is a core, tracked part of its business."
             },
             "scoreBreakdown": {
               "keywordScore": 6,
-              "semanticScore": 5.11,
-              "finalScore": 11.11,
+              "semanticScore": 5.14,
+              "finalScore": 11.14,
               "semanticEnabled": true
-            }
+            },
+            "alternateSources": [
+              {
+                "source": "Fortune",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+                "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune"
+              }
+            ]
           }
         ],
         "PAG": [],
@@ -16206,17 +16213,17 @@
           }
         },
         {
-          "id": "2026-09-19-5e5fc25557d0",
-          "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
-          "titleZh": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune",
-          "summary": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
-          "summaryZh": "KKR（KKR）2026年第二季度财报电话会议纪要《财富》",
+          "id": "2026-09-19-e64f3dfcba5a",
+          "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+          "titleZh": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+          "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "summaryZh": "KKR（KKR）2026年第一季度财报电话会议记录《财富》杂志",
           "summaryZhLanguage": "Simplified Chinese",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
           "source": "Fortune",
           "publishedAt": "2026-09-19",
-          "lede": "KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
-          "articleExcerpt": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q2 2026 Earnings Call Transcript Fortune",
+          "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
           "contentFingerprint": "21fabb013b2b6782",
           "region": "Global",
           "gps": [
@@ -16239,14 +16246,21 @@
               "private credit / direct lending"
             ],
             "llmExclude": false,
-            "llmReason": "Earnings call transcripts for multi-strategy firms like KKR are tagged for credit exposure when the firm reports consolidated results that include material contributions from its credit business (e.g., KKR Credit, KKR Capital Markets, direct lending, CLOs). Absent explicit disclaimers or focus solely on non-credit segments (e.g., 'this call is exclusively about our global macro hedge fund'), earnings calls are assumed to reflect all major segments — and KKR’s credit platform is a core, publicly disclosed pillar of its business. No indication in title or text that this call excludes or ignores credit."
+            "llmReason": "Earnings call transcripts for KKR are included only if they discuss credit-related performance; Q1 earnings calls routinely break out credit segments (e.g., Corporate Credit, Direct Lending, CLOs) alongside other businesses. Absent explicit indication that the transcript focuses solely on non-credit activities (e.g., buyouts or infrastructure), the default assumption is coverage includes material credit activity — and KKR’s credit platform is a core, tracked part of its business."
           },
           "scoreBreakdown": {
             "keywordScore": 6,
-            "semanticScore": 5.11,
-            "finalScore": 11.11,
+            "semanticScore": 5.14,
+            "finalScore": 11.14,
             "semanticEnabled": true
-          }
+          },
+          "alternateSources": [
+            {
+              "source": "Fortune",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SWpieDJHUGM3cUR4VGJaeFpaMlhwYnhTdGFRTV9kblJkaDB3X3lscjVYR1NKd1RPVWNaZFEyQS13RFB3c3NWZnJOYTFHajlMenp4cTVrY2pLZl85dmc?oc=5",
+              "title": "KKR (KKR) Q2 2026 Earnings Call Transcript - Fortune"
+            }
+          ]
         },
         {
           "id": "2026-09-19-6c7e62749e5b",
@@ -16292,6 +16306,116 @@
       ]
     },
     "2026-09-20": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [
+          {
+            "id": "2026-09-20-ff7089c34e85",
+            "title": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st",
+            "titleZh": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st",
+            "summary": "How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+            "summaryZh": "欧洲房地产扩张将如何影响KKR股票投资者 simplywall.st",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWwydjdXSk44dnJJdnhKZ3BhMHlXNTRNSGd4MlFjMkt2UWxTRlA1OEdVVm00VDFWUFBNTkt2WTYwbC1BdVd2Y3NkUXBkZGJaRnlNN3FKV0N4dHBwRG90WlNfeFZScm5iaWM2d01wSVFYeTlLWWJxbXNsMlRWTkVmN2xLNXJ2QVoyUDVaaGxuTXgxQ083UjZrd19aeWVSVE5iOHlRZVdzVnluUHUyODU4UkVkb19IaXczUEp6dVloZzEzdGNvOWJwLXBSQkxHUdIB0wFBVV95cUxPMXFwS2VuWEdoeUJVZ3Vjb09MMHJGQW1KSEg4cXpHUnlJWmtmc0UzTDRzZDVkcUhGZV9NRlMzd0NhQThESWtsYnl2QVF2QUpTU3hhemM1UTdRZGF3XzhJQVh1QndJRWY3ZEFod1liekxiUHFuOUlGblJfRWV5bU44RXZwRlU5cDYtVHd3OExXOU5VRldQSzdmcWcwQnR6VE5nYVdkZ0x1dlptcDl6VkY2NU5sclJMenNLTG5tT1JqLTdFUVJvaUlXZ3A2Qklsa1dlOUFz?oc=5",
+            "source": "simplywall.st",
+            "publishedAt": "2026-09-20",
+            "lede": "How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+            "articleExcerpt": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st. How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+            "contentFingerprint": "0a570091c77d6a77",
+            "region": "Europe",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "real estate"
+              ],
+              "llmSectors": [
+                "real estate"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article title references 'European Real Estate Expansion' and KKR; since real estate is a tracked sub-sector *only when it involves credit/financing activity*, and the title alone does not specify equity development, buyouts, or operating assets — but rather expansion in a geographically defined real estate context — it is ambiguous. However, per instructions, we tag only if the article is *about* credit/financing activity. The title contains no explicit credit signal (e.g., lending, financing, debt, CLO, mortgage), and 'real estate expansion' strongly implies equity-led growth (e.g., acquisitions, development, platform build-out). Therefore, this should be excluded for lack of credit/financing angle."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 4.59,
+              "finalScore": 11.59,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": [
+        {
+          "id": "2026-09-20-ff7089c34e85",
+          "title": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st",
+          "titleZh": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st",
+          "summary": "How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+          "summaryZh": "欧洲房地产扩张将如何影响KKR股票投资者 simplywall.st",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWwydjdXSk44dnJJdnhKZ3BhMHlXNTRNSGd4MlFjMkt2UWxTRlA1OEdVVm00VDFWUFBNTkt2WTYwbC1BdVd2Y3NkUXBkZGJaRnlNN3FKV0N4dHBwRG90WlNfeFZScm5iaWM2d01wSVFYeTlLWWJxbXNsMlRWTkVmN2xLNXJ2QVoyUDVaaGxuTXgxQ083UjZrd19aeWVSVE5iOHlRZVdzVnluUHUyODU4UkVkb19IaXczUEp6dVloZzEzdGNvOWJwLXBSQkxHUdIB0wFBVV95cUxPMXFwS2VuWEdoeUJVZ3Vjb09MMHJGQW1KSEg4cXpHUnlJWmtmc0UzTDRzZDVkcUhGZV9NRlMzd0NhQThESWtsYnl2QVF2QUpTU3hhemM1UTdRZGF3XzhJQVh1QndJRWY3ZEFod1liekxiUHFuOUlGblJfRWV5bU44RXZwRlU5cDYtVHd3OExXOU5VRldQSzdmcWcwQnR6VE5nYVdkZ0x1dlptcDl6VkY2NU5sclJMenNLTG5tT1JqLTdFUVJvaUlXZ3A2Qklsa1dlOUFz?oc=5",
+          "source": "simplywall.st",
+          "publishedAt": "2026-09-20",
+          "lede": "How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+          "articleExcerpt": "How European Real Estate Expansion Will Impact KKR Stock Investors - simplywall.st. How European Real Estate Expansion Will Impact KKR Stock Investors simplywall.st",
+          "contentFingerprint": "0a570091c77d6a77",
+          "region": "Europe",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "real estate"
+            ],
+            "llmSectors": [
+              "real estate"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article title references 'European Real Estate Expansion' and KKR; since real estate is a tracked sub-sector *only when it involves credit/financing activity*, and the title alone does not specify equity development, buyouts, or operating assets — but rather expansion in a geographically defined real estate context — it is ambiguous. However, per instructions, we tag only if the article is *about* credit/financing activity. The title contains no explicit credit signal (e.g., lending, financing, debt, CLO, mortgage), and 'real estate expansion' strongly implies equity-led growth (e.g., acquisitions, development, platform build-out). Therefore, this should be excluded for lack of credit/financing angle."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 7,
+            "semanticScore": 4.59,
+            "finalScore": 11.59,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-09-21": {
       "byGp": {
         "Blue Owl": [],
         "OTF": [],
