@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-22T00:53:40.341683+00:00",
+  "updatedAt": "2026-09-22T06:07:04.586852+00:00",
   "scope": {
     "regions": [
       "US",
@@ -17216,8 +17216,151 @@
     },
     "2026-09-22": {
       "byGp": {
-        "Blue Owl": [],
-        "OTF": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-22-760374501e29",
+            "title": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha",
+            "titleZh": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha",
+            "summary": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+            "summaryZh": "Blue Owl Capital：我五月观察到的分歧如今更加显著（纽约证券交易所代码：OWL）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGZxSHNKR1REc3lZWTRqdmN1NWRPY1k4aXpSUmtlLXBSTE0xeU91R2diUDFER0l4VUF5UVViOVJidkhHMDdoR1lqdTlvRkxjdmd6X2RuN1lYWUNqanJDVGE5eEtrNEF3Vm9iczM2NnNuRDdtSnhpNHpDU0tKUl80WWQydXM0Q1FmTXlEa3Y4TXYwbG5xTjAzWW9iNVNwOWM?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha. Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+            "contentFingerprint": "c8cb6e3b69ad6c88",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article title references Blue Owl Capital (NYSE:OWL) and discusses valuation disconnect — typical coverage of its public equity trading, but as Blue Owl is primarily a credit-focused manager (with flagship businesses in direct lending, CLOs, and structured credit), and no non-credit activity (e.g., PE buyouts or infrastructure equity) is indicated in the snippet, it is reasonably assumed to pertain to its core credit business. The ticker OWL represents the consolidated entity whose earnings and strategy are dominated by credit."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 5.01,
+              "finalScore": 13.01,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-155e6314913a",
+            "title": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+            "titleZh": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+            "summary": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "summaryZh": "Blue Owl科技金融：管理层表示覆盖将于2027年年中启动（纽约证券交易所代码：OTF）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUN2eW8tNzJEcUtaVnhYUmpFYkNacGl1RHB0c1QyTjRaNWYzMWJSYlUyZXYtMzBkckFBa2xGcG9VclpFNWpiT3BKMkgzUExNMVBSZ1FBcVRQUmRoS3p1eHdJdFJFbTBCamRPTUVKTWJkRGpjWHhwREZWdDNxeHg1bHFnVWFWakhjeS1EZGIzVTlDSFZRNU5PMVpHQk5pYnhtT21BR0xrbEZYak9PejV5eGY4UQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "contentFingerprint": "95bf86a85492b4f4",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is Blue Owl's credit-focused vehicle targeting software companies via direct lending; 'Technology Finance' signals private credit activity in the software sector, consistent with tracked credit mandate."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 23,
+              "semanticScore": 6.04,
+              "finalScore": 29.04,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "OTF": [
+          {
+            "id": "2026-09-22-155e6314913a",
+            "title": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+            "titleZh": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+            "summary": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "summaryZh": "Blue Owl科技金融：管理层表示覆盖将于2027年年中启动（纽约证券交易所代码：OTF）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUN2eW8tNzJEcUtaVnhYUmpFYkNacGl1RHB0c1QyTjRaNWYzMWJSYlUyZXYtMzBkckFBa2xGcG9VclpFNWpiT3BKMkgzUExNMVBSZ1FBcVRQUmRoS3p1eHdJdFJFbTBCamRPTUVKTWJkRGpjWHhwREZWdDNxeHg1bHFnVWFWakhjeS1EZGIzVTlDSFZRNU5PMVpHQk5pYnhtT21BR0xrbEZYak9PejV5eGY4UQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+            "contentFingerprint": "95bf86a85492b4f4",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "OTF"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is Blue Owl's credit-focused vehicle targeting software companies via direct lending; 'Technology Finance' signals private credit activity in the software sector, consistent with tracked credit mandate."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 23,
+              "semanticScore": 6.04,
+              "finalScore": 29.04,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Pretium": [],
         "KKR": [],
         "PAG": [],
@@ -17230,7 +17373,100 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-22-760374501e29",
+          "title": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha",
+          "titleZh": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha",
+          "summary": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+          "summaryZh": "Blue Owl Capital：我五月观察到的分歧如今更加显著（纽约证券交易所代码：OWL）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGZxSHNKR1REc3lZWTRqdmN1NWRPY1k4aXpSUmtlLXBSTE0xeU91R2diUDFER0l4VUF5UVViOVJidkhHMDdoR1lqdTlvRkxjdmd6X2RuN1lYWUNqanJDVGE5eEtrNEF3Vm9iczM2NnNuRDdtSnhpNHpDU0tKUl80WWQydXM0Q1FmTXlEa3Y4TXYwbG5xTjAzWW9iNVNwOWM?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+          "articleExcerpt": "Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) - Seeking Alpha. Blue Owl Capital: The Disconnect I Saw In May Is Now Wider (NYSE:OWL) Seeking Alpha",
+          "contentFingerprint": "c8cb6e3b69ad6c88",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article title references Blue Owl Capital (NYSE:OWL) and discusses valuation disconnect — typical coverage of its public equity trading, but as Blue Owl is primarily a credit-focused manager (with flagship businesses in direct lending, CLOs, and structured credit), and no non-credit activity (e.g., PE buyouts or infrastructure equity) is indicated in the snippet, it is reasonably assumed to pertain to its core credit business. The ticker OWL represents the consolidated entity whose earnings and strategy are dominated by credit."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 5.01,
+            "finalScore": 13.01,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-155e6314913a",
+          "title": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+          "titleZh": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha",
+          "summary": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+          "summaryZh": "Blue Owl科技金融：管理层表示覆盖将于2027年年中启动（纽约证券交易所代码：OTF）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUN2eW8tNzJEcUtaVnhYUmpFYkNacGl1RHB0c1QyTjRaNWYzMWJSYlUyZXYtMzBkckFBa2xGcG9VclpFNWpiT3BKMkgzUExNMVBSZ1FBcVRQUmRoS3p1eHdJdFJFbTBCamRPTUVKTWJkRGpjWHhwREZWdDNxeHg1bHFnVWFWakhjeS1EZGIzVTlDSFZRNU5PMVpHQk5pYnhtT21BR0xrbEZYak9PejV5eGY4UQ?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+          "articleExcerpt": "Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: Management Says Coverage Arrives By Mid-2027 (NYSE:OTF) Seeking Alpha",
+          "contentFingerprint": "95bf86a85492b4f4",
+          "region": "US",
+          "gps": [
+            "Blue Owl",
+            "OTF"
+          ],
+          "sectors": [
+            "software",
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "OTF"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance is Blue Owl's credit-focused vehicle targeting software companies via direct lending; 'Technology Finance' signals private credit activity in the software sector, consistent with tracked credit mandate."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 23,
+            "semanticScore": 6.04,
+            "finalScore": 29.04,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
