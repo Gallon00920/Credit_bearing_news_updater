@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-22T20:02:55.961307+00:00",
+  "updatedAt": "2026-09-22T23:11:55.234681+00:00",
   "scope": {
     "regions": [
       "US",
@@ -16940,7 +16940,49 @@
         ],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-21-ccdc8b12ca33",
+            "title": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com",
+            "titleZh": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com",
+            "summary": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+            "summaryZh": "与汇丰银行共同基金首席执行官凯拉什·库尔卡尼的访谈，valueresearchonline.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2dDajBGMXcwUDh4SnYwSWVrTF91a2Jpa2JDN0Y0ZGZUQnhSWG1wQkJsemE3S0lhTmxVNXhCQ1RuVVNGdTQ5eEtIdGpRLWNCaVhlY0kzM2dfY244YUNnTE1TR2t4UHFzM3ZWUzFqR0JvbVZQWmlRXzJERDF0eXRQbU9nY0JfaHowcjhZ?oc=5",
+            "source": "valueresearchonline.com",
+            "publishedAt": "2026-09-21",
+            "lede": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+            "articleExcerpt": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com. Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+            "contentFingerprint": "c6f01929cad67891",
+            "region": "Global",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "HSBC AM is a tracked GP; the article title references HSBC Mutual Fund, which falls under HSBC Asset Management (HSBC AM), and mutual funds can include credit-focused strategies — though sparse, the reference is to HSBC AM's asset management business, which includes credit products. No indication of non-credit activity (e.g., equity PE or infra) is present, so it is not excluded."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.59,
+              "finalScore": 10.59,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -17262,6 +17304,47 @@
             "finalScore": 25.92,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-09-21-ccdc8b12ca33",
+          "title": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com",
+          "titleZh": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com",
+          "summary": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+          "summaryZh": "与汇丰银行共同基金首席执行官凯拉什·库尔卡尼的访谈，valueresearchonline.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2dDajBGMXcwUDh4SnYwSWVrTF91a2Jpa2JDN0Y0ZGZUQnhSWG1wQkJsemE3S0lhTmxVNXhCQ1RuVVNGdTQ5eEtIdGpRLWNCaVhlY0kzM2dfY244YUNnTE1TR2t4UHFzM3ZWUzFqR0JvbVZQWmlRXzJERDF0eXRQbU9nY0JfaHowcjhZ?oc=5",
+          "source": "valueresearchonline.com",
+          "publishedAt": "2026-09-21",
+          "lede": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+          "articleExcerpt": "Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund - valueresearchonline.com. Interview with Kailash Kulkarni, CEO at HSBC Mutual Fund valueresearchonline.com",
+          "contentFingerprint": "c6f01929cad67891",
+          "region": "Global",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "HSBC AM is a tracked GP; the article title references HSBC Mutual Fund, which falls under HSBC Asset Management (HSBC AM), and mutual funds can include credit-focused strategies — though sparse, the reference is to HSBC AM's asset management business, which includes credit products. No indication of non-credit activity (e.g., equity PE or infra) is present, so it is not excluded."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.59,
+            "finalScore": 10.59,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -17400,6 +17483,135 @@
               "keywordScore": 8,
               "semanticScore": 5.79,
               "finalScore": 13.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-4075a73fc1b3",
+            "title": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha",
+            "titleZh": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha",
+            "summary": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+            "summaryZh": "Blue Owl信贷收入基金完成强化其资本结构的行动（OWL：纽约证券交易所）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZm5TcHZvTzJNdU1WN1JYM3dtQ3Bmajk5SUtMaHQyTlVBYXczWGdpeFNZNTJuTGVlWlZ3bGI1QVFiNlk1WlRlX1ZZRnR2eklTUmszY1JOU2pkSy15YjBVSk9mSDVrT3gtVFhrYzNncFBBRVpUbEtZWGJFZ0dtS2xlZDZZWFE1T1k1ZnRsSHdpZUxtSEtLME5MUUdXZ2RINU5HWDI2cVNpTzdKQ05JYUpZX0FyQWk?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha. Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+            "contentFingerprint": "41280cdf452627e6",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Blue Owl Credit Income is a publicly traded vehicle focused on Blue Owl's credit strategies, specifically its direct lending and private credit platform; the article concerns capital structure actions supporting that credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.72,
+              "finalScore": 22.72,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-0a688c0babc1",
+            "title": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com",
+            "titleZh": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com",
+            "summary": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+            "summaryZh": "Blue Owl信贷收入公司通过近期融资交易优化资本结构 marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0FmaVBxMWdXNURvVXBuQnlVQ0RxUF9YZ08zU3daV3BnLTZQYVlTU19temxHTlppRGJQQThVdlR2cGMtWEVsZnA0cjF2LVlqSmliWk5kdE1TdU1uVlZGSWQyb0UzM2ExSW1uQVl3bjY1ZEdMWVQ2WVNFeWNqMnU2dnNZRGo2Vm9OU1Rwd1NhX0NqU0JqemtkZUIwaDJlV0FPa3pfc2lEUURCLXhIS2FWLUpDS0UtS0FkTzVZUjhLakY5ak9Xd2trQWtZelRPQ0JrdHF4Z1ZlNTJwNVh0Q1E?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+            "articleExcerpt": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com. Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+            "contentFingerprint": "f26a8fc76026f6a3",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article concerns Blue Owl Credit Income Corp., a publicly traded vehicle focused on credit income generation, and references 'financing transactions' that enhance its capital structure — directly aligning with Blue Owl’s credit-focused, income-oriented lending strategy."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 7.73,
+              "finalScore": 21.73,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-0ceb61130365",
+            "title": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom",
+            "titleZh": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom",
+            "summary": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+            "summaryZh": "Blue Owl旗下的OCIC发行10亿美元票据，将信贷额度提高至42亿美元Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2pJSC1JN3MxQUhIR1ZYa3VEd2NBdnhFSjVDQkVkZVFvalRZZ3dudkJSU2o1bHRXbEZaWndRWHFvUDFZbzJwV1pwUmZFaWtJMlFoY1FVMWRMZVFiWV9PYUZMM0x6UDJySThrUFBCZWtJaHA4V1Azb2JCUU5lLTZUZldCZURHQm5VMkhDcXNUcC02Y0JpQVlNdU5DdHo?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+            "articleExcerpt": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom. Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+            "contentFingerprint": "b04026b3a52f0509",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OCIC (Owl Creek Credit Income Corp) is Blue Owl's publicly traded business development company focused on private credit and direct lending; raising notes and upsizing a credit line are core credit/financing activities."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.37,
+              "finalScore": 20.37,
               "semanticEnabled": true
             }
           }
@@ -17816,6 +18028,51 @@
               "finalScore": 23.55,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-22-50c8b31b0c5b",
+            "title": "KKR creates equipment finance platform for small and midmarket businesses - TradingView",
+            "titleZh": "KKR creates equipment finance platform for small and midmarket businesses - TradingView",
+            "summary": "KKR creates equipment finance platform for small and midmarket businesses TradingView",
+            "summaryZh": "KKR为中小型企业创建设备融资平台 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3R0UFZwSnA3X2FGcXJLc2pSNHc0dkxMMWNCYTVLY0lxdmFZbm96Qkhhb3dCV2YtcXIxZU1Pd3ZRTnJqQl84ZVppSVJkU0I2V3VfV3VBWExtakFVTzhTSE9YTzRQNTZhZ1V5Z1FDNlV1MnVLS2lySGd1NFVjRHVzemFlaWp5Z251UWY0ZkN6RHJUd0d2RmZvTzhEVXNzSUVLR1dqWXpwcGIwQnZoVkxiaEhFNWttOGh3RkxleXA5STNCNlpRT0h2WklHSmlUTjZfRGc?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-09-22",
+            "lede": "KKR creates equipment finance platform for small and midmarket businesses TradingView",
+            "articleExcerpt": "KKR creates equipment finance platform for small and midmarket businesses - TradingView. KKR creates equipment finance platform for small and midmarket businesses TradingView",
+            "contentFingerprint": "6c75e39f2ff505a0",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending",
+                "asset-backed lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Equipment finance for small and midmarket businesses is a credit/lending activity — specifically direct lending secured by equipment assets, falling under both private credit/direct lending and asset-backed lending."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.25,
+              "finalScore": 22.25,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [
@@ -18012,6 +18269,135 @@
             "keywordScore": 8,
             "semanticScore": 5.79,
             "finalScore": 13.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-4075a73fc1b3",
+          "title": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha",
+          "titleZh": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha",
+          "summary": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+          "summaryZh": "Blue Owl信贷收入基金完成强化其资本结构的行动（OWL：纽约证券交易所）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZm5TcHZvTzJNdU1WN1JYM3dtQ3Bmajk5SUtMaHQyTlVBYXczWGdpeFNZNTJuTGVlWlZ3bGI1QVFiNlk1WlRlX1ZZRnR2eklTUmszY1JOU2pkSy15YjBVSk9mSDVrT3gtVFhrYzNncFBBRVpUbEtZWGJFZ0dtS2xlZDZZWFE1T1k1ZnRsSHdpZUxtSEtLME5MUUdXZ2RINU5HWDI2cVNpTzdKQ05JYUpZX0FyQWk?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+          "articleExcerpt": "Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) - Seeking Alpha. Blue Owl Credit Income completes actions to strengthen its capital structure (OWL:NYSE) Seeking Alpha",
+          "contentFingerprint": "41280cdf452627e6",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Blue Owl Credit Income is a publicly traded vehicle focused on Blue Owl's credit strategies, specifically its direct lending and private credit platform; the article concerns capital structure actions supporting that credit business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.72,
+            "finalScore": 22.72,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-0a688c0babc1",
+          "title": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com",
+          "titleZh": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com",
+          "summary": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+          "summaryZh": "Blue Owl信贷收入公司通过近期融资交易优化资本结构 marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0FmaVBxMWdXNURvVXBuQnlVQ0RxUF9YZ08zU3daV3BnLTZQYVlTU19temxHTlppRGJQQThVdlR2cGMtWEVsZnA0cjF2LVlqSmliWk5kdE1TdU1uVlZGSWQyb0UzM2ExSW1uQVl3bjY1ZEdMWVQ2WVNFeWNqMnU2dnNZRGo2Vm9OU1Rwd1NhX0NqU0JqemtkZUIwaDJlV0FPa3pfc2lEUURCLXhIS2FWLUpDS0UtS0FkTzVZUjhLakY5ak9Xd2trQWtZelRPQ0JrdHF4Z1ZlNTJwNVh0Q1E?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+          "articleExcerpt": "Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions - marketscreener.com. Blue Owl Credit Income Corp. Enhances Capital Structure Through Recent Financing Transactions marketscreener.com",
+          "contentFingerprint": "f26a8fc76026f6a3",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article concerns Blue Owl Credit Income Corp., a publicly traded vehicle focused on credit income generation, and references 'financing transactions' that enhance its capital structure — directly aligning with Blue Owl’s credit-focused, income-oriented lending strategy."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 7.73,
+            "finalScore": 21.73,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-0ceb61130365",
+          "title": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom",
+          "titleZh": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom",
+          "summary": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+          "summaryZh": "Blue Owl旗下的OCIC发行10亿美元票据，将信贷额度提高至42亿美元Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2pJSC1JN3MxQUhIR1ZYa3VEd2NBdnhFSjVDQkVkZVFvalRZZ3dudkJSU2o1bHRXbEZaWndRWHFvUDFZbzJwV1pwUmZFaWtJMlFoY1FVMWRMZVFiWV9PYUZMM0x6UDJySThrUFBCZWtJaHA4V1Azb2JCUU5lLTZUZldCZURHQm5VMkhDcXNUcC02Y0JpQVlNdU5DdHo?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+          "articleExcerpt": "Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B - Dealroom. Blue Owl's OCIC raises $1B in notes, upsizes credit line to $4.2B Dealroom",
+          "contentFingerprint": "b04026b3a52f0509",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OCIC (Owl Creek Credit Income Corp) is Blue Owl's publicly traded business development company focused on private credit and direct lending; raising notes and upsizing a credit line are core credit/financing activities."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.37,
+            "finalScore": 20.37,
             "semanticEnabled": true
           }
         },
@@ -18372,6 +18758,51 @@
             "keywordScore": 17,
             "semanticScore": 6.55,
             "finalScore": 23.55,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-50c8b31b0c5b",
+          "title": "KKR creates equipment finance platform for small and midmarket businesses - TradingView",
+          "titleZh": "KKR creates equipment finance platform for small and midmarket businesses - TradingView",
+          "summary": "KKR creates equipment finance platform for small and midmarket businesses TradingView",
+          "summaryZh": "KKR为中小型企业创建设备融资平台 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3R0UFZwSnA3X2FGcXJLc2pSNHc0dkxMMWNCYTVLY0lxdmFZbm96Qkhhb3dCV2YtcXIxZU1Pd3ZRTnJqQl84ZVppSVJkU0I2V3VfV3VBWExtakFVTzhTSE9YTzRQNTZhZ1V5Z1FDNlV1MnVLS2lySGd1NFVjRHVzemFlaWp5Z251UWY0ZkN6RHJUd0d2RmZvTzhEVXNzSUVLR1dqWXpwcGIwQnZoVkxiaEhFNWttOGh3RkxleXA5STNCNlpRT0h2WklHSmlUTjZfRGc?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-09-22",
+          "lede": "KKR creates equipment finance platform for small and midmarket businesses TradingView",
+          "articleExcerpt": "KKR creates equipment finance platform for small and midmarket businesses - TradingView. KKR creates equipment finance platform for small and midmarket businesses TradingView",
+          "contentFingerprint": "6c75e39f2ff505a0",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Equipment finance for small and midmarket businesses is a credit/lending activity — specifically direct lending secured by equipment assets, falling under both private credit/direct lending and asset-backed lending."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.25,
+            "finalScore": 22.25,
             "semanticEnabled": true
           }
         },
