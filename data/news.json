@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-22T15:57:22.562511+00:00",
+  "updatedAt": "2026-09-22T20:02:55.961307+00:00",
   "scope": {
     "regions": [
       "US",
@@ -17359,6 +17359,49 @@
               "finalScore": 29.04,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-22-3e15a77c32e5",
+            "title": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha",
+            "titleZh": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha",
+            "summary": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+            "summaryZh": "Blue Owl：9%的股息正依赖借债维持（纽约证券交易所代码：OWL）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9vOWtMV3FuaUFWaEE4NHNVejY5MlpuRnJUeGJXekNsQm42eEVHSzlncjNiQkxTbC1aRFZ4LUNLNnZBWnhZRUdXSGlBUTJJdVc0YXFVc0lwdVhPTnNac3Q2T3oxaTF5Y1l5eE9WS2tSMXdnMDFMZkVYQzVVMlJ0YTVaWXJ6Z29EdjNua3BBOFFRb2t5eGp5VU9ldHZiUk9JNXc?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-22",
+            "lede": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+            "articleExcerpt": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha. Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+            "contentFingerprint": "7275eb682921553f",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article title and context (referencing NYSE:OWL) indicate it's about Blue Owl Capital Inc., a publicly traded entity whose core business is credit-focused — specifically private credit, direct lending, and structured credit solutions. While Blue Owl has multiple strategies, its listed equity and dividend sustainability analysis inherently relates to its consolidated financial performance, driven predominantly by its credit businesses (e.g., Blue Owl Credit, formerly Dyal Capital’s credit platform and Owl Rock). No mention of non-credit activities (e.g., PE equity, infrastructure, real estate equity) is present; the focus on dividend coverage implies scrutiny of cash flows from its credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 5.79,
+              "finalScore": 13.79,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [
@@ -17638,6 +17681,141 @@
               "finalScore": 22.53,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-22-ebcb37b8410e",
+            "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire",
+            "titleZh": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire",
+            "summary": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+            "summaryZh": "KKR推出设备融资平台Akrapoint Commercial Capital Business Wire",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVG9scW9HZkl4ajJlNHd3OTAyTU44R243dThlLWxLaUQ3UkFJNGVBRmdXWG9FOUpTbE1RcUx1Qkx4S0hJd1FoQzh5Q2o3N3Z6SGZZcDA0Q082SE0zVDItdGdQd3hfcWc0ZS1VZ2tqWV82Z0VpcUdGNjEtelhhQUtudHpZWFRpTUdvckJTZWkwN1I3RmZ1WkY0LTZEQjlSQ0dwWVZTR25sZWpwOFIyUndGcHVDVHlvaW0tVUdSYkFFSnZ2aEE?oc=5",
+            "source": "Business Wire",
+            "publishedAt": "2026-09-22",
+            "lede": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+            "articleExcerpt": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire. KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+            "contentFingerprint": "9b5e434154118c00",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending",
+                "asset-backed lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Akrapoint Commercial Capital is a new KKR platform focused on equipment finance — a form of asset-backed, direct lending to commercial borrowers, squarely within KKR's credit/financing business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.59,
+              "finalScore": 25.59,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-fb474319ffa8",
+            "title": "KKR launches $350m equipment finance platform - Alternative Credit Investor",
+            "titleZh": "KKR launches $350m equipment finance platform - Alternative Credit Investor",
+            "summary": "KKR launches $350m equipment finance platform Alternative Credit Investor",
+            "summaryZh": "KKR推出3.5亿美元设备融资平台《另类信贷投资者》",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzEtQVNhX2E2MVg0REM2bEZ0UXY0NHZIRFVtUkc5ZzJ5QnBJX2kzc0Npa1QtY1ZQWlluMnZlbFlfXzlHdktQYVBpR1MxTFpmejJma0ZPUmQ3WmlWdUVtdGlWckxleEo4c3l2SC1LbFRyMzRyVndraWw5Mm5tdTQtdFZlUzNpdjlrRFA5TldMdG05NHU0QVY2OFNR?oc=5",
+            "source": "Alternative Credit Investor",
+            "publishedAt": "2026-09-22",
+            "lede": "KKR launches $350m equipment finance platform Alternative Credit Investor",
+            "articleExcerpt": "KKR launches $350m equipment finance platform - Alternative Credit Investor. KKR launches $350m equipment finance platform Alternative Credit Investor",
+            "contentFingerprint": "3dfe269e5276710b",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending",
+                "asset-backed lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Equipment finance is a credit-focused activity involving direct lending and asset-backed financing, squarely within KKR's credit/structured-finance business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.82,
+              "finalScore": 23.82,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-22-489043d8256a",
+            "title": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz",
+            "titleZh": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz",
+            "summary": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+            "summaryZh": "KKR 承诺出资 3.5 亿美元，启动设备融资平台 Akrapoint citybiz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjVDWC1EX3hzcU5HdkpqX1E4RVZiSXdkamUxNlM2a0I0eUlTWnNqbkFYWHpndDFpQkpIR2Zpd0RibjdvWHJZZmVjRFgtVlpVa3JkQkdnSHlQN1RMci1PNHZSNXhUSEdkd01vMmxGd1RHN3FfV1FXMGtsUkRMM2RjZ0JUbzhmalk4Wl96bUVYVTRla2ltUzJ1S1NiS2NBUEtqNk9OZkNkX0NpcVFDQlE?oc=5",
+            "source": "citybiz",
+            "publishedAt": "2026-09-22",
+            "lede": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+            "articleExcerpt": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz. KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+            "contentFingerprint": "d0dc567387236824",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending",
+                "asset-backed lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article describes KKR committing $350M to launch Akrapoint, an equipment finance platform — a credit-focused activity involving direct lending and asset-backed financing (equipment serving as collateral). This falls squarely within KKR’s credit/structured finance business, not its private equity or other non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.55,
+              "finalScore": 23.55,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [
@@ -17791,6 +17969,49 @@
             "keywordScore": 23,
             "semanticScore": 6.04,
             "finalScore": 29.04,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-3e15a77c32e5",
+          "title": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha",
+          "titleZh": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha",
+          "summary": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+          "summaryZh": "Blue Owl：9%的股息正依赖借债维持（纽约证券交易所代码：OWL）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9vOWtMV3FuaUFWaEE4NHNVejY5MlpuRnJUeGJXekNsQm42eEVHSzlncjNiQkxTbC1aRFZ4LUNLNnZBWnhZRUdXSGlBUTJJdVc0YXFVc0lwdVhPTnNac3Q2T3oxaTF5Y1l5eE9WS2tSMXdnMDFMZkVYQzVVMlJ0YTVaWXJ6Z29EdjNua3BBOFFRb2t5eGp5VU9ldHZiUk9JNXc?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-09-22",
+          "lede": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+          "articleExcerpt": "Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) - Seeking Alpha. Blue Owl: The 9% Dividend Is Running On Borrowed Time (NYSE:OWL) Seeking Alpha",
+          "contentFingerprint": "7275eb682921553f",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article title and context (referencing NYSE:OWL) indicate it's about Blue Owl Capital Inc., a publicly traded entity whose core business is credit-focused — specifically private credit, direct lending, and structured credit solutions. While Blue Owl has multiple strategies, its listed equity and dividend sustainability analysis inherently relates to its consolidated financial performance, driven predominantly by its credit businesses (e.g., Blue Owl Credit, formerly Dyal Capital’s credit platform and Owl Rock). No mention of non-credit activities (e.g., PE equity, infrastructure, real estate equity) is present; the focus on dividend coverage implies scrutiny of cash flows from its credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 5.79,
+            "finalScore": 13.79,
             "semanticEnabled": true
           }
         },
@@ -18016,6 +18237,141 @@
             "keywordScore": 17,
             "semanticScore": 5.53,
             "finalScore": 22.53,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-ebcb37b8410e",
+          "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire",
+          "titleZh": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire",
+          "summary": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+          "summaryZh": "KKR推出设备融资平台Akrapoint Commercial Capital Business Wire",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVG9scW9HZkl4ajJlNHd3OTAyTU44R243dThlLWxLaUQ3UkFJNGVBRmdXWG9FOUpTbE1RcUx1Qkx4S0hJd1FoQzh5Q2o3N3Z6SGZZcDA0Q082SE0zVDItdGdQd3hfcWc0ZS1VZ2tqWV82Z0VpcUdGNjEtelhhQUtudHpZWFRpTUdvckJTZWkwN1I3RmZ1WkY0LTZEQjlSQ0dwWVZTR25sZWpwOFIyUndGcHVDVHlvaW0tVUdSYkFFSnZ2aEE?oc=5",
+          "source": "Business Wire",
+          "publishedAt": "2026-09-22",
+          "lede": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+          "articleExcerpt": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital - Business Wire. KKR Launches Equipment Finance Platform Akrapoint Commercial Capital Business Wire",
+          "contentFingerprint": "9b5e434154118c00",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Akrapoint Commercial Capital is a new KKR platform focused on equipment finance — a form of asset-backed, direct lending to commercial borrowers, squarely within KKR's credit/financing business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.59,
+            "finalScore": 25.59,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-fb474319ffa8",
+          "title": "KKR launches $350m equipment finance platform - Alternative Credit Investor",
+          "titleZh": "KKR launches $350m equipment finance platform - Alternative Credit Investor",
+          "summary": "KKR launches $350m equipment finance platform Alternative Credit Investor",
+          "summaryZh": "KKR推出3.5亿美元设备融资平台《另类信贷投资者》",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzEtQVNhX2E2MVg0REM2bEZ0UXY0NHZIRFVtUkc5ZzJ5QnBJX2kzc0Npa1QtY1ZQWlluMnZlbFlfXzlHdktQYVBpR1MxTFpmejJma0ZPUmQ3WmlWdUVtdGlWckxleEo4c3l2SC1LbFRyMzRyVndraWw5Mm5tdTQtdFZlUzNpdjlrRFA5TldMdG05NHU0QVY2OFNR?oc=5",
+          "source": "Alternative Credit Investor",
+          "publishedAt": "2026-09-22",
+          "lede": "KKR launches $350m equipment finance platform Alternative Credit Investor",
+          "articleExcerpt": "KKR launches $350m equipment finance platform - Alternative Credit Investor. KKR launches $350m equipment finance platform Alternative Credit Investor",
+          "contentFingerprint": "3dfe269e5276710b",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Equipment finance is a credit-focused activity involving direct lending and asset-backed financing, squarely within KKR's credit/structured-finance business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.82,
+            "finalScore": 23.82,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-22-489043d8256a",
+          "title": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz",
+          "titleZh": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz",
+          "summary": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+          "summaryZh": "KKR 承诺出资 3.5 亿美元，启动设备融资平台 Akrapoint citybiz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjVDWC1EX3hzcU5HdkpqX1E4RVZiSXdkamUxNlM2a0I0eUlTWnNqbkFYWHpndDFpQkpIR2Zpd0RibjdvWHJZZmVjRFgtVlpVa3JkQkdnSHlQN1RMci1PNHZSNXhUSEdkd01vMmxGd1RHN3FfV1FXMGtsUkRMM2RjZ0JUbzhmalk4Wl96bUVYVTRla2ltUzJ1S1NiS2NBUEtqNk9OZkNkX0NpcVFDQlE?oc=5",
+          "source": "citybiz",
+          "publishedAt": "2026-09-22",
+          "lede": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+          "articleExcerpt": "KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint - citybiz. KKR Commits $350 Million to Launch Equipment Finance Platform Akrapoint citybiz",
+          "contentFingerprint": "d0dc567387236824",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article describes KKR committing $350M to launch Akrapoint, an equipment finance platform — a credit-focused activity involving direct lending and asset-backed financing (equipment serving as collateral). This falls squarely within KKR’s credit/structured finance business, not its private equity or other non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.55,
+            "finalScore": 23.55,
             "semanticEnabled": true
           }
         },
