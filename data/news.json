@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-23T18:16:15.129733+00:00",
+  "updatedAt": "2026-09-23T21:33:34.656095+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19166,7 +19166,51 @@
         "Blue Owl": [],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-23-5acc3ec99e2b",
+            "title": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch",
+            "titleZh": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch",
+            "summary": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+            "summaryZh": "KKR将推出设备融资平台，高盛向数据/AI安全领域另类投资公司投资4亿美元",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFlBRk5MR01UNzZxSGVXSjVWLUZQVmQwOEJyczNJekJUSlYxVW9wYThtXzBvVVY1aUlaVlJvcGZKUVZWVzFpQTV1bGV0TWtIM1YzOG1HSFpoUm53YUlyZnZvdGdFLTVSVjdKdG1ZSVZyblh0Z1h3TzB6ckRBUGcwZkpNMWk3T0ZPaGFxRTNtdkNrY1VxVjZIWUxhQ3RhdjJ6Vmc?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-09-23",
+            "lede": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+            "articleExcerpt": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch. KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+            "contentFingerprint": "a41706e2d59b8af9",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Equipment finance is a form of asset-backed lending and direct lending — core credit activities — and falls under KKR’s credit platform (KKR Credit), not its private equity or infrastructure businesses."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.25,
+              "finalScore": 22.25,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -19224,6 +19268,49 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-09-23-5acc3ec99e2b",
+          "title": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch",
+          "titleZh": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch",
+          "summary": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+          "summaryZh": "KKR将推出设备融资平台，高盛向数据/AI安全领域另类投资公司投资4亿美元",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFlBRk5MR01UNzZxSGVXSjVWLUZQVmQwOEJyczNJekJUSlYxVW9wYThtXzBvVVY1aUlaVlJvcGZKUVZWVzFpQTV1bGV0TWtIM1YzOG1HSFpoUm53YUlyZnZvdGdFLTVSVjdKdG1ZSVZyblh0Z1h3TzB6ckRBUGcwZkpNMWk3T0ZPaGFxRTNtdkNrY1VxVjZIWUxhQ3RhdjJ6Vmc?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-09-23",
+          "lede": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+          "articleExcerpt": "KKR to launch equipment finance platform, Goldman invests $400m in data/AI security - Alternatives Watch. KKR to launch equipment finance platform, Goldman invests $400m in data/AI security Alternatives Watch",
+          "contentFingerprint": "a41706e2d59b8af9",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Equipment finance is a form of asset-backed lending and direct lending — core credit activities — and falls under KKR’s credit platform (KKR Credit), not its private equity or infrastructure businesses."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.25,
+            "finalScore": 22.25,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-09-23-841896b504dc",
           "title": "Apollo Caps Private Credit Fund Again as 14.7% Look to Exit - Bloomberg.com",
