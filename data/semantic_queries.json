@@ -161,6 +161,18 @@
         "PAG acquires a majority stake in a Southeast Asian logistics park operator through its infrastructure equity platform — no debt financing, loan origination, or credit structuring involved.",
         "PAG announces the sale of its controlling interest in a European hotel portfolio via a private equity real estate transaction — purely an equity disposition with no associated lending, credit facility, or structured finance component."
       ]
+    },
+    "Basepoint": {
+      "promptHash": "579b4a689f039f139f74b40b37cf019dd2c373d4",
+      "relevant": [
+        "Basepoint announces a $450 million senior secured direct lending facility to a middle-market manufacturing company, structured as a floating-rate term loan with asset-based covenants.",
+        "Basepoint closes its third CLO, a $1.2 billion AAA-rated vehicle focused on U.S. leveraged loan collateral, with 95% ramp-up completed within six months.",
+        "Basepoint serves as administrative agent and lead lender in a $300 million asset-based revolving credit facility for a logistics firm, secured by accounts receivable and inventory."
+      ],
+      "notRelevant": [
+        "Basepoint acquires a portfolio of solar generation assets through its infrastructure equity fund — no debt financing, credit structuring, or lending involvement is disclosed.",
+        "Basepoint leads a $1.8 billion take-private transaction of a software company via its flagship private equity fund, funded entirely with equity capital and unrelated to any credit strategy or financing vehicle."
+      ]
     }
   }
 }
