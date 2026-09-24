@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-24T08:39:11.334369+00:00",
+  "updatedAt": "2026-09-24T13:56:58.626251+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19658,15 +19658,153 @@
               "finalScore": 20.7,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-24-dabd8336565d",
+            "title": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits",
+            "titleZh": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits",
+            "summary": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+            "summaryZh": "私募信贷是否正迎来其2007年时刻？Blue Owl的举动被比作早期金融危机迹象 Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcEdSM2JQUWN5QU9yN3hDWE96VkI1UXBYUUI3d0o4QkdELWpRdno0bU1kVGNCa1BhRjBQUE1RTTRMbVk1ZzJfYm1IQkJ6ZGZ5dzBTTjRUX2xRcWxqem5UWFduZmVoR1hLUzN6Y0JnUzllclZSUWVUNXppbWM3ZFZJeWllZUV6anRXc3F1MlhSbmhtQzZQbDF1SnZFYk1DbVdqTlB1ME5EQlluYmdhRFJ2N1VEQ1VTQmctWXdESDBWRVZWbzBXbGwxWHZRbWRjYmZUQ1NZeFBLMDhkekJBekE?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-24",
+            "lede": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+            "articleExcerpt": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits. Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+            "contentFingerprint": "f4a5fffbe7c57d2b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly discusses Blue Owl’s activity in the context of private credit and draws parallels to financial crisis precursors, indicating focus on its credit-related business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.85,
+              "finalScore": 19.85,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-24-da9b8208fb68",
+            "title": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
+            "titleZh": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
+            "summary": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+            "summaryZh": "ABF交易简报：KKR推出设备融资平台，而纽伯格削减7亿美元远期现金流结构化信贷投资者",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVzV5cEVyN0twaVBfVnZOSlh2N0k4VnN3Z0dSd1k1U1huajZ4NHNQVk5PRWNpU3dxUEhCVFJkNDlDdXk4RWRSUnVCRVlVQkI3TllHOFU2Mlg3NlN5SGtxeVllRy1KMllzdWU5UTRybkdJWmppRnVVLVpEYUFEb1RiZXJxNmdGejEwZjVFbXRIbU5QTWUwSVdfc1pxLVVCTDlkdjdQNkNvdlA2aThaU3dhZWQyRjhsNVl4U3E1NkZuMFowNVFER2x2X25hU3BUUWRnc3dINDVGakstT2VDVVFvVjNkODVZbkJsd1JmQ1lVWHhoTnA5RkxlcnRFQk9BNzNHYkpSWlgxMXhiRFoyblE?oc=5",
+            "source": "Structured Credit Investor",
+            "publishedAt": "2026-09-24",
+            "lede": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+            "articleExcerpt": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor. ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+            "contentFingerprint": "fab669ed850acb2a",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending",
+                "asset-backed lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "KKR's launch of an equipment finance platform falls under credit-related activity — specifically direct lending and asset-backed lending — as equipment finance involves extending secured loans or leases backed by tangible assets, consistent with the portfolio's credit-only mandate."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.54,
+              "finalScore": 26.54,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
-        "Basepoint": [],
+        "Basepoint": [
+          {
+            "id": "2026-09-24-8fda8045b052",
+            "title": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
+            "titleZh": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
+            "summary": "Private lenders can now order and receive verification reports without leaving Baseline NEW YORK, Sept. 24, 2026 /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus verification solutions...",
+            "summaryZh": "私人贷款机构现在可无需离开Baseline平台即可订购并接收核实报告。 纽约，2026年9月24日 /PRNewswire/ —— 专为私人房地产贷款机构打造的贷款发起与服务平台Baseline已与Xactus达成合作，引入Xactus核实解决方案……",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.prnewswire.com/news-releases/baseline-integrates-with-xactus-to-bring-verification-directly-into-the-private-lending-workflow-302888633.html",
+            "source": "Google News",
+            "publishedAt": "2026-09-24",
+            "lede": "Private lenders can now order and receive verification reports without leaving Baseline NEW YORK, Sept. 24, 2026 /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus verification solutions...",
+            "articleExcerpt": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow. /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus...",
+            "contentFingerprint": "6134a9b285cf032e",
+            "region": "US",
+            "gps": [
+              "Basepoint"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "real estate",
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Basepoint"
+              ],
+              "keywordSectors": [
+                "real estate",
+                "mortgage"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Baseline (listed as 'Basepoint' in tracked GPs) is a loan origination and servicing platform for private real estate lenders — explicitly focused on credit/financing activity in real estate, not equity development or ownership."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 4.97,
+              "finalScore": 22.97,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "NB": [],
         "Apollo": [
           {
@@ -19761,6 +19899,142 @@
             "keywordScore": 14,
             "semanticScore": 6.7,
             "finalScore": 20.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-dabd8336565d",
+          "title": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits",
+          "titleZh": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits",
+          "summary": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+          "summaryZh": "私募信贷是否正迎来其2007年时刻？Blue Owl的举动被比作早期金融危机迹象 Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcEdSM2JQUWN5QU9yN3hDWE96VkI1UXBYUUI3d0o4QkdELWpRdno0bU1kVGNCa1BhRjBQUE1RTTRMbVk1ZzJfYm1IQkJ6ZGZ5dzBTTjRUX2xRcWxqem5UWFduZmVoR1hLUzN6Y0JnUzllclZSUWVUNXppbWM3ZFZJeWllZUV6anRXc3F1MlhSbmhtQzZQbDF1SnZFYk1DbVdqTlB1ME5EQlluYmdhRFJ2N1VEQ1VTQmctWXdESDBWRVZWbzBXbGwxWHZRbWRjYmZUQ1NZeFBLMDhkekJBekE?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-24",
+          "lede": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+          "articleExcerpt": "Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs - Stocktwits. Is Private Credit’s 2007 Moment Here? Blue Owl’s Move Draws Comparison To Early Financial Crisis Signs Stocktwits",
+          "contentFingerprint": "f4a5fffbe7c57d2b",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly discusses Blue Owl’s activity in the context of private credit and draws parallels to financial crisis precursors, indicating focus on its credit-related business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.85,
+            "finalScore": 19.85,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-da9b8208fb68",
+          "title": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
+          "titleZh": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
+          "summary": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+          "summaryZh": "ABF交易简报：KKR推出设备融资平台，而纽伯格削减7亿美元远期现金流结构化信贷投资者",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVzV5cEVyN0twaVBfVnZOSlh2N0k4VnN3Z0dSd1k1U1huajZ4NHNQVk5PRWNpU3dxUEhCVFJkNDlDdXk4RWRSUnVCRVlVQkI3TllHOFU2Mlg3NlN5SGtxeVllRy1KMllzdWU5UTRybkdJWmppRnVVLVpEYUFEb1RiZXJxNmdGejEwZjVFbXRIbU5QTWUwSVdfc1pxLVVCTDlkdjdQNkNvdlA2aThaU3dhZWQyRjhsNVl4U3E1NkZuMFowNVFER2x2X25hU3BUUWRnc3dINDVGakstT2VDVVFvVjNkODVZbkJsd1JmQ1lVWHhoTnA5RkxlcnRFQk9BNzNHYkpSWlgxMXhiRFoyblE?oc=5",
+          "source": "Structured Credit Investor",
+          "publishedAt": "2026-09-24",
+          "lede": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+          "articleExcerpt": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor. ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow Structured Credit Investor",
+          "contentFingerprint": "fab669ed850acb2a",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending",
+              "asset-backed lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "KKR's launch of an equipment finance platform falls under credit-related activity — specifically direct lending and asset-backed lending — as equipment finance involves extending secured loans or leases backed by tangible assets, consistent with the portfolio's credit-only mandate."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.54,
+            "finalScore": 26.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-8fda8045b052",
+          "title": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
+          "titleZh": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
+          "summary": "Private lenders can now order and receive verification reports without leaving Baseline NEW YORK, Sept. 24, 2026 /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus verification solutions...",
+          "summaryZh": "私人贷款机构现在可无需离开Baseline平台即可订购并接收核实报告。 纽约，2026年9月24日 /PRNewswire/ —— 专为私人房地产贷款机构打造的贷款发起与服务平台Baseline已与Xactus达成合作，引入Xactus核实解决方案……",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.prnewswire.com/news-releases/baseline-integrates-with-xactus-to-bring-verification-directly-into-the-private-lending-workflow-302888633.html",
+          "source": "Google News",
+          "publishedAt": "2026-09-24",
+          "lede": "Private lenders can now order and receive verification reports without leaving Baseline NEW YORK, Sept. 24, 2026 /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus verification solutions...",
+          "articleExcerpt": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow. /PRNewswire/ -- Baseline, the loan origination and servicing platform built for private real estate lenders, has partnered with Xactus to bring Xactus...",
+          "contentFingerprint": "6134a9b285cf032e",
+          "region": "US",
+          "gps": [
+            "Basepoint"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "real estate",
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Basepoint"
+            ],
+            "keywordSectors": [
+              "real estate",
+              "mortgage"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Baseline (listed as 'Basepoint' in tracked GPs) is a loan origination and servicing platform for private real estate lenders — explicitly focused on credit/financing activity in real estate, not equity development or ownership."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 4.97,
+            "finalScore": 22.97,
             "semanticEnabled": true
           }
         },
