@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-24T03:01:11.481062+00:00",
+  "updatedAt": "2026-09-24T08:39:11.334369+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19361,7 +19361,8 @@
               "KKR"
             ],
             "sectors": [
-              "private credit / direct lending"
+              "private credit / direct lending",
+              "asset-backed lending"
             ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
@@ -19374,15 +19375,16 @@
               ],
               "keywordSectors": [],
               "llmSectors": [
-                "private credit / direct lending"
+                "private credit / direct lending",
+                "asset-backed lending"
               ],
               "llmExclude": false,
-              "llmReason": "Equipment finance is a form of asset-backed lending and direct lending — core credit activities — and falls under KKR’s credit platform (KKR Credit), not its private equity or infrastructure businesses."
+              "llmReason": "Equipment finance is a form of asset-backed lending and falls under KKR's credit/direct lending business; the article explicitly references KKR launching an equipment finance platform, which is credit-relevant."
             },
             "scoreBreakdown": {
-              "keywordScore": 16,
+              "keywordScore": 19,
               "semanticScore": 6.25,
-              "finalScore": 22.25,
+              "finalScore": 25.25,
               "semanticEnabled": true
             }
           }
@@ -19441,7 +19443,45 @@
         ],
         "Bain Capital": [],
         "Guggenheim": [],
-        "HSBC AM": []
+        "HSBC AM": [
+          {
+            "id": "2026-09-23-a876c0db7fdc",
+            "title": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill",
+            "titleZh": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill",
+            "summary": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+            "summaryZh": "汇丰新闻 | 汇丰控股有限公司-存托凭证（纽约证券交易所代码：HSBC）ChartMill",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZkxJM0x3Uy1DVVkzckp6Mk8yOXVESXBqb3R6cVg2ODkyaXFZQzRLWHVQdTBkMHNMeTdEZ0w0Q1lPVFl6b0ZELW5ESWZkT2Y4clFQSFJHSVJYVEU?oc=5",
+            "source": "ChartMill",
+            "publishedAt": "2026-09-23",
+            "lede": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+            "articleExcerpt": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill. HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+            "contentFingerprint": "937ad0fddb28bf8a",
+            "region": "US",
+            "gps": [
+              "HSBC AM"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "HSBC AM"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "The article title references 'HSBC HOLDINGS PLC' and its ADR listing, but does not mention HSBC Asset Management (HSBC AM) or any credit-related activity. However, since HSBC AM is a tracked GP and the article is about HSBC as a corporate entity — not its asset management arm — and contains no reference to credit, lending, structured finance, or any tracked sub-sector, it fails to meet the criteria for inclusion. Per instructions, only articles about the *credit/lending/structured-finance business* of tracked GPs qualify. This is generic corporate stock ticker news with no GP-specific credit content. Therefore, it should be excluded."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.47,
+              "finalScore": 9.469999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -19462,7 +19502,8 @@
             "KKR"
           ],
           "sectors": [
-            "private credit / direct lending"
+            "private credit / direct lending",
+            "asset-backed lending"
           ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
@@ -19475,15 +19516,16 @@
             ],
             "keywordSectors": [],
             "llmSectors": [
-              "private credit / direct lending"
+              "private credit / direct lending",
+              "asset-backed lending"
             ],
             "llmExclude": false,
-            "llmReason": "Equipment finance is a form of asset-backed lending and direct lending — core credit activities — and falls under KKR’s credit platform (KKR Credit), not its private equity or infrastructure businesses."
+            "llmReason": "Equipment finance is a form of asset-backed lending and falls under KKR's credit/direct lending business; the article explicitly references KKR launching an equipment finance platform, which is credit-relevant."
           },
           "scoreBreakdown": {
-            "keywordScore": 16,
+            "keywordScore": 19,
             "semanticScore": 6.25,
-            "finalScore": 22.25,
+            "finalScore": 25.25,
             "semanticEnabled": true
           }
         },
@@ -19531,12 +19573,93 @@
             "finalScore": 22.5,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-09-23-a876c0db7fdc",
+          "title": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill",
+          "titleZh": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill",
+          "summary": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+          "summaryZh": "汇丰新闻 | 汇丰控股有限公司-存托凭证（纽约证券交易所代码：HSBC）ChartMill",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZkxJM0x3Uy1DVVkzckp6Mk8yOXVESXBqb3R6cVg2ODkyaXFZQzRLWHVQdTBkMHNMeTdEZ0w0Q1lPVFl6b0ZELW5ESWZkT2Y4clFQSFJHSVJYVEU?oc=5",
+          "source": "ChartMill",
+          "publishedAt": "2026-09-23",
+          "lede": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+          "articleExcerpt": "HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) - ChartMill. HSBC News | HSBC HOLDINGS PLC-SPONS ADR (NYSE:HSBC) ChartMill",
+          "contentFingerprint": "937ad0fddb28bf8a",
+          "region": "US",
+          "gps": [
+            "HSBC AM"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "HSBC AM"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "The article title references 'HSBC HOLDINGS PLC' and its ADR listing, but does not mention HSBC Asset Management (HSBC AM) or any credit-related activity. However, since HSBC AM is a tracked GP and the article is about HSBC as a corporate entity — not its asset management arm — and contains no reference to credit, lending, structured finance, or any tracked sub-sector, it fails to meet the criteria for inclusion. Per instructions, only articles about the *credit/lending/structured-finance business* of tracked GPs qualify. This is generic corporate stock ticker news with no GP-specific credit content. Therefore, it should be excluded."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.47,
+            "finalScore": 9.469999999999999,
+            "semanticEnabled": true
+          }
         }
       ]
     },
     "2026-09-24": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-24-8f347a7cb9ad",
+            "title": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st",
+            "titleZh": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st",
+            "summary": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+            "summaryZh": "蓝 Owl 资本（OWL）可能在洛帕瑞克斯次级贷款上面临损失 simplywall.st",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHpSeTAwTENibkRHNFpRaV9Ddk9mVGRyQXd1TFRaUkZhbW9SYWUzblByWENoSlJQY0JOZmMwVmVaU3ZLdzBmR2ppbC1OdkFxc0ctU01jTUk5N2JQQkVTLWdGVmphU29aR0hCcWJCdTJKLWJKVEZEejMtZWx4M1N5MF9RMGh3aE1uYVE5ZjNxVzZTYXV6SGR6N05CT2U1MDVQSktFRTFzRFpuNVg1VEFwWWFPUFZHT0czczhsRkZYa1dpd2c5WW5OZklHVm9ucUZjWFFwR20zdHc5TUpXOU840gHkAUFVX3lxTE1rSUIyYWJpV3BqOHk4Nm9kbHhTQjVrTnZLZ2RoblBHOFpITnlCVnZya25kMVNYUGJfa0oyakx5dkZpb190TjhSeC1RYXFpaFFkZ0plaWhJay1aWG5feGpEMzQ4YWNkeTRWbXRTZWJ0SHRKSWtjR1pYek5TeGlyQm1ONGU2ZTZCNGVTcEl3SWVtYk9mUTJoWDU2RTZBaFFoOGJnRHd4MFZtZjh3YjJGRWtEcWk2a0ZfTHp5X2dydG5uSTRjbXBlUDQ2MFFiVHZrbHpmUnNyT0R1NWlVaU90LWNuUDlRWA?oc=5",
+            "source": "simplywall.st",
+            "publishedAt": "2026-09-24",
+            "lede": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+            "articleExcerpt": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st. Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+            "contentFingerprint": "fb672bf46012f359",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "The article concerns Blue Owl's potential loss on a junior loan to Loparex, which falls under its private credit/direct lending business — a credit-relevant activity."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.7,
+              "finalScore": 20.7,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [],
@@ -19545,12 +19668,149 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-09-24-a150fff6ba2d",
+            "title": "Apollo Provides $585MM Financing to The Executive Centre",
+            "titleZh": "Apollo Provides $585MM Financing to The Executive Centre",
+            "summary": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+            "summaryZh": "老虎集团完成600万美元精密制造设备销售 [ 查看本周全部新闻 ] 新闻库",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.abladvisor.com/news/43725/apollo-provides-585mm-financing-to-the-executive-centre",
+            "source": "ABL Advisor News",
+            "publishedAt": "2026-09-24",
+            "lede": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+            "articleExcerpt": "Apollo Provides $585MM Financing to The Executive Centre. Apollo Provides $585MM Financing to The Executive Centre - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. Apollo Provides $585MM Financing to The Executive Centre September 17, 2026, 07:49 AM Filed Under: Real Estate Related: Apollo , Commercial Real Estate Apollo announced that Apollo-managed funds, affiliates, and other long-term investors provided a $585 million financing to The Executive Centre (\"TEC\"), one of Asia's leading providers of premium flexible office space, with more than 30 years of operating experience and a portfolio of over 260 centres across 38 cities in 15 markets across APAC and the Middle East. Proceeds will be primarily used to refinance existing debt and positions TEC for further expansion to meet sustained demand for premium flexible office",
+            "contentFingerprint": "2cb781916ef7b6a5",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [
+                "real estate"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article describes a $585MM financing (lending/credit activity) provided by Apollo-managed funds to a flexible office space operator; explicitly credit-related and focused on real estate financing (refinancing existing debt, supporting expansion), satisfying the 'real estate (credit/financing angle only)' sub-sector criterion."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 7.04,
+              "finalScore": 23.04,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-24-8f347a7cb9ad",
+          "title": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st",
+          "titleZh": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st",
+          "summary": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+          "summaryZh": "蓝 Owl 资本（OWL）可能在洛帕瑞克斯次级贷款上面临损失 simplywall.st",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHpSeTAwTENibkRHNFpRaV9Ddk9mVGRyQXd1TFRaUkZhbW9SYWUzblByWENoSlJQY0JOZmMwVmVaU3ZLdzBmR2ppbC1OdkFxc0ctU01jTUk5N2JQQkVTLWdGVmphU29aR0hCcWJCdTJKLWJKVEZEejMtZWx4M1N5MF9RMGh3aE1uYVE5ZjNxVzZTYXV6SGR6N05CT2U1MDVQSktFRTFzRFpuNVg1VEFwWWFPUFZHT0czczhsRkZYa1dpd2c5WW5OZklHVm9ucUZjWFFwR20zdHc5TUpXOU840gHkAUFVX3lxTE1rSUIyYWJpV3BqOHk4Nm9kbHhTQjVrTnZLZ2RoblBHOFpITnlCVnZya25kMVNYUGJfa0oyakx5dkZpb190TjhSeC1RYXFpaFFkZ0plaWhJay1aWG5feGpEMzQ4YWNkeTRWbXRTZWJ0SHRKSWtjR1pYek5TeGlyQm1ONGU2ZTZCNGVTcEl3SWVtYk9mUTJoWDU2RTZBaFFoOGJnRHd4MFZtZjh3YjJGRWtEcWk2a0ZfTHp5X2dydG5uSTRjbXBlUDQ2MFFiVHZrbHpmUnNyT0R1NWlVaU90LWNuUDlRWA?oc=5",
+          "source": "simplywall.st",
+          "publishedAt": "2026-09-24",
+          "lede": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+          "articleExcerpt": "Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan - simplywall.st. Blue Owl Capital (OWL) Faces Possible Loss On Loparex Junior Loan simplywall.st",
+          "contentFingerprint": "fb672bf46012f359",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "The article concerns Blue Owl's potential loss on a junior loan to Loparex, which falls under its private credit/direct lending business — a credit-relevant activity."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.7,
+            "finalScore": 20.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-a150fff6ba2d",
+          "title": "Apollo Provides $585MM Financing to The Executive Centre",
+          "titleZh": "Apollo Provides $585MM Financing to The Executive Centre",
+          "summary": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+          "summaryZh": "老虎集团完成600万美元精密制造设备销售 [ 查看本周全部新闻 ] 新闻库",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.abladvisor.com/news/43725/apollo-provides-585mm-financing-to-the-executive-centre",
+          "source": "ABL Advisor News",
+          "publishedAt": "2026-09-24",
+          "lede": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+          "articleExcerpt": "Apollo Provides $585MM Financing to The Executive Centre. Apollo Provides $585MM Financing to The Executive Centre - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. Apollo Provides $585MM Financing to The Executive Centre September 17, 2026, 07:49 AM Filed Under: Real Estate Related: Apollo , Commercial Real Estate Apollo announced that Apollo-managed funds, affiliates, and other long-term investors provided a $585 million financing to The Executive Centre (\"TEC\"), one of Asia's leading providers of premium flexible office space, with more than 30 years of operating experience and a portfolio of over 260 centres across 38 cities in 15 markets across APAC and the Middle East. Proceeds will be primarily used to refinance existing debt and positions TEC for further expansion to meet sustained demand for premium flexible office",
+          "contentFingerprint": "2cb781916ef7b6a5",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [
+              "real estate"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article describes a $585MM financing (lending/credit activity) provided by Apollo-managed funds to a flexible office space operator; explicitly credit-related and focused on real estate financing (refinancing existing debt, supporting expansion), satisfying the 'real estate (credit/financing angle only)' sub-sector criterion."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 7.04,
+            "finalScore": 23.04,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
