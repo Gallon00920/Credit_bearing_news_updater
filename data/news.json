@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-24T18:48:02.206632+00:00",
+  "updatedAt": "2026-09-24T22:37:40.162152+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19923,6 +19923,49 @@
               "finalScore": 20.81,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-24-bbdbf087c476",
+            "title": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance",
+            "titleZh": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance",
+            "summary": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+            "summaryZh": "对蓝鹰资本而言，坏消息持续不断，甲骨文公司已向其贷款方发出不可抗力通知。该股在过去一年中已下跌逾45%。雅虎财经",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEw4VDRWcVFGUG55VjRBWkEzVDdFU1RaWVF0Nm1ydGdNeTNlOGp1b0lhYm1vNzZtX0ZJOVl5ellkbkNjYk13aGtVaW1VNmt4aWYtWDQ2Z3NyTnpsbFVSd2sySGlxbE5VWVlWNWJKbERKWV8weEMzTy12SWo3REd4RjVuZWJNMlpOMXowQThnd0lqaWg3VVE?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-09-24",
+            "lede": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+            "articleExcerpt": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance. Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+            "contentFingerprint": "3c2b65b5a18abdea",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Oracle sent a force majeure letter to Blue Owl in its capacity as a lender, indicating Blue Owl is engaged in credit/lending activity — consistent with its known private credit and direct lending business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.42,
+              "finalScore": 20.42,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -20207,6 +20250,49 @@
             "keywordScore": 14,
             "semanticScore": 6.81,
             "finalScore": 20.81,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-bbdbf087c476",
+          "title": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance",
+          "titleZh": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance",
+          "summary": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+          "summaryZh": "对蓝鹰资本而言，坏消息持续不断，甲骨文公司已向其贷款方发出不可抗力通知。该股在过去一年中已下跌逾45%。雅虎财经",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEw4VDRWcVFGUG55VjRBWkEzVDdFU1RaWVF0Nm1ydGdNeTNlOGp1b0lhYm1vNzZtX0ZJOVl5ellkbkNjYk13aGtVaW1VNmt4aWYtWDQ2Z3NyTnpsbFVSd2sySGlxbE5VWVlWNWJKbERKWV8weEMzTy12SWo3REd4RjVuZWJNMlpOMXowQThnd0lqaWg3VVE?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-09-24",
+          "lede": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+          "articleExcerpt": "Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year - Yahoo Finance. Bad News Keeps Piling Up For Blue Owl, As Oracle Sends Force Majeure Letter To Lender. Stock Already Down Over 45% In The Last Year Yahoo Finance",
+          "contentFingerprint": "3c2b65b5a18abdea",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Oracle sent a force majeure letter to Blue Owl in its capacity as a lender, indicating Blue Owl is engaged in credit/lending activity — consistent with its known private credit and direct lending business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.42,
+            "finalScore": 20.42,
             "semanticEnabled": true
           }
         },
