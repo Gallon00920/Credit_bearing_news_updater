@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-24T22:37:40.162152+00:00",
+  "updatedAt": "2026-09-25T00:53:07.873460+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19966,6 +19966,90 @@
               "finalScore": 20.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-24-92f1d474497c",
+            "title": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative",
+            "titleZh": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative",
+            "summary": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+            "summaryZh": "Blue Owl Capital股价下跌，私人信贷风险担忧似乎对股价构成压力。Quiver Quantitative",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVLVW1pUVZpXy1ZaWNYTXdacWhmbmpSM0dtWGRHWXBlMmYzSVFkM1FubHljZkdyUUVETUR2RHlzNi0xRWt1SF8yUlBNN3pfM3pBcWJ1Q1cxLTdEMEstbm8xZnVyM3F6Ykl4d3cwbXBEaFZkeDdkQ2V4VHYyUkVZUE5YdGd6Ti01LV9QX0pONHZreEtORlNYZHVuMTZHenZIRFEtOXhmWEk4OGE5SEJ3bHJZcw?oc=5",
+            "source": "Quiver Quantitative",
+            "publishedAt": "2026-09-24",
+            "lede": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+            "articleExcerpt": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative. Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+            "contentFingerprint": "2cc07cd4384703ae",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly references 'private-credit risk concerns' impacting Blue Owl Capital's shares, directly implicating its credit-related business (not equity, infra, or real estate equity)."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.99,
+              "finalScore": 19.990000000000002,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-24-611e3dd7a4a6",
+            "title": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com",
+            "titleZh": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com",
+            "summary": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+            "summaryZh": "OWL股票下跌，因法律调查及贷款损失打击市场情绪 timothysykes.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTNCeGp0Z3FOdF9yTFF6Vmpfa2RtTTlZcHZqbEsyNFQzRUx5TS0tWEJ3UjJhc1BmbXhFSXRMNTU4QzBFa1BzMXc5MjdVeVlYdEM5Y0dIbDNYNGZKanJUc1E1ZzkwM3g5S1JaeGZqbTlSdXdSQi1MemNRNV82VmZJYWNTWQ?oc=5",
+            "source": "timothysykes.com",
+            "publishedAt": "2026-09-24",
+            "lede": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+            "articleExcerpt": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com. OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+            "contentFingerprint": "7de693cebf3588ec",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "OWL is the ticker for Blue Owl; 'loan loss' directly references its credit business, and legal probes are likely tied to its lending activities given context and firm focus."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.45,
+              "finalScore": 19.45,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -20013,6 +20097,96 @@
               "keywordScore": 20,
               "semanticScore": 6.54,
               "finalScore": 26.54,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-24-df4d2c33784e",
+            "title": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global",
+            "titleZh": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global",
+            "summary": "MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+            "summaryZh": "MCO获得Accel-KKR FinTech Global逾1亿美元增长融资",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGRFNEJyVHNlaERLVFRWajhUbUhPMmZ3Sy01VXFEaDNnbkVCZEVvc0tpYy1HTW01amJwV1NlV1gwdERFRHhUWUZTQ2xxTUVSLWxWcXR5c3cyN0NPc1BkRHQ1VW9pZlFWanVWc05JMS1fdlM5VXo1Q3cweTdnQkVKVXQwSXdzLUt5?oc=5",
+            "source": "FinTech Global",
+            "publishedAt": "2026-09-24",
+            "lede": "MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+            "articleExcerpt": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global. MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+            "contentFingerprint": "e06828bfc7788230",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Accel-KKR is a joint venture between Accel and KKR focused on growth equity and credit investments in technology companies; the article describes $100m+ growth financing (a credit/direct lending activity) to MCO, aligning with KKR’s tracked credit business — not its buyout or other non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.79,
+              "finalScore": 20.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-09-24-614da59cf332",
+            "title": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners",
+            "titleZh": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners",
+            "summary": "MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR Credit Partners. The capital will support MCO’s long-term growth strategy. […]",
+            "summaryZh": "合规管理软件提供商MyComplianceOffice（MCO）已获得Accel-KKR Credit Partners的战略增长融资。该笔资金将支持MCO的长期增长战略。[…]",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.abfjournal.com/mycomplianceoffice-secures-strategic-growth-financing-from-accel-kkr-credit-partners/",
+            "source": "Google News",
+            "publishedAt": "2026-09-24",
+            "lede": "MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR Credit Partners. The capital will support MCO’s long-term growth strategy. […]",
+            "articleExcerpt": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners. MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR",
+            "contentFingerprint": "e152ea8e503ac664",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [
+                "software",
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Accel-KKR Credit Partners is KKR's credit-focused arm providing growth financing (a credit/direct lending activity) to a software company; the financing is explicitly credit-related and involves a tracked GP in its credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.32,
+              "finalScore": 21.32,
               "semanticEnabled": true
             }
           }
@@ -20297,6 +20471,90 @@
           }
         },
         {
+          "id": "2026-09-24-92f1d474497c",
+          "title": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative",
+          "titleZh": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative",
+          "summary": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+          "summaryZh": "Blue Owl Capital股价下跌，私人信贷风险担忧似乎对股价构成压力。Quiver Quantitative",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVLVW1pUVZpXy1ZaWNYTXdacWhmbmpSM0dtWGRHWXBlMmYzSVFkM1FubHljZkdyUUVETUR2RHlzNi0xRWt1SF8yUlBNN3pfM3pBcWJ1Q1cxLTdEMEstbm8xZnVyM3F6Ykl4d3cwbXBEaFZkeDdkQ2V4VHYyUkVZUE5YdGd6Ti01LV9QX0pONHZreEtORlNYZHVuMTZHenZIRFEtOXhmWEk4OGE5SEJ3bHJZcw?oc=5",
+          "source": "Quiver Quantitative",
+          "publishedAt": "2026-09-24",
+          "lede": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+          "articleExcerpt": "Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares - Quiver Quantitative. Blue Owl Capital slips as private-credit risk concerns appear to weigh on shares Quiver Quantitative",
+          "contentFingerprint": "2cc07cd4384703ae",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly references 'private-credit risk concerns' impacting Blue Owl Capital's shares, directly implicating its credit-related business (not equity, infra, or real estate equity)."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.99,
+            "finalScore": 19.990000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-611e3dd7a4a6",
+          "title": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com",
+          "titleZh": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com",
+          "summary": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+          "summaryZh": "OWL股票下跌，因法律调查及贷款损失打击市场情绪 timothysykes.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTNCeGp0Z3FOdF9yTFF6Vmpfa2RtTTlZcHZqbEsyNFQzRUx5TS0tWEJ3UjJhc1BmbXhFSXRMNTU4QzBFa1BzMXc5MjdVeVlYdEM5Y0dIbDNYNGZKanJUc1E1ZzkwM3g5S1JaeGZqbTlSdXdSQi1MemNRNV82VmZJYWNTWQ?oc=5",
+          "source": "timothysykes.com",
+          "publishedAt": "2026-09-24",
+          "lede": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+          "articleExcerpt": "OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment - timothysykes.com. OWL Stock Drops As Legal Probes And Loan Loss Hit Sentiment timothysykes.com",
+          "contentFingerprint": "7de693cebf3588ec",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "OWL is the ticker for Blue Owl; 'loan loss' directly references its credit business, and legal probes are likely tied to its lending activities given context and firm focus."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.45,
+            "finalScore": 19.45,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-24-da9b8208fb68",
           "title": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
           "titleZh": "ABF Deal Digest: KKR launches equipment finance platform, while Neuberger cuts US$700m forward flow - Structured Credit Investor",
@@ -20338,6 +20596,96 @@
             "keywordScore": 20,
             "semanticScore": 6.54,
             "finalScore": 26.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-df4d2c33784e",
+          "title": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global",
+          "titleZh": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global",
+          "summary": "MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+          "summaryZh": "MCO获得Accel-KKR FinTech Global逾1亿美元增长融资",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGRFNEJyVHNlaERLVFRWajhUbUhPMmZ3Sy01VXFEaDNnbkVCZEVvc0tpYy1HTW01amJwV1NlV1gwdERFRHhUWUZTQ2xxTUVSLWxWcXR5c3cyN0NPc1BkRHQ1VW9pZlFWanVWc05JMS1fdlM5VXo1Q3cweTdnQkVKVXQwSXdzLUt5?oc=5",
+          "source": "FinTech Global",
+          "publishedAt": "2026-09-24",
+          "lede": "MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+          "articleExcerpt": "MCO lands $100m+ growth financing from Accel-KKR - FinTech Global. MCO lands $100m+ growth financing from Accel-KKR FinTech Global",
+          "contentFingerprint": "e06828bfc7788230",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Accel-KKR is a joint venture between Accel and KKR focused on growth equity and credit investments in technology companies; the article describes $100m+ growth financing (a credit/direct lending activity) to MCO, aligning with KKR’s tracked credit business — not its buyout or other non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.79,
+            "finalScore": 20.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-24-614da59cf332",
+          "title": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners",
+          "titleZh": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners",
+          "summary": "MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR Credit Partners. The capital will support MCO’s long-term growth strategy. […]",
+          "summaryZh": "合规管理软件提供商MyComplianceOffice（MCO）已获得Accel-KKR Credit Partners的战略增长融资。该笔资金将支持MCO的长期增长战略。[…]",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.abfjournal.com/mycomplianceoffice-secures-strategic-growth-financing-from-accel-kkr-credit-partners/",
+          "source": "Google News",
+          "publishedAt": "2026-09-24",
+          "lede": "MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR Credit Partners. The capital will support MCO’s long-term growth strategy. […]",
+          "articleExcerpt": "MyComplianceOffice Secures Strategic Growth Financing from Accel-KKR Credit Partners. MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has received strategic growth financing from Accel-KKR",
+          "contentFingerprint": "e152ea8e503ac664",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "software",
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [
+              "software",
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Accel-KKR Credit Partners is KKR's credit-focused arm providing growth financing (a credit/direct lending activity) to a software company; the financing is explicitly credit-related and involves a tracked GP in its credit business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.32,
+            "finalScore": 21.32,
             "semanticEnabled": true
           }
         },
@@ -20425,6 +20773,118 @@
             ],
             "llmExclude": false,
             "llmReason": "Article describes a $585MM financing (lending/credit activity) provided by Apollo-managed funds to a flexible office space operator; explicitly credit-related and focused on real estate financing (refinancing existing debt, supporting expansion), satisfying the 'real estate (credit/financing angle only)' sub-sector criterion."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 7.04,
+            "finalScore": 23.04,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-09-25": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [
+          {
+            "id": "2026-09-25-a150fff6ba2d",
+            "title": "Apollo Provides $585MM Financing to The Executive Centre",
+            "titleZh": "Apollo Provides $585MM Financing to The Executive Centre",
+            "summary": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+            "summaryZh": "老虎集团完成600万美元精密制造设备销售 [ 查看本周全部新闻 ] 新闻库",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.abladvisor.com/news/43725/apollo-provides-585mm-financing-to-the-executive-centre",
+            "source": "ABL Advisor News",
+            "publishedAt": "2026-09-25",
+            "lede": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+            "articleExcerpt": "Apollo Provides $585MM Financing to The Executive Centre. Apollo Provides $585MM Financing to The Executive Centre - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. Apollo Provides $585MM Financing to The Executive Centre September 17, 2026, 07:49 AM Filed Under: Real Estate Related: Apollo , Commercial Real Estate Apollo announced that Apollo-managed funds, affiliates, and other long-term investors provided a $585 million financing to The Executive Centre (\"TEC\"), one of Asia's leading providers of premium flexible office space, with more than 30 years of operating experience and a portfolio of over 260 centres across 38 cities in 15 markets across APAC and the Middle East. Proceeds will be primarily used to refinance existing debt and positions TEC for further expansion to meet sustained demand for premium flexible office",
+            "contentFingerprint": "35764c272bf3718c",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [
+                "real estate"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article describes a $585MM financing (lending/credit activity) provided by Apollo-managed funds to a flexible office space operator; explicitly credit-related and focused on real estate financing — consistent with tracked 'real estate (credit/financing angle only)' sub-sector."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 7.04,
+              "finalScore": 23.04,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": [
+        {
+          "id": "2026-09-25-a150fff6ba2d",
+          "title": "Apollo Provides $585MM Financing to The Executive Centre",
+          "titleZh": "Apollo Provides $585MM Financing to The Executive Centre",
+          "summary": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+          "summaryZh": "老虎集团完成600万美元精密制造设备销售 [ 查看本周全部新闻 ] 新闻库",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.abladvisor.com/news/43725/apollo-provides-585mm-financing-to-the-executive-centre",
+          "source": "ABL Advisor News",
+          "publishedAt": "2026-09-25",
+          "lede": "Tiger Group Completes $6MM Precision Manufacturing Equipment Sale [ View the Full Week's News ] News Library",
+          "articleExcerpt": "Apollo Provides $585MM Financing to The Executive Centre. Apollo Provides $585MM Financing to The Executive Centre - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. Apollo Provides $585MM Financing to The Executive Centre September 17, 2026, 07:49 AM Filed Under: Real Estate Related: Apollo , Commercial Real Estate Apollo announced that Apollo-managed funds, affiliates, and other long-term investors provided a $585 million financing to The Executive Centre (\"TEC\"), one of Asia's leading providers of premium flexible office space, with more than 30 years of operating experience and a portfolio of over 260 centres across 38 cities in 15 markets across APAC and the Middle East. Proceeds will be primarily used to refinance existing debt and positions TEC for further expansion to meet sustained demand for premium flexible office",
+          "contentFingerprint": "35764c272bf3718c",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [
+              "real estate"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article describes a $585MM financing (lending/credit activity) provided by Apollo-managed funds to a flexible office space operator; explicitly credit-related and focused on real estate financing — consistent with tracked 'real estate (credit/financing angle only)' sub-sector."
           },
           "scoreBreakdown": {
             "keywordScore": 16,
