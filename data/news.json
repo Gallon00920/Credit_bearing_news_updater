@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-25T20:14:58.979345+00:00",
+  "updatedAt": "2026-09-25T23:28:07.168360+00:00",
   "scope": {
     "regions": [
       "US",
@@ -21380,6 +21380,49 @@
               "finalScore": 20.1,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-25-cc84ca45ef60",
+            "title": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union",
+            "titleZh": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union",
+            "summary": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+            "summaryZh": "Blue Owl Capital扩大信贷平台规模，资产管理规模达3190亿美元。Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW01R3VOYXNHZ0FTd0dnZUVYdnd2MjFRVE5iRXAtZ0NaRW9GOEZDZ0F1MU9tV2RWbkRuVGg1MG13VDBacjZUZW1McUtuUzR0MmFuaElBLWFHNDFVcUt4eEdTTjNsaXBYZFhWZkh1bjkydUFLZHlYekZvM1pUMFJfbmJNT0RpWjE0TENxQ1d5RDkwYkE5WDZsZDdNbmxTVDhN?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-09-25",
+            "lede": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+            "articleExcerpt": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union. Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+            "contentFingerprint": "bb81c31de3ed413d",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordSectors": [],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly references Blue Owl Capital's 'credit platform' and AUM growth in that context, aligning with its tracked credit-related business (e.g., direct lending, structured credit, CLOs); no mention of non-credit strategies."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 8.23,
+              "finalScore": 22.23,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -21529,6 +21572,49 @@
             "keywordScore": 14,
             "semanticScore": 6.1,
             "finalScore": 20.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-25-cc84ca45ef60",
+          "title": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union",
+          "titleZh": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union",
+          "summary": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+          "summaryZh": "Blue Owl Capital扩大信贷平台规模，资产管理规模达3190亿美元。Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW01R3VOYXNHZ0FTd0dnZUVYdnd2MjFRVE5iRXAtZ0NaRW9GOEZDZ0F1MU9tV2RWbkRuVGg1MG13VDBacjZUZW1McUtuUzR0MmFuaElBLWFHNDFVcUt4eEdTTjNsaXBYZFhWZkh1bjkydUFLZHlYekZvM1pUMFJfbmJNT0RpWjE0TENxQ1d5RDkwYkE5WDZsZDdNbmxTVDhN?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-09-25",
+          "lede": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+          "articleExcerpt": "Blue Owl Capital expands credit platform scale with $319 billion in assets under management - Traders Union. Blue Owl Capital expands credit platform scale with $319 billion in assets under management Traders Union",
+          "contentFingerprint": "bb81c31de3ed413d",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordSectors": [],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly references Blue Owl Capital's 'credit platform' and AUM growth in that context, aligning with its tracked credit-related business (e.g., direct lending, structured credit, CLOs); no mention of non-credit strategies."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 8.23,
+            "finalScore": 22.23,
             "semanticEnabled": true
           }
         },
