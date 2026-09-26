@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-25T23:28:07.168360+00:00",
+  "updatedAt": "2026-09-26T01:39:00.967747+00:00",
   "scope": {
     "regions": [
       "US",
@@ -20649,6 +20649,51 @@
               "finalScore": 25.06,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-24-c404509a243a",
+            "title": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
+            "titleZh": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
+            "summary": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+            "summaryZh": "KKR信贷收入基金上调收益目标，因私募信贷规模扩大 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEhVMnJrRXUzenJnNV9ZVXJFY2sxMUQ4eG9rMmVfZXh2RUdVLWhoc2l2U2tWZHZ6bmIyM0ZEbHJXLXBuUndtNFl5OFEwNXJBczh3S3FXeXJXMHUtMGRhRWVQNmZ1RTUxb3FXTTgzM3A3RklTcHBjN2tpTlE4ZjNMYndUR094dnItMEtrNHZXUl9LekFqdENZdGF0YmlfQU12MGd3cF9LaW9wOU9odlozTUtVN1VubHZrRGxZ?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-09-24",
+            "lede": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+            "articleExcerpt": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks. KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+            "contentFingerprint": "bcf1cbc0b15f0dce",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [
+                "private credit / direct lending"
+              ],
+              "llmExclude": false,
+              "llmReason": "Article explicitly references 'KKR Credit Income Fund' and its income targets rising due to growth in private credit — a core credit-focused vehicle under KKR's credit business."
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.82,
+              "finalScore": 19.82,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -21240,6 +21285,51 @@
           }
         },
         {
+          "id": "2026-09-24-c404509a243a",
+          "title": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
+          "titleZh": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
+          "summary": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+          "summaryZh": "KKR信贷收入基金上调收益目标，因私募信贷规模扩大 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEhVMnJrRXUzenJnNV9ZVXJFY2sxMUQ4eG9rMmVfZXh2RUdVLWhoc2l2U2tWZHZ6bmIyM0ZEbHJXLXBuUndtNFl5OFEwNXJBczh3S3FXeXJXMHUtMGRhRWVQNmZ1RTUxb3FXTTgzM3A3RklTcHBjN2tpTlE4ZjNMYndUR094dnItMEtrNHZXUl9LekFqdENZdGF0YmlfQU12MGd3cF9LaW9wOU9odlozTUtVN1VubHZrRGxZ?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-09-24",
+          "lede": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+          "articleExcerpt": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks. KKR Credit Income Fund Lifts Income Targets as Private Credit Grows TipRanks",
+          "contentFingerprint": "bcf1cbc0b15f0dce",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [
+              "private credit / direct lending"
+            ],
+            "llmExclude": false,
+            "llmReason": "Article explicitly references 'KKR Credit Income Fund' and its income targets rising due to growth in private credit — a core credit-focused vehicle under KKR's credit business."
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.82,
+            "finalScore": 19.82,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-24-8fda8045b052",
           "title": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
           "titleZh": "Baseline Integrates with Xactus to Bring Verification Directly Into the Private Lending Workflow",
@@ -21708,6 +21798,24 @@
           }
         }
       ]
+    },
+    "2026-09-26": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
