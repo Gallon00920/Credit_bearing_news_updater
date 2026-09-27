@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-27T12:40:47.219512+00:00",
+  "updatedAt": "2026-09-27T17:27:26.831274+00:00",
   "scope": {
     "regions": [
       "US",
@@ -22609,7 +22609,49 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-09-27-baf94235a485",
+            "title": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus",
+            "titleZh": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus",
+            "summary": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEY2enB2azJqTk1wM3Z0YU5SQlZBbGVKWktRVndLaFZnUjY4S1d4NkQ4V3VPcnEzcE8yd29yalQwWmJ6Mm1vQVdKSmxiUmg2Z2hPem84anp6WjRta3JPRHlOZjFVaERWSjhhUEU2S1FpeEs4UHlfUldsUHhGYXpJZE5IcHlqSnZIR0lDdHVwSzVRUGFwd2tQYURYZzA3YUNIc05hTUtKT3dMOVhWTlktVUI3cGZ3RGxXeVMxMGk5SVBqbVFlMXAzUHlRTTBBZmYzMDE3cUh3?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-09-27",
+            "lede": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+            "articleExcerpt": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus. Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+            "contentFingerprint": "6e355675d90a088d",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.26,
+              "finalScore": 19.259999999999998,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
@@ -22768,6 +22810,47 @@
             "keywordScore": 4,
             "semanticScore": 6.11,
             "finalScore": 10.11,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-27-baf94235a485",
+          "title": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus",
+          "titleZh": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus",
+          "summary": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEY2enB2azJqTk1wM3Z0YU5SQlZBbGVKWktRVndLaFZnUjY4S1d4NkQ4V3VPcnEzcE8yd29yalQwWmJ6Mm1vQVdKSmxiUmg2Z2hPem84anp6WjRta3JPRHlOZjFVaERWSjhhUEU2S1FpeEs4UHlfUldsUHhGYXpJZE5IcHlqSnZIR0lDdHVwSzVRUGFwd2tQYURYZzA3YUNIc05hTUtKT3dMOVhWTlktVUI3cGZ3RGxXeVMxMGk5SVBqbVFlMXAzUHlRTTBBZmYzMDE3cUh3?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-09-27",
+          "lede": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+          "articleExcerpt": "Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight - GuruFocus. Private Credit Fund Redemptions Ease in Q3, Apollo Global (APO) Dividend Sustainability Under Spotlight GuruFocus",
+          "contentFingerprint": "6e355675d90a088d",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.26,
+            "finalScore": 19.259999999999998,
             "semanticEnabled": true
           }
         }
