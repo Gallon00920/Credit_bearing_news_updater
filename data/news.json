@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-27T00:10:25.593232+00:00",
+  "updatedAt": "2026-09-27T06:07:37.732194+00:00",
   "scope": {
     "regions": [
       "US",
@@ -22237,6 +22237,43 @@
               "finalScore": 7.01,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-26-4367752f3593",
+            "title": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits",
+            "titleZh": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits",
+            "summary": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUE84UWVTbWJkd1VJRlY0Vjk2YzdHZnpkZDFPYUhsMzFOb2psbWM2bC1NYzlJWDFHeTk3Q3l5aW8zUXgyVXVFYndLSDIxeUpQYUNISG5fb3dmNjFoOFVocEQtUE12Vmc0b1BXcm9CTlF4eGxMODhjeU9GbGQ3MWJkX20wSzNTSXlBemp6eGdFVmc0MnFYM1pRNGVzdXlnMGZmWVpTaHZJZXBOLXBGTGpZUmpaRmc4U3NnZEk5c1pJR2w3UWtjOUtlczdobUdoZ2hRdVg4dXYwR2dtMXZKQ083QWxvOS1sb004MUJ2NjRlSQ?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-09-26",
+            "lede": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+            "articleExcerpt": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits. Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+            "contentFingerprint": "f2e7470b2408695b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.88,
+              "finalScore": 7.88,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -22361,6 +22398,43 @@
             "keywordScore": 3,
             "semanticScore": 4.01,
             "finalScore": 7.01,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-26-4367752f3593",
+          "title": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits",
+          "titleZh": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits",
+          "summary": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUE84UWVTbWJkd1VJRlY0Vjk2YzdHZnpkZDFPYUhsMzFOb2psbWM2bC1NYzlJWDFHeTk3Q3l5aW8zUXgyVXVFYndLSDIxeUpQYUNISG5fb3dmNjFoOFVocEQtUE12Vmc0b1BXcm9CTlF4eGxMODhjeU9GbGQ3MWJkX20wSzNTSXlBemp6eGdFVmc0MnFYM1pRNGVzdXlnMGZmWVpTaHZJZXBOLXBGTGpZUmpaRmc4U3NnZEk5c1pJR2w3UWtjOUtlczdobUdoZ2hRdVg4dXYwR2dtMXZKQ083QWxvOS1sb004MUJ2NjRlSQ?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-09-26",
+          "lede": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+          "articleExcerpt": "Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions - Stocktwits. Arthur Hayes Tells Jerome Powell To ‘Warm Up’ Printer After Blue Owl Freezes Redemptions Stocktwits",
+          "contentFingerprint": "f2e7470b2408695b",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.88,
+            "finalScore": 7.88,
             "semanticEnabled": true
           }
         }
