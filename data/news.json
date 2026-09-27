@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-27T20:41:47.136404+00:00",
+  "updatedAt": "2026-09-27T23:35:42.248035+00:00",
   "scope": {
     "regions": [
       "US",
@@ -22647,7 +22647,45 @@
             }
           }
         ],
-        "PAG": [],
+        "PAG": [
+          {
+            "id": "2026-09-27-ae2f7c6c7220",
+            "title": "Asian investment giant PAG takes control of Bathla developments - AFR",
+            "titleZh": "Asian investment giant PAG takes control of Bathla developments - AFR",
+            "summary": "Asian investment giant PAG takes control of Bathla developments AFR",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmh4NDN2dWJnZTBOZXNXV1FFUlA3ZHFJVGx4QkNZZTFWcERpbjFDNmxMaDlJWEdqZlQzWktLWWVZT1N0Q3NjZFdzQ2RybXJUb1lzdXZvelRlcmp1NS13aE9pZDJJNFRFQ3pTc2YzVjVUQWJjaUJQOVVGcUFTTU5McXlobHhkT1ZqLVZTVkJIQ1dvWXo1SGtHWkNqRDV1eW5sVzlwbnpQRDR6UHNoSFEteEhMV1N6V2ROS1BUTFNxcV8?oc=5",
+            "source": "AFR",
+            "publishedAt": "2026-09-27",
+            "lede": "Asian investment giant PAG takes control of Bathla developments AFR",
+            "articleExcerpt": "Asian investment giant PAG takes control of Bathla developments - AFR. Asian investment giant PAG takes control of Bathla developments AFR",
+            "contentFingerprint": "e9b8aa5925ce9a7d",
+            "region": "Global",
+            "gps": [
+              "PAG"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "PAG"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.65,
+              "finalScore": 7.65,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
@@ -22939,6 +22977,43 @@
             "keywordScore": 4,
             "semanticScore": 6.11,
             "finalScore": 10.11,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-27-ae2f7c6c7220",
+          "title": "Asian investment giant PAG takes control of Bathla developments - AFR",
+          "titleZh": "Asian investment giant PAG takes control of Bathla developments - AFR",
+          "summary": "Asian investment giant PAG takes control of Bathla developments AFR",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmh4NDN2dWJnZTBOZXNXV1FFUlA3ZHFJVGx4QkNZZTFWcERpbjFDNmxMaDlJWEdqZlQzWktLWWVZT1N0Q3NjZFdzQ2RybXJUb1lzdXZvelRlcmp1NS13aE9pZDJJNFRFQ3pTc2YzVjVUQWJjaUJQOVVGcUFTTU5McXlobHhkT1ZqLVZTVkJIQ1dvWXo1SGtHWkNqRDV1eW5sVzlwbnpQRDR6UHNoSFEteEhMV1N6V2ROS1BUTFNxcV8?oc=5",
+          "source": "AFR",
+          "publishedAt": "2026-09-27",
+          "lede": "Asian investment giant PAG takes control of Bathla developments AFR",
+          "articleExcerpt": "Asian investment giant PAG takes control of Bathla developments - AFR. Asian investment giant PAG takes control of Bathla developments AFR",
+          "contentFingerprint": "e9b8aa5925ce9a7d",
+          "region": "Global",
+          "gps": [
+            "PAG"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "PAG"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.65,
+            "finalScore": 7.65,
             "semanticEnabled": true
           }
         },
