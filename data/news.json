@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-28T18:01:14.110615+00:00",
+  "updatedAt": "2026-09-28T22:56:16.892316+00:00",
   "scope": {
     "regions": [
       "US",
@@ -23488,7 +23488,45 @@
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
-        "NB": [],
+        "NB": [
+          {
+            "id": "2026-09-28-f23bc1a79777",
+            "title": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman",
+            "titleZh": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman",
+            "summary": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPb2hza3F1MVhtRXRyQmdhTGZrRndjdHdIUlQ1dEVvQUVoZ0RoQTdvRktrMlBkdzA4R2x0UzN0VHJkUXZET2NKaFhRdHVIOGlaZ3pZT01HZjdKbF9EZ0ZJNUk4U2xYR3l6ZHN4S2JBSVZYcmc0bF91RE50Nm5QV1lJX3pmSU1XNlhXd21aVUVPTXJtT3A5UnFsT0R2Wl9XVmhxNFl4c1V0M0c3RzNyZzJXQ2hFZktqZGdXWmhXTXo2TGkzRHNGd21qSE9SaVJ0SWh0NUMyQXlndTFrdWRNU2NOckoxdnp1MHlmc0J3QmtXU3ZNM0o3WV9LQUZUcEVJZDdfQ3l2MVdrZDFhUXRG?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-09-28",
+            "lede": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+            "articleExcerpt": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman. When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+            "contentFingerprint": "e986231339fe7825",
+            "region": "US",
+            "gps": [
+              "NB"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "NB"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.02,
+              "finalScore": 9.02,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
         "Bain Capital": [],
         "Guggenheim": [],
@@ -23603,6 +23641,43 @@
             "keywordScore": 3,
             "semanticScore": 4.65,
             "finalScore": 7.65,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-28-f23bc1a79777",
+          "title": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman",
+          "titleZh": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman",
+          "summary": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPb2hza3F1MVhtRXRyQmdhTGZrRndjdHdIUlQ1dEVvQUVoZ0RoQTdvRktrMlBkdzA4R2x0UzN0VHJkUXZET2NKaFhRdHVIOGlaZ3pZT01HZjdKbF9EZ0ZJNUk4U2xYR3l6ZHN4S2JBSVZYcmc0bF91RE50Nm5QV1lJX3pmSU1XNlhXd21aVUVPTXJtT3A5UnFsT0R2Wl9XVmhxNFl4c1V0M0c3RzNyZzJXQ2hFZktqZGdXWmhXTXo2TGkzRHNGd21qSE9SaVJ0SWh0NUMyQXlndTFrdWRNU2NOckoxdnp1MHlmc0J3QmtXU3ZNM0o3WV9LQUZUcEVJZDdfQ3l2MVdrZDFhUXRG?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-09-28",
+          "lede": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+          "articleExcerpt": "When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets - Neuberger Berman. When Capital Is No Longer Free: Rising U.S. Treasury Yields and the Repricing of Global Assets Neuberger Berman",
+          "contentFingerprint": "e986231339fe7825",
+          "region": "US",
+          "gps": [
+            "NB"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "NB"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.02,
+            "finalScore": 9.02,
             "semanticEnabled": true
           }
         }
