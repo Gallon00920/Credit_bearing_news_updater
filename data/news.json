@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-27T23:35:42.248035+00:00",
+  "updatedAt": "2026-09-28T02:42:59.151169+00:00",
   "scope": {
     "regions": [
       "US",
@@ -22563,6 +22563,47 @@
               "finalScore": 23.64,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-27-1e55388d91fa",
+            "title": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily",
+            "titleZh": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily",
+            "summary": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dKWkFQNUF5NGtxb2VxOW1pTGZySGQtQkdnZ3ZMZnJWYVFLMllLV2Z3ekNvOW1WQ2IwNGxSTTQ3RFNISGNPZFBwdjdxMnU2YVE0TFktdjlkbzAxV1M3OWVzZVZUbEx2TmUzN0ZldS12STFMc2xLVmNWZFFmOE5uNXhaS1BCQ1g3Z21wT0dRdEppcVhsYmI1cFRPTnNZSWlybmFvLTlXQmE?oc=5",
+            "source": "Seoul Economic Daily",
+            "publishedAt": "2026-09-27",
+            "lede": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+            "articleExcerpt": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily. Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+            "contentFingerprint": "d2bef9e091d57158",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "software"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "software"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.82,
+              "finalScore": 10.82,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -22903,6 +22944,47 @@
           }
         },
         {
+          "id": "2026-09-27-1e55388d91fa",
+          "title": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily",
+          "titleZh": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily",
+          "summary": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dKWkFQNUF5NGtxb2VxOW1pTGZySGQtQkdnZ3ZMZnJWYVFLMllLV2Z3ekNvOW1WQ2IwNGxSTTQ3RFNISGNPZFBwdjdxMnU2YVE0TFktdjlkbzAxV1M3OWVzZVZUbEx2TmUzN0ZldS12STFMc2xLVmNWZFFmOE5uNXhaS1BCQ1g3Z21wT0dRdEppcVhsYmI1cFRPTnNZSWlybmFvLTlXQmE?oc=5",
+          "source": "Seoul Economic Daily",
+          "publishedAt": "2026-09-27",
+          "lede": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+          "articleExcerpt": "Oracle Delays Data Center Rent Payments in Notice to Blue Owl - Seoul Economic Daily. Oracle Delays Data Center Rent Payments in Notice to Blue Owl Seoul Economic Daily",
+          "contentFingerprint": "d2bef9e091d57158",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "software"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "software"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.82,
+            "finalScore": 10.82,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-27-c404509a243a",
           "title": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
           "titleZh": "KKR Credit Income Fund Lifts Income Targets as Private Credit Grows - TipRanks",
@@ -23059,6 +23141,24 @@
           }
         }
       ]
+    },
+    "2026-09-28": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
