@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-29T02:35:20.968219+00:00",
+  "updatedAt": "2026-09-29T09:28:39.518854+00:00",
   "scope": {
     "regions": [
       "US",
@@ -23685,10 +23685,90 @@
     },
     "2026-09-29": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-09-29-f7c14b4e50f2",
+            "title": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha",
+            "titleZh": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha",
+            "summary": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTJyNzMwS2lpQUdQa1haSXQzYlhWOWVhVGxmNGdEbmJBaGU3Z3UtN2J5bkdpRlZ2eGQzYkd5TW9SUFpnUVhVOXpaa2lyVVpybEkxSHRuQUZwanNaeTZkejRiaWoxTm1xX2IxZ0xSTlN5ZVBTa3RFTE13VzV0T2Z0ZW5n?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-09-29",
+            "lede": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+            "articleExcerpt": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha. Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+            "contentFingerprint": "81e7125992cf6eb2",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.78,
+              "finalScore": 9.780000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-09-29-403a6cbb02e9",
+            "title": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch",
+            "titleZh": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch",
+            "summary": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc21hb00zTVNrcnlUVktCaXlSbUt5ZFRJYkpMaWVna3RZMjFlaW5fVnNHdGVvUWpXNi0tWEVRci15dlpvbzNzeVM1a2ZPZVdmYUgyazQ1bkJHT0h5NVFKX25JVFFTMFlIRmlzQjZFZW85dFJJT1Zvd25qcGNBZTRwRV9GcXUwSW5XN1lJWmVhZFRNQndWWEdBRzVfUGpTVjQ?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-09-29",
+            "lede": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+            "articleExcerpt": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch. KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+            "contentFingerprint": "e4f3bbea006284bc",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.4,
+              "finalScore": 20.4,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -23699,7 +23779,86 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-09-29-f7c14b4e50f2",
+          "title": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha",
+          "titleZh": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha",
+          "summary": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTJyNzMwS2lpQUdQa1haSXQzYlhWOWVhVGxmNGdEbmJBaGU3Z3UtN2J5bkdpRlZ2eGQzYkd5TW9SUFpnUVhVOXpaa2lyVVpybEkxSHRuQUZwanNaeTZkejRiaWoxTm1xX2IxZ0xSTlN5ZVBTa3RFTE13VzV0T2Z0ZW5n?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-09-29",
+          "lede": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+          "articleExcerpt": "Blue Owl: The Selloff Looks Overdone (NYSE:OWL) - Seeking Alpha. Blue Owl: The Selloff Looks Overdone (NYSE:OWL) Seeking Alpha",
+          "contentFingerprint": "81e7125992cf6eb2",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.78,
+            "finalScore": 9.780000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-29-403a6cbb02e9",
+          "title": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch",
+          "titleZh": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch",
+          "summary": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc21hb00zTVNrcnlUVktCaXlSbUt5ZFRJYkpMaWVna3RZMjFlaW5fVnNHdGVvUWpXNi0tWEVRci15dlpvbzNzeVM1a2ZPZVdmYUgyazQ1bkJHT0h5NVFKX25JVFFTMFlIRmlzQjZFZW85dFJJT1Zvd25qcGNBZTRwRV9GcXUwSW5XN1lJWmVhZFRNQndWWEdBRzVfUGpTVjQ?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-09-29",
+          "lede": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+          "articleExcerpt": "KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs - Alternatives Watch. KKR’s AI infrastructure company takes in $1bn; Cox Capital launches tenders for two BDCs Alternatives Watch",
+          "contentFingerprint": "e4f3bbea006284bc",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.4,
+            "finalScore": 20.4,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
