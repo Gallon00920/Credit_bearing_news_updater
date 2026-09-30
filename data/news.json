@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-29T21:23:22.013730+00:00",
+  "updatedAt": "2026-09-30T01:07:05.077818+00:00",
   "scope": {
     "regions": [
       "US",
@@ -24048,7 +24048,49 @@
             }
           }
         ],
-        "Bayview": [],
+        "Bayview": [
+          {
+            "id": "2026-09-29-6799560d4323",
+            "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+            "source": "Mortgage Soup",
+            "publishedAt": "2026-09-29",
+            "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "contentFingerprint": "a929236ebb990f26",
+            "region": "Global",
+            "gps": [
+              "Bayview"
+            ],
+            "sectors": [
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bayview"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "mortgage"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.32,
+              "finalScore": 19.32,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
@@ -24421,6 +24463,47 @@
           }
         },
         {
+          "id": "2026-09-29-6799560d4323",
+          "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+          "source": "Mortgage Soup",
+          "publishedAt": "2026-09-29",
+          "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "contentFingerprint": "a929236ebb990f26",
+          "region": "Global",
+          "gps": [
+            "Bayview"
+          ],
+          "sectors": [
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bayview"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "mortgage"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.32,
+            "finalScore": 19.32,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-29-ac1de2febe18",
           "title": "Form 4 Apollo Commercial Real Estate Finance Inc For: 29 September - Investing.com India",
           "titleZh": "Form 4 Apollo Commercial Real Estate Finance Inc For: 29 September - Investing.com India",
@@ -24458,6 +24541,108 @@
             "keywordScore": 14,
             "semanticScore": 5.64,
             "finalScore": 19.64,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-09-30": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [
+          {
+            "id": "2026-09-30-949decf9c13a",
+            "title": "Pagaya launches its first revolving facility for $700 million",
+            "titleZh": "Pagaya launches its first revolving facility for $700 million",
+            "summary": "The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://asreport.americanbanker.com/news/pagaya-launches-its-first-revolving-facility-for-700-million",
+            "source": "Asset Securitization Report",
+            "publishedAt": "2026-09-30",
+            "lede": "The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+            "articleExcerpt": "Pagaya launches its first revolving facility for $700 million. The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+            "contentFingerprint": "f5ec5d767de2f41c",
+            "region": "US",
+            "gps": [
+              "PAG"
+            ],
+            "sectors": [
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "PAG"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.24,
+              "finalScore": 21.240000000000002,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": [
+        {
+          "id": "2026-09-30-949decf9c13a",
+          "title": "Pagaya launches its first revolving facility for $700 million",
+          "titleZh": "Pagaya launches its first revolving facility for $700 million",
+          "summary": "The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://asreport.americanbanker.com/news/pagaya-launches-its-first-revolving-facility-for-700-million",
+          "source": "Asset Securitization Report",
+          "publishedAt": "2026-09-30",
+          "lede": "The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+          "articleExcerpt": "Pagaya launches its first revolving facility for $700 million. The first variable funding note for Pagaya will contain newly originated consumer loans as they attain seasoning and await securitization.",
+          "contentFingerprint": "f5ec5d767de2f41c",
+          "region": "US",
+          "gps": [
+            "PAG"
+          ],
+          "sectors": [
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "PAG"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.24,
+            "finalScore": 21.240000000000002,
             "semanticEnabled": true
           }
         }
