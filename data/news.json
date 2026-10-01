@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-01T01:54:07.070472+00:00",
+  "updatedAt": "2026-10-01T08:13:21.671211+00:00",
   "scope": {
     "regions": [
       "US",
@@ -24964,6 +24964,43 @@
               "finalScore": 7.96,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-30-173c04ff2db8",
+            "title": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times",
+            "titleZh": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times",
+            "summary": "KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlpSOEdrMHlJVTI3MGZyRGZNb3Y2aUVlbzB6Mk5FRmlMU0ZiQXdWRFBYZHdnXzhIZ0o2MW9hRFlJNE9fOGkyVXp4RlROZjNkVUpETlF2b1d6NFZGYXdBZVMyZExFWFFUQ1M4Z0c5LVdwbEY2RUdkT0RZbEhLOHZEMXdRUFU?oc=5",
+            "source": "Financial Times",
+            "publishedAt": "2026-09-30",
+            "lede": "KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+            "articleExcerpt": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times. KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+            "contentFingerprint": "41d9c3726861bba0",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.75,
+              "finalScore": 19.75,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [
@@ -25165,6 +25202,43 @@
             "keywordScore": 3,
             "semanticScore": 4.96,
             "finalScore": 7.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-09-30-173c04ff2db8",
+          "title": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times",
+          "titleZh": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times",
+          "summary": "KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlpSOEdrMHlJVTI3MGZyRGZNb3Y2aUVlbzB6Mk5FRmlMU0ZiQXdWRFBYZHdnXzhIZ0o2MW9hRFlJNE9fOGkyVXp4RlROZjNkVUpETlF2b1d6NFZGYXdBZVMyZExFWFFUQ1M4Z0c5LVdwbEY2RUdkT0RZbEhLOHZEMXdRUFU?oc=5",
+          "source": "Financial Times",
+          "publishedAt": "2026-09-30",
+          "lede": "KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+          "articleExcerpt": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times. KKR warns of growing credit market risks from AI borrowing spree Financial Times",
+          "contentFingerprint": "41d9c3726861bba0",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.75,
+            "finalScore": 19.75,
             "semanticEnabled": true
           }
         },
