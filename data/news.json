@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-09-30T22:54:34.492253+00:00",
+  "updatedAt": "2026-10-01T01:54:07.070472+00:00",
   "scope": {
     "regions": [
       "US",
@@ -24886,6 +24886,43 @@
               "finalScore": 17.84,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-09-30-bc9e015a6535",
+            "title": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK",
+            "titleZh": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK",
+            "summary": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkaEVQZk9ZU2p2eHE5cGJYWVJjbW5JY2NCa1cyVGg3Y3pvMzhXd2RvMWdBR1cxLXRnZjhTTHBoMkVBZTdtMnBnaUVreXJDelpaOTFSQzNtNUF5SlhtOFJULQ?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-09-30",
+            "lede": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK. Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+            "contentFingerprint": "27234f33719484ca",
+            "region": "Europe",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 6.79,
+              "finalScore": 18.79,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -25058,6 +25095,43 @@
           }
         },
         {
+          "id": "2026-09-30-bc9e015a6535",
+          "title": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK",
+          "titleZh": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK",
+          "summary": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkaEVQZk9ZU2p2eHE5cGJYWVJjbW5JY2NCa1cyVGg3Y3pvMzhXd2RvMWdBR1cxLXRnZjhTTHBoMkVBZTdtMnBnaUVreXJDelpaOTFSQzNtNUF5SlhtOFJULQ?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-09-30",
+          "lede": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance UK. Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance UK",
+          "contentFingerprint": "27234f33719484ca",
+          "region": "Europe",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 6.79,
+            "finalScore": 18.79,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-09-30-f7f9c6018735",
           "title": "KKR to present at Barclays Global Financial Services Conference - scanx.trade",
           "titleZh": "KKR to present at Barclays Global Financial Services Conference - scanx.trade",
@@ -25173,6 +25247,24 @@
           }
         }
       ]
+    },
+    "2026-10-01": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
