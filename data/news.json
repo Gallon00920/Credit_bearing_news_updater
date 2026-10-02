@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-02T06:43:28.410182+00:00",
+  "updatedAt": "2026-10-02T13:37:04.307175+00:00",
   "scope": {
     "regions": [
       "US",
@@ -26066,7 +26066,45 @@
           }
         ],
         "Basepoint": [],
-        "NB": [],
+        "NB": [
+          {
+            "id": "2026-10-01-ff1b5a767ecb",
+            "title": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman",
+            "titleZh": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman",
+            "summary": "AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11N1JNMmtaZmlwSll1UzVLX3lWVnFDdEVSQVFxSVZNdjJXQURxMWxZdjdmU2ZfTThfdTFhN1ZOcEhCelVXeEdNUm9HMDBJMDNmTGlBU2VjUUlJWW5LZFVoZjFGbV9fNVZxV1g0dUc4dE0tRXFWaXdrUHhaMFZ6dw?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-10-01",
+            "lede": "AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+            "articleExcerpt": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman. AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+            "contentFingerprint": "c837ee0b683614f3",
+            "region": "Global",
+            "gps": [
+              "NB"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "NB"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.52,
+              "finalScore": 15.52,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [
           {
             "id": "2026-10-01-f9da679c1dc4",
@@ -26221,6 +26259,43 @@
               "keywordScore": 11,
               "semanticScore": 5.86,
               "finalScore": 16.86,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-01-1eeaabf3ff7b",
+            "title": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance",
+            "titleZh": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance",
+            "summary": "Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcngyOUdGUDdTMEx6dnFDOXhtUklZN1VQcUUyNDFfVmowazRaZmtYdkhPTUVOa1VIQ0FtNVRyU1F6YzNPWUpKekJLc2JVVjJmOWhlYjJwT204V3VsWXpiZ2h6RUc2OUZaRjRBWVhCVFM1NWJCZjNCR2VfS0FEMl9Za0ZnbUtlamE0a0ktYUU3MENZZw?oc=5",
+            "source": "Briefs Finance",
+            "publishedAt": "2026-10-01",
+            "lede": "Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+            "articleExcerpt": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance. Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+            "contentFingerprint": "81be36f9db815d0f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.65,
+              "finalScore": 16.65,
               "semanticEnabled": true
             }
           }
@@ -26865,6 +26940,43 @@
           }
         },
         {
+          "id": "2026-10-01-ff1b5a767ecb",
+          "title": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman",
+          "titleZh": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman",
+          "summary": "AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11N1JNMmtaZmlwSll1UzVLX3lWVnFDdEVSQVFxSVZNdjJXQURxMWxZdjdmU2ZfTThfdTFhN1ZOcEhCelVXeEdNUm9HMDBJMDNmTGlBU2VjUUlJWW5LZFVoZjFGbV9fNVZxV1g0dUc4dE0tRXFWaXdrUHhaMFZ6dw?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-10-01",
+          "lede": "AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+          "articleExcerpt": "AI Financing Is Reshaping Corporate Credit - Neuberger Berman. AI Financing Is Reshaping Corporate Credit Neuberger Berman",
+          "contentFingerprint": "c837ee0b683614f3",
+          "region": "Global",
+          "gps": [
+            "NB"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "NB"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.52,
+            "finalScore": 15.52,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-01-f9da679c1dc4",
           "title": "Apollo Expands Daily Pricing to All Credit Assets, Advancing Transparency in Private Credit - Apollo Global Management",
           "titleZh": "Apollo Expands Daily Pricing to All Credit Assets, Advancing Transparency in Private Credit - Apollo Global Management",
@@ -27021,6 +27133,43 @@
           }
         },
         {
+          "id": "2026-10-01-1eeaabf3ff7b",
+          "title": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance",
+          "titleZh": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance",
+          "summary": "Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcngyOUdGUDdTMEx6dnFDOXhtUklZN1VQcUUyNDFfVmowazRaZmtYdkhPTUVOa1VIQ0FtNVRyU1F6YzNPWUpKekJLc2JVVjJmOWhlYjJwT204V3VsWXpiZ2h6RUc2OUZaRjRBWVhCVFM1NWJCZjNCR2VfS0FEMl9Za0ZnbUtlamE0a0ktYUU3MENZZw?oc=5",
+          "source": "Briefs Finance",
+          "publishedAt": "2026-10-01",
+          "lede": "Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+          "articleExcerpt": "Apollo Adds Daily Pricing to $850B Credit Platform - Briefs Finance. Apollo Adds Daily Pricing to $850B Credit Platform Briefs Finance",
+          "contentFingerprint": "81be36f9db815d0f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.65,
+            "finalScore": 16.65,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-01-19dbea18b00b",
           "title": "Bain Capital Private Credit receives BBB- expected rating from Fitch - Traders Union",
           "titleZh": "Bain Capital Private Credit receives BBB- expected rating from Fitch - Traders Union",
@@ -27143,7 +27292,213 @@
     },
     "2026-10-02": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-02-7a3e9a64ddfd",
+            "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters",
+            "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters",
+            "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUlBeEJPRzRGMUNUWWFBRWpJVzRKNU5zVHI2aDRKN1hIYWxRbE5YSDNFbHd1aHFnOC13SEVYZnhTM0g5TEJYQnd6NjZJOUtCVWFtcVp5UkVkMlM3WHJpcUxXcTJOaHdFNnBTbDNEZGpXVWJFNnNma09kaHU5VzRTYWZwX0JNdGF3RlZpU1dUR0k2a2laeGQwa0ZvYTlWUEN5Wl9MdTNQdEZfSkExRVJDeFlFb0FPLUc2YkR0ZHFmY3BPS2pnVkZORWoyNnY?oc=5",
+            "source": "Reuters",
+            "publishedAt": "2026-10-02",
+            "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+            "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+            "contentFingerprint": "f8b36851f91a6642",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.98,
+              "finalScore": 22.98,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-02-a37cc330e4d5",
+            "title": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com",
+            "titleZh": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com",
+            "summary": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUdmamxEUUVXS0FZbUlWY3htX0p4cm50R29KSnI2eW9COGNsVjI5TzI5SEdZNGQzaDdodXZrSEJ4UFVGU0xXWW91d193TS1MOWEyR3hRdGZCTFNZQXJFTDd0aXZvYW5NZmRKd3BaSEdpZ0FjVkh2eThUc2ZVQWdDYjR4dGJyU3lScGhlNWx6clJaeE1IckpqQ1laU19mX0twQU9fS2pXXy1EU3lEeWpGdA?oc=5",
+            "source": "bloomberg.com",
+            "publishedAt": "2026-10-02",
+            "lede": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+            "articleExcerpt": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com. Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+            "contentFingerprint": "29481406fb8fa3b4",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.1,
+              "finalScore": 22.1,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-02-fd7e7734a776",
+            "title": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union",
+            "titleZh": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union",
+            "summary": "Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2k0SWJ3RVFQakotbG0zMHByT2tzcFhlekZxcEpuQTNwSGE2dWRUS3pSV3pzaVJ1MkhITHNFVzlFNnQ5enZmeW1LbW5jZzBrbW43VGE3d1g2RVRwVWh1MExIZWdXTk9zZnNKMVI4cG9JWWdVNUU3b01VcTNzWTQtLTE3S3lRWDNsMGZ1bVJNUUlWTGxWS0FDUGZmMmI5T3NQ?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-10-02",
+            "lede": "Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+            "articleExcerpt": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union. Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+            "contentFingerprint": "f42fb555ab255a7e",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.17,
+              "finalScore": 20.17,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-02-525fddacbc58",
+            "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM",
+            "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM",
+            "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1RsTmxuXzJOdmV3T05QZDI3Wjc1VGRwc0g4cnZoSHV4Q2FDUUlxVk9vWWQ3am5Od2hjZEVldHFjYTBEN2VUbENPQkEtbW9rTTFUQW82Nkt0RzhpWmRyVGxnS1dYMTJhdXJjdkt5c00zcUZsTVJiRW1xNE9OdTRYdVphaVZpZ3dDazlOVHRmYVVNeTBQQTFFTlNLaVdPdFZpQnhkUVVpZDVNM09i?oc=5",
+            "source": "KELO-AM",
+            "publishedAt": "2026-10-02",
+            "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+            "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+            "contentFingerprint": "e8e4a979e82769a0",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.01,
+              "finalScore": 20.009999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-02-5d30bfd868fb",
+            "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com",
+            "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com",
+            "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjdtX056ZGFfQWxsWlEzbDJXS0ZickpCcmZXb3VoN0p5OVR6ajdsOGt1WWxPMVAtR0lwUFIyTlBtLXpaemdVMlhacFpUeVNNenFNcHYtc01fX3dMcmt1bFZUU181OGttd3RSdkNyRnFkWWVfZ09yMVZHX0kyY2drbng4UWVhQ19RU3pITHVHMGhFVTBhZHV4WmVNbEpNQUxmc2JfWk92TnE4NXgySFRtTk5NZ3d1R09HZEpjMzgtVGN4WGlqeGpmMW4zdE8?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-10-02",
+            "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+            "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+            "contentFingerprint": "6f5f7e245ca86af7",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.93,
+              "finalScore": 19.93,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [],
@@ -27191,11 +27546,258 @@
             }
           }
         ],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-10-02-1dc17228be9b",
+            "title": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke",
+            "titleZh": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke",
+            "summary": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1NvazJWdWN6QWhiUmh4cDRfMUk0NWNEQktDb3hzeTB1LUZXbGt1N3JER3NFQXNVZ3RONmE4YjNiTFpVVlM5Y29VcFNtX2ZITFg0TFZzbF9qYzJiQnEtelpPUl93MXJEa1pfZTV4U1hWYXd4OWp2S3NkWVBMMmgwWVpfZUZJQmR2VHZMLU96Y3NMUFc5UTh0TG1XWU8?oc=5",
+            "source": "streamlinefeed.co.ke",
+            "publishedAt": "2026-10-02",
+            "lede": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+            "articleExcerpt": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke. Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+            "contentFingerprint": "995a6a6fb8bade38",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "real estate"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.99,
+              "finalScore": 19.990000000000002,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-02-7a3e9a64ddfd",
+          "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters",
+          "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters",
+          "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUlBeEJPRzRGMUNUWWFBRWpJVzRKNU5zVHI2aDRKN1hIYWxRbE5YSDNFbHd1aHFnOC13SEVYZnhTM0g5TEJYQnd6NjZJOUtCVWFtcVp5UkVkMlM3WHJpcUxXcTJOaHdFNnBTbDNEZGpXVWJFNnNma09kaHU5VzRTYWZwX0JNdGF3RlZpU1dUR0k2a2laeGQwa0ZvYTlWUEN5Wl9MdTNQdEZfSkExRVJDeFlFb0FPLUc2YkR0ZHFmY3BPS2pnVkZORWoyNnY?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-02",
+          "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+          "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - Reuters. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases Reuters",
+          "contentFingerprint": "f8b36851f91a6642",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.98,
+            "finalScore": 22.98,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-a37cc330e4d5",
+          "title": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com",
+          "titleZh": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com",
+          "summary": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUdmamxEUUVXS0FZbUlWY3htX0p4cm50R29KSnI2eW9COGNsVjI5TzI5SEdZNGQzaDdodXZrSEJ4UFVGU0xXWW91d193TS1MOWEyR3hRdGZCTFNZQXJFTDd0aXZvYW5NZmRKd3BaSEdpZ0FjVkh2eThUc2ZVQWdDYjR4dGJyU3lScGhlNWx6clJaeE1IckpqQ1laU19mX0twQU9fS2pXXy1EU3lEeWpGdA?oc=5",
+          "source": "bloomberg.com",
+          "publishedAt": "2026-10-02",
+          "lede": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+          "articleExcerpt": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests - bloomberg.com. Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests bloomberg.com",
+          "contentFingerprint": "29481406fb8fa3b4",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.1,
+            "finalScore": 22.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-fd7e7734a776",
+          "title": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union",
+          "titleZh": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union",
+          "summary": "Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2k0SWJ3RVFQakotbG0zMHByT2tzcFhlekZxcEpuQTNwSGE2dWRUS3pSV3pzaVJ1MkhITHNFVzlFNnQ5enZmeW1LbW5jZzBrbW43VGE3d1g2RVRwVWh1MExIZWdXTk9zZnNKMVI4cG9JWWdVNUU3b01VcTNzWTQtLTE3S3lRWDNsMGZ1bVJNUUlWTGxWS0FDUGZmMmI5T3NQ?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-10-02",
+          "lede": "Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+          "articleExcerpt": "Blue Owl private credit funds see withdrawal requests ease in third quarter - Traders Union. Blue Owl private credit funds see withdrawal requests ease in third quarter Traders Union",
+          "contentFingerprint": "f42fb555ab255a7e",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.17,
+            "finalScore": 20.17,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-525fddacbc58",
+          "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM",
+          "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM",
+          "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1RsTmxuXzJOdmV3T05QZDI3Wjc1VGRwc0g4cnZoSHV4Q2FDUUlxVk9vWWQ3am5Od2hjZEVldHFjYTBEN2VUbENPQkEtbW9rTTFUQW82Nkt0RzhpWmRyVGxnS1dYMTJhdXJjdkt5c00zcUZsTVJiRW1xNE9OdTRYdVphaVZpZ3dDazlOVHRmYVVNeTBQQTFFTlNLaVdPdFZpQnhkUVVpZDVNM09i?oc=5",
+          "source": "KELO-AM",
+          "publishedAt": "2026-10-02",
+          "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+          "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - KELO-AM. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases KELO-AM",
+          "contentFingerprint": "e8e4a979e82769a0",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.01,
+            "finalScore": 20.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-5d30bfd868fb",
+          "title": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com",
+          "titleZh": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com",
+          "summary": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjdtX056ZGFfQWxsWlEzbDJXS0ZickpCcmZXb3VoN0p5OVR6ajdsOGt1WWxPMVAtR0lwUFIyTlBtLXpaemdVMlhacFpUeVNNenFNcHYtc01fX3dMcmt1bFZUU181OGttd3RSdkNyRnFkWWVfZ09yMVZHX0kyY2drbng4UWVhQ19RU3pITHVHMGhFVTBhZHV4WmVNbEpNQUxmc2JfWk92TnE4NXgySFRtTk5NZ3d1R09HZEpjMzgtVGN4WGlqeGpmMW4zdE8?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-10-02",
+          "lede": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+          "articleExcerpt": "Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases - marketscreener.com. Blue Owl flagship fund withdrawal requests slow as private credit turmoil eases marketscreener.com",
+          "contentFingerprint": "6f5f7e245ca86af7",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.93,
+            "finalScore": 19.93,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-02-1eeaabf3ff7b",
           "title": "Apollo Adds Daily Pricing to $850B Credit Platform - briefs.co",
@@ -27230,6 +27832,47 @@
             "keywordScore": 11,
             "semanticScore": 4.96,
             "finalScore": 15.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-1dc17228be9b",
+          "title": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke",
+          "titleZh": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke",
+          "summary": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1NvazJWdWN6QWhiUmh4cDRfMUk0NWNEQktDb3hzeTB1LUZXbGt1N3JER3NFQXNVZ3RONmE4YjNiTFpVVlM5Y29VcFNtX2ZITFg0TFZzbF9qYzJiQnEtelpPUl93MXJEa1pfZTV4U1hWYXd4OWp2S3NkWVBMMmgwWVpfZUZJQmR2VHZMLU96Y3NMUFc5UTh0TG1XWU8?oc=5",
+          "source": "streamlinefeed.co.ke",
+          "publishedAt": "2026-10-02",
+          "lede": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+          "articleExcerpt": "Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World - streamlinefeed.co.ke. Bain Capital Explores Strategic Investment in Debt-Laden Hong Kong Developer New World streamlinefeed.co.ke",
+          "contentFingerprint": "995a6a6fb8bade38",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "real estate"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.99,
+            "finalScore": 19.990000000000002,
             "semanticEnabled": true
           }
         }
