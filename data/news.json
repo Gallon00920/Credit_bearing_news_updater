@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-03T17:03:53.353250+00:00",
+  "updatedAt": "2026-10-03T19:48:00.059438+00:00",
   "scope": {
     "regions": [
       "US",
@@ -28162,6 +28162,47 @@
               "finalScore": 20.22,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-02-9c168f55f9f5",
+            "title": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance",
+            "titleZh": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance",
+            "summary": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2JzMmFiX0x5eEdwd2NObF9GS3VOOVVsZk5ETU0wZDBRdE94dVFKQzRhbUVNb2paaFdwSnU4a1NPUHJVZkxmT0J4dkhBbmlFZTBBQk1DMlJJRGVYeEVBWG1weUdCWl8zdmp3WUVqaEVMOEhXelplSzU0bVI0cnF3bEJKQTFfZGhzT2Q0NWJfZmdWUFFSaFowaDNidWg3dw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-02",
+            "lede": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+            "articleExcerpt": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance. KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+            "contentFingerprint": "ddab6fcc06175a3e",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.73,
+              "finalScore": 22.73,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [],
@@ -28978,6 +29019,47 @@
             "keywordScore": 14,
             "semanticScore": 6.22,
             "finalScore": 20.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-9c168f55f9f5",
+          "title": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance",
+          "titleZh": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance",
+          "summary": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2JzMmFiX0x5eEdwd2NObF9GS3VOOVVsZk5ETU0wZDBRdE94dVFKQzRhbUVNb2paaFdwSnU4a1NPUHJVZkxmT0J4dkhBbmlFZTBBQk1DMlJJRGVYeEVBWG1weUdCWl8zdmp3WUVqaEVMOEhXelplSzU0bVI0cnF3bEJKQTFfZGhzT2Q0NWJfZmdWUFFSaFowaDNidWg3dw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-02",
+          "lede": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+          "articleExcerpt": "KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 - Yahoo Finance. KBRA Assigns Rating to Bain Capital Private Credit's $350 Million Senior Unsecured Notes due 2031 Yahoo Finance",
+          "contentFingerprint": "ddab6fcc06175a3e",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.73,
+            "finalScore": 22.73,
             "semanticEnabled": true
           }
         }
