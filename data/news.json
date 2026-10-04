@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-04T02:22:38.731224+00:00",
+  "updatedAt": "2026-10-04T09:04:36.568553+00:00",
   "scope": {
     "regions": [
       "US",
@@ -27834,7 +27834,49 @@
         ],
         "PAG": [],
         "Bayview": [],
-        "CIFC": [],
+        "CIFC": [
+          {
+            "id": "2026-10-02-c5d55ba13775",
+            "title": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital",
+            "titleZh": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital",
+            "summary": "CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million.",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.connectmoney.com/stories/cifc-brings-lower-middle-market-credit-strategy-to-icapital/",
+            "source": "Google News",
+            "publishedAt": "2026-10-02",
+            "lede": "CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million. CIFC said the portfolio is designed to emphasize current income and capital preservation ... The post CIFC Brings Lower-Middle-Market Credit Strategy to iCapital appeared first on Connect Money .",
+            "articleExcerpt": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital. CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million. CIFC said the portfolio is designed to emphasize current income and capital preservation ...",
+            "contentFingerprint": "b638c2997a7495d7",
+            "region": "US",
+            "gps": [
+              "CIFC"
+            ],
+            "sectors": [
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CIFC"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 7.49,
+              "finalScore": 19.490000000000002,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Basepoint": [],
         "NB": [],
         "Apollo": [
@@ -28696,6 +28738,47 @@
             "keywordScore": 3,
             "semanticScore": 5.14,
             "finalScore": 8.14,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-02-c5d55ba13775",
+          "title": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital",
+          "titleZh": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital",
+          "summary": "CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million.",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.connectmoney.com/stories/cifc-brings-lower-middle-market-credit-strategy-to-icapital/",
+          "source": "Google News",
+          "publishedAt": "2026-10-02",
+          "lede": "CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million. CIFC said the portfolio is designed to emphasize current income and capital preservation ... The post CIFC Brings Lower-Middle-Market Credit Strategy to iCapital appeared first on Connect Money .",
+          "articleExcerpt": "CIFC Brings Lower-Middle-Market Credit Strategy to iCapital. CIFC Asset Management has made its lower-middle-market direct-lending strategy available through iCapital Marketplace, expanding the alternative credit manager’s reach into the private wealth channel. The strategy originates senior-secured, floating-rate loans to U.S. companies with annual revenue of $50 million to $500 million. CIFC said the portfolio is designed to emphasize current income and capital preservation ...",
+          "contentFingerprint": "b638c2997a7495d7",
+          "region": "US",
+          "gps": [
+            "CIFC"
+          ],
+          "sectors": [
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CIFC"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 7.49,
+            "finalScore": 19.490000000000002,
             "semanticEnabled": true
           }
         },
