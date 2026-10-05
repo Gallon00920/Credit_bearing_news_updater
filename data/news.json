@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-05T08:05:26.034119+00:00",
+  "updatedAt": "2026-10-05T16:53:47.548516+00:00",
   "scope": {
     "regions": [
       "US",
@@ -29252,7 +29252,49 @@
     },
     "2026-10-04": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-04-944a4fddf12c",
+            "title": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga",
+            "titleZh": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga",
+            "summary": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUY5N3N1djlOdV9qMHRSTjY1U2czZVg0M1pMNGdsYzFFb0JzNzQyVFVXeWQ0VWhNVnFTSExlOWI1ZDQ4cjVkeTIxTFZUWTVKQTk5M09vVEJPTmhPQmhIaWtjMFpuUkxDZDJOamk1WXlnLUZwUGtjSXpfNWgzbnBnT3hyeXBMQjlDMUVna1JEOWVrVXFjWG9vamtuYy12TXFuLWlJQ2NuaDNVaFp3cVdGZlN2MUFLd25UTTNVZXpaWG5QVFNlWjlxZUlscGs4X0NCQ2htWDgwVVRCdw?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-10-04",
+            "lede": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+            "articleExcerpt": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga. Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+            "contentFingerprint": "51f4f38204f3f609",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 7.08,
+              "finalScore": 21.08,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [],
@@ -29343,6 +29385,47 @@
       },
       "items": [
         {
+          "id": "2026-10-04-944a4fddf12c",
+          "title": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga",
+          "titleZh": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga",
+          "summary": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUY5N3N1djlOdV9qMHRSTjY1U2czZVg0M1pMNGdsYzFFb0JzNzQyVFVXeWQ0VWhNVnFTSExlOWI1ZDQ4cjVkeTIxTFZUWTVKQTk5M09vVEJPTmhPQmhIaWtjMFpuUkxDZDJOamk1WXlnLUZwUGtjSXpfNWgzbnBnT3hyeXBMQjlDMUVna1JEOWVrVXFjWG9vamtuYy12TXFuLWlJQ2NuaDNVaFp3cVdGZlN2MUFLd25UTTNVZXpaWG5QVFNlWjlxZUlscGs4X0NCQ2htWDgwVVRCdw?oc=5",
+          "source": "Benzinga",
+          "publishedAt": "2026-10-04",
+          "lede": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+          "articleExcerpt": "Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital - Benzinga. Blue Owl Stock at Risk as Private Credit Giant Caps Withdrawals Amid Surging Outflows - Blue Owl Capital Benzinga",
+          "contentFingerprint": "51f4f38204f3f609",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 7.08,
+            "finalScore": 21.08,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-04-62594e329ec2",
           "title": "Apollo Global Management stock expands daily pricing across credit assets - AD HOC NEWS",
           "titleZh": "Apollo Global Management stock expands daily pricing across credit assets - AD HOC NEWS",
@@ -29420,21 +29503,744 @@
     },
     "2026-10-05": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-05-18b13b33d447",
+            "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters",
+            "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters",
+            "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaUxSbWJzY2VXZmYtVXN6VUR5ZEQ2OHBVY19QVXRONlFxOVppTks1ZlNrSEFfMlQxRm5CNEdkZE9nTjZuVVJwQ2hsMThyVTJxZElVZnFBMDdNLWN5VVY4N3MzZ0FpTVNnTkROSWdmMGhvb0IyZDNxaEllWDNrS3dkMkE5dDY4Y1VwdS1NYlp6VTBoSW9ERzZ3VkU3cDRKVHJXVVNUVzVnc05SbVVmU1R2SEZYOVd4d2xQZXlLU3NnWlNVdTJzRFU0Q19QSWkyZjZ3?oc=5",
+            "source": "Reuters",
+            "publishedAt": "2026-10-05",
+            "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+            "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+            "contentFingerprint": "e0ecaa5c701d1937",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.96,
+              "finalScore": 22.96,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-05-fe90c0caefaf",
+            "title": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize",
+            "titleZh": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize",
+            "summary": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjlmMndad20wRnR6Z29OTjdQemVwM04zdjBkd0lnOHBRTURWZEJic0VUV2tBRF8zQTY2ZlNqYkRZMHY3Z3JmU3ZOWGl6dHZZaExwa2FmYl9LLXJQRkh2MUU3M1pXVXR3RFMxRkw5RlpBRFFRb1E1ZThLa0laRlRHNDBVaFZFcVA5RkZWSENGOUxNa0E?oc=5",
+            "source": "Finimize",
+            "publishedAt": "2026-10-05",
+            "lede": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+            "articleExcerpt": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize. Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+            "contentFingerprint": "6f1de6911af078b1",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.27,
+              "finalScore": 20.27,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-05-60190c46551b",
+            "title": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union",
+            "titleZh": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union",
+            "summary": "Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3hEYkh5andMZGJ6eWJyUzBKZkpHcVVfY3NyOVU5aWhrd1FsdVh6bmhTZ3NFbGg4OGJfN3U2OFZtNDFTZ1JNOU5RcURyUVlKQ1pZem1HTmt6QU5pc2RmVGpDNUNONzVWYVhaTFUzWU9NTWRMeXhfY1Fxb0l0cERHcU5JNVR0NkV2ZE5VVzRQSVQxV3FmQXR5ME5udjd6WEltOFVlRTBTcGdZMDk5STQ3Ng?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-10-05",
+            "lede": "Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+            "articleExcerpt": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union. Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+            "contentFingerprint": "1ea34838743a1f7f",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.16,
+              "finalScore": 20.16,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-05-3d72281d9e24",
+            "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView",
+            "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView",
+            "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX3lzMHVlbmwzbWtHNmgybFRFdm1hUG91aW5MQjAzMVRzWjBYMTZFbzN3cFpPUTFLY2dMNHlpWTY2YnNUOGc4enV5SVdja0c2UHlYV01fUzBUbHlmNUJDQVU0dUhFWTBMdE5jT095WGwyS1IxcVZNSUFZQXhaTThWU0E5ak5TYUNDMXhwMlVfc25lbjBFVnBDNFRRMmk0Q0hDWUN6MW1zWmprbXJoLTlaVjBZVmcyUWZpelpNOTZRbFZ5NkdqdEEtM184V0VkcWZJMGE2MHlzdXVmMXMxYzJvQ2JkRmpHNTc3?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-05",
+            "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+            "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+            "contentFingerprint": "60565ce702d16d57",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.1,
+              "finalScore": 20.1,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-05-a03d9d5a368b",
+            "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News",
+            "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News",
+            "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMllsbG51MnV3WEF4RTAxNURxNzRZdFV0cml2SUFVcDBlMWJoQ0hGMFIybjFfc2ZtejE3SHR6OEpjbWRmeXU4NUgyemNnS2hjUG05UC1iNWRuY1VrdFYtQV9UazB3bnd3elNtbXJET0FQMHM5QV92MnNLcWcyamRWeU5DTWhaR0ZJempJQms5R0hjcUN5UjBNdFVQaExvX1djbTdCTjdPR09NbElBdkJoMEd3Um1KaW11RV9GOA?oc=5",
+            "source": "KSL News",
+            "publishedAt": "2026-10-05",
+            "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+            "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+            "contentFingerprint": "ea6b31fed3cd1355",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.88,
+              "finalScore": 19.88,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
-        "PAG": [],
+        "KKR": [
+          {
+            "id": "2026-10-05-b7f92d4ed15c",
+            "title": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm",
+            "titleZh": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm",
+            "summary": "2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbjgyYzRxNVIwa3kxNlZSTjVaYzUzckdrRGxnMUx4dzR2eFpCaDYyRmdRNkVYZVZpMmNfaFV6cE5OZXdER0JmTVlsNV9fY01YaXZDWkM1Ums1VzNENzBCN2FIbTY?oc=5",
+            "source": "KKR: A Leading Global Investment Firm",
+            "publishedAt": "2026-10-05",
+            "lede": "2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+            "articleExcerpt": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm. 2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+            "contentFingerprint": "d647dafcc188c7f2",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.83,
+              "finalScore": 11.83,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "PAG": [
+          {
+            "id": "2026-10-05-aa9a3c06699f",
+            "title": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction",
+            "titleZh": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction",
+            "summary": "NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "http://www.businesswire.com/news/home/20261005996291/en/Pagaya-Issues-AAA-Rated-600-Million-Personal-Loan-ABS-Transaction/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+            "source": "Google News",
+            "publishedAt": "2026-10-05",
+            "lede": "NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+            "articleExcerpt": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction. NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+            "contentFingerprint": "5b94cf2aff5883e6",
+            "region": "US",
+            "gps": [
+              "PAG"
+            ],
+            "sectors": [
+              "software",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "PAG"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "software",
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.77,
+              "finalScore": 21.77,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-05-8fe5b4b69ebe",
+            "title": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com",
+            "titleZh": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com",
+            "summary": "Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzAxN3BPSTdEY0RjNW9lMVVLWXgzdjR4Y25GZUF0c1NRWVZuUkdYTGVqdExhUW1xckN5MWREeU5sd3BwdjRha0lUWWhGeWhONE1IMmtxTmlZc0YtbEtnMHRreUZ2R2xBekFjaG9aWmY3Vy1yWThWalUyTkZLT2RzWDgtS2RiZw?oc=5",
+            "source": "marketsmedia.com",
+            "publishedAt": "2026-10-05",
+            "lede": "Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+            "articleExcerpt": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com. Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+            "contentFingerprint": "0f5d70f854a9f39e",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.03,
+              "finalScore": 16.03,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-05-5d010549b458",
+            "title": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS",
+            "titleZh": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS",
+            "summary": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjY5SUp0NzFMSDRyNjhlaHJnbjVwSXhiZzFXZmNFZFlBVUxrZTVvamJtQ3RaWlUyRzA5eUFCQXV1ZmdTeGZRR01QdVZzWDlBMjc2NG5yOFV2SHJxTUUyZUQwOTFQQWQ0ZXdWcVpZU0lURHZoNTNFM0V3bzZFVldPaFNRVmRCNkpCRWNDQnJpWWxYdnU4X21icXJUNDFnZDlJM19pVmNRUFp2TjJZNC1qa1BRRGJneHk4djJPRHBXdGx3bHM3TlE?oc=5",
+            "source": "AD HOC NEWS",
+            "publishedAt": "2026-10-05",
+            "lede": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+            "articleExcerpt": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS. Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+            "contentFingerprint": "049969b3dc5b4742",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.69,
+              "finalScore": 8.690000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-05-18b13b33d447",
+          "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters",
+          "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters",
+          "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaUxSbWJzY2VXZmYtVXN6VUR5ZEQ2OHBVY19QVXRONlFxOVppTks1ZlNrSEFfMlQxRm5CNEdkZE9nTjZuVVJwQ2hsMThyVTJxZElVZnFBMDdNLWN5VVY4N3MzZ0FpTVNnTkROSWdmMGhvb0IyZDNxaEllWDNrS3dkMkE5dDY4Y1VwdS1NYlp6VTBoSW9ERzZ3VkU3cDRKVHJXVVNUVzVnc05SbVVmU1R2SEZYOVd4d2xQZXlLU3NnWlNVdTJzRFU0Q19QSWkyZjZ3?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-10-05",
+          "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+          "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - Reuters. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist Reuters",
+          "contentFingerprint": "e0ecaa5c701d1937",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.96,
+            "finalScore": 22.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-fe90c0caefaf",
+          "title": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize",
+          "titleZh": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize",
+          "summary": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjlmMndad20wRnR6Z29OTjdQemVwM04zdjBkd0lnOHBRTURWZEJic0VUV2tBRF8zQTY2ZlNqYkRZMHY3Z3JmU3ZOWGl6dHZZaExwa2FmYl9LLXJQRkh2MUU3M1pXVXR3RFMxRkw5RlpBRFFRb1E1ZThLa0laRlRHNDBVaFZFcVA5RkZWSENGOUxNa0E?oc=5",
+          "source": "Finimize",
+          "publishedAt": "2026-10-05",
+          "lede": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+          "articleExcerpt": "Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests - Finimize. Blue Owl’s Private Credit Fund Sees Fewer Withdrawal Requests Finimize",
+          "contentFingerprint": "6f1de6911af078b1",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.27,
+            "finalScore": 20.27,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-60190c46551b",
+          "title": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union",
+          "titleZh": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union",
+          "summary": "Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3hEYkh5andMZGJ6eWJyUzBKZkpHcVVfY3NyOVU5aWhrd1FsdVh6bmhTZ3NFbGg4OGJfN3U2OFZtNDFTZ1JNOU5RcURyUVlKQ1pZem1HTmt6QU5pc2RmVGpDNUNONzVWYVhaTFUzWU9NTWRMeXhfY1Fxb0l0cERHcU5JNVR0NkV2ZE5VVzRQSVQxV3FmQXR5ME5udjd6WEltOFVlRTBTcGdZMDk5STQ3Ng?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-10-05",
+          "lede": "Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+          "articleExcerpt": "Blue Owl private credit redemptions ease as refinancing risks persist - Traders Union. Blue Owl private credit redemptions ease as refinancing risks persist Traders Union",
+          "contentFingerprint": "1ea34838743a1f7f",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.16,
+            "finalScore": 20.16,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-3d72281d9e24",
+          "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView",
+          "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView",
+          "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX3lzMHVlbmwzbWtHNmgybFRFdm1hUG91aW5MQjAzMVRzWjBYMTZFbzN3cFpPUTFLY2dMNHlpWTY2YnNUOGc4enV5SVdja0c2UHlYV01fUzBUbHlmNUJDQVU0dUhFWTBMdE5jT095WGwyS1IxcVZNSUFZQXhaTThWU0E5ak5TYUNDMXhwMlVfc25lbjBFVnBDNFRRMmk0Q0hDWUN6MW1zWmprbXJoLTlaVjBZVmcyUWZpelpNOTZRbFZ5NkdqdEEtM184V0VkcWZJMGE2MHlzdXVmMXMxYzJvQ2JkRmpHNTc3?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-05",
+          "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+          "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - TradingView. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist TradingView",
+          "contentFingerprint": "60565ce702d16d57",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.1,
+            "finalScore": 20.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-a03d9d5a368b",
+          "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News",
+          "titleZh": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News",
+          "summary": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMllsbG51MnV3WEF4RTAxNURxNzRZdFV0cml2SUFVcDBlMWJoQ0hGMFIybjFfc2ZtejE3SHR6OEpjbWRmeXU4NUgyemNnS2hjUG05UC1iNWRuY1VrdFYtQV9UazB3bnd3elNtbXJET0FQMHM5QV92MnNLcWcyamRWeU5DTWhaR0ZJempJQms5R0hjcUN5UjBNdFVQaExvX1djbTdCTjdPR09NbElBdkJoMEd3Um1KaW11RV9GOA?oc=5",
+          "source": "KSL News",
+          "publishedAt": "2026-10-05",
+          "lede": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+          "articleExcerpt": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist - KSL News. Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist KSL News",
+          "contentFingerprint": "ea6b31fed3cd1355",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.88,
+            "finalScore": 19.88,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-b7f92d4ed15c",
+          "title": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm",
+          "titleZh": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm",
+          "summary": "2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbjgyYzRxNVIwa3kxNlZSTjVaYzUzckdrRGxnMUx4dzR2eFpCaDYyRmdRNkVYZVZpMmNfaFV6cE5OZXdER0JmTVlsNV9fY01YaXZDWkM1Ums1VzNENzBCN2FIbTY?oc=5",
+          "source": "KKR: A Leading Global Investment Firm",
+          "publishedAt": "2026-10-05",
+          "lede": "2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+          "articleExcerpt": "2026 KKR Insurance CIO Survey - KKR: A Leading Global Investment Firm. 2026 KKR Insurance CIO Survey KKR: A Leading Global Investment Firm",
+          "contentFingerprint": "d647dafcc188c7f2",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.83,
+            "finalScore": 11.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-aa9a3c06699f",
+          "title": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction",
+          "titleZh": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction",
+          "summary": "NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "http://www.businesswire.com/news/home/20261005996291/en/Pagaya-Issues-AAA-Rated-600-Million-Personal-Loan-ABS-Transaction/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+          "source": "Google News",
+          "publishedAt": "2026-10-05",
+          "lede": "NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+          "articleExcerpt": "Pagaya Issues AAA-Rated $600 Million Personal Loan ABS Transaction. NEW YORK--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) (“Pagaya”), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced the closing of a $600 million AAA-rated personal loan ABS transaction (PAID 2026-6). “We achieved tighter pricing on this transaction relative to recent deals, which reflects strong investor confidence in Pagaya's credit performance and underwriting platform,\" said Sahil Chandiramani, Head of Capital Markets",
+          "contentFingerprint": "5b94cf2aff5883e6",
+          "region": "US",
+          "gps": [
+            "PAG"
+          ],
+          "sectors": [
+            "software",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "PAG"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "software",
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.77,
+            "finalScore": 21.77,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-8fe5b4b69ebe",
+          "title": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com",
+          "titleZh": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com",
+          "summary": "Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzAxN3BPSTdEY0RjNW9lMVVLWXgzdjR4Y25GZUF0c1NRWVZuUkdYTGVqdExhUW1xckN5MWREeU5sd3BwdjRha0lUWWhGeWhONE1IMmtxTmlZc0YtbEtnMHRreUZ2R2xBekFjaG9aWmY3Vy1yWThWalUyTkZLT2RzWDgtS2RiZw?oc=5",
+          "source": "marketsmedia.com",
+          "publishedAt": "2026-10-05",
+          "lede": "Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+          "articleExcerpt": "Apollo Expands Daily Pricing to All Credit Assets - marketsmedia.com. Apollo Expands Daily Pricing to All Credit Assets marketsmedia.com",
+          "contentFingerprint": "0f5d70f854a9f39e",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.03,
+            "finalScore": 16.03,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-05-5d010549b458",
+          "title": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS",
+          "titleZh": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS",
+          "summary": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjY5SUp0NzFMSDRyNjhlaHJnbjVwSXhiZzFXZmNFZFlBVUxrZTVvamJtQ3RaWlUyRzA5eUFCQXV1ZmdTeGZRR01QdVZzWDlBMjc2NG5yOFV2SHJxTUUyZUQwOTFQQWQ0ZXdWcVpZU0lURHZoNTNFM0V3bzZFVldPaFNRVmRCNkpCRWNDQnJpWWxYdnU4X21icXJUNDFnZDlJM19pVmNRUFp2TjJZNC1qa1BRRGJneHk4djJPRHBXdGx3bHM3TlE?oc=5",
+          "source": "AD HOC NEWS",
+          "publishedAt": "2026-10-05",
+          "lede": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+          "articleExcerpt": "Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight - AD HOC NEWS. Wells Fargo starts coverage of Apollo Global Management stock at Equal-Weight AD HOC NEWS",
+          "contentFingerprint": "049969b3dc5b4742",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.69,
+            "finalScore": 8.690000000000001,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
