@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-06T04:09:53.157912+00:00",
+  "updatedAt": "2026-10-06T11:08:43.427211+00:00",
   "scope": {
     "regions": [
       "US",
@@ -30656,12 +30656,88 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-06-f35b041a8823",
+            "title": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke",
+            "titleZh": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke",
+            "summary": "Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVpyeFVwQnZnZFY1VUg2RXZHaXQ1Y2dnOUNBLU9KeUkxWUU1S1pFbEJXQ3IyVnM3MVhoSlgtX0NWQmR4cHJYcVM5alZPLTZUR2Z2bFdGN2ZvN0hDZzQ1UDR3WE56ZVBYbXc5UWFPRG15TlV4TVRYRFRUaEhFZ0RxT0k4SjUwMGVReFVPcnEwVGtnRzNKRUhReG1TWGcxOXljU1Jz?oc=5",
+            "source": "streamlinefeed.co.ke",
+            "publishedAt": "2026-10-06",
+            "lede": "Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+            "articleExcerpt": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke. Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+            "contentFingerprint": "6b902ed0193ba9cc",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.16,
+              "finalScore": 8.16,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-06-f35b041a8823",
+          "title": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke",
+          "titleZh": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke",
+          "summary": "Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVpyeFVwQnZnZFY1VUg2RXZHaXQ1Y2dnOUNBLU9KeUkxWUU1S1pFbEJXQ3IyVnM3MVhoSlgtX0NWQmR4cHJYcVM5alZPLTZUR2Z2bFdGN2ZvN0hDZzQ1UDR3WE56ZVBYbXc5UWFPRG15TlV4TVRYRFRUaEhFZ0RxT0k4SjUwMGVReFVPcnEwVGtnRzNKRUhReG1TWGcxOXljU1Jz?oc=5",
+          "source": "streamlinefeed.co.ke",
+          "publishedAt": "2026-10-06",
+          "lede": "Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+          "articleExcerpt": "Fitch affirms Apollo Global Management rating at A amid asset surge - streamlinefeed.co.ke. Fitch affirms Apollo Global Management rating at A amid asset surge streamlinefeed.co.ke",
+          "contentFingerprint": "6b902ed0193ba9cc",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.16,
+            "finalScore": 8.16,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
