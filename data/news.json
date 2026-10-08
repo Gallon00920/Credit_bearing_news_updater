@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-08T07:01:35.242932+00:00",
+  "updatedAt": "2026-10-08T14:25:36.349263+00:00",
   "scope": {
     "regions": [
       "US",
@@ -30811,7 +30811,49 @@
     },
     "2026-10-06": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-06-352b19b9bc7d",
+            "title": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com",
+            "titleZh": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com",
+            "summary": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXRDSjlrZWVPY2lFaWI3V0c0SktTU0dCZEVDMzY2bXNrTUFJcFB1LXYzaUxmWE52RWxOSWlLM21HRmZ5RTNNU2I0TUstVXNwT0lLVnE5NGRoci0zR2FiYzk2S21fQXlRd2xvYm40dUZJV0RvU1lFVFNLWDd5VlpKcTdXMWg4WWpGdFVtSkM1ZTV3dHZGMkdnY1R4OERUdHNWazBpUk43TlRfclNGanc?oc=5",
+            "source": "www.marketscreener.com",
+            "publishedAt": "2026-10-06",
+            "lede": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+            "articleExcerpt": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com. Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+            "contentFingerprint": "1157b29346e9431c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.59,
+              "finalScore": 12.59,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [
@@ -31173,6 +31215,47 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-06-352b19b9bc7d",
+          "title": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com",
+          "titleZh": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com",
+          "summary": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXRDSjlrZWVPY2lFaWI3V0c0SktTU0dCZEVDMzY2bXNrTUFJcFB1LXYzaUxmWE52RWxOSWlLM21HRmZ5RTNNU2I0TUstVXNwT0lLVnE5NGRoci0zR2FiYzk2S21fQXlRd2xvYm40dUZJV0RvU1lFVFNLWDd5VlpKcTdXMWg4WWpGdFVtSkM1ZTV3dHZGMkdnY1R4OERUdHNWazBpUk43TlRfclNGanc?oc=5",
+          "source": "www.marketscreener.com",
+          "publishedAt": "2026-10-06",
+          "lede": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+          "articleExcerpt": "Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable - www.marketscreener.com. Fitch Affirms Blue Owl Capital Inc. at 'BBB+'; Outlook Stable www.marketscreener.com",
+          "contentFingerprint": "1157b29346e9431c",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.59,
+            "finalScore": 12.59,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-06-86fe6517d2f0",
           "title": "KKR acquires fund administrator Gen II for $5.1 billion - Quartz",
@@ -32567,6 +32650,43 @@
               "finalScore": 11.33,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-08-d9f00f77b721",
+            "title": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor",
+            "titleZh": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor",
+            "summary": "Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkJBanRTX3VFUlM4ZnNlVXc4SF9CbFdBdFI4VVhKcUpCbWZfMENTdTBJV1ZuajJLcHF0b3gySE9PTzNiYmpqelRIVnZ5d3FFM242RE9jVTU2bzlka01YTUFYd2VldURQcXRrYURTRHFNdERlUTJHMTZ2MkV0RU90TkFB?oc=5",
+            "source": "Semafor",
+            "publishedAt": "2026-10-08",
+            "lede": "Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+            "articleExcerpt": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor. Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+            "contentFingerprint": "94dbf91abb263bd9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.41,
+              "finalScore": 16.41,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -32617,6 +32737,43 @@
             "keywordScore": 5,
             "semanticScore": 6.33,
             "finalScore": 11.33,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-08-d9f00f77b721",
+          "title": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor",
+          "titleZh": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor",
+          "summary": "Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkJBanRTX3VFUlM4ZnNlVXc4SF9CbFdBdFI4VVhKcUpCbWZfMENTdTBJV1ZuajJLcHF0b3gySE9PTzNiYmpqelRIVnZ5d3FFM242RE9jVTU2bzlka01YTUFYd2VldURQcXRrYURTRHFNdERlUTJHMTZ2MkV0RU90TkFB?oc=5",
+          "source": "Semafor",
+          "publishedAt": "2026-10-08",
+          "lede": "Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+          "articleExcerpt": "Exclusive / Blue Owl CEOs rebuff credit fears - Semafor. Exclusive / Blue Owl CEOs rebuff credit fears Semafor",
+          "contentFingerprint": "94dbf91abb263bd9",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.41,
+            "finalScore": 16.41,
             "semanticEnabled": true
           }
         }
