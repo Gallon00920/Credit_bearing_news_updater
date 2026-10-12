@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-12T16:26:59.546701+00:00",
+  "updatedAt": "2026-10-12T23:31:10.501365+00:00",
   "scope": {
     "regions": [
       "US",
@@ -34596,6 +34596,47 @@
               "finalScore": 23.1,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-12-208908c1cb7a",
+            "title": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance",
+            "titleZh": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance",
+            "summary": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDI3dXRZRlN0YmZrb2VZMkNST0FoNDlOeWpWMGl0aU5WcnFEdU4yTWh1ME1Ic3pFWmpTRU9qbmVyR2ZpVlB6Z2l3bEM2OXVZaERXcDRCRThFUFlCMFNLZ0JJYzF6b0RxczlLZVVrYVotWlVWTE1NLVdrOWFtUHc5UXR3Rmpub01Nc1ZRajZPU0dYR0E?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-12",
+            "lede": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance. Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+            "contentFingerprint": "1ff2f627b6152dcc",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 7.43,
+              "finalScore": 21.43,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [
@@ -34644,7 +34685,45 @@
           }
         ],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-12-51c0a8ad4036",
+            "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+            "source": "KKR: A Leading Global Investment Firm",
+            "publishedAt": "2026-10-12",
+            "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "contentFingerprint": "367270f3043c598d",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.0,
+              "finalScore": 11.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [
           {
             "id": "2026-10-12-3e54d808b05c",
@@ -34823,6 +34902,84 @@
             "keywordScore": 18,
             "semanticScore": 5.1,
             "finalScore": 23.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-12-208908c1cb7a",
+          "title": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance",
+          "titleZh": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance",
+          "summary": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDI3dXRZRlN0YmZrb2VZMkNST0FoNDlOeWpWMGl0aU5WcnFEdU4yTWh1ME1Ic3pFWmpTRU9qbmVyR2ZpVlB6Z2l3bEM2OXVZaERXcDRCRThFUFlCMFNLZ0JJYzF6b0RxczlLZVVrYVotWlVWTE1NLVdrOWFtUHc5UXR3Rmpub01Nc1ZRajZPU0dYR0E?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-12",
+          "lede": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout - Yahoo Finance. Blue Owl Capital Stock And 2 Private Credit Plays Funding The AI Buildout Yahoo Finance",
+          "contentFingerprint": "1ff2f627b6152dcc",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 7.43,
+            "finalScore": 21.43,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-12-51c0a8ad4036",
+          "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+          "source": "KKR: A Leading Global Investment Firm",
+          "publishedAt": "2026-10-12",
+          "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "contentFingerprint": "367270f3043c598d",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.0,
+            "finalScore": 11.0,
             "semanticEnabled": true
           }
         },
