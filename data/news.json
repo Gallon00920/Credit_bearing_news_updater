@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-13T12:30:06.125186+00:00",
+  "updatedAt": "2026-10-13T19:55:26.120648+00:00",
   "scope": {
     "regions": [
       "US",
@@ -35112,7 +35112,45 @@
     },
     "2026-10-13": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-13-096c5ad4fc68",
+            "title": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire",
+            "titleZh": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire",
+            "summary": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanhrUjNUMzduaWZTLUlDU1VSV3ZlSEtWTHl3R25La1ZiOTJrQmxCOFNGRE1jU1VyU2pfUmlQZUczWldVd090RnU4bDVQX2VxVHQwOEgyaWlScXNjMXRXU2dIcjdUNlhlaHlLbzRFOW1aWTJVVGRsdXIzd3RGaGl4WkdOVGVSSTlDNmJaLUI5SDkxVVpDbmtsby1qbVZac1FpdjJtbVoteUxLM3BlVnFpQUpUTndzY1Y5RWhNNDR3a3VJWEJiLW1xUkhsbHpRX3h1TDJldUJWaw?oc=5",
+            "source": "Business Wire",
+            "publishedAt": "2026-10-13",
+            "lede": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+            "articleExcerpt": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire. Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+            "contentFingerprint": "c7be06b07af2ca07",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.66,
+              "finalScore": 20.66,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [
@@ -35165,6 +35203,43 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-13-096c5ad4fc68",
+          "title": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire",
+          "titleZh": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire",
+          "summary": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanhrUjNUMzduaWZTLUlDU1VSV3ZlSEtWTHl3R25La1ZiOTJrQmxCOFNGRE1jU1VyU2pfUmlQZUczWldVd090RnU4bDVQX2VxVHQwOEgyaWlScXNjMXRXU2dIcjdUNlhlaHlLbzRFOW1aWTJVVGRsdXIzd3RGaGl4WkdOVGVSSTlDNmJaLUI5SDkxVVpDbmtsby1qbVZac1FpdjJtbVoteUxLM3BlVnFpQUpUTndzY1Y5RWhNNDR3a3VJWEJiLW1xUkhsbHpRX3h1TDJldUJWaw?oc=5",
+          "source": "Business Wire",
+          "publishedAt": "2026-10-13",
+          "lede": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+          "articleExcerpt": "Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer - Business Wire. Cox Capital Adjusts Commencement Date for Blue Owl Credit Income Corp. Tender Offer Business Wire",
+          "contentFingerprint": "c7be06b07af2ca07",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.66,
+            "finalScore": 20.66,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-13-cfb5686983f3",
           "title": "Should Solar JV Expansion Require Action From KKR (KKR) Investors? - Simply Wall Street",
