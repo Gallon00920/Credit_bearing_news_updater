@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-14T08:25:55.199474+00:00",
+  "updatedAt": "2026-10-14T14:24:58.033464+00:00",
   "scope": {
     "regions": [
       "US",
@@ -35715,7 +35715,86 @@
         "Basepoint": [],
         "NB": [],
         "Apollo": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-10-14-0b5c1ab69c42",
+            "title": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz",
+            "titleZh": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz",
+            "summary": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUENzWUJjeUQ3ZVpZemt3dTlWSW9GOXNYS2RIWmhZVHR2MlNaTUE3RG9PWVZ1QWFrTExYUWhnclluQmlCN3VqWlhEUHV5WVhsZ0IzN3J1T2NDZVBDU2lDaExPZXVwbURiQng2ZGtTMTdLYnl2aTNuRm9BLU8zZ2pWZFJJZmpldFBxSnJXRmR1SU1tTzN0X2Y2QUdFcUV1ZUdVbksyM2wxR3RBX1VYLUpVVTRkOGhUM1NqYmN1N2dlaw?oc=5",
+            "source": "citybiz",
+            "publishedAt": "2026-10-14",
+            "lede": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+            "articleExcerpt": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz. Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+            "contentFingerprint": "02d0babaee7af157",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 7.24,
+              "finalScore": 18.240000000000002,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-14-6a42aaafacff",
+            "title": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners",
+            "titleZh": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners",
+            "summary": "BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "http://www.businesswire.com/news/home/20261014172237/en/Bain-Capital-Provides-%E2%82%AC130-Million-Credit-Facility-to-Support-Acquisition-of-Life-Couriers-by-JLL-Partners/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+            "source": "Google News",
+            "publishedAt": "2026-10-14",
+            "lede": "BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+            "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners. BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+            "contentFingerprint": "9afe15e3fc91eda4",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 7.84,
+              "finalScore": 19.84,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "HSBC AM": []
       },
@@ -35754,6 +35833,84 @@
             "keywordScore": 11,
             "semanticScore": 6.5,
             "finalScore": 17.5,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-14-0b5c1ab69c42",
+          "title": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz",
+          "titleZh": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz",
+          "summary": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUENzWUJjeUQ3ZVpZemt3dTlWSW9GOXNYS2RIWmhZVHR2MlNaTUE3RG9PWVZ1QWFrTExYUWhnclluQmlCN3VqWlhEUHV5WVhsZ0IzN3J1T2NDZVBDU2lDaExPZXVwbURiQng2ZGtTMTdLYnl2aTNuRm9BLU8zZ2pWZFJJZmpldFBxSnJXRmR1SU1tTzN0X2Y2QUdFcUV1ZUdVbksyM2wxR3RBX1VYLUpVVTRkOGhUM1NqYmN1N2dlaw?oc=5",
+          "source": "citybiz",
+          "publishedAt": "2026-10-14",
+          "lede": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+          "articleExcerpt": "Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers - citybiz. Bain Capital Provides €130M Financing for JLL Partners’ Acquisition of Life Couriers citybiz",
+          "contentFingerprint": "02d0babaee7af157",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 7.24,
+            "finalScore": 18.240000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-14-6a42aaafacff",
+          "title": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners",
+          "titleZh": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners",
+          "summary": "BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "http://www.businesswire.com/news/home/20261014172237/en/Bain-Capital-Provides-%E2%82%AC130-Million-Credit-Facility-to-Support-Acquisition-of-Life-Couriers-by-JLL-Partners/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+          "source": "Google News",
+          "publishedAt": "2026-10-14",
+          "lede": "BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+          "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners. BOSTON--(BUSINESS WIRE)--Bain Capital today announced that its Private Credit Group acted as lead lender and administrative agent for a €130 million dual-currency senior credit facility to support the acquisition of Life Couriers (the “Company”), a global leader in delivering time-critical healthcare logistics solutions, by JLL Partners. Headquartered in Munich, Germany and with operations strategically located throughout the U.S., Europe, Central America and Asia, Life Couriers has been provid",
+          "contentFingerprint": "9afe15e3fc91eda4",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 7.84,
+            "finalScore": 19.84,
             "semanticEnabled": true
           }
         }
