@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-15T01:17:29.165213+00:00",
+  "updatedAt": "2026-10-15T06:56:55.304859+00:00",
   "scope": {
     "regions": [
       "US",
@@ -35835,6 +35835,43 @@
               "finalScore": 19.84,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-14-60af6c4d0b83",
+            "title": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance",
+            "titleZh": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance",
+            "summary": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1czank1VzRfTTNRMkRnRDV2MHdxQUU5Ty1qYU9IWlc2X0tvaUxjM1liZTRmdm1wZHpzM0hZUVQxWWw3VVdhR05yRW5vci1FMmxaeUMydE9UdFVLNFNGR3NNWlRqNmFhTm9Fc09GM0hXeUsyNVZ1VVhRdjlSS1NIOG5UNXF0d0ZqQ2QyWkU0aEhuX1hkZ1NQT29B?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-14",
+            "lede": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+            "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance. Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+            "contentFingerprint": "ccfac8b7948ff94c",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 7.6,
+              "finalScore": 18.6,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [],
@@ -35994,6 +36031,43 @@
             "keywordScore": 12,
             "semanticScore": 7.84,
             "finalScore": 19.84,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-14-60af6c4d0b83",
+          "title": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance",
+          "titleZh": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance",
+          "summary": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1czank1VzRfTTNRMkRnRDV2MHdxQUU5Ty1qYU9IWlc2X0tvaUxjM1liZTRmdm1wZHpzM0hZUVQxWWw3VVdhR05yRW5vci1FMmxaeUMydE9UdFVLNFNGR3NNWlRqNmFhTm9Fc09GM0hXeUsyNVZ1VVhRdjlSS1NIOG5UNXF0d0ZqQ2QyWkU0aEhuX1hkZ1NQT29B?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-14",
+          "lede": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+          "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners - Yahoo Finance. Bain Capital Provides €130 Million Credit Facility to Support Acquisition of Life Couriers by JLL Partners Yahoo Finance",
+          "contentFingerprint": "ccfac8b7948ff94c",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 7.6,
+            "finalScore": 18.6,
             "semanticEnabled": true
           }
         }
