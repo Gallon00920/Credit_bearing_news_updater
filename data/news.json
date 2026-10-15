@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-15T17:43:17.453829+00:00",
+  "updatedAt": "2026-10-15T20:55:58.595416+00:00",
   "scope": {
     "regions": [
       "US",
@@ -35742,7 +35742,45 @@
     },
     "2026-10-14": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-14-c9af23995eed",
+            "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+            "titleZh": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+            "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-10-14",
+            "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "contentFingerprint": "8c1f986fe54e443a",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.29,
+              "finalScore": 8.29,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [
           {
@@ -35953,6 +35991,43 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-14-c9af23995eed",
+          "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+          "titleZh": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+          "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-10-14",
+          "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "contentFingerprint": "8c1f986fe54e443a",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.29,
+            "finalScore": 8.29,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-14-8282c5b17b1d",
           "title": "Pretium Expands Middle East Presence with Abu Dhabi Office - Yahoo Finance",
@@ -36231,7 +36306,49 @@
           }
         ],
         "OTF": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-10-15-eeaf4758556d",
+            "title": "Pretium taps Brookfield veteran as next real estate chief - PERE",
+            "titleZh": "Pretium taps Brookfield veteran as next real estate chief - PERE",
+            "summary": "Pretium taps Brookfield veteran as next real estate chief PERE",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFVjek1sSnFIdmNkSUx1aGJuaENqZUZjQU8wLUlqdVhTalFMVTNTX3I4RE90Y0NxWHFYYVVIeEFjLXp5M0RLOVR0OXFoUW45WDVScHVKZEoxOTNtNC1CYVFFU1otMjJKU3FKR2lSaDV5LUtkVUM0WF80YzU2dkR2NmRwSk5lekZnZjVJdnJYamgxVXEycGZwaTl6UFVEWmhfLTZRSkJR?oc=5",
+            "source": "PERE",
+            "publishedAt": "2026-10-15",
+            "lede": "Pretium taps Brookfield veteran as next real estate chief PERE",
+            "articleExcerpt": "Pretium taps Brookfield veteran as next real estate chief - PERE. Pretium taps Brookfield veteran as next real estate chief PERE",
+            "contentFingerprint": "5f16c2e99893073f",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "sectors": [
+              "real estate"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "real estate"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.06,
+              "finalScore": 11.059999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-10-15-c89b7964a192",
@@ -36277,7 +36394,45 @@
         "Basepoint": [],
         "NB": [],
         "Apollo": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-10-15-95022de9c222",
+            "title": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0",
+            "titleZh": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0",
+            "summary": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxXZGtkbzFSYkRBYUZWaVcyVExjbmxVVmpKMGRMRjRTZUgzN2JxZ1FobkR1dHktbE1HYjMyVGdITDJXTzV4Wk9HTnhiQUpCeTFES210T2FubWJwMjBjamlTVXk1T19uYmVhWjF3cU94SmhiWG5lZmdhQkpwdXdMdV9VUjNtQjNkbDFDNUVvOVZ2MkM4UUhFLTA3VVdZQVpseVE2SXYxUUh3TjNXZFFvYlRkOFRCTFZNSS1zZTlEQTg?oc=5",
+            "source": "Pulse 2.0",
+            "publishedAt": "2026-10-15",
+            "lede": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+            "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0. Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+            "contentFingerprint": "914ddb78d79ecbf0",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 7.44,
+              "finalScore": 18.44,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "HSBC AM": []
       },
@@ -36361,6 +36516,47 @@
           }
         },
         {
+          "id": "2026-10-15-eeaf4758556d",
+          "title": "Pretium taps Brookfield veteran as next real estate chief - PERE",
+          "titleZh": "Pretium taps Brookfield veteran as next real estate chief - PERE",
+          "summary": "Pretium taps Brookfield veteran as next real estate chief PERE",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFVjek1sSnFIdmNkSUx1aGJuaENqZUZjQU8wLUlqdVhTalFMVTNTX3I4RE90Y0NxWHFYYVVIeEFjLXp5M0RLOVR0OXFoUW45WDVScHVKZEoxOTNtNC1CYVFFU1otMjJKU3FKR2lSaDV5LUtkVUM0WF80YzU2dkR2NmRwSk5lekZnZjVJdnJYamgxVXEycGZwaTl6UFVEWmhfLTZRSkJR?oc=5",
+          "source": "PERE",
+          "publishedAt": "2026-10-15",
+          "lede": "Pretium taps Brookfield veteran as next real estate chief PERE",
+          "articleExcerpt": "Pretium taps Brookfield veteran as next real estate chief - PERE. Pretium taps Brookfield veteran as next real estate chief PERE",
+          "contentFingerprint": "5f16c2e99893073f",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "sectors": [
+            "real estate"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "real estate"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.06,
+            "finalScore": 11.059999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-15-c89b7964a192",
           "title": "Capital Solutions: Five Questions Investors Ask Most Regularly - KKR: A Leading Global Investment Firm",
           "titleZh": "Capital Solutions: Five Questions Investors Ask Most Regularly - KKR: A Leading Global Investment Firm",
@@ -36394,6 +36590,43 @@
             "keywordScore": 6,
             "semanticScore": 4.77,
             "finalScore": 10.77,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-15-95022de9c222",
+          "title": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0",
+          "titleZh": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0",
+          "summary": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxXZGtkbzFSYkRBYUZWaVcyVExjbmxVVmpKMGRMRjRTZUgzN2JxZ1FobkR1dHktbE1HYjMyVGdITDJXTzV4Wk9HTnhiQUpCeTFES210T2FubWJwMjBjamlTVXk1T19uYmVhWjF3cU94SmhiWG5lZmdhQkpwdXdMdV9VUjNtQjNkbDFDNUVvOVZ2MkM4UUhFLTA3VVdZQVpseVE2SXYxUUh3TjNXZFFvYlRkOFRCTFZNSS1zZTlEQTg?oc=5",
+          "source": "Pulse 2.0",
+          "publishedAt": "2026-10-15",
+          "lede": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+          "articleExcerpt": "Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers - Pulse 2.0. Bain Capital Provides €130 Million Credit Facility To Support JLL Partners' Acquisition Of Life Couriers Pulse 2.0",
+          "contentFingerprint": "914ddb78d79ecbf0",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 7.44,
+            "finalScore": 18.44,
             "semanticEnabled": true
           }
         }
