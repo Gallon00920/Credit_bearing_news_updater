@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-16T23:17:26.502487+00:00",
+  "updatedAt": "2026-10-17T02:22:00.105585+00:00",
   "scope": {
     "regions": [
       "US",
@@ -36460,6 +36460,43 @@
               "finalScore": 10.77,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-15-be97a121f6de",
+            "title": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing",
+            "titleZh": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing",
+            "summary": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTWdtdm81U2hmR0otMzdCemVWYTRhMjIzbmJrZm4yNmhHYW93akc3MnE4Rll5T2c3ZG41OExaWldkSnl2MTZrTFB3SjRNdndGeDBqcW1kMjl6NHU3N0x1eDN1Z2FTeFo1S3lsQ2Z3cUc4eDJXU1paTA?oc=5",
+            "source": "Crypto Briefing",
+            "publishedAt": "2026-10-15",
+            "lede": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+            "articleExcerpt": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing. KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+            "contentFingerprint": "ce80763e3d2c8e89",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.71,
+              "finalScore": 9.71,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -36738,6 +36775,43 @@
             "keywordScore": 6,
             "semanticScore": 4.77,
             "finalScore": 10.77,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-15-be97a121f6de",
+          "title": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing",
+          "titleZh": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing",
+          "summary": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTWdtdm81U2hmR0otMzdCemVWYTRhMjIzbmJrZm4yNmhHYW93akc3MnE4Rll5T2c3ZG41OExaWldkSnl2MTZrTFB3SjRNdndGeDBqcW1kMjl6NHU3N0x1eDN1Z2FTeFo1S3lsQ2Z3cUc4eDJXU1paTA?oc=5",
+          "source": "Crypto Briefing",
+          "publishedAt": "2026-10-15",
+          "lede": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+          "articleExcerpt": "KKR-backed Catalio Capital seeks $500 million for AI healthcare startups - Crypto Briefing. KKR-backed Catalio Capital seeks $500 million for AI healthcare startups Crypto Briefing",
+          "contentFingerprint": "ce80763e3d2c8e89",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.71,
+            "finalScore": 9.71,
             "semanticEnabled": true
           }
         },
@@ -37210,6 +37284,24 @@
           }
         }
       ]
+    },
+    "2026-10-17": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
