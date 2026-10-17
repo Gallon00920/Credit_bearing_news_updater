@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-17T20:01:31.378794+00:00",
+  "updatedAt": "2026-10-17T22:01:16.102133+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37112,7 +37112,45 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-16-5ba512db4317",
+            "title": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com",
+            "titleZh": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com",
+            "summary": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05QUdjTHV0SUVRLUg0ZW5QSFhRaWhJV2FwSmdTV01ocV9sUTRVOUh5bkpUbnptNWh4dmExOFFRQ0Y1MERyXy1kSjM2MGQ3Wl94YW56aThDWGFQVVNWQjNZ?oc=5",
+            "source": "finance.biggo.com",
+            "publishedAt": "2026-10-16",
+            "lede": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+            "articleExcerpt": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com. AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+            "contentFingerprint": "d6f9ef88bbf34d84",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.79,
+              "finalScore": 15.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [
           {
             "id": "2026-10-16-07545dd11559",
@@ -37399,6 +37437,43 @@
             "keywordScore": 11,
             "semanticScore": 6.78,
             "finalScore": 17.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-16-5ba512db4317",
+          "title": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com",
+          "titleZh": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com",
+          "summary": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05QUdjTHV0SUVRLUg0ZW5QSFhRaWhJV2FwSmdTV01ocV9sUTRVOUh5bkpUbnptNWh4dmExOFFRQ0Y1MERyXy1kSjM2MGQ3Wl94YW56aThDWGFQVVNWQjNZ?oc=5",
+          "source": "finance.biggo.com",
+          "publishedAt": "2026-10-16",
+          "lede": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+          "articleExcerpt": "AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer - finance.biggo.com. AI Agents Cut 3-Day Portfolio Builds to Minutes — Jack McDonald, Apollo & Michael Manapat, Rowspace｜AI Engineer finance.biggo.com",
+          "contentFingerprint": "d6f9ef88bbf34d84",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.79,
+            "finalScore": 15.79,
             "semanticEnabled": true
           }
         },
