@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-18T12:23:03.641619+00:00",
+  "updatedAt": "2026-10-18T16:19:26.901305+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37770,12 +37770,88 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-18-db9e5de1c330",
+            "title": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de",
+            "titleZh": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de",
+            "summary": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUdWVG0zbW9HV3FxTEpCbk93Z25xcE5aeEY3eEZDLXNGa3BERUVmSG0ybTVPcU1INFp0Tl9pY2RMdjNabjNmOUdsakg1VDNFMVRZRWw5UmJnUjdCZjdSWFpadEF1aGlHdXJ5T0hqZVlCNkY1S0g0MHUwdk9TaHQtemM3OExYRlJiUS1QTmx0RW1fUk5FdGFmcXdlTXBlbEYybG1rLTNoRDZIVWw0QnJpZkYxUVhCQ1RXT0xJeHd1YV9BRlFMOVR0SGM4bw?oc=5",
+            "source": "ad-hoc-news.de",
+            "publishedAt": "2026-10-18",
+            "lede": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+            "articleExcerpt": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de. Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+            "contentFingerprint": "133cf65187cf3649",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.27,
+              "finalScore": 9.27,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-18-db9e5de1c330",
+          "title": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de",
+          "titleZh": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de",
+          "summary": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUdWVG0zbW9HV3FxTEpCbk93Z25xcE5aeEY3eEZDLXNGa3BERUVmSG0ybTVPcU1INFp0Tl9pY2RMdjNabjNmOUdsakg1VDNFMVRZRWw5UmJnUjdCZjdSWFpadEF1aGlHdXJ5T0hqZVlCNkY1S0g0MHUwdk9TaHQtemM3OExYRlJiUS1QTmx0RW1fUk5FdGFmcXdlTXBlbEYybG1rLTNoRDZIVWw0QnJpZkYxUVhCQ1RXT0xJeHd1YV9BRlFMOVR0SGM4bw?oc=5",
+          "source": "ad-hoc-news.de",
+          "publishedAt": "2026-10-18",
+          "lede": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+          "articleExcerpt": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de. Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading ad-hoc-news.de",
+          "contentFingerprint": "133cf65187cf3649",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.27,
+            "finalScore": 9.27,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
