@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-17T23:47:28.288873+00:00",
+  "updatedAt": "2026-10-18T02:17:19.639037+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37149,6 +37149,43 @@
               "finalScore": 15.79,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-16-fba0a40d9717",
+            "title": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "summary": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91a1dkUnJ4MDhjSFJZRU00cUZUWXJxcTNYSFgyc3lveUR5UjMxSVlKMFpfbml4NEs0WXJMaDVoUXozdy1EanNUc1ZTUUFUbDNV?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-16",
+            "lede": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada. Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "d2b1f69963ac547f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.72,
+              "finalScore": 16.72,
+              "semanticEnabled": true
+            }
           }
         ],
         "Bain Capital": [
@@ -37478,6 +37515,43 @@
           }
         },
         {
+          "id": "2026-10-16-fba0a40d9717",
+          "title": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "summary": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91a1dkUnJ4MDhjSFJZRU00cUZUWXJxcTNYSFgyc3lveUR5UjMxSVlKMFpfbml4NEs0WXJMaDVoUXozdy1EanNUc1ZTUUFUbDNV?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-16",
+          "lede": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History - Yahoo! Finance Canada. Apollo Global Management, Inc. (APO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "d2b1f69963ac547f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.72,
+            "finalScore": 16.72,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-16-07545dd11559",
           "title": "Bain Capital Provides €130MM Credit Facility to Support JLL Partners’ Acquisition - ABF Journal",
           "titleZh": "Bain Capital Provides €130MM Credit Facility to Support JLL Partners’ Acquisition - ABF Journal",
@@ -37609,6 +37683,24 @@
           }
         }
       ]
+    },
+    "2026-10-18": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
