@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-18T16:19:26.901305+00:00",
+  "updatedAt": "2026-10-18T19:11:00.551848+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37764,7 +37764,45 @@
         "Blue Owl": [],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-18-51c0a8ad4036",
+            "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+            "source": "KKR: A Leading Global Investment Firm",
+            "publishedAt": "2026-10-18",
+            "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "contentFingerprint": "5594514164798f74",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.0,
+              "finalScore": 11.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -37814,6 +37852,43 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-18-51c0a8ad4036",
+          "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+          "source": "KKR: A Leading Global Investment Firm",
+          "publishedAt": "2026-10-18",
+          "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "contentFingerprint": "5594514164798f74",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.0,
+            "finalScore": 11.0,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-18-db9e5de1c330",
           "title": "Apollo sets October 30 date. Apollo Global Management stock costs EUR 98.90 in weekend trading - ad-hoc-news.de",
