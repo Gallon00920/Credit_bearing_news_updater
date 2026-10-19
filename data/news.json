@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-19T00:40:46.343055+00:00",
+  "updatedAt": "2026-10-19T05:33:13.646382+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37709,7 +37709,49 @@
         "Pretium": [],
         "KKR": [],
         "PAG": [],
-        "Bayview": [],
+        "Bayview": [
+          {
+            "id": "2026-10-17-6799560d4323",
+            "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+            "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+            "source": "Mortgage Soup",
+            "publishedAt": "2026-10-17",
+            "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+            "contentFingerprint": "f6a56e29a36e497f",
+            "region": "Global",
+            "gps": [
+              "Bayview"
+            ],
+            "sectors": [
+              "mortgage"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bayview"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "mortgage"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.32,
+              "finalScore": 19.32,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
@@ -37865,6 +37907,47 @@
             "keywordScore": 3,
             "semanticScore": 6.12,
             "finalScore": 9.120000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-17-6799560d4323",
+          "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "titleZh": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
+          "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
+          "source": "Mortgage Soup",
+          "publishedAt": "2026-10-17",
+          "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "articleExcerpt": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup. Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
+          "contentFingerprint": "f6a56e29a36e497f",
+          "region": "Global",
+          "gps": [
+            "Bayview"
+          ],
+          "sectors": [
+            "mortgage"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bayview"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "mortgage"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.32,
+            "finalScore": 19.32,
             "semanticEnabled": true
           }
         },
