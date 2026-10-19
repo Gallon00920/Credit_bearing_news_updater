@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-19T05:33:13.646382+00:00",
+  "updatedAt": "2026-10-19T11:41:01.632181+00:00",
   "scope": {
     "regions": [
       "US",
@@ -38236,21 +38236,419 @@
     },
     "2026-10-19": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-19-5c535a60b19a",
+            "title": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ",
+            "titleZh": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ",
+            "summary": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVFjdS03alpuVU4wWVBLcFo4MmRoamVDLXozcDAwZkxnMmZMd3J2MDRZNnhPRTVlQ0pWTjlMaFhyNjB1SWpPUzdVOUlSem9kSlBSQUN0Wm9IWjFNRHFwdm5nRmc0cEo4d2tuYS0wTTBPOW9WaklzemFZU2tON2ZtSWdwcmduNkVWUmI1NDQ2TXBaSjhPeER3MVlTWkFjYnBOdTd3dk1BdkJCVURsdkVjMkxQVdIBvAFBVV95cUxNYmNOcEtyc283TUhDYlpaUXJCeHh2Vzc4cEkyMEcwbTBhUWlqOVB5VlpnSXlpZERfYU9IQTdJSi1Jb3BXX1M3ZjZjMWxFcFFUeTMzRWZrZ0J3anJhTHZzOFp1Q0VRMkhicXMxa3lRTE1MNjBHLVF6WTdKVXVCaUNxMnFnai1Gd1RRQlVsd29xR3QxZ2RNZzVzR09OSlFibkladUNJbXhxcWFVRjI3RGhDZDA2TGZaQm53U21YRQ?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-10-19",
+            "lede": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+            "articleExcerpt": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ. Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+            "contentFingerprint": "95d2279a535b5dae",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.83,
+              "finalScore": 8.83,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-19-0f094fb7673b",
+            "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz",
+            "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz",
+            "summary": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTG4zLUs1cEhrR1I4Yk5vNktQZ19vQkhmTlZQdG42d3RXSWh1a3lkcFoyRjJwNmpHbTFHblRydXBmdFctSm90S01STDBCYjRPWUc5ZFdtcHdwMFNNbm94d1JsbkpPUFZUSF8xMXFHT0paTlFSMWNJdmsyS2hJTXRJUFp6aUhka3FiZ3RxemtOOVE0cFU?oc=5",
+            "source": "Finviz",
+            "publishedAt": "2026-10-19",
+            "lede": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+            "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz. KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+            "contentFingerprint": "b91d81c0427523e8",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.89,
+              "finalScore": 8.89,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-19-bcc71d9874fa",
+            "title": "KKR to Sell Infinity Transportation to Ares for $2.9B",
+            "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9B",
+            "summary": "er 19, 2026 @ 08:00 AM KKR to Sell Infinity Transportation to Ares for $2.9B KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an... Read Story Filed Under: Rail Transportation Flatbay Capital Closes $1.1MM CRE Refinancing for Supplement Manufacturer Flatbay Capital closed a $1.1 million commercial real estate refinancing...",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.abladvisor.com/news/43905/kkr-to-sell-infinity-transportation-to-ares-for-2-9b",
+            "source": "ABL Advisor News",
+            "publishedAt": "2026-10-19",
+            "lede": "er 19, 2026 @ 08:00 AM KKR to Sell Infinity Transportation to Ares for $2.9B KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an... Read Story Filed Under: Rail Transportation Flatbay Capital Closes $1.1MM CRE Refinancing for Supplement Manufacturer Flatbay Capital closed a $1.1 million commercial real estate refinancing...",
+            "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9B. KKR to Sell Infinity Transportation to Ares for $2.9B - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. KKR to Sell Infinity Transportation to Ares for $2.9B October 19, 2026, 07:58 AM Filed Under: Rail Transportation Related: Ares Management Corporation , Intermodal , KKR , Macquarie Capital , Private Debt , Private Equity , Rail , Railcars KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals and is expected to close in the first quarter of 2027. Founded",
+            "contentFingerprint": "5a38a728a700074c",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "asset-backed lending",
+              "real estate",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending",
+                "real estate",
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.03,
+              "finalScore": 25.03,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-19-8b9c4cdd817e",
+            "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
+            "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
+            "summary": "NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion.",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "http://www.businesswire.com/news/home/20261019755280/en/KKR-to-Sell-Infinity-Transportation-to-Ares-for-2.9-Billion/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+            "source": "Google News",
+            "publishedAt": "2026-10-19",
+            "lede": "NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals",
+            "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion. NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals",
+            "contentFingerprint": "0f6ea632c14084a0",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 6.71,
+              "finalScore": 18.71,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-19-6c7017f5d475",
+            "title": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de",
+            "titleZh": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de",
+            "summary": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWM2SldwTW9MRDdaeVpyN2UwOFFmX1hxSWZXSWFXcFJjaUJNQjZNNV81RVFhZU14QnowaUtyVzRtWm41ZTNCR0phY0h6SmxleW5GS2wyTExkVnN0Q2M2aWdVRC1VRjMyWFFRZnp0OHlIWWNZcXg5WldnTF9Cd0c0YXpQZ2RLRE5EaV9sWVh5UUVOaGZwRGJSR1ZzZUdhZ01ZcHF3OFk0VHljdzJzalZFbEowWVFzN0NsR2tsc3RUN214c0NXM0VpbFE3VVFySDh6ZWc?oc=5",
+            "source": "ad-hoc-news.de",
+            "publishedAt": "2026-10-19",
+            "lede": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+            "articleExcerpt": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de. Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+            "contentFingerprint": "d20546f3ba7cbaac",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.53,
+              "finalScore": 17.53,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-19-5c535a60b19a",
+          "title": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ",
+          "titleZh": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ",
+          "summary": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVFjdS03alpuVU4wWVBLcFo4MmRoamVDLXozcDAwZkxnMmZMd3J2MDRZNnhPRTVlQ0pWTjlMaFhyNjB1SWpPUzdVOUlSem9kSlBSQUN0Wm9IWjFNRHFwdm5nRmc0cEo4d2tuYS0wTTBPOW9WaklzemFZU2tON2ZtSWdwcmduNkVWUmI1NDQ2TXBaSjhPeER3MVlTWkFjYnBOdTd3dk1BdkJCVURsdkVjMkxQVdIBvAFBVV95cUxNYmNOcEtyc283TUhDYlpaUXJCeHh2Vzc4cEkyMEcwbTBhUWlqOVB5VlpnSXlpZERfYU9IQTdJSi1Jb3BXX1M3ZjZjMWxFcFFUeTMzRWZrZ0J3anJhTHZzOFp1Q0VRMkhicXMxa3lRTE1MNjBHLVF6WTdKVXVCaUNxMnFnai1Gd1RRQlVsd29xR3QxZ2RNZzVzR09OSlFibkladUNJbXhxcWFVRjI3RGhDZDA2TGZaQm53U21YRQ?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-10-19",
+          "lede": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+          "articleExcerpt": "Blue Owl founders promised a comeback. The company’s share price hasn’t budged. - WSJ. Blue Owl founders promised a comeback. The company’s share price hasn’t budged. WSJ",
+          "contentFingerprint": "95d2279a535b5dae",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.83,
+            "finalScore": 8.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-0f094fb7673b",
+          "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz",
+          "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz",
+          "summary": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTG4zLUs1cEhrR1I4Yk5vNktQZ19vQkhmTlZQdG42d3RXSWh1a3lkcFoyRjJwNmpHbTFHblRydXBmdFctSm90S01STDBCYjRPWUc5ZFdtcHdwMFNNbm94d1JsbkpPUFZUSF8xMXFHT0paTlFSMWNJdmsyS2hJTXRJUFp6aUhka3FiZ3RxemtOOVE0cFU?oc=5",
+          "source": "Finviz",
+          "publishedAt": "2026-10-19",
+          "lede": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+          "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion - Finviz. KKR to Sell Infinity Transportation to Ares for $2.9 Billion Finviz",
+          "contentFingerprint": "b91d81c0427523e8",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.89,
+            "finalScore": 8.89,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-bcc71d9874fa",
+          "title": "KKR to Sell Infinity Transportation to Ares for $2.9B",
+          "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9B",
+          "summary": "er 19, 2026 @ 08:00 AM KKR to Sell Infinity Transportation to Ares for $2.9B KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an... Read Story Filed Under: Rail Transportation Flatbay Capital Closes $1.1MM CRE Refinancing for Supplement Manufacturer Flatbay Capital closed a $1.1 million commercial real estate refinancing...",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.abladvisor.com/news/43905/kkr-to-sell-infinity-transportation-to-ares-for-2-9b",
+          "source": "ABL Advisor News",
+          "publishedAt": "2026-10-19",
+          "lede": "er 19, 2026 @ 08:00 AM KKR to Sell Infinity Transportation to Ares for $2.9B KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an... Read Story Filed Under: Rail Transportation Flatbay Capital Closes $1.1MM CRE Refinancing for Supplement Manufacturer Flatbay Capital closed a $1.1 million commercial real estate refinancing...",
+          "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9B. KKR to Sell Infinity Transportation to Ares for $2.9B - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. KKR to Sell Infinity Transportation to Ares for $2.9B October 19, 2026, 07:58 AM Filed Under: Rail Transportation Related: Ares Management Corporation , Intermodal , KKR , Macquarie Capital , Private Debt , Private Equity , Rail , Railcars KKR and Ares Management announced a definitive agreement under which KKR will sell Infinity Transportation, a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals and is expected to close in the first quarter of 2027. Founded",
+          "contentFingerprint": "5a38a728a700074c",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "asset-backed lending",
+            "real estate",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending",
+              "real estate",
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.03,
+            "finalScore": 25.03,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-8b9c4cdd817e",
+          "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
+          "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
+          "summary": "NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion.",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "http://www.businesswire.com/news/home/20261019755280/en/KKR-to-Sell-Infinity-Transportation-to-Ares-for-2.9-Billion/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+          "source": "Google News",
+          "publishedAt": "2026-10-19",
+          "lede": "NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals",
+          "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion. NEW YORK--(BUSINESS WIRE)--KKR & Co. Inc. (NYSE: KKR) and Ares Management Corporation (NYSE: ARES) (“Ares”) today announced a definitive agreement under which KKR will sell Infinity Transportation (“Infinity” or the “Company”), a scaled, full-service railcar and intermodal equipment lessor, to Ares Infrastructure Equity and Ares Insurance Solutions funds for an enterprise value of approximately $2.9 billion. The transaction is subject to customary closing conditions and regulatory approvals",
+          "contentFingerprint": "0f6ea632c14084a0",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 6.71,
+            "finalScore": 18.71,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-6c7017f5d475",
+          "title": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de",
+          "titleZh": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de",
+          "summary": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWM2SldwTW9MRDdaeVpyN2UwOFFmX1hxSWZXSWFXcFJjaUJNQjZNNV81RVFhZU14QnowaUtyVzRtWm41ZTNCR0phY0h6SmxleW5GS2wyTExkVnN0Q2M2aWdVRC1VRjMyWFFRZnp0OHlIWWNZcXg5WldnTF9Cd0c0YXpQZ2RLRE5EaV9sWVh5UUVOaGZwRGJSR1ZzZUdhZ01ZcHF3OFk0VHljdzJzalZFbEowWVFzN0NsR2tsc3RUN214c0NXM0VpbFE3VVFySDh6ZWc?oc=5",
+          "source": "ad-hoc-news.de",
+          "publishedAt": "2026-10-19",
+          "lede": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+          "articleExcerpt": "Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 - ad-hoc-news.de. Apollo expands credit pricing as Apollo Global Management stock costs EUR 99.46 ad-hoc-news.de",
+          "contentFingerprint": "d20546f3ba7cbaac",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.53,
+            "finalScore": 17.53,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
