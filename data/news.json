@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-19T18:06:23.473625+00:00",
+  "updatedAt": "2026-10-19T22:12:28.563825+00:00",
   "scope": {
     "regions": [
       "US",
@@ -37707,7 +37707,45 @@
         ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-17-e4f9d1aabcc5",
+            "title": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "summary": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo!",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwSkl1Sy1FR0FpQ056MDZqSHgxVy12X0V2R0d5TGE2M19LVWdzd3p1dVo1WWZCczE0aEZCWTdZaWh1anZXa0JnTFpITVRYZGlV?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-17",
+            "lede": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "4ce94189f36f1aa4",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.31,
+              "finalScore": 16.31,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [
           {
@@ -37907,6 +37945,43 @@
             "keywordScore": 3,
             "semanticScore": 6.12,
             "finalScore": 9.120000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-17-e4f9d1aabcc5",
+          "title": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "summary": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo!",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwSkl1Sy1FR0FpQ056MDZqSHgxVy12X0V2R0d5TGE2M19LVWdzd3p1dVo1WWZCczE0aEZCWTdZaWh1anZXa0JnTFpITVRYZGlV?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-17",
+          "lede": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "4ce94189f36f1aa4",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.31,
+            "finalScore": 16.31,
             "semanticEnabled": true
           }
         },
@@ -38347,6 +38422,43 @@
               "finalScore": 9.17,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-19-f006abe01a5f",
+            "title": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat",
+            "titleZh": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat",
+            "summary": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2RDWGpBc0EyLXM3cFJFSGRGdW5UMVpWY00wRmdmWmdSZ1h6VjVtZGxtcXUxMkNIREtxY3RodGFJZGNvOWlFenZhcUNaVzdETTN5QVBXYW1RSlhHUkxhQU43QTJlMEpwVzlVOW95WXdwM3NrWlJPWmgwbVhNUHpQd2RFTE9FbTEtZXc2ZkVvNFYwaUVsamlfVE9EUzBydHpFRTFBN3hhT2JRdXNEaExyRGgtR2VkeVNmQnRMZzhBSTZJOEJKS3c?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-19",
+            "lede": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+            "articleExcerpt": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat. Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+            "contentFingerprint": "87639eadd5cb2740",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 6.64,
+              "finalScore": 11.64,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -38622,6 +38734,117 @@
               "finalScore": 8.52,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-19-69cf23e469af",
+            "title": "KKR targets LEC priority projects for financing - Inquirer.net",
+            "titleZh": "KKR targets LEC priority projects for financing - Inquirer.net",
+            "summary": "KKR targets LEC priority projects for financing Inquirer.net",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnYzTE13WFVqcXFtX3FGZ3BwcExCZC1KV1VTbUlNTS1tRG9rT2VlWV9YTjNnbXlWdXFaRDlsZUwzQTUxMWlqckd4Z29XWEVjSlpMQUVmTGhYNjZhR3lfRWM3S2FwNE50eWs4cnhiUnlwYnFpZ3M0OGotSlNOVy1Bb0s4b0hhZVJURy1NYtIBkgFBVV95cUxOYThONzhuOFdGclV0YV93WHhrY0pmUVI1YVE5by1wcnJ4aGNrWklEYW5vNUlCSDh0YjgwZHVsTmRwMUdKMkFSRXVVVkRRSHdkNnh5WnIwT3lpTEJjTGltUWY1TGZ4Z1FCUFRvRXV5Mm1abjR6ZjlVWHgyeTl6NGlQdUhGbmRldXRuRTRRWkpNN1Mxdw?oc=5",
+            "source": "Inquirer.net",
+            "publishedAt": "2026-10-19",
+            "lede": "KKR targets LEC priority projects for financing Inquirer.net",
+            "articleExcerpt": "KKR targets LEC priority projects for financing - Inquirer.net. KKR targets LEC priority projects for financing Inquirer.net",
+            "contentFingerprint": "483a99ec55c26625",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.61,
+              "finalScore": 16.61,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-19-e3661bdb5ac6",
+            "title": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha",
+            "titleZh": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha",
+            "summary": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0NaYVU1UnNSbnlPbFl1S0VVRHR2NEZWd05lQmo5ZHlUNlNwbTVwUHNUQWRZVkNnQ3pVYkh6X09USTI1M0FOU0VvLUlPMDBUT0NzcGdYUkZnMDZqSDlBY3ZnbjFnSXZVaGN2MzZyZUxSSHV1OFlpdngwVW52RFRMRlY2dU1BY0lEZXFn?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-10-19",
+            "lede": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+            "articleExcerpt": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha. KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+            "contentFingerprint": "837b43651c59cef1",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 5.15,
+              "finalScore": 10.15,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-19-1682d99f96b2",
+            "title": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk",
+            "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk",
+            "summary": "KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVFnajBzZ2tPT1hENVVUZmtQcUV1V2d5V2k0VzltM0tpV082MG1ON1pkampRVFpZUU1WektJLTNManRpd205TXJBcFVBU05EcGdWeDNLdnUzZXdWUFNBdG5wZlJRWEVzRjdDNU9mbjFZVUFncjY2U0t2eU5wTEtYdmNiUXQ0UkpydG96THphTkE?oc=5",
+            "source": "Financial-News.co.uk",
+            "publishedAt": "2026-10-19",
+            "lede": "KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+            "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk. KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+            "contentFingerprint": "5bdd77e59df4d6fa",
+            "region": "Europe",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 4,
+              "semanticScore": 5.89,
+              "finalScore": 9.89,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [
@@ -38829,6 +39052,43 @@
             "keywordScore": 3,
             "semanticScore": 6.17,
             "finalScore": 9.17,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-f006abe01a5f",
+          "title": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat",
+          "titleZh": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat",
+          "summary": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2RDWGpBc0EyLXM3cFJFSGRGdW5UMVpWY00wRmdmWmdSZ1h6VjVtZGxtcXUxMkNIREtxY3RodGFJZGNvOWlFenZhcUNaVzdETTN5QVBXYW1RSlhHUkxhQU43QTJlMEpwVzlVOW95WXdwM3NrWlJPWmgwbVhNUHpQd2RFTE9FbTEtZXc2ZkVvNFYwaUVsamlfVE9EUzBydHpFRTFBN3hhT2JRdXNEaExyRGgtR2VkeVNmQnRMZzhBSTZJOEJKS3c?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-19",
+          "lede": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+          "articleExcerpt": "Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler - MarketBeat. Blue Owl Capital (NYSE:OWL) Stock Price Target Cut by Piper Sandler MarketBeat",
+          "contentFingerprint": "87639eadd5cb2740",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 6.64,
+            "finalScore": 11.64,
             "semanticEnabled": true
           }
         },
@@ -39100,6 +39360,117 @@
             "keywordScore": 3,
             "semanticScore": 5.52,
             "finalScore": 8.52,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-69cf23e469af",
+          "title": "KKR targets LEC priority projects for financing - Inquirer.net",
+          "titleZh": "KKR targets LEC priority projects for financing - Inquirer.net",
+          "summary": "KKR targets LEC priority projects for financing Inquirer.net",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnYzTE13WFVqcXFtX3FGZ3BwcExCZC1KV1VTbUlNTS1tRG9rT2VlWV9YTjNnbXlWdXFaRDlsZUwzQTUxMWlqckd4Z29XWEVjSlpMQUVmTGhYNjZhR3lfRWM3S2FwNE50eWs4cnhiUnlwYnFpZ3M0OGotSlNOVy1Bb0s4b0hhZVJURy1NYtIBkgFBVV95cUxOYThONzhuOFdGclV0YV93WHhrY0pmUVI1YVE5by1wcnJ4aGNrWklEYW5vNUlCSDh0YjgwZHVsTmRwMUdKMkFSRXVVVkRRSHdkNnh5WnIwT3lpTEJjTGltUWY1TGZ4Z1FCUFRvRXV5Mm1abjR6ZjlVWHgyeTl6NGlQdUhGbmRldXRuRTRRWkpNN1Mxdw?oc=5",
+          "source": "Inquirer.net",
+          "publishedAt": "2026-10-19",
+          "lede": "KKR targets LEC priority projects for financing Inquirer.net",
+          "articleExcerpt": "KKR targets LEC priority projects for financing - Inquirer.net. KKR targets LEC priority projects for financing Inquirer.net",
+          "contentFingerprint": "483a99ec55c26625",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.61,
+            "finalScore": 16.61,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-e3661bdb5ac6",
+          "title": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha",
+          "titleZh": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha",
+          "summary": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0NaYVU1UnNSbnlPbFl1S0VVRHR2NEZWd05lQmo5ZHlUNlNwbTVwUHNUQWRZVkNnQ3pVYkh6X09USTI1M0FOU0VvLUlPMDBUT0NzcGdYUkZnMDZqSDlBY3ZnbjFnSXZVaGN2MzZyZUxSSHV1OFlpdngwVW52RFRMRlY2dU1BY0lEZXFn?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-10-19",
+          "lede": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+          "articleExcerpt": "KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) - Seeking Alpha. KKR Is A Quality Fee Stream Priced For A Bad Year (NYSE:KKR) Seeking Alpha",
+          "contentFingerprint": "837b43651c59cef1",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 5.15,
+            "finalScore": 10.15,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-19-1682d99f96b2",
+          "title": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk",
+          "titleZh": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk",
+          "summary": "KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVFnajBzZ2tPT1hENVVUZmtQcUV1V2d5V2k0VzltM0tpV082MG1ON1pkampRVFpZUU1WektJLTNManRpd205TXJBcFVBU05EcGdWeDNLdnUzZXdWUFNBdG5wZlJRWEVzRjdDNU9mbjFZVUFncjY2U0t2eU5wTEtYdmNiUXQ0UkpydG96THphTkE?oc=5",
+          "source": "Financial-News.co.uk",
+          "publishedAt": "2026-10-19",
+          "lede": "KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+          "articleExcerpt": "KKR to Sell Infinity Transportation to Ares for $2.9bn - Financial-News.co.uk. KKR to Sell Infinity Transportation to Ares for $2.9bn Financial-News.co.uk",
+          "contentFingerprint": "5bdd77e59df4d6fa",
+          "region": "Europe",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 4,
+            "semanticScore": 5.89,
+            "finalScore": 9.89,
             "semanticEnabled": true
           }
         },
