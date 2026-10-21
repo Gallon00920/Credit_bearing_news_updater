@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-21T00:28:47.742231+00:00",
+  "updatedAt": "2026-10-21T05:47:09.371969+00:00",
   "scope": {
     "regions": [
       "US",
@@ -39813,12 +39813,88 @@
         "CIFC": [],
         "Basepoint": [],
         "NB": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-21-07045087e775",
+            "title": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel",
+            "titleZh": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel",
+            "summary": "Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZbzRuWkJwbDZkOHNaZkJRUXZBSXNha3FUX2tQa0Q0NEtHY2RnakZqMk05c0M3NEM2S3hrM21URGR4SWlPeU83aGQtTm9heWstM3BERU9SempQVmx6NWdIb1AtUTNSNWpjYmxza3V3QXRXWHc2S3gwMF9UOUJ4NlY5dzZTZlh4V1V5VGxwSVhwVjZySWJwVDIyY0Rhc3UtS2xMblZENGdxdlYwZkxsX3hnZ2xfQlU4b3dZcQ?oc=5",
+            "source": "finchannel",
+            "publishedAt": "2026-10-21",
+            "lede": "Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+            "articleExcerpt": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel. Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+            "contentFingerprint": "9306be7f947ca086",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.53,
+              "finalScore": 7.53,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Bain Capital": [],
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-21-07045087e775",
+          "title": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel",
+          "titleZh": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel",
+          "summary": "Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZbzRuWkJwbDZkOHNaZkJRUXZBSXNha3FUX2tQa0Q0NEtHY2RnakZqMk05c0M3NEM2S3hrM21URGR4SWlPeU83aGQtTm9heWstM3BERU9SempQVmx6NWdIb1AtUTNSNWpjYmxza3V3QXRXWHc2S3gwMF9UOUJ4NlY5dzZTZlh4V1V5VGxwSVhwVjZySWJwVDIyY0Rhc3UtS2xMblZENGdxdlYwZkxsX3hnZ2xfQlU4b3dZcQ?oc=5",
+          "source": "finchannel",
+          "publishedAt": "2026-10-21",
+          "lede": "Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+          "articleExcerpt": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel. Apollo names Ribbit Capital founder Micky Malka to board finchannel",
+          "contentFingerprint": "9306be7f947ca086",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.53,
+            "finalScore": 7.53,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
