@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-20T21:15:43.997386+00:00",
+  "updatedAt": "2026-10-21T00:28:47.742231+00:00",
   "scope": {
     "regions": [
       "US",
@@ -38882,6 +38882,43 @@
               "finalScore": 16.31,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-19-41bbf26aa224",
+            "title": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch",
+            "titleZh": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch",
+            "summary": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3NfY0xJdHVyWEY3YkRSbUhoMkIxMkl1Z3E5Q2xaZ0gyWElTX1REQ3F2N2lXU0dHWV9OZUtQUnljUnVZX3o4STQ4TEY0Z3ZZYzhtV1d1SGpOelloek0tRTk5aU9aVDI1dzgtRU4wTV9kNXdKWkpUeVlYaGtTZU5oV0hTTHZRNi1Za3ZwdEV2aEVVR3JtcmpsQzd5T01XQ28?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-10-19",
+            "lede": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+            "articleExcerpt": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch. Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+            "contentFingerprint": "05193494d0c7d0e3",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.9,
+              "finalScore": 8.9,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [
@@ -39549,6 +39586,43 @@
           }
         },
         {
+          "id": "2026-10-19-41bbf26aa224",
+          "title": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch",
+          "titleZh": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch",
+          "summary": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3NfY0xJdHVyWEY3YkRSbUhoMkIxMkl1Z3E5Q2xaZ0gyWElTX1REQ3F2N2lXU0dHWV9OZUtQUnljUnVZX3o4STQ4TEY0Z3ZZYzhtV1d1SGpOelloek0tRTk5aU9aVDI1dzgtRU4wTV9kNXdKWkpUeVlYaGtTZU5oV0hTTHZRNi1Za3ZwdEV2aEVVR3JtcmpsQzd5T01XQ28?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-10-19",
+          "lede": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+          "articleExcerpt": "Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn - Alternatives Watch. Ares infrastructure, insurance funds to buy KKR’s railcar lessor for $2.9bn Alternatives Watch",
+          "contentFingerprint": "05193494d0c7d0e3",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.9,
+            "finalScore": 8.9,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-19-d0728b4622fb",
           "title": "Non-Agency U/W, Borrower Retention, AI Governance Tools; Conventional News; Let AI Manage Your Money?",
           "titleZh": "Non-Agency U/W, Borrower Retention, AI Governance Tools; Conventional News; Let AI Manage Your Money?",
@@ -39727,6 +39801,24 @@
           }
         }
       ]
+    },
+    "2026-10-21": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": []
     }
   }
 }
