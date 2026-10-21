@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-21T05:47:09.371969+00:00",
+  "updatedAt": "2026-10-21T11:05:40.309934+00:00",
   "scope": {
     "regions": [
       "US",
@@ -39850,6 +39850,43 @@
               "finalScore": 7.53,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-21-a2f9c11b4b85",
+            "title": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS",
+            "titleZh": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS",
+            "summary": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZHNyN1hPSGltVnZIMjZUN3BRUHhUcE9FTXFLMzN0SmNXSF9RT0xYbnNZRlk5a0FlWlgyamEyRFdsbms3d1FFaE0yb3I4dUxOTFpYREExQm5wb3cyTko3Q1RNRWhpMk5pdlUwb053WnJEb1lzMGJEQjZRODdIR3pVSXdQSTVXVjBRSjE2ek96NlJDb0h4U3RQWmZNZDJleVpQd0F2VE1xWmtWUWNmamRBLVdVdHNTdFVnNGRybjZWeW8welRHb21RNTNZS2xCUFA2SmxfRnhJT240M2hZSFlLTkJwcUY4LWpEX1g0?oc=5",
+            "source": "AD HOC NEWS",
+            "publishedAt": "2026-10-21",
+            "lede": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+            "articleExcerpt": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS. Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+            "contentFingerprint": "545e7bfc718b3e81",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 7.14,
+              "finalScore": 10.14,
+              "semanticEnabled": true
+            }
           }
         ],
         "Bain Capital": [],
@@ -39891,6 +39928,43 @@
             "keywordScore": 3,
             "semanticScore": 4.53,
             "finalScore": 7.53,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-21-a2f9c11b4b85",
+          "title": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS",
+          "titleZh": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS",
+          "summary": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZHNyN1hPSGltVnZIMjZUN3BRUHhUcE9FTXFLMzN0SmNXSF9RT0xYbnNZRlk5a0FlWlgyamEyRFdsbms3d1FFaE0yb3I4dUxOTFpYREExQm5wb3cyTko3Q1RNRWhpMk5pdlUwb053WnJEb1lzMGJEQjZRODdIR3pVSXdQSTVXVjBRSjE2ek96NlJDb0h4U3RQWmZNZDJleVpQd0F2VE1xWmtWUWNmamRBLVdVdHNTdFVnNGRybjZWeW8welRHb21RNTNZS2xCUFA2SmxfRnhJT240M2hZSFlLTkJwcUY4LWpEX1g0?oc=5",
+          "source": "AD HOC NEWS",
+          "publishedAt": "2026-10-21",
+          "lede": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+          "articleExcerpt": "Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results - AD HOC NEWS. Apollo expands USD 850 billion daily pricing ahead of Apollo Global Management stock results AD HOC NEWS",
+          "contentFingerprint": "545e7bfc718b3e81",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 7.14,
+            "finalScore": 10.14,
             "semanticEnabled": true
           }
         }
