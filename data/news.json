@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-22T17:56:02.873448+00:00",
+  "updatedAt": "2026-10-22T21:15:18.541755+00:00",
   "scope": {
     "regions": [
       "US",
@@ -39747,6 +39747,43 @@
               "finalScore": 9.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-20-53b4ec381e68",
+            "title": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits",
+            "titleZh": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits",
+            "summary": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PWWFCdWFUTmVNdWRtY09JckJKZDNSWjE5NWVHSTBpSTN0VmxodFNGUFhwQW9KUjBFWXJiMnExZTZvQzJZeXJzOWFRb0J6TWc?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-10-20",
+            "lede": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+            "articleExcerpt": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits. Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+            "contentFingerprint": "e408dd6982adfb03",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.34,
+              "finalScore": 9.34,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -39797,6 +39834,43 @@
             "keywordScore": 5,
             "semanticScore": 4.42,
             "finalScore": 9.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-20-53b4ec381e68",
+          "title": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits",
+          "titleZh": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits",
+          "summary": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PWWFCdWFUTmVNdWRtY09JckJKZDNSWjE5NWVHSTBpSTN0VmxodFNGUFhwQW9KUjBFWXJiMnExZTZvQzJZeXJzOWFRb0J6TWc?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-10-20",
+          "lede": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+          "articleExcerpt": "Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates - Stocktwits. Blue Owl Capital Inc - Ordinary Shares - Class A (OWL) News, Articles, Events & Latest Updates Stocktwits",
+          "contentFingerprint": "e408dd6982adfb03",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.34,
+            "finalScore": 9.34,
             "semanticEnabled": true
           }
         }
