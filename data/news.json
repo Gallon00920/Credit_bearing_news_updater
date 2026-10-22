@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-21T23:08:21.583820+00:00",
+  "updatedAt": "2026-10-22T01:19:16.211547+00:00",
   "scope": {
     "regions": [
       "US",
@@ -39965,6 +39965,100 @@
             "keywordScore": 3,
             "semanticScore": 7.14,
             "finalScore": 10.14,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-10-22": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [],
+        "PAG": [
+          {
+            "id": "2026-10-22-ed77a2e4bb58",
+            "title": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire",
+            "titleZh": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire",
+            "summary": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzIxMGNZSmI1LXNvWjZsX1VFbUJDZTVVaXFXamlwbE1HaTBlQkFfdnUtZ2Z6YUpReDRSSzZ3emlNN1hVQ3poUE9yQVhvbjlMRDlkU3FHTzhnZ1RIbWd5aU1ENkRyR3NxVkZQcDgzT1JPZUxfZC1CRlY3ZGV4YUhFT21mOVV4ajFlaHpiOVM2U3ZoaGpsd09WTjhlS19BUQ?oc=5",
+            "source": "The Auto Wire",
+            "publishedAt": "2026-10-22",
+            "lede": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+            "articleExcerpt": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire. Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+            "contentFingerprint": "efc0bdc2959fb2a6",
+            "region": "Global",
+            "gps": [
+              "PAG"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "PAG"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.59,
+              "finalScore": 8.59,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": [
+        {
+          "id": "2026-10-22-ed77a2e4bb58",
+          "title": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire",
+          "titleZh": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire",
+          "summary": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzIxMGNZSmI1LXNvWjZsX1VFbUJDZTVVaXFXamlwbE1HaTBlQkFfdnUtZ2Z6YUpReDRSSzZ3emlNN1hVQ3poUE9yQVhvbjlMRDlkU3FHTzhnZ1RIbWd5aU1ENkRyR3NxVkZQcDgzT1JPZUxfZC1CRlY3ZGV4YUhFT21mOVV4ajFlaHpiOVM2U3ZoaGpsd09WTjhlS19BUQ?oc=5",
+          "source": "The Auto Wire",
+          "publishedAt": "2026-10-22",
+          "lede": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+          "articleExcerpt": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire. Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders The Auto Wire",
+          "contentFingerprint": "efc0bdc2959fb2a6",
+          "region": "Global",
+          "gps": [
+            "PAG"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "PAG"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.59,
+            "finalScore": 8.59,
             "semanticEnabled": true
           }
         }
