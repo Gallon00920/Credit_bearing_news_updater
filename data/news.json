@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-22T01:19:16.211547+00:00",
+  "updatedAt": "2026-10-22T07:05:56.626807+00:00",
   "scope": {
     "regions": [
       "US",
@@ -39807,7 +39807,45 @@
         "Blue Owl": [],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-21-e4f9d1aabcc5",
+            "title": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "summary": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo!",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwSkl1Sy1FR0FpQ056MDZqSHgxVy12X0V2R0d5TGE2M19LVWdzd3p1dVo1WWZCczE0aEZCWTdZaWh1anZXa0JnTFpITVRYZGlV?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-21",
+            "lede": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "fa2be4f8a7d04254",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.31,
+              "finalScore": 16.31,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -39894,6 +39932,43 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-21-e4f9d1aabcc5",
+          "title": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "summary": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo!",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwSkl1Sy1FR0FpQ056MDZqSHgxVy12X0V2R0d5TGE2M19LVWdzd3p1dVo1WWZCczE0aEZCWTdZaWh1anZXa0JnTFpITVRYZGlV?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-21",
+          "lede": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "KKR & Co. Inc. (KKR) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR & Co. Inc. (KKR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "fa2be4f8a7d04254",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.31,
+            "finalScore": 16.31,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-21-07045087e775",
           "title": "Apollo names Ribbit Capital founder Micky Malka to board - finchannel",
