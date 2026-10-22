@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-22T07:05:56.626807+00:00",
+  "updatedAt": "2026-10-22T12:51:28.462444+00:00",
   "scope": {
     "regions": [
       "US",
@@ -40047,7 +40047,45 @@
     },
     "2026-10-22": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-22-46048db941f4",
+            "title": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat",
+            "titleZh": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat",
+            "summary": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW15dlFadXNFTjAtejlTZDZqa3B2YTBaN2FHWVFCR3lfUWlkYm45czZEeFVSczhfOHNRbHh3ekZjblJyczlJWTh6QWNwb01xU25Ra2pNUnIwN1lZNnBnb3NTSFN1Rm52MG9EcEl2Y0lEMUdwX0lacjUxYVlvMURzYXc4b0ZiUGxTTEt0V0VPbXNnX2NhYncwY3dHbFBGb1NNTF83MGt6dlhCQTRpWlVZWUdqUUNPeTd3V0ctMktOQUJ4UQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-22",
+            "lede": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+            "articleExcerpt": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat. Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+            "contentFingerprint": "599ba20dcded4e9c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.66,
+              "finalScore": 9.66,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
         "KKR": [],
@@ -40100,6 +40138,43 @@
         "HSBC AM": []
       },
       "items": [
+        {
+          "id": "2026-10-22-46048db941f4",
+          "title": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat",
+          "titleZh": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat",
+          "summary": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW15dlFadXNFTjAtejlTZDZqa3B2YTBaN2FHWVFCR3lfUWlkYm45czZEeFVSczhfOHNRbHh3ekZjblJyczlJWTh6QWNwb01xU25Ra2pNUnIwN1lZNnBnb3NTSFN1Rm52MG9EcEl2Y0lEMUdwX0lacjUxYVlvMURzYXc4b0ZiUGxTTEt0V0VPbXNnX2NhYncwY3dHbFBGb1NNTF83MGt6dlhCQTRpWlVZWUdqUUNPeTd3V0ctMktOQUJ4UQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-22",
+          "lede": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+          "articleExcerpt": "Blue Owl Capital (OWL) Expected to Release Earnings on Thursday - MarketBeat. Blue Owl Capital (OWL) Expected to Release Earnings on Thursday MarketBeat",
+          "contentFingerprint": "599ba20dcded4e9c",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.66,
+            "finalScore": 9.66,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-22-ed77a2e4bb58",
           "title": "Penske and Mitsui Are Taking PAG Private for $16.3 Billion, With Help From Toyota’s and Mercedes’ Lenders - The Auto Wire",
