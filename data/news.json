@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-23T18:15:46.281226+00:00",
+  "updatedAt": "2026-10-23T21:55:30.492124+00:00",
   "scope": {
     "regions": [
       "US",
@@ -40491,6 +40491,43 @@
               "finalScore": 17.83,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-22-1214cb0d8943",
+            "title": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia",
+            "titleZh": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia",
+            "summary": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVWc3WndlcEtKQlc5SXA2N3llNnBTaXFtVGRxYUVQTXhhYzBXcFdGcXQ4U3B6eU5QVFNHNTJvOF9XZ1NpbnJpNWNHMFptVjZiaEdzb1JfYlZzQ19iT2xxNw?oc=5",
+            "source": "Yahoo Finance Australia",
+            "publishedAt": "2026-10-22",
+            "lede": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia. Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+            "contentFingerprint": "6cf86658fd90d6d2",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.76,
+              "finalScore": 17.759999999999998,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -40913,6 +40950,43 @@
             "keywordScore": 11,
             "semanticScore": 6.83,
             "finalScore": 17.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-22-1214cb0d8943",
+          "title": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia",
+          "titleZh": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia",
+          "summary": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVWc3WndlcEtKQlc5SXA2N3llNnBTaXFtVGRxYUVQTXhhYzBXcFdGcXQ4U3B6eU5QVFNHNTJvOF9XZ1NpbnJpNWNHMFptVjZiaEdzb1JfYlZzQ19iT2xxNw?oc=5",
+          "source": "Yahoo Finance Australia",
+          "publishedAt": "2026-10-22",
+          "lede": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) stock price, news, quote and history - Yahoo Finance Australia. Blue Owl Capital Inc. (OWL) stock price, news, quote and history Yahoo Finance Australia",
+          "contentFingerprint": "6cf86658fd90d6d2",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.76,
+            "finalScore": 17.759999999999998,
             "semanticEnabled": true
           }
         },
