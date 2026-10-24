@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-24T14:02:25.303583+00:00",
+  "updatedAt": "2026-10-24T17:14:16.080453+00:00",
   "scope": {
     "regions": [
       "US",
@@ -41253,6 +41253,43 @@
               "finalScore": 17.78,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-23-a61bd4a6bf91",
+            "title": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PQm9uMWE3b1dCdGIzekwzU00yQnZ0TXE5MndLZ29rX3pTQm5nSXh0T01kN1cxMWpFWExxdkFZVVV3TXBOU3phanhxa0ZiZmZISzhlODJ1cUQ?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-23",
+            "lede": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "3d25ec000a1d8467",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 7.17,
+              "finalScore": 18.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -41420,6 +41457,43 @@
             "keywordScore": 11,
             "semanticScore": 6.78,
             "finalScore": 17.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-23-a61bd4a6bf91",
+          "title": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PQm9uMWE3b1dCdGIzekwzU00yQnZ0TXE5MndLZ29rX3pTQm5nSXh0T01kN1cxMWpFWExxdkFZVVV3TXBOU3phanhxa0ZiZmZISzhlODJ1cUQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-23",
+          "lede": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Capital Inc. (OWL) Interactive Stock Chart - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "3d25ec000a1d8467",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 7.17,
+            "finalScore": 18.17,
             "semanticEnabled": true
           }
         },
