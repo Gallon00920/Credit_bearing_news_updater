@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-25T10:29:44.923669+00:00",
+  "updatedAt": "2026-10-25T14:46:51.550128+00:00",
   "scope": {
     "regions": [
       "US",
@@ -41748,10 +41748,86 @@
     },
     "2026-10-25": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-25-29860323376e",
+            "title": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha",
+            "titleZh": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha",
+            "summary": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRy04U0ZGaUJhSjJXSXpUQVNEUzROMHptak5JNFo4UUVRUnY3eC1jNXZXaTR4aXVUellrNHA1N1d2bU4xaFMxeXloZUJmeS10TUR4aE5jejY4VWZBQ3E1OUpnTlNKWVl2LXROajJVVmt0UlJvZHV4MjNqTjJiNmQ0Zk9qUFZXODdPSU0zMS1PQQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-10-25",
+            "lede": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha. Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+            "contentFingerprint": "f473ebdb69d76d7d",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.7,
+              "finalScore": 9.7,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-25-e81b56539683",
+            "title": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street",
+            "titleZh": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street",
+            "summary": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1J4cWlWR3liLWN5QmJxR1VieHZlZ2hKaFJzX0ZUUmVUNHYxbThBdEJ2LTlzQVJOUkVMbmFBVk9KMFhPR3B3blU0OG53UWZ0ekpLVm11LUNTcWFQbmI0MWw5YU9qS19NMFdnZHoxLWxyempTcVctY3pmaE9jTzJKZGJQU3Y3Z3otM19SMmJlSTkxckw1ODRDMjZvbE5YaVNtSW1MbGJwRDJQS01EUGdIQUxkYVNyMHppNEk1dWpJOWV4SnlUcTlpZ04wZW5oS0dOdFkw0gHTAUFVX3lxTE9nUnhxaVZHeWItY3lCYnFHVWJ4dmVnaEpoUnNfRlRSZVQ0djFtOEF0QnYtOXNBUk5SRUxuYUFWT0owWE9HcHduVTQ4bndRZnR6SktWbXUtQ1NxYVBuYjQxbDlhT2pLX00wV2dkejEtbHJ6alNxVy1jemZoT2NPMkpkYlBTdjdnei0zX1IyYmVJOTFyTDU4NEMyNm9sTlhpU21JbUxsYnBEMlBLTURQZ0hBTGRhU3Iwemk0STV1akk5ZXhKeVRxOWlnTjBlbmhLR050WTA?oc=5",
+            "source": "Simply Wall Street",
+            "publishedAt": "2026-10-25",
+            "lede": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+            "articleExcerpt": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street. Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+            "contentFingerprint": "790d54fef1364551",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.68,
+              "finalScore": 9.68,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -41762,7 +41838,82 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-25-29860323376e",
+          "title": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha",
+          "titleZh": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha",
+          "summary": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRy04U0ZGaUJhSjJXSXpUQVNEUzROMHptak5JNFo4UUVRUnY3eC1jNXZXaTR4aXVUellrNHA1N1d2bU4xaFMxeXloZUJmeS10TUR4aE5jejY4VWZBQ3E1OUpnTlNKWVl2LXROajJVVmt0UlJvZHV4MjNqTjJiNmQ0Zk9qUFZXODdPSU0zMS1PQQ?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-10-25",
+          "lede": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+          "articleExcerpt": "Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) - Seeking Alpha. Blue Owl Is No SWAN (Not A Sucker Yield Either) (NYSE:OWL) Seeking Alpha",
+          "contentFingerprint": "f473ebdb69d76d7d",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.7,
+            "finalScore": 9.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-25-e81b56539683",
+          "title": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street",
+          "titleZh": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street",
+          "summary": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1J4cWlWR3liLWN5QmJxR1VieHZlZ2hKaFJzX0ZUUmVUNHYxbThBdEJ2LTlzQVJOUkVMbmFBVk9KMFhPR3B3blU0OG53UWZ0ekpLVm11LUNTcWFQbmI0MWw5YU9qS19NMFdnZHoxLWxyempTcVctY3pmaE9jTzJKZGJQU3Y3Z3otM19SMmJlSTkxckw1ODRDMjZvbE5YaVNtSW1MbGJwRDJQS01EUGdIQUxkYVNyMHppNEk1dWpJOWV4SnlUcTlpZ04wZW5oS0dOdFkw0gHTAUFVX3lxTE9nUnhxaVZHeWItY3lCYnFHVWJ4dmVnaEpoUnNfRlRSZVQ0djFtOEF0QnYtOXNBUk5SRUxuYUFWT0owWE9HcHduVTQ4bndRZnR6SktWbXUtQ1NxYVBuYjQxbDlhT2pLX00wV2dkejEtbHJ6alNxVy1jemZoT2NPMkpkYlBTdjdnei0zX1IyYmVJOTFyTDU4NEMyNm9sTlhpU21JbUxsYnBEMlBLTURQZ0hBTGRhU3Iwemk0STV1akk5ZXhKeVRxOWlnTjBlbmhLR050WTA?oc=5",
+          "source": "Simply Wall Street",
+          "publishedAt": "2026-10-25",
+          "lede": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+          "articleExcerpt": "Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? - Simply Wall Street. Did Solar JV Expansion Just Shift KKR's (KKR) Investment Narrative? Simply Wall Street",
+          "contentFingerprint": "790d54fef1364551",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.68,
+            "finalScore": 9.68,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
