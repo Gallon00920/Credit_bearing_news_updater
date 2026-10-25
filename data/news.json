@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-25T20:37:24.486250+00:00",
+  "updatedAt": "2026-10-25T23:01:14.950675+00:00",
   "scope": {
     "regions": [
       "US",
@@ -41671,6 +41671,43 @@
               "finalScore": 21.16,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-24-22cd3955bb3c",
+            "title": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill",
+            "titleZh": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill",
+            "summary": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoN0FQMUViRkpUUXVqaDFXTFlaSWV6UHlxUnRtY1JiMEo2YVhHTF9aNzVHN3hiNVVyQzJhTDM5SU5aZDFraGxtX2dKeUNjYzJFaWpkM1dpZjR2UQ?oc=5",
+            "source": "ChartMill",
+            "publishedAt": "2026-10-24",
+            "lede": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+            "articleExcerpt": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill. OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+            "contentFingerprint": "e58a87c1249767ee",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 5.79,
+              "finalScore": 10.79,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -41800,6 +41837,43 @@
             "keywordScore": 14,
             "semanticScore": 7.16,
             "finalScore": 21.16,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-24-22cd3955bb3c",
+          "title": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill",
+          "titleZh": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill",
+          "summary": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoN0FQMUViRkpUUXVqaDFXTFlaSWV6UHlxUnRtY1JiMEo2YVhHTF9aNzVHN3hiNVVyQzJhTDM5SU5aZDFraGxtX2dKeUNjYzJFaWpkM1dpZjR2UQ?oc=5",
+          "source": "ChartMill",
+          "publishedAt": "2026-10-24",
+          "lede": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+          "articleExcerpt": "OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) - ChartMill. OWL News | BLUE OWL CAPITAL INC (NYSE:OWL) ChartMill",
+          "contentFingerprint": "e58a87c1249767ee",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 5.79,
+            "finalScore": 10.79,
             "semanticEnabled": true
           }
         },
