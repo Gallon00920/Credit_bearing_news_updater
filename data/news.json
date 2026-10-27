@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-27T13:59:47.358534+00:00",
+  "updatedAt": "2026-10-27T19:17:56.192473+00:00",
   "scope": {
     "regions": [
       "US",
@@ -42434,7 +42434,49 @@
         "Bayview": [],
         "CIFC": [],
         "Basepoint": [],
-        "NB": [],
+        "NB": [
+          {
+            "id": "2026-10-26-b26f077606b4",
+            "title": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman",
+            "titleZh": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman",
+            "summary": "CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnVHUzQWxNY3hfSzVzNGdLODRvWmpWUkxqdUlUY0FKc2puMmhHanFYWkFsXzR0eVpEMEcwSnIxdkItRUJWdy1aaktfQUp5bVZNQVdYMkJTYk9xSEl1b0NNaXl3bFR2dTF2OW9nQzZ3NFRjbVhxSlBTbEZUYw?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-10-26",
+            "lede": "CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+            "articleExcerpt": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman. CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+            "contentFingerprint": "1405b458611d9654",
+            "region": "Global",
+            "gps": [
+              "NB"
+            ],
+            "sectors": [
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "NB"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 3.45,
+              "finalScore": 17.45,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [
           {
             "id": "2026-10-26-fdd55e52c51f",
@@ -42618,6 +42660,43 @@
               "keywordScore": 5,
               "semanticScore": 5.47,
               "finalScore": 10.469999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-26-04d22bdcc8d4",
+            "title": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review",
+            "titleZh": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review",
+            "summary": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWdVRkMtMTJoMm51WDZ0dHBpcDVvMGlhWm5SUDhvbFJ4Y1QyZ18yNFhSTjNNeWt3Q1RJeEI4YmtaYzJORWRjd0V5M2d5akdmZUJ4ckFfOXA4Q0ZWbEIyTGRUNzN6Sjd4QXAzcmpoUlFKRFIyeERwSDVMUmpNSjZFVmV5UG5mT05XOEtLNDNjcjRCQQ?oc=5",
+            "source": "Gadget Review",
+            "publishedAt": "2026-10-26",
+            "lede": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+            "articleExcerpt": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review. SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+            "contentFingerprint": "3b805c571d1e952c",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 6.07,
+              "finalScore": 11.07,
               "semanticEnabled": true
             }
           }
@@ -43003,6 +43082,47 @@
           }
         },
         {
+          "id": "2026-10-26-b26f077606b4",
+          "title": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman",
+          "titleZh": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman",
+          "summary": "CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnVHUzQWxNY3hfSzVzNGdLODRvWmpWUkxqdUlUY0FKc2puMmhHanFYWkFsXzR0eVpEMEcwSnIxdkItRUJWdy1aaktfQUp5bVZNQVdYMkJTYk9xSEl1b0NNaXl3bFR2dTF2OW9nQzZ3NFRjbVhxSlBTbEZUYw?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-10-26",
+          "lede": "CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+          "articleExcerpt": "CLOs: Relative Value Opportunities Emerge - Neuberger Berman. CLOs: Relative Value Opportunities Emerge Neuberger Berman",
+          "contentFingerprint": "1405b458611d9654",
+          "region": "Global",
+          "gps": [
+            "NB"
+          ],
+          "sectors": [
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "NB"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 3.45,
+            "finalScore": 17.45,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-26-fdd55e52c51f",
           "title": "Mubadala Capital Draws Apollo Stake, $5 Billion in Expected Commitments - Securities.io",
           "titleZh": "Mubadala Capital Draws Apollo Stake, $5 Billion in Expected Commitments - Securities.io",
@@ -43188,6 +43308,43 @@
           }
         },
         {
+          "id": "2026-10-26-04d22bdcc8d4",
+          "title": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review",
+          "titleZh": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review",
+          "summary": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWdVRkMtMTJoMm51WDZ0dHBpcDVvMGlhWm5SUDhvbFJ4Y1QyZ18yNFhSTjNNeWt3Q1RJeEI4YmtaYzJORWRjd0V5M2d5akdmZUJ4ckFfOXA4Q0ZWbEIyTGRUNzN6Sjd4QXAzcmpoUlFKRFIyeERwSDVMUmpNSjZFVmV5UG5mT05XOEtLNDNjcjRCQQ?oc=5",
+          "source": "Gadget Review",
+          "publishedAt": "2026-10-26",
+          "lede": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+          "articleExcerpt": "SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo - Gadget Review. SpaceX Secures Record $40 Billion GPU Lease Deal With Apollo Gadget Review",
+          "contentFingerprint": "3b805c571d1e952c",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 6.07,
+            "finalScore": 11.07,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-26-ad36a60e0a01",
           "title": "Bain Capital to stay on as HealthSpan agrees $5.7bn Surgery Partners take-private - PEI Private Equity",
           "titleZh": "Bain Capital to stay on as HealthSpan agrees $5.7bn Surgery Partners take-private - PEI Private Equity",
@@ -43339,6 +43496,84 @@
               "finalScore": 10.34,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-27-6294b895786c",
+            "title": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance",
+            "titleZh": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance",
+            "summary": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENrYXM0TWRyTTN2OV8ydWlOSVZoVUQwaVpuZU41aUF2WGFXb3NTNFVNU1lNMWJObVk0elo3WkY5VmQ5bFcxaEVQWUpiV2dxY2VZYWpzUVZqbnJhWHZVUlU3S3BFbnNRR0h1UUNmWUhDcXN3U2lYUzJ6VFRhSGNXdDd3aHVqaUdXSkMwSTRTT3dCTWZrSDhCdk1nQ3dWekU?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-27",
+            "lede": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+            "articleExcerpt": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance. Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+            "contentFingerprint": "1fa03ca87b500925",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [
+              "private credit / direct lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.75,
+              "finalScore": 20.75,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-27-6e3613121468",
+            "title": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat",
+            "titleZh": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat",
+            "summary": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTkowUHM5anF0SHRsQ0FhVUx1VGVBdXJMeW5DZ3g3VTlkNWxuaEExOWNhbzE2SHJZNWwzb1hnbTRSSkd2T0hHR0NUVFNEN0Rsd0ZtMEVjQkdueFZBZThrM1JLNzVPQk1ST1B5b3ZISEVkbTNyeFkzOUZRdV81blY0emVsdzZSZTFsUVNrN1BOclRQWFBlbEt5Z0QyTDdTV1RIeG96S0pEZ1h0RGJUVGRnT2U4SDZyZHRPWDBMeWo2NXhfTWg5bmVRYUJ2eFAwTG9LNTRXOA?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-27",
+            "lede": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+            "articleExcerpt": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat. Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+            "contentFingerprint": "a26d2caff064e944",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 7.22,
+              "finalScore": 12.219999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -43421,6 +43656,88 @@
               "finalScore": 9.71,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-27-2877ccfc2d0b",
+            "title": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook",
+            "titleZh": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook",
+            "summary": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2QxX0ptZ29VM2V5SzVkWkRNMGV4dllWX2liLU5oNk01b3JSTjI3MlhLOENSNktkWUpCSnpoY25udUpYLU1reURYZTNBbzJhZXczY29Zd1B1U2tZRTktajQtMXRHSzdtWG53ZXBrbkJPWXc1WnVLcDBBQnU1RVVLUHNpVWg2R21RMU5hQUNCQktjQlNTdjRUUi05MllHdmYySzdZTVZYNHlwdERRVVVTYUUtRQ?oc=5",
+            "source": "PitchBook",
+            "publishedAt": "2026-10-27",
+            "lede": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+            "articleExcerpt": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook. KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+            "contentFingerprint": "4debea554676e967",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "private credit / direct lending",
+              "GP stakes",
+              "CLO"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "private credit / direct lending",
+                "GP stakes",
+                "CLO"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.21,
+              "finalScore": 26.21,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-27-6a224c190638",
+            "title": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance",
+            "titleZh": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance",
+            "summary": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmdzUDFnMmhobXp6RzZ2cTNzS1BidEhXb0FLNnBVaTUwcUdjbWtPUl9SeWlMSzNJVWx1VWdSa2lnVFhGZXV4RFVVekZKaERWSUF0ZXp0M21rOWpTS2xheENpMXoyc2dsRnpVRFpxbldNWHVKSkZkQXBxRzNsajNldE1LSFdHUWVNZ004eA?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-27",
+            "lede": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+            "articleExcerpt": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance. What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+            "contentFingerprint": "38846f23b64410c7",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.26,
+              "finalScore": 16.259999999999998,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -43468,6 +43785,84 @@
             "keywordScore": 3,
             "semanticScore": 7.34,
             "finalScore": 10.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-6294b895786c",
+          "title": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance",
+          "titleZh": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance",
+          "summary": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENrYXM0TWRyTTN2OV8ydWlOSVZoVUQwaVpuZU41aUF2WGFXb3NTNFVNU1lNMWJObVk0elo3WkY5VmQ5bFcxaEVQWUpiV2dxY2VZYWpzUVZqbnJhWHZVUlU3S3BFbnNRR0h1UUNmWUhDcXN3U2lYUzJ6VFRhSGNXdDd3aHVqaUdXSkMwSTRTT3dCTWZrSDhCdk1nQ3dWekU?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-27",
+          "lede": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+          "articleExcerpt": "Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? - Yahoo Finance. Is Blue Owl Capital Corporation (OBDC) Stock Undervalued Right Now? Yahoo Finance",
+          "contentFingerprint": "1fa03ca87b500925",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [
+            "private credit / direct lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.75,
+            "finalScore": 20.75,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-6e3613121468",
+          "title": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat",
+          "titleZh": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat",
+          "summary": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTkowUHM5anF0SHRsQ0FhVUx1VGVBdXJMeW5DZ3g3VTlkNWxuaEExOWNhbzE2SHJZNWwzb1hnbTRSSkd2T0hHR0NUVFNEN0Rsd0ZtMEVjQkdueFZBZThrM1JLNzVPQk1ST1B5b3ZISEVkbTNyeFkzOUZRdV81blY0emVsdzZSZTFsUVNrN1BOclRQWFBlbEt5Z0QyTDdTV1RIeG96S0pEZ1h0RGJUVGRnT2U4SDZyZHRPWDBMeWo2NXhfTWg5bmVRYUJ2eFAwTG9LNTRXOA?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-27",
+          "lede": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+          "articleExcerpt": "Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets - MarketBeat. Blue Owl Capital (NYSE:OWL) Given New $11.00 Price Target at BMO Capital Markets MarketBeat",
+          "contentFingerprint": "a26d2caff064e944",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 7.22,
+            "finalScore": 12.219999999999999,
             "semanticEnabled": true
           }
         },
@@ -43546,6 +43941,88 @@
             "keywordScore": 5,
             "semanticScore": 4.71,
             "finalScore": 9.71,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-2877ccfc2d0b",
+          "title": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook",
+          "titleZh": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook",
+          "summary": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2QxX0ptZ29VM2V5SzVkWkRNMGV4dllWX2liLU5oNk01b3JSTjI3MlhLOENSNktkWUpCSnpoY25udUpYLU1reURYZTNBbzJhZXczY29Zd1B1U2tZRTktajQtMXRHSzdtWG53ZXBrbkJPWXc1WnVLcDBBQnU1RVVLUHNpVWg2R21RMU5hQUNCQktjQlNTdjRUUi05MllHdmYySzdZTVZYNHlwdERRVVVTYUUtRQ?oc=5",
+          "source": "PitchBook",
+          "publishedAt": "2026-10-27",
+          "lede": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+          "articleExcerpt": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading - PitchBook. KKR closes on $460M private credit continuation vehicle, with AllianzGI leading PitchBook",
+          "contentFingerprint": "4debea554676e967",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "private credit / direct lending",
+            "GP stakes",
+            "CLO"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "private credit / direct lending",
+              "GP stakes",
+              "CLO"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.21,
+            "finalScore": 26.21,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-6a224c190638",
+          "title": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance",
+          "titleZh": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance",
+          "summary": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmdzUDFnMmhobXp6RzZ2cTNzS1BidEhXb0FLNnBVaTUwcUdjbWtPUl9SeWlMSzNJVWx1VWdSa2lnVFhGZXV4RFVVekZKaERWSUF0ZXp0M21rOWpTS2xheENpMXoyc2dsRnpVRFpxbldNWHVKSkZkQXBxRzNsajNldE1LSFdHUWVNZ004eA?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-27",
+          "lede": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+          "articleExcerpt": "What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders - Yahoo Finance. What KKR (KKR)'s Solar Joint Venture Expansion Means For Shareholders Yahoo Finance",
+          "contentFingerprint": "38846f23b64410c7",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.26,
+            "finalScore": 16.259999999999998,
             "semanticEnabled": true
           }
         }
