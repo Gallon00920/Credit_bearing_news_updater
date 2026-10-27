@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-27T07:11:03.444099+00:00",
+  "updatedAt": "2026-10-27T13:59:47.358534+00:00",
   "scope": {
     "regions": [
       "US",
@@ -43302,10 +43302,127 @@
     },
     "2026-10-27": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-27-fdb8b5269267",
+            "title": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat",
+            "titleZh": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat",
+            "summary": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0xKZ00xcDRTRktiOUpEeGV4RWp5Vnl4bG8yVm5jSllmOFE5Sk53UFZRUGhkTjhWc3BGOXZZNU1CUzI3Y05CMkZfVzJTR2JrZWVhSVZ3bW95cXl3LTRyZFY4WHUzclpmYUkyMFc0WjQtdDVmbEdFNlo4UFRRTDh1eG93T01wYzRqOVJZZXZTcXZ2YUVoOURCN0JQVzFTZHpIbm9WWU1CN2hRWk1Sc2s2WDl0SnpyZFdSN3hOdElfOER5b1dkX21tMzgxS3RkNEI1SmZ6ZQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-27",
+            "lede": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+            "articleExcerpt": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat. 109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+            "contentFingerprint": "13bbc44a2a60a400",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 7.34,
+              "finalScore": 10.34,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "OTF": [],
         "Pretium": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-27-bf2f7f6e25a5",
+            "title": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance",
+            "titleZh": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance",
+            "summary": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84N1h3Y0VyRjF4RWFuMC1rLUgxc0JIWGpDRGdqWDBJLW9TVE4xQ3gwa1h1YmJjRGpWeVV2MmdtaF9mUGRwMVpmbUNYbi1lU2VzcWdBX2txYXUxTnN6Q2VPc0FELVNfUVprcW96amtEaGl6UlE?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-27",
+            "lede": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+            "articleExcerpt": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance. KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+            "contentFingerprint": "4bdfe085d43ea999",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [
+              "asset-backed lending"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [
+                "asset-backed lending"
+              ],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.39,
+              "finalScore": 22.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-27-82de93188da1",
+            "title": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street",
+            "titleZh": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street",
+            "summary": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVXNJbTV5ZzRpS1A0R0Nic0g0Y3FDQWozLWt5N01pVld6T0VKQmRTa3Q2a2ZLU0IxYkpQTjkyS3hjeFh0elU0VjI2QWM0bUszb3UtT2pyVVhKUlMyWDk5VW1VWUR1S0JFSkZ2SVFGVDllUTl1cC1ad3dJbW9YY2hRa2d1bzFmRDVveVY1NlEwc2c4ZGVBRXI0U0E4cHlPdE82cVVzdUZBZWtVUzI0SkliXy1TQi12SXVvem1vOXRVdDd4OUFkS1E5T2hrdTVvUdIB0wFBVV95cUxQS3IzM2J1b3piWUI3dkdIanRZMzhVLTJveUkteWRuV2c5TVYyYmhGWmNwaFJ0S0xjV1RaT2FIYkVJaGM4RDBoc0hjaXJVX3NydUN0SWpwLXhXUTlYcV9abzhWeEhVVkhQbXdZQ2UtR2Z2dkk4ckRNdG9DTlJtdEk1M0EzS2NfQW4ybjZ4c2VuZmYyMmFZaHpRRlpTN3BuQ1U1dGxTbUVoWHBWcC1PNDd1RHphb2x6d0RCZVFxN1Rhc3d6b3cxZmx0VFVBQ0s3TlZKM000?oc=5",
+            "source": "Simply Wall Street",
+            "publishedAt": "2026-10-27",
+            "lede": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+            "articleExcerpt": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street. KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+            "contentFingerprint": "baf763d28731cf5a",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.71,
+              "finalScore": 9.71,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Bayview": [],
         "CIFC": [],
@@ -43316,7 +43433,123 @@
         "Guggenheim": [],
         "HSBC AM": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-27-fdb8b5269267",
+          "title": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat",
+          "titleZh": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat",
+          "summary": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0xKZ00xcDRTRktiOUpEeGV4RWp5Vnl4bG8yVm5jSllmOFE5Sk53UFZRUGhkTjhWc3BGOXZZNU1CUzI3Y05CMkZfVzJTR2JrZWVhSVZ3bW95cXl3LTRyZFY4WHUzclpmYUkyMFc0WjQtdDVmbEdFNlo4UFRRTDh1eG93T01wYzRqOVJZZXZTcXZ2YUVoOURCN0JQVzFTZHpIbm9WWU1CN2hRWk1Sc2s2WDl0SnpyZFdSN3hOdElfOER5b1dkX21tMzgxS3RkNEI1SmZ6ZQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-27",
+          "lede": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+          "articleExcerpt": "109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA - MarketBeat. 109,569 Blue Owl Capital Inc. $OWL Shares Acquired by Leeward Investments LLC MA MarketBeat",
+          "contentFingerprint": "13bbc44a2a60a400",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 7.34,
+            "finalScore": 10.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-bf2f7f6e25a5",
+          "title": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance",
+          "titleZh": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance",
+          "summary": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84N1h3Y0VyRjF4RWFuMC1rLUgxc0JIWGpDRGdqWDBJLW9TVE4xQ3gwa1h1YmJjRGpWeVV2MmdtaF9mUGRwMVpmbUNYbi1lU2VzcWdBX2txYXUxTnN6Q2VPc0FELVNfUVprcW96amtEaGl6UlE?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-27",
+          "lede": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+          "articleExcerpt": "KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW - Yahoo Finance. KKR (KKR) Adds 700 MW To US Renewables Venture As Portfolio Reaches 2.1 GW Yahoo Finance",
+          "contentFingerprint": "4bdfe085d43ea999",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [
+            "asset-backed lending"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [
+              "asset-backed lending"
+            ],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.39,
+            "finalScore": 22.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-82de93188da1",
+          "title": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street",
+          "titleZh": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street",
+          "summary": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVXNJbTV5ZzRpS1A0R0Nic0g0Y3FDQWozLWt5N01pVld6T0VKQmRTa3Q2a2ZLU0IxYkpQTjkyS3hjeFh0elU0VjI2QWM0bUszb3UtT2pyVVhKUlMyWDk5VW1VWUR1S0JFSkZ2SVFGVDllUTl1cC1ad3dJbW9YY2hRa2d1bzFmRDVveVY1NlEwc2c4ZGVBRXI0U0E4cHlPdE82cVVzdUZBZWtVUzI0SkliXy1TQi12SXVvem1vOXRVdDd4OUFkS1E5T2hrdTVvUdIB0wFBVV95cUxQS3IzM2J1b3piWUI3dkdIanRZMzhVLTJveUkteWRuV2c5TVYyYmhGWmNwaFJ0S0xjV1RaT2FIYkVJaGM4RDBoc0hjaXJVX3NydUN0SWpwLXhXUTlYcV9abzhWeEhVVkhQbXdZQ2UtR2Z2dkk4ckRNdG9DTlJtdEk1M0EzS2NfQW4ybjZ4c2VuZmYyMmFZaHpRRlpTN3BuQ1U1dGxTbUVoWHBWcC1PNDd1RHphb2x6d0RCZVFxN1Rhc3d6b3cxZmx0VFVBQ0s3TlZKM000?oc=5",
+          "source": "Simply Wall Street",
+          "publishedAt": "2026-10-27",
+          "lede": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+          "articleExcerpt": "KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story - Simply Wall Street. KKR (KKR) Looks 8% Overvalued As Board Refresh Tests Its Valuation Story Simply Wall Street",
+          "contentFingerprint": "baf763d28731cf5a",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.71,
+            "finalScore": 9.71,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   }
 }
