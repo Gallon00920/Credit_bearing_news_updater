@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-28T03:21:59.689903+00:00",
+  "updatedAt": "2026-10-28T10:21:17.322760+00:00",
   "scope": {
     "regions": [
       "US",
@@ -44219,6 +44219,43 @@
               "finalScore": 11.0,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-28-06d6409430c8",
+            "title": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine",
+            "titleZh": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine",
+            "summary": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbklWaktreHhlY1VpTDlfRjJRdXJTR1RicURPS1p0bXczVHU0djNmSklaenR4QWc0dk1NdzZWME82VW0zcGRsMEdXTjNBeGs3aEdfRHczUDlQRXQyb2Y2c0R3azVPTGRuRXJNOTlydjctTDNiV0RFSGpjUEZ0ejRLVHUwVm1OeEl3Tk93U2xJNS1lYXhZZ0hwT25sUHBYTWVLSHpmQW96MFFSSVhncUhtUE1taXd0STIzTzY4?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-10-28",
+            "lede": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+            "articleExcerpt": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine. KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+            "contentFingerprint": "0b38908f56cfba18",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.73,
+              "finalScore": 16.73,
+              "semanticEnabled": true
+            }
           }
         ],
         "PAG": [],
@@ -44266,6 +44303,43 @@
             "keywordScore": 6,
             "semanticScore": 5.0,
             "finalScore": 11.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-28-06d6409430c8",
+          "title": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine",
+          "titleZh": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine",
+          "summary": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbklWaktreHhlY1VpTDlfRjJRdXJTR1RicURPS1p0bXczVHU0djNmSklaenR4QWc0dk1NdzZWME82VW0zcGRsMEdXTjNBeGs3aEdfRHczUDlQRXQyb2Y2c0R3azVPTGRuRXJNOTlydjctTDNiV0RFSGpjUEZ0ejRLVHUwVm1OeEl3Tk93U2xJNS1lYXhZZ0hwT25sUHBYTWVLSHpmQW96MFFSSVhncUhtUE1taXd0STIzTzY4?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-10-28",
+          "lede": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+          "articleExcerpt": "KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? - Kalkine. KKR Credit Income Fund (ASX:KKC): What Does Its Latest Credit Portfolio Update Reveal? Kalkine",
+          "contentFingerprint": "0b38908f56cfba18",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.73,
+            "finalScore": 16.73,
             "semanticEnabled": true
           }
         }
