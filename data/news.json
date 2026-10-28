@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-28T17:07:56.449655+00:00",
+  "updatedAt": "2026-10-28T21:39:47.736128+00:00",
   "scope": {
     "regions": [
       "US",
@@ -43685,6 +43685,43 @@
               "finalScore": 11.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-27-d40becfb5d8c",
+            "title": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks",
+            "titleZh": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks",
+            "summary": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFQ2a2c3ZzY4c244dEFQNUEzUXNVZzB2eTFPXzFhWEt5eFhpU2RTczVEVkFpOEVMd2w5QlRpQlYzVmhVN1dEaWV5V2Z6ZXo4NlBmdEdfdWZoVHEzcEtZUEltWEVsTG8yakIzSlhIQi1lZGk0VmtnX3pxazRra3dzNUtoYUtYbzBiX2NDZWhISXRFeWk2SHBaTjR1UWduanpTVmNuakFpZ3ZYelVud1VFNk82bjQ2R2JuZmc?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-10-27",
+            "lede": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+            "articleExcerpt": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks. Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+            "contentFingerprint": "bdf828254722b2cc",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.99,
+              "finalScore": 9.99,
+              "semanticEnabled": true
+            }
           }
         ],
         "OTF": [],
@@ -44049,6 +44086,43 @@
             "keywordScore": 5,
             "semanticScore": 6.42,
             "finalScore": 11.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-d40becfb5d8c",
+          "title": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks",
+          "titleZh": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks",
+          "summary": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFQ2a2c3ZzY4c244dEFQNUEzUXNVZzB2eTFPXzFhWEt5eFhpU2RTczVEVkFpOEVMd2w5QlRpQlYzVmhVN1dEaWV5V2Z6ZXo4NlBmdEdfdWZoVHEzcEtZUEltWEVsTG8yakIzSlhIQi1lZGk0VmtnX3pxazRra3dzNUtoYUtYbzBiX2NDZWhISXRFeWk2SHBaTjR1UWduanpTVmNuakFpZ3ZYelVud1VFNk82bjQ2R2JuZmc?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-10-27",
+          "lede": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+          "articleExcerpt": "Blue Owl Capital price target lowered to $11 from $12 at BMO Capital - TipRanks. Blue Owl Capital price target lowered to $11 from $12 at BMO Capital TipRanks",
+          "contentFingerprint": "bdf828254722b2cc",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.99,
+            "finalScore": 9.99,
             "semanticEnabled": true
           }
         },
