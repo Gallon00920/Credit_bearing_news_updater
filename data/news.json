@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-27T23:38:22.446488+00:00",
+  "updatedAt": "2026-10-28T03:21:59.689903+00:00",
   "scope": {
     "regions": [
       "US",
@@ -44172,6 +44172,100 @@
             "keywordScore": 11,
             "semanticScore": 5.84,
             "finalScore": 16.84,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-10-28": {
+      "byGp": {
+        "Blue Owl": [],
+        "OTF": [],
+        "Pretium": [],
+        "KKR": [
+          {
+            "id": "2026-10-28-51c0a8ad4036",
+            "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+            "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+            "source": "KKR: A Leading Global Investment Firm",
+            "publishedAt": "2026-10-28",
+            "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+            "contentFingerprint": "ee9304a96821138a",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "sectors": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "llmGps": [],
+              "keywordSectors": [],
+              "llmSectors": [],
+              "llmExclude": false,
+              "llmReason": "LLM classification unavailable at runtime"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.0,
+              "finalScore": 11.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "PAG": [],
+        "Bayview": [],
+        "CIFC": [],
+        "Basepoint": [],
+        "NB": [],
+        "Apollo": [],
+        "Bain Capital": [],
+        "Guggenheim": [],
+        "HSBC AM": []
+      },
+      "items": [
+        {
+          "id": "2026-10-28-51c0a8ad4036",
+          "title": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "titleZh": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm",
+          "summary": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZDlMajk3cFFyR3NGYnRNUFRJUGdwZDRocFdoOW1NaWFBcFVJZjVQMktzVnlwbzR2a01YRE12VU1RTVFLaHJSRXdTYzZrNHUwSlRhaDhVcm1STmJub3JkbjRGNFVSYTlCNVE?oc=5",
+          "source": "KKR: A Leading Global Investment Firm",
+          "publishedAt": "2026-10-28",
+          "lede": "In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "articleExcerpt": "In Brief: Let There Be Compute! - KKR: A Leading Global Investment Firm. In Brief: Let There Be Compute! KKR: A Leading Global Investment Firm",
+          "contentFingerprint": "ee9304a96821138a",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "sectors": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "llmGps": [],
+            "keywordSectors": [],
+            "llmSectors": [],
+            "llmExclude": false,
+            "llmReason": "LLM classification unavailable at runtime"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.0,
+            "finalScore": 11.0,
             "semanticEnabled": true
           }
         }
