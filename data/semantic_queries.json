@@ -231,6 +231,19 @@
         "An article about CVC Capital Partners' private equity activity, such as acquiring, exiting or IPO-ing a portfolio company (a sports league stake, consumer brand or software firm), where CVC acts only as equity owner and the financing is not the focus.",
         "General CVC corporate news unrelated to credit, such as group earnings, share price moves after its Amsterdam listing, or infrastructure strategy deals like DIF Capital Partners buying or selling an energy or transport asset with no lending or structured-finance angle."
       ]
+    },
+    "Golub": {
+      "promptHash": "fdae63fdbfd61e3702bb4b3bfae70b4d438a01e6",
+      "model": "claude-opus-5-5",
+      "relevant": [
+        "Golub Capital acts as administrative agent, sole lead arranger, or lender on a unitranche, first-lien, or revolving credit facility, such as financing a sponsor-backed leveraged buyout or refinancing a middle-market company's debt.",
+        "Golub's BDCs (e.g., Golub Capital BDC / GBDC) report quarterly earnings, net investment income, dividends, non-accruals, or portfolio credit quality, or announce mergers, capital raises, or debt issuance.",
+        "Golub prices or closes a CLO, raises a direct lending or asset-based finance fund, secures a credit-focused capital partnership or separately managed account, or launches a new lending, NAV-financing, or structured-credit strategy."
+      ],
+      "notRelevant": [
+        "Golub's private equity or infrastructure arm acquires, sells, or recapitalizes an operating company or asset as an equity owner (e.g., a buyout or the sale of a portfolio company or infrastructure asset) with no mention of Golub providing or arranging financing.",
+        "General corporate news about Golub with no credit or financing angle, such as philanthropic initiatives, office openings, workplace rankings or awards, sponsorships, or personnel announcements for non-credit teams."
+      ]
     }
   }
 }
