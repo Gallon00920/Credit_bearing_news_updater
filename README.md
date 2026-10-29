@@ -1,6 +1,6 @@
-# Credit News Dashboard
+# Junson AID Credit Radar
 
-A small web-based dashboard for monitoring private-credit news by digest date, GP, and sub-sector. It opens on today by default, lets users pick any date inside the rolling 90-day calendar window, can switch grouping between GP and sub-sector, can show selected-week or selected-month top-20 scored items sorted by publication date, and supports English / Simplified Chinese page switching.
+A static, bilingual (English / Simplified Chinese) dashboard for monitoring private-credit news across 15 tracked institutions. The layout follows the AID Credit Radar design: a left sidebar for selecting invested and watchlist funds, event tabs (headlines / lawsuits / financing / fundraising), keyword search, date filters including an exact-date picker, a five-part weighted score with adjustable weights, per-component sorting, a strategy-group browser, search coverage, and an on-page summary of the filtered news. Every article keeps an explanation of why it was selected.
 
 ## Run locally
 
@@ -19,7 +19,7 @@ https://gallon00920.github.io/Credit_bearing_news_updater/
 python3 scripts/update_news.py
 ```
 
-The updater fetches Google News RSS search feeds for each required GP plus broader sector queries, scores articles against the configured GP / sub-sector scope with both keyword and semantic scoring, translates missing Chinese summaries, appends selected items into GP-specific buckets under each article's actual publication date, and prunes dates older than the rolling retention window.
+The updater fetches Google News RSS search feeds for each tracked institution plus broader sector queries and publisher feeds, classifies and scores articles with keyword rules, Claude classification and HyDE semantic scoring, computes the five rating components used by the dashboard, translates titles, summaries and selection reasons into Simplified Chinese, appends selected items into institution buckets under each article's actual publication date, and prunes dates older than the rolling retention window.
 
 To preview without writing:
 
@@ -33,35 +33,55 @@ For the hourly recent-window update:
 python3 scripts/update_news.py --recent-days 3
 ```
 
-Set your Qwen / DashScope key before running the full pipeline:
+To migrate saved data to the current institution list, strategy taxonomy, event tags and rating components without fetching anything or calling Claude:
 
 ```bash
-export DASHSCOPE_API_KEY="YOUR_API_KEYS"
-export HF_TOKEN="YOUR_API_KEYS"
+python3 scripts/update_news.py --backfill-only
+```
+
+```bash
+export ANTHROPIC_API_KEY="your-anthropic-api-key"
+export HF_TOKEN="your-hugging-face-token"
 python3 scripts/update_news.py
 ```
 
-Chinese abstracts:
+Chinese content:
 
-- New items use the English summary first.
-- If `summaryZh` is missing, the updater translates the English summary into Simplified Chinese with the same DashScope Qwen model configured for semantic scoring, currently `qwen-plus`.
-- The API key is read from `DASHSCOPE_API_KEY` by default.
+- New items translate the title, the English summary and the Claude selection reason in one call with the Claude model configured under `claude.model` in `config/news_sources.json`, currently `claude-opus-5-5`.
+- The API key is read from `ANTHROPIC_API_KEY` by default.
 - Existing manually written Chinese abstracts are preserved.
-- Existing saved items with missing or placeholder Chinese abstracts are backfilled during the full `python3 scripts/update_news.py` run.
-- If the API key is not available, the updater keeps a placeholder Chinese summary and continues.
+- Existing saved items with missing or placeholder Chinese abstracts, or with an untranslated title, are backfilled during the full `python3 scripts/update_news.py` run.
+- If the API key is not available, the updater keeps the English title, a placeholder Chinese summary, and continues.
 
-The visible calendar always covers the latest 90 calendar days ending today. The stored data follows the same rolling window: a run on September 11, 2026 keeps June 14, 2026 through September 11, 2026; a run on September 12, 2026 keeps June 15, 2026 through September 12, 2026. Fetched stories are saved under their actual `publishedAt` date, not under the date the updater was run.
+The stored data follows a rolling 90-day window: a run on September 11, 2026 keeps June 14, 2026 through September 11, 2026. Fetched stories are saved under their actual `publishedAt` date, not under the date the updater was run.
+
+## Dashboard
+
+The page reads `data/news.json` only; every filter, weight and sort runs in the browser.
+
+- Left sidebar: `All funds`, then `Invested funds` (Blue Owl, KKR, CIFC, PAG, Pretium, Guggenheim, Neuberger, BasePoint, Bain Capital) and `Watchlist funds` (Blackstone, Apollo, TPG, Golub, CVC, Canyon), each with a group checkbox and per-fund article counts for the active date range. `+ Add institution` adds a browser-local institution matched by name or aliases in saved headlines. `GitHub connection` at the bottom manages the token used by the live refresh.
+- `Refresh news` (top right) runs a real refresh of today's news: it dispatches the GitHub Actions workflow in `today` mode through the GitHub API, shows the run phase and elapsed time on the button, waits for the run to finish and for GitHub Pages to deploy the new `data/news.json`, then reloads the data in place. It needs a fine-grained personal access token for this repository with Actions permission `Read and write`; the token is kept only in the browser's local storage. Without a token the button opens a dialog to paste one or to open the Actions page instead.
+- Event tabs: `Headlines / All`, `Lawsuit`, `Financing / Deals`, `New funds / Fundraising`. Event tags come from headline rules plus Claude classification.
+- Keyword search over titles, summaries and sources in both languages.
+- Date filter: last 7 / 30 / 90 / 365 days, any time, `Exact date…` (single-day picker with previous / next / today), or a custom range.
+- Priority filter: all scores, 50+, 65+ (priority reading), 80+ (high priority).
+- Weighted ranking settings: five sliders (GP relevance, strategy relevance, event importance, source priority, freshness). Each article stores the five component values computed at retrieval; the browser recomputes the 0-100 total as the weighted average with the current weights. Weights persist in the browser; `Restore default weights` resets to 18 / 12 / 30 / 25 / 15.
+- Sorting: importance first, newest first, oldest first, or by any single component.
+- Strategy groups: Credit (Private Credit, ABF, Structured Credit, CLO, Resi Credit), Real Estate (Triple Net Lease, Single Family Rental, Commercial Real Estate), Hard Asset (Aircraft Leasing, Data Center), AI, Other (GP Stakes). `+ Add strategy` / `+ Add sub-strategy` creates a browser-local keyword strategy.
+- `Generate summary` builds a rule-based brief of the filtered articles (fundraising, deals, liquidity, credit quality, legal events, strategy concentration) in the active language. It reads headlines only and does not call an AI.
+- Each card shows source, date, institution / event / strategy tags, the title (Chinese when the page language is Chinese), a summary when it adds to the title, and `score / 100` with `view scoring reasons`: the five components with weights and reasons, the Claude selection reason, tag provenance, and the pipeline keyword / semantic scores. `Report classification issue` opens the feedback dialog.
+- Search coverage lists, per institution, the candidate count and status of the last pipeline run from `coverage` in `data/news.json`, plus the Google News queries used.
+- The `EN / 中文` toggle in the top bar switches every label and every article field.
 
 ## Automated Refresh
 
 The public site is intended to stay fully static. News updates are handled by `.github/workflows/update-news.yml`, which runs the Python updater in GitHub Actions and commits changed JSON data back to the repository.
 
-- Hourly: runs `python3 scripts/update_news.py --recent-days 3`. This fetches current sources, admits only articles whose `publishedAt` date is within the latest three calendar days, dedupes by normalized URL, applies keyword + semantic scoring, translates new Chinese summaries, and merges only into those recent date buckets.
-- Manual today refresh: the top-right `Refresh Today` button opens the GitHub Actions workflow page where an authorized repository user can choose `Run workflow` with mode `today`; that runs `python3 scripts/update_news.py --recent-days 1`.
-- Full-window updates can still be run manually with `python3 scripts/update_news.py` when you want to refresh the rolling 90-day archive, backfill missing Chinese summaries, or capture late-indexed older articles.
-- The top-right `Full 90-Day Refresh` button shows a warning first, then opens the GitHub Actions workflow page where an authorized repository user can choose `Run workflow` with mode `full`.
-- GitHub Actions uses `concurrency.cancel-in-progress: false`, so a manual today run does not cancel or overwrite the automatic hourly recent-window job. If another refresh is already running, GitHub queues the next run.
-- The workflow uses repository secrets named `DASHSCOPE_API_KEY` and optional `HF_TOKEN`.
+- Hourly: runs `python3 scripts/update_news.py --recent-days 3`. This fetches current sources, admits only articles whose `publishedAt` date is within the latest three calendar days, dedupes by normalized URL, classifies, scores, translates, and merges only into those recent date buckets. Every run also backfills saved items that predate the current schema, translates any saved item still missing a Chinese title or summary, and prunes dates outside the 90-day window.
+- Today refresh: the dashboard's `Refresh news` button dispatches the workflow with mode `today`, which runs `python3 scripts/update_news.py --recent-days 1`. The same mode can be started by hand from the Actions page with `Run workflow`.
+- There is no full 90-day mode in the workflow any more. A full-window run is still possible locally with `python3 scripts/update_news.py` if you ever need to re-fetch the whole archive.
+- GitHub Actions uses `concurrency.cancel-in-progress: false`, so a today run does not cancel or overwrite the automatic hourly recent-window job. If another refresh is already running, GitHub queues the next run; the dashboard keeps polling until its run completes.
+- The workflow uses repository secrets named `ANTHROPIC_API_KEY` and optional `HF_TOKEN`.
 - Cloudflare Pages, GitHub Pages, or another static host can redeploy automatically from GitHub after the workflow commits changed `data/news.json` or `data/semantic_queries.json`.
 
 Duplicate handling uses two layers:
@@ -78,8 +98,8 @@ The current updater is primarily a free RSS / Atom ingestion script, not a brows
 Current source method:
 
 - Google News RSS search: API-like RSS feed calls generated from `config/news_sources.json`.
-- GP-specific feeds: one or more search feeds for every required GP: Blue Owl, OTF, Pretium, KKR, PAG, Bayview, CIFC, Basepoint, NB, Apollo, Bain Capital, Guggenheim, and HSBC AM.
-- Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-backed lending, aircraft / aviation finance, software credit, and GP-stakes topics.
+- Institution feeds: two search queries per tracked institution (a name / alias query and a credit-focused query) for Blue Owl, KKR, CIFC, PAG, Pretium, Guggenheim, Neuberger, BasePoint, Bain Capital, Blackstone, Apollo, TPG, Golub, CVC, and Canyon. Blue Owl includes Dyal; TPG includes Angelo Gordon.
+- Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-based finance, aircraft / aviation finance, data center and AI infrastructure financing, and GP-stakes topics.
 - Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, HousingWire RSS, Private Equity Wire RSS, Connect Money topic feeds for private debt / CLOs / business lending / alternatives / real estate, and Mortgage News Daily RSS feeds for mortgage industry news, MBS commentary, and full news.
 - HTML source parsers: Asset Securitization Report is fetched as a normal HTML page from `https://asreport.americanbanker.com/feed` and parsed with a dedicated listing-page extractor because that URL does not return valid RSS/XML. A generic listing-page extractor also reads public article indexes from ABL Advisor, Structured Credit Investor, and Inside Mortgage Finance.
 - Direct article-page scraping: not used for routine ingestion. If semantic scoring is enabled, the updater may make a simple free HTML fetch of an article URL to extract a meta description or first text words for scoring only; it does not bypass paywalls, submit forms, or run a headless browser.
@@ -92,76 +112,79 @@ Preferred sources are configured in `config/news_sources.json` and include Reute
 
 The updater decides whether an item aligns with the mandate using keyword scoring first, then semantic scoring when the configured model dependencies and API key are available.
 
-GP and sub-sector categorization now combines keyword detection and LLM classification:
+Institution, strategy and event categorization combines keyword detection and Claude classification:
 
-- Keyword detection still scans `title + RSS description/lede + source` against `GP_ALIASES` and `SECTOR_KEYWORDS` in `scripts/update_news.py`.
-- Qwen also classifies the article into tracked GP(s), tracked sub-sector(s), and a possible non-credit exclusion flag.
-- The saved GP list is the union of keyword-detected GPs and LLM-detected GPs.
-- The saved sub-sector list is the union of keyword-detected sub-sectors and LLM-detected sub-sectors.
-- If Qwen says the article is about a tracked GP's non-credit business with no lending, financing, or structured-finance angle, the item is excluded before threshold scoring.
-- If Qwen is unavailable, the updater falls back to keyword-only tags.
+- Keyword detection scans `title + RSS description/lede + source` against `gpAliases` in `config/news_sources.json` and the `STRATEGIES` keyword / regex table in `scripts/update_news.py`.
+- Claude classifies the article into tracked institution(s), strategy id(s), event type(s) (`lawsuit`, `financing`, `fundraising`), an importance estimate from 0 to 1, and a possible non-credit exclusion flag.
+- The saved institution, strategy and event lists are the unions of the keyword results and the Claude results.
+- If Claude says the article is about a tracked institution's non-credit business with no lending, financing, or structured-finance angle, or about an unrelated namesake, the item is excluded before threshold scoring.
+- If Claude is unavailable, the updater falls back to keyword-only tags and the dashboard says so in the scoring reasons.
 
 Keyword scoring remains in place after classification:
 
-- GP coverage: each required GP has its own bucket. An item can enter a GP bucket only if the GP or one of its aliases is detected in the title, source, or RSS snippet.
+- Institution coverage: each tracked institution has its own bucket. An item can enter a bucket only if the institution or one of its aliases is detected in the title, source, or RSS snippet, or Claude tags it.
 - Credit relevance: items score higher when they mention credit, debt, loans, lending, financing, facilities, securitization, CLOs, BDCs, mortgages, or asset-backed finance.
-- Sub-sector fit: items score higher when they match software, private credit / direct lending, GP stakes, aircraft leasing, asset-backed lending, real estate, mortgage, or CLO keywords.
-- Mega-manager guardrail: for broad platforms such as KKR, Apollo, Bain Capital, Guggenheim, and HSBC AM, manager-name-only stories are penalized unless the RSS metadata also contains credit, lending, financing, collateral, or tracked-sector context.
-- Region fit: US items receive a small preference, Europe items remain eligible through dedicated Europe queries, and other regions are included only when a required GP and credit theme make the item relevant.
+- Strategy fit: items score higher for each matched strategy.
+- Mega-manager guardrail: manager-name-only stories are penalized unless the RSS metadata also contains credit, lending, financing, collateral, or strategy context.
+- Region fit: US items receive a small preference, Europe items remain eligible through dedicated Europe queries.
 - Source quality: preferred institutional, trade, filing, wire, and manager sources receive a score bonus.
 - Recency: searches are bounded by the configured lookback window, currently 90 days, and storage/display is bounded by the rolling 90-day window.
 
-Items below `minimumScore`, currently `5`, are excluded when semantic scoring is unavailable. Within each GP bucket, the script sorts by relevance score and publication date, then keeps up to `maxItemsPerGp`.
+Items below `minimumScore`, currently `5`, are excluded when semantic scoring is unavailable. Within each institution bucket, the script sorts by relevance score and publication date, then keeps up to `maxItemsPerGp`.
 
 Semantic scoring:
 
-- Semantic scoring is part of the default `python3 scripts/update_news.py` pipeline.
-- LangChain calls Qwen through the `ChatTongyi` / DashScope integration, configured as `qwen-plus` by default, to generate HyDE-style examples for each tracked GP: three short descriptions of credit-relevant news and two short descriptions of non-relevant non-credit news.
-- The updater scores the article against the three generated credit-relevant examples for its fused GP tags.
-- The HyDE prompt template is embedded in `scripts/update_news.py` and cached in `data/semantic_queries.json` so it does not regenerate unless the prompt or precedent data changes.
-- With `semanticScoring.backend: "auto"`, the updater first tries PyLate / ColBERTv2 for MaxSim-style late-interaction scoring. If PyLate cannot be imported, it falls back to LangChain DashScope dense embeddings, which install cleanly on Python 3.13.
-- The candidate document is `title + lede + first ~200 free article words`.
-- The three raw semantic scores are averaged into `semanticScore`.
-- `semanticScore` is normalized from the backend's raw range onto the same approximate point scale as the keyword score, currently up to 12 points.
-- The final decision score is `finalScore = keywordScore + semanticScore`.
-- If semantic scoring is active, the item must clear `semanticScoring.minimumFinalScore`, currently `7`; otherwise it uses `minimumScore`.
-- Each saved item includes `scoreBreakdown.keywordScore`, `scoreBreakdown.semanticScore`, and `scoreBreakdown.finalScore` for auditability.
+- The updater calls Claude through the official `anthropic` Python SDK, configured as `claude-opus-5-5` by default, to generate HyDE-style examples for each tracked institution: three short descriptions of credit-relevant news and two short descriptions of non-relevant news.
+- The updater scores the article against the three generated credit-relevant examples for its fused institution tags.
+- The HyDE prompt template is embedded in `scripts/update_news.py` and cached in `data/semantic_queries.json` so it does not regenerate unless the prompt, the configured Claude model, or precedent data changes.
+- With `semanticScoring.backend: "auto"`, the updater first tries PyLate / ColBERTv2 for MaxSim-style late-interaction scoring. If PyLate cannot be imported, it falls back to a Claude relevance judge (`claude_judge`): one Claude call per article that rates the article against the three HyDE examples on a 0-1 scale. The log line `Semantic scoring backend:` names the backend that was used.
+- `semanticScore` is normalized from the backend's raw range onto the same approximate point scale as the keyword score, currently up to 12 points, and `finalScore = keywordScore + semanticScore` must clear `semanticScoring.minimumFinalScore`, currently `7`.
+
+Rating components for the dashboard (stored under `rating.parts`, each 0-1, computed once at retrieval):
+
+- `institution` (GP relevance): 1.0 when the headline names the institution, 0.7 when Claude tagged it from the text, 0.5 when only the body mentions it, 0.25 otherwise.
+- `strategy` (strategy relevance): 1.0 for a headline keyword hit, 0.7 for a Claude strategy, 0.6 for a body hit, 0 otherwise; when semantic scoring ran, the value is the average of that tag value and the normalized semantic score.
+- `event` (event importance): rule value from the headline and event tags (lawsuit 1.0, close / major transaction / credit-risk signal 0.95, fundraising 0.8, financing 0.7, routine 0.2, stock commentary 0.15, law-firm solicitation 0.1), averaged with Claude's importance estimate when available, except that the two down-weighting rules always win.
+- `source` (source priority): Reuters / Bloomberg / FT / WSJ 1.0, regulatory filings 0.9, trade press 0.8, press-release wires 0.4, aggregators 0.25, other 0.35.
+- `freshness`: days between publication and retrieval, bucketed 1.0 / 0.8 / 0.5 / 0.2 / 0.05 at 1 / 7 / 30 / 90 days. Items migrated from the earlier dashboard carry an estimated 0.8.
+
+Default weights live under `ratingWeights` in `config/news_sources.json` and are written to `scope.ratingWeights` in `data/news.json`. The dashboard total is `sum(value × weight) / sum(weight) × 100`.
 
 ## Report Feedback
 
-Each news card includes a Report button for classification feedback.
+Each news card includes a `Report classification issue` link inside the scoring reasons.
 
-- Readers can report wrong GP, wrong sub-sector, or not credit related.
-- The report captures the article title, URL, source, publication date, lede/excerpt, original GP/sub-sector tags, corrected GP/sub-sector tags, and the reader's reason.
+- Readers can report wrong GP, wrong strategy, or not credit related.
+- The report captures the article title, URL, source, publication date, lede/excerpt, original institution / strategy tags, corrected tags, and the reader's reason.
 - Because the public site is static, the browser cannot write directly to `data/golden_cases.json`. Instead, the report is stored in browser local storage and opens a prefilled GitHub Issue containing structured JSON.
 - After review, valid reports should be copied into `data/golden_cases.json`.
 - To append a reviewed report JSON locally, save the report body to a temporary JSON file and run `python3 scripts/add_golden_case.py path/to/report.json`, then commit `data/golden_cases.json`.
-- Future updater runs include those golden cases in the Qwen classification and HyDE prompts under precedential wrong/non-relevant cases.
+- Future updater runs include those golden cases in the Claude classification and HyDE prompts under precedential wrong/non-relevant cases.
 
 Semantic dependencies are optional because the base dashboard should still run without model infrastructure. For the full semantic and translation pipeline:
 
 ```bash
 pip install -r requirements-semantic.txt
-export DASHSCOPE_API_KEY="your_api_key_here"
+export ANTHROPIC_API_KEY="your-anthropic-api-key"
 python3 scripts/update_news.py
 ```
 
-For token-wise ColBERT-style MaxSim scoring, install the PyLate backend:
+For token-wise ColBERT-style MaxSim scoring, install the PyLate backend (it needs a CPython version that `fast-plaid` publishes wheels for, currently 3.10 to 3.14):
 
 ```bash
 pip install -r requirements-colbert.txt
 ```
 
-You can change the backend, model name, or API-key environment variable in `config/news_sources.json` under `semanticScoring.backend`, `semanticScoring.qwenModel`, and `semanticScoring.qwenApiKeyEnv`.
+Claude settings live in `config/news_sources.json` under the top-level `claude` block: `model`, `apiKeyEnv`, `effort` (`low` / `medium` / `high`), `maxTokens`, and `refusalFallback` (server-side fallback to another Claude model if a safety classifier declines a request). Any stage can override the model or effort with `claudeModel` / `claudeEffort` inside `classification`, `semanticScoring`, or `translation`. The semantic backend is chosen with `semanticScoring.backend` (`auto`, `pylate`, or `claude_judge`).
 
 ## Files
 
-- `index.html`, `styles.css`, `src/app.js`: static dashboard UI.
-- `data/news.json`: retained daily news digests.
+- `index.html`, `styles.css`, `src/app.js`: static dashboard UI (layout, filters, weights, sorting, summary, bilingual text).
+- `data/news.json`: retained daily news digests, plus `scope` (institutions, groups, strategies, weights) and `coverage` from the last run.
 - `data/golden_cases.json`: reviewed feedback cases used in future LLM classification and HyDE prompts.
-- `config/news_sources.json`: RSS search queries, source preferences, thresholds, and retention settings.
-- `scripts/update_news.py`: manual or scheduled update script.
+- `config/news_sources.json`: institution list and groups, aliases, RSS search queries, source preferences, rating weights, thresholds, and retention settings.
+- `scripts/update_news.py`: manual or scheduled update script, including `--backfill-only` migration.
 - `scripts/add_golden_case.py`: helper for appending reviewed report JSON into the golden-case file.
-- `requirements-semantic.txt`: Python 3.13-safe LangChain + DashScope dependencies for semantic scoring.
+- `requirements-semantic.txt`: the `anthropic` SDK used for Claude classification, HyDE generation, relevance judging, and translation.
 - `requirements-colbert.txt`: optional PyLate / ColBERT dependency for token-wise semantic scoring.
 - `docs/news_methodology.md`: filtering logic, limitations, and next steps.

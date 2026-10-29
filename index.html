@@ -3,77 +3,194 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Credit News Dashboard</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>Junson AID Credit Radar</title>
+    <link rel="stylesheet" href="styles.css?v=20261029-radar" />
   </head>
   <body>
-    <header class="app-header">
-      <div>
-        <p class="eyebrow" data-i18n="eyebrow">Private credit daily monitor</p>
-        <h1 data-i18n="title">Credit News Dashboard</h1>
-        <p class="subtitle" data-i18n="subtitle">
-          US-led coverage with a Europe watchlist for credit strategies, asset-based finance, CLOs, software lending, real estate, mortgage, aircraft leasing, and GP stakes.
-        </p>
-      </div>
-      <div class="header-actions">
-        <div class="last-updated">
-          <span data-i18n="lastUpdated">Updated</span>
-          <strong id="lastUpdated">--</strong>
+    <div class="shell">
+      <aside class="sidebar">
+        <a class="brand" href="./">
+          <span class="brand-icon" data-icon="radio" data-size="23"></span>
+          <span>
+            <span class="brand-aid">Junson AID</span>CREDIT<span class="brand-light">RADAR</span>
+            <small data-i18n="brandTag">Alternatives intel</small>
+          </span>
+        </a>
+        <div class="side-label"><span data-i18n="monitoringUniverse">MONITORING UNIVERSE</span> <span id="universeCount">15</span></div>
+        <label class="firm all">
+          <input type="checkbox" id="allFirms" checked />
+          <span data-i18n="allFunds">All funds</span>
+          <small id="allFirmsCount">15 / 15</small>
+        </label>
+        <div class="fund-groups" id="fundGroups"></div>
+        <button class="add-firm-toggle" type="button" data-action="toggle-firm-manager" id="addFirmToggle">+ Add institution</button>
+        <div id="firmManager"></div>
+        <p class="firm-error" role="status" id="firmError" hidden></p>
+        <div class="side-bottom">
+          <span class="side-label" data-i18n="coverageNotes">COVERAGE NOTES</span>
+          <p id="coverageNoteA"></p>
+          <p id="coverageNoteB"></p>
+          <div class="side-actions">
+            <button type="button" class="side-action" data-action="github-settings" id="githubSettingsButton">GitHub connection</button>
+          </div>
         </div>
-        <button id="todayRefreshButton" class="today-refresh-button" type="button" data-i18n="todayRefreshButton">
-          Refresh Today
-        </button>
-        <button id="fullRefreshButton" class="full-refresh-button" type="button" data-i18n="fullRefreshButton">
-          Full 90-Day Refresh
-        </button>
-        <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch language">
-          <span class="toggle-option active" data-lang-pill="en">EN</span>
-          <span class="toggle-option" data-lang-pill="zh">简</span>
-        </button>
-      </div>
-    </header>
-
-    <main class="layout">
-      <aside class="date-panel" aria-label="News calendar">
-        <div class="panel-heading">
-          <h2 data-i18n="calendar">Calendar</h2>
-          <span id="retentionLabel" class="fine-print"></span>
-        </div>
-        <div id="calendar" class="calendar"></div>
       </aside>
 
-      <section class="news-panel">
-        <div class="toolbar">
-          <div>
-            <p class="eyebrow" data-i18n="selectedDate">Selected date</p>
-            <h2 id="selectedDateLabel">--</h2>
-          </div>
-          <div class="toolbar-controls" aria-label="Dashboard controls">
-            <div class="view-toggle" aria-label="Digest scope">
-              <button type="button" class="active" data-view-mode="day" data-i18n="viewDay">Day</button>
-              <button type="button" data-view-mode="week" data-i18n="viewWeek">Week Top 20</button>
-              <button type="button" data-view-mode="month" data-i18n="viewMonth">Month Top 20</button>
+      <main class="workspace-layout">
+        <div class="workspace-top">
+          <header class="topbar">
+            <span data-i18n="topbarTitle">AID fund investment tracker</span>
+            <span class="topbar-right">
+              <span class="top-note"><span data-icon="radio" data-size="14"></span> <span data-i18n="topNote">PUBLIC NEWS INTELLIGENCE</span></span>
+              <button type="button" class="lang-toggle" id="languageToggle" aria-label="Switch language">
+                <span class="lang-pill" data-lang-pill="en">EN</span>
+                <span class="lang-pill" data-lang-pill="zh">中文</span>
+              </button>
+            </span>
+          </header>
+
+          <section class="intro">
+            <div>
+              <div class="eyebrow" data-i18n="eyebrow">PRIVATE MARKETS / CREDIT</div>
+              <h1><span data-i18n="heroTitle">Track capital's next move</span><span data-i18n="heroPunct">.</span></h1>
+              <p data-i18n="heroSubtitle">Institution updates, legal events and credit strategies in one search.</p>
             </div>
-            <button id="groupModeToggle" class="group-mode-toggle" type="button">Group by sub-sector</button>
-            <div class="toolbar-stats" aria-label="Digest statistics">
-              <span id="itemCount">0</span>
-              <small data-i18n="stories">stories</small>
-            </div>
+            <button class="refresh" type="button" data-action="reload" id="refreshButton">
+              <span data-icon="refresh-cw" data-size="16" id="refreshIcon"></span><span id="refreshLabel">Refresh news</span>
+            </button>
+          </section>
+
+          <nav class="highlight-events" aria-label="Event filter">
+            <div class="tabs" id="eventTabs"></div>
+          </nav>
+
+          <div class="search-event-row">
+            <form class="search" id="searchForm">
+              <span data-icon="search" data-size="22"></span>
+              <input id="searchInput" aria-label="News keywords" maxlength="180" />
+              <button type="submit" data-i18n="searchButton">Search</button>
+            </form>
           </div>
+
+          <form class="date-range" id="dateRangeForm" hidden>
+            <label><span data-i18n="startDate">Start date</span><input type="date" id="rangeStart" /></label>
+            <span data-i18n="rangeTo">to</span>
+            <label><span data-i18n="endDate">End date</span><input type="date" id="rangeEnd" /></label>
+            <button type="submit" data-i18n="applyDates">Apply dates</button>
+            <small data-i18n="rangeHint">Inclusive of both ends; either end may be left blank.</small>
+            <p role="alert" id="rangeError" hidden></p>
+          </form>
+
+          <div class="date-range exact-date" id="exactDateBar" hidden>
+            <button type="button" class="day-nav" data-action="exact-prev" aria-label="Previous day">&lt;</button>
+            <label><span data-i18n="exactDate">Date</span><input type="date" id="exactDateInput" /></label>
+            <button type="button" class="day-nav" data-action="exact-next" aria-label="Next day">&gt;</button>
+            <button type="button" class="day-today" data-action="exact-today" data-i18n="today">Today</button>
+            <small id="exactDateHint"></small>
+          </div>
+
+          <section class="ranking-tools">
+            <label class="date-filter"><span data-i18n="dateLabel">Date</span>
+              <select id="dateSelect" aria-label="Date range">
+                <option value="7" data-i18n="days7">Last 7 days</option>
+                <option value="30" data-i18n="days30" selected>Last 30 days</option>
+                <option value="90" data-i18n="days90">Last 90 days</option>
+                <option value="365" data-i18n="days365">Last year</option>
+                <option value="all" data-i18n="daysAll">Any time</option>
+                <option value="exact" data-i18n="daysExact">Exact date…</option>
+                <option value="custom" data-i18n="daysCustom">Custom range…</option>
+              </select>
+            </label>
+            <label><span data-i18n="minScoreLabel">Priority filter</span>
+              <select id="minScoreSelect" aria-label="Minimum importance score">
+                <option value="0" data-i18n="scoreAll">All scores</option>
+                <option value="50" data-i18n="score50">50 and above</option>
+                <option value="65" data-i18n="score65">65 and above · priority reading</option>
+                <option value="80" data-i18n="score80">80 and above · high priority</option>
+              </select>
+            </label>
+            <details id="weightDetails">
+              <summary data-i18n="weightSettings">Weighted ranking settings</summary>
+              <p data-i18n="weightIntro">Total = five indicators × weights, normalised to 100 by the weight sum. The score is a reading priority, not fact-checking or an investment rating.</p>
+              <div class="weight-controls" id="weightControls"></div>
+              <p data-i18n="weightNoteA">Lawsuits, credit stress, final closes and major deals rank first; law-firm solicitations and generic stock commentary are down-weighted. Reuters / Bloomberg / FT / WSJ are preset first, trade press second, press releases separately; the source is matched by its public name.</p>
+              <p data-i18n="weightNoteB">Institution relevance scores whether the headline names the firm; strategy relevance combines keyword hits with the semantic (HyDE) match; freshness is bucketed at 1 / 7 / 30 / 90 days from retrieval. Components are fixed at retrieval time; only the weighting is recomputed here.</p>
+              <p class="warning" id="zeroWeightWarning" hidden data-i18n="zeroWeights">All weights are zero, so every article scores 0.</p>
+              <button type="button" data-action="reset-weights" data-i18n="resetWeights">Restore default weights</button>
+            </details>
+            <div class="result-actions">
+              <button class="summary-button" type="button" data-action="toggle-summary" id="summaryButton">Generate summary</button>
+              <select id="sortSelect" aria-label="Sort news">
+                <option value="importance" data-i18n="sortImportance">Importance first</option>
+                <option value="recent" data-i18n="sortRecent">Newest first</option>
+                <option value="oldest" data-i18n="sortOldest">Oldest first</option>
+                <option value="institution" data-i18n="sortInstitution">GP relevance</option>
+                <option value="strategy" data-i18n="sortStrategy">Strategy relevance</option>
+                <option value="event" data-i18n="sortEvent">Event importance</option>
+                <option value="source" data-i18n="sortSource">Source priority</option>
+                <option value="freshness" data-i18n="sortFreshness">Freshness</option>
+              </select>
+            </div>
+          </section>
+
+          <div class="legal-note" id="legalNote" hidden>
+            <span data-icon="scale" data-size="19"></span>
+            <p data-i18n="legalNote">Searches litigation, settlement and court-related news. A headline mention does not mean the institution is a defendant; no result does not mean no litigation exists. Verify cases and progress against the source and court records.</p>
+          </div>
+
+          <div class="results-header"><h2><span id="resultsTitle">Latest news</span><span id="resultsCount">…</span></h2></div>
+          <div class="selection-line" id="selectionLine"></div>
         </div>
 
-        <div id="emptyState" class="empty-state" hidden>
-          <h3 data-i18n="emptyTitle">No news saved for this date</h3>
-          <p data-i18n="emptyBody">Run the updater to fetch and score new items, then refresh this page.</p>
+        <div class="workspace-main">
+          <div class="content-layout">
+            <section class="results">
+              <section class="strategies focus-strategies">
+                <div class="filter-label"><span data-icon="sliders-horizontal" data-size="15"></span> <span data-i18n="focusStrategies">Focus strategies</span></div>
+                <div class="strategy-list" id="focusStrategies"></div>
+              </section>
+              <p class="warning feed-backup" role="status" id="feedNote" hidden></p>
+              <section class="news-summary" id="newsSummary" aria-label="Filtered news summary" hidden></section>
+              <div id="articles" aria-live="polite"></div>
+            </section>
+          </div>
+          <footer>
+            <span class="footer-brand">AID CREDIT RADAR</span>
+            <span><span data-i18n="footerNote">Public information research tool · news dated by publication date</span> · © 2026 Jialun Xu · GPL-3.0-or-later</span>
+          </footer>
         </div>
 
-        <div id="newsList" class="news-list"></div>
-      </section>
-    </main>
-
-    <footer class="site-footer">
-      © 2026 Jialun Xu. Credit News Dashboard is licensed under the GNU General Public License v3.0 or later.
-    </footer>
+        <aside class="context">
+          <div class="context-block strategy-browser">
+            <div class="eyebrow">STRATEGY GROUPS</div>
+            <h3 data-i18n="strategyGroups">Strategy groups</h3>
+            <button class="all-strategies" type="button" data-action="select-strategy" data-strategy="" id="allStrategiesButton">All strategies</button>
+            <section class="strategy-manager" id="strategyManager" hidden></section>
+            <p class="warning" role="status" id="strategyError" hidden></p>
+            <div class="strategy-categories" id="strategyCategories"></div>
+          </div>
+          <div class="context-block coverage-block">
+            <div class="eyebrow">SEARCH COVERAGE</div>
+            <h3 data-i18n="coverageTitle">Coverage of this run</h3>
+            <div class="coverage-total"><strong id="coverageOk">—</strong><span id="coverageTotal"></span></div>
+            <p class="warning" id="coverageWarning" hidden></p>
+            <div class="coverage-list" id="coverageList"></div>
+            <p class="timestamp" id="coverageTimestamp"></p>
+          </div>
+          <div class="context-block notes">
+            <div class="eyebrow">READ THE SIGNAL</div>
+            <h3 data-i18n="notesTitle">Reading notes</h3>
+            <p data-i18n="notesA">Event and strategy tags are generated from headline keywords plus Claude classification and are for navigation only.</p>
+            <p data-i18n="notesB">Fundraising coverage may refer to target size, first close or final close; confirm amounts and stage in the original article.</p>
+            <p data-i18n="notesC">Sources: Google News public index plus publisher feeds. Coverage may be incomplete, duplicated or paywalled; this is not a court-case database.</p>
+          </div>
+          <div class="context-block">
+            <button class="query-toggle" type="button" data-action="toggle-queries"><span data-i18n="queryToggle">Search queries & fallback search</span> <span data-icon="chevron-down" data-size="16"></span></button>
+            <div class="query-list" id="queryList" hidden></div>
+          </div>
+        </aside>
+      </main>
+    </div>
 
     <dialog id="reportDialog" class="report-dialog">
       <form id="reportForm" method="dialog">
@@ -84,31 +201,16 @@
           </div>
           <button class="report-close" type="button" data-report-close aria-label="Close">×</button>
         </div>
-
         <p id="reportArticleTitle" class="report-article-title"></p>
-
         <fieldset>
           <legend data-i18n="reportReason">Reason</legend>
           <label><input type="radio" name="reasonType" value="wrong_gp" checked /> <span data-i18n="wrongGp">Wrong GP</span></label>
-          <label><input type="radio" name="reasonType" value="wrong_sector" /> <span data-i18n="wrongSector">Wrong sub-sector</span></label>
+          <label><input type="radio" name="reasonType" value="wrong_sector" /> <span data-i18n="wrongSector">Wrong strategy</span></label>
           <label><input type="radio" name="reasonType" value="not_credit" /> <span data-i18n="notCredit">Not credit related</span></label>
         </fieldset>
-
-        <label>
-          <span data-i18n="correctGps">Correct GP(s)</span>
-          <select id="correctGps" multiple></select>
-        </label>
-
-        <label>
-          <span data-i18n="correctSectors">Correct sub-sector(s)</span>
-          <select id="correctSectors" multiple></select>
-        </label>
-
-        <label>
-          <span data-i18n="reportDetails">Additional reason</span>
-          <textarea id="reportDetails" rows="4"></textarea>
-        </label>
-
+        <label><span data-i18n="correctGps">Correct GP(s)</span><select id="correctGps" multiple></select></label>
+        <label><span data-i18n="correctSectors">Correct strategy(ies)</span><select id="correctSectors" multiple></select></label>
+        <label><span data-i18n="reportDetails">Additional reason</span><textarea id="reportDetails" rows="4"></textarea></label>
         <div class="report-actions">
           <button type="button" class="secondary-button" data-report-close data-i18n="cancelReport">Cancel</button>
           <button type="submit" class="primary-button" data-i18n="submitReport">Submit report</button>
@@ -116,27 +218,27 @@
       </form>
     </dialog>
 
-    <dialog id="refreshDialog" class="refresh-dialog">
-      <form method="dialog">
+    <dialog id="githubDialog" class="refresh-dialog">
+      <form id="githubForm" method="dialog">
         <div class="report-heading">
           <div>
-            <p class="eyebrow" data-i18n="refreshEyebrow">Manual update</p>
-            <h2 id="refreshDialogTitle">Run full 90-day refresh?</h2>
+            <p class="eyebrow" data-i18n="githubEyebrow">Live refresh</p>
+            <h2 data-i18n="githubTitle">Connect GitHub to refresh today's news</h2>
           </div>
-          <button class="report-close" type="button" data-refresh-close aria-label="Close">×</button>
+          <button class="report-close" type="button" data-github-close aria-label="Close">×</button>
         </div>
-
-        <p id="refreshDialogBody" class="refresh-warning">
-          This may take more than 45 minutes. During that time, the public dashboard will keep showing the current saved news, and you will not be able to read the newly refreshed 90-day results until the update finishes and GitHub Pages redeploys. Please only continue if you are sure.
-        </p>
-
+        <p class="refresh-warning" data-i18n="githubIntro">Refreshing runs the updater in GitHub Actions for today's news (fetch, Claude classification, semantic scoring, translation) and reloads the page when the new data is deployed. The hourly automatic update keeps running on its own.</p>
+        <p class="refresh-warning" data-i18n="githubSteps">Create a fine-grained personal access token on GitHub limited to this repository with Actions permission set to Read and write, then paste it below. It is stored only in this browser.</p>
+        <label><span data-i18n="githubTokenLabel">GitHub token</span><input type="password" id="githubTokenInput" autocomplete="off" spellcheck="false" /></label>
+        <p class="refresh-warning" id="githubStatus" hidden></p>
         <div class="report-actions">
-          <button type="button" class="secondary-button" data-refresh-close data-i18n="cancelRefresh">Cancel</button>
-          <button type="button" id="confirmManualRefresh" class="primary-button" data-i18n="confirmRefresh">Continue to GitHub Actions</button>
+          <a class="secondary-button" id="githubActionsLink" href="#" target="_blank" rel="noopener noreferrer" data-i18n="githubOpenActions">Open Actions page instead</a>
+          <button type="button" class="secondary-button" id="githubForget" data-i18n="githubForget" hidden>Remove token</button>
+          <button type="submit" class="primary-button" id="githubSave" data-i18n="githubSave">Save and refresh</button>
         </div>
       </form>
     </dialog>
 
-    <script src="src/app.js?v=20260919-sector-rankings" type="module"></script>
+    <script src="src/app.js?v=20261029-radar" type="module"></script>
   </body>
 </html>

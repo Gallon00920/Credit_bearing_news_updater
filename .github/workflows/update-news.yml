@@ -11,7 +11,6 @@ on:
         options:
           - today
           - recent
-          - full
   schedule:
     - cron: "0 * * * *"
 
@@ -26,7 +25,7 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
     env:
-      DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
     steps:
       - name: Check out repository
@@ -53,13 +52,11 @@ jobs:
         run: pip install -r requirements-semantic.txt
 
       - name: Install optional ColBERT dependencies
-        run: pip install -r requirements-colbert.txt || echo "PyLate unavailable; updater will fall back to DashScope dense semantic scoring."
+        run: pip install -r requirements-colbert.txt || echo "PyLate unavailable; updater will fall back to Claude relevance-judge semantic scoring."
 
       - name: Run updater
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "full" ]; then
-            python3 scripts/update_news.py
-          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "today" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" = "today" ]; then
             python3 scripts/update_news.py --recent-days 1
           else
             python3 scripts/update_news.py --recent-days 3

@@ -3,20 +3,20 @@
   "lookbackDays": 90,
   "maxItemsPerGp": 6,
   "minimumScore": 5,
+  "claude": {
+    "model": "claude-opus-5-5",
+    "apiKeyEnv": "ANTHROPIC_API_KEY",
+    "effort": "low",
+    "maxTokens": 16000,
+    "refusalFallback": true
+  },
   "classification": {
-    "enabled": true,
-    "qwenProvider": "dashscope",
-    "qwenModel": "qwen-plus",
-    "qwenApiKeyEnv": "DASHSCOPE_API_KEY"
+    "enabled": true
   },
   "semanticScoring": {
     "enabled": true,
     "queryCachePath": "data/semantic_queries.json",
     "backend": "auto",
-    "qwenProvider": "dashscope",
-    "qwenModel": "qwen-plus",
-    "qwenApiKeyEnv": "DASHSCOPE_API_KEY",
-    "denseEmbeddingModel": "text-embedding-v2",
     "colbertModel": "colbert-ir/colbertv2.0",
     "rawScoreMin": 0,
     "rawScoreMax": 30,
@@ -25,49 +25,79 @@
   },
   "translation": {
     "enabled": true,
-    "qwenProvider": "dashscope",
-    "qwenModel": "qwen-plus",
-    "qwenApiKeyEnv": "DASHSCOPE_API_KEY",
     "targetLanguage": "Simplified Chinese"
+  },
+  "ratingWeights": {
+    "institution": 18,
+    "strategy": 12,
+    "event": 30,
+    "source": 25,
+    "freshness": 15
   },
   "gps": [
     "Blue Owl",
-    "OTF",
-    "Pretium",
     "KKR",
-    "PAG",
-    "Bayview",
     "CIFC",
-    "Basepoint",
-    "NB",
-    "Apollo",
-    "Bain Capital",
+    "PAG",
+    "Pretium",
     "Guggenheim",
-    "HSBC AM"
+    "Neuberger",
+    "BasePoint",
+    "Bain Capital",
+    "Blackstone",
+    "Apollo",
+    "TPG",
+    "Golub",
+    "CVC",
+    "Canyon"
   ],
+  "gpGroups": {
+    "invested": ["Blue Owl", "KKR", "CIFC", "PAG", "Pretium", "Guggenheim", "Neuberger", "BasePoint", "Bain Capital"],
+    "watch": ["Blackstone", "Apollo", "TPG", "Golub", "CVC", "Canyon"]
+  },
+  "gpAliases": {
+    "Blue Owl": ["blue owl", "blueowl", "owl rock", "dyal capital", "dyal", "blue owl technology finance", "nyse: otf"],
+    "KKR": ["kkr", "kohlberg kravis roberts", "global atlantic"],
+    "CIFC": ["cifc"],
+    "PAG": [" pag ", "pag's", "pacific alliance group"],
+    "Pretium": ["pretium"],
+    "Guggenheim": ["guggenheim"],
+    "Neuberger": ["neuberger berman", "neuberger", " nb private"],
+    "BasePoint": ["basepoint"],
+    "Bain Capital": ["bain capital", "baincapital"],
+    "Blackstone": ["blackstone", "bcred"],
+    "Apollo": ["apollo global", "apollo management", "apollo asset", "apollo debt", "apollo credit", "apollo's", "apollo ", "athene"],
+    "TPG": [" tpg ", "tpg inc", "tpg's", "angelo gordon", "tpg angelo"],
+    "Golub": ["golub"],
+    "CVC": ["cvc capital", "cvc credit", " cvc "],
+    "Canyon": ["canyon partners", "canyon capital", "canyon clo"]
+  },
   "gpQueries": {
-    "Blue Owl": ["Blue Owl private credit", "Blue Owl direct lending BDC software credit"],
-    "OTF": ["Blue Owl Technology Finance OTF BDC", "OTF public BDC Blue Owl credit"],
-    "Pretium": ["Pretium private credit mortgage real estate", "Pretium residential credit mortgage"],
-    "KKR": ["KKR private credit direct lending CLO", "KKR asset backed finance private credit"],
-    "PAG": ["PAG private credit direct lending real estate credit", "PAG credit private debt"],
-    "Bayview": ["Bayview Asset Management mortgage credit", "Bayview mortgage private credit"],
-    "CIFC": ["CIFC CLO credit", "CIFC asset management CLO private credit"],
-    "Basepoint": ["Basepoint private credit asset backed lending", "Basepoint lending real estate credit"],
-    "NB": ["Neuberger Berman private credit direct lending", "NB private credit Neuberger Berman"],
-    "Apollo": ["Apollo private credit direct lending asset backed finance", "Apollo credit aircraft leasing mortgage CLO"],
-    "Bain Capital": ["Bain Capital private credit direct lending", "Bain Capital credit facility private debt"],
-    "Guggenheim": ["Guggenheim private credit CLO asset backed lending", "Guggenheim credit CLO"],
-    "HSBC AM": ["HSBC Asset Management private credit", "HSBC AM direct lending private credit Europe"]
+    "Blue Owl": ["\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"", "Blue Owl private credit direct lending BDC"],
+    "KKR": ["\"KKR\" OR \"Kohlberg Kravis Roberts\"", "KKR private credit direct lending asset-based finance CLO"],
+    "CIFC": ["\"CIFC\" OR \"CIFC Asset Management\"", "CIFC CLO credit"],
+    "PAG": ["\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"", "PAG private credit direct lending real estate credit"],
+    "Pretium": ["\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing", "Pretium residential credit mortgage"],
+    "Guggenheim": ["\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit", "Guggenheim private credit CLO asset backed lending"],
+    "Neuberger": ["\"Neuberger Berman\"", "Neuberger Berman private credit direct lending"],
+    "BasePoint": ["\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund", "BasePoint private credit asset backed lending"],
+    "Bain Capital": ["\"Bain Capital\" OR \"BainCapital\"", "Bain Capital credit private debt direct lending"],
+    "Blackstone": ["\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment", "Blackstone private credit direct lending BCRED"],
+    "Apollo": ["\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit", "Apollo private credit direct lending asset backed finance"],
+    "TPG": ["\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"", "TPG Angelo Gordon private credit"],
+    "Golub": ["\"Golub Capital\" OR \"Golub\" credit", "Golub Capital BDC direct lending"],
+    "CVC": ["\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund", "CVC Credit private credit CLO"],
+    "Canyon": ["\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit", "Canyon Partners credit fund"]
   },
   "sourceQueries": [
-    "private credit direct lending Blue Owl OTF software BDC",
-    "private credit direct lending KKR Apollo Bain Capital Guggenheim",
-    "private credit CLO CIFC KKR Guggenheim asset backed lending",
-    "private credit real estate mortgage Pretium Bayview Basepoint PAG",
+    "private credit direct lending Blue Owl Blackstone Apollo BDC",
+    "private credit direct lending KKR Bain Capital Guggenheim Golub",
+    "private credit CLO CIFC KKR Guggenheim CVC Canyon asset backed lending",
+    "private credit real estate mortgage Pretium BasePoint PAG TPG",
     "aircraft leasing aviation finance Apollo KKR private credit",
-    "GP stakes private credit Blue Owl KKR Apollo",
-    "Europe private credit direct lending Apollo KKR HSBC Asset Management"
+    "GP stakes private credit Blue Owl Dyal Blackstone",
+    "data center AI infrastructure financing private credit Blackstone Apollo KKR",
+    "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
   ],
   "rssFeeds": [
     {
@@ -170,6 +200,7 @@
     "Apollo",
     "KKR",
     "Blue Owl",
-    "Bain Capital"
+    "Bain Capital",
+    "Blackstone"
   ]
 }
