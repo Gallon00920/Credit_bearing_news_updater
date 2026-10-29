@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-29T16:10:19.379967+00:00",
+  "updatedAt": "2026-10-29T21:31:33.346517+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口一致。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -85257,6 +85257,120 @@
               "finalScore": 22.25,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-27-d8319c194c39",
+            "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Moneycontrol.com",
+            "titleZh": "华尔街银行与Blackstone筹组630亿美元融资，为Anthropic采购Broadcom AI芯片提供资金",
+            "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+            "summaryZh": "华尔街银行与Blackstone筹组630亿美元融资，为Anthropic采购Broadcom AI芯片提供资金 Moneycontrol.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFlOb1FDUzItRUJwTmVTVVYwcGxGMTBBUzM2dWx2MDJicHQyUWlMeDQycHVYbTJoVTlPaW41M1pZb0FrNkZWZkFBTzFnUDRsZDVkLWRxZmtWNFJhN0RzWld0dEhXN1I3dng4Uk8xVi1lYUx4VmhFMS02RzB5YnFUb2d0N2xkREhZaDlJMEMtUmxPTU1XQnAzTmNLN2RRUndIeEVFb2ZUeGRadlR1QkQ2Y2xlS092NkpaTzVlSUN2TmlDVGV4MzZ3M2ViUmpoR1Z0X3JwTG5nREZJWHp6azZjb19JNTFOQdIB5gFBVV95cUxPaFlOb1FDUzItRUJwTmVTVVYwcGxGMTBBUzM2dWx2MDJicHQyUWlMeDQycHVYbTJoVTlPaW41M1pZb0FrNkZWZkFBTzFnUDRsZDVkLWRxZmtWNFJhN0RzWld0dEhXN1I3dng4Uk8xVi1lYUx4VmhFMS02RzB5YnFUb2d0N2xkREhZaDlJMEMtUmxPTU1XQnAzTmNLN2RRUndIeEVFb2ZUeGRadlR1QkQ2Y2xlS092NkpaTzVlSUN2TmlDVGV4MzZ3M2ViUmpoR1Z0X3JwTG5nREZJWHp6azZjb19JNTFOQQ?oc=5",
+            "source": "Moneycontrol.com",
+            "publishedAt": "2026-10-27",
+            "lede": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+            "articleExcerpt": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Moneycontrol.com. Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+            "contentFingerprint": "40e5c30d5d0140a0",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blackstone is participating alongside Wall Street banks in a $63B debt financing package for Broadcom AI chips for Anthropic. That is a major credit and lending transaction tied to AI and GPU financing, which is relevant to Blackstone's credit business.",
+              "llmReasonZh": "Blackstone与华尔街银行共同参与一项630亿美元的债务融资方案，为Anthropic采购Broadcom AI芯片提供资金。这是一笔与AI及GPU融资相关的重大信贷和贷款交易，与Blackstone的信贷业务密切相关。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Moneycontrol.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.15,
+              "finalScore": 24.15,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -87840,6 +87954,120 @@
             "keywordScore": 17,
             "semanticScore": 5.25,
             "finalScore": 22.25,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-27-d8319c194c39",
+          "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Moneycontrol.com",
+          "titleZh": "华尔街银行与Blackstone筹组630亿美元融资，为Anthropic采购Broadcom AI芯片提供资金",
+          "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+          "summaryZh": "华尔街银行与Blackstone筹组630亿美元融资，为Anthropic采购Broadcom AI芯片提供资金 Moneycontrol.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFlOb1FDUzItRUJwTmVTVVYwcGxGMTBBUzM2dWx2MDJicHQyUWlMeDQycHVYbTJoVTlPaW41M1pZb0FrNkZWZkFBTzFnUDRsZDVkLWRxZmtWNFJhN0RzWld0dEhXN1I3dng4Uk8xVi1lYUx4VmhFMS02RzB5YnFUb2d0N2xkREhZaDlJMEMtUmxPTU1XQnAzTmNLN2RRUndIeEVFb2ZUeGRadlR1QkQ2Y2xlS092NkpaTzVlSUN2TmlDVGV4MzZ3M2ViUmpoR1Z0X3JwTG5nREZJWHp6azZjb19JNTFOQdIB5gFBVV95cUxPaFlOb1FDUzItRUJwTmVTVVYwcGxGMTBBUzM2dWx2MDJicHQyUWlMeDQycHVYbTJoVTlPaW41M1pZb0FrNkZWZkFBTzFnUDRsZDVkLWRxZmtWNFJhN0RzWld0dEhXN1I3dng4Uk8xVi1lYUx4VmhFMS02RzB5YnFUb2d0N2xkREhZaDlJMEMtUmxPTU1XQnAzTmNLN2RRUndIeEVFb2ZUeGRadlR1QkQ2Y2xlS092NkpaTzVlSUN2TmlDVGV4MzZ3M2ViUmpoR1Z0X3JwTG5nREZJWHp6azZjb19JNTFOQQ?oc=5",
+          "source": "Moneycontrol.com",
+          "publishedAt": "2026-10-27",
+          "lede": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+          "articleExcerpt": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Moneycontrol.com. Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Moneycontrol.com",
+          "contentFingerprint": "40e5c30d5d0140a0",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blackstone is participating alongside Wall Street banks in a $63B debt financing package for Broadcom AI chips for Anthropic. That is a major credit and lending transaction tied to AI and GPU financing, which is relevant to Blackstone's credit business.",
+            "llmReasonZh": "Blackstone与华尔街银行共同参与一项630亿美元的债务融资方案，为Anthropic采购Broadcom AI芯片提供资金。这是一笔与AI及GPU融资相关的重大信贷和贷款交易，与Blackstone的信贷业务密切相关。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Moneycontrol.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.15,
+            "finalScore": 24.15,
             "semanticEnabled": true
           }
         },
@@ -92521,6 +92749,114 @@
               "finalScore": 25.06,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-d4b866a36dd2",
+            "title": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs - Minichart",
+            "titleZh": "KKR Real Estate Finance Trust因1.559亿美元贷款核销录得1.52亿美元可分配亏损 - Minichart",
+            "summary": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+            "summaryZh": "KKR Real Estate Finance Trust因1.559亿美元贷款核销录得1.52亿美元可分配亏损 Minichart",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd2NTZ1ZNNXptSUZXZTZ6WlZNN1FZSGw5clFLd29LQm5jaXpxM1pyZ2pRc3VaUENJYkRkTnd2OHRtLXY4ekt3d1lLLWpMVUhMZkVVT1RfLVhOMmdSeGxUeTRGa0tPelU4OGhEYkVlSGJUbGNGQm1GTnNkU1o1TndWSEpQNDZBVV9OajhvMl8yUEVDX2dNaHJ4c1dHalRTUnhuZ002dmh5dmRoYUkzTG1kdHB6V0psSmxSVGlOcEgtc0t3MFI2dkFwakpjbEl5bWNwbC14WHRIZw?oc=5",
+            "source": "Minichart",
+            "publishedAt": "2026-10-29",
+            "lede": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+            "articleExcerpt": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs - Minichart. KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+            "contentFingerprint": "f98af4ca4830a6df",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit",
+              "cre"
+            ],
+            "sectors": [
+              "private-credit",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending vehicle. A $152M distributable loss driven by $155.9M in loan write-offs signals credit deterioration in its CRE loan book. That is highly relevant to a credit investor and close to default-level severity. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是KKR旗下的商业地产贷款平台。由1.559亿美元贷款核销导致的1.52亿美元可分配亏损，表明其商业地产贷款组合信用状况恶化。这与信用投资者高度相关，严重程度接近违约级别。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "cre"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Minichart"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.09,
+              "finalScore": 22.09,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -92548,10 +92884,12 @@
               "Bain Capital"
             ],
             "strategies": [
-              "private-credit"
+              "private-credit",
+              "cre"
             ],
             "sectors": [
-              "private-credit"
+              "private-credit",
+              "cre"
             ],
             "events": [
               "financing"
@@ -92567,15 +92905,16 @@
               "keywordStrategies": [],
               "titleStrategies": [],
               "llmStrategies": [
-                "private-credit"
+                "private-credit",
+                "cre"
               ],
               "llmEvents": [
                 "financing"
               ],
               "llmImportance": 0.7,
               "llmExclude": false,
-              "llmReason": "An Indian real estate developer backed by CPPIB is seeking financing from Bain. This most likely refers to Bain Capital's credit business, which is active in Indian private lending to real estate developers. The deal is still being sought, not closed, so it is rated as ordinary financing (0.7). No CRE tag because the developer's segment isn't specified.",
-              "llmReasonZh": "一家由CPPIB支持的印度房地产开发商正寻求Bain提供融资。此处很可能指Bain Capital的信贷业务，该业务在印度面向房地产开发商的私募贷款领域较为活跃。该交易仍处于寻求阶段，尚未完成，因此评级为普通融资（0.7）。由于未明确该开发商所属的细分领域，未添加CRE标签。"
+              "llmReason": "A CPPIB-backed Indian real estate developer is seeking financing from Bain, likely Bain Capital Credit's India lending business. That makes it a credit and financing angle on a real estate developer, so it is an ordinary financing event. The CRE tag is inferred from the developer context.",
+              "llmReasonZh": "一家由CPPIB支持的印度房地产开发商正寻求Bain提供融资，资金方可能为Bain Capital Credit旗下的印度贷款业务。这使其成为涉及房地产开发商的信贷与融资事件，因此属于常规融资事件。CRE标签系根据该开发商背景推断得出。"
             },
             "rating": {
               "parts": {
@@ -92591,7 +92930,8 @@
                   "code": "llm_strategy",
                   "tagValue": 0.7,
                   "strategies": [
-                    "private-credit"
+                    "private-credit",
+                    "cre"
                   ],
                   "semanticValue": 0.42
                 },
@@ -92612,7 +92952,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.0
+                  "days": 0.3
                 }
               },
               "weights": {
@@ -92623,12 +92963,12 @@
                 "freshness": 15
               },
               "score": 80,
-              "retrievedAt": "2026-10-29T07:51:32.635985+00:00"
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 17,
+              "keywordScore": 20,
               "semanticScore": 5.08,
-              "finalScore": 22.08,
+              "finalScore": 25.08,
               "semanticEnabled": true
             }
           },
@@ -93073,6 +93413,121 @@
               "finalScore": 25.23,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-e26ba61cf6f4",
+            "title": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results - Yahoo Finance",
+            "titleZh": "Blackstone Mortgage Trust公布2026年第三季度业绩 - Yahoo Finance",
+            "summary": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+            "summaryZh": "Blackstone Mortgage Trust公布2026年第三季度业绩 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDZ0eEJXeWhZMnFBeXVHa01Ib1F5MThqbVN4ZWszd01uNF9PZXVVT2lqVXJkTWVKOHBySm14ZmZKY1hWZlE4eHV1bXlmWHMwWkEtZ1Y4dml1STFNTHY3YWlQVWY2bGhUTW1aNzQ5aVFxNGJHUFpoc0p6amJPelNpUS10TXdwTXhHYl9qM0pCM0szMEl2aW9ZMk1ObWtxSjJ3blRn?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-29",
+            "lede": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+            "articleExcerpt": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results - Yahoo Finance. Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+            "contentFingerprint": "45f671f3ce2afb9b",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust (BXMT) is Blackstone's commercial real estate debt REIT, which makes it a credit/lending vehicle. A quarterly earnings release is routine manager news with no specific financing, fundraising or litigation event.",
+              "llmReasonZh": "Blackstone Mortgage Trust（BXMT）是Blackstone旗下的商业地产债务REIT，属于信贷/贷款投资工具。季度业绩发布属于常规管理人新闻，不涉及具体的融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.22,
+              "finalScore": 25.22,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [],
@@ -93377,17 +93832,17 @@
         "CVC": [
           {
             "id": "2026-10-29-11af88abfcb3",
-            "title": "CVC credit assets jump 55% as Marathon acquisition boosts growth - Alternative Credit Investor",
+            "title": "CVC credit assets jump 55pc as Marathon acquisition boosts growth - Alternative Credit Investor",
             "titleZh": "CVC信贷资产大增55%，收购Marathon推动增长 - Alternative Credit Investor",
-            "summary": "CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
+            "summary": "CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
             "summaryZh": "CVC信贷资产大增55%，收购Marathon推动增长 Alternative Credit Investor",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0JzUE9jbS1ZUVVZb3YwUk1ORjlKMnMyRVhlUUJlZkw0Nk12cl9EOHUzSHNaMkhLSUxJbExxZVM2dDllOG9YQjJkMUVnbjNjcElqZng4UkZkXzRoOE9MajlYYjNxTG5Oc0xxZFdrYUNBQ29ZZkFXUlo0aDl4UzhYbEY4N2hnRHoyc1FRenEtMTRQa0J1T3d2bWlFaGNKRVBpOFgwekEtWEJxSUlWMjlhZkRVRQ?oc=5",
             "source": "Alternative Credit Investor",
             "publishedAt": "2026-10-29",
-            "lede": "CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
-            "articleExcerpt": "CVC credit assets jump 55% as Marathon acquisition boosts growth - Alternative Credit Investor. CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
-            "contentFingerprint": "189b5e8f9688663b",
+            "lede": "CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
+            "articleExcerpt": "CVC credit assets jump 55pc as Marathon acquisition boosts growth - Alternative Credit Investor. CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
+            "contentFingerprint": "8dbedc4ffa8e74fe",
             "region": "Global",
             "gps": [
               "CVC"
@@ -93421,8 +93876,8 @@
               "llmEvents": [],
               "llmImportance": 0.6,
               "llmExclude": false,
-              "llmReason": "The article covers growth in CVC's credit business: credit AUM rose 55%, boosted by the Marathon acquisition. That is manager news about the credit platform, not a single financing or fund close. The Marathon deal is a firm acquisition rather than a lending transaction, so no event type applies. Importance is set slightly above routine because it marks a major expansion of the credit platform.",
-              "llmReasonZh": "该文章报道CVC信贷业务的增长：信贷资产管理规模增长55%，主要受收购Marathon推动。这属于有关信贷平台的管理人新闻，而非单笔融资或基金募集完成。Marathon交易为公司收购而非贷款交易，因此不适用任何事件类型。由于此举标志着信贷平台的重大扩张，重要性评级略高于常规水平。"
+              "llmReason": "The article covers growth in CVC's credit business AUM (+55%), driven by its acquisition of credit manager Marathon. This is credit-relevant manager news rather than a financing, fundraising, or lawsuit event. The private credit strategy is inferred from the credit platform context.",
+              "llmReasonZh": "该文章报道了CVC信贷业务资产管理规模（AUM）增长55%，主要受其收购信贷管理机构Marathon推动。这属于与信贷相关的管理机构新闻，而非融资、募资或诉讼事件。私募信贷策略系根据信贷平台背景推断得出。"
             },
             "rating": {
               "parts": {
@@ -93434,13 +93889,13 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.6,
+                  "value": 0.61,
                   "code": "llm_strategy",
                   "tagValue": 0.7,
                   "strategies": [
                     "private-credit"
                   ],
-                  "semanticValue": 0.5
+                  "semanticValue": 0.51
                 },
                 "event": {
                   "value": 0.77,
@@ -93459,7 +93914,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.1
+                  "days": 0.3
                 }
               },
               "weights": {
@@ -93470,12 +93925,12 @@
                 "freshness": 15
               },
               "score": 83,
-              "retrievedAt": "2026-10-29T14:49:56.348444+00:00"
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
             },
             "scoreBreakdown": {
               "keywordScore": 14,
-              "semanticScore": 6.01,
-              "finalScore": 20.009999999999998,
+              "semanticScore": 6.17,
+              "finalScore": 20.17,
               "semanticEnabled": true
             }
           },
@@ -93568,6 +94023,108 @@
               "keywordScore": 3,
               "semanticScore": 6.15,
               "finalScore": 9.15,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-474d89f76a6e",
+            "title": "CVC’s debut credit secondaries strategy moves past target - PEI Secondaries Investor",
+            "titleZh": "CVC首只信贷二级市场策略基金募资超出目标 - PEI Secondaries Investor",
+            "summary": "CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+            "summaryZh": "CVC首只信贷二级市场策略基金募资超出目标 PEI Secondaries Investor",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGhRQVlXNkhqdUFoT21SUFktMUczcWlLMkNheG81NXROaFM0VHBZazM3ZEZ1OFY1WTJ5VXljX3o2T2ZKZzVrZl9TZWpIMjNwbFBfQWxoVmt6a1ZQSkxtU3NTc1N2ZDVaYWVBLUlNQURKaW5EcUZRNHJxaF82ZnRzb2tiWlJUVEhlb2R4TXdYOHhLVDVRdXFvVXpFWHhuUQ?oc=5",
+            "source": "PEI Secondaries Investor",
+            "publishedAt": "2026-10-29",
+            "lede": "CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+            "articleExcerpt": "CVC’s debut credit secondaries strategy moves past target - PEI Secondaries Investor. CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+            "contentFingerprint": "4785938c93b36cda",
+            "region": "US",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "CVC's first credit secondaries fund has raised more than its target. This is fundraising news from CVC's credit business, so it is relevant and should not be excluded. The article doesn't say whether this is a final close, so importance is set high but below 1.0.",
+              "llmReasonZh": "CVC首只信贷二级市场基金的募资额已超过目标规模。这是CVC信贷业务的募资新闻，具有相关性，不应排除。文章未说明此次是否为最终关账，因此重要性评为较高，但低于1.0。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PEI Secondaries Investor"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 79,
+              "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.37,
+              "finalScore": 25.37,
               "semanticEnabled": true
             }
           }
@@ -93986,6 +94543,114 @@
           }
         },
         {
+          "id": "2026-10-29-d4b866a36dd2",
+          "title": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs - Minichart",
+          "titleZh": "KKR Real Estate Finance Trust因1.559亿美元贷款核销录得1.52亿美元可分配亏损 - Minichart",
+          "summary": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+          "summaryZh": "KKR Real Estate Finance Trust因1.559亿美元贷款核销录得1.52亿美元可分配亏损 Minichart",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd2NTZ1ZNNXptSUZXZTZ6WlZNN1FZSGw5clFLd29LQm5jaXpxM1pyZ2pRc3VaUENJYkRkTnd2OHRtLXY4ekt3d1lLLWpMVUhMZkVVT1RfLVhOMmdSeGxUeTRGa0tPelU4OGhEYkVlSGJUbGNGQm1GTnNkU1o1TndWSEpQNDZBVV9OajhvMl8yUEVDX2dNaHJ4c1dHalRTUnhuZ002dmh5dmRoYUkzTG1kdHB6V0psSmxSVGlOcEgtc0t3MFI2dkFwakpjbEl5bWNwbC14WHRIZw?oc=5",
+          "source": "Minichart",
+          "publishedAt": "2026-10-29",
+          "lede": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+          "articleExcerpt": "KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs - Minichart. KKR Real Estate Finance Trust Posts $152 Million Distributable Loss on $155.9 Million Loan Write-Offs Minichart",
+          "contentFingerprint": "f98af4ca4830a6df",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit",
+            "cre"
+          ],
+          "sectors": [
+            "private-credit",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending vehicle. A $152M distributable loss driven by $155.9M in loan write-offs signals credit deterioration in its CRE loan book. That is highly relevant to a credit investor and close to default-level severity. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是KKR旗下的商业地产贷款平台。由1.559亿美元贷款核销导致的1.52亿美元可分配亏损，表明其商业地产贷款组合信用状况恶化。这与信用投资者高度相关，严重程度接近违约级别。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "cre"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.8,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Minichart"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.09,
+            "finalScore": 22.09,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-a6be46c50651",
           "title": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion - Bloomberg.com",
           "titleZh": "CPPIB支持的印度开发商寻求Bain融资以推动扩张 - Bloomberg.com",
@@ -94003,10 +94668,12 @@
             "Bain Capital"
           ],
           "strategies": [
-            "private-credit"
+            "private-credit",
+            "cre"
           ],
           "sectors": [
-            "private-credit"
+            "private-credit",
+            "cre"
           ],
           "events": [
             "financing"
@@ -94022,15 +94689,16 @@
             "keywordStrategies": [],
             "titleStrategies": [],
             "llmStrategies": [
-              "private-credit"
+              "private-credit",
+              "cre"
             ],
             "llmEvents": [
               "financing"
             ],
             "llmImportance": 0.7,
             "llmExclude": false,
-            "llmReason": "An Indian real estate developer backed by CPPIB is seeking financing from Bain. This most likely refers to Bain Capital's credit business, which is active in Indian private lending to real estate developers. The deal is still being sought, not closed, so it is rated as ordinary financing (0.7). No CRE tag because the developer's segment isn't specified.",
-            "llmReasonZh": "一家由CPPIB支持的印度房地产开发商正寻求Bain提供融资。此处很可能指Bain Capital的信贷业务，该业务在印度面向房地产开发商的私募贷款领域较为活跃。该交易仍处于寻求阶段，尚未完成，因此评级为普通融资（0.7）。由于未明确该开发商所属的细分领域，未添加CRE标签。"
+            "llmReason": "A CPPIB-backed Indian real estate developer is seeking financing from Bain, likely Bain Capital Credit's India lending business. That makes it a credit and financing angle on a real estate developer, so it is an ordinary financing event. The CRE tag is inferred from the developer context.",
+            "llmReasonZh": "一家由CPPIB支持的印度房地产开发商正寻求Bain提供融资，资金方可能为Bain Capital Credit旗下的印度贷款业务。这使其成为涉及房地产开发商的信贷与融资事件，因此属于常规融资事件。CRE标签系根据该开发商背景推断得出。"
           },
           "rating": {
             "parts": {
@@ -94046,7 +94714,8 @@
                 "code": "llm_strategy",
                 "tagValue": 0.7,
                 "strategies": [
-                  "private-credit"
+                  "private-credit",
+                  "cre"
                 ],
                 "semanticValue": 0.42
               },
@@ -94067,7 +94736,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.0
+                "days": 0.3
               }
             },
             "weights": {
@@ -94078,12 +94747,12 @@
               "freshness": 15
             },
             "score": 80,
-            "retrievedAt": "2026-10-29T07:51:32.635985+00:00"
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 17,
+            "keywordScore": 20,
             "semanticScore": 5.08,
-            "finalScore": 22.08,
+            "finalScore": 25.08,
             "semanticEnabled": true
           }
         },
@@ -94528,6 +95197,121 @@
           }
         },
         {
+          "id": "2026-10-29-e26ba61cf6f4",
+          "title": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results - Yahoo Finance",
+          "titleZh": "Blackstone Mortgage Trust公布2026年第三季度业绩 - Yahoo Finance",
+          "summary": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+          "summaryZh": "Blackstone Mortgage Trust公布2026年第三季度业绩 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDZ0eEJXeWhZMnFBeXVHa01Ib1F5MThqbVN4ZWszd01uNF9PZXVVT2lqVXJkTWVKOHBySm14ZmZKY1hWZlE4eHV1bXlmWHMwWkEtZ1Y4dml1STFNTHY3YWlQVWY2bGhUTW1aNzQ5aVFxNGJHUFpoc0p6amJPelNpUS10TXdwTXhHYl9qM0pCM0szMEl2aW9ZMk1ObWtxSjJ3blRn?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-29",
+          "lede": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+          "articleExcerpt": "Blackstone Mortgage Trust Reports Third-Quarter 2026 Results - Yahoo Finance. Blackstone Mortgage Trust Reports Third-Quarter 2026 Results Yahoo Finance",
+          "contentFingerprint": "45f671f3ce2afb9b",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust (BXMT) is Blackstone's commercial real estate debt REIT, which makes it a credit/lending vehicle. A quarterly earnings release is routine manager news with no specific financing, fundraising or litigation event.",
+            "llmReasonZh": "Blackstone Mortgage Trust（BXMT）是Blackstone旗下的商业地产债务REIT，属于信贷/贷款投资工具。季度业绩发布属于常规管理人新闻，不涉及具体的融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.22,
+            "finalScore": 25.22,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-51c11412718a",
           "title": "TPG Reports Third Quarter 2026 Results - Yahoo Finance",
           "titleZh": "TPG公布2026年第三季度业绩 - Yahoo Finance",
@@ -94823,17 +95607,17 @@
         },
         {
           "id": "2026-10-29-11af88abfcb3",
-          "title": "CVC credit assets jump 55% as Marathon acquisition boosts growth - Alternative Credit Investor",
+          "title": "CVC credit assets jump 55pc as Marathon acquisition boosts growth - Alternative Credit Investor",
           "titleZh": "CVC信贷资产大增55%，收购Marathon推动增长 - Alternative Credit Investor",
-          "summary": "CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
+          "summary": "CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
           "summaryZh": "CVC信贷资产大增55%，收购Marathon推动增长 Alternative Credit Investor",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0JzUE9jbS1ZUVVZb3YwUk1ORjlKMnMyRVhlUUJlZkw0Nk12cl9EOHUzSHNaMkhLSUxJbExxZVM2dDllOG9YQjJkMUVnbjNjcElqZng4UkZkXzRoOE9MajlYYjNxTG5Oc0xxZFdrYUNBQ29ZZkFXUlo0aDl4UzhYbEY4N2hnRHoyc1FRenEtMTRQa0J1T3d2bWlFaGNKRVBpOFgwekEtWEJxSUlWMjlhZkRVRQ?oc=5",
           "source": "Alternative Credit Investor",
           "publishedAt": "2026-10-29",
-          "lede": "CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
-          "articleExcerpt": "CVC credit assets jump 55% as Marathon acquisition boosts growth - Alternative Credit Investor. CVC credit assets jump 55% as Marathon acquisition boosts growth Alternative Credit Investor",
-          "contentFingerprint": "189b5e8f9688663b",
+          "lede": "CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
+          "articleExcerpt": "CVC credit assets jump 55pc as Marathon acquisition boosts growth - Alternative Credit Investor. CVC credit assets jump 55pc as Marathon acquisition boosts growth Alternative Credit Investor",
+          "contentFingerprint": "8dbedc4ffa8e74fe",
           "region": "Global",
           "gps": [
             "CVC"
@@ -94867,8 +95651,8 @@
             "llmEvents": [],
             "llmImportance": 0.6,
             "llmExclude": false,
-            "llmReason": "The article covers growth in CVC's credit business: credit AUM rose 55%, boosted by the Marathon acquisition. That is manager news about the credit platform, not a single financing or fund close. The Marathon deal is a firm acquisition rather than a lending transaction, so no event type applies. Importance is set slightly above routine because it marks a major expansion of the credit platform.",
-            "llmReasonZh": "该文章报道CVC信贷业务的增长：信贷资产管理规模增长55%，主要受收购Marathon推动。这属于有关信贷平台的管理人新闻，而非单笔融资或基金募集完成。Marathon交易为公司收购而非贷款交易，因此不适用任何事件类型。由于此举标志着信贷平台的重大扩张，重要性评级略高于常规水平。"
+            "llmReason": "The article covers growth in CVC's credit business AUM (+55%), driven by its acquisition of credit manager Marathon. This is credit-relevant manager news rather than a financing, fundraising, or lawsuit event. The private credit strategy is inferred from the credit platform context.",
+            "llmReasonZh": "该文章报道了CVC信贷业务资产管理规模（AUM）增长55%，主要受其收购信贷管理机构Marathon推动。这属于与信贷相关的管理机构新闻，而非融资、募资或诉讼事件。私募信贷策略系根据信贷平台背景推断得出。"
           },
           "rating": {
             "parts": {
@@ -94880,13 +95664,13 @@
                 ]
               },
               "strategy": {
-                "value": 0.6,
+                "value": 0.61,
                 "code": "llm_strategy",
                 "tagValue": 0.7,
                 "strategies": [
                   "private-credit"
                 ],
-                "semanticValue": 0.5
+                "semanticValue": 0.51
               },
               "event": {
                 "value": 0.77,
@@ -94905,7 +95689,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.1
+                "days": 0.3
               }
             },
             "weights": {
@@ -94916,12 +95700,12 @@
               "freshness": 15
             },
             "score": 83,
-            "retrievedAt": "2026-10-29T14:49:56.348444+00:00"
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
           },
           "scoreBreakdown": {
             "keywordScore": 14,
-            "semanticScore": 6.01,
-            "finalScore": 20.009999999999998,
+            "semanticScore": 6.17,
+            "finalScore": 20.17,
             "semanticEnabled": true
           }
         },
@@ -95016,6 +95800,108 @@
             "finalScore": 9.15,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-10-29-474d89f76a6e",
+          "title": "CVC’s debut credit secondaries strategy moves past target - PEI Secondaries Investor",
+          "titleZh": "CVC首只信贷二级市场策略基金募资超出目标 - PEI Secondaries Investor",
+          "summary": "CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+          "summaryZh": "CVC首只信贷二级市场策略基金募资超出目标 PEI Secondaries Investor",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGhRQVlXNkhqdUFoT21SUFktMUczcWlLMkNheG81NXROaFM0VHBZazM3ZEZ1OFY1WTJ5VXljX3o2T2ZKZzVrZl9TZWpIMjNwbFBfQWxoVmt6a1ZQSkxtU3NTc1N2ZDVaYWVBLUlNQURKaW5EcUZRNHJxaF82ZnRzb2tiWlJUVEhlb2R4TXdYOHhLVDVRdXFvVXpFWHhuUQ?oc=5",
+          "source": "PEI Secondaries Investor",
+          "publishedAt": "2026-10-29",
+          "lede": "CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+          "articleExcerpt": "CVC’s debut credit secondaries strategy moves past target - PEI Secondaries Investor. CVC’s debut credit secondaries strategy moves past target PEI Secondaries Investor",
+          "contentFingerprint": "4785938c93b36cda",
+          "region": "US",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "CVC's first credit secondaries fund has raised more than its target. This is fundraising news from CVC's credit business, so it is relevant and should not be excluded. The article doesn't say whether this is a final close, so importance is set high but below 1.0.",
+            "llmReasonZh": "CVC首只信贷二级市场基金的募资额已超过目标规模。这是CVC信贷业务的募资新闻，具有相关性，不应排除。文章未说明此次是否为最终关账，因此重要性评为较高，但低于1.0。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.8,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PEI Secondaries Investor"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 79,
+            "retrievedAt": "2026-10-29T19:59:32.039884+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.37,
+            "finalScore": 25.37,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -95023,7 +95909,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 40,
+      "count": 50,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -95031,7 +95917,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95044,7 +95930,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95057,12 +95943,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 14,
+      "count": 13,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -95070,7 +95956,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95083,12 +95969,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 10,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -95096,7 +95982,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95109,7 +95995,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95122,25 +96008,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 17,
-      "selected": 2,
+      "count": 28,
+      "selected": 3,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 90,
+      "count": 92,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -95148,12 +96034,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 50,
+      "count": 49,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -95161,25 +96047,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 24,
-      "selected": 5,
+      "count": 26,
+      "selected": 4,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 7,
+      "count": 5,
       "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -95187,7 +96073,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
@@ -95200,12 +96086,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 30,
+      "count": 56,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -95213,12 +96099,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 480,
+      "count": 509,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -95232,9 +96118,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-29T14:49:56.348444+00:00",
+      "asOf": "2026-10-29T19:59:32.039884+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-29T14:49:56.348444+00:00"
+  "checkedAt": "2026-10-29T19:59:32.039884+00:00"
 }
