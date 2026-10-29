@@ -55,14 +55,13 @@ legend {
   display: none !important;
 }
 
-/* Theme: Junson Capital brand blues (logo navy #143a6e, sky-blue accent). */
+/* Theme (identical tokens to the reference radar). */
 :root {
-  --ink: #12243d;
+  --ink: #132431;
   --muted: #647684;
   --line: #dfe6eb;
-  --blue: #1f5aa6;
-  --sky: #8fc8ff;
-  --navy: #143a6e;
+  --green: #176a53;
+  --navy: #101f2c;
 }
 body {
   color: var(--ink);
@@ -84,7 +83,7 @@ a {
 }
 :is(button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible) {
   outline-offset: 3px;
-  outline: 3px solid #4a9be0;
+  outline: 3px solid #46ab8d;
 }
 
 .shell {
@@ -113,14 +112,14 @@ a {
   display: flex;
 }
 .brand-icon {
-  color: #7fc4ff;
-  border: 1px solid #3b6aa8;
+  color: #6fdbb3;
+  border: 1px solid #3e6c60;
   border-radius: 8px;
   padding: 7px;
   display: flex;
 }
 .brand-light {
-  color: #8fc8ff;
+  color: #82d4b7;
   font-weight: 400;
   font-size: 13px;
 }
@@ -132,7 +131,7 @@ a {
   display: block;
 }
 .brand-aid {
-  color: var(--sky);
+  color: #a3ead2;
   letter-spacing: 0;
   margin-bottom: 6px;
   font-size: 16px;
@@ -177,7 +176,7 @@ a {
   font-size: 11px;
 }
 .firm.active {
-  color: var(--sky);
+  color: #a3ead2;
   background: #223d40;
 }
 .firm:hover {
@@ -185,7 +184,7 @@ a {
 }
 .firm input[type="checkbox"],
 .group-select input {
-  accent-color: #5aa9ef;
+  accent-color: #5cb895;
   cursor: pointer;
   flex-shrink: 0;
   width: 16px;
@@ -208,7 +207,7 @@ a {
   padding: 12px 0 6px;
 }
 .fund-group legend {
-  color: #b5d2f2;
+  color: #b0d6c6;
   padding: 0 8px;
   font-size: 13px;
   font-weight: 600;
@@ -240,9 +239,9 @@ a {
   font-size: 10px;
 }
 .add-firm-toggle {
-  color: var(--sky);
+  color: #a3ead2;
   background: 0 0;
-  border: 1px dashed #5b7fb0;
+  border: 1px dashed #5b8276;
   border-radius: 5px;
   width: 100%;
   margin-top: 18px;
@@ -277,7 +276,7 @@ a {
 }
 .firm-manager button {
   color: #fff;
-  background: #2a5a9e;
+  background: #2e6855;
   border: 0;
   border-radius: 3px;
   padding: 8px;
@@ -331,7 +330,7 @@ a {
 }
 .side-action:hover {
   background: #233341;
-  color: var(--sky);
+  color: #a3ead2;
 }
 
 /* Workspace */
@@ -395,7 +394,7 @@ a {
   color: var(--muted);
 }
 .lang-pill.active {
-  background: var(--blue);
+  background: var(--green);
   color: #fff;
 }
 .intro {
@@ -410,7 +409,7 @@ a {
 }
 .eyebrow {
   letter-spacing: 1.6px;
-  color: var(--blue);
+  color: var(--green);
   margin-bottom: 12px;
   font-size: 11px;
   font-weight: 700;
@@ -423,7 +422,7 @@ h1 {
   line-height: 1.3;
 }
 h1 > span:last-child {
-  color: var(--blue);
+  color: var(--green);
 }
 .intro p {
   color: var(--muted);
@@ -456,7 +455,7 @@ h1 > span:last-child {
   display: flex;
 }
 .highlight-events .tabs button {
-  color: #4f6a8a;
+  color: #526d63;
   background: 0 0;
   border: 0;
   border-bottom: 2px solid #0000;
@@ -468,8 +467,8 @@ h1 > span:last-child {
   display: flex;
 }
 .highlight-events .tabs .chosen {
-  color: var(--blue);
-  border-bottom-color: var(--blue);
+  color: var(--green);
+  border-bottom-color: var(--green);
   font-weight: 600;
   background: 0 0;
 }
@@ -508,7 +507,7 @@ h1 > span:last-child {
   font-size: 13px;
 }
 .search button {
-  background: var(--blue);
+  background: var(--green);
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -546,7 +545,7 @@ h1 > span:last-child {
 }
 .date-range button,
 .ranking-tools button {
-  background: var(--blue);
+  background: var(--green);
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -565,8 +564,8 @@ h1 > span:last-child {
 }
 .exact-date .day-nav {
   background: #fff;
-  color: var(--blue);
-  border: 1px solid #b9cfe8;
+  color: var(--green);
+  border: 1px solid #bacbc4;
   width: 34px;
   height: 34px;
   padding: 0;
@@ -574,8 +573,8 @@ h1 > span:last-child {
 }
 .exact-date .day-today {
   background: #fff;
-  color: var(--blue);
-  border: 1px solid #b9cfe8;
+  color: var(--green);
+  border: 1px solid #bacbc4;
   padding: 8px 12px;
 }
 .ranking-tools {
@@ -614,7 +613,7 @@ select {
 }
 .ranking-tools summary {
   cursor: pointer;
-  color: var(--blue);
+  color: var(--green);
   font-size: 13px;
 }
 .ranking-tools p {
@@ -632,12 +631,12 @@ select {
 }
 .weight-controls label > span {
   float: right;
-  color: var(--blue);
+  color: var(--green);
   font-weight: 600;
 }
 .weight-controls input {
   width: 100%;
-  accent-color: var(--blue);
+  accent-color: var(--green);
   margin-top: 10px;
   display: block;
 }
@@ -653,7 +652,7 @@ select {
   padding: 8px;
 }
 .summary-button {
-  background: var(--blue);
+  background: var(--green);
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -713,7 +712,7 @@ select {
   padding: 0 6px;
 }
 .selection-line button {
-  color: var(--blue);
+  color: var(--green);
   background: 0 0;
   border: 0;
   padding: 0 0 0 15px;
@@ -762,17 +761,17 @@ select {
   line-height: 1.4;
 }
 .strategy-list .selected {
-  color: #164a8f;
-  background: #e4eef9;
-  border-color: #a3c0e4;
+  color: #145c46;
+  background: #e2f0e9;
+  border-color: #9fc3b4;
 }
 .strategy-list button:hover {
-  border-color: #7d9fcb;
+  border-color: #759f8f;
 }
 .strategy-list .add-strategy {
-  color: var(--blue);
+  color: var(--green);
   border-style: dashed;
-  border-color: #8facd0;
+  border-color: #83a899;
 }
 .feed-backup {
   background: #fff7ec;
@@ -828,10 +827,10 @@ select {
   display: flex;
 }
 .article-title:hover {
-  color: var(--blue);
+  color: var(--green);
 }
 .article-title svg {
-  color: #6c8fb8;
+  color: #6b8f83;
   flex-shrink: 0;
   margin-top: 5px;
 }
@@ -862,8 +861,8 @@ select {
   background: #fff0ed;
 }
 .event-tag.fundraising {
-  color: #245f9c;
-  background: #e8f1fa;
+  color: #28744f;
+  background: #e9f4ed;
 }
 .event-tag.financing {
   color: #4f68a0;
@@ -904,8 +903,8 @@ select {
   display: inline-block;
 }
 .score.high {
-  color: var(--blue);
-  background: #dfecfa;
+  color: var(--green);
+  background: #e1f1e9;
 }
 .score-details > div {
   margin-top: 12px;
@@ -941,7 +940,7 @@ select {
   display: block;
 }
 .report-link {
-  color: var(--blue);
+  color: var(--green);
   background: 0 0;
   border: 0;
   padding: 0;
@@ -950,9 +949,9 @@ select {
 }
 .load-more,
 .empty button {
-  color: var(--blue);
+  color: var(--green);
   background: #fff;
-  border: 1px solid #b9cfe8;
+  border: 1px solid #bacbc4;
   border-radius: 4px;
   padding: 11px 19px;
   font-size: 13px;
@@ -974,7 +973,7 @@ select {
 }
 .loading > svg,
 .empty > svg {
-  color: var(--blue);
+  color: var(--green);
   margin: auto;
 }
 .loading h3,
@@ -1011,8 +1010,8 @@ select {
 
 /* Summary */
 .news-summary {
-  background: #ecf3fb;
-  border: 1px solid #b3cbe6;
+  background: #edf5f1;
+  border: 1px solid #b4cfbf;
   border-radius: 5px;
   margin-bottom: 20px;
   padding: 22px;
@@ -1029,20 +1028,20 @@ select {
   font-weight: 700;
 }
 .summary-heading button {
-  color: var(--blue);
+  color: var(--green);
   background: 0 0;
   border: 0;
   font-size: 13px;
 }
 .news-summary p {
-  color: #3f5872;
+  color: #405d50;
   margin: 14px 0;
   font-size: 14px;
   line-height: 1.8;
 }
 .news-summary .summary-scope,
 .news-summary .summary-footnote {
-  color: #6a7f99;
+  color: #6b8177;
   font-size: 11px;
   line-height: 1.8;
 }
@@ -1066,13 +1065,13 @@ select {
   text-decoration: underline;
 }
 .news-summary li small {
-  color: #687d97;
+  color: #698076;
   margin-top: 4px;
   font-size: 11px;
   display: block;
 }
 .news-summary .summary-footnote {
-  border-top: 1px solid #cbdbed;
+  border-top: 1px solid #cdded3;
   margin-bottom: 0;
   padding-top: 15px;
 }
@@ -1080,13 +1079,13 @@ select {
   font-weight: 500;
 }
 .analysis-section {
-  border-top: 1px solid #cbdbed;
+  border-top: 1px solid #cdded3;
   margin-top: 20px;
   padding-top: 2px;
 }
 .analysis-section details summary {
   cursor: pointer;
-  color: var(--blue);
+  color: var(--green);
   font-size: 12px;
 }
 .analysis-section details ul {
@@ -1095,7 +1094,7 @@ select {
 
 /* Right context column */
 .context-block {
-  border-top: 2px solid #22477a;
+  border-top: 2px solid #244f45;
   margin-bottom: 13px;
   padding: 20px 0;
 }
@@ -1114,9 +1113,9 @@ select {
   font-size: 13px;
 }
 .strategy-browser .all-strategies.selected {
-  color: #1f4f8f;
-  background: #e8f0f9;
-  border-color: #b6cde6;
+  color: #276044;
+  background: #e9f2ec;
+  border-color: #b8cfc0;
 }
 .strategy-categories {
   grid-template-columns: 1fr;
@@ -1137,13 +1136,13 @@ select {
   display: flex;
 }
 .category-heading h3 {
-  color: #3f5a80;
+  color: #426255;
   margin: 0;
   font-size: 12px;
   font-weight: 600;
 }
 .add-substrategy {
-  color: #44699a;
+  color: #48765e;
   cursor: pointer;
   background: 0 0;
   border: 0;
@@ -1189,7 +1188,7 @@ select {
   background: #fff;
 }
 .strategy-manager form > button {
-  background: var(--blue);
+  background: var(--green);
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -1282,7 +1281,7 @@ select {
   line-height: 1.8;
 }
 .query-toggle {
-  color: var(--blue);
+  color: var(--green);
   background: 0 0;
   border: 0;
   align-items: center;
@@ -1299,7 +1298,7 @@ select {
   margin-bottom: 16px;
 }
 .query-list a {
-  color: var(--blue);
+  color: var(--green);
   text-decoration: underline;
 }
 .query-list code {
@@ -1340,11 +1339,11 @@ footer .footer-brand {
   padding: 0;
   color: var(--ink);
   background: #fff;
-  box-shadow: 0 18px 42px rgba(20, 58, 110, 0.16);
+  box-shadow: 0 18px 42px rgba(19, 36, 49, 0.14);
 }
 .report-dialog::backdrop,
 .refresh-dialog::backdrop {
-  background: rgba(20, 58, 110, 0.35);
+  background: rgba(16, 31, 44, 0.32);
 }
 .report-dialog form,
 .refresh-dialog form {
@@ -1470,8 +1469,8 @@ a.secondary-button {
   font-weight: 700;
 }
 .primary-button {
-  border: 1px solid var(--blue);
-  background: var(--blue);
+  border: 1px solid var(--green);
+  background: var(--green);
   color: #fff;
 }
 .secondary-button {
