@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-30T11:58:05.418241+00:00",
+  "updatedAt": "2026-10-30T18:10:56.964976+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信用/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金的框架下，属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为核心的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22202,7 +22202,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为核心的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -94652,6 +94652,110 @@
               "finalScore": 21.67,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-19d28e1eee27",
+            "title": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+            "titleZh": "Blue Owl Capital Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+            "summary": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "summaryZh": "Blue Owl Capital Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTBHT2VMNDlXX3pCUUUyRWllSTZ6dDV1WGl1U3cwdnotWmsxbGJtUlY1aWtfSlVyYzNuVU5MWFM2Y0NhRlVrQU5YR2JKbTJqTzVwZzJSNndVQnBHTkh6MURvYVNGbFlBV1YzY3RXaVIwblk0Vmg5Y3o4MUJYbllSOGV6SVlEclVYY2g3Q2lVYm9hZw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-29",
+            "lede": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "contentFingerprint": "d842b931b8861705",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Earnings call summary for Blue Owl Capital, whose business is largely private credit and direct lending. It is routine manager news with no specific financing, fundraising or lawsuit details in the text. The private-credit tag is inferred because the article text gives no strategy details.",
+              "llmReasonZh": "Blue Owl Capital财报电话会议摘要，该公司业务以私募信贷和直接贷款为主。此为常规管理人新闻，文中未包含具体融资、募资或诉讼细节。由于文章未提供策略细节，私募信贷标签系推断得出。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.14,
+              "finalScore": 20.14,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -95870,6 +95974,117 @@
               "keywordScore": 19,
               "semanticScore": 5.53,
               "finalScore": 24.53,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-02761c1c9ad6",
+            "title": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. - Stock Titan",
+            "titleZh": "Blackstone Mortgage Trust (BXMT)季度转亏，新增六笔减值贷款 - Stock Titan",
+            "summary": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+            "summaryZh": "Blackstone Mortgage Trust (BXMT)季度业绩转为亏损，另有六笔贷款出现减值。Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZERwdWpMeFp6OVdJOGtCMG9SUUhjZy1IRnBNT09sX3dmX05pdzdIcjJFZFgwSWEteERzWS10dW9HY0hOaFc1NjRJUVdrRXJlX2lDR25qeE15MWFwS3I0QThUWWI4bGJkTTdSbkhud01oVjFlNEhxUndqRVVGNGdrVm1fdWw3MThUVjBhRHB6N0ZzUkpSNE1sbTJLVXQ2TVNaTkk4ZENWcmVpWV9JX0d2Mi1HTnZJbm1FUTNUdWJKSQ?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-10-29",
+            "lede": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+            "articleExcerpt": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. - Stock Titan. Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+            "contentFingerprint": "1f7cb2c27c8f2b03",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle, so this falls under its credit business. Six more impaired loans and a swing to a quarterly loss signal credit deterioration that matters to credit investors. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业房地产贷款平台，因此属于其信贷业务范畴。新增六笔减值贷款及季度转亏表明信用状况恶化，对信贷投资者具有重要意义。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.7,
+              "finalScore": 22.7,
               "semanticEnabled": true
             }
           }
@@ -97674,6 +97889,110 @@
           }
         },
         {
+          "id": "2026-10-29-19d28e1eee27",
+          "title": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+          "titleZh": "Blue Owl Capital Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+          "summary": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "summaryZh": "Blue Owl Capital Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTBHT2VMNDlXX3pCUUUyRWllSTZ6dDV1WGl1U3cwdnotWmsxbGJtUlY1aWtfSlVyYzNuVU5MWFM2Y0NhRlVrQU5YR2JKbTJqTzVwZzJSNndVQnBHTkh6MURvYVNGbFlBV1YzY3RXaVIwblk0Vmg5Y3o4MUJYbllSOGV6SVlEclVYY2g3Q2lVYm9hZw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-29",
+          "lede": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. Blue Owl Capital Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "contentFingerprint": "d842b931b8861705",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Earnings call summary for Blue Owl Capital, whose business is largely private credit and direct lending. It is routine manager news with no specific financing, fundraising or lawsuit details in the text. The private-credit tag is inferred because the article text gives no strategy details.",
+            "llmReasonZh": "Blue Owl Capital财报电话会议摘要，该公司业务以私募信贷和直接贷款为主。此为常规管理人新闻，文中未包含具体融资、募资或诉讼细节。由于文章未提供策略细节，私募信贷标签系推断得出。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.14,
+            "finalScore": 20.14,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-c92339eaa848",
           "title": "KKR launches private credit secondaries push with $460m continuation vehicle - AltAssets Private Equity News",
           "titleZh": "KKR以4.6亿美元接续基金进军私募信贷二级市场 - AltAssets Private Equity News",
@@ -98878,6 +99197,117 @@
             "keywordScore": 19,
             "semanticScore": 5.53,
             "finalScore": 24.53,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-02761c1c9ad6",
+          "title": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. - Stock Titan",
+          "titleZh": "Blackstone Mortgage Trust (BXMT)季度转亏，新增六笔减值贷款 - Stock Titan",
+          "summary": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+          "summaryZh": "Blackstone Mortgage Trust (BXMT)季度业绩转为亏损，另有六笔贷款出现减值。Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZERwdWpMeFp6OVdJOGtCMG9SUUhjZy1IRnBNT09sX3dmX05pdzdIcjJFZFgwSWEteERzWS10dW9HY0hOaFc1NjRJUVdrRXJlX2lDR25qeE15MWFwS3I0QThUWWI4bGJkTTdSbkhud01oVjFlNEhxUndqRVVGNGdrVm1fdWw3MThUVjBhRHB6N0ZzUkpSNE1sbTJLVXQ2TVNaTkk4ZENWcmVpWV9JX0d2Mi1HTnZJbm1FUTNUdWJKSQ?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-10-29",
+          "lede": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+          "articleExcerpt": "Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. - Stock Titan. Six more loans were impaired as Blackstone Mortgage Trust (BXMT) swung to a quarterly loss. Stock Titan",
+          "contentFingerprint": "1f7cb2c27c8f2b03",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle, so this falls under its credit business. Six more impaired loans and a swing to a quarterly loss signal credit deterioration that matters to credit investors. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业房地产贷款平台，因此属于其信贷业务范畴。新增六笔减值贷款及季度转亏表明信用状况恶化，对信贷投资者具有重要意义。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.8,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.7,
+            "finalScore": 22.7,
             "semanticEnabled": true
           }
         },
@@ -100175,7 +100605,104 @@
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
-        "Guggenheim": [],
+        "Guggenheim": [
+          {
+            "id": "2026-10-30-49e5bddda523",
+            "title": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 - Yahoo! Finance Canada",
+            "summary": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+            "summaryZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN1owS3hQZHk5VV9PZ2kxMlg5RDNNdFN5UVEtb184Q0RIQUpleEgwbUxjNHU2VHV1QWdlNFlpNjRtcXh6YmFKOHNybjR3bHdIV0I4Z2ZBSFNWZ1psR19abg?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-30",
+            "lede": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+            "articleExcerpt": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada. Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+            "contentFingerprint": "c4a5f8ccb495b96a",
+            "region": "Global",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Guggenheim"
+              ],
+              "titleGps": [
+                "Guggenheim"
+              ],
+              "llmGps": [
+                "Guggenheim"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "The Guggenheim Strategic Opportunities Fund (GOF) is a closed-end fund that mainly holds credit, so it is credit exposure. But the item is only a stock-price chart page with no news, transaction or event, so importance is low.",
+              "llmReasonZh": "Guggenheim Strategic Opportunities Fund (GOF) 是一只主要持有信贷资产的封闭式基金，因此属于信贷敞口。但该条目仅为股价图表页面，不含任何新闻、交易或事件，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.03,
+              "finalScore": 16.03,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [
@@ -100392,6 +100919,112 @@
               "finalScore": 22.77,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-742a557f1455",
+            "title": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price - MarketBeat",
+            "titleZh": "Keefe, Bruyette & Woods对Blackstone Mortgage Trust (NYSE:BXMT)股价发布悲观预测 - MarketBeat",
+            "summary": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+            "summaryZh": "Keefe, Bruyette & Woods对Blackstone Mortgage Trust (NYSE:BXMT)股价发布悲观预测 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMjIzdjZITVR0NzNHZ3dsdlJsZmxFcWJVM29GRTFfUjBzLTFLNUV0ejd2b3M0ZjU0cWVsRlItUmZGS3NSU0NIaXhZVHRkd1VCZ3lxZEhQSWY0b2NFMk9NNDZTT0dWQXNWdTFrZWNSdm5mcU1lZk1EZkVDWm5UeEt4RXJxTVRzbWVXVFgzMnF0UDlYdGJKZWNWbXVSUDBDRDlJVG91R2d5TVZqU002MFo0LWw4bkVvVldtQTZISUtVcXJKQUt1TTk3Z1VFNElhMldiWEFVemRwZDlRS0Y3ZU1UZWV4THV6ei1Wb1A4VEE4Sk5BUFFk?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-30",
+            "lede": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+            "articleExcerpt": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price - MarketBeat. Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+            "contentFingerprint": "a15079d59b99c44f",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price-target cut on Blackstone Mortgage Trust, Blackstone's commercial real estate lending REIT. This is credit-relevant but only stock and analyst commentary, so importance is low.",
+              "llmReasonZh": "分析师下调Blackstone旗下商业地产贷款REIT Blackstone Mortgage Trust的目标价。该消息与信贷相关，但仅涉及股票及分析师评论，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.74,
+              "finalScore": 24.740000000000002,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [],
@@ -100583,6 +101216,212 @@
               "finalScore": 7.51,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-96da7a1e77e9",
+            "title": "TPG And ACORE Raise $6B-Plus For CRE Opportunities - Bisnow",
+            "titleZh": "TPG与ACORE为商业地产投资机会募资逾60亿美元 - Bisnow",
+            "summary": "TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+            "summaryZh": "TPG与ACORE为商业地产投资机会募资逾60亿美元 Bisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeklEamNJbGQ3amlKV19tTENYWHVDSlc2N3ppdXFUVUFtb3puOEQxaXhxelRKajZQT2ZJTFVSS3A4RllSUlQzV0J2cFJJSTZnMXpMUGdiSnJKcDdaeUVxQlRCN3BQdjcwM3F3Y2FjLXVSaDJXakhsblR6VHl4aXpRdkZ2THZTcll1cTREeXJqTWNkbHJWcHBka1RJdldfbl9NcEptZTdJX1llOVcyc2NlaW9qdw?oc=5",
+            "source": "Bisnow",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+            "articleExcerpt": "TPG And ACORE Raise $6B-Plus For CRE Opportunities - Bisnow. TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+            "contentFingerprint": "25b79cdbce8da551",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "private-credit",
+              "cre"
+            ],
+            "sectors": [
+              "private-credit",
+              "cre"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "cre"
+              ],
+              "titleStrategies": [
+                "cre"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "cre"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "TPG and ACORE raised more than $6B for commercial real estate opportunities. ACORE is TPG's real estate credit / CRE lending platform, so this is a credit-side fundraise, not a real estate equity deal. A raise this large is significant, though the article doesn't say whether it is a final close.",
+              "llmReasonZh": "TPG与ACORE为商业地产投资机会募集逾60亿美元资金。ACORE是TPG旗下的房地产信贷/商业地产贷款平台，因此这是一笔信贷端募资，而非房地产股权交易。如此规模的募资意义重大，但文章未说明是否为最终关账。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "cre"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Bisnow"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.35,
+              "finalScore": 13.35,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-9a1d26dc4b57",
+            "title": "TPG Q3 Earnings Call Highlights - TradingView",
+            "titleZh": "TPG第三季度财报电话会议要点 - TradingView",
+            "summary": "TPG Q3 Earnings Call Highlights TradingView",
+            "summaryZh": "TPG第三季度财报电话会议要点 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmh4X3lrVTNiNHVuM1ZpX3lfcDdXY1JReVhOLXlyVWNvVUR4a0VTWjFHZ2QxVko1WnFuQUpGYzJSMUVyX21ES0ZCOXFTdWlZMVR6R1Q0YTRRRFdEajliQjdDQzVBZTUzc1BLQWZvUXhOOXdtZXFrWVN6OGhsMUNpaHRYeDhjYWV4Tnplek9nWW9rWi1QZE9z?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG Q3 Earnings Call Highlights TradingView",
+            "articleExcerpt": "TPG Q3 Earnings Call Highlights - TradingView. TPG Q3 Earnings Call Highlights TradingView",
+            "contentFingerprint": "67b1e7f90709755c",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "General TPG Q3 earnings call summary. The snippet has no detail on credit activity, but earnings calls for multi-strategy managers usually discuss credit platform flows (e.g., TPG Angelo Gordon), so it is kept as routine manager news. Importance is lowered because the content is unspecified commentary.",
+              "llmReasonZh": "TPG第三季度财报电话会议的常规摘要。摘要片段未涉及信贷业务细节，但多策略管理人的财报电话会议通常会讨论信贷平台的资金流动情况（如TPG Angelo Gordon），因此作为常规管理人新闻予以保留。由于内容为未具体说明的评论，重要性已下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.49,
+              "finalScore": 7.49,
+              "semanticEnabled": true
+            }
           }
         ],
         "Golub": [
@@ -100691,9 +101530,322 @@
               "finalScore": 18.96,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-42d27bbb95ad",
+            "title": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A - Pulse 2.0",
+            "titleZh": "Verisma获Golub Capital提供优先担保融资，用于支持增长及并购 - Pulse 2.0",
+            "summary": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+            "summaryZh": "Verisma获Golub Capital提供优先担保融资，用于支持增长及并购 Pulse 2.0",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVhkRzNYaHA0RmN6LTduVHJLOUdFMFNkMmc0NkN2WTh0VmJQUkh5NTF1Y0I4U1FWcGlhMHBwVXEwSWkxbG9CLU5uT2FBQlF3REhoRTUtX3JzNktHYTR0RVdvelhiVkNES2VXZy1fbW5WbWxVQVVrSFZwY2lULV9RZ1p6ZURlUU50Nk9ZcEJqcWIwUmJ4cEN3elRlMFhfVjFyaDhkSVlwcw?oc=5",
+            "source": "Pulse 2.0",
+            "publishedAt": "2026-10-30",
+            "lede": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+            "articleExcerpt": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A - Pulse 2.0. Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+            "contentFingerprint": "a912e9a181f909db",
+            "region": "US",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Golub Capital is providing senior-secured financing to Verisma for growth and M&A. This is an ordinary direct-lending transaction in Golub's private credit business.",
+              "llmReasonZh": "Golub Capital正向Verisma提供优先担保融资，用于其增长及并购。这是Golub私人信贷业务中的一笔常规直接贷款交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Pulse 2.0"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.37,
+              "finalScore": 22.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-3e6e3ab0a723",
+            "title": "Verisma secures Golub Capital debt to fund M&A and tech push - Dealroom",
+            "titleZh": "Verisma获Golub Capital债务融资，用于并购及技术投入 - Dealroom",
+            "summary": "Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+            "summaryZh": "Verisma获Golub Capital债务融资，用于并购及技术投入 Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblp3enAzMk1PVHY5Sm8wa3RPbG9PejQwaDV3czd6bXNFaXo1Nm41djl5ZnF5a1dVRGVoWVJkc3FabDdiSHcyLW9uRzU1VXRSYkhHUnJLUGNHdUZncmVSNDdXZ1RYODUyM3doUDRIYTRtRE9NeE5PU2FWNm12dDNSZ2FpdkxDMHZScF96U0Z5ZEdUXzU1UmVwZU93?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-10-30",
+            "lede": "Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+            "articleExcerpt": "Verisma secures Golub Capital debt to fund M&A and tech push - Dealroom. Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+            "contentFingerprint": "f4daa7aade1c690f",
+            "region": "US",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Golub Capital is providing debt financing to Verisma for M&A and technology investment. This is a direct lending transaction by Golub's credit business, so it counts as ordinary financing. 'Tech push' does not establish an AI or data-center angle.",
+              "llmReasonZh": "Golub Capital正为Verisma提供债务融资，用于并购及技术投资。这是Golub信贷业务开展的一笔直接贷款交易，因此属于常规融资。“技术投入”并不能表明其涉及人工智能或数据中心领域。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Dealroom"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.32,
+              "finalScore": 22.32,
+              "semanticEnabled": true
+            }
           }
         ],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-10-30-20c4494b58ba",
+            "title": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each - Kalkine Media",
+            "titleZh": "CVC Income & Growth Limited (CVCG)以每股€1.0328完成从库存股中再出售125,000股欧元股份 - Kalkine Media",
+            "summary": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+            "summaryZh": "CVC Income & Growth Limited (CVCG)以每股€1.0328完成从库存股中再出售125,000股欧元股份 Kalkine Media",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUl1Nmpjcm41RENhc1dvSExwTFpjTU9GZ3R1emg1bElNQ0Q0ajZUMWNQME1BUDhnbDFhdC1zOHhGUS15d1dMZmRUUTZFT21zTlpuUGF1dUg4TXFBQUZEYXRPMURWUXdmNHBxdW1lYmZVMGxxbWI1TWdGSDNMQm81a3hkUGpQOHM1UlozWUdtWHJzZldlcXFzVndsRjhYaUhxbzJFdFRaVGdJbWJRMmNDUW9GNFdmdEdjTkl6ampTdDdxeHFEVXdUcU5FSDh4X2I3Q2ZkZWotSFdLOWxxSENJNQ?oc=5",
+            "source": "Kalkine Media",
+            "publishedAt": "2026-10-30",
+            "lede": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+            "articleExcerpt": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each - Kalkine Media. CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+            "contentFingerprint": "da77debd9731220a",
+            "region": "Global",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "CVC Income & Growth Limited is CVC Credit's listed closed-end fund investing in senior secured loans and high-yield credit. The article reports a routine resale of a small block of treasury shares near NAV, a minor capital-markets item for the vehicle rather than a financing or fundraising event. It is credit-relevant, so not excluded, but low importance.",
+              "llmReasonZh": "CVC Income & Growth Limited是CVC Credit旗下的上市封闭式基金，投资于优先担保贷款和高收益信贷。本文报道该基金以接近资产净值的价格例行再出售一小批库存股，对该投资载体而言属于次要的资本市场事项，而非融资或募资事件。该事项与信贷相关，因此未被排除，但重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.62,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine Media"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.57,
+              "finalScore": 11.57,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
       "items": [
@@ -100802,6 +101954,102 @@
             "keywordScore": 14,
             "semanticScore": 6.38,
             "finalScore": 20.38,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-49e5bddda523",
+          "title": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada",
+          "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 - Yahoo! Finance Canada",
+          "summary": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+          "summaryZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN1owS3hQZHk5VV9PZ2kxMlg5RDNNdFN5UVEtb184Q0RIQUpleEgwbUxjNHU2VHV1QWdlNFlpNjRtcXh6YmFKOHNybjR3bHdIV0I4Z2ZBSFNWZ1psR19abg?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-30",
+          "lede": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+          "articleExcerpt": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada. Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart Yahoo! Finance Canada",
+          "contentFingerprint": "c4a5f8ccb495b96a",
+          "region": "Global",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Guggenheim"
+            ],
+            "titleGps": [
+              "Guggenheim"
+            ],
+            "llmGps": [
+              "Guggenheim"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "The Guggenheim Strategic Opportunities Fund (GOF) is a closed-end fund that mainly holds credit, so it is credit exposure. But the item is only a stock-price chart page with no news, transaction or event, so importance is low.",
+            "llmReasonZh": "Guggenheim Strategic Opportunities Fund (GOF) 是一只主要持有信贷资产的封闭式基金，因此属于信贷敞口。但该条目仅为股价图表页面，不含任何新闻、交易或事件，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.03,
+            "finalScore": 16.03,
             "semanticEnabled": true
           }
         },
@@ -101018,6 +102266,112 @@
           }
         },
         {
+          "id": "2026-10-30-742a557f1455",
+          "title": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price - MarketBeat",
+          "titleZh": "Keefe, Bruyette & Woods对Blackstone Mortgage Trust (NYSE:BXMT)股价发布悲观预测 - MarketBeat",
+          "summary": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+          "summaryZh": "Keefe, Bruyette & Woods对Blackstone Mortgage Trust (NYSE:BXMT)股价发布悲观预测 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMjIzdjZITVR0NzNHZ3dsdlJsZmxFcWJVM29GRTFfUjBzLTFLNUV0ejd2b3M0ZjU0cWVsRlItUmZGS3NSU0NIaXhZVHRkd1VCZ3lxZEhQSWY0b2NFMk9NNDZTT0dWQXNWdTFrZWNSdm5mcU1lZk1EZkVDWm5UeEt4RXJxTVRzbWVXVFgzMnF0UDlYdGJKZWNWbXVSUDBDRDlJVG91R2d5TVZqU002MFo0LWw4bkVvVldtQTZISUtVcXJKQUt1TTk3Z1VFNElhMldiWEFVemRwZDlRS0Y3ZU1UZWV4THV6ei1Wb1A4VEE4Sk5BUFFk?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-30",
+          "lede": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+          "articleExcerpt": "Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price - MarketBeat. Keefe, Bruyette & Woods Issues Pessimistic Forecast for Blackstone Mortgage Trust (NYSE:BXMT) Stock Price MarketBeat",
+          "contentFingerprint": "a15079d59b99c44f",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price-target cut on Blackstone Mortgage Trust, Blackstone's commercial real estate lending REIT. This is credit-relevant but only stock and analyst commentary, so importance is low.",
+            "llmReasonZh": "分析师下调Blackstone旗下商业地产贷款REIT Blackstone Mortgage Trust的目标价。该消息与信贷相关，但仅涉及股票及分析师评论，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.74,
+            "finalScore": 24.740000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-1a6ed637f565",
           "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
           "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
@@ -101206,6 +102560,212 @@
           }
         },
         {
+          "id": "2026-10-30-96da7a1e77e9",
+          "title": "TPG And ACORE Raise $6B-Plus For CRE Opportunities - Bisnow",
+          "titleZh": "TPG与ACORE为商业地产投资机会募资逾60亿美元 - Bisnow",
+          "summary": "TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+          "summaryZh": "TPG与ACORE为商业地产投资机会募资逾60亿美元 Bisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeklEamNJbGQ3amlKV19tTENYWHVDSlc2N3ppdXFUVUFtb3puOEQxaXhxelRKajZQT2ZJTFVSS3A4RllSUlQzV0J2cFJJSTZnMXpMUGdiSnJKcDdaeUVxQlRCN3BQdjcwM3F3Y2FjLXVSaDJXakhsblR6VHl4aXpRdkZ2THZTcll1cTREeXJqTWNkbHJWcHBka1RJdldfbl9NcEptZTdJX1llOVcyc2NlaW9qdw?oc=5",
+          "source": "Bisnow",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+          "articleExcerpt": "TPG And ACORE Raise $6B-Plus For CRE Opportunities - Bisnow. TPG And ACORE Raise $6B-Plus For CRE Opportunities Bisnow",
+          "contentFingerprint": "25b79cdbce8da551",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "private-credit",
+            "cre"
+          ],
+          "sectors": [
+            "private-credit",
+            "cre"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [
+              "cre"
+            ],
+            "titleStrategies": [
+              "cre"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "cre"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "TPG and ACORE raised more than $6B for commercial real estate opportunities. ACORE is TPG's real estate credit / CRE lending platform, so this is a credit-side fundraise, not a real estate equity deal. A raise this large is significant, though the article doesn't say whether it is a final close.",
+            "llmReasonZh": "TPG与ACORE为商业地产投资机会募集逾60亿美元资金。ACORE是TPG旗下的房地产信贷/商业地产贷款平台，因此这是一笔信贷端募资，而非房地产股权交易。如此规模的募资意义重大，但文章未说明是否为最终关账。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "cre"
+                ],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.82,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Bisnow"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.35,
+            "finalScore": 13.35,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-9a1d26dc4b57",
+          "title": "TPG Q3 Earnings Call Highlights - TradingView",
+          "titleZh": "TPG第三季度财报电话会议要点 - TradingView",
+          "summary": "TPG Q3 Earnings Call Highlights TradingView",
+          "summaryZh": "TPG第三季度财报电话会议要点 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmh4X3lrVTNiNHVuM1ZpX3lfcDdXY1JReVhOLXlyVWNvVUR4a0VTWjFHZ2QxVko1WnFuQUpGYzJSMUVyX21ES0ZCOXFTdWlZMVR6R1Q0YTRRRFdEajliQjdDQzVBZTUzc1BLQWZvUXhOOXdtZXFrWVN6OGhsMUNpaHRYeDhjYWV4Tnplek9nWW9rWi1QZE9z?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG Q3 Earnings Call Highlights TradingView",
+          "articleExcerpt": "TPG Q3 Earnings Call Highlights - TradingView. TPG Q3 Earnings Call Highlights TradingView",
+          "contentFingerprint": "67b1e7f90709755c",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "General TPG Q3 earnings call summary. The snippet has no detail on credit activity, but earnings calls for multi-strategy managers usually discuss credit platform flows (e.g., TPG Angelo Gordon), so it is kept as routine manager news. Importance is lowered because the content is unspecified commentary.",
+            "llmReasonZh": "TPG第三季度财报电话会议的常规摘要。摘要片段未涉及信贷业务细节，但多策略管理人的财报电话会议通常会讨论信贷平台的资金流动情况（如TPG Angelo Gordon），因此作为常规管理人新闻予以保留。由于内容为未具体说明的评论，重要性已下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.49,
+            "finalScore": 7.49,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-592362494bbd",
           "title": "SVP backs 1.2 GW power JV; BSP, Golub finance Texas apartments, healthtech provider - Alternatives Watch",
           "titleZh": "SVP支持1.2 GW电力合资企业；BSP、Golub为德州公寓及医疗科技服务商提供融资 - Alternatives Watch",
@@ -101310,6 +102870,318 @@
             "finalScore": 18.96,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-10-30-42d27bbb95ad",
+          "title": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A - Pulse 2.0",
+          "titleZh": "Verisma获Golub Capital提供优先担保融资，用于支持增长及并购 - Pulse 2.0",
+          "summary": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+          "summaryZh": "Verisma获Golub Capital提供优先担保融资，用于支持增长及并购 Pulse 2.0",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVhkRzNYaHA0RmN6LTduVHJLOUdFMFNkMmc0NkN2WTh0VmJQUkh5NTF1Y0I4U1FWcGlhMHBwVXEwSWkxbG9CLU5uT2FBQlF3REhoRTUtX3JzNktHYTR0RVdvelhiVkNES2VXZy1fbW5WbWxVQVVrSFZwY2lULV9RZ1p6ZURlUU50Nk9ZcEJqcWIwUmJ4cEN3elRlMFhfVjFyaDhkSVlwcw?oc=5",
+          "source": "Pulse 2.0",
+          "publishedAt": "2026-10-30",
+          "lede": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+          "articleExcerpt": "Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A - Pulse 2.0. Verisma Secures Senior-Secured Financing From Golub Capital To Support Growth And M&A Pulse 2.0",
+          "contentFingerprint": "a912e9a181f909db",
+          "region": "US",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Golub Capital is providing senior-secured financing to Verisma for growth and M&A. This is an ordinary direct-lending transaction in Golub's private credit business.",
+            "llmReasonZh": "Golub Capital正向Verisma提供优先担保融资，用于其增长及并购。这是Golub私人信贷业务中的一笔常规直接贷款交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Pulse 2.0"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.37,
+            "finalScore": 22.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-3e6e3ab0a723",
+          "title": "Verisma secures Golub Capital debt to fund M&A and tech push - Dealroom",
+          "titleZh": "Verisma获Golub Capital债务融资，用于并购及技术投入 - Dealroom",
+          "summary": "Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+          "summaryZh": "Verisma获Golub Capital债务融资，用于并购及技术投入 Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblp3enAzMk1PVHY5Sm8wa3RPbG9PejQwaDV3czd6bXNFaXo1Nm41djl5ZnF5a1dVRGVoWVJkc3FabDdiSHcyLW9uRzU1VXRSYkhHUnJLUGNHdUZncmVSNDdXZ1RYODUyM3doUDRIYTRtRE9NeE5PU2FWNm12dDNSZ2FpdkxDMHZScF96U0Z5ZEdUXzU1UmVwZU93?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-10-30",
+          "lede": "Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+          "articleExcerpt": "Verisma secures Golub Capital debt to fund M&A and tech push - Dealroom. Verisma secures Golub Capital debt to fund M&A and tech push Dealroom",
+          "contentFingerprint": "f4daa7aade1c690f",
+          "region": "US",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Golub Capital is providing debt financing to Verisma for M&A and technology investment. This is a direct lending transaction by Golub's credit business, so it counts as ordinary financing. 'Tech push' does not establish an AI or data-center angle.",
+            "llmReasonZh": "Golub Capital正为Verisma提供债务融资，用于并购及技术投资。这是Golub信贷业务开展的一笔直接贷款交易，因此属于常规融资。“技术投入”并不能表明其涉及人工智能或数据中心领域。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Dealroom"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.32,
+            "finalScore": 22.32,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-20c4494b58ba",
+          "title": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each - Kalkine Media",
+          "titleZh": "CVC Income & Growth Limited (CVCG)以每股€1.0328完成从库存股中再出售125,000股欧元股份 - Kalkine Media",
+          "summary": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+          "summaryZh": "CVC Income & Growth Limited (CVCG)以每股€1.0328完成从库存股中再出售125,000股欧元股份 Kalkine Media",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUl1Nmpjcm41RENhc1dvSExwTFpjTU9GZ3R1emg1bElNQ0Q0ajZUMWNQME1BUDhnbDFhdC1zOHhGUS15d1dMZmRUUTZFT21zTlpuUGF1dUg4TXFBQUZEYXRPMURWUXdmNHBxdW1lYmZVMGxxbWI1TWdGSDNMQm81a3hkUGpQOHM1UlozWUdtWHJzZldlcXFzVndsRjhYaUhxbzJFdFRaVGdJbWJRMmNDUW9GNFdmdEdjTkl6ampTdDdxeHFEVXdUcU5FSDh4X2I3Q2ZkZWotSFdLOWxxSENJNQ?oc=5",
+          "source": "Kalkine Media",
+          "publishedAt": "2026-10-30",
+          "lede": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+          "articleExcerpt": "CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each - Kalkine Media. CVC Income & Growth Limited (CVCG) Completes Resale of 125,000 Euro Shares from Treasury at €1.0328 Each Kalkine Media",
+          "contentFingerprint": "da77debd9731220a",
+          "region": "Global",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "CVC Income & Growth Limited is CVC Credit's listed closed-end fund investing in senior secured loans and high-yield credit. The article reports a routine resale of a small block of treasury shares near NAV, a minor capital-markets item for the vehicle rather than a financing or fundraising event. It is credit-relevant, so not excluded, but low importance.",
+            "llmReasonZh": "CVC Income & Growth Limited是CVC Credit旗下的上市封闭式基金，投资于优先担保贷款和高收益信贷。本文报道该基金以接近资产净值的价格例行再出售一小批库存股，对该投资载体而言属于次要的资本市场事项，而非融资或募资事件。该事项与信贷相关，因此未被排除，但重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.62,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine Media"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-10-30T16:55:10.737124+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.57,
+            "finalScore": 11.57,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -101317,7 +103189,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 75,
+      "count": 92,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -101325,12 +103197,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 92,
+      "count": 93,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -101338,7 +103210,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
@@ -101351,7 +103223,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
@@ -101364,12 +103236,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 1,
+      "count": 0,
       "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -101377,25 +103249,25 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 7,
-      "selected": 0,
+      "count": 6,
+      "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -101403,7 +103275,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
@@ -101416,12 +103288,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 18,
+      "count": 23,
       "selected": 3,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -101429,12 +103301,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 73,
+      "count": 78,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -101442,12 +103314,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 53,
+      "count": 29,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -101455,51 +103327,51 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 15,
-      "selected": 4,
+      "count": 27,
+      "selected": 6,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 7,
-      "selected": 3,
+      "count": 10,
+      "selected": 4,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 26,
-      "selected": 3,
+      "count": 29,
+      "selected": 4,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 31,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -101507,12 +103379,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 465,
+      "count": 363,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -101526,9 +103398,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-30T10:38:55.467885+00:00",
+      "asOf": "2026-10-30T16:55:10.737124+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-30T10:38:55.467885+00:00"
+  "checkedAt": "2026-10-30T16:55:10.737124+00:00"
 }
