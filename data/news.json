@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-29T21:31:33.346517+00:00",
+  "updatedAt": "2026-10-30T01:20:48.122655+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高评级公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下属于更广义的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -89125,6 +89125,214 @@
               "score": 44,
               "retrievedAt": "2026-10-29T09:02:01.601953+00:00"
             }
+          },
+          {
+            "id": "2026-10-28-719f54d0b4df",
+            "title": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05U0xfNTU1MWt2QTNLQXFkVkNfZlhjbXUtVm1NT01QSVVNWWpxMjVzSWRia1JVMFhwa2J3bzVnakRXUXNUWWsxT1oyY2xmYndPV1BSdERJYjV2aE0?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-28",
+            "lede": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "07e0f646d4f20fff",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic Yahoo Finance stock news/headlines page for Blue Owl Capital Corp (OBDC), Blue Owl's BDC, which is credit-relevant. It has no actual news content, only a stock quote and headline aggregation, so importance is low.",
+              "llmReasonZh": "Yahoo Finance 上关于 Blue Owl Capital Corp (OBDC) 的通用股票新闻/头条页面，该公司为 Blue Owl 旗下的 BDC，与信贷相关。该页面无实际新闻内容，仅有股票报价和头条汇总，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.36,
+              "finalScore": 20.36,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-28-79f62ec62536",
+            "title": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 – Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 – Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ESFg3ZDl1cER6SGpmQS0zME8xc0lGamZxT1hzR0ZTdFJpam9WLV90QkpfVnhWM1NDd2YtazFsVVYweGE0UzIzSFdoNUN0cTlCVFhtTUJfWkNRWXc?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-10-28",
+            "lede": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore. Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "d683354593816a82",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic stock-quote and headlines page for Blue Owl Capital Corp, a Blue Owl BDC and therefore credit-relevant. It reports no substantive event, so it is rated as stock-price-level news.",
+              "llmReasonZh": "Blue Owl Capital Corp 的通用股票行情及头条页面。该公司为 Blue Owl 旗下 BDC，因此与信贷相关。页面未报道任何实质性事件，故评级为股价层面新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.15,
+              "finalScore": 20.15,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -90826,6 +91034,214 @@
             },
             "score": 44,
             "retrievedAt": "2026-10-29T09:02:01.601953+00:00"
+          }
+        },
+        {
+          "id": "2026-10-28-719f54d0b4df",
+          "title": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05U0xfNTU1MWt2QTNLQXFkVkNfZlhjbXUtVm1NT01QSVVNWWpxMjVzSWRia1JVMFhwa2J3bzVnakRXUXNUWWsxT1oyY2xmYndPV1BSdERJYjV2aE0?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-28",
+          "lede": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Capital Corp (1D6.HA) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "07e0f646d4f20fff",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic Yahoo Finance stock news/headlines page for Blue Owl Capital Corp (OBDC), Blue Owl's BDC, which is credit-relevant. It has no actual news content, only a stock quote and headline aggregation, so importance is low.",
+            "llmReasonZh": "Yahoo Finance 上关于 Blue Owl Capital Corp (OBDC) 的通用股票新闻/头条页面，该公司为 Blue Owl 旗下的 BDC，与信贷相关。该页面无实际新闻内容，仅有股票报价和头条汇总，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.36,
+            "finalScore": 20.36,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-28-79f62ec62536",
+          "title": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 – Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Blue Owl Capital Corp (1D6.HA) 最新股票新闻与头条 – Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ESFg3ZDl1cER6SGpmQS0zME8xc0lGamZxT1hzR0ZTdFJpam9WLV90QkpfVnhWM1NDd2YtazFsVVYweGE0UzIzSFdoNUN0cTlCVFhtTUJfWkNRWXc?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-10-28",
+          "lede": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore. Blue Owl Capital Corp (1D6.HA) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "d683354593816a82",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic stock-quote and headlines page for Blue Owl Capital Corp, a Blue Owl BDC and therefore credit-relevant. It reports no substantive event, so it is rated as stock-price-level news.",
+            "llmReasonZh": "Blue Owl Capital Corp 的通用股票行情及头条页面。该公司为 Blue Owl 旗下 BDC，因此与信贷相关。页面未报道任何实质性事件，故评级为股价层面新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.15,
+            "finalScore": 20.15,
+            "semanticEnabled": true
           }
         },
         {
@@ -92632,6 +93048,116 @@
               "finalScore": 17.5,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-a4d788f0e540",
+            "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 - PEI Private Equity",
+            "titleZh": "Blue Owl最新GP stakes基金完成募集或推迟至2027年第一季度 - PEI Private Equity",
+            "summary": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+            "summaryZh": "Blue Owl最新GP stakes基金完成募集或推迟至2027年第一季度 PEI Private Equity",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5",
+            "source": "PEI Private Equity",
+            "publishedAt": "2026-10-29",
+            "lede": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+            "articleExcerpt": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 - PEI Private Equity. Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+            "contentFingerprint": "25274c01a8077c09",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "gp-stakes"
+            ],
+            "sectors": [
+              "gp-stakes"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "gp-stakes"
+              ],
+              "titleStrategies": [
+                "gp-stakes"
+              ],
+              "llmStrategies": [
+                "gp-stakes"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Reports that the final close of Blue Owl's latest GP stakes fund may slip to Q1 2027. GP stakes is an explicitly tracked strategy, so this is not excluded as non-credit business. A delayed close points to fundraising difficulty, which is material for investors tracking Blue Owl.",
+              "llmReasonZh": "报道称Blue Owl最新GP stakes基金的最终关账可能推迟至2027年第一季度。GP stakes属于明确跟踪的策略，因此不作为非信贷业务排除。关账推迟表明募资面临困难，对关注Blue Owl的投资者具有重要意义。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "gp-stakes"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "PEI Private Equity"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.79,
+              "finalScore": 19.79,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -93528,6 +94054,330 @@
               "finalScore": 25.22,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-c0a53c0dd91a",
+            "title": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com - Investing.com India",
+            "titleZh": "Blackstone Mortgage Trust 2026年第三季度业绩演示材料：投资组合转型加速 By Investing.com - Investing.com India",
+            "summary": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+            "summaryZh": "Blackstone Mortgage Trust 2026年第三季度业绩演示材料：投资组合转型加速 By Investing.com Investing.com India",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUJ2clJFZC0ybThrNHVfdGFNLVRmZy1QWVpsWllRdkRwSzhuMlh5TkpzVlN5MnRuUy1CUjNJMzBJNVlvN0UyYmEyUEpuTWpyZ0ozU3FFSUJLOVJST1dTdmR4V28zQmFlOHBGRXNtWmg2UHd2RlNoSnhWUHMzSldXRFVXb3BBRDRjbC0xVzEtX1lEMnNjWHp4RlNZVWczcDlFN0xJdDJUU3dqN1VCUVFuOVFvYkJGaXZVRlhTczdxd25Id1V1clRoXw?oc=5",
+            "source": "Investing.com India",
+            "publishedAt": "2026-10-29",
+            "lede": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+            "articleExcerpt": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com - Investing.com India. Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+            "contentFingerprint": "3291a5f65b089e7f",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The article covers Q3 earnings slides on a portfolio pivot. This is routine manager or earnings news with no specific financing, fundraising, or legal event.",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，因此与信贷相关。本文报道其第三季度业绩演示材料中关于投资组合转型的内容。这属于常规的管理人或业绩新闻，不涉及具体的融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com India"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 4.83,
+              "finalScore": 24.83,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-8b3920e337da",
+            "title": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) - Seeking Alpha",
+            "titleZh": "Blackstone Mortgage Trust意外录得第三季度净亏损，股价下跌（BXMT:NYSE）- Seeking Alpha",
+            "summary": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+            "summaryZh": "Blackstone Mortgage Trust意外录得第三季度净亏损，股价下跌（BXMT:NYSE）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVVlb0kwejFFY2ZBbGc1WXllQzRGNnBRblVDR3hTaFRDUjZHSnZCTVNRNklHS2VzaW9fTUI5ZFNEY3hLVWdoZzluYUgzb3Frb0praGZlQ0RlWlZvaFpKTDNBNzRxNDVnbloxcXBkaFo4a21kX2w5R1hYUnFBTEk5V3QyVmFTMlJodkhwYVBuVDRWdnZ6aHp1eDFVc2d0Vlo4SXc?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-10-29",
+            "lede": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+            "articleExcerpt": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) - Seeking Alpha. Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+            "contentFingerprint": "dd99c062f848ca59",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The headline is a stock-price move, but an unexpected Q3 net loss suggests stress in the CRE loan book. That makes it more important than ordinary stock commentary.",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下专注商业地产贷款的REIT，因此与信贷相关。标题虽为股价变动，但第三季度意外净亏损表明其商业地产（CRE）贷款组合承压，因此比一般股市评论更为重要。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.62,
+              "finalScore": 24.62,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-1ed110be7c52",
+            "title": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 - MarketBeat",
+            "titleZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 宣布派发每股$0.30季度股息 - MarketBeat",
+            "summary": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+            "summaryZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 宣布派发每股$0.30季度股息 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEl6SlRqTzA1NjVTN1NkODhsclE4d0h0alpQczNIZkc1Snl1WWJxYkhQdUgtdzZTVGxHWDgxNUxIWW9vVTR5bW5FdlRDMTFsQy1BREVCaW1PUFJEZVdQMVNPMmg1MlotcDNWYU5LTEtOeUFPalNzTHN4WVB1M3dWMVVQV1ZkYUF6SWlyZTd5RnNuRXo0RlAyOVFYcnFLYWEwRDhGMmY5QjRmMC05Y2MwcU5SZEl3aHQ1U2RoUlBXRS1ibk82YTluaXlkbFpXcjBYQ0RmNw?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-29",
+            "lede": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+            "articleExcerpt": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 - MarketBeat. Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+            "contentFingerprint": "07f64358757ca25a",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate debt REIT, so it falls within credit exposure. A routine quarterly dividend announcement from a stock-news aggregator is not a financing event, and its importance is low (between routine manager news and stock commentary).",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产债务REIT，因此属于信贷敞口范畴。该文章为股票资讯聚合平台发布的例行季度股息公告，并非融资事件，重要性较低（介于例行管理人新闻与股票评论之间）。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.53,
+              "finalScore": 24.53,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [],
@@ -93717,6 +94567,294 @@
               "keywordScore": 3,
               "semanticScore": 5.22,
               "finalScore": 8.219999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-7b18a1f740e3",
+            "title": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript - Yahoo Finance",
+            "titleZh": "TPG Inc.（TPG）2026财年第三季度财报电话会议实录 - Yahoo Finance",
+            "summary": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+            "summaryZh": "TPG Inc.（TPG）2026财年第三季度财报电话会议实录 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFl1eVZ6eURVN2RUSzUtcF9kVGdkZ085V0ExNDV5ajlpUXdIcWNTZ29XbDZxQ1V4VjZvRHJFaFNNaU1mRGU5amh4UkxCRDlSMEd2ZlM2WUZyQWtrQ2xQQVRTYzV6d0pTeTB2RWlwZWN0OW9XdlRnNzN1anpIZTRqNjFSdTAyQW9wRFE?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-29",
+            "lede": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+            "articleExcerpt": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript - Yahoo Finance. TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+            "contentFingerprint": "b50b18a864fda6c5",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a TPG Inc. quarterly earnings call transcript. The text available is only the title, with no detail on credit activity. Earnings calls for multi-strategy managers usually cover the credit platform (Angelo Gordon/TPG Credit) alongside PE, so it is kept as routine manager news. Importance is low because there is no specific credit event or detail.",
+              "llmReasonZh": "本文为TPG Inc.季度财报电话会议实录。现有文本仅包含标题，未提供有关信贷业务的任何细节。多策略资产管理机构的财报电话会议通常会在介绍私募股权业务的同时涵盖其信贷平台（Angelo Gordon/TPG Credit），因此作为常规管理人新闻予以保留。由于未涉及具体信贷事件或细节，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.37,
+              "finalScore": 16.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-6c467a18e15e",
+            "title": "TPG Expects to Haul In Record $55 Billion This Year - WSJ",
+            "titleZh": "TPG预计今年募资额将创纪录，达$55 Billion - WSJ",
+            "summary": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "summaryZh": "TPG预计今年募资额将创纪录，达$55 Billion WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGFTYW1DV0NTM2owYVByVm1DNk0wNFotRWk2UU5YUDVWendwN0xmNXR0RUZrQkZhcU94QjZ1S1dmZzEwUGNJdHgySUhpWFhSa3B3STJrOVd6TGZNWjlDX3A2UTBXNVJiRFZsaThyWlhLWWdyb2FUdV94RUV4Tk9JbkZjeWdoVUNyWmJGMURuMWpnSFVEMWxsWkRQMFpwVUE?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-10-29",
+            "lede": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "articleExcerpt": "TPG Expects to Haul In Record $55 Billion This Year - WSJ. TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "contentFingerprint": "2ac94cc7ec4b3460",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article covers TPG's firmwide record fundraising target of $55B. It names no specific strategy, but TPG's totals include its credit platform (TPG Angelo Gordon), so it may matter to credit exposure. Kept as moderate-importance fundraising news without a strategy tag. This is a borderline call: if the full article shows the money is mainly buyout or other equity strategies, it should be excluded.",
+              "llmReasonZh": "该文章报道了TPG全公司层面创纪录的$55B募资目标。文章未提及具体策略，但TPG的募资总额包含其信贷平台（TPG Angelo Gordon），因此可能与信贷敞口相关。暂列为中等重要性的募资新闻，不标注策略标签。此判断属于临界情况：若全文显示资金主要投向并购或其他股权策略，则应予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 82,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.63,
+              "finalScore": 7.63,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-7e6aa0471479",
+            "title": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões - TradingKey",
+            "titleZh": "TPG 3T26业绩电话会：募资指引上调至逾550亿美元 - TradingKey",
+            "summary": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+            "summaryZh": "TPG 3T26业绩电话会：募资指引上调至逾550亿美元 TradingKey",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZTRuYVdvdndxTVIzS0ktdU1YOXhMMDc3SkYxQUgxUGRuWFRrSUZlQTR2TFFuU1czMHA2VjZaclRQdE8ydENqMkQwc0ZBRHdHbUNGZjlDRW04SGdmejRpZ0s3MERQOURBaUVuTkhqOE1ONTVzVFE?oc=5",
+            "source": "TradingKey",
+            "publishedAt": "2026-10-29",
+            "lede": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+            "articleExcerpt": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões - TradingKey. Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+            "contentFingerprint": "c63a05889f9ecf49",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "The article covers TPG's earnings call, where the firm raised its firm-wide fundraising guidance to over $55B. The text gives no credit-specific detail. TPG's credit platform (Angelo Gordon) likely contributes to that figure, so the item is kept as general manager and fundraising news. No strategy tag applies, and importance is moderate.",
+              "llmReasonZh": "该文章报道了TPG的业绩电话会，公司在会上将全公司募资指引上调至逾550亿美元。文中未提供信贷相关的具体细节。TPG的信贷平台（Angelo Gordon）可能对该数字有所贡献，因此该条目作为一般性管理人及募资新闻予以保留。不适用任何策略标签，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.17,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.35
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingKey"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.18,
+              "finalScore": 7.18,
               "semanticEnabled": true
             }
           }
@@ -94127,6 +95265,98 @@
               "finalScore": 25.37,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-5e5bfc82e4fd",
+            "title": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically - Idéal Investisseur",
+            "titleZh": "CVC Capital Partners：收费管理资产规模达€177bn（+24%），有机增长11% - Idéal Investisseur",
+            "summary": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+            "summaryZh": "CVC Capital Partners：收费管理资产规模达€177bn（+24%），有机增长11% Idéal Investisseur",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTnRJcGI4WnU2THJfZ0xlSzlLdlgtdTZlQUU0WU41b0ZPQzAtdlh1T0pQaDdxMHNWX1pLdUJCLVdBbUtDR1Y3VUxjTUx6SFFRZEpHYm0zTlBQanlab0dGOWRDMGtqQ0FNdXFJdEhURVRpdnFGSlVRdFNXUjdwUUU1TnpqYVBheW9Yb3lwT1AtamZzN3VnQWdtOXpvVmpyOEU2cWtFeVdGbUgybEh5UVVzSEdXMW9IcFRQYUpUSFM3Y05yMEE3X3hRS011UlFySWtvZ3lCdGMtRWpvR3dsaEVsSldxMA?oc=5",
+            "source": "Idéal Investisseur",
+            "publishedAt": "2026-10-29",
+            "lede": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+            "articleExcerpt": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically - Idéal Investisseur. CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+            "contentFingerprint": "52079d3c988b0870",
+            "region": "Global",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "This is firm-wide CVC AUM/fee-paying AUM growth news (€177bn, +24%). It is routine manager news covering all strategies, including CVC Credit, and is relevant to the credit franchise, but nothing credit-specific is mentioned. No financing, fundraising close or lawsuit.",
+              "llmReasonZh": "这是关于CVC全公司管理资产规模/收费管理资产规模增长的新闻（€177bn，+24%）。该消息属于涵盖所有策略（包括CVC Credit）的常规管理人新闻，与其信贷业务相关，但未提及任何信贷相关的具体内容。不涉及融资、募资关账或诉讼。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Idéal Investisseur"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.52,
+              "finalScore": 8.52,
+              "semanticEnabled": true
+            }
           }
         ],
         "Canyon": []
@@ -94424,6 +95654,116 @@
             "keywordScore": 11,
             "semanticScore": 6.5,
             "finalScore": 17.5,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-a4d788f0e540",
+          "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 - PEI Private Equity",
+          "titleZh": "Blue Owl最新GP stakes基金完成募集或推迟至2027年第一季度 - PEI Private Equity",
+          "summary": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+          "summaryZh": "Blue Owl最新GP stakes基金完成募集或推迟至2027年第一季度 PEI Private Equity",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5",
+          "source": "PEI Private Equity",
+          "publishedAt": "2026-10-29",
+          "lede": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+          "articleExcerpt": "Blue Owl's latest GP stakes fund close may slip to Q1 2027 - PEI Private Equity. Blue Owl's latest GP stakes fund close may slip to Q1 2027 PEI Private Equity",
+          "contentFingerprint": "25274c01a8077c09",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "gp-stakes"
+          ],
+          "sectors": [
+            "gp-stakes"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "gp-stakes"
+            ],
+            "titleStrategies": [
+              "gp-stakes"
+            ],
+            "llmStrategies": [
+              "gp-stakes"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Reports that the final close of Blue Owl's latest GP stakes fund may slip to Q1 2027. GP stakes is an explicitly tracked strategy, so this is not excluded as non-credit business. A delayed close points to fundraising difficulty, which is material for investors tracking Blue Owl.",
+            "llmReasonZh": "报道称Blue Owl最新GP stakes基金的最终关账可能推迟至2027年第一季度。GP stakes属于明确跟踪的策略，因此不作为非信贷业务排除。关账推迟表明募资面临困难，对关注Blue Owl的投资者具有重要意义。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "gp-stakes"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.8,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "PEI Private Equity"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.79,
+            "finalScore": 19.79,
             "semanticEnabled": true
           }
         },
@@ -95312,6 +96652,330 @@
           }
         },
         {
+          "id": "2026-10-29-c0a53c0dd91a",
+          "title": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com - Investing.com India",
+          "titleZh": "Blackstone Mortgage Trust 2026年第三季度业绩演示材料：投资组合转型加速 By Investing.com - Investing.com India",
+          "summary": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+          "summaryZh": "Blackstone Mortgage Trust 2026年第三季度业绩演示材料：投资组合转型加速 By Investing.com Investing.com India",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUJ2clJFZC0ybThrNHVfdGFNLVRmZy1QWVpsWllRdkRwSzhuMlh5TkpzVlN5MnRuUy1CUjNJMzBJNVlvN0UyYmEyUEpuTWpyZ0ozU3FFSUJLOVJST1dTdmR4V28zQmFlOHBGRXNtWmg2UHd2RlNoSnhWUHMzSldXRFVXb3BBRDRjbC0xVzEtX1lEMnNjWHp4RlNZVWczcDlFN0xJdDJUU3dqN1VCUVFuOVFvYkJGaXZVRlhTczdxd25Id1V1clRoXw?oc=5",
+          "source": "Investing.com India",
+          "publishedAt": "2026-10-29",
+          "lede": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+          "articleExcerpt": "Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com - Investing.com India. Blackstone Mortgage Trust Q3 2026 slides: portfolio pivot accelerates By Investing.com Investing.com India",
+          "contentFingerprint": "3291a5f65b089e7f",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The article covers Q3 earnings slides on a portfolio pivot. This is routine manager or earnings news with no specific financing, fundraising, or legal event.",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，因此与信贷相关。本文报道其第三季度业绩演示材料中关于投资组合转型的内容。这属于常规的管理人或业绩新闻，不涉及具体的融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com India"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 4.83,
+            "finalScore": 24.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-8b3920e337da",
+          "title": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) - Seeking Alpha",
+          "titleZh": "Blackstone Mortgage Trust意外录得第三季度净亏损，股价下跌（BXMT:NYSE）- Seeking Alpha",
+          "summary": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+          "summaryZh": "Blackstone Mortgage Trust意外录得第三季度净亏损，股价下跌（BXMT:NYSE）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVVlb0kwejFFY2ZBbGc1WXllQzRGNnBRblVDR3hTaFRDUjZHSnZCTVNRNklHS2VzaW9fTUI5ZFNEY3hLVWdoZzluYUgzb3Frb0praGZlQ0RlWlZvaFpKTDNBNzRxNDVnbloxcXBkaFo4a21kX2w5R1hYUnFBTEk5V3QyVmFTMlJodkhwYVBuVDRWdnZ6aHp1eDFVc2d0Vlo4SXc?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-10-29",
+          "lede": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+          "articleExcerpt": "Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) - Seeking Alpha. Blackstone Mortgage Trust stock dips on unexpected Q3 net loss (BXMT:NYSE) Seeking Alpha",
+          "contentFingerprint": "dd99c062f848ca59",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The headline is a stock-price move, but an unexpected Q3 net loss suggests stress in the CRE loan book. That makes it more important than ordinary stock commentary.",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下专注商业地产贷款的REIT，因此与信贷相关。标题虽为股价变动，但第三季度意外净亏损表明其商业地产（CRE）贷款组合承压，因此比一般股市评论更为重要。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.62,
+            "finalScore": 24.62,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-1ed110be7c52",
+          "title": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 - MarketBeat",
+          "titleZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 宣布派发每股$0.30季度股息 - MarketBeat",
+          "summary": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+          "summaryZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 宣布派发每股$0.30季度股息 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEl6SlRqTzA1NjVTN1NkODhsclE4d0h0alpQczNIZkc1Snl1WWJxYkhQdUgtdzZTVGxHWDgxNUxIWW9vVTR5bW5FdlRDMTFsQy1BREVCaW1PUFJEZVdQMVNPMmg1MlotcDNWYU5LTEtOeUFPalNzTHN4WVB1M3dWMVVQV1ZkYUF6SWlyZTd5RnNuRXo0RlAyOVFYcnFLYWEwRDhGMmY5QjRmMC05Y2MwcU5SZEl3aHQ1U2RoUlBXRS1ibk82YTluaXlkbFpXcjBYQ0RmNw?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-29",
+          "lede": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+          "articleExcerpt": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 - MarketBeat. Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Announces Quarterly Dividend of $0.30 MarketBeat",
+          "contentFingerprint": "07f64358757ca25a",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate debt REIT, so it falls within credit exposure. A routine quarterly dividend announcement from a stock-news aggregator is not a financing event, and its importance is low (between routine manager news and stock commentary).",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产债务REIT，因此属于信贷敞口范畴。该文章为股票资讯聚合平台发布的例行季度股息公告，并非融资事件，重要性较低（介于例行管理人新闻与股票评论之间）。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.53,
+            "finalScore": 24.53,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-51c11412718a",
           "title": "TPG Reports Third Quarter 2026 Results - Yahoo Finance",
           "titleZh": "TPG公布2026年第三季度业绩 - Yahoo Finance",
@@ -95496,6 +97160,294 @@
             "keywordScore": 3,
             "semanticScore": 5.22,
             "finalScore": 8.219999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-7b18a1f740e3",
+          "title": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "titleZh": "TPG Inc.（TPG）2026财年第三季度财报电话会议实录 - Yahoo Finance",
+          "summary": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+          "summaryZh": "TPG Inc.（TPG）2026财年第三季度财报电话会议实录 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFl1eVZ6eURVN2RUSzUtcF9kVGdkZ085V0ExNDV5ajlpUXdIcWNTZ29XbDZxQ1V4VjZvRHJFaFNNaU1mRGU5amh4UkxCRDlSMEd2ZlM2WUZyQWtrQ2xQQVRTYzV6d0pTeTB2RWlwZWN0OW9XdlRnNzN1anpIZTRqNjFSdTAyQW9wRFE?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-29",
+          "lede": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+          "articleExcerpt": "TPG Inc. (TPG) Q3 FY2026 earnings call transcript - Yahoo Finance. TPG Inc. (TPG) Q3 FY2026 earnings call transcript Yahoo Finance",
+          "contentFingerprint": "b50b18a864fda6c5",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a TPG Inc. quarterly earnings call transcript. The text available is only the title, with no detail on credit activity. Earnings calls for multi-strategy managers usually cover the credit platform (Angelo Gordon/TPG Credit) alongside PE, so it is kept as routine manager news. Importance is low because there is no specific credit event or detail.",
+            "llmReasonZh": "本文为TPG Inc.季度财报电话会议实录。现有文本仅包含标题，未提供有关信贷业务的任何细节。多策略资产管理机构的财报电话会议通常会在介绍私募股权业务的同时涵盖其信贷平台（Angelo Gordon/TPG Credit），因此作为常规管理人新闻予以保留。由于未涉及具体信贷事件或细节，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.37,
+            "finalScore": 16.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-6c467a18e15e",
+          "title": "TPG Expects to Haul In Record $55 Billion This Year - WSJ",
+          "titleZh": "TPG预计今年募资额将创纪录，达$55 Billion - WSJ",
+          "summary": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "summaryZh": "TPG预计今年募资额将创纪录，达$55 Billion WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGFTYW1DV0NTM2owYVByVm1DNk0wNFotRWk2UU5YUDVWendwN0xmNXR0RUZrQkZhcU94QjZ1S1dmZzEwUGNJdHgySUhpWFhSa3B3STJrOVd6TGZNWjlDX3A2UTBXNVJiRFZsaThyWlhLWWdyb2FUdV94RUV4Tk9JbkZjeWdoVUNyWmJGMURuMWpnSFVEMWxsWkRQMFpwVUE?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-10-29",
+          "lede": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "articleExcerpt": "TPG Expects to Haul In Record $55 Billion This Year - WSJ. TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "contentFingerprint": "2ac94cc7ec4b3460",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "The article covers TPG's firmwide record fundraising target of $55B. It names no specific strategy, but TPG's totals include its credit platform (TPG Angelo Gordon), so it may matter to credit exposure. Kept as moderate-importance fundraising news without a strategy tag. This is a borderline call: if the full article shows the money is mainly buyout or other equity strategies, it should be excluded.",
+            "llmReasonZh": "该文章报道了TPG全公司层面创纪录的$55B募资目标。文章未提及具体策略，但TPG的募资总额包含其信贷平台（TPG Angelo Gordon），因此可能与信贷敞口相关。暂列为中等重要性的募资新闻，不标注策略标签。此判断属于临界情况：若全文显示资金主要投向并购或其他股权策略，则应予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.72,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 82,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.63,
+            "finalScore": 7.63,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-7e6aa0471479",
+          "title": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões - TradingKey",
+          "titleZh": "TPG 3T26业绩电话会：募资指引上调至逾550亿美元 - TradingKey",
+          "summary": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+          "summaryZh": "TPG 3T26业绩电话会：募资指引上调至逾550亿美元 TradingKey",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZTRuYVdvdndxTVIzS0ktdU1YOXhMMDc3SkYxQUgxUGRuWFRrSUZlQTR2TFFuU1czMHA2VjZaclRQdE8ydENqMkQwc0ZBRHdHbUNGZjlDRW04SGdmejRpZ0s3MERQOURBaUVuTkhqOE1ONTVzVFE?oc=5",
+          "source": "TradingKey",
+          "publishedAt": "2026-10-29",
+          "lede": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+          "articleExcerpt": "Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões - TradingKey. Teleconferência de Resultados do 3T26 da TPG: Guidance de Captação de Recursos Elevado para Mais de US$ 55 Bilhões TradingKey",
+          "contentFingerprint": "c63a05889f9ecf49",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "The article covers TPG's earnings call, where the firm raised its firm-wide fundraising guidance to over $55B. The text gives no credit-specific detail. TPG's credit platform (Angelo Gordon) likely contributes to that figure, so the item is kept as general manager and fundraising news. No strategy tag applies, and importance is moderate.",
+            "llmReasonZh": "该文章报道了TPG的业绩电话会，公司在会上将全公司募资指引上调至逾550亿美元。文中未提供信贷相关的具体细节。TPG的信贷平台（Angelo Gordon）可能对该数字有所贡献，因此该条目作为一般性管理人及募资新闻予以保留。不适用任何策略标签，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.17,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.35
+              },
+              "event": {
+                "value": 0.6,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingKey"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.18,
+            "finalScore": 7.18,
             "semanticEnabled": true
           }
         },
@@ -95902,6 +97854,98 @@
             "finalScore": 25.37,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-10-29-5e5bfc82e4fd",
+          "title": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically - Idéal Investisseur",
+          "titleZh": "CVC Capital Partners：收费管理资产规模达€177bn（+24%），有机增长11% - Idéal Investisseur",
+          "summary": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+          "summaryZh": "CVC Capital Partners：收费管理资产规模达€177bn（+24%），有机增长11% Idéal Investisseur",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTnRJcGI4WnU2THJfZ0xlSzlLdlgtdTZlQUU0WU41b0ZPQzAtdlh1T0pQaDdxMHNWX1pLdUJCLVdBbUtDR1Y3VUxjTUx6SFFRZEpHYm0zTlBQanlab0dGOWRDMGtqQ0FNdXFJdEhURVRpdnFGSlVRdFNXUjdwUUU1TnpqYVBheW9Yb3lwT1AtamZzN3VnQWdtOXpvVmpyOEU2cWtFeVdGbUgybEh5UVVzSEdXMW9IcFRQYUpUSFM3Y05yMEE3X3hRS011UlFySWtvZ3lCdGMtRWpvR3dsaEVsSldxMA?oc=5",
+          "source": "Idéal Investisseur",
+          "publishedAt": "2026-10-29",
+          "lede": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+          "articleExcerpt": "CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically - Idéal Investisseur. CVC Capital Partners: Assets under management generating fees at €177bn (+24%), +11% organically Idéal Investisseur",
+          "contentFingerprint": "52079d3c988b0870",
+          "region": "Global",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "This is firm-wide CVC AUM/fee-paying AUM growth news (€177bn, +24%). It is routine manager news covering all strategies, including CVC Credit, and is relevant to the credit franchise, but nothing credit-specific is mentioned. No financing, fundraising close or lawsuit.",
+            "llmReasonZh": "这是关于CVC全公司管理资产规模/收费管理资产规模增长的新闻（€177bn，+24%）。该消息属于涵盖所有策略（包括CVC Credit）的常规管理人新闻，与其信贷业务相关，但未提及任何信贷相关的具体内容。不涉及融资、募资关账或诉讼。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Idéal Investisseur"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-10-29T23:48:52.645738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.52,
+            "finalScore": 8.52,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -95909,7 +97953,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 50,
+      "count": 61,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -95917,7 +97961,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -95930,7 +97974,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -95943,12 +97987,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 13,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -95956,7 +98000,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -95969,7 +98013,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -95982,7 +98026,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -95995,7 +98039,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -96008,7 +98052,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
@@ -96021,12 +98065,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 92,
+      "count": 93,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -96034,12 +98078,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 49,
+      "count": 50,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -96047,12 +98091,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 26,
+      "count": 16,
       "selected": 4,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -96060,12 +98104,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 5,
+      "count": 4,
       "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -96073,25 +98117,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 23,
-      "selected": 3,
+      "count": 21,
+      "selected": 4,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 56,
+      "count": 54,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -96099,12 +98143,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 509,
+      "count": 512,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -96118,9 +98162,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-29T19:59:32.039884+00:00",
+      "asOf": "2026-10-29T23:48:52.645738+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-29T19:59:32.039884+00:00"
+  "checkedAt": "2026-10-29T23:48:52.645738+00:00"
 }
