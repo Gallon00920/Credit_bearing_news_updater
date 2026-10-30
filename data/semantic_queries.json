@@ -157,15 +157,16 @@
       ]
     },
     "PAG": {
-      "promptHash": "8b0820f75d3f1e344a3eb84441fc8fabc77af5d5",
+      "promptHash": "392fc82ef2bb4345e62ff288b180cc66cca60bd8",
+      "model": "claude-opus-5-5",
       "relevant": [
-        "PAG’s credit arm closes a $1.2 billion senior secured direct lending fund focused on mid-market U.S. companies, with commitments from institutional investors and a target yield of 10–12%.",
-        "A PAG-managed CLO (Collateralized Loan Obligation) issues its seventh tranche of AAA-rated notes to refinance maturing debt and expand exposure to broadly syndicated leveraged loans.",
-        "PAG provides a $450 million asset-based revolving credit facility to a manufacturing company, secured by inventory and receivables, as part of a broader refinancing initiative."
+        "An article reporting that PAG's private credit business provided or led a direct loan, unitranche, mezzanine or structured financing to a company, often in Asia-Pacific markets such as India, China, Australia, Korea or Japan. Examples include a special-situations loan, an acquisition financing package, or a refinancing of existing debt.",
+        "News about PAG raising, closing or deploying capital in a credit-focused vehicle, such as a new Asia private credit fund, a performing or special-situations credit strategy, or a separately managed lending mandate. The same applies to hires and departures within its credit or lending team.",
+        "Coverage of PAG's asset-based or structured-finance activity. This includes financing secured by real estate, receivables, consumer loans, NPL portfolios or other collateral, as well as CLO, securitization or portfolio-financing transactions. It also covers a real estate or infrastructure deal where PAG acts specifically as the lender or debt provider rather than the equity owner."
       ],
       "notRelevant": [
-        "PAG acquires a majority stake in a Southeast Asian logistics park operator through its infrastructure equity platform — no debt financing, loan origination, or credit structuring involved.",
-        "PAG announces the sale of its controlling interest in a European hotel portfolio via a private equity real estate transaction — purely an equity disposition with no associated lending, credit facility, or structured finance component."
+        "An article about PAG's private equity arm acquiring, investing equity in, or exiting a portfolio company through a buyout, IPO or trade sale, with no credit or lending component. Examples include PAG buying a controlling stake in a consumer brand or selling a business to a strategic buyer.",
+        "News on PAG's real estate or infrastructure equity activity, such as purchasing an office tower, logistics park or data center as owner, or selling an infrastructure asset. It also covers general firm-level corporate news like IPO plans, leadership changes outside credit, or firmwide AUM milestones that don't specifically address its credit strategies."
       ]
     },
     "Basepoint": {

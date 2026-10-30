@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-30T01:20:48.122655+00:00",
+  "updatedAt": "2026-10-30T04:51:51.615543+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高评级公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下属于更广义的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -90137,6 +90137,110 @@
               "finalScore": 21.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-28-0899dc8065bb",
+            "title": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig - GuruFocus",
+            "titleZh": "KKR Real Estate Finance Trust (KREF) 第三季度每股收益符合预期 - GuruFocus",
+            "summary": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+            "summaryZh": "KKR Real Estate Finance Trust (KREF) 第三季度每股收益符合预期 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDNaTjgwUmVxbjc5T3NlUzJfWVp3aW8tSVZUdnVDYXhoMXV0TDQ4cDVoRFFwS21XTmVydVdpYmVzZDQ5MTF0a2I0Tm9RZWdWWWlhWHVEdHVVemhyWndoTjVyRkN6S1pXNm1ERDkwOHVzWjIwU182RHMzeFlSc1ZTX0MyejN4c0dPMUNGdV9ESVJSVmtEemRma1VwR3gtUnB5M0Z5NXN6X2RkVW9xOTJVYlBtd3lZelBoMjFxclQ2NmlMQQ?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-10-28",
+            "lede": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+            "articleExcerpt": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig - GuruFocus. KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+            "contentFingerprint": "64b1e037f41e7779",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "KREF is KKR's commercial real estate mortgage REIT, which is a credit and lending vehicle. The article is a routine quarterly earnings report (EPS in line) with no financing, lawsuit or fundraising event. Importance sits between routine manager news (0.5) and stock/analyst commentary (0.15).",
+              "llmReasonZh": "KREF 是 KKR 旗下的商业地产抵押贷款 REIT，属于信贷及贷款投资工具。该文章为常规季度业绩报告（每股收益符合预期），未涉及融资、诉讼或募资事件。重要性介于常规管理人新闻（0.5）与股票/分析师评论（0.15）之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.65,
+              "finalScore": 19.65,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -90366,6 +90470,114 @@
               "finalScore": 22.36,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-28-ba53b0ea7c15",
+            "title": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress - Simply Wall St",
+            "titleZh": "3只类似Blackstone、或受益于AI信贷压力的股票 - Simply Wall St",
+            "summary": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+            "summaryZh": "3只类似Blackstone、或受益于AI信贷压力的股票 Simply Wall St",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnJ3MEV4RXEyUWJUZ1p4NGljbndHVkdfc0lucEJWM2RZcFF3YU9UX1dlMXNadGh1OWppMkhkaW9uSU5YS0FNOG5hRXRidzBDVFltVXI5c0xCQjlmekFMaGk4SzhMMkdJcE8xLVNzRVRNV2pGSVo2ZFpxRkN4SXFWSTkzS3RDUzNXY3NJSU9PbjV3TXV2b0lKOE00Yk1zTXlsZmNzMXlITVVLbmljVnBSMFZxQS1QaU5ZNUZEZThEWTBoejNqU19jZjNBQ01yMEZ0SEhRYzNQbDdRSFhfN2E00gHkAUFVX3lxTE9kLVZiMmNPMElvVlVpSXBwRlhrVjAxTW9JNnVqY29NSDBhLTl6TWJuX2hBeS1fYWc0cC1wRGszck5KMzMzRkxiOWJuRGJULWZJdzhvekZVcUpjZFJPc0tFQWM3QlRTYk9kRmVnS3NQTnpmbjB6N1hwMXdiVHlDNlczSUkweEpfWXBIVXJES0pvQ3lLTndjSmhUeC0wYXgyNnlXZWR4U0gtdGhmWkFNYmtobTJybHNDdlBzZDJmRHVNbWtLeWxrbDNGUzFwcjFoUW5BUFZtZFYzYnZxemxiTHlaRUFkYg?oc=5",
+            "source": "Simply Wall St",
+            "publishedAt": "2026-10-28",
+            "lede": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+            "articleExcerpt": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress - Simply Wall St. 3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+            "contentFingerprint": "07b6b603d4d69263",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock-picking piece from Simply Wall St that names Blackstone in the context of AI-related credit stress. It touches credit, but it is analyst and stock commentary with no specific transaction or event, so importance is low.",
+              "llmReasonZh": "Simply Wall St的选股文章，在AI相关信贷压力的背景下提及Blackstone。文章涉及信贷话题，但属于分析师及股票评论，未涉及具体交易或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Simply Wall St"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.22,
+              "finalScore": 22.22,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -90476,9 +90688,9 @@
           {
             "id": "2026-10-28-eb3c337c3377",
             "title": "State Street Advances Daily NAV Capabilities for Private Markets Strategies in Support of Apollo's Daily Pricing Initiative - Yahoo Finance",
-            "titleZh": "State Street提升私募市场策略每日资产净值能力，支持Apollo每日定价计划 - Yahoo Finance",
+            "titleZh": "State Street提升私募市场策略每日NAV能力，支持Apollo每日定价计划 - Yahoo Finance",
             "summary": "State Street Advances Daily NAV Capabilities for Private Markets Strategies in Support of Apollo's Daily Pricing Initiative Yahoo Finance",
-            "summaryZh": "State Street提升私募市场策略每日资产净值（NAV）能力，支持Apollo每日定价计划 Yahoo Finance",
+            "summaryZh": "State Street提升私募市场策略每日NAV能力，支持Apollo每日定价计划 Yahoo Finance",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDVfUDI0WHVnUTR3Z0ZWa2k0a3VoWmhKLUlYREIxOXhpbjJmQmhpWjlsYmcwQmlsSUhWUzlXR3R0M0YzcEFLbmVrYW4wXzc2TXNlQkJ6aldocFBSNFJHV1ZfNWplSFZFQk5zbEFCXzltdndRekFtQlhQVHRzUWZFTFM5THloN3VJUGpIbXZPZUNQTE51RE5sbFFTNkM?oc=5",
             "source": "Yahoo Finance",
@@ -90490,30 +90702,38 @@
             "gps": [
               "Apollo"
             ],
-            "sectors": [],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
               "keywordGps": [
                 "Apollo"
               ],
-              "llmGps": [],
-              "keywordSectors": [],
-              "llmSectors": [],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
               "llmExclude": false,
-              "llmReason": "LLM classification unavailable at runtime",
-              "llmReasonZh": "运行时无法使用LLM分类"
+              "llmReason": "State Street is building daily NAV capabilities to support Apollo's daily pricing initiative for private markets products. Apollo's private markets vehicles are largely credit and private-credit focused, so this is relevant credit-adjacent operational news. It is not a financing, fundraising or lawsuit event, so it scores as routine manager news.",
+              "llmReasonZh": "State Street正在构建每日NAV能力，以支持Apollo针对私募市场产品的每日定价计划。Apollo的私募市场工具主要聚焦信贷及私募信贷，因此这是一条与信贷相关的运营类新闻。该事件不涉及融资、募资或诉讼，因此被评为常规管理人新闻。"
             },
-            "scoreBreakdown": {
-              "keywordScore": 11,
-              "semanticScore": 5.03,
-              "finalScore": 16.03,
-              "semanticEnabled": true
-            },
-            "strategies": [],
-            "events": [
-              "financing"
-            ],
             "rating": {
               "parts": {
                 "institution": {
@@ -90524,19 +90744,22 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.21,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
-                  "semanticValue": 0.42
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
                 },
                 "event": {
-                  "value": 0.7,
+                  "value": 0.6,
                   "code": "financing",
                   "ruleValue": 0.7,
                   "events": [
                     "financing"
-                  ]
+                  ],
+                  "llmValue": 0.5
                 },
                 "source": {
                   "value": 0.25,
@@ -90545,7 +90768,8 @@
                 },
                 "freshness": {
                   "value": 0.8,
-                  "code": "estimated"
+                  "code": "within_7d",
+                  "days": 1.7
                 }
               },
               "weights": {
@@ -90555,8 +90779,14 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 60,
-              "retrievedAt": "2026-10-29T09:02:01.604390+00:00"
+              "score": 61,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.74,
+              "finalScore": 19.740000000000002,
+              "semanticEnabled": true
             }
           },
           {
@@ -90639,6 +90869,419 @@
               },
               "score": 47,
               "retrievedAt": "2026-10-29T09:02:01.604813+00:00"
+            }
+          },
+          {
+            "id": "2026-10-28-08901f75737b",
+            "title": "Ares and Apollo embrace new private-credit alchemy - TradingView",
+            "titleZh": "Ares与Apollo拥抱私募信贷新“炼金术” - TradingView",
+            "summary": "Ares and Apollo embrace new private-credit alchemy TradingView",
+            "summaryZh": "Ares与Apollo拥抱私募信贷新“炼金术” TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3VXOTN6MWNZdl94UWFNVWJ6VVotU21seXVkNWFTSHo0cldybElUZFo1a3VpbHdUTDJrcWU2ckJNbWhJMXhiVHVZQWk2YUtXSHF3a3Q3c0NFdVJ5RmRJOHZEelJRM2JWWFQ3NVpGblZxWXFVMXZZNFVBczUyVUs0Ulc4bktMXzV2NjlIRC1vUWZWRnNwVUo0UHZRT0lFV3VmamtHWmg4YU5obE94NmVfd05HZ3E1ZF8weHkwMw?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-28",
+            "lede": "Ares and Apollo embrace new private-credit alchemy TradingView",
+            "articleExcerpt": "Ares and Apollo embrace new private-credit alchemy - TradingView. Ares and Apollo embrace new private-credit alchemy TradingView",
+            "contentFingerprint": "5b64327e5018d5cd",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The headline describes Apollo, a tracked GP, adopting a new private-credit structuring approach, which is credit-relevant manager news. Ares is not a tracked GP. The article text is only the headline, so no specific financing or fundraising event can be confirmed.",
+              "llmReasonZh": "标题显示，受跟踪的GP Apollo正在采用一种新的私募信贷结构化方式，属于与信贷相关的管理人新闻。Ares不属于受跟踪的GP。该文章正文仅有标题，因此无法确认任何具体的融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.04,
+              "finalScore": 20.04,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-28-06f45278ee5c",
+            "title": "State Street launches daily NAV model for Apollo's private credit funds - StreetInsider",
+            "titleZh": "State Street为Apollo私募信贷基金推出每日资产净值模型 - StreetInsider",
+            "summary": "State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+            "summaryZh": "State Street为Apollo私募信贷基金推出每日资产净值模型 StreetInsider",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWh6LWkyb3BNYjUwNmRyMzlFVzc3NnhCRTRRVEpBVHpsUldmdExBTHlvczJYTHE3S2wwd2VjMEtzbnEyZzNYRENqb1lmZ1pDZXMzZ2JyTWxGc21leTBJazJvQk9EREJ4T3lieE5pQmZ5T29mM2g2RDhDTkZWY3FSd0ZCYlJlVEZ0MDdEeEtDSUFZSDBmXzJEUEctYW8tMTlnMzhjeUFHMXFMMWNRS2hIN0c2ZmtKYm8yOXpvYVpjWi1QU3JpZFZKVw?oc=5",
+            "source": "StreetInsider",
+            "publishedAt": "2026-10-28",
+            "lede": "State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+            "articleExcerpt": "State Street launches daily NAV model for Apollo's private credit funds - StreetInsider. State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+            "contentFingerprint": "2b7e679aafb9d092",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "State Street is launching a daily NAV valuation model for Apollo's private credit funds. This is operational news about Apollo's credit business, not a financing, fundraise or lawsuit, so it counts as routine manager news.",
+              "llmReasonZh": "State Street正为Apollo旗下私募信贷基金推出每日资产净值（NAV）估值模型。此为有关Apollo信贷业务的运营类新闻，不涉及融资、募资或诉讼，因此属于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "StreetInsider"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.94,
+              "finalScore": 19.94,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-28-5298067413d4",
+            "title": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion - https://internationalfinance.com/",
+            "titleZh": "Apollo入股Mubadala Capital，投资者承诺出资50亿美元 - https://internationalfinance.com/",
+            "summary": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+            "summaryZh": "Apollo入股Mubadala Capital，投资者承诺出资50亿美元 https://internationalfinance.com/",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXJLNUJHRVJlQXNDdDhhY1UwWXgxeHRXQnRtc3JuWnBlQzBjODg5anBvRGIta0RsWWFTMkNodDBZRHQ3SW9XclZORzZhVGU4YkYtSkY4TVRrX3NydUphWEhTRElucUVLSFNOMVczTHVhQ3ZMRkFUM01ycDFZOXVFdjRMak9iZHZXakM0elpyQnB5WEh5TGlqRE41aE5sNE81SzdoQWpEczJST0VBZnF1c0lqSDU3TVhoMGdNSkZmS20?oc=5",
+            "source": "https://internationalfinance.com/",
+            "publishedAt": "2026-10-28",
+            "lede": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+            "articleExcerpt": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion - https://internationalfinance.com/. Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+            "contentFingerprint": "83b55c81d0456bc2",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "gp-stakes"
+            ],
+            "sectors": [
+              "gp-stakes"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "gp-stakes"
+              ],
+              "llmEvents": [
+                "fundraising",
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Apollo is taking a stake in asset manager Mubadala Capital, which is a GP-stakes-type deal, and investors are committing $5B in capital. The article text is minimal and names no explicit credit angle. It is kept because Apollo's stake-taking runs through its asset-management and credit platform and Mubadala Capital runs credit strategies, though this link is inferred rather than stated. Moderate importance.",
+              "llmReasonZh": "Apollo正入股资产管理公司Mubadala Capital，属于GP股权类交易，投资者承诺出资50亿美元。文章内容极少，未明确提及任何信贷相关角度。保留该文章是因为Apollo此次入股通过其资产管理及信贷平台进行，且Mubadala Capital运营信贷策略，但这一关联系推断得出，并非文中明确说明。重要性中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "gp-stakes"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "https://internationalfinance.com/"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.55,
+              "finalScore": 19.55,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-28-89053395897a",
+            "title": "State Street expands daily pricing to support Apollo - Alternative Credit Investor",
+            "titleZh": "State Street扩大每日定价服务以支持Apollo - Alternative Credit Investor",
+            "summary": "State Street expands daily pricing to support Apollo Alternative Credit Investor",
+            "summaryZh": "State Street扩大每日定价服务以支持Apollo Alternative Credit Investor",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWlTdHRWaTFVam9fZHFKV0xFVFA5c0owYU1qTXUxaUF6eEpKZmZIWjJYY0dVTzVlajNXcWtEYVJLWTBORDhrS3haRUNpR0pSU1NyYldjSDJFOFQ3SlpCSFgtUXB6VTUxR0hodkZGTnZVdTlydHViUGtzQ05DVENNRkdETWZmWW9NZkItZG8tamxhdW1vU2JTNkphRXRkZThzSllTRQ?oc=5",
+            "source": "Alternative Credit Investor",
+            "publishedAt": "2026-10-28",
+            "lede": "State Street expands daily pricing to support Apollo Alternative Credit Investor",
+            "articleExcerpt": "State Street expands daily pricing to support Apollo - Alternative Credit Investor. State Street expands daily pricing to support Apollo Alternative Credit Investor",
+            "contentFingerprint": "1ddfa0adda0b5228",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "State Street is expanding daily pricing services for Apollo's private credit assets, likely tied to the State Street-Apollo private credit ETF/partnership. This is routine manager and operational news about Apollo's credit business, with no financing, fundraising, or legal event.",
+              "llmReasonZh": "State Street正在扩大针对Apollo私募信贷资产的每日定价服务，此举可能与State Street和Apollo合作的私募信贷ETF/合作伙伴关系有关。这是关于Apollo信贷业务的常规管理人及运营类新闻，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Alternative Credit Investor"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.29,
+              "finalScore": 19.29,
+              "semanticEnabled": true
             }
           }
         ],
@@ -92047,6 +92690,110 @@
           }
         },
         {
+          "id": "2026-10-28-0899dc8065bb",
+          "title": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig - GuruFocus",
+          "titleZh": "KKR Real Estate Finance Trust (KREF) 第三季度每股收益符合预期 - GuruFocus",
+          "summary": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+          "summaryZh": "KKR Real Estate Finance Trust (KREF) 第三季度每股收益符合预期 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDNaTjgwUmVxbjc5T3NlUzJfWVp3aW8tSVZUdnVDYXhoMXV0TDQ4cDVoRFFwS21XTmVydVdpYmVzZDQ5MTF0a2I0Tm9RZWdWWWlhWHVEdHVVemhyWndoTjVyRkN6S1pXNm1ERDkwOHVzWjIwU182RHMzeFlSc1ZTX0MyejN4c0dPMUNGdV9ESVJSVmtEemRma1VwR3gtUnB5M0Z5NXN6X2RkVW9xOTJVYlBtd3lZelBoMjFxclQ2NmlMQQ?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-10-28",
+          "lede": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+          "articleExcerpt": "KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig - GuruFocus. KKR Real Estate Finance Trust (KREF) Reports Q3 EPS in Line, Hig GuruFocus",
+          "contentFingerprint": "64b1e037f41e7779",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "KREF is KKR's commercial real estate mortgage REIT, which is a credit and lending vehicle. The article is a routine quarterly earnings report (EPS in line) with no financing, lawsuit or fundraising event. Importance sits between routine manager news (0.5) and stock/analyst commentary (0.15).",
+            "llmReasonZh": "KREF 是 KKR 旗下的商业地产抵押贷款 REIT，属于信贷及贷款投资工具。该文章为常规季度业绩报告（每股收益符合预期），未涉及融资、诉讼或募资事件。重要性介于常规管理人新闻（0.5）与股票/分析师评论（0.15）之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.65,
+            "finalScore": 19.65,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-28-17dbe2b64de8",
           "title": "How Investors May Respond To Blackstone (BX) Joining $63b AI Financing - Simply Wall Street",
           "titleZh": "黑石（BX）参与630亿美元AI融资，投资者或将如何应对 - Simply Wall Street",
@@ -92267,6 +93014,114 @@
           }
         },
         {
+          "id": "2026-10-28-ba53b0ea7c15",
+          "title": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress - Simply Wall St",
+          "titleZh": "3只类似Blackstone、或受益于AI信贷压力的股票 - Simply Wall St",
+          "summary": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+          "summaryZh": "3只类似Blackstone、或受益于AI信贷压力的股票 Simply Wall St",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnJ3MEV4RXEyUWJUZ1p4NGljbndHVkdfc0lucEJWM2RZcFF3YU9UX1dlMXNadGh1OWppMkhkaW9uSU5YS0FNOG5hRXRidzBDVFltVXI5c0xCQjlmekFMaGk4SzhMMkdJcE8xLVNzRVRNV2pGSVo2ZFpxRkN4SXFWSTkzS3RDUzNXY3NJSU9PbjV3TXV2b0lKOE00Yk1zTXlsZmNzMXlITVVLbmljVnBSMFZxQS1QaU5ZNUZEZThEWTBoejNqU19jZjNBQ01yMEZ0SEhRYzNQbDdRSFhfN2E00gHkAUFVX3lxTE9kLVZiMmNPMElvVlVpSXBwRlhrVjAxTW9JNnVqY29NSDBhLTl6TWJuX2hBeS1fYWc0cC1wRGszck5KMzMzRkxiOWJuRGJULWZJdzhvekZVcUpjZFJPc0tFQWM3QlRTYk9kRmVnS3NQTnpmbjB6N1hwMXdiVHlDNlczSUkweEpfWXBIVXJES0pvQ3lLTndjSmhUeC0wYXgyNnlXZWR4U0gtdGhmWkFNYmtobTJybHNDdlBzZDJmRHVNbWtLeWxrbDNGUzFwcjFoUW5BUFZtZFYzYnZxemxiTHlaRUFkYg?oc=5",
+          "source": "Simply Wall St",
+          "publishedAt": "2026-10-28",
+          "lede": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+          "articleExcerpt": "3 Stocks Like Blackstone That Could Benefit From AI Credit Stress - Simply Wall St. 3 Stocks Like Blackstone That Could Benefit From AI Credit Stress Simply Wall St",
+          "contentFingerprint": "07b6b603d4d69263",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock-picking piece from Simply Wall St that names Blackstone in the context of AI-related credit stress. It touches credit, but it is analyst and stock commentary with no specific transaction or event, so importance is low.",
+            "llmReasonZh": "Simply Wall St的选股文章，在AI相关信贷压力的背景下提及Blackstone。文章涉及信贷话题，但属于分析师及股票评论，未涉及具体交易或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Simply Wall St"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.22,
+            "finalScore": 22.22,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-28-682e89b8cd99",
           "title": "State Street Launches Daily NAV Model for Apollo Private Credit Funds - Securities.io",
           "titleZh": "State Street为Apollo私募信贷基金推出每日NAV模型 - Securities.io",
@@ -92373,9 +93228,9 @@
         {
           "id": "2026-10-28-eb3c337c3377",
           "title": "State Street Advances Daily NAV Capabilities for Private Markets Strategies in Support of Apollo's Daily Pricing Initiative - Yahoo Finance",
-          "titleZh": "State Street提升私募市场策略每日资产净值能力，支持Apollo每日定价计划 - Yahoo Finance",
+          "titleZh": "State Street提升私募市场策略每日NAV能力，支持Apollo每日定价计划 - Yahoo Finance",
           "summary": "State Street Advances Daily NAV Capabilities for Private Markets Strategies in Support of Apollo's Daily Pricing Initiative Yahoo Finance",
-          "summaryZh": "State Street提升私募市场策略每日资产净值（NAV）能力，支持Apollo每日定价计划 Yahoo Finance",
+          "summaryZh": "State Street提升私募市场策略每日NAV能力，支持Apollo每日定价计划 Yahoo Finance",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDVfUDI0WHVnUTR3Z0ZWa2k0a3VoWmhKLUlYREIxOXhpbjJmQmhpWjlsYmcwQmlsSUhWUzlXR3R0M0YzcEFLbmVrYW4wXzc2TXNlQkJ6aldocFBSNFJHV1ZfNWplSFZFQk5zbEFCXzltdndRekFtQlhQVHRzUWZFTFM5THloN3VJUGpIbXZPZUNQTE51RE5sbFFTNkM?oc=5",
           "source": "Yahoo Finance",
@@ -92387,30 +93242,38 @@
           "gps": [
             "Apollo"
           ],
-          "sectors": [],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
             "keywordGps": [
               "Apollo"
             ],
-            "llmGps": [],
-            "keywordSectors": [],
-            "llmSectors": [],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
             "llmExclude": false,
-            "llmReason": "LLM classification unavailable at runtime",
-            "llmReasonZh": "运行时无法使用LLM分类"
+            "llmReason": "State Street is building daily NAV capabilities to support Apollo's daily pricing initiative for private markets products. Apollo's private markets vehicles are largely credit and private-credit focused, so this is relevant credit-adjacent operational news. It is not a financing, fundraising or lawsuit event, so it scores as routine manager news.",
+            "llmReasonZh": "State Street正在构建每日NAV能力，以支持Apollo针对私募市场产品的每日定价计划。Apollo的私募市场工具主要聚焦信贷及私募信贷，因此这是一条与信贷相关的运营类新闻。该事件不涉及融资、募资或诉讼，因此被评为常规管理人新闻。"
           },
-          "scoreBreakdown": {
-            "keywordScore": 11,
-            "semanticScore": 5.03,
-            "finalScore": 16.03,
-            "semanticEnabled": true
-          },
-          "strategies": [],
-          "events": [
-            "financing"
-          ],
           "rating": {
             "parts": {
               "institution": {
@@ -92421,19 +93284,22 @@
                 ]
               },
               "strategy": {
-                "value": 0.21,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
-                "semanticValue": 0.42
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
               },
               "event": {
-                "value": 0.7,
+                "value": 0.6,
                 "code": "financing",
                 "ruleValue": 0.7,
                 "events": [
                   "financing"
-                ]
+                ],
+                "llmValue": 0.5
               },
               "source": {
                 "value": 0.25,
@@ -92442,7 +93308,8 @@
               },
               "freshness": {
                 "value": 0.8,
-                "code": "estimated"
+                "code": "within_7d",
+                "days": 1.7
               }
             },
             "weights": {
@@ -92452,8 +93319,14 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 60,
-            "retrievedAt": "2026-10-29T09:02:01.604390+00:00"
+            "score": 61,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.74,
+            "finalScore": 19.740000000000002,
+            "semanticEnabled": true
           }
         },
         {
@@ -92536,6 +93409,419 @@
             },
             "score": 47,
             "retrievedAt": "2026-10-29T09:02:01.604813+00:00"
+          }
+        },
+        {
+          "id": "2026-10-28-08901f75737b",
+          "title": "Ares and Apollo embrace new private-credit alchemy - TradingView",
+          "titleZh": "Ares与Apollo拥抱私募信贷新“炼金术” - TradingView",
+          "summary": "Ares and Apollo embrace new private-credit alchemy TradingView",
+          "summaryZh": "Ares与Apollo拥抱私募信贷新“炼金术” TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3VXOTN6MWNZdl94UWFNVWJ6VVotU21seXVkNWFTSHo0cldybElUZFo1a3VpbHdUTDJrcWU2ckJNbWhJMXhiVHVZQWk2YUtXSHF3a3Q3c0NFdVJ5RmRJOHZEelJRM2JWWFQ3NVpGblZxWXFVMXZZNFVBczUyVUs0Ulc4bktMXzV2NjlIRC1vUWZWRnNwVUo0UHZRT0lFV3VmamtHWmg4YU5obE94NmVfd05HZ3E1ZF8weHkwMw?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-28",
+          "lede": "Ares and Apollo embrace new private-credit alchemy TradingView",
+          "articleExcerpt": "Ares and Apollo embrace new private-credit alchemy - TradingView. Ares and Apollo embrace new private-credit alchemy TradingView",
+          "contentFingerprint": "5b64327e5018d5cd",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "The headline describes Apollo, a tracked GP, adopting a new private-credit structuring approach, which is credit-relevant manager news. Ares is not a tracked GP. The article text is only the headline, so no specific financing or fundraising event can be confirmed.",
+            "llmReasonZh": "标题显示，受跟踪的GP Apollo正在采用一种新的私募信贷结构化方式，属于与信贷相关的管理人新闻。Ares不属于受跟踪的GP。该文章正文仅有标题，因此无法确认任何具体的融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.04,
+            "finalScore": 20.04,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-28-06f45278ee5c",
+          "title": "State Street launches daily NAV model for Apollo's private credit funds - StreetInsider",
+          "titleZh": "State Street为Apollo私募信贷基金推出每日资产净值模型 - StreetInsider",
+          "summary": "State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+          "summaryZh": "State Street为Apollo私募信贷基金推出每日资产净值模型 StreetInsider",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWh6LWkyb3BNYjUwNmRyMzlFVzc3NnhCRTRRVEpBVHpsUldmdExBTHlvczJYTHE3S2wwd2VjMEtzbnEyZzNYRENqb1lmZ1pDZXMzZ2JyTWxGc21leTBJazJvQk9EREJ4T3lieE5pQmZ5T29mM2g2RDhDTkZWY3FSd0ZCYlJlVEZ0MDdEeEtDSUFZSDBmXzJEUEctYW8tMTlnMzhjeUFHMXFMMWNRS2hIN0c2ZmtKYm8yOXpvYVpjWi1QU3JpZFZKVw?oc=5",
+          "source": "StreetInsider",
+          "publishedAt": "2026-10-28",
+          "lede": "State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+          "articleExcerpt": "State Street launches daily NAV model for Apollo's private credit funds - StreetInsider. State Street launches daily NAV model for Apollo's private credit funds StreetInsider",
+          "contentFingerprint": "2b7e679aafb9d092",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "State Street is launching a daily NAV valuation model for Apollo's private credit funds. This is operational news about Apollo's credit business, not a financing, fundraise or lawsuit, so it counts as routine manager news.",
+            "llmReasonZh": "State Street正为Apollo旗下私募信贷基金推出每日资产净值（NAV）估值模型。此为有关Apollo信贷业务的运营类新闻，不涉及融资、募资或诉讼，因此属于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "StreetInsider"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.94,
+            "finalScore": 19.94,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-28-5298067413d4",
+          "title": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion - https://internationalfinance.com/",
+          "titleZh": "Apollo入股Mubadala Capital，投资者承诺出资50亿美元 - https://internationalfinance.com/",
+          "summary": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+          "summaryZh": "Apollo入股Mubadala Capital，投资者承诺出资50亿美元 https://internationalfinance.com/",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXJLNUJHRVJlQXNDdDhhY1UwWXgxeHRXQnRtc3JuWnBlQzBjODg5anBvRGIta0RsWWFTMkNodDBZRHQ3SW9XclZORzZhVGU4YkYtSkY4TVRrX3NydUphWEhTRElucUVLSFNOMVczTHVhQ3ZMRkFUM01ycDFZOXVFdjRMak9iZHZXakM0elpyQnB5WEh5TGlqRE41aE5sNE81SzdoQWpEczJST0VBZnF1c0lqSDU3TVhoMGdNSkZmS20?oc=5",
+          "source": "https://internationalfinance.com/",
+          "publishedAt": "2026-10-28",
+          "lede": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+          "articleExcerpt": "Apollo takes stake in Mubadala Capital as investors commit USD 5 billion - https://internationalfinance.com/. Apollo takes stake in Mubadala Capital as investors commit USD 5 billion https://internationalfinance.com/",
+          "contentFingerprint": "83b55c81d0456bc2",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "gp-stakes"
+          ],
+          "sectors": [
+            "gp-stakes"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "gp-stakes"
+            ],
+            "llmEvents": [
+              "fundraising",
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Apollo is taking a stake in asset manager Mubadala Capital, which is a GP-stakes-type deal, and investors are committing $5B in capital. The article text is minimal and names no explicit credit angle. It is kept because Apollo's stake-taking runs through its asset-management and credit platform and Mubadala Capital runs credit strategies, though this link is inferred rather than stated. Moderate importance.",
+            "llmReasonZh": "Apollo正入股资产管理公司Mubadala Capital，属于GP股权类交易，投资者承诺出资50亿美元。文章内容极少，未明确提及任何信贷相关角度。保留该文章是因为Apollo此次入股通过其资产管理及信贷平台进行，且Mubadala Capital运营信贷策略，但这一关联系推断得出，并非文中明确说明。重要性中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "gp-stakes"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "https://internationalfinance.com/"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.55,
+            "finalScore": 19.55,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-28-89053395897a",
+          "title": "State Street expands daily pricing to support Apollo - Alternative Credit Investor",
+          "titleZh": "State Street扩大每日定价服务以支持Apollo - Alternative Credit Investor",
+          "summary": "State Street expands daily pricing to support Apollo Alternative Credit Investor",
+          "summaryZh": "State Street扩大每日定价服务以支持Apollo Alternative Credit Investor",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWlTdHRWaTFVam9fZHFKV0xFVFA5c0owYU1qTXUxaUF6eEpKZmZIWjJYY0dVTzVlajNXcWtEYVJLWTBORDhrS3haRUNpR0pSU1NyYldjSDJFOFQ3SlpCSFgtUXB6VTUxR0hodkZGTnZVdTlydHViUGtzQ05DVENNRkdETWZmWW9NZkItZG8tamxhdW1vU2JTNkphRXRkZThzSllTRQ?oc=5",
+          "source": "Alternative Credit Investor",
+          "publishedAt": "2026-10-28",
+          "lede": "State Street expands daily pricing to support Apollo Alternative Credit Investor",
+          "articleExcerpt": "State Street expands daily pricing to support Apollo - Alternative Credit Investor. State Street expands daily pricing to support Apollo Alternative Credit Investor",
+          "contentFingerprint": "1ddfa0adda0b5228",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "State Street is expanding daily pricing services for Apollo's private credit assets, likely tied to the State Street-Apollo private credit ETF/partnership. This is routine manager and operational news about Apollo's credit business, with no financing, fundraising, or legal event.",
+            "llmReasonZh": "State Street正在扩大针对Apollo私募信贷资产的每日定价服务，此举可能与State Street和Apollo合作的私募信贷ETF/合作伙伴关系有关。这是关于Apollo信贷业务的常规管理人及运营类新闻，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "Alternative Credit Investor"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.29,
+            "finalScore": 19.29,
+            "semanticEnabled": true
           }
         },
         {
@@ -93156,6 +94442,110 @@
               "keywordScore": 14,
               "semanticScore": 5.79,
               "finalScore": 19.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-8c9f5781637a",
+            "title": "Blue Owl Beats Fee Estimates as Redemptions Rise - Briefs Finance",
+            "titleZh": "Blue Owl费用收入超预期，赎回压力上升 - Briefs Finance",
+            "summary": "Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+            "summaryZh": "Blue Owl费用收入超预期，赎回压力上升 Briefs Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEFmTmZYX1pNaU80OGZSN0FBSGRNdWsyak1fTG12TFBnaHpzVW9nei1xVVVFVHZCWTN4TE1MVEM2SHlUdUxnaGJ2dUVWLXNXYS1RcGJKdUFPV3lxRmdnYTRCenN1TmNzcms4aEJiN20tOUpKRDNiT01vUk1jS0pjbE1yNWJzT1hQME51R04zdHBhZw?oc=5",
+            "source": "Briefs Finance",
+            "publishedAt": "2026-10-29",
+            "lede": "Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+            "articleExcerpt": "Blue Owl Beats Fee Estimates as Redemptions Rise - Briefs Finance. Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+            "contentFingerprint": "4885da3b03286e5c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blue Owl earnings news citing rising redemptions. Blue Owl's redemption pressure is concentrated in its private credit vehicles (non-traded BDCs), so this is relevant to credit investors. Fee beat is routine, but redemption pressure raises importance.",
+              "llmReasonZh": "Blue Owl财报新闻提及赎回增加。Blue Owl的赎回压力集中于其私募信贷产品（非上市BDC），因此与信贷投资者相关。费用收入超预期属常规情况，但赎回压力提升了该新闻的重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.88,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Briefs Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.82,
+              "finalScore": 19.82,
               "semanticEnabled": true
             }
           }
@@ -95768,6 +97158,110 @@
           }
         },
         {
+          "id": "2026-10-29-8c9f5781637a",
+          "title": "Blue Owl Beats Fee Estimates as Redemptions Rise - Briefs Finance",
+          "titleZh": "Blue Owl费用收入超预期，赎回压力上升 - Briefs Finance",
+          "summary": "Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+          "summaryZh": "Blue Owl费用收入超预期，赎回压力上升 Briefs Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEFmTmZYX1pNaU80OGZSN0FBSGRNdWsyak1fTG12TFBnaHpzVW9nei1xVVVFVHZCWTN4TE1MVEM2SHlUdUxnaGJ2dUVWLXNXYS1RcGJKdUFPV3lxRmdnYTRCenN1TmNzcms4aEJiN20tOUpKRDNiT01vUk1jS0pjbE1yNWJzT1hQME51R04zdHBhZw?oc=5",
+          "source": "Briefs Finance",
+          "publishedAt": "2026-10-29",
+          "lede": "Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+          "articleExcerpt": "Blue Owl Beats Fee Estimates as Redemptions Rise - Briefs Finance. Blue Owl Beats Fee Estimates as Redemptions Rise Briefs Finance",
+          "contentFingerprint": "4885da3b03286e5c",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blue Owl earnings news citing rising redemptions. Blue Owl's redemption pressure is concentrated in its private credit vehicles (non-traded BDCs), so this is relevant to credit investors. Fee beat is routine, but redemption pressure raises importance.",
+            "llmReasonZh": "Blue Owl财报新闻提及赎回增加。Blue Owl的赎回压力集中于其私募信贷产品（非上市BDC），因此与信贷投资者相关。费用收入超预期属常规情况，但赎回压力提升了该新闻的重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.88,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Briefs Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.82,
+            "finalScore": 19.82,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-c92339eaa848",
           "title": "KKR launches private credit secondaries push with $460m continuation vehicle - AltAssets Private Equity News",
           "titleZh": "KKR以4.6亿美元接续基金进军私募信贷二级市场 - AltAssets Private Equity News",
@@ -97948,12 +99442,410 @@
           }
         }
       ]
+    },
+    "2026-10-30": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [
+          {
+            "id": "2026-10-30-1a6ed637f565",
+            "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
+            "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
+            "summary": "TPG Q3 Earnings Call Highlights Yahoo Finance",
+            "summaryZh": "TPG第三季度财报电话会要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb01WeXRGTGJCSDM4SWUxNGxVQTdHZTFUUlFjZ2pDNEdNTGpOV0NmWE02aWlqWERNWHc2MUJQUTJPVmx1QXZseVREUEx4ZTgtb0VPdmQ4RHNRQ1k3bXhuX1pzcnNTb1d6YVZqZjBoQ3EwOEU4M0V6YkZuRHpmQ0hBZWtPaVdndE5uamVNM0FEc2paR2h2YUItSjc3RGU?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG Q3 Earnings Call Highlights Yahoo Finance",
+            "articleExcerpt": "TPG Q3 Earnings Call Highlights - Yahoo Finance. TPG Q3 Earnings Call Highlights Yahoo Finance",
+            "contentFingerprint": "9b6dfd2e47af9d8f",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "The article is TPG's Q3 earnings call highlights, and only the title is available, with no detail on its credit business. Earnings calls for multi-strategy managers usually cover credit platform flows (e.g., Angelo Gordon/TPG credit), so it is kept as routine manager news. Importance is low-moderate because no specific credit event is evident.",
+              "llmReasonZh": "本文为TPG第三季度财报电话会要点，仅有标题可用，未提供其信贷业务的具体信息。多策略管理人的财报电话会通常会涉及信贷平台的资金流动情况（如Angelo Gordon/TPG信贷业务），因此作为常规管理人新闻予以保留。由于未见具体信贷事件，重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.95,
+              "finalScore": 15.95,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-38069e2883ff",
+            "title": "TPG Q3 Earnings Call Highlights - MarketBeat",
+            "titleZh": "TPG第三季度财报电话会议要点 - MarketBeat",
+            "summary": "TPG Q3 Earnings Call Highlights MarketBeat",
+            "summaryZh": "TPG第三季度财报电话会议要点 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3lveW5OYS13cXhvZ1lESlpVRnFfTVZLdWVZOUloVjZvU0VyUzlZUUk1ZlR1VDZ3bURXNjlwb1RYTlhQS21zUGtyYUo0VnlDS0hhWEhRenJscDY5MXNfWTdwaGlsbGotemNlLV9tdEFPN2ZBMi1tbEhjckpmSDBsUUF6cDgxb2phNDI0Q0F4ZEZrM0JRbTIxaGQ5R2c?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG Q3 Earnings Call Highlights MarketBeat",
+            "articleExcerpt": "TPG Q3 Earnings Call Highlights - MarketBeat. TPG Q3 Earnings Call Highlights MarketBeat",
+            "contentFingerprint": "37483f4acf1adea8",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Generic summary of TPG's firm-wide Q3 earnings call. TPG is a tracked GP and its earnings typically cover its credit platform (Angelo Gordon), but the article text gives no credit-specific details, so no strategy or event is tagged. This is routine corporate/earnings news of moderate-low relevance.",
+              "llmReasonZh": "关于TPG全公司第三季度财报电话会议的概括性摘要。TPG是重点跟踪的普通合伙人（GP），其财报通常涵盖其信贷平台（Angelo Gordon），但文章内容未提供信贷相关的具体细节，因此未标记任何策略或事件。此为常规公司/财报新闻，相关性中等偏低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.51,
+              "finalScore": 7.51,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-10-30-1a6ed637f565",
+          "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
+          "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
+          "summary": "TPG Q3 Earnings Call Highlights Yahoo Finance",
+          "summaryZh": "TPG第三季度财报电话会要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb01WeXRGTGJCSDM4SWUxNGxVQTdHZTFUUlFjZ2pDNEdNTGpOV0NmWE02aWlqWERNWHc2MUJQUTJPVmx1QXZseVREUEx4ZTgtb0VPdmQ4RHNRQ1k3bXhuX1pzcnNTb1d6YVZqZjBoQ3EwOEU4M0V6YkZuRHpmQ0hBZWtPaVdndE5uamVNM0FEc2paR2h2YUItSjc3RGU?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG Q3 Earnings Call Highlights Yahoo Finance",
+          "articleExcerpt": "TPG Q3 Earnings Call Highlights - Yahoo Finance. TPG Q3 Earnings Call Highlights Yahoo Finance",
+          "contentFingerprint": "9b6dfd2e47af9d8f",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "The article is TPG's Q3 earnings call highlights, and only the title is available, with no detail on its credit business. Earnings calls for multi-strategy managers usually cover credit platform flows (e.g., Angelo Gordon/TPG credit), so it is kept as routine manager news. Importance is low-moderate because no specific credit event is evident.",
+            "llmReasonZh": "本文为TPG第三季度财报电话会要点，仅有标题可用，未提供其信贷业务的具体信息。多策略管理人的财报电话会通常会涉及信贷平台的资金流动情况（如Angelo Gordon/TPG信贷业务），因此作为常规管理人新闻予以保留。由于未见具体信贷事件，重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.95,
+            "finalScore": 15.95,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-38069e2883ff",
+          "title": "TPG Q3 Earnings Call Highlights - MarketBeat",
+          "titleZh": "TPG第三季度财报电话会议要点 - MarketBeat",
+          "summary": "TPG Q3 Earnings Call Highlights MarketBeat",
+          "summaryZh": "TPG第三季度财报电话会议要点 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3lveW5OYS13cXhvZ1lESlpVRnFfTVZLdWVZOUloVjZvU0VyUzlZUUk1ZlR1VDZ3bURXNjlwb1RYTlhQS21zUGtyYUo0VnlDS0hhWEhRenJscDY5MXNfWTdwaGlsbGotemNlLV9tdEFPN2ZBMi1tbEhjckpmSDBsUUF6cDgxb2phNDI0Q0F4ZEZrM0JRbTIxaGQ5R2c?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG Q3 Earnings Call Highlights MarketBeat",
+          "articleExcerpt": "TPG Q3 Earnings Call Highlights - MarketBeat. TPG Q3 Earnings Call Highlights MarketBeat",
+          "contentFingerprint": "37483f4acf1adea8",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Generic summary of TPG's firm-wide Q3 earnings call. TPG is a tracked GP and its earnings typically cover its credit platform (Angelo Gordon), but the article text gives no credit-specific details, so no strategy or event is tagged. This is routine corporate/earnings news of moderate-low relevance.",
+            "llmReasonZh": "关于TPG全公司第三季度财报电话会议的概括性摘要。TPG是重点跟踪的普通合伙人（GP），其财报通常涵盖其信贷平台（Angelo Gordon），但文章内容未提供信贷相关的具体细节，因此未标记任何策略或事件。此为常规公司/财报新闻，相关性中等偏低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-10-30T03:38:17.702601+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.51,
+            "finalScore": 7.51,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 61,
+      "count": 51,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -97961,7 +99853,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -97974,7 +99866,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -97987,7 +99879,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98000,7 +99892,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98013,12 +99905,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 12,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -98026,7 +99918,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98039,7 +99931,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98052,25 +99944,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 28,
-      "selected": 3,
+      "count": 27,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 93,
+      "count": 70,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -98078,7 +99970,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98091,7 +99983,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98104,7 +99996,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
@@ -98117,12 +100009,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 21,
+      "count": 20,
       "selected": 4,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -98130,12 +100022,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 54,
+      "count": 29,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -98143,12 +100035,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 512,
+      "count": 496,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -98162,9 +100054,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-29T23:48:52.645738+00:00",
+      "asOf": "2026-10-30T03:38:17.702601+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-29T23:48:52.645738+00:00"
+  "checkedAt": "2026-10-30T03:38:17.702601+00:00"
 }
