@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-31T19:59:59.234813+00:00",
+  "updatedAt": "2026-10-31T23:10:41.119340+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体而言为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为核心的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -105585,6 +105585,98 @@
               "finalScore": 7.74,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-ba9a88847011",
+            "title": "Apollo Global Issues Furnished Regulation FD Disclosure Update - TipRanks",
+            "titleZh": "Apollo Global提交Regulation FD披露更新 - TipRanks",
+            "summary": "Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+            "summaryZh": "Apollo Global提交Regulation FD披露更新 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTJnSHNiVkVGU3ZIVWx0T1lvS2xsSy1yRXVUMVVaQWFLdjk3OFNLNnNGMXE3dUJDYkJmUjV5QlR0QjZNTUFVeC1PcF8yYUtqcFdhcHZGOHBaWWZmTnlTZXNxaWdtTDNTV2pibWtYMnF1MTFDS1hWTTEwNG11eFF5QjFQUVE5ZkFUTjRiZTJqMFBBVU10YmlaNk5mOTg2TGxpZWxDN05KV3RFb01pWUkyV3pYQnQ?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-10-30",
+            "lede": "Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+            "articleExcerpt": "Apollo Global Issues Furnished Regulation FD Disclosure Update - TipRanks. Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+            "contentFingerprint": "c9b19886bfed50ba",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Apollo Global Management (the tracked manager, not an unrelated name) furnished a Regulation FD disclosure. The article gives no detail on the content, so no credit strategy or event can be confirmed. It is routine corporate and investor-relations news of low importance, not an excludable non-credit business item.",
+              "llmReasonZh": "Apollo Global Management（所追踪的管理人，而非无关名称）提交了一份Regulation FD披露文件。文章未提供披露内容的具体细节，因此无法确认任何信贷策略或事件。该消息属于重要性较低的常规公司及投资者关系新闻，但并非可排除的非信贷业务事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.49,
+              "finalScore": 15.49,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -109094,6 +109186,98 @@
           }
         },
         {
+          "id": "2026-10-30-ba9a88847011",
+          "title": "Apollo Global Issues Furnished Regulation FD Disclosure Update - TipRanks",
+          "titleZh": "Apollo Global提交Regulation FD披露更新 - TipRanks",
+          "summary": "Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+          "summaryZh": "Apollo Global提交Regulation FD披露更新 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTJnSHNiVkVGU3ZIVWx0T1lvS2xsSy1yRXVUMVVaQWFLdjk3OFNLNnNGMXE3dUJDYkJmUjV5QlR0QjZNTUFVeC1PcF8yYUtqcFdhcHZGOHBaWWZmTnlTZXNxaWdtTDNTV2pibWtYMnF1MTFDS1hWTTEwNG11eFF5QjFQUVE5ZkFUTjRiZTJqMFBBVU10YmlaNk5mOTg2TGxpZWxDN05KV3RFb01pWUkyV3pYQnQ?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-10-30",
+          "lede": "Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+          "articleExcerpt": "Apollo Global Issues Furnished Regulation FD Disclosure Update - TipRanks. Apollo Global Issues Furnished Regulation FD Disclosure Update TipRanks",
+          "contentFingerprint": "c9b19886bfed50ba",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Apollo Global Management (the tracked manager, not an unrelated name) furnished a Regulation FD disclosure. The article gives no detail on the content, so no credit strategy or event can be confirmed. It is routine corporate and investor-relations news of low importance, not an excludable non-credit business item.",
+            "llmReasonZh": "Apollo Global Management（所追踪的管理人，而非无关名称）提交了一份Regulation FD披露文件。文章未提供披露内容的具体细节，因此无法确认任何信贷策略或事件。该消息属于重要性较低的常规公司及投资者关系新闻，但并非可排除的非信贷业务事项。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.49,
+            "finalScore": 15.49,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-1a6ed637f565",
           "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
           "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
@@ -110213,7 +110397,223 @@
     },
     "2026-10-31": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-10-31-c3b5fc16d790",
+            "title": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Capital Corporation (OBDC) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+            "summary": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "Blue Owl Capital Corporation (OBDC) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZHl0VFJ6LXROSlZiUlJQVXNaVjdyZzlUQjhqTThpdkVwM1lvWmtlUmVXeEs1d1AwME9SaDZheHBEVXp3dmxZT2xRUEtXNWNFckE?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "119fb7c1d87816ba",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic stock quote page for Blue Owl Capital Corporation (OBDC), Blue Owl's BDC (private credit vehicle). It is stock-price content only, with no substantive news, so importance is low.",
+              "llmReasonZh": "Blue Owl Capital Corporation (OBDC) 的通用股票报价页面，该公司为Blue Owl旗下的BDC（私募信贷工具）。内容仅为股价信息，无实质性新闻，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.57,
+              "finalScore": 20.57,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-c5315fa8e4b5",
+            "title": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors - Yahoo Finance",
+            "titleZh": "创纪录募资将如何影响Blue Owl Capital股票（OWL）投资者 - Yahoo Finance",
+            "summary": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+            "summaryZh": "创纪录募资将如何影响Blue Owl Capital股票（OWL）投资者 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmw0ZFZpTlJpTTB4UGZkZWNYRTdJQ3N6R0hJalRGM0RLdmJJYUFQTlhCaDZmUk0wR1NPUE54YU5tLXJpcTlOcFkzbVc2d2NFMGcyMmRFNDZNSkJ0WHBvZlgtd3FyWWR0aVJfbEhGUUhKSHFfbW41c3R4cGJZU3owNnk0Nldvb3NMU1RzaVRkdWtBUEFxeTFGOTNXZ2JLMkFK?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-31",
+            "lede": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+            "articleExcerpt": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors - Yahoo Finance. How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+            "contentFingerprint": "4fb5d017b565a3c8",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance stock-angle commentary on Blue Owl (OWL) record fundraising. Blue Owl's fundraising is largely credit-driven, so it is relevant, but the piece is investor/stock commentary with no specific fund close details, so importance is low.",
+              "llmReasonZh": "Yahoo Finance从股票角度评论Blue Owl（OWL）创纪录募资。Blue Owl的募资主要由信贷业务驱动，因此具有相关性，但该文章属于面向投资者的股票评论，未提供具体基金募集完成细节，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.48,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.32,
+              "finalScore": 20.32,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-10-31-12b0f956d6d9",
@@ -110316,6 +110716,322 @@
               "keywordScore": 14,
               "semanticScore": 5.35,
               "finalScore": 19.35,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-647322d4a3df",
+            "title": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs - Traders Union",
+            "titleZh": "Carlyle、KKR与Oaktree拟收购折价美国杠杆贷款用于CLO - Traders Union",
+            "summary": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+            "summaryZh": "Carlyle、KKR与Oaktree拟收购折价美国杠杆贷款用于CLO Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWxPV3oxMmZ3TzNPYTJSb09lYXpmek84dTNtdFh6cjZybWU0SlkwclJ0RVNZSEI2NUF1Z0dzdmtiLVFGM0NnX1A1SjBQZkozVl9uWkhBTEhrYWN0QVpnVzJNVEVnU3c1dVN2bWFUa1dPVmN4V3ZiUlkzdm5Kd3FWc3RYcnZTaEpsOUF1Sjl5cXJrcG1aczVlV1VB?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-10-31",
+            "lede": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+            "articleExcerpt": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs - Traders Union. Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+            "contentFingerprint": "c8fa90a5e673d979",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "clo"
+            ],
+            "sectors": [
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "clo"
+              ],
+              "titleStrategies": [
+                "clo"
+              ],
+              "llmStrategies": [
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR's credit arm is looking to buy discounted U.S. leveraged loans for its CLOs, which is credit/CLO activity. No specific transaction, fund close or financing is reported, so this is routine manager and market news. Carlyle and Oaktree are not tracked.",
+              "llmReasonZh": "KKR旗下信贷部门正寻求为其CLO收购折价美国杠杆贷款，属于信贷/CLO相关活动。报道未涉及具体交易、基金募集完成或融资事项，因此属于常规的管理人及市场动态。Carlyle和Oaktree不在跟踪范围内。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "clo"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.7,
+              "finalScore": 21.7,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-8716b830215f",
+            "title": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News - TradingView",
+            "titleZh": "Carlyle、KKR、Oaktree准备抢购低价贷款 - Bloomberg News - TradingView",
+            "summary": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+            "summaryZh": "Carlyle、KKR、Oaktree准备抢购低价贷款 - Bloomberg News TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGxwdWR0am1DMHhpWWJQTDZ3ZWdsLWtVVGYzWXFCaFVkdUViT1c4UGFwNThpTjhRMXRrODZBSjl1em9ZQ1lveXI2aGZVWk5nX3FNcFFRdTFJdlpBUWc1ZDVNUDhMMVJRR2xKTGtSRC1sMGgzcG5kODAtRUxhS1AyYW1mbzQ1OEtFcWF5QXlwREZ6MjNCLTNDYVpUWE5pUnFwaGYxa25pdjFDYWJ4ZTh5d2ZJcGpkVXdWV3cta3hYR3Q1clFjU1JMVFBQb2VoRFdweUlKM2xkRGg?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-31",
+            "lede": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+            "articleExcerpt": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News - TradingView. Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+            "contentFingerprint": "e68f67d0a51dca08",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR's credit arm is reported to be preparing to buy discounted loans alongside Carlyle and Oaktree. This is credit market positioning, not a completed transaction, so it is treated as routine manager news. Carlyle and Oaktree are not tracked. The leveraged loan buying fits private credit, though it could also relate to CLOs.",
+              "llmReasonZh": "据报道，KKR旗下信贷部门正准备与Carlyle和Oaktree一同买入折价贷款。此为信贷市场布局动向，而非已完成的交易，因此作为常规管理人新闻处理。Carlyle和Oaktree不在跟踪范围内。买入杠杆贷款符合私募信贷范畴，但也可能与CLO相关。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.44,
+              "finalScore": 19.44,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-f27eb252acd4",
+            "title": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Livemint",
+            "titleZh": "Carlyle、KKR准备抄底折价贷款 - Livemint",
+            "summary": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+            "summaryZh": "Carlyle、KKR准备抄底折价贷款 Livemint",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlRSMEZ6U2R0QmYyVjU2SlZieThNS1dUblZ5eFBsQUVSOXdnZGdFVVU2UHpFOFpQZWxwb2o0Y1VxOE41TkFrSDRNLUU3bVpTUlZmV3BXSlFCcHM2UHVFYjd0VXotZU8tXzdma0JDaWRuWF9VT2MtMzFLcUVJUmllNWxJZ1FOMVUzYi1ZcElEQzhBUmFOb3JSMzJPZ05GQjBieEHSAacBQVVfeXFMTlRTcXoxV3RiQUJISUdxRHRkZ2NxUUdwWW1rc2o1UjNBdEVScTAtY0FTNkFobEkxS1pMNFFuU3drMFdrNVBKU0p0eUVUUjU0R2RjYmhmX2xjS3dSV2xuUWkzQXhTMnFKS0V1Z3RUbGVPbjB0QW50dzZXTEFIZTNQUzlVNlRDNm5kQmRCdk1YQThOWmlUaENiZmRIMGhkZ3B0eHVrdmZveUE?oc=5",
+            "source": "Livemint",
+            "publishedAt": "2026-10-31",
+            "lede": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+            "articleExcerpt": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Livemint. Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+            "contentFingerprint": "ee15339b9ddcc7b9",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article covers KKR (with Carlyle, which is not tracked) getting ready to buy discounted loans. That is credit and loan-market activity, so it belongs under private credit. No specific transaction or fund close is described, so it reads as routine manager or market positioning news.",
+              "llmReasonZh": "该文章报道KKR（与未跟踪的Carlyle一道）准备买入折价贷款。此为信贷及贷款市场活动，因此归入私募信贷类别。文章未描述具体交易或基金募集完成，因此属于常规的管理人或市场布局类新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Livemint"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.39,
+              "finalScore": 19.39,
               "semanticEnabled": true
             }
           }
@@ -110627,6 +111343,118 @@
               "finalScore": 23.14,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-a34e13ff2e29",
+            "title": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? - Yahoo Finance",
+            "titleZh": "AI债务遭降级后，Blackstone (BX)是否面临更大风险？- Yahoo Finance",
+            "summary": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+            "summaryZh": "AI债务遭降级后，Blackstone (BX)是否面临更大风险？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnQ2ZWdlQWRYbTFUSWo4M0czcDdIUUJVeVNLcWktbG0yQW1SbU5nQnQtbTlTcXhQSWVKck1JcVhqUFJha2V4NThTWlRfaHFnbHpRcjhNRW9EY0M2b0pVOHZHbFNvWXdHSGVEZ1NMZDd0RTJGMHlKYWhlczY3Vkc0MWNZTHRFUE5STGc0ZEFpNmJGV29VT3dJWXNJVQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-31",
+            "lede": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+            "articleExcerpt": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? - Yahoo Finance. Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+            "contentFingerprint": "b6fb2d4988ce9518",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Article covers an 'AI debt downgrade' tied to Blackstone, which has a credit/lending angle (AI-related debt exposure). It is framed as Yahoo Finance stock commentary on BX and the text has few details, so importance sits between analyst commentary and a substantive downgrade event. The private-credit tag is inferred from the debt angle rather than stated outright.",
+              "llmReasonZh": "文章涉及与Blackstone相关的“AI债务降级”，具有信贷/贷款角度（AI相关债务敞口）。该文为Yahoo Finance针对BX的股票评论，且文本细节较少，因此其重要性介于分析师评论与实质性降级事件之间。私募信贷标签系根据债务角度推断得出，文中并未明确提及。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.65,
+              "finalScore": 22.65,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -110737,6 +111565,114 @@
               "finalScore": 19.44,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-cd4b8a39829d",
+            "title": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation - Timothy Sykes",
+            "titleZh": "Apollo Commercial Real Estate Finance推进清算，ARI股价下跌 - Timothy Sykes",
+            "summary": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+            "summaryZh": "Apollo Commercial Real Estate Finance推进清算，ARI股价下跌 Timothy Sykes",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUTlUbUx5RHRJSDVSUDRxMXpOdGc0eEdGaFdDTW41SENHUlQ4Qno0alNWVXJ5V25MdWJTcWU4bWlTaE5DZXVHUFBfUVpZdFZZcUlBRDZ6cHZhY2pScEZiU0Y5ZXhCM1hteFg5TTkyMVNRYkVGbkNxSnV4TWR1ZkI0d2tuT05xR0tDM2JNSkk2ZGk?oc=5",
+            "source": "Timothy Sykes",
+            "publishedAt": "2026-10-31",
+            "lede": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+            "articleExcerpt": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation - Timothy Sykes. ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+            "contentFingerprint": "06c29406b24dd378",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "cre"
+              ],
+              "titleStrategies": [
+                "cre"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Apollo Commercial Real Estate Finance (ARI) is Apollo's externally managed commercial mortgage REIT, part of its CRE credit business. A move to liquidation is a major credit event for that vehicle and matters to investors tracking Apollo credit. The 'stock falls' framing comes from a retail stock-commentary source, but the liquidation itself warrants high importance.",
+              "llmReasonZh": "Apollo Commercial Real Estate Finance（ARI）是Apollo旗下外部管理的商业抵押贷款REIT，隶属其商业地产（CRE）信贷业务。推进清算对该投资载体而言是重大信用事件，对关注Apollo信贷业务的投资者具有重要意义。“股价下跌”的表述来自面向散户的股票评论来源，但清算事件本身值得给予高度重视。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Timothy Sykes"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.17,
+              "finalScore": 20.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -110845,6 +111781,221 @@
       },
       "items": [
         {
+          "id": "2026-10-31-c3b5fc16d790",
+          "title": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Capital Corporation (OBDC) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+          "summary": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "Blue Owl Capital Corporation (OBDC) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZHl0VFJ6LXROSlZiUlJQVXNaVjdyZzlUQjhqTThpdkVwM1lvWmtlUmVXeEs1d1AwME9SaDZheHBEVXp3dmxZT2xRUEtXNWNFckE?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blue Owl Capital Corporation (OBDC) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "119fb7c1d87816ba",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic stock quote page for Blue Owl Capital Corporation (OBDC), Blue Owl's BDC (private credit vehicle). It is stock-price content only, with no substantive news, so importance is low.",
+            "llmReasonZh": "Blue Owl Capital Corporation (OBDC) 的通用股票报价页面，该公司为Blue Owl旗下的BDC（私募信贷工具）。内容仅为股价信息，无实质性新闻，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.57,
+            "finalScore": 20.57,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-c5315fa8e4b5",
+          "title": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors - Yahoo Finance",
+          "titleZh": "创纪录募资将如何影响Blue Owl Capital股票（OWL）投资者 - Yahoo Finance",
+          "summary": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+          "summaryZh": "创纪录募资将如何影响Blue Owl Capital股票（OWL）投资者 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmw0ZFZpTlJpTTB4UGZkZWNYRTdJQ3N6R0hJalRGM0RLdmJJYUFQTlhCaDZmUk0wR1NPUE54YU5tLXJpcTlOcFkzbVc2d2NFMGcyMmRFNDZNSkJ0WHBvZlgtd3FyWWR0aVJfbEhGUUhKSHFfbW41c3R4cGJZU3owNnk0Nldvb3NMU1RzaVRkdWtBUEFxeTFGOTNXZ2JLMkFK?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-31",
+          "lede": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+          "articleExcerpt": "How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors - Yahoo Finance. How Record Fundraising Will Impact Blue Owl Capital Stock (OWL) Investors Yahoo Finance",
+          "contentFingerprint": "4fb5d017b565a3c8",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance stock-angle commentary on Blue Owl (OWL) record fundraising. Blue Owl's fundraising is largely credit-driven, so it is relevant, but the piece is investor/stock commentary with no specific fund close details, so importance is low.",
+            "llmReasonZh": "Yahoo Finance从股票角度评论Blue Owl（OWL）创纪录募资。Blue Owl的募资主要由信贷业务驱动，因此具有相关性，但该文章属于面向投资者的股票评论，未提供具体基金募集完成细节，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.48,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.32,
+            "finalScore": 20.32,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-12b0f956d6d9",
           "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
           "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
@@ -110945,6 +112096,322 @@
             "keywordScore": 14,
             "semanticScore": 5.35,
             "finalScore": 19.35,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-647322d4a3df",
+          "title": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs - Traders Union",
+          "titleZh": "Carlyle、KKR与Oaktree拟收购折价美国杠杆贷款用于CLO - Traders Union",
+          "summary": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+          "summaryZh": "Carlyle、KKR与Oaktree拟收购折价美国杠杆贷款用于CLO Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWxPV3oxMmZ3TzNPYTJSb09lYXpmek84dTNtdFh6cjZybWU0SlkwclJ0RVNZSEI2NUF1Z0dzdmtiLVFGM0NnX1A1SjBQZkozVl9uWkhBTEhrYWN0QVpnVzJNVEVnU3c1dVN2bWFUa1dPVmN4V3ZiUlkzdm5Kd3FWc3RYcnZTaEpsOUF1Sjl5cXJrcG1aczVlV1VB?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-10-31",
+          "lede": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+          "articleExcerpt": "Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs - Traders Union. Carlyle, KKR and Oaktree eye discounted U.S. leveraged loans for CLOs Traders Union",
+          "contentFingerprint": "c8fa90a5e673d979",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "clo"
+          ],
+          "sectors": [
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "clo"
+            ],
+            "titleStrategies": [
+              "clo"
+            ],
+            "llmStrategies": [
+              "clo"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR's credit arm is looking to buy discounted U.S. leveraged loans for its CLOs, which is credit/CLO activity. No specific transaction, fund close or financing is reported, so this is routine manager and market news. Carlyle and Oaktree are not tracked.",
+            "llmReasonZh": "KKR旗下信贷部门正寻求为其CLO收购折价美国杠杆贷款，属于信贷/CLO相关活动。报道未涉及具体交易、基金募集完成或融资事项，因此属于常规的管理人及市场动态。Carlyle和Oaktree不在跟踪范围内。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "clo"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.7,
+            "finalScore": 21.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-8716b830215f",
+          "title": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News - TradingView",
+          "titleZh": "Carlyle、KKR、Oaktree准备抢购低价贷款 - Bloomberg News - TradingView",
+          "summary": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+          "summaryZh": "Carlyle、KKR、Oaktree准备抢购低价贷款 - Bloomberg News TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGxwdWR0am1DMHhpWWJQTDZ3ZWdsLWtVVGYzWXFCaFVkdUViT1c4UGFwNThpTjhRMXRrODZBSjl1em9ZQ1lveXI2aGZVWk5nX3FNcFFRdTFJdlpBUWc1ZDVNUDhMMVJRR2xKTGtSRC1sMGgzcG5kODAtRUxhS1AyYW1mbzQ1OEtFcWF5QXlwREZ6MjNCLTNDYVpUWE5pUnFwaGYxa25pdjFDYWJ4ZTh5d2ZJcGpkVXdWV3cta3hYR3Q1clFjU1JMVFBQb2VoRFdweUlKM2xkRGg?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-31",
+          "lede": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+          "articleExcerpt": "Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News - TradingView. Carlyle, KKR, Oaktree get ready to snatch up bargain loans- Bloomberg News TradingView",
+          "contentFingerprint": "e68f67d0a51dca08",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR's credit arm is reported to be preparing to buy discounted loans alongside Carlyle and Oaktree. This is credit market positioning, not a completed transaction, so it is treated as routine manager news. Carlyle and Oaktree are not tracked. The leveraged loan buying fits private credit, though it could also relate to CLOs.",
+            "llmReasonZh": "据报道，KKR旗下信贷部门正准备与Carlyle和Oaktree一同买入折价贷款。此为信贷市场布局动向，而非已完成的交易，因此作为常规管理人新闻处理。Carlyle和Oaktree不在跟踪范围内。买入杠杆贷款符合私募信贷范畴，但也可能与CLO相关。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.44,
+            "finalScore": 19.44,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-f27eb252acd4",
+          "title": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Livemint",
+          "titleZh": "Carlyle、KKR准备抄底折价贷款 - Livemint",
+          "summary": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+          "summaryZh": "Carlyle、KKR准备抄底折价贷款 Livemint",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlRSMEZ6U2R0QmYyVjU2SlZieThNS1dUblZ5eFBsQUVSOXdnZGdFVVU2UHpFOFpQZWxwb2o0Y1VxOE41TkFrSDRNLUU3bVpTUlZmV3BXSlFCcHM2UHVFYjd0VXotZU8tXzdma0JDaWRuWF9VT2MtMzFLcUVJUmllNWxJZ1FOMVUzYi1ZcElEQzhBUmFOb3JSMzJPZ05GQjBieEHSAacBQVVfeXFMTlRTcXoxV3RiQUJISUdxRHRkZ2NxUUdwWW1rc2o1UjNBdEVScTAtY0FTNkFobEkxS1pMNFFuU3drMFdrNVBKU0p0eUVUUjU0R2RjYmhmX2xjS3dSV2xuUWkzQXhTMnFKS0V1Z3RUbGVPbjB0QW50dzZXTEFIZTNQUzlVNlRDNm5kQmRCdk1YQThOWmlUaENiZmRIMGhkZ3B0eHVrdmZveUE?oc=5",
+          "source": "Livemint",
+          "publishedAt": "2026-10-31",
+          "lede": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+          "articleExcerpt": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Livemint. Carlyle, KKR Get Ready to Snatch Up Bargain Loans Livemint",
+          "contentFingerprint": "ee15339b9ddcc7b9",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "The article covers KKR (with Carlyle, which is not tracked) getting ready to buy discounted loans. That is credit and loan-market activity, so it belongs under private credit. No specific transaction or fund close is described, so it reads as routine manager or market positioning news.",
+            "llmReasonZh": "该文章报道KKR（与未跟踪的Carlyle一道）准备买入折价贷款。此为信贷及贷款市场活动，因此归入私募信贷类别。文章未描述具体交易或基金募集完成，因此属于常规的管理人或市场布局类新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Livemint"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.39,
+            "finalScore": 19.39,
             "semanticEnabled": true
           }
         },
@@ -111247,6 +112714,118 @@
           }
         },
         {
+          "id": "2026-10-31-a34e13ff2e29",
+          "title": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? - Yahoo Finance",
+          "titleZh": "AI债务遭降级后，Blackstone (BX)是否面临更大风险？- Yahoo Finance",
+          "summary": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+          "summaryZh": "AI债务遭降级后，Blackstone (BX)是否面临更大风险？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnQ2ZWdlQWRYbTFUSWo4M0czcDdIUUJVeVNLcWktbG0yQW1SbU5nQnQtbTlTcXhQSWVKck1JcVhqUFJha2V4NThTWlRfaHFnbHpRcjhNRW9EY0M2b0pVOHZHbFNvWXdHSGVEZ1NMZDd0RTJGMHlKYWhlczY3Vkc0MWNZTHRFUE5STGc0ZEFpNmJGV29VT3dJWXNJVQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-31",
+          "lede": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+          "articleExcerpt": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? - Yahoo Finance. Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade? Yahoo Finance",
+          "contentFingerprint": "b6fb2d4988ce9518",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Article covers an 'AI debt downgrade' tied to Blackstone, which has a credit/lending angle (AI-related debt exposure). It is framed as Yahoo Finance stock commentary on BX and the text has few details, so importance sits between analyst commentary and a substantive downgrade event. The private-credit tag is inferred from the debt angle rather than stated outright.",
+            "llmReasonZh": "文章涉及与Blackstone相关的“AI债务降级”，具有信贷/贷款角度（AI相关债务敞口）。该文为Yahoo Finance针对BX的股票评论，且文本细节较少，因此其重要性介于分析师评论与实质性降级事件之间。私募信贷标签系根据债务角度推断得出，文中并未明确提及。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.65,
+            "finalScore": 22.65,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-4f914f385b63",
           "title": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says - Yahoo Finance",
           "titleZh": "Apollo经济学家：科技行业以外的企业从AI中获得的财务回报为\"零\" - Yahoo Finance",
@@ -111351,6 +112930,114 @@
             "keywordScore": 14,
             "semanticScore": 5.44,
             "finalScore": 19.44,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-cd4b8a39829d",
+          "title": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation - Timothy Sykes",
+          "titleZh": "Apollo Commercial Real Estate Finance推进清算，ARI股价下跌 - Timothy Sykes",
+          "summary": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+          "summaryZh": "Apollo Commercial Real Estate Finance推进清算，ARI股价下跌 Timothy Sykes",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUTlUbUx5RHRJSDVSUDRxMXpOdGc0eEdGaFdDTW41SENHUlQ4Qno0alNWVXJ5V25MdWJTcWU4bWlTaE5DZXVHUFBfUVpZdFZZcUlBRDZ6cHZhY2pScEZiU0Y5ZXhCM1hteFg5TTkyMVNRYkVGbkNxSnV4TWR1ZkI0d2tuT05xR0tDM2JNSkk2ZGk?oc=5",
+          "source": "Timothy Sykes",
+          "publishedAt": "2026-10-31",
+          "lede": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+          "articleExcerpt": "ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation - Timothy Sykes. ARI Stock Falls As Apollo Commercial Real Estate Finance Moves To Liquidation Timothy Sykes",
+          "contentFingerprint": "06c29406b24dd378",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "cre"
+            ],
+            "titleStrategies": [
+              "cre"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Apollo Commercial Real Estate Finance (ARI) is Apollo's externally managed commercial mortgage REIT, part of its CRE credit business. A move to liquidation is a major credit event for that vehicle and matters to investors tracking Apollo credit. The 'stock falls' framing comes from a retail stock-commentary source, but the liquidation itself warrants high importance.",
+            "llmReasonZh": "Apollo Commercial Real Estate Finance（ARI）是Apollo旗下外部管理的商业抵押贷款REIT，隶属其商业地产（CRE）信贷业务。推进清算对该投资载体而言是重大信用事件，对关注Apollo信贷业务的投资者具有重要意义。“股价下跌”的表述来自面向散户的股票评论来源，但清算事件本身值得给予高度重视。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.8,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Timothy Sykes"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-10-31T22:08:01.804634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.17,
+            "finalScore": 20.17,
             "semanticEnabled": true
           }
         },
@@ -111466,12 +113153,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 56,
+      "count": 51,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -111479,7 +113166,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
@@ -111492,7 +113179,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
@@ -111505,7 +113192,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
@@ -111518,12 +113205,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -111531,12 +113218,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 6,
+      "count": 5,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -111544,7 +113231,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
@@ -111557,25 +113244,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 22,
-      "selected": 5,
+      "count": 13,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 94,
+      "count": 69,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -111583,12 +113270,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 30,
+      "count": 49,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -111596,25 +113283,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 15,
-      "selected": 5,
+      "count": 20,
+      "selected": 6,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 10,
+      "count": 12,
       "selected": 3,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -111622,25 +113309,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
       "count": 19,
-      "selected": 4,
+      "selected": 3,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 53,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -111648,7 +113335,7 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     },
     {
@@ -111667,9 +113354,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-31T18:57:57.836017+00:00",
+      "asOf": "2026-10-31T22:08:01.804634+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-31T18:57:57.836017+00:00"
+  "checkedAt": "2026-10-31T22:08:01.804634+00:00"
 }
