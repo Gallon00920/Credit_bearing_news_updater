@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-31T02:23:37.895710+00:00",
+  "updatedAt": "2026-10-31T08:45:57.060047+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为主的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的范畴内属于更广泛的私募信贷/直接贷款领域。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -95859,6 +95859,110 @@
               "finalScore": 19.19,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-249d609a33b5",
+            "title": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+            "titleZh": "KKR Real Estate Finance Trust Inc公布截至9月30日季度业绩 - 业绩摘要 - TradingView",
+            "summary": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+            "summaryZh": "KKR Real Estate Finance Trust Inc公布截至9月30日季度业绩 - 业绩摘要 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGI4SnI0b2xpc2h1TjRMOEVueVFHenVnbXhKcHBsNzA1a3B0VHVEcndpNjA4NEs5dUpGVWk0cG1tY2tyT0NUVkF3NkJKSTZqdnkwYW00SEhXWG1jV3pocllzUElHVFRQSWdYTHllUEtuaHNSX0NOQkxBV0FRVWlXUnROUTNibHZ3TGYyNnBsTXFBLVdjd0pLNHZvN2hfV2xGMWo3THRyUExqUFdZcmRxMzhzU3hqeW5malJRSk8zN2owTWtNaVZCWFRpcTFQZ2U5dHBSYVN2REtLUFZDdjBpYmFMaG9KSFpEUnFINEZJUExBVk12N21vbG5yNlg1RDFZ?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-29",
+            "lede": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView. KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+            "contentFingerprint": "8f2ff8e8ca285222",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending mortgage REIT, so it falls under credit exposure. This is a routine quarterly earnings summary with no financing, fundraising or litigation event.",
+              "llmReasonZh": "KKR Real Estate Finance Trust (KREF)是KKR旗下从事商业地产贷款的抵押贷款REIT，因此属于信贷敞口范畴。本文为常规季度业绩摘要，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.12,
+              "finalScore": 19.12,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -96963,6 +97067,117 @@
               "keywordScore": 17,
               "semanticScore": 5.7,
               "finalScore": 22.7,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-d637e5806f9d",
+            "title": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss - Yahoo Finance",
+            "titleZh": "Blackstone Mortgage Trust第三季度意外录得净亏损 - Yahoo Finance",
+            "summary": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+            "summaryZh": "Blackstone Mortgage Trust第三季度意外录得净亏损 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORE8wNFpRUWprMGQwYlAyVkhWZG11ZkRValh5QWJmV2E0S1ZDX1c3dmtCTmdJellqb0huQWUtTENyYjJ2b0pCQ0dyZjQ5aC04REg1MnJUWjEtRjBIR1hhOGJla203R2dMUThLY1J2Q0FRZ05EcVRWaS1yYjFqOG55aTRoWFZiS2R6Zm9qTFNRbGxtbzB5TE9oc3p3bm51Y1FtaXFsLUd5RU5WZw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-29",
+            "lede": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+            "articleExcerpt": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss - Yahoo Finance. Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+            "contentFingerprint": "a6866830bf7fcc61",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so this is part of its credit business. An unexpected quarterly net loss signals credit deterioration in its CRE loan book, which matters to a credit investor. It is an earnings report, not a financing, fundraising or legal event.",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，属于其信贷业务的一部分。季度意外出现净亏损表明其商业地产贷款组合信用状况恶化，这对信贷投资者具有重要意义。该新闻属于财报发布，而非融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.16,
+              "finalScore": 22.16,
               "semanticEnabled": true
             }
           }
@@ -99699,6 +99914,110 @@
           }
         },
         {
+          "id": "2026-10-29-249d609a33b5",
+          "title": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+          "titleZh": "KKR Real Estate Finance Trust Inc公布截至9月30日季度业绩 - 业绩摘要 - TradingView",
+          "summary": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+          "summaryZh": "KKR Real Estate Finance Trust Inc公布截至9月30日季度业绩 - 业绩摘要 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGI4SnI0b2xpc2h1TjRMOEVueVFHenVnbXhKcHBsNzA1a3B0VHVEcndpNjA4NEs5dUpGVWk0cG1tY2tyT0NUVkF3NkJKSTZqdnkwYW00SEhXWG1jV3pocllzUElHVFRQSWdYTHllUEtuaHNSX0NOQkxBV0FRVWlXUnROUTNibHZ3TGYyNnBsTXFBLVdjd0pLNHZvN2hfV2xGMWo3THRyUExqUFdZcmRxMzhzU3hqeW5malJRSk8zN2owTWtNaVZCWFRpcTFQZ2U5dHBSYVN2REtLUFZDdjBpYmFMaG9KSFpEUnFINEZJUExBVk12N21vbG5yNlg1RDFZ?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-29",
+          "lede": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView. KKR Real Estate Finance Trust Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+          "contentFingerprint": "8f2ff8e8ca285222",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending mortgage REIT, so it falls under credit exposure. This is a routine quarterly earnings summary with no financing, fundraising or litigation event.",
+            "llmReasonZh": "KKR Real Estate Finance Trust (KREF)是KKR旗下从事商业地产贷款的抵押贷款REIT，因此属于信贷敞口范畴。本文为常规季度业绩摘要，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.12,
+            "finalScore": 19.12,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-a6be46c50651",
           "title": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion - Bloomberg.com",
           "titleZh": "CPPIB支持的印度开发商寻求Bain融资以推动扩张 - Bloomberg.com",
@@ -100791,6 +101110,117 @@
             "keywordScore": 17,
             "semanticScore": 5.7,
             "finalScore": 22.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-d637e5806f9d",
+          "title": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss - Yahoo Finance",
+          "titleZh": "Blackstone Mortgage Trust第三季度意外录得净亏损 - Yahoo Finance",
+          "summary": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+          "summaryZh": "Blackstone Mortgage Trust第三季度意外录得净亏损 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORE8wNFpRUWprMGQwYlAyVkhWZG11ZkRValh5QWJmV2E0S1ZDX1c3dmtCTmdJellqb0huQWUtTENyYjJ2b0pCQ0dyZjQ5aC04REg1MnJUWjEtRjBIR1hhOGJla203R2dMUThLY1J2Q0FRZ05EcVRWaS1yYjFqOG55aTRoWFZiS2R6Zm9qTFNRbGxtbzB5TE9oc3p3bm51Y1FtaXFsLUd5RU5WZw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-29",
+          "lede": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+          "articleExcerpt": "Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss - Yahoo Finance. Blackstone Mortgage Trust Reports Unexpected Q3 Net Loss Yahoo Finance",
+          "contentFingerprint": "a6866830bf7fcc61",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, so this is part of its credit business. An unexpected quarterly net loss signals credit deterioration in its CRE loan book, which matters to a credit investor. It is an earnings report, not a financing, fundraising or legal event.",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，属于其信贷业务的一部分。季度意外出现净亏损表明其商业地产贷款组合信用状况恶化，这对信贷投资者具有重要意义。该新闻属于财报发布，而非融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.16,
+            "finalScore": 22.16,
             "semanticEnabled": true
           }
         },
@@ -102486,6 +102916,110 @@
               "finalScore": 20.71,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-2142004dcc00",
+            "title": "Blue Owl private credit redemption requests fall again in Q3 - Alternative Credit Investor",
+            "titleZh": "Blue Owl私募信贷赎回申请第三季度再度下降 - Alternative Credit Investor",
+            "summary": "Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+            "summaryZh": "Blue Owl私募信贷赎回申请第三季度再度下降 Alternative Credit Investor",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX096MUZId0dPMkxhRmgwVThqUUQzaWpmWkNLaF8tSmx6Y0c5V2prUUl0dWRNcXBucWhvUGh2eEdCbmhJVnd6bzhGNFZuZ29TTFBneGFBUGloTENYR0NNandPdlUzSVlXSi1XMEhNRXFIUmdUYkxWcXBMME5OTHBEdWY4OWFHVGJrUG9fUWFTM2RKUF9ybDk0RmotMWI3NThwMEJ5eDBET1kzQWFLV2pN?oc=5",
+            "source": "Alternative Credit Investor",
+            "publishedAt": "2026-10-30",
+            "lede": "Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+            "articleExcerpt": "Blue Owl private credit redemption requests fall again in Q3 - Alternative Credit Investor. Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+            "contentFingerprint": "c5bc79c320c77131",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Covers redemption request trends in Blue Owl's private credit vehicles. This is directly credit-relevant: redemption pressure is a key risk signal, though falling requests mean the pressure is easing. Not a financing, fundraising or lawsuit event.",
+              "llmReasonZh": "报道Blue Owl旗下私募信贷产品的赎回申请趋势。该内容与信贷直接相关：赎回压力是关键风险信号，而赎回申请下降表明压力正在缓解。不属于融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.88,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Alternative Credit Investor"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 88,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.69,
+              "finalScore": 19.69,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -103864,6 +104398,190 @@
               "finalScore": 14.190000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-b83bff70a38b",
+            "title": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane - Apollo Global Management",
+            "titleZh": "走进顾问对话：Holly Goodrich与Stephanie Lane问答 - Apollo Global Management",
+            "summary": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+            "summaryZh": "走进顾问对话：Holly Goodrich与Stephanie Lane问答 Apollo Global Management",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWldrR0xEak9YTlBQNWZTaXVYUlFjeHExV1RwR1MtVWlaTEsxejJNQVNXcDBhb2JPSXo5MUtTeG8zNk5hMGM5dXE2RGgyQ0dsOFdtMjdZb0xhMkxkd1lTd01lTDVRUXRRaDJVWS16cDJZOGNmWmNjV3pQbFlWbjBLU3R1akh1d2thd0tXTzRFaFNzUWRWYTJtdnRJeTdyZWxLZ2VVWUQ1QXBvbE4zU25BN3Q3V2U2RjN1bl9sSk13RXdGdjFfVDZVbXdrYTI4Zw?oc=5",
+            "source": "Apollo Global Management",
+            "publishedAt": "2026-10-30",
+            "lede": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+            "articleExcerpt": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane - Apollo Global Management. Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+            "contentFingerprint": "e286d7efa51533cd",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Apollo-published Q&A with consultants. It is routine manager/thought-leadership content with no specific credit transaction, fundraising or litigation. Apollo's business is predominantly credit, so it is kept but at low importance.",
+              "llmReasonZh": "Apollo发布的顾问问答。该内容属于常规的管理人/思想领导力内容，不涉及具体信贷交易、募资或诉讼。由于Apollo的业务以信贷为主，故予以保留，但重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Apollo Global Management"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.73,
+              "finalScore": 10.73,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-772a42796ca1",
+            "title": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - TradingView",
+            "titleZh": "Apollo即将公布第三季度财报：股价前景如何？ - TradingView",
+            "summary": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+            "summaryZh": "Apollo即将公布第三季度财报：股价前景如何？ TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlg4bnZ0LUF5endmcHdKcWVFdWlSSGhmRXZIZWwwVGdpbDBaYTRMaWpxa1ZrOVBWV2I4OEJmcnN5dW9ObXdJU3NBMmdZd3lfRHF3NkI0VDYzcE1hMHlVLTFsOGVEQXo3QkVJSmhkWDlDTi1OclNHeEhLcTBLeTFKZDlYQS1mVS1vN2Z0eDNMZnNvX2VxNzlzZmpoQ2FnRDNZczhBUmRyN3dQSGVMOU1XalRVaUlfT0hSaU5GSHRUNlk?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-30",
+            "lede": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+            "articleExcerpt": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - TradingView. Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+            "contentFingerprint": "79ff2fa743749013",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Earnings-preview and stock commentary on Apollo Global Management. Apollo's earnings are largely driven by its credit and Athene businesses, but the article gives no specific credit or financing news, so it is stock or analyst commentary of low importance.",
+              "llmReasonZh": "关于Apollo Global Management的财报前瞻及股票评论。Apollo的盈利主要由其信贷业务和Athene业务驱动，但该文章未提供具体的信贷或融资消息，因此属于重要性较低的股票或分析师评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.74,
+              "finalScore": 7.74,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -105212,6 +105930,110 @@
             "keywordScore": 14,
             "semanticScore": 6.71,
             "finalScore": 20.71,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-2142004dcc00",
+          "title": "Blue Owl private credit redemption requests fall again in Q3 - Alternative Credit Investor",
+          "titleZh": "Blue Owl私募信贷赎回申请第三季度再度下降 - Alternative Credit Investor",
+          "summary": "Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+          "summaryZh": "Blue Owl私募信贷赎回申请第三季度再度下降 Alternative Credit Investor",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX096MUZId0dPMkxhRmgwVThqUUQzaWpmWkNLaF8tSmx6Y0c5V2prUUl0dWRNcXBucWhvUGh2eEdCbmhJVnd6bzhGNFZuZ29TTFBneGFBUGloTENYR0NNandPdlUzSVlXSi1XMEhNRXFIUmdUYkxWcXBMME5OTHBEdWY4OWFHVGJrUG9fUWFTM2RKUF9ybDk0RmotMWI3NThwMEJ5eDBET1kzQWFLV2pN?oc=5",
+          "source": "Alternative Credit Investor",
+          "publishedAt": "2026-10-30",
+          "lede": "Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+          "articleExcerpt": "Blue Owl private credit redemption requests fall again in Q3 - Alternative Credit Investor. Blue Owl private credit redemption requests fall again in Q3 Alternative Credit Investor",
+          "contentFingerprint": "c5bc79c320c77131",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Covers redemption request trends in Blue Owl's private credit vehicles. This is directly credit-relevant: redemption pressure is a key risk signal, though falling requests mean the pressure is easing. Not a financing, fundraising or lawsuit event.",
+            "llmReasonZh": "报道Blue Owl旗下私募信贷产品的赎回申请趋势。该内容与信贷直接相关：赎回压力是关键风险信号，而赎回申请下降表明压力正在缓解。不属于融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.88,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "Alternative Credit Investor"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 88,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.69,
+            "finalScore": 19.69,
             "semanticEnabled": true
           }
         },
@@ -106578,6 +107400,190 @@
           }
         },
         {
+          "id": "2026-10-30-b83bff70a38b",
+          "title": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane - Apollo Global Management",
+          "titleZh": "走进顾问对话：Holly Goodrich与Stephanie Lane问答 - Apollo Global Management",
+          "summary": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+          "summaryZh": "走进顾问对话：Holly Goodrich与Stephanie Lane问答 Apollo Global Management",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWldrR0xEak9YTlBQNWZTaXVYUlFjeHExV1RwR1MtVWlaTEsxejJNQVNXcDBhb2JPSXo5MUtTeG8zNk5hMGM5dXE2RGgyQ0dsOFdtMjdZb0xhMkxkd1lTd01lTDVRUXRRaDJVWS16cDJZOGNmWmNjV3pQbFlWbjBLU3R1akh1d2thd0tXTzRFaFNzUWRWYTJtdnRJeTdyZWxLZ2VVWUQ1QXBvbE4zU25BN3Q3V2U2RjN1bl9sSk13RXdGdjFfVDZVbXdrYTI4Zw?oc=5",
+          "source": "Apollo Global Management",
+          "publishedAt": "2026-10-30",
+          "lede": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+          "articleExcerpt": "Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane - Apollo Global Management. Inside the Consultant Conversation: A Q&A with Holly Goodrich and Stephanie Lane Apollo Global Management",
+          "contentFingerprint": "e286d7efa51533cd",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Apollo-published Q&A with consultants. It is routine manager/thought-leadership content with no specific credit transaction, fundraising or litigation. Apollo's business is predominantly credit, so it is kept but at low importance.",
+            "llmReasonZh": "Apollo发布的顾问问答。该内容属于常规的管理人/思想领导力内容，不涉及具体信贷交易、募资或诉讼。由于Apollo的业务以信贷为主，故予以保留，但重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Apollo Global Management"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.73,
+            "finalScore": 10.73,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-772a42796ca1",
+          "title": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - TradingView",
+          "titleZh": "Apollo即将公布第三季度财报：股价前景如何？ - TradingView",
+          "summary": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+          "summaryZh": "Apollo即将公布第三季度财报：股价前景如何？ TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlg4bnZ0LUF5endmcHdKcWVFdWlSSGhmRXZIZWwwVGdpbDBaYTRMaWpxa1ZrOVBWV2I4OEJmcnN5dW9ObXdJU3NBMmdZd3lfRHF3NkI0VDYzcE1hMHlVLTFsOGVEQXo3QkVJSmhkWDlDTi1OclNHeEhLcTBLeTFKZDlYQS1mVS1vN2Z0eDNMZnNvX2VxNzlzZmpoQ2FnRDNZczhBUmRyN3dQSGVMOU1XalRVaUlfT0hSaU5GSHRUNlk?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-30",
+          "lede": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+          "articleExcerpt": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - TradingView. Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? TradingView",
+          "contentFingerprint": "79ff2fa743749013",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Earnings-preview and stock commentary on Apollo Global Management. Apollo's earnings are largely driven by its credit and Athene businesses, but the article gives no specific credit or financing news, so it is stock or analyst commentary of low importance.",
+            "llmReasonZh": "关于Apollo Global Management的财报前瞻及股票评论。Apollo的盈利主要由其信贷业务和Athene业务驱动，但该文章未提供具体的信贷或融资消息，因此属于重要性较低的股票或分析师评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.74,
+            "finalScore": 7.74,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-1a6ed637f565",
           "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
           "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
@@ -107602,7 +108608,112 @@
     "2026-10-31": {
       "byGp": {
         "Blue Owl": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-10-31-12b0f956d6d9",
+            "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
+            "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
+            "summary": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+            "summaryZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjBzdjk5bjY3eXo5dTZVUG9CVmJHZG1IS0pJaERvMFhzUDlIN2hUZE5qb25qSTg2bWg3VnNZUDhWWE10NGt5aV80YW8tUHp0WWE1UVE1dkZqWVQxM2RKV01Td1dWQjNPejN3b2lwZVhkbjRtTlA5SU5RYnd0TVdlcFJDZjBPQ0daLWc3NGJwZWtIM1pyaGw1M29uN25HNHV0VHF2a0kyNy1QOGRFMFhQV3NGZFVacnNsbl9qU0dQVQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-10-31",
+            "lede": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+            "articleExcerpt": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat. KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+            "contentFingerprint": "e847acedb1ddda74",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending REIT, which is credit exposure. This is a routine Q3 earnings call summary with no specific transaction, so importance falls between routine manager news and analyst commentary.",
+              "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是KKR旗下的商业地产贷款REIT，属于信贷敞口。本文为常规的第三季度财报电话会摘要，不涉及具体交易，因此重要性介于常规管理人新闻与分析师评论之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.35,
+              "finalScore": 19.35,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
@@ -107702,7 +108813,104 @@
           }
         ],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-10-31-49a2e6f27f02",
+            "title": "Technical Reactions to BCSF Trends in Macro Strategies - Stock Traders Daily",
+            "titleZh": "宏观策略视角下BCSF走势的技术面反应 - Stock Traders Daily",
+            "summary": "Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+            "summaryZh": "宏观策略视角下BCSF走势的技术面反应 Stock Traders Daily",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFhlYzZRQWJfRnFocUx3M2kxU1J2ZGg5NnNRV1pFVjRDQ0tudGRKMk9zN0haTlo3UnRRYzBudEV1UXowY1l4VzhDSEdKRC1BYjlPeVNrSlVwWlAyRVhnbWVMaEJQXzBJS2JuMmFyWVliZE1ldGxTWXlkYlBGNlVCMFZUOE9yV1Q0T3dJb0U0LU1mbmNKWWdiS09iTER1ZDdRbWJyRUNZM0xGbmpnUU12SVRFSFA3NndDS2F2WkJZXzA1cmZ3YzVOZlFvQzVIUjA?oc=5",
+            "source": "Stock Traders Daily",
+            "publishedAt": "2026-10-31",
+            "lede": "Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+            "articleExcerpt": "Technical Reactions to BCSF Trends in Macro Strategies - Stock Traders Daily. Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+            "contentFingerprint": "94fb63657d076608",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "BCSF is Bain Capital Specialty Finance, a BDC, so this falls under Bain Capital's credit business. The article is stock technical-analysis commentary with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "BCSF即Bain Capital Specialty Finance，是一家业务发展公司（BDC），因此属于Bain Capital的信贷业务范畴。该文章为股票技术分析评论，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.51,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.31
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Stock Traders Daily"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 3.72,
+              "finalScore": 9.72,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [],
         "Apollo": [],
         "TPG": [],
@@ -107711,6 +108919,110 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-10-31-12b0f956d6d9",
+          "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
+          "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
+          "summary": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+          "summaryZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjBzdjk5bjY3eXo5dTZVUG9CVmJHZG1IS0pJaERvMFhzUDlIN2hUZE5qb25qSTg2bWg3VnNZUDhWWE10NGt5aV80YW8tUHp0WWE1UVE1dkZqWVQxM2RKV01Td1dWQjNPejN3b2lwZVhkbjRtTlA5SU5RYnd0TVdlcFJDZjBPQ0daLWc3NGJwZWtIM1pyaGw1M29uN25HNHV0VHF2a0kyNy1QOGRFMFhQV3NGZFVacnNsbl9qU0dQVQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-10-31",
+          "lede": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+          "articleExcerpt": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat. KKR Real Estate Finance Trust Q3 Earnings Call Highlights MarketBeat",
+          "contentFingerprint": "e847acedb1ddda74",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust (KREF) is KKR's commercial real estate lending REIT, which is credit exposure. This is a routine Q3 earnings call summary with no specific transaction, so importance falls between routine manager news and analyst commentary.",
+            "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是KKR旗下的商业地产贷款REIT，属于信贷敞口。本文为常规的第三季度财报电话会摘要，不涉及具体交易，因此重要性介于常规管理人新闻与分析师评论之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.35,
+            "finalScore": 19.35,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-10-31-dec645715bb3",
           "title": "Neuberger Berman High Yield Strategies Fund (NYSEAMERICAN:NHS) Stock Short Interest Jumps 124.2% - MarketBeat",
@@ -107802,6 +109114,102 @@
             "finalScore": 9.96,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-10-31-49a2e6f27f02",
+          "title": "Technical Reactions to BCSF Trends in Macro Strategies - Stock Traders Daily",
+          "titleZh": "宏观策略视角下BCSF走势的技术面反应 - Stock Traders Daily",
+          "summary": "Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+          "summaryZh": "宏观策略视角下BCSF走势的技术面反应 Stock Traders Daily",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFhlYzZRQWJfRnFocUx3M2kxU1J2ZGg5NnNRV1pFVjRDQ0tudGRKMk9zN0haTlo3UnRRYzBudEV1UXowY1l4VzhDSEdKRC1BYjlPeVNrSlVwWlAyRVhnbWVMaEJQXzBJS2JuMmFyWVliZE1ldGxTWXlkYlBGNlVCMFZUOE9yV1Q0T3dJb0U0LU1mbmNKWWdiS09iTER1ZDdRbWJyRUNZM0xGbmpnUU12SVRFSFA3NndDS2F2WkJZXzA1cmZ3YzVOZlFvQzVIUjA?oc=5",
+          "source": "Stock Traders Daily",
+          "publishedAt": "2026-10-31",
+          "lede": "Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+          "articleExcerpt": "Technical Reactions to BCSF Trends in Macro Strategies - Stock Traders Daily. Technical Reactions to BCSF Trends in Macro Strategies Stock Traders Daily",
+          "contentFingerprint": "94fb63657d076608",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "BCSF is Bain Capital Specialty Finance, a BDC, so this falls under Bain Capital's credit business. The article is stock technical-analysis commentary with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "BCSF即Bain Capital Specialty Finance，是一家业务发展公司（BDC），因此属于Bain Capital的信贷业务范畴。该文章为股票技术分析评论，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.51,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.31
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Stock Traders Daily"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-10-31T07:47:40.767792+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 3.72,
+            "finalScore": 9.72,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -107809,7 +109217,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 99,
+      "count": 78,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -107817,12 +109225,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 100,
+      "count": 77,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -107830,7 +109238,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107843,12 +109251,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 14,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -107856,7 +109264,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107869,7 +109277,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107882,7 +109290,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107895,7 +109303,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107908,25 +109316,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 23,
-      "selected": 3,
+      "count": 25,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 94,
+      "count": 76,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -107934,12 +109342,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 51,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -107947,25 +109355,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 17,
-      "selected": 5,
+      "count": 21,
+      "selected": 6,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 9,
+      "count": 10,
       "selected": 3,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -107973,7 +109381,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
@@ -107986,12 +109394,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 27,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -107999,12 +109407,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 314,
+      "count": 307,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -108018,9 +109426,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-31T01:17:57.469950+00:00",
+      "asOf": "2026-10-31T07:47:40.767792+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-31T01:17:57.469950+00:00"
+  "checkedAt": "2026-10-31T07:47:40.767792+00:00"
 }
