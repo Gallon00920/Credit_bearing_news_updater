@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-31T08:45:57.060047+00:00",
+  "updatedAt": "2026-10-31T15:11:16.766054+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为主的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的范畴内属于更广泛的私募信贷/直接贷款领域。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22202,7 +22202,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -97374,6 +97374,106 @@
               "finalScore": 14.379999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-29-3f518b4e4100",
+            "title": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth - The Deal Pipeline",
+            "titleZh": "Behind the Buyouts：Apollo的Scheir谈混合资本增长 - The Deal Pipeline",
+            "summary": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+            "summaryZh": "Behind the Buyouts：Apollo的Scheir谈混合资本增长 The Deal Pipeline",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGstTDVwM3dqZDNYZmhPb1RBOUx0Uy1pSEJqaHF0NGFjcWNWR2xJM2M2TktiYXcwb3RMZVZlWUJTck9hRGJBZFNnWWR6RmEwN09WYkFnUmktX1hYVDJ5a0RQMUZVUS1Ra1pBc2tPTExtTU54OHNJZ0lrNTlXcTFueVBqLThMSWYyTk8zN1RrQzVQcFVrdUNZUkNtT0F0Sms?oc=5",
+            "source": "The Deal Pipeline",
+            "publishedAt": "2026-10-29",
+            "lede": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+            "articleExcerpt": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth - The Deal Pipeline. Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+            "contentFingerprint": "272d549a5b961d4a",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "This is an interview with Apollo's Craig Scheir about the growth of hybrid capital. Hybrid capital means structured equity and debt-like solutions, which sits within Apollo's credit platform. The 'Buyouts' in the title is the publication's series name, not a sign of private-equity buyout content. It is routine manager commentary with no specific transaction, fund close or litigation.",
+              "llmReasonZh": "本文为对Apollo的Craig Scheir的专访，内容涉及混合资本的增长。混合资本指结构化股权及类债务解决方案，属于Apollo信贷平台的业务范畴。标题中的“Buyouts”为该刊物的栏目名称，并不表示文章涉及私募股权收购内容。本文属于常规管理人评论，未涉及具体交易、基金募集完成或诉讼事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Deal Pipeline"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.96,
+              "finalScore": 11.96,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -97948,6 +98048,202 @@
               "keywordScore": 3,
               "semanticScore": 4.86,
               "finalScore": 7.86,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-284fcec2a585",
+            "title": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion - TradingKey",
+            "titleZh": "TPG 2026年第三季度财报电话会：募资指引上调至550亿美元以上 - TradingKey",
+            "summary": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+            "summaryZh": "TPG 2026年第三季度财报电话会：募资指引上调至550亿美元以上 TradingKey",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkZE5LLXFXRTRRR1pqVXJ0dlQ0d0ZxY0lldFRudU1IZFlQUVJaX1p3QnlvYkJkbzNHYTRrclNRckZMd1JyRGVzUE1EUVl1MVE4OG52M1VlVmFud3hwX2tNT1lPX2FaZkNmZVpQT3RvR3F4QQ?oc=5",
+            "source": "TradingKey",
+            "publishedAt": "2026-10-29",
+            "lede": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+            "articleExcerpt": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion - TradingKey. TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+            "contentFingerprint": "97497687e3b51996",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "TPG earnings call raising firm-wide fundraising guidance above $55B. TPG has a credit platform (Angelo Gordon), so firm-level fundraising is relevant, but the article names no specific credit strategy. It is routine manager and earnings news rather than a specific fund close, so importance is moderate.",
+              "llmReasonZh": "TPG在财报电话会上将全公司募资指引上调至550亿美元以上。TPG旗下设有信贷平台（Angelo Gordon），因此公司层面的募资动态具有相关性，但文章未提及具体信贷策略。该消息属于常规的管理人及财报新闻，而非具体基金募集完成，因此重要性中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.68,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingKey"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.7,
+              "finalScore": 7.7,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-29-730581094a07",
+            "title": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben - TradingKey",
+            "titleZh": "TPG 2026年第三季度财报电话会：募资预期上调至逾550亿美元 - TradingKey",
+            "summary": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+            "summaryZh": "TPG 2026年第三季度财报电话会：募资预期上调至逾550亿美元 TradingKey",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Ykt2aUJIZ29PQUpPYnEtQ0p1dVVCS2lOS1lOc2FTamdocm5lcVloZjE0YXhFOTNseV81UDhkNkpocWo0eDJXVjRRRjdpWlNueW55X1NLSlp3YzBpRkVSZlJOb1BiLWFET2U2S2N2eGdkM0F2Z1E?oc=5",
+            "source": "TradingKey",
+            "publishedAt": "2026-10-29",
+            "lede": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+            "articleExcerpt": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben - TradingKey. TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+            "contentFingerprint": "ad9606debe5db5c4",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "TPG's Q3 earnings call raised its firm-wide fundraising forecast to over $55B. This is general manager news, and the snippet does not say how much of the raise is credit (TPG Angelo Gordon) versus PE or other strategies. It is not clearly non-credit, so it is kept at routine importance with no specific strategy tagged.",
+              "llmReasonZh": "TPG在第三季度财报电话会上将全公司募资预期上调至逾550亿美元。此为管理人层面的一般性新闻，摘要未说明募资中有多少属于信贷（TPG Angelo Gordon），多少属于私募股权或其他策略。由于无法明确判定其与信贷无关，故保留为常规重要性，且未标注具体策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingKey"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.46,
+              "finalScore": 7.46,
               "semanticEnabled": true
             }
           }
@@ -101417,6 +101713,106 @@
           }
         },
         {
+          "id": "2026-10-29-3f518b4e4100",
+          "title": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth - The Deal Pipeline",
+          "titleZh": "Behind the Buyouts：Apollo的Scheir谈混合资本增长 - The Deal Pipeline",
+          "summary": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+          "summaryZh": "Behind the Buyouts：Apollo的Scheir谈混合资本增长 The Deal Pipeline",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGstTDVwM3dqZDNYZmhPb1RBOUx0Uy1pSEJqaHF0NGFjcWNWR2xJM2M2TktiYXcwb3RMZVZlWUJTck9hRGJBZFNnWWR6RmEwN09WYkFnUmktX1hYVDJ5a0RQMUZVUS1Ra1pBc2tPTExtTU54OHNJZ0lrNTlXcTFueVBqLThMSWYyTk8zN1RrQzVQcFVrdUNZUkNtT0F0Sms?oc=5",
+          "source": "The Deal Pipeline",
+          "publishedAt": "2026-10-29",
+          "lede": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+          "articleExcerpt": "Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth - The Deal Pipeline. Behind the Buyouts: Apollo's Scheir on Hybrid Capital Growth The Deal Pipeline",
+          "contentFingerprint": "272d549a5b961d4a",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "This is an interview with Apollo's Craig Scheir about the growth of hybrid capital. Hybrid capital means structured equity and debt-like solutions, which sits within Apollo's credit platform. The 'Buyouts' in the title is the publication's series name, not a sign of private-equity buyout content. It is routine manager commentary with no specific transaction, fund close or litigation.",
+            "llmReasonZh": "本文为对Apollo的Craig Scheir的专访，内容涉及混合资本的增长。混合资本指结构化股权及类债务解决方案，属于Apollo信贷平台的业务范畴。标题中的“Buyouts”为该刊物的栏目名称，并不表示文章涉及私募股权收购内容。本文属于常规管理人评论，未涉及具体交易、基金募集完成或诉讼事项。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Deal Pipeline"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.96,
+            "finalScore": 11.96,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-29-51c11412718a",
           "title": "TPG Reports Third Quarter 2026 Results - Yahoo Finance",
           "titleZh": "TPG公布2026年第三季度业绩 - Yahoo Finance",
@@ -101987,6 +102383,202 @@
             "keywordScore": 3,
             "semanticScore": 4.86,
             "finalScore": 7.86,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-284fcec2a585",
+          "title": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion - TradingKey",
+          "titleZh": "TPG 2026年第三季度财报电话会：募资指引上调至550亿美元以上 - TradingKey",
+          "summary": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+          "summaryZh": "TPG 2026年第三季度财报电话会：募资指引上调至550亿美元以上 TradingKey",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkZE5LLXFXRTRRR1pqVXJ0dlQ0d0ZxY0lldFRudU1IZFlQUVJaX1p3QnlvYkJkbzNHYTRrclNRckZMd1JyRGVzUE1EUVl1MVE4OG52M1VlVmFud3hwX2tNT1lPX2FaZkNmZVpQT3RvR3F4QQ?oc=5",
+          "source": "TradingKey",
+          "publishedAt": "2026-10-29",
+          "lede": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+          "articleExcerpt": "TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion - TradingKey. TPG Q3 2026 Earnings Call: Fundraising Guidance Raised Above $55 Billion TradingKey",
+          "contentFingerprint": "97497687e3b51996",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "TPG earnings call raising firm-wide fundraising guidance above $55B. TPG has a credit platform (Angelo Gordon), so firm-level fundraising is relevant, but the article names no specific credit strategy. It is routine manager and earnings news rather than a specific fund close, so importance is moderate.",
+            "llmReasonZh": "TPG在财报电话会上将全公司募资指引上调至550亿美元以上。TPG旗下设有信贷平台（Angelo Gordon），因此公司层面的募资动态具有相关性，但文章未提及具体信贷策略。该消息属于常规的管理人及财报新闻，而非具体基金募集完成，因此重要性中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.68,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingKey"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.7,
+            "finalScore": 7.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-29-730581094a07",
+          "title": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben - TradingKey",
+          "titleZh": "TPG 2026年第三季度财报电话会：募资预期上调至逾550亿美元 - TradingKey",
+          "summary": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+          "summaryZh": "TPG 2026年第三季度财报电话会：募资预期上调至逾550亿美元 TradingKey",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Ykt2aUJIZ29PQUpPYnEtQ0p1dVVCS2lOS1lOc2FTamdocm5lcVloZjE0YXhFOTNseV81UDhkNkpocWo0eDJXVjRRRjdpWlNueW55X1NLSlp3YzBpRkVSZlJOb1BiLWFET2U2S2N2eGdkM0F2Z1E?oc=5",
+          "source": "TradingKey",
+          "publishedAt": "2026-10-29",
+          "lede": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+          "articleExcerpt": "TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben - TradingKey. TPG Q3 2026 Earnings Call: Fundraising-Prognose auf über 55 Milliarden US-Dollar angehoben TradingKey",
+          "contentFingerprint": "ad9606debe5db5c4",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "TPG's Q3 earnings call raised its firm-wide fundraising forecast to over $55B. This is general manager news, and the snippet does not say how much of the raise is credit (TPG Angelo Gordon) versus PE or other strategies. It is not clearly non-credit, so it is kept at routine importance with no specific strategy tagged.",
+            "llmReasonZh": "TPG在第三季度财报电话会上将全公司募资预期上调至逾550亿美元。此为管理人层面的一般性新闻，摘要未说明募资中有多少属于信贷（TPG Angelo Gordon），多少属于私募股权或其他策略。由于无法明确判定其与信贷无关，故保留为常规重要性，且未标注具体策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.65,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingKey"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.46,
+            "finalScore": 7.46,
             "semanticEnabled": true
           }
         },
@@ -103230,6 +103822,110 @@
               "finalScore": 19.240000000000002,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-587d02eb2c66",
+            "title": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call - GuruFocus",
+            "titleZh": "KKR Real Estate Finance Trust Inc (KREF) 2026年第三季度业绩电话会 - GuruFocus",
+            "summary": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+            "summaryZh": "KKR Real Estate Finance Trust Inc (KREF) 2026年第三季度业绩电话会 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPS0wzQ29jUWRwS3lvdWJkT3d5aER0V2JVYnJQX2NBR2Z1MHNRVVU3WWpsSDVIR0VUVjhOTklCZXFEVjZxamFrbUVFZzJnLUQ3UHViV0l0RE9DM0ZXU2o4aTh6c0lMMVE2amFvb29mVEtaYTFuOTJIa0tsZm1YZVFkUFhlbDQwMXVuZFBXQnVqWlhnVDdfWmVnNTdCWXdXY2MxWTZUMlRJdjdmR2dlM1pLaDdHYWZRUHBybVlfTHdtblJHQmw3U193WmhLTHVGNGc4TDV1ZFA4ektKZ0tKakNMSGhiZjdfU0UtZjMzYWcxOTFvd1RuY1ExMWNmRHdpRFpvWHpEbnlhd3RvVC1xNDBBaFFaLUFiV0VFRjNZUUFMMkpUMFZDbGh6a2dEX3l3amV5NVNtZFphbG14cm5Ray1Ia1NBVHQ3dlhocWhYTzgwRTNUVXZ2RUVOWjRtZ09MQlN0eS1GbE1xNXd6bnN0SVVVeGRMdnhrd0lQQXJFTXJ5S2I3cVVYU1U4S3lYTlQ?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-10-30",
+            "lede": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call - GuruFocus. KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+            "contentFingerprint": "97b04e0c5ec848fc",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate mortgage lending REIT, which counts as credit exposure. The item is an earnings call listing with no specific event, so it is routine manager news.",
+              "llmReasonZh": "KKR Real Estate Finance Trust 是 KKR 旗下的商业地产抵押贷款 REIT，属于信贷敞口。该条目为业绩电话会信息，未涉及具体事件，因此属于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.41,
+              "finalScore": 19.41,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -103536,6 +104232,117 @@
               "keywordScore": 9,
               "semanticScore": 4.87,
               "finalScore": 13.870000000000001,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-23cb66e6cb04",
+            "title": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEMzM4MWxSbWJmZXdFR0FvaUw4dHR6eWYzZVRkbmcxcTg5TnlyMzlBS3RJdjg4TTJpUTJQbVlqWktHYmRwUDRfcnJxUkhEZDZlb3VRN0ZNOGFOQTFXY3U1WTV3?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-10-30",
+            "lede": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance UK. Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "11f84368d21b6b4b",
+            "region": "Europe",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance seasonal returns chart page for Bain Capital Specialty Finance (BCSF). BCSF is Bain Capital's publicly traded BDC, so the GP and private-credit tagging are credit-relevant. The page is stock price data only, with no event, so importance is low.",
+              "llmReasonZh": "Yahoo Finance 关于 Bain Capital Specialty Finance (BCSF) 的季节性回报图表页面。BCSF 是 Bain Capital 旗下公开上市的 BDC，因此其普通合伙人（GP）及私募信贷标签与信贷相关。该页面仅包含股价数据，未涉及任何事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.76,
+              "finalScore": 23.759999999999998,
               "semanticEnabled": true
             }
           }
@@ -106246,6 +107053,110 @@
           }
         },
         {
+          "id": "2026-10-30-587d02eb2c66",
+          "title": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call - GuruFocus",
+          "titleZh": "KKR Real Estate Finance Trust Inc (KREF) 2026年第三季度业绩电话会 - GuruFocus",
+          "summary": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+          "summaryZh": "KKR Real Estate Finance Trust Inc (KREF) 2026年第三季度业绩电话会 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPS0wzQ29jUWRwS3lvdWJkT3d5aER0V2JVYnJQX2NBR2Z1MHNRVVU3WWpsSDVIR0VUVjhOTklCZXFEVjZxamFrbUVFZzJnLUQ3UHViV0l0RE9DM0ZXU2o4aTh6c0lMMVE2amFvb29mVEtaYTFuOTJIa0tsZm1YZVFkUFhlbDQwMXVuZFBXQnVqWlhnVDdfWmVnNTdCWXdXY2MxWTZUMlRJdjdmR2dlM1pLaDdHYWZRUHBybVlfTHdtblJHQmw3U193WmhLTHVGNGc4TDV1ZFA4ektKZ0tKakNMSGhiZjdfU0UtZjMzYWcxOTFvd1RuY1ExMWNmRHdpRFpvWHpEbnlhd3RvVC1xNDBBaFFaLUFiV0VFRjNZUUFMMkpUMFZDbGh6a2dEX3l3amV5NVNtZFphbG14cm5Ray1Ia1NBVHQ3dlhocWhYTzgwRTNUVXZ2RUVOWjRtZ09MQlN0eS1GbE1xNXd6bnN0SVVVeGRMdnhrd0lQQXJFTXJ5S2I3cVVYU1U4S3lYTlQ?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-10-30",
+          "lede": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call - GuruFocus. KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call GuruFocus",
+          "contentFingerprint": "97b04e0c5ec848fc",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate mortgage lending REIT, which counts as credit exposure. The item is an earnings call listing with no specific event, so it is routine manager news.",
+            "llmReasonZh": "KKR Real Estate Finance Trust 是 KKR 旗下的商业地产抵押贷款 REIT，属于信贷敞口。该条目为业绩电话会信息，未涉及具体事件，因此属于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.41,
+            "finalScore": 19.41,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-49e5bddda523",
           "title": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada",
           "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 - Yahoo! Finance Canada",
@@ -106540,6 +107451,117 @@
             "keywordScore": 9,
             "semanticScore": 4.87,
             "finalScore": 13.870000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-23cb66e6cb04",
+          "title": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEMzM4MWxSbWJmZXdFR0FvaUw4dHR6eWYzZVRkbmcxcTg5TnlyMzlBS3RJdjg4TTJpUTJQbVlqWktHYmRwUDRfcnJxUkhEZDZlb3VRN0ZNOGFOQTFXY3U1WTV3?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-10-30",
+          "lede": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance UK. Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "11f84368d21b6b4b",
+          "region": "Europe",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance seasonal returns chart page for Bain Capital Specialty Finance (BCSF). BCSF is Bain Capital's publicly traded BDC, so the GP and private-credit tagging are credit-relevant. The page is stock price data only, with no event, so importance is low.",
+            "llmReasonZh": "Yahoo Finance 关于 Bain Capital Specialty Finance (BCSF) 的季节性回报图表页面。BCSF 是 Bain Capital 旗下公开上市的 BDC，因此其普通合伙人（GP）及私募信贷标签与信贷相关。该页面仅包含股价数据，未涉及任何事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.76,
+            "finalScore": 23.759999999999998,
             "semanticEnabled": true
           }
         },
@@ -108911,9 +109933,219 @@
             }
           }
         ],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-10-31-3f9eb4726e84",
+            "title": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "Blackstone Mortgage Trust, Inc. (BXMT) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+            "summary": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "Blackstone Mortgage Trust, Inc. (BXMT) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kOXctYXA0ZzhPNTRtZk9mSXljTExmNDdOaVJRam1Jb2pQUFpVODRuS2p4T0xIRzk4TjM0ejFSMjVKb0RnUHB1US11cy1KUXYxSVE?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-31",
+            "lede": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "8571b2cae226442a",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic Yahoo Finance stock quote page for Blackstone Mortgage Trust (BXMT). BXMT is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The page carries no substantive news, only stock price information, so importance is low.",
+              "llmReasonZh": "此为 Blackstone Mortgage Trust (BXMT) 的通用 Yahoo Finance 股票报价页面。BXMT 是 Blackstone 旗下的商业地产贷款 REIT，因此与信贷相关。该页面仅含股价信息，无实质性新闻，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.14,
+              "finalScore": 23.14,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
-        "TPG": [],
+        "TPG": [
+          {
+            "id": "2026-10-31-6c467a18e15e",
+            "title": "TPG Expects to Haul In Record $55 Billion This Year - WSJ",
+            "titleZh": "TPG预计今年募资规模将创纪录达550亿美元 - WSJ",
+            "summary": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "summaryZh": "TPG预计今年募资规模将创纪录达550亿美元 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGFTYW1DV0NTM2owYVByVm1DNk0wNFotRWk2UU5YUDVWendwN0xmNXR0RUZrQkZhcU94QjZ1S1dmZzEwUGNJdHgySUhpWFhSa3B3STJrOVd6TGZNWjlDX3A2UTBXNVJiRFZsaThyWlhLWWdyb2FUdV94RUV4Tk9JbkZjeWdoVUNyWmJGMURuMWpnSFVEMWxsWkRQMFpwVUE?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-10-31",
+            "lede": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "articleExcerpt": "TPG Expects to Haul In Record $55 Billion This Year - WSJ. TPG Expects to Haul In Record $55 Billion This Year WSJ",
+            "contentFingerprint": "32890ac2c142c9c3",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "TPG expects record firm-wide fundraising of $55B this year. The snippet gives no strategy breakdown. TPG's credit platform (Angelo Gordon) likely contributes, so this is firm-level fundraising news, not purely a non-credit equity item. No specific strategy is identifiable. Importance is moderate because it is not a credit-specific close.",
+              "llmReasonZh": "TPG预计今年全公司募资额将创下550亿美元的纪录。摘要未提供按策略划分的明细。TPG旗下信贷平台（Angelo Gordon）可能有所贡献，因此这属于公司层面的募资新闻，而非纯粹的非信贷股权类消息。无法识别具体策略。由于并非信贷专项基金募资完成，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 82,
+              "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.63,
+              "finalScore": 7.63,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Golub": [],
         "CVC": [],
         "Canyon": []
@@ -109210,6 +110442,214 @@
             "finalScore": 9.72,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-10-31-3f9eb4726e84",
+          "title": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "Blackstone Mortgage Trust, Inc. (BXMT) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+          "summary": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "Blackstone Mortgage Trust, Inc. (BXMT) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kOXctYXA0ZzhPNTRtZk9mSXljTExmNDdOaVJRam1Jb2pQUFpVODRuS2p4T0xIRzk4TjM0ejFSMjVKb0RnUHB1US11cy1KUXYxSVE?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-31",
+          "lede": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blackstone Mortgage Trust, Inc. (BXMT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "8571b2cae226442a",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic Yahoo Finance stock quote page for Blackstone Mortgage Trust (BXMT). BXMT is Blackstone's commercial real estate lending REIT, so it is credit-relevant. The page carries no substantive news, only stock price information, so importance is low.",
+            "llmReasonZh": "此为 Blackstone Mortgage Trust (BXMT) 的通用 Yahoo Finance 股票报价页面。BXMT 是 Blackstone 旗下的商业地产贷款 REIT，因此与信贷相关。该页面仅含股价信息，无实质性新闻，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.14,
+            "finalScore": 23.14,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-6c467a18e15e",
+          "title": "TPG Expects to Haul In Record $55 Billion This Year - WSJ",
+          "titleZh": "TPG预计今年募资规模将创纪录达550亿美元 - WSJ",
+          "summary": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "summaryZh": "TPG预计今年募资规模将创纪录达550亿美元 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGFTYW1DV0NTM2owYVByVm1DNk0wNFotRWk2UU5YUDVWendwN0xmNXR0RUZrQkZhcU94QjZ1S1dmZzEwUGNJdHgySUhpWFhSa3B3STJrOVd6TGZNWjlDX3A2UTBXNVJiRFZsaThyWlhLWWdyb2FUdV94RUV4Tk9JbkZjeWdoVUNyWmJGMURuMWpnSFVEMWxsWkRQMFpwVUE?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-10-31",
+          "lede": "TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "articleExcerpt": "TPG Expects to Haul In Record $55 Billion This Year - WSJ. TPG Expects to Haul In Record $55 Billion This Year WSJ",
+          "contentFingerprint": "32890ac2c142c9c3",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "TPG expects record firm-wide fundraising of $55B this year. The snippet gives no strategy breakdown. TPG's credit platform (Angelo Gordon) likely contributes, so this is firm-level fundraising news, not purely a non-credit equity item. No specific strategy is identifiable. Importance is moderate because it is not a credit-specific close.",
+            "llmReasonZh": "TPG预计今年全公司募资额将创下550亿美元的纪录。摘要未提供按策略划分的明细。TPG旗下信贷平台（Angelo Gordon）可能有所贡献，因此这属于公司层面的募资新闻，而非纯粹的非信贷股权类消息。无法识别具体策略。由于并非信贷专项基金募资完成，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.72,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 82,
+            "retrievedAt": "2026-10-31T14:05:40.381833+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.63,
+            "finalScore": 7.63,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -109217,7 +110657,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 78,
+      "count": 80,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -109225,12 +110665,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 77,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -109238,7 +110678,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
@@ -109251,12 +110691,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 11,
+      "count": 13,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -109264,7 +110704,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
@@ -109277,12 +110717,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 9,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -109290,12 +110730,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -109303,7 +110743,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
@@ -109316,25 +110756,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 25,
-      "selected": 4,
+      "count": 24,
+      "selected": 5,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 76,
+      "count": 93,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -109342,7 +110782,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
@@ -109355,12 +110795,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 21,
+      "count": 20,
       "selected": 6,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -109368,12 +110808,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 10,
+      "count": 11,
       "selected": 3,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -109381,25 +110821,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 26,
-      "selected": 5,
+      "count": 21,
+      "selected": 4,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
+      "count": 52,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -109407,12 +110847,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 307,
+      "count": 293,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -109426,9 +110866,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-31T07:47:40.767792+00:00",
+      "asOf": "2026-10-31T14:05:40.381833+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-31T07:47:40.767792+00:00"
+  "checkedAt": "2026-10-31T14:05:40.381833+00:00"
 }
