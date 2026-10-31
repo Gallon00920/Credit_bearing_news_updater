@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-31T15:11:16.766054+00:00",
+  "updatedAt": "2026-10-31T19:59:59.234813+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9792,7 +9792,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11814,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22202,7 +22202,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -22226,7 +22226,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体而言为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -103926,6 +103926,110 @@
               "finalScore": 19.41,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-6888f42f9ab9",
+            "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - TradingView",
+            "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会议要点 - TradingView",
+            "summary": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+            "summaryZh": "KKR Real Estate Finance Trust第三季度财报电话会议要点 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWZQc2kxWWh5R29GQnktYXRWZ2hUVzVOZjNGQ0pjTHBHTzRiWWp0UURja0RBR0c2cGtRamNiM3Fyd0JZb0ItMVdFMjJ1V1ljbGpxb1h5blkyX2R6RlQ0dnpFY3lJR0M2VWR6RndNNHByWmRNRVZ1UldEUTRBb1d3ZmxBeWZ4RTMzWXJvM2NfZ1NYNkxEb3dnWUJaak9LUWxxbkprdURFdUFZcHFwZ3M5M3pSN0xxQm9y?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-10-30",
+            "lede": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+            "articleExcerpt": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - TradingView. KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+            "contentFingerprint": "ed1728be08af0f36",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust (KREF) is a KKR-managed commercial mortgage REIT that originates CRE loans, so this is KKR's credit/lending business. An earnings call summary counts as routine manager news, with no specific financing, fundraising or litigation event.",
+              "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是一家由KKR管理、发放商业地产贷款的商业抵押房地产投资信托（REIT），因此属于KKR的信贷/贷款业务。财报电话会议摘要属于常规管理人新闻，不涉及具体的融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.29,
+              "finalScore": 19.29,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -104119,6 +104223,98 @@
               "keywordScore": 3,
               "semanticScore": 5.11,
               "finalScore": 8.11,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-8629f0209a63",
+            "title": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire",
+            "titleZh": "NEUBERGER HIGH YIELD STRATEGIES FUND 宣布月度分配 - PR Newswire",
+            "summary": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "summaryZh": "NEUBERGER HIGH YIELD STRATEGIES FUND 宣布月度分配 PR Newswire",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVllUWNnMFBlbUh3SWVheEZubWVDZm16b1dNTHNXWU04cDExcWgtU001S1lqMXVaR3Y2UDRqWWhvNEZVMnNYeEotZEE2MXo0Wmo4RTc4OWtxbXJDcTR2VVRWZkZhN0E5TVpBaFh4b0RwWDRieFl6a2hrZkFNOXBDa1MwT0ptNTh3NWotZm40clVObmJVMEFyaHJwQ0tKTm5YaEFlSEg4YVZUSlBLSjRDVENtRkJsTFYzeTZ0RDFrVm0?oc=5",
+            "source": "PR Newswire",
+            "publishedAt": "2026-10-30",
+            "lede": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "articleExcerpt": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire. NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "contentFingerprint": "b5c651ad2771f40e",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Neuberger's closed-end high yield credit fund declaring its regular monthly distribution. This is a credit vehicle from a tracked GP, so it is not excluded. It is routine and low-impact: no financing, fundraising or litigation event. High yield bonds do not map to any tracked strategy.",
+              "llmReasonZh": "Neuberger旗下封闭式高收益信贷基金宣布其常规月度分配。该基金为受跟踪GP旗下的信贷投资工具，因此未被排除。此事项属于例行事项，影响较小：不涉及融资、募资或诉讼事件。高收益债券不对应任何受跟踪策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.4,
+                  "code": "tier_press_release",
+                  "source": "PR Newswire"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.95,
+              "finalScore": 10.95,
               "semanticEnabled": true
             }
           }
@@ -105785,6 +105981,102 @@
               "finalScore": 7.49,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-55916f30b2bd",
+            "title": "TPG Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+            "titleZh": "TPG Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+            "summary": "TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "summaryZh": "TPG Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbm9xaGd5TUt5WGs0a3I1U0kwUks2a2ZNS0hVLTZDbGh0Qm9hX1A5MHRpMlBPb3pleklwczVHRGZrNDBMREZCY0hxMGpILXNfSkV4RUJWdENRTV9neXkydTNxRWRIUVlZTGNTdnpRa2JXWnVmWXBxNGtyclNwRTNlTFRwT0MyWV9aOG1zeS1nOVhWNTQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "articleExcerpt": "TPG Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "contentFingerprint": "81f13a6f5d97358b",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "The article is a TPG Inc. Q3 earnings call summary. The text is only a title, so it has no specific credit content. Earnings calls for multi-strategy managers usually cover the credit platform (TPG Angelo Gordon), which makes it worth light tracking as routine manager news. There is no specific financing, fundraising or lawsuit event, and no identifiable strategy.",
+              "llmReasonZh": "该文章为TPG Inc.第三季度财报电话会议摘要。文本仅有标题，因此不含具体信贷相关内容。多策略管理人的财报电话会议通常会涉及其信贷平台（TPG Angelo Gordon），因此作为常规管理人新闻值得轻度跟踪。文章未涉及具体的融资、募资或诉讼事件，也无可识别的策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.13,
+              "finalScore": 16.13,
+              "semanticEnabled": true
+            }
           }
         ],
         "Golub": [
@@ -107157,6 +107449,110 @@
           }
         },
         {
+          "id": "2026-10-30-6888f42f9ab9",
+          "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - TradingView",
+          "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会议要点 - TradingView",
+          "summary": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+          "summaryZh": "KKR Real Estate Finance Trust第三季度财报电话会议要点 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWZQc2kxWWh5R29GQnktYXRWZ2hUVzVOZjNGQ0pjTHBHTzRiWWp0UURja0RBR0c2cGtRamNiM3Fyd0JZb0ItMVdFMjJ1V1ljbGpxb1h5blkyX2R6RlQ0dnpFY3lJR0M2VWR6RndNNHByWmRNRVZ1UldEUTRBb1d3ZmxBeWZ4RTMzWXJvM2NfZ1NYNkxEb3dnWUJaak9LUWxxbkprdURFdUFZcHFwZ3M5M3pSN0xxQm9y?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-10-30",
+          "lede": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+          "articleExcerpt": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - TradingView. KKR Real Estate Finance Trust Q3 Earnings Call Highlights TradingView",
+          "contentFingerprint": "ed1728be08af0f36",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust (KREF) is a KKR-managed commercial mortgage REIT that originates CRE loans, so this is KKR's credit/lending business. An earnings call summary counts as routine manager news, with no specific financing, fundraising or litigation event.",
+            "llmReasonZh": "KKR Real Estate Finance Trust（KREF）是一家由KKR管理、发放商业地产贷款的商业抵押房地产投资信托（REIT），因此属于KKR的信贷/贷款业务。财报电话会议摘要属于常规管理人新闻，不涉及具体的融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.29,
+            "finalScore": 19.29,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-49e5bddda523",
           "title": "Guggenheim Strategic Opportunities Fund (GOF) Seasonal Returns Chart - Yahoo! Finance Canada",
           "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 季节性回报图表 - Yahoo! Finance Canada",
@@ -107341,6 +107737,98 @@
             "keywordScore": 3,
             "semanticScore": 5.11,
             "finalScore": 8.11,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-8629f0209a63",
+          "title": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire",
+          "titleZh": "NEUBERGER HIGH YIELD STRATEGIES FUND 宣布月度分配 - PR Newswire",
+          "summary": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "summaryZh": "NEUBERGER HIGH YIELD STRATEGIES FUND 宣布月度分配 PR Newswire",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVllUWNnMFBlbUh3SWVheEZubWVDZm16b1dNTHNXWU04cDExcWgtU001S1lqMXVaR3Y2UDRqWWhvNEZVMnNYeEotZEE2MXo0Wmo4RTc4OWtxbXJDcTR2VVRWZkZhN0E5TVpBaFh4b0RwWDRieFl6a2hrZkFNOXBDa1MwT0ptNTh3NWotZm40clVObmJVMEFyaHJwQ0tKTm5YaEFlSEg4YVZUSlBLSjRDVENtRkJsTFYzeTZ0RDFrVm0?oc=5",
+          "source": "PR Newswire",
+          "publishedAt": "2026-10-30",
+          "lede": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "articleExcerpt": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire. NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "contentFingerprint": "b5c651ad2771f40e",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Neuberger's closed-end high yield credit fund declaring its regular monthly distribution. This is a credit vehicle from a tracked GP, so it is not excluded. It is routine and low-impact: no financing, fundraising or litigation event. High yield bonds do not map to any tracked strategy.",
+            "llmReasonZh": "Neuberger旗下封闭式高收益信贷基金宣布其常规月度分配。该基金为受跟踪GP旗下的信贷投资工具，因此未被排除。此事项属于例行事项，影响较小：不涉及融资、募资或诉讼事件。高收益债券不对应任何受跟踪策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.4,
+                "code": "tier_press_release",
+                "source": "PR Newswire"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.95,
+            "finalScore": 10.95,
             "semanticEnabled": true
           }
         },
@@ -109000,6 +109488,102 @@
           }
         },
         {
+          "id": "2026-10-30-55916f30b2bd",
+          "title": "TPG Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+          "titleZh": "TPG Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+          "summary": "TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "summaryZh": "TPG Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbm9xaGd5TUt5WGs0a3I1U0kwUks2a2ZNS0hVLTZDbGh0Qm9hX1A5MHRpMlBPb3pleklwczVHRGZrNDBMREZCY0hxMGpILXNfSkV4RUJWdENRTV9neXkydTNxRWRIUVlZTGNTdnpRa2JXWnVmWXBxNGtyclNwRTNlTFRwT0MyWV9aOG1zeS1nOVhWNTQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "articleExcerpt": "TPG Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. TPG Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "contentFingerprint": "81f13a6f5d97358b",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "The article is a TPG Inc. Q3 earnings call summary. The text is only a title, so it has no specific credit content. Earnings calls for multi-strategy managers usually cover the credit platform (TPG Angelo Gordon), which makes it worth light tracking as routine manager news. There is no specific financing, fundraising or lawsuit event, and no identifiable strategy.",
+            "llmReasonZh": "该文章为TPG Inc.第三季度财报电话会议摘要。文本仅有标题，因此不含具体信贷相关内容。多策略管理人的财报电话会议通常会涉及其信贷平台（TPG Angelo Gordon），因此作为常规管理人新闻值得轻度跟踪。文章未涉及具体的融资、募资或诉讼事件，也无可识别的策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.13,
+            "finalScore": 16.13,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-592362494bbd",
           "title": "SVP backs 1.2 GW power JV; BSP, Golub finance Texas apartments, healthtech provider - Alternatives Watch",
           "titleZh": "SVP支持1.2 GW电力合资企业；BSP、Golub为德州公寓及医疗科技服务商提供融资 - Alternatives Watch",
@@ -110045,7 +110629,116 @@
             }
           }
         ],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-10-31-4f914f385b63",
+            "title": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says - Yahoo Finance",
+            "titleZh": "Apollo经济学家：科技行业以外的企业从AI中获得的财务回报为\"零\" - Yahoo Finance",
+            "summary": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+            "summaryZh": "Apollo经济学家称，科技行业以外的企业从AI中获得的财务回报为\"零\" Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTBuUnVnbEEyOE15MExDN1J4X2VCLVVrbjl2cUI2dm1KOU5hb3lBaG5IUUNuWDZ0ajdPU3BocWIweFFyaEVYWlRNNmJFUklXM1JTcXRrN3VSdGhPaDUteUw4dlZrcnFidFNsdDl1VWZ6WFNVVVpNZnBjQW9wS3FuV1JpUV9XSUxoXzBEX0VrWTRwNWtERlBiLU1ZRGRSQUJs?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-31",
+            "lede": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+            "articleExcerpt": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says - Yahoo Finance. Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+            "contentFingerprint": "bda3c6a22b46a5d7",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Apollo's chief economist (Torsten Slok) commenting on AI adoption payoff. This is macro commentary relevant to AI-related credit exposure, not a transaction, lawsuit or fundraise. Low importance, similar to analyst commentary.",
+              "llmReasonZh": "Apollo首席经济学家（Torsten Slok）就AI应用回报发表评论。此为与AI相关信贷敞口有关的宏观评论，并非交易、诉讼或募资事件。重要性较低，与分析师评论类似。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.44,
+              "finalScore": 19.44,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [
           {
             "id": "2026-10-31-6c467a18e15e",
@@ -110554,6 +111247,114 @@
           }
         },
         {
+          "id": "2026-10-31-4f914f385b63",
+          "title": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says - Yahoo Finance",
+          "titleZh": "Apollo经济学家：科技行业以外的企业从AI中获得的财务回报为\"零\" - Yahoo Finance",
+          "summary": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+          "summaryZh": "Apollo经济学家称，科技行业以外的企业从AI中获得的财务回报为\"零\" Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTBuUnVnbEEyOE15MExDN1J4X2VCLVVrbjl2cUI2dm1KOU5hb3lBaG5IUUNuWDZ0ajdPU3BocWIweFFyaEVYWlRNNmJFUklXM1JTcXRrN3VSdGhPaDUteUw4dlZrcnFidFNsdDl1VWZ6WFNVVVpNZnBjQW9wS3FuV1JpUV9XSUxoXzBEX0VrWTRwNWtERlBiLU1ZRGRSQUJs?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-31",
+          "lede": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+          "articleExcerpt": "Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says - Yahoo Finance. Businesses outside tech are seeing 'zero financial payoff' from AI, Apollo economist says Yahoo Finance",
+          "contentFingerprint": "bda3c6a22b46a5d7",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Apollo's chief economist (Torsten Slok) commenting on AI adoption payoff. This is macro commentary relevant to AI-related credit exposure, not a transaction, lawsuit or fundraise. Low importance, similar to analyst commentary.",
+            "llmReasonZh": "Apollo首席经济学家（Torsten Slok）就AI应用回报发表评论。此为与AI相关信贷敞口有关的宏观评论，并非交易、诉讼或募资事件。重要性较低，与分析师评论类似。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-10-31T18:57:57.836017+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.44,
+            "finalScore": 19.44,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-6c467a18e15e",
           "title": "TPG Expects to Haul In Record $55 Billion This Year - WSJ",
           "titleZh": "TPG预计今年募资规模将创纪录达550亿美元 - WSJ",
@@ -110657,7 +111458,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 80,
+      "count": 78,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -110665,12 +111466,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 100,
+      "count": 56,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -110678,7 +111479,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
@@ -110691,7 +111492,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
@@ -110704,7 +111505,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
@@ -110717,12 +111518,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 9,
+      "count": 8,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -110730,20 +111531,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 6,
-      "selected": 1,
+      "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
@@ -110756,12 +111557,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 24,
+      "count": 22,
       "selected": 5,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -110769,12 +111570,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 93,
+      "count": 94,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -110782,7 +111583,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
@@ -110795,25 +111596,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 20,
-      "selected": 6,
+      "count": 15,
+      "selected": 5,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 11,
+      "count": 10,
       "selected": 3,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -110821,12 +111622,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 21,
+      "count": 19,
       "selected": 4,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -110834,12 +111635,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 52,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -110847,12 +111648,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 293,
+      "count": 304,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -110866,9 +111667,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-31T14:05:40.381833+00:00",
+      "asOf": "2026-10-31T18:57:57.836017+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-31T14:05:40.381833+00:00"
+  "checkedAt": "2026-10-31T18:57:57.836017+00:00"
 }
