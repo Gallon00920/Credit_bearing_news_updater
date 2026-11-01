@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-10-31T23:10:41.119340+00:00",
+  "updatedAt": "2026-11-01T02:24:37.064367+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,471 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-03": {
-      "byGp": {
-        "Blue Owl": [],
-        "KKR": [
-          {
-            "id": "2026-08-03-a35976053312",
-            "title": "High Yield's Second Act: What AI Revealed About Credit Quality - KKR: A Leading Global Investment Firm",
-            "titleZh": "高收益债的第二幕：AI揭示的信用质量 - KKR：全球领先的投资公司",
-            "summary": "High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-            "summaryZh": "高收益债的第二幕：AI揭示的信用质量 KKR：全球领先的投资公司",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QN2doQnZRUGpKb1RnVXVQZHVObWtYYUVCS0pNZmtoakZKZnFva29kV3hTSkt3YURjMWJaZ1cwbEFKMXNYVnJ6SllQNHpSQkRodVlQZmhYMGNYLW5YekRr?oc=5",
-            "source": "KKR: A Leading Global Investment Firm",
-            "publishedAt": "2026-08-03",
-            "lede": "High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-            "articleExcerpt": "High Yield's Second Act: What AI Revealed About Credit Quality - KKR: A Leading Global Investment Firm. High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-            "contentFingerprint": "5612ed530cb5eb9e",
-            "region": "US",
-            "gps": [
-              "KKR"
-            ],
-            "sectors": [
-              "private-credit",
-              "ai"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "KKR"
-              ],
-              "llmGps": [
-                "KKR"
-              ],
-              "keywordSectors": [],
-              "llmSectors": [
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "Title references 'High Yield' and 'Credit Quality' in connection with KKR, indicating focus on its credit-related activities (e.g., high-yield bonds, leveraged loans, or direct lending); 'High Yield' falls under the broader private credit / direct lending umbrella in this context, and no non-credit strategy (e.g., buyout, infra) is mentioned.",
-              "llmReasonZh": "标题提及与KKR相关的“高收益”和“信用质量”，表明关注其信贷相关业务（如高收益债券、杠杆贷款或直接贷款）；在此语境下，“高收益”属于更广泛的私募信贷/直接贷款范畴，且未提及任何非信贷策略（如收购、基础设施）。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 19,
-              "semanticScore": 5.51,
-              "finalScore": 24.509999999999998,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "private-credit",
-              "ai"
-            ],
-            "events": [],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "KKR"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.73,
-                  "code": "title_hits_strategy",
-                  "tagValue": 1.0,
-                  "strategies": [
-                    "private-credit",
-                    "ai"
-                  ],
-                  "semanticValue": 0.46
-                },
-                "event": {
-                  "value": 0.2,
-                  "code": "routine",
-                  "ruleValue": 0.2,
-                  "events": []
-                },
-                "source": {
-                  "value": 0.35,
-                  "code": "tier_other",
-                  "source": "KKR: A Leading Global Investment Firm"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 54,
-              "retrievedAt": "2026-10-29T09:02:01.306065+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-03-a35976053312",
-          "title": "High Yield's Second Act: What AI Revealed About Credit Quality - KKR: A Leading Global Investment Firm",
-          "titleZh": "高收益债的第二幕：AI揭示的信用质量 - KKR：全球领先的投资公司",
-          "summary": "High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-          "summaryZh": "高收益债的第二幕：AI揭示的信用质量 KKR：全球领先的投资公司",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QN2doQnZRUGpKb1RnVXVQZHVObWtYYUVCS0pNZmtoakZKZnFva29kV3hTSkt3YURjMWJaZ1cwbEFKMXNYVnJ6SllQNHpSQkRodVlQZmhYMGNYLW5YekRr?oc=5",
-          "source": "KKR: A Leading Global Investment Firm",
-          "publishedAt": "2026-08-03",
-          "lede": "High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-          "articleExcerpt": "High Yield's Second Act: What AI Revealed About Credit Quality - KKR: A Leading Global Investment Firm. High Yield's Second Act: What AI Revealed About Credit Quality KKR: A Leading Global Investment Firm",
-          "contentFingerprint": "5612ed530cb5eb9e",
-          "region": "US",
-          "gps": [
-            "KKR"
-          ],
-          "sectors": [
-            "private-credit",
-            "ai"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "KKR"
-            ],
-            "llmGps": [
-              "KKR"
-            ],
-            "keywordSectors": [],
-            "llmSectors": [
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "Title references 'High Yield' and 'Credit Quality' in connection with KKR, indicating focus on its credit-related activities (e.g., high-yield bonds, leveraged loans, or direct lending); 'High Yield' falls under the broader private credit / direct lending umbrella in this context, and no non-credit strategy (e.g., buyout, infra) is mentioned.",
-            "llmReasonZh": "标题提及与KKR相关的“高收益”和“信用质量”，表明关注其信贷相关业务（如高收益债券、杠杆贷款或直接贷款）；在此语境下，“高收益”属于更广泛的私募信贷/直接贷款范畴，且未提及任何非信贷策略（如收购、基础设施）。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 19,
-            "semanticScore": 5.51,
-            "finalScore": 24.509999999999998,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit",
-            "ai"
-          ],
-          "events": [],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "KKR"
-                ]
-              },
-              "strategy": {
-                "value": 0.73,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "private-credit",
-                  "ai"
-                ],
-                "semanticValue": 0.46
-              },
-              "event": {
-                "value": 0.2,
-                "code": "routine",
-                "ruleValue": 0.2,
-                "events": []
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "KKR: A Leading Global Investment Firm"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 54,
-            "retrievedAt": "2026-10-29T09:02:01.306065+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        },
-        {
-          "id": "2026-08-03-6799560d4323",
-          "title": "Sixth Street and Bayview acquire Castle Trust Bank - Mortgage Soup",
-          "titleZh": "Sixth Street与Bayview收购Castle Trust Bank - Mortgage Soup",
-          "summary": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
-          "summaryZh": "Sixth Street与Bayview收购Castle Trust Bank Mortgage Soup",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlJIbDVtYnRDUHliSC1HM2pUcWg3V18yNHBManhHOVRKeG9aUzFPOEpXTF9SSmd0ZGJwRkVicU1LZUxud0tkQ2VtSFNsemNYN1loME11dmpzMkVXY01rVXZzcDVGWl9POFZaRlVIc2Z0V0NpZWxZdUNCNk1RRTVBVnloTHo?oc=5",
-          "source": "Mortgage Soup",
-          "publishedAt": "2026-08-03",
-          "lede": "Sixth Street and Bayview acquire Castle Trust Bank Mortgage Soup",
-          "region": "Global",
-          "gps": [],
-          "sectors": [
-            "resi"
-          ],
-          "curation": "rss_filter",
-          "scoreBreakdown": {
-            "keywordScore": 14,
-            "semanticScore": 0,
-            "finalScore": 14,
-            "semanticEnabled": false
-          },
-          "classificationBreakdown": {
-            "llmReasonZh": "不适用"
-          },
-          "strategies": [
-            "resi"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 0.25,
-                "code": "query_only",
-                "gps": []
-              },
-              "strategy": {
-                "value": 1.0,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "resi"
-                ]
-              },
-              "event": {
-                "value": 0.95,
-                "code": "major_signal",
-                "ruleValue": 0.95,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "Mortgage Soup"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 66,
-            "retrievedAt": "2026-10-29T09:02:01.306431+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        },
-        {
-          "id": "2026-08-03-0286746bc29c",
-          "title": "Castle Trust Bank acquired by Sixth Street and Bayview - Mortgage Strategy",
-          "titleZh": "Castle Trust Bank被Sixth Street和Bayview收购 - Mortgage Strategy",
-          "summary": "Castle Trust Bank acquired by Sixth Street and Bayview Mortgage Strategy",
-          "summaryZh": "Castle Trust Bank被Sixth Street和Bayview收购 Mortgage Strategy",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3FnSnZIZHNfRU55ZXRSeVhUVlV5X3ZidGk5YzNUYWh5VEZnRGxSNzI2eDNuUzNHQ0ZoS0ZsVUxLNE5QMUxiaEUyX0t0LWV3U1VSWGZHUkRZZkJGLW1CRGppN0l1OVFvQzFZanpqV1VxNlFNSjAtZko5bWljRHd2SVQtSFBPTkYtclR6WFhmcnF2Mlo0bUlnRC1zYw?oc=5",
-          "source": "Mortgage Strategy",
-          "publishedAt": "2026-08-03",
-          "lede": "Castle Trust Bank acquired by Sixth Street and Bayview Mortgage Strategy",
-          "articleExcerpt": "Castle Trust Bank acquired by Sixth Street and Bayview - Mortgage Strategy. Castle Trust Bank acquired by Sixth Street and Bayview Mortgage Strategy",
-          "contentFingerprint": "01de8eac0c2fb913",
-          "region": "Global",
-          "gps": [],
-          "sectors": [
-            "resi"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [],
-            "llmGps": [],
-            "keywordSectors": [
-              "mortgage"
-            ],
-            "llmSectors": [
-              "mortgage"
-            ],
-            "llmExclude": false,
-            "llmReason": "Bayview is a tracked GP and the article explicitly references its involvement in a mortgage strategy acquisition; mortgage is a tracked sub-sector.",
-            "llmReasonZh": "Bayview为重点跟踪的GP，文章明确提及其参与一项与按揭策略相关的收购；按揭为重点跟踪的子行业。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 14,
-            "semanticScore": 5.66,
-            "finalScore": 19.66,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "resi"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 0.25,
-                "code": "query_only",
-                "gps": []
-              },
-              "strategy": {
-                "value": 0.74,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "resi"
-                ],
-                "semanticValue": 0.47
-              },
-              "event": {
-                "value": 0.95,
-                "code": "major_signal",
-                "ruleValue": 0.95,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "Mortgage Strategy"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 63,
-            "retrievedAt": "2026-10-29T09:02:01.306801+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        },
-        {
-          "id": "2026-08-03-bb59b5764dea",
-          "title": "Castle Trust Bank is Acquired by Sixth Street and Bayview - Sixth Street",
-          "titleZh": "Castle Trust Bank被Sixth Street和Bayview收购 - Sixth Street",
-          "summary": "Castle Trust Bank is Acquired by Sixth Street and Bayview Sixth Street",
-          "summaryZh": "Castle Trust Bank被Sixth Street和Bayview收购 Sixth Street",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW03THc0aW1Ucy1RNHF0b3NwaVVaMEQxX0I1Y01EQmc3Sk44MkVUM2Z1NUJUQ0w4dW5pSENjYTVZQUUyYkU0R3JoZTlwRnlSMXpOQl9nQ01wemZPNFIxWXRfeWlJSjg2T0NneldOOGlDcHg5UTFESEFFaGtQTnAyMVIzZFVpNDZyZW00OGdhVzltV0F5aVVLNTUySXpwYTlOMkFBbw?oc=5",
-          "source": "Sixth Street",
-          "publishedAt": "2026-08-03",
-          "lede": "Castle Trust Bank is Acquired by Sixth Street and Bayview Sixth Street",
-          "articleExcerpt": "Castle Trust Bank is Acquired by Sixth Street and Bayview - Sixth Street. Castle Trust Bank is Acquired by Sixth Street and Bayview Sixth Street",
-          "region": "Global",
-          "gps": [],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [],
-            "llmGps": [],
-            "keywordSectors": [],
-            "llmSectors": [
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "Bayview is a tracked GP and is co-acquiring Castle Trust Bank — a bank with lending/credit activities; the acquisition likely relates to Bayview’s credit platform and lending capabilities, consistent with its core business. Sixth Street is not a tracked GP, so only Bayview is tagged.",
-            "llmReasonZh": "Bayview为跟踪的GP，正联合收购Castle Trust Bank，该银行从事贷款/信贷业务；此次收购可能与Bayview的信贷平台及贷款能力相关，符合其核心业务。Sixth Street并非跟踪的GP，因此仅标记Bayview。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 6,
-            "semanticScore": 5.08,
-            "finalScore": 11.08,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 0.25,
-                "code": "query_only",
-                "gps": []
-              },
-              "strategy": {
-                "value": 0.51,
-                "code": "body_strategy",
-                "tagValue": 0.6,
-                "strategies": [
-                  "private-credit"
-                ],
-                "semanticValue": 0.42
-              },
-              "event": {
-                "value": 0.95,
-                "code": "major_signal",
-                "ruleValue": 0.95,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "Sixth Street"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 60,
-            "retrievedAt": "2026-10-29T09:02:01.307207+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-04": {
       "byGp": {
         "Blue Owl": [],
@@ -9792,7 +9327,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高评级公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11814,7 +11349,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -22226,7 +21761,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为核心的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -103612,6 +103147,102 @@
               "finalScore": 19.69,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-97b1ded08552",
+            "title": "Blue Owl Capital Inc. (OWL) Stock Forecasts - Yahoo Finance",
+            "titleZh": "Blue Owl Capital Inc. (OWL) 股票预测 - Yahoo Finance",
+            "summary": "Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+            "summaryZh": "Blue Owl Capital Inc. (OWL) 股票预测 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnZpOTA1TzMzR2NxYXRzRnNqVnQwUU5MTzJhV2gzMEtRcXJFeEN1NlFMZlJOaHZ1Vm5kdXFYMW9La3lMMExkOVR6T0tSU3dKbjNyVEhPeld3Wi03R3pRNHVTMW5ONXZobmlzYzhEZG96UHdiOWdxczhNTDdYQVZqN0sxa1ZCbzVvdU5WVg?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) Stock Forecasts - Yahoo Finance. Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+            "contentFingerprint": "6927ae8f7d2b9fd1",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic Yahoo Finance stock forecast page for Blue Owl Capital (OWL). Blue Owl's listed parent is credit-heavy, so it stays tagged rather than excluded, but it is only stock price / analyst commentary with no credit event, strategy detail or financing activity.",
+              "llmReasonZh": "Yahoo Finance 上关于 Blue Owl Capital (OWL) 的通用股票预测页面。Blue Owl 的上市母公司以信贷业务为主，因此保留标签而未予排除，但该页面仅包含股价及分析师评论，不涉及信用事件、策略细节或融资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.27,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.53,
+              "finalScore": 17.53,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -104028,6 +103659,109 @@
               "keywordScore": 14,
               "semanticScore": 5.29,
               "finalScore": 19.29,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-40c598566b5a",
+            "title": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史 - Yahoo! Finance Canada",
+            "summary": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50bUI4czdjVHBlZmlOeThnV0xpdERRSklVVXZMNUhrSXpQT2oxZ1F3aTJCMlM1TG5McWdvMkE1VEFoNy1YV0kzUk52STMyQU15?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-30",
+            "lede": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "ca5440ed5f2ee546",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance stock quote page for FS KKR Capital Corp (FSK), a KKR-affiliated BDC. The credit link is relevant, but the page is generic price and quote content with no substantive news, so importance is low.",
+              "llmReasonZh": "Yahoo Finance 上 FS KKR Capital Corp (FSK) 的股票报价页面，该公司为 KKR 关联的业务发展公司（BDC）。虽与信贷相关，但该页面仅为通用的股价及报价内容，无实质性新闻，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.34,
+              "finalScore": 19.34,
               "semanticEnabled": true
             }
           }
@@ -104967,6 +104701,434 @@
               "keywordScore": 17,
               "semanticScore": 6.14,
               "finalScore": 23.14,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-252d02eb75c6",
+            "title": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs - BigGo Finance",
+            "titleZh": "Blackstone警告Anthropic IPO后或获垃圾级评级，推高借贷成本 - BigGo Finance",
+            "summary": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+            "summaryZh": "Blackstone警告Anthropic IPO后或获垃圾级评级，推高借贷成本 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNYnVFUVJGa2NOTzFWRnJKV01RMUFxWEMydjZySkJ5amZmeHdaVGNJQzRxdFEyNDF1VEVhc1BmaDZRYWlpd2tYaE5IVlVUMVo2Rm9QVG55cFlKekhqNmxtWkVOTWwwV1VOR095eGRWejJQMmVfT1E?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+            "articleExcerpt": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs - BigGo Finance. Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+            "contentFingerprint": "fa4edc5ad4436b28",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone is commenting on Anthropic's likely credit rating and borrowing costs. That is a credit-market view on financing of a major AI company, so it is relevant to Blackstone's credit business and AI financing. It is market commentary, not a Blackstone transaction, lawsuit or fundraising, so there is no event type and importance is low-to-moderate.",
+              "llmReasonZh": "Blackstone就Anthropic可能获得的信用评级及借贷成本发表评论。这是对一家大型AI公司融资的信贷市场观点，因此与Blackstone的信贷业务及AI融资相关。该内容属于市场评论，并非Blackstone的交易、诉讼或募资，因此无事件类型，重要性为低至中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.43,
+              "finalScore": 22.43,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-20da6339d282",
+            "title": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) - TipRanks",
+            "titleZh": "Blackstone (BX)警告：Anthropic IPO后或获垃圾级信用评级 - TipRanks",
+            "summary": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+            "summaryZh": "Blackstone (BX)警告：Anthropic IPO后或获垃圾级信用评级 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzNIQVpvaUtfbWNSLWhWdDhmLWRjUmdYUy05Z180T29id094YmpZckhuZXlaaVJrdlV0WXc4eXFmcU1lVkppQ0pFT0hiT0taYWF3LWNkZFpQRzJ1R3pYUlZxM0JNTUVMUVd0S21EU0xyY3RoNkJWbDZ4OThHTEJXaFUwYzQwUDR5bDhYYV9VYVlGdTVqZXdiYW5PdDEzQ2M?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-10-30",
+            "lede": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+            "articleExcerpt": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) - TipRanks. Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+            "contentFingerprint": "99e4405365b98704",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone commentary on Anthropic's potential junk credit rating after IPO. It touches Blackstone's credit views on AI-company debt, but it is commentary or analysis rather than a transaction, lawsuit or fundraise. The TipRanks source suggests market-commentary-level importance.",
+              "llmReasonZh": "Blackstone就Anthropic IPO后可能获得垃圾级信用评级发表评论。该内容涉及Blackstone对AI公司债务的信用观点，但属于评论或分析，而非交易、诉讼或募资事件。TipRanks来源表明其重要性为市场评论级别。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.13,
+              "finalScore": 22.13,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-8009516eecd5",
+            "title": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan - BigGo Finance",
+            "titleZh": "Blackstone预计Anthropic IPO后仍将维持垃圾级评级，630亿美元融资计划引发担忧 - BigGo Finance",
+            "summary": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+            "summaryZh": "Blackstone预计Anthropic IPO后仍将维持垃圾级评级，630亿美元融资计划引发担忧 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pSTFqR3JXaGZmS2FmVzRHZnU4a013MHZheEdPcU9IcnZ2bFVhdVM4Qm11YURMR2ZzeUVEOWtZUnFQclp0UWVCNjNEZ01TN1dhYUVrb2FwaWpsR3dPTkFkMXYxZ3N0REhBdzhuQWVjVVBvZGE2Y0E?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+            "articleExcerpt": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan - BigGo Finance. Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+            "contentFingerprint": "44410a180db35f7e",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone, likely through its credit business, says Anthropic will stay below investment grade after its IPO, which raises questions about how its $63B funding plan gets financed. This is a credit view on AI financing, not a transaction or a fund event, so it rates as routine-to-moderate manager news.",
+              "llmReasonZh": "Blackstone（可能通过其信贷业务）表示，Anthropic在IPO后仍将低于投资级，这引发了外界对其630亿美元融资计划资金来源的疑问。该消息属于对AI融资的信用观点，而非交易或基金事件，因此评级为常规至中等重要性的管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.07,
+              "finalScore": 22.07,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-7989d9fe540a",
+            "title": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report - Invezz",
+            "titleZh": "Anthropic IPO：黑石警告该AI公司或获垃圾级信用评级：报道 - Invezz",
+            "summary": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+            "summaryZh": "Anthropic IPO：黑石警告该AI公司或获垃圾级信用评级：报道 Invezz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWNxT05uRW1yY1g4ZFc5M0ZDYjFLaE5nRUQ2Yks1em1qVXhIeVZ5cXdBcy1DbzZ3ZklXXzZMM3Y1OG9hQ0NLVk16Qk9ZUWN6bzFZX093R3luRGRoaFNoOEhjTXNHa2FrOUJvSTY4R2dqTHlMek43c2hsa3gxZTlhSjR2Y1l3UTEyZjJTbVJ1RlF2bDBTdE8tcU1HWURYTDFHTXhCNUVVdUVadkN5WGowZkxB?oc=5",
+            "source": "Invezz",
+            "publishedAt": "2026-10-30",
+            "lede": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+            "articleExcerpt": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report - Invezz. Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+            "contentFingerprint": "268fbf798d46e4a9",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "The article reports Blackstone's credit view that Anthropic could get a junk (sub-investment-grade) credit rating ahead of an IPO. That is credit commentary from Blackstone, likely its credit business, on a major AI borrower, so it is relevant to AI financing and private credit. No transaction, lawsuit or fundraise is described, so the importance is moderate: above analyst-commentary level because of the credit-rating angle, but below a financing event.",
+              "llmReasonZh": "该文章报道了黑石的信用观点，即Anthropic在IPO前可能获得垃圾级（投资级以下）信用评级。这是黑石（很可能来自其信贷业务）对一家主要AI借款方的信用评论，因此与AI融资及私募信贷相关。文章未涉及交易、诉讼或募资，因此重要性中等：因涉及信用评级角度而高于一般分析师评论，但低于融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Invezz"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.03,
+              "finalScore": 22.03,
               "semanticEnabled": true
             }
           }
@@ -107229,6 +107391,102 @@
           }
         },
         {
+          "id": "2026-10-30-97b1ded08552",
+          "title": "Blue Owl Capital Inc. (OWL) Stock Forecasts - Yahoo Finance",
+          "titleZh": "Blue Owl Capital Inc. (OWL) 股票预测 - Yahoo Finance",
+          "summary": "Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+          "summaryZh": "Blue Owl Capital Inc. (OWL) 股票预测 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnZpOTA1TzMzR2NxYXRzRnNqVnQwUU5MTzJhV2gzMEtRcXJFeEN1NlFMZlJOaHZ1Vm5kdXFYMW9La3lMMExkOVR6T0tSU3dKbjNyVEhPeld3Wi03R3pRNHVTMW5ONXZobmlzYzhEZG96UHdiOWdxczhNTDdYQVZqN0sxa1ZCbzVvdU5WVg?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) Stock Forecasts - Yahoo Finance. Blue Owl Capital Inc. (OWL) Stock Forecasts Yahoo Finance",
+          "contentFingerprint": "6927ae8f7d2b9fd1",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic Yahoo Finance stock forecast page for Blue Owl Capital (OWL). Blue Owl's listed parent is credit-heavy, so it stays tagged rather than excluded, but it is only stock price / analyst commentary with no credit event, strategy detail or financing activity.",
+            "llmReasonZh": "Yahoo Finance 上关于 Blue Owl Capital (OWL) 的通用股票预测页面。Blue Owl 的上市母公司以信贷业务为主，因此保留标签而未予排除，但该页面仅包含股价及分析师评论，不涉及信用事件、策略细节或融资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.27,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.53,
+            "finalScore": 17.53,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-bed22fb5a8a1",
           "title": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) Earnings Call Highlights: Repayments Surpass ... - Yahoo Finance",
           "titleZh": "KKR Real Estate Finance Trust Inc (KREF) (Q3 2026) 财报电话会议要点：还款额超过……- Yahoo Finance",
@@ -107641,6 +107899,109 @@
             "keywordScore": 14,
             "semanticScore": 5.29,
             "finalScore": 19.29,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-40c598566b5a",
+          "title": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史 - Yahoo! Finance Canada",
+          "summary": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50bUI4czdjVHBlZmlOeThnV0xpdERRSklVVXZMNUhrSXpQT2oxZ1F3aTJCMlM1TG5McWdvMkE1VEFoNy1YV0kzUk52STMyQU15?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-30",
+          "lede": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "ca5440ed5f2ee546",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance stock quote page for FS KKR Capital Corp (FSK), a KKR-affiliated BDC. The credit link is relevant, but the page is generic price and quote content with no substantive news, so importance is low.",
+            "llmReasonZh": "Yahoo Finance 上 FS KKR Capital Corp (FSK) 的股票报价页面，该公司为 KKR 关联的业务发展公司（BDC）。虽与信贷相关，但该页面仅为通用的股价及报价内容，无实质性新闻，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.34,
+            "finalScore": 19.34,
             "semanticEnabled": true
           }
         },
@@ -108568,6 +108929,434 @@
             "keywordScore": 17,
             "semanticScore": 6.14,
             "finalScore": 23.14,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-252d02eb75c6",
+          "title": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs - BigGo Finance",
+          "titleZh": "Blackstone警告Anthropic IPO后或获垃圾级评级，推高借贷成本 - BigGo Finance",
+          "summary": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+          "summaryZh": "Blackstone警告Anthropic IPO后或获垃圾级评级，推高借贷成本 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNYnVFUVJGa2NOTzFWRnJKV01RMUFxWEMydjZySkJ5amZmeHdaVGNJQzRxdFEyNDF1VEVhc1BmaDZRYWlpd2tYaE5IVlVUMVo2Rm9QVG55cFlKekhqNmxtWkVOTWwwV1VOR095eGRWejJQMmVfT1E?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+          "articleExcerpt": "Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs - BigGo Finance. Blackstone Warns Anthropic May Land Junk Rating After IPO, Raising Borrowing Costs BigGo Finance",
+          "contentFingerprint": "fa4edc5ad4436b28",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone is commenting on Anthropic's likely credit rating and borrowing costs. That is a credit-market view on financing of a major AI company, so it is relevant to Blackstone's credit business and AI financing. It is market commentary, not a Blackstone transaction, lawsuit or fundraising, so there is no event type and importance is low-to-moderate.",
+            "llmReasonZh": "Blackstone就Anthropic可能获得的信用评级及借贷成本发表评论。这是对一家大型AI公司融资的信贷市场观点，因此与Blackstone的信贷业务及AI融资相关。该内容属于市场评论，并非Blackstone的交易、诉讼或募资，因此无事件类型，重要性为低至中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.43,
+            "finalScore": 22.43,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-20da6339d282",
+          "title": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) - TipRanks",
+          "titleZh": "Blackstone (BX)警告：Anthropic IPO后或获垃圾级信用评级 - TipRanks",
+          "summary": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+          "summaryZh": "Blackstone (BX)警告：Anthropic IPO后或获垃圾级信用评级 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzNIQVpvaUtfbWNSLWhWdDhmLWRjUmdYUy05Z180T29id094YmpZckhuZXlaaVJrdlV0WXc4eXFmcU1lVkppQ0pFT0hiT0taYWF3LWNkZFpQRzJ1R3pYUlZxM0JNTUVMUVd0S21EU0xyY3RoNkJWbDZ4OThHTEJXaFUwYzQwUDR5bDhYYV9VYVlGdTVqZXdiYW5PdDEzQ2M?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-10-30",
+          "lede": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+          "articleExcerpt": "Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) - TipRanks. Anthropic Could Get Junk Credit Rating After IPO, Warns Blackstone (BX) TipRanks",
+          "contentFingerprint": "99e4405365b98704",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone commentary on Anthropic's potential junk credit rating after IPO. It touches Blackstone's credit views on AI-company debt, but it is commentary or analysis rather than a transaction, lawsuit or fundraise. The TipRanks source suggests market-commentary-level importance.",
+            "llmReasonZh": "Blackstone就Anthropic IPO后可能获得垃圾级信用评级发表评论。该内容涉及Blackstone对AI公司债务的信用观点，但属于评论或分析，而非交易、诉讼或募资事件。TipRanks来源表明其重要性为市场评论级别。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.13,
+            "finalScore": 22.13,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-8009516eecd5",
+          "title": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan - BigGo Finance",
+          "titleZh": "Blackstone预计Anthropic IPO后仍将维持垃圾级评级，630亿美元融资计划引发担忧 - BigGo Finance",
+          "summary": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+          "summaryZh": "Blackstone预计Anthropic IPO后仍将维持垃圾级评级，630亿美元融资计划引发担忧 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pSTFqR3JXaGZmS2FmVzRHZnU4a013MHZheEdPcU9IcnZ2bFVhdVM4Qm11YURMR2ZzeUVEOWtZUnFQclp0UWVCNjNEZ01TN1dhYUVrb2FwaWpsR3dPTkFkMXYxZ3N0REhBdzhuQWVjVVBvZGE2Y0E?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+          "articleExcerpt": "Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan - BigGo Finance. Blackstone Sees Anthropic Staying Junk-Rated After IPO, Raising Concerns Over $63 Billion Funding Plan BigGo Finance",
+          "contentFingerprint": "44410a180db35f7e",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone, likely through its credit business, says Anthropic will stay below investment grade after its IPO, which raises questions about how its $63B funding plan gets financed. This is a credit view on AI financing, not a transaction or a fund event, so it rates as routine-to-moderate manager news.",
+            "llmReasonZh": "Blackstone（可能通过其信贷业务）表示，Anthropic在IPO后仍将低于投资级，这引发了外界对其630亿美元融资计划资金来源的疑问。该消息属于对AI融资的信用观点，而非交易或基金事件，因此评级为常规至中等重要性的管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.72,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.07,
+            "finalScore": 22.07,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-7989d9fe540a",
+          "title": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report - Invezz",
+          "titleZh": "Anthropic IPO：黑石警告该AI公司或获垃圾级信用评级：报道 - Invezz",
+          "summary": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+          "summaryZh": "Anthropic IPO：黑石警告该AI公司或获垃圾级信用评级：报道 Invezz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWNxT05uRW1yY1g4ZFc5M0ZDYjFLaE5nRUQ2Yks1em1qVXhIeVZ5cXdBcy1DbzZ3ZklXXzZMM3Y1OG9hQ0NLVk16Qk9ZUWN6bzFZX093R3luRGRoaFNoOEhjTXNHa2FrOUJvSTY4R2dqTHlMek43c2hsa3gxZTlhSjR2Y1l3UTEyZjJTbVJ1RlF2bDBTdE8tcU1HWURYTDFHTXhCNUVVdUVadkN5WGowZkxB?oc=5",
+          "source": "Invezz",
+          "publishedAt": "2026-10-30",
+          "lede": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+          "articleExcerpt": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report - Invezz. Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report Invezz",
+          "contentFingerprint": "268fbf798d46e4a9",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "The article reports Blackstone's credit view that Anthropic could get a junk (sub-investment-grade) credit rating ahead of an IPO. That is credit commentary from Blackstone, likely its credit business, on a major AI borrower, so it is relevant to AI financing and private credit. No transaction, lawsuit or fundraise is described, so the importance is moderate: above analyst-commentary level because of the credit-rating angle, but below a financing event.",
+            "llmReasonZh": "该文章报道了黑石的信用观点，即Anthropic在IPO前可能获得垃圾级（投资级以下）信用评级。这是黑石（很可能来自其信贷业务）对一家主要AI借款方的信用评论，因此与AI融资及私募信贷相关。文章未涉及交易、诉讼或募资，因此重要性中等：因涉及信用评级角度而高于一般分析师评论，但低于融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Invezz"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-01T01:42:50.052003+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.03,
+            "finalScore": 22.03,
             "semanticEnabled": true
           }
         },
@@ -113140,12 +113929,32 @@
           }
         }
       ]
+    },
+    "2026-11-01": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 78,
+      "count": 104,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -113153,12 +113962,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 51,
+      "count": 46,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -113166,7 +113975,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113179,7 +113988,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113192,7 +114001,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113205,12 +114014,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 6,
+      "count": 8,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -113218,7 +114027,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113231,7 +114040,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113244,25 +114053,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 13,
-      "selected": 4,
+      "count": 21,
+      "selected": 3,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 69,
+      "count": 72,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -113270,64 +114079,64 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 49,
-      "selected": 6,
+      "count": 30,
+      "selected": 5,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 20,
-      "selected": 6,
+      "count": 17,
+      "selected": 2,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
       "count": 12,
-      "selected": 3,
+      "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 19,
-      "selected": 3,
+      "count": 29,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 53,
+      "count": 29,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -113335,7 +114144,7 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     },
     {
@@ -113354,9 +114163,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-10-31T22:08:01.804634+00:00",
+      "asOf": "2026-11-01T01:42:50.052003+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-10-31T22:08:01.804634+00:00"
+  "checkedAt": "2026-11-01T01:42:50.052003+00:00"
 }
