@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-01T02:24:37.064367+00:00",
+  "updatedAt": "2026-11-01T09:16:44.236215+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9327,7 +9327,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高评级公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11349,7 +11349,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金的框架下可归入更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21761,7 +21761,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -105131,17 +105131,124 @@
               "finalScore": 22.03,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-7c500ed1975d",
+            "title": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) - Seeking Alpha",
+            "titleZh": "Scott Kennedy的mREIT财报系列：评估Blackstone Mortgage 2026年第三季度业绩 (NYSE:BXMT) - Seeking Alpha",
+            "summary": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+            "summaryZh": "Scott Kennedy的mREIT财报系列：评估Blackstone Mortgage 2026年第三季度业绩 (NYSE:BXMT) Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVo5MW1VY3RmNlZzOWNRXzNoRXNoeXh2bDN1MVd2U1h6cjc1TEMtNUc0ZVhqZGh5TkZ5Q1hSajJubzdsTjEyb0Q2TE1UbTRmTFY4QVl2NmpFMHdwRTBXc1JITG0wbS1DcHFLdV8zV3ViYk0wOU5XMjdMUExMb0lhNVdDTlVOQzYzN1NqcnVpZUhvcTNTazdYUmVRVU9kR3l2TUk1d3VMSzFOdHgzcDI0SkpUR291VlhVTkZiMXNkalNhTEFGNndBd2lMUXJmR0dFd3I1WGhaWUFiUHJNbzNSeFRJelN2c1B2dTlwNk1nOA?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-10-30",
+            "lede": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+            "articleExcerpt": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) - Seeking Alpha. Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+            "contentFingerprint": "cd4fcf941b21949d",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst commentary on Blackstone Mortgage Trust (BXMT) Q3 earnings. BXMT is Blackstone's commercial real estate lending mREIT, so this is credit-relevant CRE debt exposure. The article is analyst commentary rather than a transaction, so importance is low.",
+              "llmReasonZh": "Seeking Alpha分析师对Blackstone Mortgage Trust (BXMT)第三季度财报的评论。BXMT是Blackstone旗下的商业地产贷款mREIT，因此涉及与信用相关的商业地产(CRE)债务敞口。该文章属于分析师评论而非交易事项，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.83,
+              "finalScore": 24.83,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
           {
-            "id": "2026-10-30-863a0555b1df",
+            "id": "2026-10-30-5ab68ed38daa",
             "title": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout - Simply Wall St",
             "titleZh": "Apollo Global股票及为AI数据中心建设提供融资的公司 - Simply Wall St",
             "summary": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout Simply Wall St",
             "summaryZh": "Apollo Global股票及为AI数据中心建设提供融资的公司 Simply Wall St",
             "summaryZhLanguage": "Simplified Chinese",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkl0LUlPNFZyd0FnakxkLXVza1I3V1VRSXZNVjVmTDlzaFVmVlBqdFZvNzFmcDl6Y1BNaFFJZWViOGNDSjZKVkdKMVZ0ZmVmeFdDd0VWN0dvc1BiLUdzbXA0bVVSZzkzSkI2NzhCV0M1SEhVTVFMNjZkbmRpODM2T0l0Yk1ybHZXckhuSnRQaVg1YWxFNnlwTl9meGhtY1VoOThZblJ2NmluUGxfcUFmaUtUT3g2Z3Rmdk9QMU5KN2sweldlMzdNTGtRRkdCc3RjdkZMS0RNSHhCQzJ3LXU0akFMRm1JcC12VGfSAe8BQVVfeXFMTl9jTDU5SjVfb0M5T2JoX3ZpS3B6X0J1ZFlZU2V2WVFnekYtLXNwYlpiZzRKODBDUklTOTZrYjJZUjN6R0lMVGliNHNGcE02ckYxSFI2NGs0NUs1Yjd6YnVILS02R0dTNEZseW5fQlR3MFJuV0Z1aEh1VWlYT2R0QmtnTzh2dkhOTzhLUG5yNnlid19zRlcxNlY3bEVRVG00VWM0ZHJpbkJEQ0N1NnpPLWtsY3pSdU4yZFZkM0Q4U29UUFljMjNQeEVKbkU0d01VUWdEWFdRbmxzRU5Da2xCRGczTUxLOVdEdzN3S2xSRDg?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX2NMNTlKNV9vQzlPYmhfdmlLcHpfQnVkWVlTZXZZUWd6Ri0tc3BiWmJnNEo4MENSSVM5NmtiMllSM3pHSUxUaWI0c0ZwTTZyRjFIUjY0azQ1SzViN3pidUgtLTZHR1M0Rmx5bl9CVHcwUm5XRnVoSHVVaVhPZHRCa2dPOHZ2SE5POEtQbnI2eWJ3X3NGVzE2VjdsRVFUbTRVYzRkcmluQkRDQ3U2ek8ta2xjelJ1TjJkVmQzRDhTb1RQWWMyM1B4RUpuRTR3TVVRZ0RYV1FubHNFTkNrbEJEZzNNTEs5V0R3M3dLbFJEONIB7wFBVV95cUxOX2NMNTlKNV9vQzlPYmhfdmlLcHpfQnVkWVlTZXZZUWd6Ri0tc3BiWmJnNEo4MENSSVM5NmtiMllSM3pHSUxUaWI0c0ZwTTZyRjFIUjY0azQ1SzViN3pidUgtLTZHR1M0Rmx5bl9CVHcwUm5XRnVoSHVVaVhPZHRCa2dPOHZ2SE5POEtQbnI2eWJ3X3NGVzE2VjdsRVFUbTRVYzRkcmluQkRDQ3U2ek8ta2xjelJ1TjJkVmQzRDhTb1RQWWMyM1B4RUpuRTR3TVVRZ0RYV1FubHNFTkNrbEJEZzNNTEs5V0R3M3dLbFJEOA?oc=5",
             "source": "Simply Wall St",
             "publishedAt": "2026-10-30",
             "lede": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout Simply Wall St",
@@ -105152,10 +105259,12 @@
               "Apollo"
             ],
             "strategies": [
+              "private-credit",
               "data-center",
               "ai"
             ],
             "sectors": [
+              "private-credit",
               "data-center",
               "ai"
             ],
@@ -105183,14 +105292,15 @@
                 "ai"
               ],
               "llmStrategies": [
+                "private-credit",
                 "data-center",
                 "ai"
               ],
               "llmEvents": [],
               "llmImportance": 0.15,
               "llmExclude": false,
-              "llmReason": "Simply Wall St stock commentary on Apollo's role in financing the AI data center buildout. The financing angle makes it credit-relevant, but it is stock and analyst commentary, not a specific transaction.",
-              "llmReasonZh": "Simply Wall St关于Apollo在AI数据中心建设融资中所扮演角色的股票评论。融资角度使其与信贷相关，但内容属于股票及分析师评论，并非具体交易。"
+              "llmReason": "Simply Wall St stock-commentary piece on Apollo's role in financing the AI data center buildout. The credit angle (data center and AI financing) is relevant, but it is analyst and stock commentary, not a specific transaction.",
+              "llmReasonZh": "Simply Wall St的股票评论文章，探讨Apollo在AI数据中心建设融资中的角色。其信贷视角（数据中心及AI融资）具有相关性，但内容属于分析师及股票评论，并非具体交易。"
             },
             "rating": {
               "parts": {
@@ -105206,6 +105316,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "private-credit",
                     "data-center",
                     "ai"
                   ],
@@ -105226,9 +105337,9 @@
                   "source": "Simply Wall St"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.6
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
                 }
               },
               "weights": {
@@ -105238,15 +105349,22 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 61,
-              "retrievedAt": "2026-10-31T01:17:57.469950+00:00"
+              "score": 58,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 17,
+              "keywordScore": 20,
               "semanticScore": 6.43,
-              "finalScore": 23.43,
+              "finalScore": 26.43,
               "semanticEnabled": true
-            }
+            },
+            "alternateSources": [
+              {
+                "source": "Simply Wall St",
+                "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkl0LUlPNFZyd0FnakxkLXVza1I3V1VRSXZNVjVmTDlzaFVmVlBqdFZvNzFmcDl6Y1BNaFFJZWViOGNDSjZKVkdKMVZ0ZmVmeFdDd0VWN0dvc1BiLUdzbXA0bVVSZzkzSkI2NzhCV0M1SEhVTVFMNjZkbmRpODM2T0l0Yk1ybHZXckhuSnRQaVg1YWxFNnlwTl9meGhtY1VoOThZblJ2NmluUGxfcUFmaUtUT3g2Z3Rmdk9QMU5KN2sweldlMzdNTGtRRkdCc3RjdkZMS0RNSHhCQzJ3LXU0akFMRm1JcC12VGfSAe8BQVVfeXFMTl9jTDU5SjVfb0M5T2JoX3ZpS3B6X0J1ZFlZU2V2WVFnekYtLXNwYlpiZzRKODBDUklTOTZrYjJZUjN6R0lMVGliNHNGcE02ckYxSFI2NGs0NUs1Yjd6YnVILS02R0dTNEZseW5fQlR3MFJuV0Z1aEh1VWlYT2R0QmtnTzh2dkhOTzhLUG5yNnlid19zRlcxNlY3bEVRVG00VWM0ZHJpbkJEQ0N1NnpPLWtsY3pSdU4yZFZkM0Q4U29UUFljMjNQeEVKbkU0d01VUWdEWFdRbmxzRU5Da2xCRGczTUxLOVdEdzN3S2xSRDg?oc=5",
+                "title": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout - Simply Wall St"
+              }
+            ]
           },
           {
             "id": "2026-10-30-29146cdc4d5c",
@@ -109361,13 +109479,120 @@
           }
         },
         {
-          "id": "2026-10-30-863a0555b1df",
+          "id": "2026-10-30-7c500ed1975d",
+          "title": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) - Seeking Alpha",
+          "titleZh": "Scott Kennedy的mREIT财报系列：评估Blackstone Mortgage 2026年第三季度业绩 (NYSE:BXMT) - Seeking Alpha",
+          "summary": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+          "summaryZh": "Scott Kennedy的mREIT财报系列：评估Blackstone Mortgage 2026年第三季度业绩 (NYSE:BXMT) Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVo5MW1VY3RmNlZzOWNRXzNoRXNoeXh2bDN1MVd2U1h6cjc1TEMtNUc0ZVhqZGh5TkZ5Q1hSajJubzdsTjEyb0Q2TE1UbTRmTFY4QVl2NmpFMHdwRTBXc1JITG0wbS1DcHFLdV8zV3ViYk0wOU5XMjdMUExMb0lhNVdDTlVOQzYzN1NqcnVpZUhvcTNTazdYUmVRVU9kR3l2TUk1d3VMSzFOdHgzcDI0SkpUR291VlhVTkZiMXNkalNhTEFGNndBd2lMUXJmR0dFd3I1WGhaWUFiUHJNbzNSeFRJelN2c1B2dTlwNk1nOA?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-10-30",
+          "lede": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+          "articleExcerpt": "Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) - Seeking Alpha. Scott Kennedy’s mREIT Earnings Series: Assessing Blackstone Mortgage’s Performance For Q3 2026 (NYSE:BXMT) Seeking Alpha",
+          "contentFingerprint": "cd4fcf941b21949d",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst commentary on Blackstone Mortgage Trust (BXMT) Q3 earnings. BXMT is Blackstone's commercial real estate lending mREIT, so this is credit-relevant CRE debt exposure. The article is analyst commentary rather than a transaction, so importance is low.",
+            "llmReasonZh": "Seeking Alpha分析师对Blackstone Mortgage Trust (BXMT)第三季度财报的评论。BXMT是Blackstone旗下的商业地产贷款mREIT，因此涉及与信用相关的商业地产(CRE)债务敞口。该文章属于分析师评论而非交易事项，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.83,
+            "finalScore": 24.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-5ab68ed38daa",
           "title": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout - Simply Wall St",
           "titleZh": "Apollo Global股票及为AI数据中心建设提供融资的公司 - Simply Wall St",
           "summary": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout Simply Wall St",
           "summaryZh": "Apollo Global股票及为AI数据中心建设提供融资的公司 Simply Wall St",
           "summaryZhLanguage": "Simplified Chinese",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkl0LUlPNFZyd0FnakxkLXVza1I3V1VRSXZNVjVmTDlzaFVmVlBqdFZvNzFmcDl6Y1BNaFFJZWViOGNDSjZKVkdKMVZ0ZmVmeFdDd0VWN0dvc1BiLUdzbXA0bVVSZzkzSkI2NzhCV0M1SEhVTVFMNjZkbmRpODM2T0l0Yk1ybHZXckhuSnRQaVg1YWxFNnlwTl9meGhtY1VoOThZblJ2NmluUGxfcUFmaUtUT3g2Z3Rmdk9QMU5KN2sweldlMzdNTGtRRkdCc3RjdkZMS0RNSHhCQzJ3LXU0akFMRm1JcC12VGfSAe8BQVVfeXFMTl9jTDU5SjVfb0M5T2JoX3ZpS3B6X0J1ZFlZU2V2WVFnekYtLXNwYlpiZzRKODBDUklTOTZrYjJZUjN6R0lMVGliNHNGcE02ckYxSFI2NGs0NUs1Yjd6YnVILS02R0dTNEZseW5fQlR3MFJuV0Z1aEh1VWlYT2R0QmtnTzh2dkhOTzhLUG5yNnlid19zRlcxNlY3bEVRVG00VWM0ZHJpbkJEQ0N1NnpPLWtsY3pSdU4yZFZkM0Q4U29UUFljMjNQeEVKbkU0d01VUWdEWFdRbmxzRU5Da2xCRGczTUxLOVdEdzN3S2xSRDg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX2NMNTlKNV9vQzlPYmhfdmlLcHpfQnVkWVlTZXZZUWd6Ri0tc3BiWmJnNEo4MENSSVM5NmtiMllSM3pHSUxUaWI0c0ZwTTZyRjFIUjY0azQ1SzViN3pidUgtLTZHR1M0Rmx5bl9CVHcwUm5XRnVoSHVVaVhPZHRCa2dPOHZ2SE5POEtQbnI2eWJ3X3NGVzE2VjdsRVFUbTRVYzRkcmluQkRDQ3U2ek8ta2xjelJ1TjJkVmQzRDhTb1RQWWMyM1B4RUpuRTR3TVVRZ0RYV1FubHNFTkNrbEJEZzNNTEs5V0R3M3dLbFJEONIB7wFBVV95cUxOX2NMNTlKNV9vQzlPYmhfdmlLcHpfQnVkWVlTZXZZUWd6Ri0tc3BiWmJnNEo4MENSSVM5NmtiMllSM3pHSUxUaWI0c0ZwTTZyRjFIUjY0azQ1SzViN3pidUgtLTZHR1M0Rmx5bl9CVHcwUm5XRnVoSHVVaVhPZHRCa2dPOHZ2SE5POEtQbnI2eWJ3X3NGVzE2VjdsRVFUbTRVYzRkcmluQkRDQ3U2ek8ta2xjelJ1TjJkVmQzRDhTb1RQWWMyM1B4RUpuRTR3TVVRZ0RYV1FubHNFTkNrbEJEZzNNTEs5V0R3M3dLbFJEOA?oc=5",
           "source": "Simply Wall St",
           "publishedAt": "2026-10-30",
           "lede": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout Simply Wall St",
@@ -109378,10 +109603,12 @@
             "Apollo"
           ],
           "strategies": [
+            "private-credit",
             "data-center",
             "ai"
           ],
           "sectors": [
+            "private-credit",
             "data-center",
             "ai"
           ],
@@ -109409,14 +109636,15 @@
               "ai"
             ],
             "llmStrategies": [
+              "private-credit",
               "data-center",
               "ai"
             ],
             "llmEvents": [],
             "llmImportance": 0.15,
             "llmExclude": false,
-            "llmReason": "Simply Wall St stock commentary on Apollo's role in financing the AI data center buildout. The financing angle makes it credit-relevant, but it is stock and analyst commentary, not a specific transaction.",
-            "llmReasonZh": "Simply Wall St关于Apollo在AI数据中心建设融资中所扮演角色的股票评论。融资角度使其与信贷相关，但内容属于股票及分析师评论，并非具体交易。"
+            "llmReason": "Simply Wall St stock-commentary piece on Apollo's role in financing the AI data center buildout. The credit angle (data center and AI financing) is relevant, but it is analyst and stock commentary, not a specific transaction.",
+            "llmReasonZh": "Simply Wall St的股票评论文章，探讨Apollo在AI数据中心建设融资中的角色。其信贷视角（数据中心及AI融资）具有相关性，但内容属于分析师及股票评论，并非具体交易。"
           },
           "rating": {
             "parts": {
@@ -109432,6 +109660,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "private-credit",
                   "data-center",
                   "ai"
                 ],
@@ -109452,9 +109681,9 @@
                 "source": "Simply Wall St"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.6
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
               }
             },
             "weights": {
@@ -109464,15 +109693,22 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 61,
-            "retrievedAt": "2026-10-31T01:17:57.469950+00:00"
+            "score": 58,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 17,
+            "keywordScore": 20,
             "semanticScore": 6.43,
-            "finalScore": 23.43,
+            "finalScore": 26.43,
             "semanticEnabled": true
-          }
+          },
+          "alternateSources": [
+            {
+              "source": "Simply Wall St",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkl0LUlPNFZyd0FnakxkLXVza1I3V1VRSXZNVjVmTDlzaFVmVlBqdFZvNzFmcDl6Y1BNaFFJZWViOGNDSjZKVkdKMVZ0ZmVmeFdDd0VWN0dvc1BiLUdzbXA0bVVSZzkzSkI2NzhCV0M1SEhVTVFMNjZkbmRpODM2T0l0Yk1ybHZXckhuSnRQaVg1YWxFNnlwTl9meGhtY1VoOThZblJ2NmluUGxfcUFmaUtUT3g2Z3Rmdk9QMU5KN2sweldlMzdNTGtRRkdCc3RjdkZMS0RNSHhCQzJ3LXU0akFMRm1JcC12VGfSAe8BQVVfeXFMTl9jTDU5SjVfb0M5T2JoX3ZpS3B6X0J1ZFlZU2V2WVFnekYtLXNwYlpiZzRKODBDUklTOTZrYjJZUjN6R0lMVGliNHNGcE02ckYxSFI2NGs0NUs1Yjd6YnVILS02R0dTNEZseW5fQlR3MFJuV0Z1aEh1VWlYT2R0QmtnTzh2dkhOTzhLUG5yNnlid19zRlcxNlY3bEVRVG00VWM0ZHJpbkJEQ0N1NnpPLWtsY3pSdU4yZFZkM0Q4U29UUFljMjNQeEVKbkU0d01VUWdEWFdRbmxzRU5Da2xCRGczTUxLOVdEdzN3S2xSRDg?oc=5",
+              "title": "Apollo Global Stock And The Firms Financing The AI Data Center Buildout - Simply Wall St"
+            }
+          ]
         },
         {
           "id": "2026-10-30-29146cdc4d5c",
@@ -111401,6 +111637,110 @@
               "finalScore": 20.32,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-b500137fdf93",
+            "title": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Technology Finance Corp. (OTF) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "Blue Owl Technology Finance Corp. (OTF) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZFNMVEdNaG02TTJrN3Jhc3dQekhsemtoRFpWRHFJSGNEZVJxbHVydFhQNF9QM1RlekdoWEljQ1BnczhWcUhHMm5zdktkWGNqbllYVjdrLWNmMkVLc05TSw?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "32b5ee57dd4e286f",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp. (OTF) is Blue Owl's publicly traded tech-focused BDC, so it falls under Blue Owl's credit business. The article is only a Yahoo Finance seasonal returns chart page, which counts as stock-price commentary with no credit event, so importance is low.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp. (OTF) 是 Blue Owl 旗下专注于科技领域的公开上市 BDC，属于 Blue Owl 的信贷业务范畴。该文章仅为 Yahoo Finance 的季节性回报图表页面，属于股价评论，不涉及信用事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.09,
+              "finalScore": 20.09,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -111823,6 +112163,110 @@
               "finalScore": 19.39,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-e0d4a0f69913",
+            "title": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart - Yahoo Finance Australia",
+            "titleZh": "FS KKR Capital Corp.（FS5A.F）季节性回报图表 - Yahoo Finance Australia",
+            "summary": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+            "summaryZh": "FS KKR Capital Corp.（FS5A.F）季节性回报图表 Yahoo Finance Australia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMnoyR3hjaGJTcjJEWVlEMklCZGZCTlFYdWhOSEQzOUZKZ3pqNnpwYzh2STZ6dGJ0LWpNQnNzRS14NzNqelp5Yk51ZHVwQXVqT1hQb0ZJR2VYeVFNU0UwVEtNRk4?oc=5",
+            "source": "Yahoo Finance Australia",
+            "publishedAt": "2026-10-31",
+            "lede": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+            "articleExcerpt": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart - Yahoo Finance Australia. FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+            "contentFingerprint": "03aa89ea7753804f",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp. is KKR's BDC, which is credit exposure. The article is only a stock seasonal-returns chart page (Frankfurt listing) with no news content, so it gets low importance and no event types.",
+              "llmReasonZh": "FS KKR Capital Corp.是KKR旗下的BDC（商业发展公司），属于信贷敞口。该文章仅为股票季节性回报图表页面（法兰克福上市），不含新闻内容，因此重要性低，且未归入任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Australia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.39,
+              "finalScore": 19.39,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -112018,6 +112462,117 @@
               "keywordScore": 6,
               "semanticScore": 3.72,
               "finalScore": 9.72,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-d295e4310f1b",
+            "title": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance Australia",
+            "titleZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 - Yahoo Finance Australia",
+            "summary": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+            "summaryZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 Yahoo Finance Australia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yN1NZNGF3Nlc3M0QzVjU2YkEzTWFnc25wUkhTOENuR1VZTHRNc095cGV3THhnWGtKVnNib2FWTk1xQy1WRXpXQlBEZklrWVVBbDh3ZDBDU3ZGYm1xNnBjV1JB?oc=5",
+            "source": "Yahoo Finance Australia",
+            "publishedAt": "2026-10-31",
+            "lede": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance Australia. Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+            "contentFingerprint": "5b8b629caf8db6b1",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, which is part of its credit business. The article is only a seasonal stock returns chart page, so it carries low importance and no event.",
+              "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 是 Bain Capital 旗下公开上市的业务发展公司（BDC），隶属其信贷业务板块。该文章仅为股票季节性回报图表页面，重要性较低，且不涉及任何事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Australia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.65,
+              "finalScore": 22.65,
               "semanticEnabled": true
             }
           }
@@ -112242,6 +112797,120 @@
               "keywordScore": 17,
               "semanticScore": 5.65,
               "finalScore": 22.65,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-d8661e05e03b",
+            "title": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors - XenoSpectrum",
+            "titleZh": "Blackstone向芯片贷款投资者表示：Anthropic IPO后或获双B评级 - XenoSpectrum",
+            "summary": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+            "summaryZh": "Blackstone向芯片贷款投资者表示，Anthropic在IPO后可能获得双B评级 XenoSpectrum",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4cWs2Q1c3WXNYNkdXMXFSWldQUlNRVElyel9iLXpmU2NhTTRTU3J5dS10NEY4cWVaNVZXVmFXMGJqcGxaTktXMXgtNW1VSnBHRl83T0x3Z25JT0YzZ1RZdHR0eVNtTmUtMjdMWnhwZllXLVZKVXd0dQ?oc=5",
+            "source": "XenoSpectrum",
+            "publishedAt": "2026-10-31",
+            "lede": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+            "articleExcerpt": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors - XenoSpectrum. Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+            "contentFingerprint": "e5fc256b7d500ced",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blackstone is communicating with investors in a chip-backed loan (GPU financing) tied to Anthropic, including a potential double-B credit rating after an IPO. This falls under Blackstone's credit/lending business, specifically AI and GPU asset-based private credit, so it is a financing event rather than equity news.",
+              "llmReasonZh": "Blackstone正与一笔与Anthropic相关的芯片抵押贷款（GPU融资）的投资者沟通，内容包括Anthropic在IPO后可能获得双B信用评级。该事项属于Blackstone的信贷/贷款业务，具体为以AI及GPU资产为支持的私募信贷，因此属于融资事件而非股权新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf",
+                    "ai"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "XenoSpectrum"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.3,
+              "finalScore": 25.3,
               "semanticEnabled": true
             }
           }
@@ -112785,6 +113454,110 @@
           }
         },
         {
+          "id": "2026-10-31-b500137fdf93",
+          "title": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Technology Finance Corp. (OTF) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "Blue Owl Technology Finance Corp. (OTF) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZFNMVEdNaG02TTJrN3Jhc3dQekhsemtoRFpWRHFJSGNEZVJxbHVydFhQNF9QM1RlekdoWEljQ1BnczhWcUhHMm5zdktkWGNqbllYVjdrLWNmMkVLc05TSw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. Blue Owl Technology Finance Corp. (OTF) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "32b5ee57dd4e286f",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp. (OTF) is Blue Owl's publicly traded tech-focused BDC, so it falls under Blue Owl's credit business. The article is only a Yahoo Finance seasonal returns chart page, which counts as stock-price commentary with no credit event, so importance is low.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp. (OTF) 是 Blue Owl 旗下专注于科技领域的公开上市 BDC，属于 Blue Owl 的信贷业务范畴。该文章仅为 Yahoo Finance 的季节性回报图表页面，属于股价评论，不涉及信用事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.09,
+            "finalScore": 20.09,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-12b0f956d6d9",
           "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
           "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
@@ -113205,6 +113978,110 @@
           }
         },
         {
+          "id": "2026-10-31-e0d4a0f69913",
+          "title": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart - Yahoo Finance Australia",
+          "titleZh": "FS KKR Capital Corp.（FS5A.F）季节性回报图表 - Yahoo Finance Australia",
+          "summary": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+          "summaryZh": "FS KKR Capital Corp.（FS5A.F）季节性回报图表 Yahoo Finance Australia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMnoyR3hjaGJTcjJEWVlEMklCZGZCTlFYdWhOSEQzOUZKZ3pqNnpwYzh2STZ6dGJ0LWpNQnNzRS14NzNqelp5Yk51ZHVwQXVqT1hQb0ZJR2VYeVFNU0UwVEtNRk4?oc=5",
+          "source": "Yahoo Finance Australia",
+          "publishedAt": "2026-10-31",
+          "lede": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+          "articleExcerpt": "FS KKR Capital Corp. (FS5A.F) Seasonal returns chart - Yahoo Finance Australia. FS KKR Capital Corp. (FS5A.F) Seasonal returns chart Yahoo Finance Australia",
+          "contentFingerprint": "03aa89ea7753804f",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp. is KKR's BDC, which is credit exposure. The article is only a stock seasonal-returns chart page (Frankfurt listing) with no news content, so it gets low importance and no event types.",
+            "llmReasonZh": "FS KKR Capital Corp.是KKR旗下的BDC（商业发展公司），属于信贷敞口。该文章仅为股票季节性回报图表页面（法兰克福上市），不含新闻内容，因此重要性低，且未归入任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Australia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.39,
+            "finalScore": 19.39,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-dec645715bb3",
           "title": "Neuberger Berman High Yield Strategies Fund (NYSEAMERICAN:NHS) Stock Short Interest Jumps 124.2% - MarketBeat",
           "titleZh": "Neuberger Berman High Yield Strategies Fund (NYSEAMERICAN:NHS) 空头仓位激增124.2% - MarketBeat",
@@ -113389,6 +114266,117 @@
             "keywordScore": 6,
             "semanticScore": 3.72,
             "finalScore": 9.72,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-d295e4310f1b",
+          "title": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance Australia",
+          "titleZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 - Yahoo Finance Australia",
+          "summary": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+          "summaryZh": "Bain Capital Specialty Finance, Inc. (BCSF) 季节性回报图表 Yahoo Finance Australia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yN1NZNGF3Nlc3M0QzVjU2YkEzTWFnc25wUkhTOENuR1VZTHRNc095cGV3THhnWGtKVnNib2FWTk1xQy1WRXpXQlBEZklrWVVBbDh3ZDBDU3ZGYm1xNnBjV1JB?oc=5",
+          "source": "Yahoo Finance Australia",
+          "publishedAt": "2026-10-31",
+          "lede": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart - Yahoo Finance Australia. Bain Capital Specialty Finance, Inc. (BCSF) Seasonal returns chart Yahoo Finance Australia",
+          "contentFingerprint": "5b8b629caf8db6b1",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, which is part of its credit business. The article is only a seasonal stock returns chart page, so it carries low importance and no event.",
+            "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 是 Bain Capital 旗下公开上市的业务发展公司（BDC），隶属其信贷业务板块。该文章仅为股票季节性回报图表页面，重要性较低，且不涉及任何事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Australia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.65,
+            "finalScore": 22.65,
             "semanticEnabled": true
           }
         },
@@ -113611,6 +114599,120 @@
             "keywordScore": 17,
             "semanticScore": 5.65,
             "finalScore": 22.65,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-d8661e05e03b",
+          "title": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors - XenoSpectrum",
+          "titleZh": "Blackstone向芯片贷款投资者表示：Anthropic IPO后或获双B评级 - XenoSpectrum",
+          "summary": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+          "summaryZh": "Blackstone向芯片贷款投资者表示，Anthropic在IPO后可能获得双B评级 XenoSpectrum",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4cWs2Q1c3WXNYNkdXMXFSWldQUlNRVElyel9iLXpmU2NhTTRTU3J5dS10NEY4cWVaNVZXVmFXMGJqcGxaTktXMXgtNW1VSnBHRl83T0x3Z25JT0YzZ1RZdHR0eVNtTmUtMjdMWnhwZllXLVZKVXd0dQ?oc=5",
+          "source": "XenoSpectrum",
+          "publishedAt": "2026-10-31",
+          "lede": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+          "articleExcerpt": "Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors - XenoSpectrum. Anthropic Could Be Rated Double-B After IPO, Blackstone Tells Chip-Loan Investors XenoSpectrum",
+          "contentFingerprint": "e5fc256b7d500ced",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blackstone is communicating with investors in a chip-backed loan (GPU financing) tied to Anthropic, including a potential double-B credit rating after an IPO. This falls under Blackstone's credit/lending business, specifically AI and GPU asset-based private credit, so it is a financing event rather than equity news.",
+            "llmReasonZh": "Blackstone正与一笔与Anthropic相关的芯片抵押贷款（GPU融资）的投资者沟通，内容包括Anthropic在IPO后可能获得双B信用评级。该事项属于Blackstone的信贷/贷款业务，具体为以AI及GPU资产为支持的私募信贷，因此属于融资事件而非股权新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf",
+                  "ai"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "XenoSpectrum"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.3,
+            "finalScore": 25.3,
             "semanticEnabled": true
           }
         },
@@ -113933,7 +115035,112 @@
     "2026-11-01": {
       "byGp": {
         "Blue Owl": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-01-d7d039db3cf3",
+            "title": "Money managers including KKR get ready to snatch up bargain leveraged loans - The Business Times",
+            "titleZh": "KKR等资产管理机构准备抄底低价杠杆贷款 - The Business Times",
+            "summary": "Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+            "summaryZh": "KKR等资产管理机构准备抄底低价杠杆贷款 The Business Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWVxYlA5ZVJGaHhyWnB0OUl2QUU2OERxczZxZEJhclUyRENwckNIa0g5anppbXY2c011NVlEakNHTk1WaUFlT2hwNE5HazAxT0NVQW92NUhiYW9xY3NiN2hwY3Q1TlIteG5CNFRLZjlwV1VLNEs1Um5sUTNpTG4tTXFSU0x3di1iVGxLOWxZXzlCVVA2NVQ5R2oyNmRCS3c4VWgwWEVYTVNYbURLN1ZKcGxYdi1Dc0dDSzluMm1JYldBcnd3MjNBd2s4TWFhTm5pTUE?oc=5",
+            "source": "The Business Times",
+            "publishedAt": "2026-11-01",
+            "lede": "Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+            "articleExcerpt": "Money managers including KKR get ready to snatch up bargain leveraged loans - The Business Times. Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+            "contentFingerprint": "ed838003180c256b",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article covers KKR's credit business positioning to buy discounted leveraged loans. That is credit market activity, not PE or infrastructure, so it is not excluded. It is routine manager and market commentary with no specific transaction, which puts it at moderate importance with no event tag. Leveraged loans fit loosely under the private-credit bucket.",
+              "llmReasonZh": "该文章报道KKR信贷业务正布局买入折价杠杆贷款。此为信贷市场活动，不属于私募股权或基础设施领域，因此未被排除。文章属于常规的管理人及市场评论，未涉及具体交易，因此重要性为中等，且不加事件标签。杠杆贷款可大致归入私募信贷类别。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Business Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.69,
+              "finalScore": 19.69,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
@@ -113948,13 +115155,118 @@
         "CVC": [],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-01-d7d039db3cf3",
+          "title": "Money managers including KKR get ready to snatch up bargain leveraged loans - The Business Times",
+          "titleZh": "KKR等资产管理机构准备抄底低价杠杆贷款 - The Business Times",
+          "summary": "Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+          "summaryZh": "KKR等资产管理机构准备抄底低价杠杆贷款 The Business Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWVxYlA5ZVJGaHhyWnB0OUl2QUU2OERxczZxZEJhclUyRENwckNIa0g5anppbXY2c011NVlEakNHTk1WaUFlT2hwNE5HazAxT0NVQW92NUhiYW9xY3NiN2hwY3Q1TlIteG5CNFRLZjlwV1VLNEs1Um5sUTNpTG4tTXFSU0x3di1iVGxLOWxZXzlCVVA2NVQ5R2oyNmRCS3c4VWgwWEVYTVNYbURLN1ZKcGxYdi1Dc0dDSzluMm1JYldBcnd3MjNBd2s4TWFhTm5pTUE?oc=5",
+          "source": "The Business Times",
+          "publishedAt": "2026-11-01",
+          "lede": "Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+          "articleExcerpt": "Money managers including KKR get ready to snatch up bargain leveraged loans - The Business Times. Money managers including KKR get ready to snatch up bargain leveraged loans The Business Times",
+          "contentFingerprint": "ed838003180c256b",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "The article covers KKR's credit business positioning to buy discounted leveraged loans. That is credit market activity, not PE or infrastructure, so it is not excluded. It is routine manager and market commentary with no specific transaction, which puts it at moderate importance with no event tag. Leveraged loans fit loosely under the private-credit bucket.",
+            "llmReasonZh": "该文章报道KKR信贷业务正布局买入折价杠杆贷款。此为信贷市场活动，不属于私募股权或基础设施领域，因此未被排除。文章属于常规的管理人及市场评论，未涉及具体交易，因此重要性为中等，且不加事件标签。杠杆贷款可大致归入私募信贷类别。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Business Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-01T08:28:14.369024+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.69,
+            "finalScore": 19.69,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 104,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -113962,12 +115274,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 46,
+      "count": 42,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -113975,12 +115287,12 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 1,
+      "count": 0,
       "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -113988,12 +115300,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 13,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -114001,7 +115313,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
@@ -114014,12 +115326,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 4,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -114027,20 +115339,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 5,
-      "selected": 2,
+      "count": 7,
+      "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
@@ -114053,25 +115365,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 21,
-      "selected": 3,
+      "count": 11,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 72,
+      "count": 95,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -114079,38 +115391,38 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 30,
-      "selected": 5,
+      "count": 50,
+      "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
       "count": 17,
-      "selected": 2,
+      "selected": 3,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 12,
+      "count": 14,
       "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -114118,12 +115430,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 29,
+      "count": 28,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -114131,12 +115443,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 29,
+      "count": 54,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -114144,12 +115456,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 304,
+      "count": 303,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -114163,9 +115475,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-11-01T01:42:50.052003+00:00",
+      "asOf": "2026-11-01T08:28:14.369024+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-01T01:42:50.052003+00:00"
+  "checkedAt": "2026-11-01T08:28:14.369024+00:00"
 }
