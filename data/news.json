@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-01T09:16:44.236215+00:00",
+  "updatedAt": "2026-11-01T16:12:27.441896+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9327,7 +9327,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11349,7 +11349,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金的框架下可归入更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先级有担保的短期贷款工具，在流动性基金的框架下属于更广义的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -103764,6 +103764,109 @@
               "finalScore": 19.34,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-81e55fbd2569",
+            "title": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "KKR Real Estate Finance Trust Inc. (KREF) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+            "summary": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "KKR Real Estate Finance Trust Inc. (KREF) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlN3dZaUlZd0F3RVBSODNiQllwVmhzTVBnVlNEVFp1S2tzcXA3RTJKbEV2ZmtCaC1OODFueTlPd2N4V3JNZ25xbHo5LS1wemRBTlE?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-30",
+            "lede": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "e1a6eecdb4108431",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KREF is KKR's commercial real estate lending (mortgage REIT) vehicle, so it counts as credit exposure. The article is just a generic stock quote page with no news content, so importance is low.",
+              "llmReasonZh": "KREF是KKR旗下的商业地产贷款（抵押贷款型REIT）平台，因此属于信贷敞口。该文章仅为常规股票报价页面，无实质新闻内容，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.41,
+              "finalScore": 19.41,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -105957,6 +106060,102 @@
               "finalScore": 15.49,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-61d703232687",
+            "title": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - Yahoo Finance",
+            "titleZh": "Apollo即将公布第三季度财报：股价前景如何？ - Yahoo Finance",
+            "summary": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+            "summaryZh": "Apollo即将公布第三季度财报：股价前景如何？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnNDSnJoaDNPNDB6dy11Z0VwbWwtcTA3QVBEWVU4bEh1WGJFQ1VxY0JQSFJmeUJSS1RlMXBCdUFjQmJpZUozcWs3OENFMkcxT2tqMUU2NjYycWRhLVlaSkgyS0dVZXNVYXFweGNEWjI3bFlGNTNsM3k0M3NrZVdUTlpfNFl4XzhXWTI3Y2lUbEtXZXNuclpESk5fZmc?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+            "articleExcerpt": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - Yahoo Finance. Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+            "contentFingerprint": "61a0f5911cdc6519",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Earnings-preview and stock commentary on Apollo Global Management, whose results are driven largely by its credit business (Athene, Apollo credit). The article has no specific credit transaction, fundraising, or legal event, so it gets low importance as stock/analyst commentary.",
+              "llmReasonZh": "关于Apollo Global Management的财报前瞻及股票评论，该公司业绩主要由其信贷业务（Athene、Apollo信贷）驱动。文章未涉及具体信贷交易、募资或法律事件，作为股票/分析师评论，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.42,
+              "finalScore": 16.42,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -106449,6 +106648,114 @@
               "finalScore": 16.13,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-30-e9427309ae0e",
+            "title": "TPG, ACORE Raise Billions For Opportunistic CRE Funds - Yahoo Finance",
+            "titleZh": "TPG、ACORE为机会型商业地产基金募资数十亿美元 - Yahoo Finance",
+            "summary": "TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+            "summaryZh": "TPG、ACORE为机会型商业地产基金募资数十亿美元 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2prOWZTYzRCNFNtUk1aUmpzY3JtYmxuSEdFZzVtemJHZXZLUXRqVmpWYnNxWGxJWUlPQnpDZmZfSjZubEI0UnlrSWNPNHByblNPSmJDS1hVcHFtNmJDZ0ZhRXZ0YlcxLUFBczlkeENyRE5yUERiSDd4WVIxZGM4RmZ1TmNzSTl6V1hoMGtlTmZDS2pGWkZ5TjJBZUZTbkpVb2c?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-30",
+            "lede": "TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+            "articleExcerpt": "TPG, ACORE Raise Billions For Opportunistic CRE Funds - Yahoo Finance. TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+            "contentFingerprint": "f25781c5c4b60308",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "cre"
+              ],
+              "titleStrategies": [
+                "cre"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Fundraising news for opportunistic CRE funds involving TPG and ACORE. ACORE is a CRE lender, so the article likely has a real-estate credit angle. The body text is only the headline, though, so it is unclear whether TPG's fund is credit or equity. Tagged provisionally; downgrade to excluded if TPG's fund proves to be pure real estate equity. Blue Owl owns ACORE but is not named, so it is not tagged.",
+              "llmReasonZh": "涉及TPG和ACORE的机会型商业地产（CRE）基金募资新闻。ACORE是一家商业地产贷款机构，因此该文章可能涉及房地产信贷角度。但正文仅有标题，因此尚不清楚TPG的基金属于信贷型还是股权型。暂予标记；若TPG的基金被证实为纯房地产股权基金，则降级为排除。Blue Owl拥有ACORE，但文中未提及，因此不予标记。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.71,
+              "finalScore": 19.71,
+              "semanticEnabled": true
+            }
           }
         ],
         "Golub": [
@@ -106873,6 +107180,119 @@
               "keywordScore": 12,
               "semanticScore": 6.52,
               "finalScore": 18.52,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-30-e7f2f2f48750",
+            "title": "Verisma Closes Golub Capital Financing for Growth, M&A - ABF Journal",
+            "titleZh": "Verisma完成Golub Capital融资，用于业务增长及并购 - ABF Journal",
+            "summary": "Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+            "summaryZh": "Verisma完成Golub Capital融资，用于业务增长及并购 ABF Journal",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkxsNmJFZ252bjZwamJOSXVkdmw3SzdOUWNGNXZaMjQzdy1pT182WWVBdHFzNmRITTV3Zi1mbmFlUndEYzFBSklPa0dfR2ZYSjY3VFJwemxNYjVpR0p1UEYzdHRqeklhU0hPT0o5TDVaam9PZ2lINzk0ZVFnRFlCUHdjd1A0R3c?oc=5",
+            "source": "ABF Journal",
+            "publishedAt": "2026-10-30",
+            "lede": "Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+            "articleExcerpt": "Verisma Closes Golub Capital Financing for Growth, M&A - ABF Journal. Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+            "contentFingerprint": "373adb6d9dac9a6d",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Golub Capital provided a financing to Verisma to fund growth and M&A. This is a direct lending transaction, so it counts as ordinary financing. 'ABF Journal' is only the publication name, so the ABF strategy is not tagged.",
+              "llmReasonZh": "Golub Capital向Verisma提供融资，用于支持其业务增长及并购。该交易属于直接贷款交易，因此归类为普通融资。'ABF Journal'仅为刊物名称，因此未标记ABF策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "ABF Journal"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 80,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.24,
+              "finalScore": 23.240000000000002,
               "semanticEnabled": true
             }
           }
@@ -108120,6 +108540,109 @@
             "keywordScore": 14,
             "semanticScore": 5.34,
             "finalScore": 19.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-81e55fbd2569",
+          "title": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "KKR Real Estate Finance Trust Inc. (KREF) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+          "summary": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "KKR Real Estate Finance Trust Inc. (KREF) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlN3dZaUlZd0F3RVBSODNiQllwVmhzTVBnVlNEVFp1S2tzcXA3RTJKbEV2ZmtCaC1OODFueTlPd2N4V3JNZ25xbHo5LS1wemRBTlE?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-30",
+          "lede": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History - Yahoo! Finance Canada. KKR Real Estate Finance Trust Inc. (KREF) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "e1a6eecdb4108431",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KREF is KKR's commercial real estate lending (mortgage REIT) vehicle, so it counts as credit exposure. The article is just a generic stock quote page with no news content, so importance is low.",
+            "llmReasonZh": "KREF是KKR旗下的商业地产贷款（抵押贷款型REIT）平台，因此属于信贷敞口。该文章仅为常规股票报价页面，无实质新闻内容，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.41,
+            "finalScore": 19.41,
             "semanticEnabled": true
           }
         },
@@ -110303,6 +110826,102 @@
           }
         },
         {
+          "id": "2026-10-30-61d703232687",
+          "title": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - Yahoo Finance",
+          "titleZh": "Apollo即将公布第三季度财报：股价前景如何？ - Yahoo Finance",
+          "summary": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+          "summaryZh": "Apollo即将公布第三季度财报：股价前景如何？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnNDSnJoaDNPNDB6dy11Z0VwbWwtcTA3QVBEWVU4bEh1WGJFQ1VxY0JQSFJmeUJSS1RlMXBCdUFjQmJpZUozcWs3OENFMkcxT2tqMUU2NjYycWRhLVlaSkgyS0dVZXNVYXFweGNEWjI3bFlGNTNsM3k0M3NrZVdUTlpfNFl4XzhXWTI3Y2lUbEtXZXNuclpESk5fZmc?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+          "articleExcerpt": "Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? - Yahoo Finance. Apollo Gears Up to Report Q3 Earnings: What's in Store for the Stock? Yahoo Finance",
+          "contentFingerprint": "61a0f5911cdc6519",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Earnings-preview and stock commentary on Apollo Global Management, whose results are driven largely by its credit business (Athene, Apollo credit). The article has no specific credit transaction, fundraising, or legal event, so it gets low importance as stock/analyst commentary.",
+            "llmReasonZh": "关于Apollo Global Management的财报前瞻及股票评论，该公司业绩主要由其信贷业务（Athene、Apollo信贷）驱动。文章未涉及具体信贷交易、募资或法律事件，作为股票/分析师评论，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.42,
+            "finalScore": 16.42,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-1a6ed637f565",
           "title": "TPG Q3 Earnings Call Highlights - Yahoo Finance",
           "titleZh": "TPG第三季度财报电话会要点 - Yahoo Finance",
@@ -110793,6 +111412,114 @@
           }
         },
         {
+          "id": "2026-10-30-e9427309ae0e",
+          "title": "TPG, ACORE Raise Billions For Opportunistic CRE Funds - Yahoo Finance",
+          "titleZh": "TPG、ACORE为机会型商业地产基金募资数十亿美元 - Yahoo Finance",
+          "summary": "TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+          "summaryZh": "TPG、ACORE为机会型商业地产基金募资数十亿美元 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2prOWZTYzRCNFNtUk1aUmpzY3JtYmxuSEdFZzVtemJHZXZLUXRqVmpWYnNxWGxJWUlPQnpDZmZfSjZubEI0UnlrSWNPNHByblNPSmJDS1hVcHFtNmJDZ0ZhRXZ0YlcxLUFBczlkeENyRE5yUERiSDd4WVIxZGM4RmZ1TmNzSTl6V1hoMGtlTmZDS2pGWkZ5TjJBZUZTbkpVb2c?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-30",
+          "lede": "TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+          "articleExcerpt": "TPG, ACORE Raise Billions For Opportunistic CRE Funds - Yahoo Finance. TPG, ACORE Raise Billions For Opportunistic CRE Funds Yahoo Finance",
+          "contentFingerprint": "f25781c5c4b60308",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [
+              "cre"
+            ],
+            "titleStrategies": [
+              "cre"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Fundraising news for opportunistic CRE funds involving TPG and ACORE. ACORE is a CRE lender, so the article likely has a real-estate credit angle. The body text is only the headline, though, so it is unclear whether TPG's fund is credit or equity. Tagged provisionally; downgrade to excluded if TPG's fund proves to be pure real estate equity. Blue Owl owns ACORE but is not named, so it is not tagged.",
+            "llmReasonZh": "涉及TPG和ACORE的机会型商业地产（CRE）基金募资新闻。ACORE是一家商业地产贷款机构，因此该文章可能涉及房地产信贷角度。但正文仅有标题，因此尚不清楚TPG的基金属于信贷型还是股权型。暂予标记；若TPG的基金被证实为纯房地产股权基金，则降级为排除。Blue Owl拥有ACORE，但文中未提及，因此不予标记。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.7,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.71,
+            "finalScore": 19.71,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-30-592362494bbd",
           "title": "SVP backs 1.2 GW power JV; BSP, Golub finance Texas apartments, healthtech provider - Alternatives Watch",
           "titleZh": "SVP支持1.2 GW电力合资企业；BSP、Golub为德州公寓及医疗科技服务商提供融资 - Alternatives Watch",
@@ -111213,6 +111940,119 @@
             "keywordScore": 12,
             "semanticScore": 6.52,
             "finalScore": 18.52,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-30-e7f2f2f48750",
+          "title": "Verisma Closes Golub Capital Financing for Growth, M&A - ABF Journal",
+          "titleZh": "Verisma完成Golub Capital融资，用于业务增长及并购 - ABF Journal",
+          "summary": "Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+          "summaryZh": "Verisma完成Golub Capital融资，用于业务增长及并购 ABF Journal",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkxsNmJFZ252bjZwamJOSXVkdmw3SzdOUWNGNXZaMjQzdy1pT182WWVBdHFzNmRITTV3Zi1mbmFlUndEYzFBSklPa0dfR2ZYSjY3VFJwemxNYjVpR0p1UEYzdHRqeklhU0hPT0o5TDVaam9PZ2lINzk0ZVFnRFlCUHdjd1A0R3c?oc=5",
+          "source": "ABF Journal",
+          "publishedAt": "2026-10-30",
+          "lede": "Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+          "articleExcerpt": "Verisma Closes Golub Capital Financing for Growth, M&A - ABF Journal. Verisma Closes Golub Capital Financing for Growth, M&A ABF Journal",
+          "contentFingerprint": "373adb6d9dac9a6d",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Golub Capital provided a financing to Verisma to fund growth and M&A. This is a direct lending transaction, so it counts as ordinary financing. 'ABF Journal' is only the publication name, so the ABF strategy is not tagged.",
+            "llmReasonZh": "Golub Capital向Verisma提供融资，用于支持其业务增长及并购。该交易属于直接贷款交易，因此归类为普通融资。'ABF Journal'仅为刊物名称，因此未标记ABF策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "ABF Journal"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 80,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.24,
+            "finalScore": 23.240000000000002,
             "semanticEnabled": true
           }
         },
@@ -115149,8 +115989,212 @@
         "BasePoint": [],
         "Bain Capital": [],
         "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
+        "Apollo": [
+          {
+            "id": "2026-11-01-4f74a58d92f0",
+            "title": "Ares Private-Credit Fund to Buy Competitor From Apollo - WSJ",
+            "titleZh": "Ares私募信贷基金将从Apollo收购一家竞争对手 - WSJ",
+            "summary": "Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+            "summaryZh": "Ares私募信贷基金将从Apollo收购一家竞争对手 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZwZ1FEMW04cEtxdzdaV1RaNm9ZUXl3NlNEQmRuMk1qT0p5aXRNTEZ6RS1qdjJURFdVUzhGRWV6QmZKdUNmZklVaW95T0c0R2llRWdnckJEYy1IN1lxMk5aRzAtU24zbkkwb3cwRzc0NXJqb1A4WXo1QXl4QUZwOExVSThLY2o0MFA0Q1lQZG03ZDVLckgyeGlZbjFGZzVUMVB3?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-01",
+            "lede": "Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+            "articleExcerpt": "Ares Private-Credit Fund to Buy Competitor From Apollo - WSJ. Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+            "contentFingerprint": "59828b5f6c54ce98",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Ares's private-credit fund is acquiring a competing private-credit vehicle from Apollo. That is a significant transaction involving Apollo's credit business. Ares is not a tracked GP.",
+              "llmReasonZh": "Ares旗下私募信贷基金正从Apollo收购一家与其竞争的私募信贷载体。这是一笔涉及Apollo信贷业务的重大交易。Ares并非跟踪的GP。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 89,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.54,
+              "finalScore": 20.54,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "TPG": [
+          {
+            "id": "2026-11-01-516a6cb2a9e9",
+            "title": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges - Investing.com Canada",
+            "titleZh": "财报电话会议实录：TPG 2026年第三季度业绩超预期，募资规模大增 - Investing.com Canada",
+            "summary": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+            "summaryZh": "财报电话会议实录：TPG 2026年第三季度业绩超预期，募资规模大增 Investing.com Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0NvdVJ2emQtT09UU1EtdXNFYlNHdFZKQ04zV0hlNzVpTkRFNWVHVURNVzk1Y2t6YWE0ZFRLYmw1ZkNycFp4T1pZcEIzOWg4eVNLXzBwcVpId0c3aTdxdGtnLUVoc3o3R0NqUEt3YzJ5T0tsVk5kSUpsRE5IOUNyZTlsYjJTQTR4TUpMNk05SEMtamVYUG5RTDVZTFNXWVhPcDh1alhtTlFsdU9FR2ZWSjBid3RPcTZmUWFnOElWRGZoUlBoWDlXWmtJbUQtNWs?oc=5",
+            "source": "Investing.com Canada",
+            "publishedAt": "2026-11-01",
+            "lede": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+            "articleExcerpt": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges - Investing.com Canada. Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+            "contentFingerprint": "902fa64545f80819",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a firm-wide TPG earnings call transcript headline. TPG has a credit platform (Angelo Gordon), so firm-level results and fundraising commentary are somewhat relevant. However, the text names no credit fund, close or financing deal, so no strategy or event is tagged. Importance is moderate-low because this is earnings and analyst-type commentary.",
+              "llmReasonZh": "这是一则关于TPG公司整体层面财报电话会议实录的标题。TPG拥有信贷平台（Angelo Gordon），因此公司层面的业绩及募资相关评论具有一定相关性。但文中未提及任何信贷基金、基金募集完成或融资交易，因此未标注任何策略或事件。由于内容属于财报及分析师类评论，重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.82,
+              "finalScore": 7.82,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Golub": [],
         "CVC": [],
         "Canyon": []
@@ -115259,6 +116303,208 @@
             "finalScore": 19.69,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-01-4f74a58d92f0",
+          "title": "Ares Private-Credit Fund to Buy Competitor From Apollo - WSJ",
+          "titleZh": "Ares私募信贷基金将从Apollo收购一家竞争对手 - WSJ",
+          "summary": "Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+          "summaryZh": "Ares私募信贷基金将从Apollo收购一家竞争对手 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZwZ1FEMW04cEtxdzdaV1RaNm9ZUXl3NlNEQmRuMk1qT0p5aXRNTEZ6RS1qdjJURFdVUzhGRWV6QmZKdUNmZklVaW95T0c0R2llRWdnckJEYy1IN1lxMk5aRzAtU24zbkkwb3cwRzc0NXJqb1A4WXo1QXl4QUZwOExVSThLY2o0MFA0Q1lQZG03ZDVLckgyeGlZbjFGZzVUMVB3?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-01",
+          "lede": "Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+          "articleExcerpt": "Ares Private-Credit Fund to Buy Competitor From Apollo - WSJ. Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+          "contentFingerprint": "59828b5f6c54ce98",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Ares's private-credit fund is acquiring a competing private-credit vehicle from Apollo. That is a significant transaction involving Apollo's credit business. Ares is not a tracked GP.",
+            "llmReasonZh": "Ares旗下私募信贷基金正从Apollo收购一家与其竞争的私募信贷载体。这是一笔涉及Apollo信贷业务的重大交易。Ares并非跟踪的GP。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.77,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 89,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.54,
+            "finalScore": 20.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-01-516a6cb2a9e9",
+          "title": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges - Investing.com Canada",
+          "titleZh": "财报电话会议实录：TPG 2026年第三季度业绩超预期，募资规模大增 - Investing.com Canada",
+          "summary": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+          "summaryZh": "财报电话会议实录：TPG 2026年第三季度业绩超预期，募资规模大增 Investing.com Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0NvdVJ2emQtT09UU1EtdXNFYlNHdFZKQ04zV0hlNzVpTkRFNWVHVURNVzk1Y2t6YWE0ZFRLYmw1ZkNycFp4T1pZcEIzOWg4eVNLXzBwcVpId0c3aTdxdGtnLUVoc3o3R0NqUEt3YzJ5T0tsVk5kSUpsRE5IOUNyZTlsYjJTQTR4TUpMNk05SEMtamVYUG5RTDVZTFNXWVhPcDh1alhtTlFsdU9FR2ZWSjBid3RPcTZmUWFnOElWRGZoUlBoWDlXWmtJbUQtNWs?oc=5",
+          "source": "Investing.com Canada",
+          "publishedAt": "2026-11-01",
+          "lede": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+          "articleExcerpt": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges - Investing.com Canada. Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges Investing.com Canada",
+          "contentFingerprint": "902fa64545f80819",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a firm-wide TPG earnings call transcript headline. TPG has a credit platform (Angelo Gordon), so firm-level results and fundraising commentary are somewhat relevant. However, the text names no credit fund, close or financing deal, so no strategy or event is tagged. Importance is moderate-low because this is earnings and analyst-type commentary.",
+            "llmReasonZh": "这是一则关于TPG公司整体层面财报电话会议实录的标题。TPG拥有信贷平台（Angelo Gordon），因此公司层面的业绩及募资相关评论具有一定相关性。但文中未提及任何信贷基金、基金募集完成或融资交易，因此未标注任何策略或事件。由于内容属于财报及分析师类评论，重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.55,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-01T15:39:10.302057+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.82,
+            "finalScore": 7.82,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -115266,7 +116512,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 100,
+      "count": 71,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -115274,12 +116520,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 42,
+      "count": 40,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -115287,7 +116533,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
@@ -115300,12 +116546,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 12,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -115313,7 +116559,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
@@ -115326,12 +116572,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 4,
+      "count": 5,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -115339,12 +116585,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -115352,7 +116598,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
@@ -115365,12 +116611,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 11,
+      "count": 17,
       "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -115378,12 +116624,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 95,
+      "count": 85,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -115391,12 +116637,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 50,
+      "count": 29,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -115404,51 +116650,51 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 17,
-      "selected": 3,
+      "count": 16,
+      "selected": 4,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 14,
-      "selected": 1,
+      "count": 13,
+      "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 28,
-      "selected": 1,
+      "count": 9,
+      "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 54,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -115456,12 +116702,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 303,
+      "count": 166,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -115475,9 +116721,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-11-01T08:28:14.369024+00:00",
+      "asOf": "2026-11-01T15:39:10.302057+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-01T08:28:14.369024+00:00"
+  "checkedAt": "2026-11-01T15:39:10.302057+00:00"
 }
