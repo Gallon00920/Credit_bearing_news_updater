@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-02T00:09:20.666927+00:00",
+  "updatedAt": "2026-11-02T03:51:12.643778+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,168 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-04": {
-      "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [
-          {
-            "id": "2026-08-04-88e9cf679075",
-            "title": "BasePoint Completes IPF Deal; Credit24 Owner Changes - infoerdve.lt",
-            "titleZh": "BasePoint完成IPF交易；Credit24易主 - infoerdve.lt",
-            "summary": "BasePoint Completes IPF Deal; Credit24 Owner Changes infoerdve.lt",
-            "summaryZh": "BasePoint完成IPF交易；Credit24易主 infoerdve.lt",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTVTV2d5LVpUSHhZN0pnTF9NZFJaR3gzS1NTRVc5NHJmRzRpQVVqUFJmVUJHUTVwWXRMSFBEZWhDZWpfX1lCNm0tNjhMeWotTFBIYWdaaTN1S2FQYWVsa1pTa1E4Y1Z6UVBJOURtYTJPQ0JfMDlKQlR5U1pidENJdW5SS2l5dw?oc=5",
-            "source": "infoerdve.lt",
-            "publishedAt": "2026-08-04",
-            "lede": "BasePoint Completes IPF Deal; Credit24 Owner Changes infoerdve.lt",
-            "region": "Global",
-            "gps": [
-              "BasePoint"
-            ],
-            "sectors": [],
-            "curation": "rss_filter",
-            "scoreBreakdown": {
-              "keywordScore": 11,
-              "semanticScore": 0,
-              "finalScore": 11,
-              "semanticEnabled": false
-            },
-            "classificationBreakdown": {
-              "llmReasonZh": "n/a"
-            },
-            "strategies": [],
-            "events": [],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "BasePoint"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.0,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": []
-                },
-                "event": {
-                  "value": 0.95,
-                  "code": "major_signal",
-                  "ruleValue": 0.95,
-                  "events": []
-                },
-                "source": {
-                  "value": 0.35,
-                  "code": "tier_other",
-                  "source": "infoerdve.lt"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 67,
-              "retrievedAt": "2026-10-29T09:02:01.307683+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-04-88e9cf679075",
-          "title": "BasePoint Completes IPF Deal; Credit24 Owner Changes - infoerdve.lt",
-          "titleZh": "BasePoint完成IPF交易；Credit24易主 - infoerdve.lt",
-          "summary": "BasePoint Completes IPF Deal; Credit24 Owner Changes infoerdve.lt",
-          "summaryZh": "BasePoint完成IPF交易；Credit24易主 infoerdve.lt",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTVTV2d5LVpUSHhZN0pnTF9NZFJaR3gzS1NTRVc5NHJmRzRpQVVqUFJmVUJHUTVwWXRMSFBEZWhDZWpfX1lCNm0tNjhMeWotTFBIYWdaaTN1S2FQYWVsa1pTa1E4Y1Z6UVBJOURtYTJPQ0JfMDlKQlR5U1pidENJdW5SS2l5dw?oc=5",
-          "source": "infoerdve.lt",
-          "publishedAt": "2026-08-04",
-          "lede": "BasePoint Completes IPF Deal; Credit24 Owner Changes infoerdve.lt",
-          "region": "Global",
-          "gps": [
-            "BasePoint"
-          ],
-          "sectors": [],
-          "curation": "rss_filter",
-          "scoreBreakdown": {
-            "keywordScore": 11,
-            "semanticScore": 0,
-            "finalScore": 11,
-            "semanticEnabled": false
-          },
-          "classificationBreakdown": {
-            "llmReasonZh": "n/a"
-          },
-          "strategies": [],
-          "events": [],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "BasePoint"
-                ]
-              },
-              "strategy": {
-                "value": 0.0,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": []
-              },
-              "event": {
-                "value": 0.95,
-                "code": "major_signal",
-                "ruleValue": 0.95,
-                "events": []
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "infoerdve.lt"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 67,
-            "retrievedAt": "2026-10-29T09:02:01.307683+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-06": {
       "byGp": {
         "Blue Owl": [
@@ -9327,7 +9165,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口一致。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11349,7 +11187,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归入更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21737,7 +21575,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（来源：financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -21761,7 +21599,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为主的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -112677,6 +112515,293 @@
               "finalScore": 17.34,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-b788207a2407",
+            "title": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? - Yahoo Finance",
+            "titleZh": "Blue Owl Capital (OWL)重获关注，背后原因何在？ - Yahoo Finance",
+            "summary": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+            "summaryZh": "Blue Owl Capital (OWL)重获关注，背后原因何在？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejJ4ZDVRVkgtVEpIdUZ0Qk9ibFJEN1ZoblMwamE4REk5RWR0ejdMQlRtanN3STU1ekdIRnpPX19vdUlXODNJTlNWdk13OVlyMEtiblpNT2VTLTRycEU3TTlJMHlFVzRVdU5PbDVneFpjVHRWLUZEQW9XMTVYWktNMFhhbkt4OWlIVU0wbnJ0TE1xbUhWM1dN?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? - Yahoo Finance. Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+            "contentFingerprint": "ee879c14b3b0a652",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic stock-attention piece on Blue Owl Capital (OWL) with no substantive content. Blue Owl's core business is credit, so it stays tagged rather than excluded, but it reads as stock/analyst commentary and gets low importance.",
+              "llmReasonZh": "关于Blue Owl Capital (OWL)的泛泛股票关注度文章，缺乏实质内容。Blue Owl的核心业务为信贷，因此保留标签而未予排除，但该文属于股票/分析师评论性质，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.25,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.94,
+              "finalScore": 16.94,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-c9af23995eed",
+            "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+            "titleZh": "Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰：报道 - Stocktwits",
+            "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "summaryZh": "Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰：报道 Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "contentFingerprint": "0f86314f155ad5db",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blue Owl co-CEO discusses fallout from halting redemptions, likely at its non-traded private credit/BDC vehicle. This is credit-relevant redemption pressure. Stocktwits is the source, but the substance is fund liquidity stress rather than stock commentary, so importance is high.",
+              "llmReasonZh": "Blue Owl联席CEO谈及暂停赎回带来的后续影响，所涉很可能是其非上市交易的私募信贷/BDC产品。这属于与信贷相关的赎回压力。来源为Stocktwits，但实质内容是基金流动性压力，而非股票评论，因此重要性较高。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stocktwits"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.07,
+              "finalScore": 11.07,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-8a0e84888f70",
+            "title": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods - Moomoo",
+            "titleZh": "Keefe, Bruyette & Woods将Blue Owl Capital目标价从$9.00上调至$10.50/股 - Moomoo",
+            "summary": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+            "summaryZh": "Keefe, Bruyette & Woods将Blue Owl Capital目标价从$9.00/股上调至$10.50/股 Moomoo",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnhvS1g2UFdFU3pDNHlXSGQ0djdRX1djQUZoLVZ4ZzFhaHh4WHFrRE1CeENWUE5POG1MN3dpWTJickg5S01OYS1MNTI1VkhkaUh1ZG1ERHVtWThaaXN5NkJRUktsUFBFT0JRSE5Oa1hBSzgzSWNydmpHMW1xcTVXMlF5cjdPQXlFVFJLc01iMWtfWTc2enk1YzBMTQ?oc=5",
+            "source": "Moomoo",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+            "articleExcerpt": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods - Moomoo. Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+            "contentFingerprint": "f9cb289c390e8fc4",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price target change for Blue Owl Capital (OWL). This is stock and analyst commentary about the parent manager, which is mainly a credit platform. It has no financing, fundraising or litigation event and no specific strategy angle, so importance is low.",
+              "llmReasonZh": "Blue Owl Capital（OWL）分析师目标价调整。此为针对母公司管理人的股票及分析师评论，该公司主要为信贷平台。文章未涉及融资、募资或诉讼事件，亦无具体策略层面的内容，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.26,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Moomoo"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 6.15,
+              "finalScore": 9.15,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -113411,6 +113536,110 @@
               "finalScore": 19.66,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-3dfda3d1640d",
+            "title": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9keVJyRWp4RFItdm1TeUc2dGRKNTlNU3IwQjA2MHRBaDNCbkVIUnZpTVg2MDVwRDZneWxhSWtPT2VmLWpUbEw3WXFhOG9lZFVxTEZKb2ZfY09rZUJCcG9LSA?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-10-31",
+            "lede": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "309948bf931ce998",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp. is a KKR-affiliated BDC, so it falls under KKR's credit business. The article is only a Yahoo Finance seasonal returns stock chart, with no transaction or event, so importance is low.",
+              "llmReasonZh": "FS KKR Capital Corp. 是一家与KKR关联的业务发展公司（BDC），因此属于KKR信贷业务范畴。该文章仅为Yahoo Finance的季节性回报股票图表，不涉及任何交易或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.55,
+              "finalScore": 19.55,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -114055,6 +114284,318 @@
               "keywordScore": 20,
               "semanticScore": 5.3,
               "finalScore": 25.3,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-f8e9fcf716fb",
+            "title": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO - Dealroom",
+            "titleZh": "黑石预计Anthropic上市后将获“高收益级上沿”信用评级 - Dealroom",
+            "summary": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+            "summaryZh": "黑石目前预计Anthropic在IPO后将获得“高收益级上沿”信用评级 Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2hqeUl1NTRsM1MzSFRnU2J2S0Joa2FSalBndG5EM0VPMWlDYTE4U2tlU0lRRzRuRlk1RVFoREpORkcwYWFKUVMxLTl4eXR6S3JoOHVBZ19lT050NVJzYTc1M3c3UC1NYWFrSl91STdfOURjZXR6aGNIanNwdlRWUGlZVFQxSmhibVdnZW5vTklMRExoeDdEa2o3bE0xdF9uWlF4dVg2TmtrR2J0MDFKOTJBQQ?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-10-31",
+            "lede": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+            "articleExcerpt": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO - Dealroom. Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+            "contentFingerprint": "4114bdae2596f234",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Blackstone gives a credit view, an expected high-yield rating, on Anthropic, an AI company. This is credit-relevant commentary from Blackstone's credit side touching AI financing, but there is no transaction, fundraising or lawsuit. The 'private-credit' tag is less certain than 'ai' because the article doesn't name a specific Blackstone business. Importance sits between analyst commentary (0.15) and routine manager news (0.5).",
+              "llmReasonZh": "黑石对AI公司Anthropic给出信用观点，即预期其将获得高收益级评级。这是来自黑石信贷业务、涉及AI融资的信用相关评论，但不涉及交易、募资或诉讼。由于文章未点名黑石具体业务部门，“private-credit”标签的确定性低于“ai”标签。重要性介于分析师评论（0.15）与常规管理人新闻（0.5）之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Dealroom"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.88,
+              "finalScore": 21.88,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-1393c6147a9d",
+            "title": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes - Chosunbiz",
+            "titleZh": "Blackstone警告Anthropic上市后仍将处于垃圾级，融资前景受限 - Chosunbiz",
+            "summary": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+            "summaryZh": "Blackstone警告Anthropic上市后仍将处于垃圾级，融资前景受限 Chosunbiz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81dWg1MlEyRG0tbFdlT1cwcDNTRFo4dDY0YTBwbncwd1BWanBhajQzWnVLX3hWdXpzU2Q2d3d3VUg4YzhsYU5POGVQQzFxNGFUajh3QVdXSmQ1TEphZHh3Z0YwNE1hTHE5MXc1aWRPaHlmU21PamxuQ0xB0gGOAUFVX3lxTE9iOThUeUVEWmdKWmgzWjdPVzQ4REI5MGcwZzExdmR1RmRudzREOFBMTUhKVUVlRndrSDY0ZmRZWnNJaEFhaW5hVERoNF9YYzljaWN5emJyQ1BrWmVOZmpiZUZXSnpMV1NTR0RtS0VUTGp3cjNKT0dDSWZCQXo0ZXJGUHVhcnI0SmJHQ3hoc0E?oc=5",
+            "source": "Chosunbiz",
+            "publishedAt": "2026-10-31",
+            "lede": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+            "articleExcerpt": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes - Chosunbiz. Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+            "contentFingerprint": "46848e6a44cd9776",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone's credit view on Anthropic's post-IPO credit quality (junk grade) and its debt funding prospects is commentary from Blackstone's credit perspective on AI-company debt financing. This is a credit-relevant market view, not a transaction, so no event type applies and importance is moderate.",
+              "llmReasonZh": "Blackstone就Anthropic上市后信用质量（垃圾级）及其债务融资前景发表看法，系Blackstone从信用角度对AI公司债务融资的评论。此为与信用相关的市场观点，并非交易，因此不适用任何事件类型，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Chosunbiz"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.77,
+              "finalScore": 13.77,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-1f9db645826f",
+            "title": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan - KuCoin",
+            "titleZh": "Blackstone预计Anthropic上市时或获投机级评级，8000亿美元AI算力计划带来融资压力 - KuCoin",
+            "summary": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+            "summaryZh": "Blackstone预计Anthropic上市时或获投机级评级，8000亿美元AI算力计划带来融资压力 KuCoin",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTnByaFBwU1c2Mm5pRXUtQTdKOXllOVI4T2V1eXY1V1NXejB0Nkg0S0MtaTgzRzBFUnVOamxDcXZfTF9fNXB1QkhBMWhYX0NhbjdORV9MUVVCWlVYUkxpZnFSc3lZaUlpOVY0N2RJb09pZHFha0U0TWJOb2pyX1pHbVdEZTlyY0s2MVFMdF83dkIwdUpBMEs0LTl0ZklmN2o2MUp5VXcyR19vTG9pNlBVc2ZBODJOcy1wQTl5ZnY3cUxfb2lmMXJUaExsSDFQdFVic21tOXVRUkRMUndTd3dFV3VwSlJRZ2ZNSFZwOVg0OWtsTkZMV3JxQ2xn?oc=5",
+            "source": "KuCoin",
+            "publishedAt": "2026-10-31",
+            "lede": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+            "articleExcerpt": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan - KuCoin. Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+            "contentFingerprint": "026e5dbf7a0892b5",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone gives a credit-rating view on Anthropic: it expects a speculative-grade rating at IPO because of funding pressure from an $800B AI compute plan. This is credit-relevant commentary on AI compute financing, so it fits the AI strategy. It is not a Blackstone transaction, lawsuit or fundraise, so no event type applies. Importance is low-moderate because it is analyst-style commentary from a crypto news aggregator. The headline does not say which Blackstone unit made the call, so the credit link to the GP is somewhat uncertain.",
+              "llmReasonZh": "Blackstone就Anthropic发表信用评级观点：因8000亿美元AI算力计划带来的融资压力，预计其上市时将获投机级评级。这是有关AI算力融资的信用相关评论，因此符合AI策略。该事件并非Blackstone的交易、诉讼或募资，因此不适用任何事件类型。由于这是来自加密货币新闻聚合平台的分析师类评论，重要性为中低。标题未说明是Blackstone哪个业务部门作出该判断，因此与GP的信用关联存在一定不确定性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.62,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KuCoin"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.93,
+              "finalScore": 10.93,
               "semanticEnabled": true
             }
           }
@@ -114798,6 +115339,293 @@
           }
         },
         {
+          "id": "2026-10-31-b788207a2407",
+          "title": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? - Yahoo Finance",
+          "titleZh": "Blue Owl Capital (OWL)重获关注，背后原因何在？ - Yahoo Finance",
+          "summary": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+          "summaryZh": "Blue Owl Capital (OWL)重获关注，背后原因何在？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejJ4ZDVRVkgtVEpIdUZ0Qk9ibFJEN1ZoblMwamE4REk5RWR0ejdMQlRtanN3STU1ekdIRnpPX19vdUlXODNJTlNWdk13OVlyMEtiblpNT2VTLTRycEU3TTlJMHlFVzRVdU5PbDVneFpjVHRWLUZEQW9XMTVYWktNMFhhbkt4OWlIVU0wbnJ0TE1xbUhWM1dN?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital (OWL), What Is Behind The Fresh Attention? - Yahoo Finance. Blue Owl Capital (OWL), What Is Behind The Fresh Attention? Yahoo Finance",
+          "contentFingerprint": "ee879c14b3b0a652",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic stock-attention piece on Blue Owl Capital (OWL) with no substantive content. Blue Owl's core business is credit, so it stays tagged rather than excluded, but it reads as stock/analyst commentary and gets low importance.",
+            "llmReasonZh": "关于Blue Owl Capital (OWL)的泛泛股票关注度文章，缺乏实质内容。Blue Owl的核心业务为信贷，因此保留标签而未予排除，但该文属于股票/分析师评论性质，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.25,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.94,
+            "finalScore": 16.94,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-c9af23995eed",
+          "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+          "titleZh": "Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰：报道 - Stocktwits",
+          "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "summaryZh": "Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰：报道 Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "contentFingerprint": "0f86314f155ad5db",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blue Owl co-CEO discusses fallout from halting redemptions, likely at its non-traded private credit/BDC vehicle. This is credit-relevant redemption pressure. Stocktwits is the source, but the substance is fund liquidity stress rather than stock commentary, so importance is high.",
+            "llmReasonZh": "Blue Owl联席CEO谈及暂停赎回带来的后续影响，所涉很可能是其非上市交易的私募信贷/BDC产品。这属于与信贷相关的赎回压力。来源为Stocktwits，但实质内容是基金流动性压力，而非股票评论，因此重要性较高。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stocktwits"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.07,
+            "finalScore": 11.07,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-8a0e84888f70",
+          "title": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods - Moomoo",
+          "titleZh": "Keefe, Bruyette & Woods将Blue Owl Capital目标价从$9.00上调至$10.50/股 - Moomoo",
+          "summary": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+          "summaryZh": "Keefe, Bruyette & Woods将Blue Owl Capital目标价从$9.00/股上调至$10.50/股 Moomoo",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnhvS1g2UFdFU3pDNHlXSGQ0djdRX1djQUZoLVZ4ZzFhaHh4WHFrRE1CeENWUE5POG1MN3dpWTJickg5S01OYS1MNTI1VkhkaUh1ZG1ERHVtWThaaXN5NkJRUktsUFBFT0JRSE5Oa1hBSzgzSWNydmpHMW1xcTVXMlF5cjdPQXlFVFJLc01iMWtfWTc2enk1YzBMTQ?oc=5",
+          "source": "Moomoo",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+          "articleExcerpt": "Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods - Moomoo. Blue Owl Capital Price Target Raised to $10.50/Share From $9.00 by Keefe, Bruyette & Woods Moomoo",
+          "contentFingerprint": "f9cb289c390e8fc4",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price target change for Blue Owl Capital (OWL). This is stock and analyst commentary about the parent manager, which is mainly a credit platform. It has no financing, fundraising or litigation event and no specific strategy angle, so importance is low.",
+            "llmReasonZh": "Blue Owl Capital（OWL）分析师目标价调整。此为针对母公司管理人的股票及分析师评论，该公司主要为信贷平台。文章未涉及融资、募资或诉讼事件，亦无具体策略层面的内容，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.26,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Moomoo"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 6.15,
+            "finalScore": 9.15,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-12b0f956d6d9",
           "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
           "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
@@ -115530,6 +116358,110 @@
           }
         },
         {
+          "id": "2026-10-31-3dfda3d1640d",
+          "title": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9keVJyRWp4RFItdm1TeUc2dGRKNTlNU3IwQjA2MHRBaDNCbkVIUnZpTVg2MDVwRDZneWxhSWtPT2VmLWpUbEw3WXFhOG9lZFVxTEZKb2ZfY09rZUJCcG9LSA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-10-31",
+          "lede": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "309948bf931ce998",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp. is a KKR-affiliated BDC, so it falls under KKR's credit business. The article is only a Yahoo Finance seasonal returns stock chart, with no transaction or event, so importance is low.",
+            "llmReasonZh": "FS KKR Capital Corp. 是一家与KKR关联的业务发展公司（BDC），因此属于KKR信贷业务范畴。该文章仅为Yahoo Finance的季节性回报股票图表，不涉及任何交易或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.55,
+            "finalScore": 19.55,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-dec645715bb3",
           "title": "Neuberger Berman High Yield Strategies Fund (NYSEAMERICAN:NHS) Stock Short Interest Jumps 124.2% - MarketBeat",
           "titleZh": "Neuberger Berman High Yield Strategies Fund (NYSEAMERICAN:NHS) 空头仓位激增124.2% - MarketBeat",
@@ -116161,6 +117093,318 @@
             "keywordScore": 20,
             "semanticScore": 5.3,
             "finalScore": 25.3,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-f8e9fcf716fb",
+          "title": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO - Dealroom",
+          "titleZh": "黑石预计Anthropic上市后将获“高收益级上沿”信用评级 - Dealroom",
+          "summary": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+          "summaryZh": "黑石目前预计Anthropic在IPO后将获得“高收益级上沿”信用评级 Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2hqeUl1NTRsM1MzSFRnU2J2S0Joa2FSalBndG5EM0VPMWlDYTE4U2tlU0lRRzRuRlk1RVFoREpORkcwYWFKUVMxLTl4eXR6S3JoOHVBZ19lT050NVJzYTc1M3c3UC1NYWFrSl91STdfOURjZXR6aGNIanNwdlRWUGlZVFQxSmhibVdnZW5vTklMRExoeDdEa2o3bE0xdF9uWlF4dVg2TmtrR2J0MDFKOTJBQQ?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-10-31",
+          "lede": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+          "articleExcerpt": "Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO - Dealroom. Blackstone now expects Anthropic to get a 'high junk' credit rating after its IPO Dealroom",
+          "contentFingerprint": "4114bdae2596f234",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Blackstone gives a credit view, an expected high-yield rating, on Anthropic, an AI company. This is credit-relevant commentary from Blackstone's credit side touching AI financing, but there is no transaction, fundraising or lawsuit. The 'private-credit' tag is less certain than 'ai' because the article doesn't name a specific Blackstone business. Importance sits between analyst commentary (0.15) and routine manager news (0.5).",
+            "llmReasonZh": "黑石对AI公司Anthropic给出信用观点，即预期其将获得高收益级评级。这是来自黑石信贷业务、涉及AI融资的信用相关评论，但不涉及交易、募资或诉讼。由于文章未点名黑石具体业务部门，“private-credit”标签的确定性低于“ai”标签。重要性介于分析师评论（0.15）与常规管理人新闻（0.5）之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Dealroom"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.88,
+            "finalScore": 21.88,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-1393c6147a9d",
+          "title": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes - Chosunbiz",
+          "titleZh": "Blackstone警告Anthropic上市后仍将处于垃圾级，融资前景受限 - Chosunbiz",
+          "summary": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+          "summaryZh": "Blackstone警告Anthropic上市后仍将处于垃圾级，融资前景受限 Chosunbiz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81dWg1MlEyRG0tbFdlT1cwcDNTRFo4dDY0YTBwbncwd1BWanBhajQzWnVLX3hWdXpzU2Q2d3d3VUg4YzhsYU5POGVQQzFxNGFUajh3QVdXSmQ1TEphZHh3Z0YwNE1hTHE5MXc1aWRPaHlmU21PamxuQ0xB0gGOAUFVX3lxTE9iOThUeUVEWmdKWmgzWjdPVzQ4REI5MGcwZzExdmR1RmRudzREOFBMTUhKVUVlRndrSDY0ZmRZWnNJaEFhaW5hVERoNF9YYzljaWN5emJyQ1BrWmVOZmpiZUZXSnpMV1NTR0RtS0VUTGp3cjNKT0dDSWZCQXo0ZXJGUHVhcnI0SmJHQ3hoc0E?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-10-31",
+          "lede": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+          "articleExcerpt": "Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes - Chosunbiz. Blackstone warns Anthropic will stay junk grade after IPO, curbing funding hopes Chosunbiz",
+          "contentFingerprint": "46848e6a44cd9776",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone's credit view on Anthropic's post-IPO credit quality (junk grade) and its debt funding prospects is commentary from Blackstone's credit perspective on AI-company debt financing. This is a credit-relevant market view, not a transaction, so no event type applies and importance is moderate.",
+            "llmReasonZh": "Blackstone就Anthropic上市后信用质量（垃圾级）及其债务融资前景发表看法，系Blackstone从信用角度对AI公司债务融资的评论。此为与信用相关的市场观点，并非交易，因此不适用任何事件类型，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Chosunbiz"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.77,
+            "finalScore": 13.77,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-1f9db645826f",
+          "title": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan - KuCoin",
+          "titleZh": "Blackstone预计Anthropic上市时或获投机级评级，8000亿美元AI算力计划带来融资压力 - KuCoin",
+          "summary": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+          "summaryZh": "Blackstone预计Anthropic上市时或获投机级评级，8000亿美元AI算力计划带来融资压力 KuCoin",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTnByaFBwU1c2Mm5pRXUtQTdKOXllOVI4T2V1eXY1V1NXejB0Nkg0S0MtaTgzRzBFUnVOamxDcXZfTF9fNXB1QkhBMWhYX0NhbjdORV9MUVVCWlVYUkxpZnFSc3lZaUlpOVY0N2RJb09pZHFha0U0TWJOb2pyX1pHbVdEZTlyY0s2MVFMdF83dkIwdUpBMEs0LTl0ZklmN2o2MUp5VXcyR19vTG9pNlBVc2ZBODJOcy1wQTl5ZnY3cUxfb2lmMXJUaExsSDFQdFVic21tOXVRUkRMUndTd3dFV3VwSlJRZ2ZNSFZwOVg0OWtsTkZMV3JxQ2xn?oc=5",
+          "source": "KuCoin",
+          "publishedAt": "2026-10-31",
+          "lede": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+          "articleExcerpt": "Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan - KuCoin. Blackstone Predicts Anthropic May Receive a Speculative-Grade Rating Upon IPO, Amid Funding Pressure from an $800 Billion AI Compute Plan KuCoin",
+          "contentFingerprint": "026e5dbf7a0892b5",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone gives a credit-rating view on Anthropic: it expects a speculative-grade rating at IPO because of funding pressure from an $800B AI compute plan. This is credit-relevant commentary on AI compute financing, so it fits the AI strategy. It is not a Blackstone transaction, lawsuit or fundraise, so no event type applies. Importance is low-moderate because it is analyst-style commentary from a crypto news aggregator. The headline does not say which Blackstone unit made the call, so the credit link to the GP is somewhat uncertain.",
+            "llmReasonZh": "Blackstone就Anthropic发表信用评级观点：因8000亿美元AI算力计划带来的融资压力，预计其上市时将获投机级评级。这是有关AI算力融资的信用相关评论，因此符合AI策略。该事件并非Blackstone的交易、诉讼或募资，因此不适用任何事件类型。由于这是来自加密货币新闻聚合平台的分析师类评论，重要性为中低。标题未说明是Blackstone哪个业务部门作出该判断，因此与GP的信用关联存在一定不确定性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.62,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KuCoin"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.93,
+            "finalScore": 10.93,
             "semanticEnabled": true
           }
         },
@@ -116928,6 +118172,114 @@
               "finalScore": 25.46,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-01-ecaa9b1fd54f",
+            "title": "Blackstone’s Leaders Talk AI Risks as Concerns Rise - WSJ",
+            "titleZh": "黑石领导层在担忧加剧之际谈论AI风险 - WSJ",
+            "summary": "Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+            "summaryZh": "黑石领导层在担忧加剧之际谈论AI风险 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjlaQU5lSE1hUm0xbHNvY2F0V2VFZGhmRnZiYjNYMHlzWERxakJnRG9nS0VZcjZlQ19ndnlqbmtldnM0aUU5MDI2MkVKUS1ISkV5VGpJU2RuY0V5dEdNVE1IRF9kbjVJRzVfU2lLdGUwUklIVURVXzhjdkZueEFLUGtOT3Q2RUxDdExxeUk4RmpKRi10bDk0dG9maFUyLUU?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-01",
+            "lede": "Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+            "articleExcerpt": "Blackstone’s Leaders Talk AI Risks as Concerns Rise - WSJ. Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+            "contentFingerprint": "f57df96305d3bbb9",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone leadership is commenting on AI risks amid rising concerns. That likely relates to AI disruption of software and other borrowers in its private credit book, which matters to credit investors. The article text is minimal and shows no specific transaction, fundraising or litigation, so this is routine manager commentary.",
+              "llmReasonZh": "黑石领导层在担忧加剧之际就AI风险发表评论。这可能涉及AI对其私募信贷组合中软件企业及其他借款人的颠覆性影响，对信贷投资者具有参考意义。文章内容有限，未涉及具体交易、募资或诉讼，因此属于常规的管理人评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.35
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 77,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.23,
+              "finalScore": 13.23,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -117036,6 +118388,98 @@
               "finalScore": 20.54,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-01-52f0028878ea",
+            "title": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands - Simply Wall St",
+            "titleZh": "Apollo Global Management (APO) 或较公允价值低28%，UDR交易落地 - Simply Wall St",
+            "summary": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+            "summaryZh": "Apollo Global Management (APO) 或较公允价值低28%，UDR交易落地 Simply Wall St",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUVjMFdpNjFjZkl5aWF5MVFFRjh2VHppczBUUGZHQmZQTTRsbExDSUhiM2dBNWdjeExMWnRpSUVmbjhyWFJ4cGdwVWVCREFTbjZSSTF5U1E2N1hIaG03SGVwbDVjeGlrdERjMC1DUGVBN2ZZc3VTMVlBUm9aSF84eDdSNV9oU195YTRGY2dta21hWXd1SENjaDdSZUpMZUlwUUhWbWZ1UHRQMG9ja0pVS0NVUTFocHJRTENpOHc3UEFnQ1M0UGpLaWUwdWFzdGNUREU2ckpsclZiOXJnOGcyZTZGRk5WdDhmV0tSNWdOUdIB7wFBVV95cUxNRUVjMFdpNjFjZkl5aWF5MVFFRjh2VHppczBUUGZHQmZQTTRsbExDSUhiM2dBNWdjeExMWnRpSUVmbjhyWFJ4cGdwVWVCREFTbjZSSTF5U1E2N1hIaG03SGVwbDVjeGlrdERjMC1DUGVBN2ZZc3VTMVlBUm9aSF84eDdSNV9oU195YTRGY2dta21hWXd1SENjaDdSZUpMZUlwUUhWbWZ1UHRQMG9ja0pVS0NVUTFocHJRTENpOHc3UEFnQ1M0UGpLaWUwdWFzdGNUREU2ckpsclZiOXJnOGcyZTZGRk5WdDhmV0tSNWdOUQ?oc=5",
+            "source": "Simply Wall St",
+            "publishedAt": "2026-11-01",
+            "lede": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+            "articleExcerpt": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands - Simply Wall St. Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+            "contentFingerprint": "f73e7f9fca143c4f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Simply Wall St commentary on Apollo's (APO) stock valuation. It mentions a deal with UDR, a multifamily REIT, but gives no details showing a credit, lending or financing angle. Treated as stock/analyst commentary: low importance, no strategy or event tagged, not excluded.",
+              "llmReasonZh": "Simply Wall St 关于Apollo (APO) 股票估值的评论文章。文中提及与多户住宅REIT UDR的一项交易，但未提供显示涉及信贷、贷款或融资角度的细节。归类为股票/分析师评论：重要性低，未标记策略或事件，未予排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Simply Wall St"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 47,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.69,
+              "finalScore": 7.69,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -117132,6 +118576,98 @@
               "keywordScore": 3,
               "semanticScore": 4.82,
               "finalScore": 7.82,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-01-043ad65c51b0",
+            "title": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com - Investing.com India",
+            "titleZh": "TPG 2026年第三季度演示材料：费用相关收益激增43%，资产管理规模突破$346B",
+            "summary": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+            "summaryZh": "TPG 2026年第三季度演示材料：费用相关收益激增43%，资产管理规模突破$346B（来源：Investing.com，Investing.com India）",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXY0WGsyVG83N3hFVHlzRHNiSUdObXFJSEhPTDZzSW5KYUlCUy1TbXBEMXE3OXpwZTZPZ1VXQVhwOGd6NF91MExTWng5LW5YcE0wbFlQOWdWdVFxTk9oVmdOdWIzQW9BUTVfSFpXeHY1bEk5czFmenpYZjdMNUtCT2N5MkxoZnVpWTZ2OUxiR2U1MmZ5VTVzWHlvd0s4ZFh1UHFtdGdFMW8wZmdBSTdaTWYwV2x1Nk1YMVE?oc=5",
+            "source": "Investing.com India",
+            "publishedAt": "2026-11-01",
+            "lede": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+            "articleExcerpt": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com - Investing.com India. TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+            "contentFingerprint": "823f07d1c04ef757",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is an earnings-slides summary for TPG: fee-related earnings up 43% and AUM above $346B. That is firm-wide manager news. The snippet gives no detail on credit-specific activity, such as TPG Angelo Gordon credit flows, so I can't assign a strategy. It isn't purely non-credit either, because firm-wide AUM and fee figures include the credit platform. So I tag TPG at low-to-moderate importance, below routine manager news and above pure stock commentary.",
+              "llmReasonZh": "这是一份关于TPG的业绩演示材料摘要：费用相关收益增长43%，资产管理规模超过$346B。此为公司整体层面的管理人新闻。摘要未提供信贷业务的具体细节，例如TPG Angelo Gordon的信贷资金流向，因此无法归入具体策略。但该新闻也并非完全与信贷无关，因为公司整体的资产管理规模和费用数据包含其信贷平台。因此将TPG标记为中低重要性，低于常规管理人新闻，高于纯股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com India"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.45,
+              "finalScore": 7.45,
               "semanticEnabled": true
             }
           }
@@ -117578,6 +119114,114 @@
           }
         },
         {
+          "id": "2026-11-01-ecaa9b1fd54f",
+          "title": "Blackstone’s Leaders Talk AI Risks as Concerns Rise - WSJ",
+          "titleZh": "黑石领导层在担忧加剧之际谈论AI风险 - WSJ",
+          "summary": "Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+          "summaryZh": "黑石领导层在担忧加剧之际谈论AI风险 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjlaQU5lSE1hUm0xbHNvY2F0V2VFZGhmRnZiYjNYMHlzWERxakJnRG9nS0VZcjZlQ19ndnlqbmtldnM0aUU5MDI2MkVKUS1ISkV5VGpJU2RuY0V5dEdNVE1IRF9kbjVJRzVfU2lLdGUwUklIVURVXzhjdkZueEFLUGtOT3Q2RUxDdExxeUk4RmpKRi10bDk0dG9maFUyLUU?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-01",
+          "lede": "Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+          "articleExcerpt": "Blackstone’s Leaders Talk AI Risks as Concerns Rise - WSJ. Blackstone’s Leaders Talk AI Risks as Concerns Rise WSJ",
+          "contentFingerprint": "f57df96305d3bbb9",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone leadership is commenting on AI risks amid rising concerns. That likely relates to AI disruption of software and other borrowers in its private credit book, which matters to credit investors. The article text is minimal and shows no specific transaction, fundraising or litigation, so this is routine manager commentary.",
+            "llmReasonZh": "黑石领导层在担忧加剧之际就AI风险发表评论。这可能涉及AI对其私募信贷组合中软件企业及其他借款人的颠覆性影响，对信贷投资者具有参考意义。文章内容有限，未涉及具体交易、募资或诉讼，因此属于常规的管理人评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.35
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 77,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.23,
+            "finalScore": 13.23,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-01-4f74a58d92f0",
           "title": "Ares Private-Credit Fund to Buy Competitor From Apollo - WSJ",
           "titleZh": "Ares私募信贷基金将从Apollo收购一家竞争对手 - WSJ",
@@ -117684,6 +119328,98 @@
           }
         },
         {
+          "id": "2026-11-01-52f0028878ea",
+          "title": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands - Simply Wall St",
+          "titleZh": "Apollo Global Management (APO) 或较公允价值低28%，UDR交易落地 - Simply Wall St",
+          "summary": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+          "summaryZh": "Apollo Global Management (APO) 或较公允价值低28%，UDR交易落地 Simply Wall St",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUVjMFdpNjFjZkl5aWF5MVFFRjh2VHppczBUUGZHQmZQTTRsbExDSUhiM2dBNWdjeExMWnRpSUVmbjhyWFJ4cGdwVWVCREFTbjZSSTF5U1E2N1hIaG03SGVwbDVjeGlrdERjMC1DUGVBN2ZZc3VTMVlBUm9aSF84eDdSNV9oU195YTRGY2dta21hWXd1SENjaDdSZUpMZUlwUUhWbWZ1UHRQMG9ja0pVS0NVUTFocHJRTENpOHc3UEFnQ1M0UGpLaWUwdWFzdGNUREU2ckpsclZiOXJnOGcyZTZGRk5WdDhmV0tSNWdOUdIB7wFBVV95cUxNRUVjMFdpNjFjZkl5aWF5MVFFRjh2VHppczBUUGZHQmZQTTRsbExDSUhiM2dBNWdjeExMWnRpSUVmbjhyWFJ4cGdwVWVCREFTbjZSSTF5U1E2N1hIaG03SGVwbDVjeGlrdERjMC1DUGVBN2ZZc3VTMVlBUm9aSF84eDdSNV9oU195YTRGY2dta21hWXd1SENjaDdSZUpMZUlwUUhWbWZ1UHRQMG9ja0pVS0NVUTFocHJRTENpOHc3UEFnQ1M0UGpLaWUwdWFzdGNUREU2ckpsclZiOXJnOGcyZTZGRk5WdDhmV0tSNWdOUQ?oc=5",
+          "source": "Simply Wall St",
+          "publishedAt": "2026-11-01",
+          "lede": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+          "articleExcerpt": "Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands - Simply Wall St. Apollo Global Management (APO) Could Be 28% Below Fair Value As UDR Deal Lands Simply Wall St",
+          "contentFingerprint": "f73e7f9fca143c4f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Simply Wall St commentary on Apollo's (APO) stock valuation. It mentions a deal with UDR, a multifamily REIT, but gives no details showing a credit, lending or financing angle. Treated as stock/analyst commentary: low importance, no strategy or event tagged, not excluded.",
+            "llmReasonZh": "Simply Wall St 关于Apollo (APO) 股票估值的评论文章。文中提及与多户住宅REIT UDR的一项交易，但未提供显示涉及信贷、贷款或融资角度的细节。归类为股票/分析师评论：重要性低，未标记策略或事件，未予排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Simply Wall St"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 47,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.69,
+            "finalScore": 7.69,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-01-516a6cb2a9e9",
           "title": "Earnings call transcript: TPG tops Q3 2026 estimates as fundraising surges - Investing.com Canada",
           "titleZh": "财报电话会议实录：TPG 2026年第三季度业绩超预期，募资规模大增 - Investing.com Canada",
@@ -117778,14 +119514,126 @@
             "finalScore": 7.82,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-01-043ad65c51b0",
+          "title": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com - Investing.com India",
+          "titleZh": "TPG 2026年第三季度演示材料：费用相关收益激增43%，资产管理规模突破$346B",
+          "summary": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+          "summaryZh": "TPG 2026年第三季度演示材料：费用相关收益激增43%，资产管理规模突破$346B（来源：Investing.com，Investing.com India）",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXY0WGsyVG83N3hFVHlzRHNiSUdObXFJSEhPTDZzSW5KYUlCUy1TbXBEMXE3OXpwZTZPZ1VXQVhwOGd6NF91MExTWng5LW5YcE0wbFlQOWdWdVFxTk9oVmdOdWIzQW9BUTVfSFpXeHY1bEk5czFmenpYZjdMNUtCT2N5MkxoZnVpWTZ2OUxiR2U1MmZ5VTVzWHlvd0s4ZFh1UHFtdGdFMW8wZmdBSTdaTWYwV2x1Nk1YMVE?oc=5",
+          "source": "Investing.com India",
+          "publishedAt": "2026-11-01",
+          "lede": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+          "articleExcerpt": "TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com - Investing.com India. TPG Q3 2026 slides: fee earnings surge 43% as AUM tops $346B By Investing.com Investing.com India",
+          "contentFingerprint": "823f07d1c04ef757",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is an earnings-slides summary for TPG: fee-related earnings up 43% and AUM above $346B. That is firm-wide manager news. The snippet gives no detail on credit-specific activity, such as TPG Angelo Gordon credit flows, so I can't assign a strategy. It isn't purely non-credit either, because firm-wide AUM and fee figures include the credit platform. So I tag TPG at low-to-moderate importance, below routine manager news and above pure stock commentary.",
+            "llmReasonZh": "这是一份关于TPG的业绩演示材料摘要：费用相关收益增长43%，资产管理规模超过$346B。此为公司整体层面的管理人新闻。摘要未提供信贷业务的具体细节，例如TPG Angelo Gordon的信贷资金流向，因此无法归入具体策略。但该新闻也并非完全与信贷无关，因为公司整体的资产管理规模和费用数据包含其信贷平台。因此将TPG标记为中低重要性，低于常规管理人新闻，高于纯股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com India"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-02T03:32:14.085994+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.45,
+            "finalScore": 7.45,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-02": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 43,
+      "count": 45,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -117793,7 +119641,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
@@ -117806,7 +119654,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
@@ -117819,7 +119667,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
@@ -117832,7 +119680,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
@@ -117845,33 +119693,33 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
       "count": 3,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 6,
-      "selected": 2,
+      "count": 5,
+      "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
@@ -117884,25 +119732,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 9,
-      "selected": 2,
+      "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 79,
+      "count": 78,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -117910,51 +119758,51 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
       "count": 42,
-      "selected": 6,
+      "selected": 2,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 14,
-      "selected": 4,
+      "count": 11,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 11,
-      "selected": 2,
+      "count": 9,
+      "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 8,
+      "count": 14,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -117962,12 +119810,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 46,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -117975,12 +119823,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 177,
+      "count": 185,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -117994,9 +119842,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-11-01T23:26:13.286642+00:00",
+      "asOf": "2026-11-02T03:32:14.085994+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-01T23:26:13.286642+00:00"
+  "checkedAt": "2026-11-02T03:32:14.085994+00:00"
 }
