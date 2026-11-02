@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-01T20:36:10.885284+00:00",
+  "updatedAt": "2026-11-02T00:09:20.666927+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9327,7 +9327,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11349,7 +11349,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广义的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21761,7 +21761,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为主的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -112581,6 +112581,102 @@
               "finalScore": 20.09,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-10-31-e7a91328c80e",
+            "title": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide - Yahoo Finance",
+            "titleZh": "Blue Owl Capital (OWL) 股价下跌33%后仍显高于公允价值 - Yahoo Finance",
+            "summary": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+            "summaryZh": "Blue Owl Capital (OWL) 股价下跌33%后仍显高于公允价值 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4TERmT3pmWVBmOVNqTU1iSEFsWVEyaVpnX1ViMHdpZ3dtMnIzLUQtT2VjdUUyTGQ3MlY0eEVJemkwaWdPeGwxQmc4X2tEUG05eWtoT1ZyR2dwZTQ3SEhIRVAzLWZBbHBybHhhTW9mQmxQVWdjSkZxMThGZGo?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-10-31",
+            "lede": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide - Yahoo Finance. Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+            "contentFingerprint": "d5dccdd61fef14aa",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock valuation commentary on Blue Owl Capital (OWL) after a 33% share price decline. Blue Owl's business is predominantly credit and direct lending, so the article stays relevant. It is low importance as analyst and stock-price commentary, with no specific strategy or event.",
+              "llmReasonZh": "针对Blue Owl Capital (OWL) 股价下跌33%后的股票估值评论。Blue Owl的业务以信贷和直接贷款为主，因此该文章仍具相关性。由于属于分析师及股价评论，未涉及具体策略或事件，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.26,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.34,
+              "finalScore": 17.34,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -113105,6 +113201,214 @@
               "keywordScore": 14,
               "semanticScore": 5.39,
               "finalScore": 19.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-883b8009f49a",
+            "title": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Bloomberg",
+            "titleZh": "Carlyle、KKR准备抢购折价贷款 - Bloomberg",
+            "summary": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+            "summaryZh": "Carlyle、KKR准备抢购折价贷款 Bloomberg",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXZsR0NQUWhPNGYyRE5lYkx4MmVsTGxIR1pJcGxVYzJONWVja1VBZGxDcDlJcFVINHZNVDZEVmRsdXc3dkwxSHJib3hXcU1qc2taZEE5M0JqSlpMZFphRWhTMnM2SDBITGQtT1A0ZTdVVlduem4xbGMtRy1NejEzNGJZbktuR0NvV1IxcUZ2ZWJ2VGx2QUV6cTk3cnlXdGp4aFpuMHMwSHhQQklJUW5TYWNHYw?oc=5",
+            "source": "Bloomberg",
+            "publishedAt": "2026-10-31",
+            "lede": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+            "articleExcerpt": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Bloomberg. Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+            "contentFingerprint": "f92cff631d4b51db",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR (with untracked Carlyle) is positioning its credit business to buy discounted loans. This is credit-relevant manager news. The text gives only the headline, with no specific transaction or fund close, so it is not a financing or fundraising event.",
+              "llmReasonZh": "KKR（及未纳入追踪的Carlyle）正在调整其信贷业务布局，准备买入折价贷款。此为与信贷相关的管理人动态。文本仅提供标题，未涉及具体交易或基金募集完成，因此不属于融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 80,
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.47,
+              "finalScore": 22.47,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-10-31-d6dba458920c",
+            "title": "KKR Real Estate Finance Trust Inc (KREF) Income Statement - TradingKey",
+            "titleZh": "KKR Real Estate Finance Trust Inc (KREF) 利润表 - TradingKey",
+            "summary": "KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+            "summaryZh": "KKR Real Estate Finance Trust Inc (KREF) 利润表 TradingKey",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRczlPVDNuZVpXM1BubWxoN1phbHRBTDlxQUc2ZmluQktyTmdfTExEQ2tmX0VPSmRYXy13dlVoaUxSYnYtbENyTF9GWFZmX0gwN1M1Qlp6aW8wbzhJV2U1MDhYV0U5c1c4TXR3cjJpb00?oc=5",
+            "source": "TradingKey",
+            "publishedAt": "2026-10-31",
+            "lede": "KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc (KREF) Income Statement - TradingKey. KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+            "contentFingerprint": "4f3366f7d1f09556",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KREF is KKR's commercial real estate mortgage REIT, which is part of its credit business. This item is only a financial-data page with the income statement and no news event, so it is low importance.",
+              "llmReasonZh": "KREF是KKR旗下的商业地产抵押贷款REIT，属于其信贷业务板块。该条目仅为包含利润表的财务数据页面，不涉及任何新闻事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingKey"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.66,
+              "finalScore": 19.66,
               "semanticEnabled": true
             }
           }
@@ -114398,6 +114702,102 @@
           }
         },
         {
+          "id": "2026-10-31-e7a91328c80e",
+          "title": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide - Yahoo Finance",
+          "titleZh": "Blue Owl Capital (OWL) 股价下跌33%后仍显高于公允价值 - Yahoo Finance",
+          "summary": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+          "summaryZh": "Blue Owl Capital (OWL) 股价下跌33%后仍显高于公允价值 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4TERmT3pmWVBmOVNqTU1iSEFsWVEyaVpnX1ViMHdpZ3dtMnIzLUQtT2VjdUUyTGQ3MlY0eEVJemkwaWdPeGwxQmc4X2tEUG05eWtoT1ZyR2dwZTQ3SEhIRVAzLWZBbHBybHhhTW9mQmxQVWdjSkZxMThGZGo?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-10-31",
+          "lede": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide - Yahoo Finance. Blue Owl Capital (OWL) Stock Looks Above Fair Value After A 33% Slide Yahoo Finance",
+          "contentFingerprint": "d5dccdd61fef14aa",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock valuation commentary on Blue Owl Capital (OWL) after a 33% share price decline. Blue Owl's business is predominantly credit and direct lending, so the article stays relevant. It is low importance as analyst and stock-price commentary, with no specific strategy or event.",
+            "llmReasonZh": "针对Blue Owl Capital (OWL) 股价下跌33%后的股票估值评论。Blue Owl的业务以信贷和直接贷款为主，因此该文章仍具相关性。由于属于分析师及股价评论，未涉及具体策略或事件，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.26,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.34,
+            "finalScore": 17.34,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-10-31-12b0f956d6d9",
           "title": "KKR Real Estate Finance Trust Q3 Earnings Call Highlights - MarketBeat",
           "titleZh": "KKR Real Estate Finance Trust第三季度财报电话会要点 - MarketBeat",
@@ -114918,6 +115318,214 @@
             "keywordScore": 14,
             "semanticScore": 5.39,
             "finalScore": 19.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-883b8009f49a",
+          "title": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Bloomberg",
+          "titleZh": "Carlyle、KKR准备抢购折价贷款 - Bloomberg",
+          "summary": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+          "summaryZh": "Carlyle、KKR准备抢购折价贷款 Bloomberg",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXZsR0NQUWhPNGYyRE5lYkx4MmVsTGxIR1pJcGxVYzJONWVja1VBZGxDcDlJcFVINHZNVDZEVmRsdXc3dkwxSHJib3hXcU1qc2taZEE5M0JqSlpMZFphRWhTMnM2SDBITGQtT1A0ZTdVVlduem4xbGMtRy1NejEzNGJZbktuR0NvV1IxcUZ2ZWJ2VGx2QUV6cTk3cnlXdGp4aFpuMHMwSHhQQklJUW5TYWNHYw?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-10-31",
+          "lede": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+          "articleExcerpt": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans - Bloomberg. Carlyle, KKR Get Ready to Snatch Up Bargain Loans Bloomberg",
+          "contentFingerprint": "f92cff631d4b51db",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR (with untracked Carlyle) is positioning its credit business to buy discounted loans. This is credit-relevant manager news. The text gives only the headline, with no specific transaction or fund close, so it is not a financing or fundraising event.",
+            "llmReasonZh": "KKR（及未纳入追踪的Carlyle）正在调整其信贷业务布局，准备买入折价贷款。此为与信贷相关的管理人动态。文本仅提供标题，未涉及具体交易或基金募集完成，因此不属于融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 80,
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.47,
+            "finalScore": 22.47,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-10-31-d6dba458920c",
+          "title": "KKR Real Estate Finance Trust Inc (KREF) Income Statement - TradingKey",
+          "titleZh": "KKR Real Estate Finance Trust Inc (KREF) 利润表 - TradingKey",
+          "summary": "KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+          "summaryZh": "KKR Real Estate Finance Trust Inc (KREF) 利润表 TradingKey",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRczlPVDNuZVpXM1BubWxoN1phbHRBTDlxQUc2ZmluQktyTmdfTExEQ2tmX0VPSmRYXy13dlVoaUxSYnYtbENyTF9GWFZmX0gwN1M1Qlp6aW8wbzhJV2U1MDhYV0U5c1c4TXR3cjJpb00?oc=5",
+          "source": "TradingKey",
+          "publishedAt": "2026-10-31",
+          "lede": "KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc (KREF) Income Statement - TradingKey. KKR Real Estate Finance Trust Inc (KREF) Income Statement TradingKey",
+          "contentFingerprint": "4f3366f7d1f09556",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KREF is KKR's commercial real estate mortgage REIT, which is part of its credit business. This item is only a financial-data page with the income statement and no news event, so it is low importance.",
+            "llmReasonZh": "KREF是KKR旗下的商业地产抵押贷款REIT，属于其信贷业务板块。该条目仅为包含利润表的财务数据页面，不涉及任何新闻事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingKey"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.66,
+            "finalScore": 19.66,
             "semanticEnabled": true
           }
         },
@@ -115985,7 +116593,7 @@
             "title": "Carlyle, KKR, Oaktree look to buy loans, package into CLOs, Bloomberg says - TipRanks",
             "titleZh": "彭博：Carlyle、KKR、Oaktree拟收购贷款并打包为CLO - TipRanks",
             "summary": "Carlyle, KKR, Oaktree look to buy loans, package into CLOs, Bloomberg says TipRanks",
-            "summaryZh": "据彭博报道，Carlyle、KKR、Oaktree拟收购贷款并将其打包为CLO。来源：TipRanks",
+            "summaryZh": "据彭博报道，Carlyle、KKR、Oaktree拟收购贷款并将其打包为CLO TipRanks",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy1tcmdDbzNDWEk1ekY0SGJORk1XaVIta3NMaVFLSXRhMW1VbWV1dnJxQUpwajBVYUhYN25FdEpuUF9iU21UWGEtSGl1aHlZWEZFZzRETUdJN29IdW0wN05FbzJTMGxQWGl4MmpZU052NTRGOWtTV2JkVkFLdkt4SkRZc1N5Tzk4TkVRamRXRkJhS05tZVAzOFM1SmRTRFlYYkJheTFCcEpxNkt3NF9XNWNmY1RWMllMU1pVWA?oc=5",
             "source": "TipRanks",
@@ -115998,10 +116606,12 @@
               "KKR"
             ],
             "strategies": [
+              "private-credit",
               "structured",
               "clo"
             ],
             "sectors": [
+              "private-credit",
               "structured",
               "clo"
             ],
@@ -116027,6 +116637,7 @@
                 "clo"
               ],
               "llmStrategies": [
+                "private-credit",
                 "structured",
                 "clo"
               ],
@@ -116035,8 +116646,8 @@
               ],
               "llmImportance": 0.7,
               "llmExclude": false,
-              "llmReason": "KKR's credit business (alongside non-tracked Carlyle and Oaktree) plans to buy loans and package them into CLOs. This is credit and structured-finance activity, so it counts as ordinary financing news. The source is a TipRanks summary of a Bloomberg report.",
-              "llmReasonZh": "KKR旗下信贷业务（连同未被追踪的Carlyle和Oaktree）计划收购贷款并将其打包为CLO。此举属于信贷及结构化融资活动，因此归类为常规融资新闻。消息来源为TipRanks对彭博报道的摘要。"
+              "llmReason": "KKR's credit business, alongside the untracked Carlyle and Oaktree, plans to buy loans and package them into CLOs. This is credit and structured-finance activity, so it counts as a financing event. Importance is moderate because the article is a brief TipRanks repost of a Bloomberg report with few details.",
+              "llmReasonZh": "KKR信贷业务与未纳入跟踪范围的Carlyle和Oaktree计划收购贷款并将其打包为CLO。此举属于信贷及结构化融资活动，因此计为融资事件。重要性为中等，因该文章仅为TipRanks对彭博报道的简短转载，细节有限。"
             },
             "rating": {
               "parts": {
@@ -116052,6 +116663,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "private-credit",
                     "structured",
                     "clo"
                   ],
@@ -116074,7 +116686,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.3
+                  "days": 0.5
                 }
               },
               "weights": {
@@ -116085,12 +116697,116 @@
                 "freshness": 15
               },
               "score": 69,
-              "retrievedAt": "2026-11-01T20:01:27.142342+00:00"
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 17,
+              "keywordScore": 20,
               "semanticScore": 5.76,
-              "finalScore": 22.759999999999998,
+              "finalScore": 25.759999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-01-2b3baaa85d2e",
+            "title": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans - Business Standard",
+            "titleZh": "Carlyle Group、KKR准备抄底低价杠杆贷款 - Business Standard",
+            "summary": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+            "summaryZh": "Carlyle Group、KKR准备抄底低价杠杆贷款 Business Standard",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFhlNUxsT1pNM2VJVFYtbXhzVDhKOW1DRFJuakZsM1d5cDlaZ0lVcmVYSWJUWUFxcXFzNVA0bU5yV1V5UWJ1SUotZHpJODlqZnptUVgxQlNIRWVpTkM1SFoxZXJ0dFBETkdXeFVJS2g1ZTlXZjgwbS1Gdkltc3BtbWFSSmhwRU9VMnJKV3dXNExjc2xiWllSYWxNb0RJcmFrWVdpOEQzWHZJZVU0UkR4ak5lUXlBb3RsSHNURVVibTlyXzJTWjk3MmNzVlUwZ9IBzgFBVV95cUxQaFhlNUxsT1pNM2VJVFYtbXhzVDhKOW1DRFJuakZsM1d5cDlaZ0lVcmVYSWJUWUFxcXFzNVA0bU5yV1V5UWJ1SUotZHpJODlqZnptUVgxQlNIRWVpTkM1SFoxZXJ0dFBETkdXeFVJS2g1ZTlXZjgwbS1Gdkltc3BtbWFSSmhwRU9VMnJKV3dXNExjc2xiWllSYWxNb0RJcmFrWVdpOEQzWHZJZVU0UkR4ak5lUXlBb3RsSHNURVVibTlyXzJTWjk3MmNzVlUwZw?oc=5",
+            "source": "Business Standard",
+            "publishedAt": "2026-11-01",
+            "lede": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+            "articleExcerpt": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans - Business Standard. Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+            "contentFingerprint": "5b2d6240de94a650",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR's credit business is positioning to buy discounted leveraged loans, which is credit market activity. Carlyle is not a tracked GP. The article describes intent rather than a closed transaction, so it reads as routine manager news. The strategy tag is approximate: leveraged loans sit closest to private credit, and no CLO is mentioned.",
+              "llmReasonZh": "KKR的信贷业务正准备买入折价杠杆贷款，属于信贷市场活动。Carlyle不在跟踪的GP名单内。文章描述的是投资意向而非已完成的交易，因此属于常规管理人动态。策略标签为近似归类：杠杆贷款最接近私募信贷，文中未提及CLO。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Business Standard"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.05,
+              "finalScore": 20.05,
               "semanticEnabled": true
             }
           }
@@ -116106,9 +116822,9 @@
           {
             "id": "2026-11-01-0d13d978b47c",
             "title": "Blackstone Mortgage Trust (BXMT) Cuts Its Dividend, Is 48% Undervalued Enough? - Simply Wall St",
-            "titleZh": "Blackstone Mortgage Trust（BXMT）削减股息，低估48%是否足够？- Simply Wall St",
+            "titleZh": "Blackstone Mortgage Trust (BXMT) 削减股息，48%的低估幅度是否足够？ - Simply Wall St",
             "summary": "Blackstone Mortgage Trust (BXMT) Cuts Its Dividend, Is 48% Undervalued Enough? Simply Wall St",
-            "summaryZh": "Blackstone Mortgage Trust（BXMT）削减股息，低估48%是否足够？Simply Wall St",
+            "summaryZh": "Blackstone Mortgage Trust (BXMT) 削减股息，48%的低估幅度是否足够？ Simply Wall St",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdXptNUtadlFmNlAzaXFHczJYQi0wX2hmVUN1MkpwMHhvYlc4eThCMGwwbVAtTTVIeF9WOW1DOUc3Vk5rQTJKaWdadWVFel9LbXU4MzVSQi1HbHRFZjBubHdDR2pFSXU2enBycXNyUDMwblJ1dklucUp3UjZVZ1dzb19tSENJQWR6NlExRFd0N3ZzZDBOal9CZUtmZ2dkOTFOMDZiUktKNkpNaS0tRW90RDN0VWszdUIyS05scE1MZXFGLUNMeHNGQURZOFAzZnJmbklkTHBBT2lzMy1hYy1mQVdYUlRReDFLMC1mMWJqRVJkUdIB8gFBVV95cUxQdXptNUtadlFmNlAzaXFHczJYQi0wX2hmVUN1MkpwMHhvYlc4eThCMGwwbVAtTTVIeF9WOW1DOUc3Vk5rQTJKaWdadWVFel9LbXU4MzVSQi1HbHRFZjBubHdDR2pFSXU2enBycXNyUDMwblJ1dklucUp3UjZVZ1dzb19tSENJQWR6NlExRFd0N3ZzZDBOal9CZUtmZ2dkOTFOMDZiUktKNkpNaS0tRW90RDN0VWszdUIyS05scE1MZXFGLUNMeHNGQURZOFAzZnJmbklkTHBBT2lzMy1hYy1mQVdYUlRReDFLMC1mMWJqRVJkUQ?oc=5",
             "source": "Simply Wall St",
@@ -116121,10 +116837,12 @@
               "Blackstone"
             ],
             "strategies": [
+              "private-credit",
               "resi",
               "cre"
             ],
             "sectors": [
+              "private-credit",
               "resi",
               "cre"
             ],
@@ -116148,13 +116866,14 @@
                 "resi"
               ],
               "llmStrategies": [
+                "private-credit",
                 "cre"
               ],
               "llmEvents": [],
               "llmImportance": 0.4,
               "llmExclude": false,
-              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, which counts as credit exposure. A dividend cut signals credit stress in the CRE loan book and is relevant to credit investors, so it scores above routine commentary. The article itself is Simply Wall St valuation and stock analysis, which keeps the score moderate. There is no financing, fundraising, or lawsuit event.",
-              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，属于信用敞口。削减股息表明其商业地产（CRE）贷款组合承压，与信用投资者相关，因此评分高于常规评论。该文章本身为Simply Wall St的估值及股票分析，因此评分处于中等水平。文中未涉及融资、募资或诉讼事件。"
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle, so this is credit-relevant. A dividend cut points to credit stress in its CRE loan book, which matters more than ordinary stock commentary. Because the source is a Simply Wall St valuation piece, importance is moderate rather than high. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "Blackstone Mortgage Trust 是 Blackstone 旗下的商业地产贷款平台，因此与信贷相关。削减股息表明其商业地产贷款组合面临信用压力，这比一般的股票评论更具意义。由于来源为 Simply Wall St 的估值类文章，重要性为中等而非高。不涉及诉讼、融资或募资事件。"
             },
             "rating": {
               "parts": {
@@ -116170,6 +116889,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "private-credit",
                     "resi",
                     "cre"
                   ],
@@ -116189,7 +116909,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.3
+                  "days": 0.5
                 }
               },
               "weights": {
@@ -116200,12 +116920,12 @@
                 "freshness": 15
               },
               "score": 53,
-              "retrievedAt": "2026-11-01T20:01:27.142342+00:00"
+              "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 17,
+              "keywordScore": 20,
               "semanticScore": 5.46,
-              "finalScore": 22.46,
+              "finalScore": 25.46,
               "semanticEnabled": true
             }
           }
@@ -116530,7 +117250,7 @@
           "title": "Carlyle, KKR, Oaktree look to buy loans, package into CLOs, Bloomberg says - TipRanks",
           "titleZh": "彭博：Carlyle、KKR、Oaktree拟收购贷款并打包为CLO - TipRanks",
           "summary": "Carlyle, KKR, Oaktree look to buy loans, package into CLOs, Bloomberg says TipRanks",
-          "summaryZh": "据彭博报道，Carlyle、KKR、Oaktree拟收购贷款并将其打包为CLO。来源：TipRanks",
+          "summaryZh": "据彭博报道，Carlyle、KKR、Oaktree拟收购贷款并将其打包为CLO TipRanks",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy1tcmdDbzNDWEk1ekY0SGJORk1XaVIta3NMaVFLSXRhMW1VbWV1dnJxQUpwajBVYUhYN25FdEpuUF9iU21UWGEtSGl1aHlZWEZFZzRETUdJN29IdW0wN05FbzJTMGxQWGl4MmpZU052NTRGOWtTV2JkVkFLdkt4SkRZc1N5Tzk4TkVRamRXRkJhS05tZVAzOFM1SmRTRFlYYkJheTFCcEpxNkt3NF9XNWNmY1RWMllMU1pVWA?oc=5",
           "source": "TipRanks",
@@ -116543,10 +117263,12 @@
             "KKR"
           ],
           "strategies": [
+            "private-credit",
             "structured",
             "clo"
           ],
           "sectors": [
+            "private-credit",
             "structured",
             "clo"
           ],
@@ -116572,6 +117294,7 @@
               "clo"
             ],
             "llmStrategies": [
+              "private-credit",
               "structured",
               "clo"
             ],
@@ -116580,8 +117303,8 @@
             ],
             "llmImportance": 0.7,
             "llmExclude": false,
-            "llmReason": "KKR's credit business (alongside non-tracked Carlyle and Oaktree) plans to buy loans and package them into CLOs. This is credit and structured-finance activity, so it counts as ordinary financing news. The source is a TipRanks summary of a Bloomberg report.",
-            "llmReasonZh": "KKR旗下信贷业务（连同未被追踪的Carlyle和Oaktree）计划收购贷款并将其打包为CLO。此举属于信贷及结构化融资活动，因此归类为常规融资新闻。消息来源为TipRanks对彭博报道的摘要。"
+            "llmReason": "KKR's credit business, alongside the untracked Carlyle and Oaktree, plans to buy loans and package them into CLOs. This is credit and structured-finance activity, so it counts as a financing event. Importance is moderate because the article is a brief TipRanks repost of a Bloomberg report with few details.",
+            "llmReasonZh": "KKR信贷业务与未纳入跟踪范围的Carlyle和Oaktree计划收购贷款并将其打包为CLO。此举属于信贷及结构化融资活动，因此计为融资事件。重要性为中等，因该文章仅为TipRanks对彭博报道的简短转载，细节有限。"
           },
           "rating": {
             "parts": {
@@ -116597,6 +117320,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "private-credit",
                   "structured",
                   "clo"
                 ],
@@ -116619,7 +117343,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.3
+                "days": 0.5
               }
             },
             "weights": {
@@ -116630,21 +117354,125 @@
               "freshness": 15
             },
             "score": 69,
-            "retrievedAt": "2026-11-01T20:01:27.142342+00:00"
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 17,
+            "keywordScore": 20,
             "semanticScore": 5.76,
-            "finalScore": 22.759999999999998,
+            "finalScore": 25.759999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-01-2b3baaa85d2e",
+          "title": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans - Business Standard",
+          "titleZh": "Carlyle Group、KKR准备抄底低价杠杆贷款 - Business Standard",
+          "summary": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+          "summaryZh": "Carlyle Group、KKR准备抄底低价杠杆贷款 Business Standard",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFhlNUxsT1pNM2VJVFYtbXhzVDhKOW1DRFJuakZsM1d5cDlaZ0lVcmVYSWJUWUFxcXFzNVA0bU5yV1V5UWJ1SUotZHpJODlqZnptUVgxQlNIRWVpTkM1SFoxZXJ0dFBETkdXeFVJS2g1ZTlXZjgwbS1Gdkltc3BtbWFSSmhwRU9VMnJKV3dXNExjc2xiWllSYWxNb0RJcmFrWVdpOEQzWHZJZVU0UkR4ak5lUXlBb3RsSHNURVVibTlyXzJTWjk3MmNzVlUwZ9IBzgFBVV95cUxQaFhlNUxsT1pNM2VJVFYtbXhzVDhKOW1DRFJuakZsM1d5cDlaZ0lVcmVYSWJUWUFxcXFzNVA0bU5yV1V5UWJ1SUotZHpJODlqZnptUVgxQlNIRWVpTkM1SFoxZXJ0dFBETkdXeFVJS2g1ZTlXZjgwbS1Gdkltc3BtbWFSSmhwRU9VMnJKV3dXNExjc2xiWllSYWxNb0RJcmFrWVdpOEQzWHZJZVU0UkR4ak5lUXlBb3RsSHNURVVibTlyXzJTWjk3MmNzVlUwZw?oc=5",
+          "source": "Business Standard",
+          "publishedAt": "2026-11-01",
+          "lede": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+          "articleExcerpt": "Carlyle Group, KKR get ready to snatch up bargain leveraged loans - Business Standard. Carlyle Group, KKR get ready to snatch up bargain leveraged loans Business Standard",
+          "contentFingerprint": "5b2d6240de94a650",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR's credit business is positioning to buy discounted leveraged loans, which is credit market activity. Carlyle is not a tracked GP. The article describes intent rather than a closed transaction, so it reads as routine manager news. The strategy tag is approximate: leveraged loans sit closest to private credit, and no CLO is mentioned.",
+            "llmReasonZh": "KKR的信贷业务正准备买入折价杠杆贷款，属于信贷市场活动。Carlyle不在跟踪的GP名单内。文章描述的是投资意向而非已完成的交易，因此属于常规管理人动态。策略标签为近似归类：杠杆贷款最接近私募信贷，文中未提及CLO。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Business Standard"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.05,
+            "finalScore": 20.05,
             "semanticEnabled": true
           }
         },
         {
           "id": "2026-11-01-0d13d978b47c",
           "title": "Blackstone Mortgage Trust (BXMT) Cuts Its Dividend, Is 48% Undervalued Enough? - Simply Wall St",
-          "titleZh": "Blackstone Mortgage Trust（BXMT）削减股息，低估48%是否足够？- Simply Wall St",
+          "titleZh": "Blackstone Mortgage Trust (BXMT) 削减股息，48%的低估幅度是否足够？ - Simply Wall St",
           "summary": "Blackstone Mortgage Trust (BXMT) Cuts Its Dividend, Is 48% Undervalued Enough? Simply Wall St",
-          "summaryZh": "Blackstone Mortgage Trust（BXMT）削减股息，低估48%是否足够？Simply Wall St",
+          "summaryZh": "Blackstone Mortgage Trust (BXMT) 削减股息，48%的低估幅度是否足够？ Simply Wall St",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdXptNUtadlFmNlAzaXFHczJYQi0wX2hmVUN1MkpwMHhvYlc4eThCMGwwbVAtTTVIeF9WOW1DOUc3Vk5rQTJKaWdadWVFel9LbXU4MzVSQi1HbHRFZjBubHdDR2pFSXU2enBycXNyUDMwblJ1dklucUp3UjZVZ1dzb19tSENJQWR6NlExRFd0N3ZzZDBOal9CZUtmZ2dkOTFOMDZiUktKNkpNaS0tRW90RDN0VWszdUIyS05scE1MZXFGLUNMeHNGQURZOFAzZnJmbklkTHBBT2lzMy1hYy1mQVdYUlRReDFLMC1mMWJqRVJkUdIB8gFBVV95cUxQdXptNUtadlFmNlAzaXFHczJYQi0wX2hmVUN1MkpwMHhvYlc4eThCMGwwbVAtTTVIeF9WOW1DOUc3Vk5rQTJKaWdadWVFel9LbXU4MzVSQi1HbHRFZjBubHdDR2pFSXU2enBycXNyUDMwblJ1dklucUp3UjZVZ1dzb19tSENJQWR6NlExRFd0N3ZzZDBOal9CZUtmZ2dkOTFOMDZiUktKNkpNaS0tRW90RDN0VWszdUIyS05scE1MZXFGLUNMeHNGQURZOFAzZnJmbklkTHBBT2lzMy1hYy1mQVdYUlRReDFLMC1mMWJqRVJkUQ?oc=5",
           "source": "Simply Wall St",
@@ -116657,10 +117485,12 @@
             "Blackstone"
           ],
           "strategies": [
+            "private-credit",
             "resi",
             "cre"
           ],
           "sectors": [
+            "private-credit",
             "resi",
             "cre"
           ],
@@ -116684,13 +117514,14 @@
               "resi"
             ],
             "llmStrategies": [
+              "private-credit",
               "cre"
             ],
             "llmEvents": [],
             "llmImportance": 0.4,
             "llmExclude": false,
-            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending REIT, which counts as credit exposure. A dividend cut signals credit stress in the CRE loan book and is relevant to credit investors, so it scores above routine commentary. The article itself is Simply Wall St valuation and stock analysis, which keeps the score moderate. There is no financing, fundraising, or lawsuit event.",
-            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款REIT，属于信用敞口。削减股息表明其商业地产（CRE）贷款组合承压，与信用投资者相关，因此评分高于常规评论。该文章本身为Simply Wall St的估值及股票分析，因此评分处于中等水平。文中未涉及融资、募资或诉讼事件。"
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle, so this is credit-relevant. A dividend cut points to credit stress in its CRE loan book, which matters more than ordinary stock commentary. Because the source is a Simply Wall St valuation piece, importance is moderate rather than high. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "Blackstone Mortgage Trust 是 Blackstone 旗下的商业地产贷款平台，因此与信贷相关。削减股息表明其商业地产贷款组合面临信用压力，这比一般的股票评论更具意义。由于来源为 Simply Wall St 的估值类文章，重要性为中等而非高。不涉及诉讼、融资或募资事件。"
           },
           "rating": {
             "parts": {
@@ -116706,6 +117537,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "private-credit",
                   "resi",
                   "cre"
                 ],
@@ -116725,7 +117557,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.3
+                "days": 0.5
               }
             },
             "weights": {
@@ -116736,12 +117568,12 @@
               "freshness": 15
             },
             "score": 53,
-            "retrievedAt": "2026-11-01T20:01:27.142342+00:00"
+            "retrievedAt": "2026-11-01T23:26:13.286642+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 17,
+            "keywordScore": 20,
             "semanticScore": 5.46,
-            "finalScore": 22.46,
+            "finalScore": 25.46,
             "semanticEnabled": true
           }
         },
@@ -116953,7 +117785,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 58,
+      "count": 43,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -116961,12 +117793,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 38,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -116974,7 +117806,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -116987,7 +117819,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -117000,7 +117832,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -117013,12 +117845,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 4,
+      "count": 3,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -117026,12 +117858,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -117039,7 +117871,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -117052,12 +117884,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 16,
+      "count": 9,
       "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -117065,12 +117897,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 61,
+      "count": 79,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -117078,12 +117910,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 41,
+      "count": 42,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -117091,20 +117923,20 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 15,
-      "selected": 5,
+      "count": 14,
+      "selected": 4,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -117117,7 +117949,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
@@ -117130,12 +117962,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
+      "count": 46,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -117143,12 +117975,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 171,
+      "count": 177,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -117162,9 +117994,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-11-01T20:01:27.142342+00:00",
+      "asOf": "2026-11-01T23:26:13.286642+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-01T20:01:27.142342+00:00"
+  "checkedAt": "2026-11-01T23:26:13.286642+00:00"
 }
