@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-02T03:51:12.643778+00:00",
+  "updatedAt": "2026-11-02T12:27:04.230309+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9165,7 +9165,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口一致。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11187,7 +11187,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归入更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先级有担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21575,7 +21575,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（来源：financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -117726,7 +117726,112 @@
     },
     "2026-11-01": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-01-9ffec295cdd1",
+            "title": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones - Yahoo",
+            "titleZh": "F4G.DU 互动股票图表 | Blue Owl Technol.Finance Corp.R 股票 - Yahoo",
+            "summary": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+            "summaryZh": "F4G.DU 互动股票图表 | Blue Owl Technol.Finance Corp.R 股票 Yahoo",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DQjg1Y3NOM2JMaGJIUWwwNzBpRkZweXhuaHNzWmVCMTk3a29YbHlmUG1BbU1YZFY2SkEtWGhoZnM3V0lLcDlGTTJVZWNhOW5aN1ZJ?oc=5",
+            "source": "Yahoo",
+            "publishedAt": "2026-11-01",
+            "lede": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+            "articleExcerpt": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones - Yahoo. F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+            "contentFingerprint": "2021b03650502410",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo interactive stock chart page for Blue Owl Technology Finance Corp (a Blue Owl BDC, so credit-relevant) on the Düsseldorf exchange. It has no news content, so importance is set at the stock-price level.",
+              "llmReasonZh": "Yahoo上Blue Owl Technology Finance Corp（Blue Owl旗下BDC，与信贷相关）在杜塞尔多夫交易所的互动股票图表页面。该页面无新闻内容，因此重要性按股价层面设定。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.65,
+              "finalScore": 19.65,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-11-01-d7d039db3cf3",
@@ -118678,6 +118783,110 @@
       },
       "items": [
         {
+          "id": "2026-11-01-9ffec295cdd1",
+          "title": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones - Yahoo",
+          "titleZh": "F4G.DU 互动股票图表 | Blue Owl Technol.Finance Corp.R 股票 - Yahoo",
+          "summary": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+          "summaryZh": "F4G.DU 互动股票图表 | Blue Owl Technol.Finance Corp.R 股票 Yahoo",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DQjg1Y3NOM2JMaGJIUWwwNzBpRkZweXhuaHNzWmVCMTk3a29YbHlmUG1BbU1YZFY2SkEtWGhoZnM3V0lLcDlGTTJVZWNhOW5aN1ZJ?oc=5",
+          "source": "Yahoo",
+          "publishedAt": "2026-11-01",
+          "lede": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+          "articleExcerpt": "F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones - Yahoo. F4G.DU Gráfico interactivo de acciones | Blue Owl Technol.Finance Corp.R Acciones Yahoo",
+          "contentFingerprint": "2021b03650502410",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo interactive stock chart page for Blue Owl Technology Finance Corp (a Blue Owl BDC, so credit-relevant) on the Düsseldorf exchange. It has no news content, so importance is set at the stock-price level.",
+            "llmReasonZh": "Yahoo上Blue Owl Technology Finance Corp（Blue Owl旗下BDC，与信贷相关）在杜塞尔多夫交易所的互动股票图表页面。该页面无新闻内容，因此重要性按股价层面设定。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.65,
+            "finalScore": 19.65,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-01-d7d039db3cf3",
           "title": "Money managers including KKR get ready to snatch up bargain leveraged loans - The Business Times",
           "titleZh": "KKR等资产管理机构准备抄底低价杠杆贷款 - The Business Times",
@@ -119611,29 +119820,2728 @@
     },
     "2026-11-02": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-02-8f7f2d242860",
+            "title": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October - Investing.com Canada",
+            "titleZh": "Blue Owl Real Estate Net Lease Trust 表格4：董事 Richard J. Buoncore（10月1日）- Investing.com Canada",
+            "summary": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+            "summaryZh": "Blue Owl Real Estate Net Lease Trust 表格4：董事 Richard J. Buoncore（10月1日）Investing.com Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0NsSFF2Vlh3Q1RlUTdwaE5rcFBJeVRkOEtuSW1zQlRBRjdKeFRoZVZDNlRBR2s3dzJZajVEczNueGJiaWVGeW9iOUtJYi1VaHFfX0JBUFM5c1N3RDRVV1ZuZ3NvcEJSSFlmOXJqTnJhOXhzU05TeVdjb3JNRDhpcF9Sd2tja3hTU194MEl5X2J6Q0ZpTFdFd3lqNFBPUWJ6NDVvcW0wTkRsQWdONERObmNFN01jTlNTQmlmaU0xeWUtRnRRbVl1TUFLQVpmYk9kY3ZjNUJCd3BzX0Q5dENR?oc=5",
+            "source": "Investing.com Canada",
+            "publishedAt": "2026-11-02",
+            "lede": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+            "articleExcerpt": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October - Investing.com Canada. Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+            "contentFingerprint": "06c4079ea8500775",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "triple-net"
+            ],
+            "sectors": [
+              "triple-net"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "triple-net"
+              ],
+              "titleStrategies": [
+                "triple-net"
+              ],
+              "llmStrategies": [
+                "triple-net"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Routine SEC Form 4 insider filing by a director of Blue Owl Real Estate Net Lease Trust. Net lease is a tracked strategy (triple-net) and part of Blue Owl's real assets/credit-adjacent platform, so it is not excluded. It has no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "Blue Owl Real Estate Net Lease Trust 一名董事提交的例行 SEC 表格4内部人申报。净租赁属于跟踪策略（三净租赁），且是 Blue Owl 实物资产/信贷相关平台的一部分，因此未被排除。该事项不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "triple-net"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.01,
+              "finalScore": 12.01,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
         "Guggenheim": [],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-02-38678b1e2331",
+            "title": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont - GuruFocus",
+            "titleZh": "Neuberger Berman High Yield Strategies Fund (NHS) 维持月度… - GuruFocus",
+            "summary": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+            "summaryZh": "Neuberger Berman High Yield Strategies Fund (NHS) 维持月度… GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDNmNUdkdDZWSFZNVzc2dl9ieWNQZUwxdndDeUo1aXFCWlcxY0RBQ0pCbmNHRGNqX2hCaHpsLVRjU0hVVFdDa0dadEE5MjltYlBzalBDS0phcXZCNFpKNXp3N3pxUEgtcHRNeDcybnppczR5bldJRzNKV0R6MzNzdmhQQnZRNVVSZk8xQzBkRlRuMzlrZjFxN2ZPcHNCdXJMMWtabG5LN09LOV8xWVI4eDhFQWN2a2pyUGIyTTF6YUxsVXYwaGp1dGRvdEREWmk4N09n?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-02",
+            "lede": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+            "articleExcerpt": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont - GuruFocus. Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+            "contentFingerprint": "2bc651bccb8906e7",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman High Yield Strategies Fund (NHS) is a credit vehicle, a closed-end high-yield fund. The headline appears to be a routine monthly distribution announcement. It is credit-relevant but low-impact, with no financing, fundraising or lawsuit event, and high yield does not map cleanly to any tracked strategy.",
+              "llmReasonZh": "Neuberger Berman High Yield Strategies Fund (NHS) 是一只信用类投资工具，属于封闭式高收益基金。该标题似为例行月度分配公告。此事项与信用相关但影响较小，不涉及融资、募资或诉讼事件，且高收益类别无法明确对应任何跟踪策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.11,
+              "finalScore": 8.11,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-498b53ce541c",
+            "title": "Neuberger Berman Fund Sets $0.0701 November Distribution - TOKENPOST",
+            "titleZh": "Neuberger Berman基金宣布11月派息$0.0701 - TOKENPOST",
+            "summary": "Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+            "summaryZh": "Neuberger Berman基金宣布11月派息$0.0701 TOKENPOST",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VndFQ3RGWUtVNFQ5YUhQTGxRcWdkTUZjZ2t4ektFZHYybEVWQmlVcEQ0SThhMGpGSTFzLXZJM3FHOGNRcHVUcHNhMG04M2QxOVRPUG9CeV91Zw?oc=5",
+            "source": "TOKENPOST",
+            "publishedAt": "2026-11-02",
+            "lede": "Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+            "articleExcerpt": "Neuberger Berman Fund Sets $0.0701 November Distribution - TOKENPOST. Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+            "contentFingerprint": "c2b36d7c0c53adfd",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Routine monthly distribution announcement for a Neuberger Berman closed-end fund. The article doesn't name the fund, though the $0.0701 monthly rate likely matches a credit or income fund such as the High Yield Strategies Fund. There is no financing, fundraising or legal event and no tracked strategy keyword, so it is low importance but not clearly non-credit.",
+              "llmReasonZh": "Neuberger Berman旗下一只封闭式基金的例行月度派息公告。文章未注明具体基金名称，但$0.0701的月度派息水平可能对应一只信用或收益型基金，例如High Yield Strategies Fund。文章不涉及融资、募资或法律事件，也未包含任何追踪的策略关键词，因此重要性较低，但不能明确判定为非信用类内容。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TOKENPOST"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.78,
+              "finalScore": 7.78,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-02-7bbf688d0245",
+            "title": "Bain Capital raises over $1.8b for third Asia special situations fund - DealStreetAsia",
+            "titleZh": "Bain Capital第三只亚洲特殊机会基金募资逾$1.8b - DealStreetAsia",
+            "summary": "Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+            "summaryZh": "Bain Capital第三只亚洲特殊机会基金募资逾$1.8b DealStreetAsia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW53YVg2SjZsQlRKUUNTbktpVmU5b3FBMEw1VjktOWI3TVlNY3VxbS1aRGN3STFVdi1rVUFsakNubjl2bHk4OWJhOXFOVTIxNC1rbWxZVE5oSXluc0xua2NTN2d6TXFwSy1obXZ2Zzh6NWlINVFWVVlDRGhMMTNybGhWN1VqYVFSS3c?oc=5",
+            "source": "DealStreetAsia",
+            "publishedAt": "2026-11-02",
+            "lede": "Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+            "articleExcerpt": "Bain Capital raises over $1.8b for third Asia special situations fund - DealStreetAsia. Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+            "contentFingerprint": "c5909fdf1e5a0697",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Special Situations, part of its credit platform, raised over $1.8b for its third Asia fund. This is credit-related fundraising, possibly a significant or final close. The strategy fit is approximate: special situations maps most closely to private credit.",
+              "llmReasonZh": "Bain Capital旗下信贷平台的Bain Capital Special Situations为其第三只亚洲基金募资逾$1.8b。此为信贷相关募资，可能为一次重要关账或最终关账。策略匹配度为近似：特殊机会策略最接近私募信贷。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "DealStreetAsia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.33,
+              "finalScore": 11.33,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Blackstone": [
+          {
+            "id": "2026-11-02-254bd120654a",
+            "title": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance - Tech Times",
+            "titleZh": "Blackstone撤回投资级指引后，Anthropic债务定价降至垃圾级 - Tech Times",
+            "summary": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+            "summaryZh": "Blackstone撤回投资级指引后，Anthropic债务定价降至垃圾级 Tech Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2k4Q2ZqUWxZdC1jMzdXS0FiQl9QbHphTnNaZmJSbzVxWUxLVFJucXl5aDNRSmFxR2lKZndMcVhxMERhMHpjZF9MNEU3dzhXcDgzY1Z4M1RRdko0NktxR2ZrSzIxNk1DUDJ1ZlFrekVOd2tUVmFhS3Ftdzk2SEJEaTRKMjh1NF9taDlsOEFqSmNfTm1HQVRVLWRnRGd4WnluQ2NyS25mZ0M4c1hlT3ZWdjNZcTJLNGNFWG5VeHNoSk5VQTFRWDlzQVQ3VmktcVpfbk80?oc=5",
+            "source": "Tech Times",
+            "publishedAt": "2026-11-02",
+            "lede": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+            "articleExcerpt": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance - Tech Times. Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+            "contentFingerprint": "fcfe63f80d1ce5fe",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Blackstone's credit business is involved in pricing and guidance on Anthropic debt, now priced at junk after Blackstone reversed its investment-grade guidance. This is a credit-quality repricing of debt financing for an AI company, so it is relevant to credit investors and the importance is high.",
+              "llmReasonZh": "Blackstone的信贷业务参与了Anthropic债务的定价及指引工作。在Blackstone撤回其投资级指引后，该债务目前已按垃圾级定价。此事涉及一家AI公司债务融资的信用质量重新定价，与信贷投资者相关，重要性高。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Tech Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.22,
+              "finalScore": 22.22,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-22b21d610134",
+            "title": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk - Simply Wall St",
+            "titleZh": "Blackstone (BX)警告：若评级降至垃圾级，或使90亿美元贷款面临风险 - Simply Wall St",
+            "summary": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+            "summaryZh": "Blackstone (BX)警告：若评级降至垃圾级，或使90亿美元贷款面临风险 Simply Wall St",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUo4QzNUUlFaWEtvaGRRVGpCc1JFLVZyRDNHbFJINFFzbEJhTGFsYkx4RFlrRlgzWjA0SmVlQkNlRnBRQTF3bmY1NzNRNXc1Z0VMdWJYbzVvLW9mMUpwWV8yMjk5QmhwMERRTTQ5MHZpS0t2RTNVTjlPU2J4OTZRUWFRT3dBa2NXSXBlOG5LOGVtUXlWRThHVDg0WGwyZFRWRExWZTNWbnJoaU1nLWZWdWtWMnNyQnVZZEtqdUcyYnJWd0djcDluYnBIOEl1T2JINWZuS00yTTJZbTTSAdsBQVVfeXFMUHVKOEMzVFJRWlhLb2hkUVRqQnNSRS1WckQzR2xSSDRRc2xCYUxhbGJMeERZa0ZYM1owNEplZUJDZUZwUUExd25mNTczUTV3NWdFTHViWG81by1vZjFKcFlfMjI5OUJocDBEUU00OTB2aUtLdkUzVU45T1NieDk2UVFhUU93QWtjV0lwZThuSzhlbVF5VkU4R1Q4NFhsMmRUVkRMVmUzVm5yaGlNZy1mVnVrVjJzckJ1WWRLanVHMmJyVndHY3A5bmJwSDhJdU9iSDVmbktNMk0yWW00?oc=5",
+            "source": "Simply Wall St",
+            "publishedAt": "2026-11-02",
+            "lede": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+            "articleExcerpt": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk - Simply Wall St. Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+            "contentFingerprint": "f8c20bcb272dd5de",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Blackstone warns that a junk credit rating could put $9B of loans at risk. This is a credit and financing risk disclosure tied to downgrade risk, which matters to credit investors. The snippet does not say which vehicle or strategy is involved (e.g., BXMT/CRE or private credit), so no strategy is tagged. Importance is slightly reduced because the source is a Simply Wall St summary.",
+              "llmReasonZh": "Blackstone警告，若信用评级降至垃圾级，可能使90亿美元贷款面临风险。这是一项与降级风险相关的信用及融资风险披露，对信用投资者具有重要意义。摘要未说明涉及哪一投资工具或策略（例如BXMT/商业地产或私募信贷），因此未标注策略。由于信息来源为Simply Wall St的摘要，重要性略有下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Simply Wall St"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.15,
+              "finalScore": 16.15,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Apollo": [
+          {
+            "id": "2026-11-02-8e5d6d7a9314",
+            "title": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg",
+            "titleZh": "Apollo借助ADIC资金设立欧洲贷款业务部门，Meissner出任董事长 - Bloomberg",
+            "summary": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+            "summaryZh": "Apollo借助ADIC资金设立欧洲贷款业务部门，Meissner出任董事长 Bloomberg",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUV6YkNMaHdVbmY2RG1TZVFBMVRjSFFzWHdkTUt4a3NrUGVCd19YcU43RTBQMTBlcDdERzFsbmtMV0tNQnBMN2R2OGhsTFVOUzNEU1BReVVnTmRwLWIwRTA5QzBUSjU1YlI0cU9qdnYtX1c1SW5ETHhVSmtIcVBQaGNxcE5BcmUxNEN3N003bHE5b3E2d3ZOb3NPQi01bDJEVUFLRXE2SXhocVprekZicG9lc0Q?oc=5",
+            "source": "Bloomberg",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+            "articleExcerpt": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg. Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+            "contentFingerprint": "501b27a3980c1d27",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a European lending platform (credit origination arm) backed by capital from ADIC (Abu Dhabi Investment Council), with Meissner as chair. This is credit-business expansion and capital commitment, so it is relevant private credit news, not a non-credit business story.",
+              "llmReasonZh": "Apollo正在推出一个欧洲贷款平台（信贷发起部门），由ADIC（阿布扎比投资委员会，Abu Dhabi Investment Council）提供资金支持，并由Meissner担任董事长。此事涉及信贷业务扩张及资本承诺，因此属于相关的私募信贷新闻，而非非信贷类商业报道。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 88,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.73,
+              "finalScore": 24.73,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-a28c797f55e8",
+            "title": "Apollo Announces the Launch of European Credit Company - Apollo Global Management",
+            "titleZh": "Apollo宣布推出European Credit Company - Apollo Global Management",
+            "summary": "Apollo Announces the Launch of European Credit Company Apollo Global Management",
+            "summaryZh": "Apollo宣布推出European Credit Company Apollo Global Management",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONE45WFBfeHNXU2VOd2lwX1BETDRBWTJGOEE2aGgyMWc5cTZVU09JNTVTei0xVk9hR1N0OGJKbDF6MHBuOEp4Z0x2RC1VUjA2Xzh1eE9XQjJwME96S2laWV90OWtsU0hZSGRTcnRKZWZ0UFYxbDEtV1lPd1FmY3gwVG5ZTHdsMV8zYl9IU1k0bnNtcXE3QnRuVmtQSmtpa3hlc3hSSktJdTRnWTFGYjUxLS05eEs?oc=5",
+            "source": "Apollo Global Management",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo Announces the Launch of European Credit Company Apollo Global Management",
+            "articleExcerpt": "Apollo Announces the Launch of European Credit Company - Apollo Global Management. Apollo Announces the Launch of European Credit Company Apollo Global Management",
+            "contentFingerprint": "eb90dc6498bfafb9",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo Global Management is launching a European credit company. That is a new credit vehicle within Apollo's credit business, so it counts as a fund launch. The article text is minimal, so the private-credit tag and importance are inferred from the headline.",
+              "llmReasonZh": "Apollo Global Management正在推出一家欧洲信贷公司。这是Apollo信贷业务旗下的一个新信贷投资载体，因此属于基金发行。文章正文内容极少，因此私募信贷标签及重要性系根据标题推断。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Apollo Global Management"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 6.41,
+              "finalScore": 24.41,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-970a15a39c26",
+            "title": "Apollo launches €10 billion European credit platform - Reuters",
+            "titleZh": "Apollo推出100亿欧元欧洲信贷平台 - Reuters",
+            "summary": "Apollo launches €10 billion European credit platform Reuters",
+            "summaryZh": "Apollo推出100亿欧元欧洲信贷平台 Reuters",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWZUNDh3NFhQaERXUU1neUtCdzBuUjNvM1lJcXRFR1JFQmdLSWFLSkVUcnRDX2ZXSkdOeF9jT016T2tmdVh6eHhWU1dQdFFTblpnTllJajQ4TFk1cHh5TDh0ZHlDQ1o3Yk5FeE9qMmRRS2tMZDhscEVBU1hmWlI4bEpyVTBMRWdCemZwOXFwamJXNVhZdEEwLThoMVNhYk16dTZSVG5QaXVmRk0?oc=5",
+            "source": "Reuters",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo launches €10 billion European credit platform Reuters",
+            "articleExcerpt": "Apollo launches €10 billion European credit platform - Reuters. Apollo launches €10 billion European credit platform Reuters",
+            "contentFingerprint": "9fa62d9dd798122b",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a €10 billion European credit platform. This is a major credit-business launch by a tracked GP, which fits private credit. The article body has only the headline, so it isn't clear whether this is a fund raise or a financing partnership. It is tagged as fundraising because it is a platform launch with stated capital.",
+              "llmReasonZh": "Apollo正在推出一个100亿欧元的欧洲信贷平台。这是一家受跟踪GP的重大信贷业务举措，符合私募信贷范畴。文章正文仅有标题，因此尚不清楚这是一次基金募资还是一项融资合作。由于这是一个披露了资本规模的平台启动，故将其标记为募资类。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Reuters"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 92,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.59,
+              "finalScore": 23.59,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-59a65d9e44e1",
+            "title": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) - Seeking Alpha",
+            "titleZh": "Apollo推出欧洲信贷平台，放贷能力逾€10B（APO:NYSE）- Seeking Alpha",
+            "summary": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+            "summaryZh": "Apollo推出欧洲信贷平台，放贷能力逾€10B（APO:NYSE）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDJSOV9tbXE4TTMzWkViQjhWVkZOQWk4Uk5PQk5KSWxNbXhSU0V0N1kxVVhDWGQzUnhGcHRtZmFFSVRMZGx5d3lSQ2Jzc1c1dW84NHVvTmVZeEF6MF9BNkFJb1JhUU84aDRVYnZadFY5aW1tZll0bnIzRUpRZjBRcWl2MTBoVGJHVjRGT1phZVgxbGVFZkM4X3l2Y0tJYWZUMUlabmF1b1NURnFsVUE?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+            "articleExcerpt": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) - Seeking Alpha. Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+            "contentFingerprint": "c6c090dd1934602c",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a European credit platform with more than €10B of lending capacity. This is a significant expansion of its private credit and direct lending business, and the deployable capacity is a financing-related event. It is not marked as fundraising because the article does not say a fund or capital raise is involved.",
+              "llmReasonZh": "Apollo正在推出一个欧洲信贷平台，放贷能力超过€10B。这是其私募信贷和直接贷款业务的重大扩张，且可部署资金能力属于融资相关事件。未将其标记为募资事件，因为文章并未提及涉及基金或资本募集。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.39,
+              "finalScore": 22.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-608932870fb4",
+            "title": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing - BigGo Finance",
+            "titleZh": "Apollo获阿布扎比资金支持，推出100亿欧元欧洲私募信贷平台 - BigGo Finance",
+            "summary": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+            "summaryZh": "Apollo获阿布扎比资金支持，推出100亿欧元欧洲私募信贷平台 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yRWUwb01VMUVGRHpvQS1zYVp2Q3EwR3VNQURMYVRpdlowS3BUanFSRDJIWUVFTFhxOUVBdXdhRDRmLTNsT0xGUXBKYkh5ZlhZdUh2ZHRvckhOdjNBMURVRUxlNVBXMWRMeVBEak91MC1zaXZ0Wmc?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+            "articleExcerpt": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing - BigGo Finance. Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+            "contentFingerprint": "b982462f6e14491c",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a €10B European private credit platform backed by Abu Dhabi capital. This is a major credit fundraising and capital commitment event in Apollo's credit business.",
+              "llmReasonZh": "Apollo正在推出一个由阿布扎比资本支持的100亿欧元欧洲私募信贷平台。这是Apollo信贷业务中一项重大的信贷募资及资本承诺事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.79,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.58
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 79,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 7.01,
+              "finalScore": 22.009999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-e9335b29c9ce",
+            "title": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News - TradingView",
+            "titleZh": "Apollo将推出100亿欧元欧洲私募信贷平台，Abu Dhabi Investment Council等参与出资 - Bloomberg News - TradingView",
+            "summary": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+            "summaryZh": "Apollo将推出100亿欧元欧洲私募信贷平台，出资方包括Abu Dhabi Investment Council - Bloomberg News TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNV0FpYUcyajhZMWt2RmVuSkVQT0Q3OHRDazlHOE1kbTdvbmQ5ZWpDN0pqOXh3NGpZSmt4TEZuOEJGSVJjTnJkSnBVY3B3TmdZZVNndnhYTFRWVkd2MFRONnFydHoxd1BnUkJqUjhpUWtSZ3RlYl9TNktGNHRXWDA4MzlGT2NHUlBFRVk5cmQ1cmtSLV93cWlBZkl3TVRPNE9yeFd1WmNSMHRMOUtnZ3dKaHlfTFl3M20zZlhGTVBnMUgxOUtoX1FLWjJyUkhKQ3BJMFoyTmtSNjFDVWhpQ3FfdDdQTDNnTkQ1X1JDTTRkcUtIMzJ4SU1idTBMczduYUtzRUpMUW1tY2tMU3N4WjFjY1VlMXVaQU8yYjQ4RnhJUWN3R1A3bW9wVg?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-02",
+            "lede": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+            "articleExcerpt": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News - TradingView. Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+            "contentFingerprint": "7704145b1834a84e",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a €10B European private-credit platform with backers including ADIC. This is credit-related fundraising and capital-raising activity by a tracked GP, so it is relevant and should not be excluded.",
+              "llmReasonZh": "Apollo将推出100亿欧元的欧洲私募信贷平台，出资方包括ADIC。此为受跟踪普通合伙人（GP）的信贷相关募资及融资活动，具有相关性，不应排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.58,
+              "finalScore": 21.58,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [],
-        "Golub": [],
+        "Golub": [
+          {
+            "id": "2026-11-02-c43591e1c6f2",
+            "title": "Golub Capital on opportunistic credit’s flexibility premium - privatedebtinvestor.com",
+            "titleZh": "Golub Capital谈机会型信贷的灵活性溢价 - privatedebtinvestor.com",
+            "summary": "Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+            "summaryZh": "Golub Capital谈机会型信贷的灵活性溢价 privatedebtinvestor.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkVYbU1UUVducW41R2ZzZGJmMEJoOTNubXh2RlEtNVZsUFNabnZ2Sl9YMW9XRTBJRTZnVDlyYkVHWFJDOEVjbWtvaXZTWU1Bc3ducEM1aDY2UWZtRWVzcklVZmYzV1ZjaFRER3ZiYlYzXzdsQzBxVHgzTjBhcnVtNFpOQjRMRm9mMkIweXR1NFpMZ24teWRaNE5hVQ?oc=5",
+            "source": "privatedebtinvestor.com",
+            "publishedAt": "2026-11-02",
+            "lede": "Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+            "articleExcerpt": "Golub Capital on opportunistic credit’s flexibility premium - privatedebtinvestor.com. Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+            "contentFingerprint": "84a3ee36a75bcf84",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Golub Capital commentary on opportunistic credit published in Private Debt Investor. This is routine manager thought-leadership on its credit business, with no transaction, fundraising or litigation.",
+              "llmReasonZh": "Golub Capital在Private Debt Investor发表的机会型信贷评论。此为管理人就其信贷业务发表的常规观点类文章，不涉及交易、募资或诉讼。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "privatedebtinvestor.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.27,
+              "finalScore": 20.27,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CVC": [],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-02-8f7f2d242860",
+          "title": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October - Investing.com Canada",
+          "titleZh": "Blue Owl Real Estate Net Lease Trust 表格4：董事 Richard J. Buoncore（10月1日）- Investing.com Canada",
+          "summary": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+          "summaryZh": "Blue Owl Real Estate Net Lease Trust 表格4：董事 Richard J. Buoncore（10月1日）Investing.com Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0NsSFF2Vlh3Q1RlUTdwaE5rcFBJeVRkOEtuSW1zQlRBRjdKeFRoZVZDNlRBR2s3dzJZajVEczNueGJiaWVGeW9iOUtJYi1VaHFfX0JBUFM5c1N3RDRVV1ZuZ3NvcEJSSFlmOXJqTnJhOXhzU05TeVdjb3JNRDhpcF9Sd2tja3hTU194MEl5X2J6Q0ZpTFdFd3lqNFBPUWJ6NDVvcW0wTkRsQWdONERObmNFN01jTlNTQmlmaU0xeWUtRnRRbVl1TUFLQVpmYk9kY3ZjNUJCd3BzX0Q5dENR?oc=5",
+          "source": "Investing.com Canada",
+          "publishedAt": "2026-11-02",
+          "lede": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+          "articleExcerpt": "Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October - Investing.com Canada. Form 4 Blue Owl Real Estate Net Lease Trust: Richard J. Buoncore (Director) For: 1 October Investing.com Canada",
+          "contentFingerprint": "06c4079ea8500775",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "triple-net"
+          ],
+          "sectors": [
+            "triple-net"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "triple-net"
+            ],
+            "titleStrategies": [
+              "triple-net"
+            ],
+            "llmStrategies": [
+              "triple-net"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Routine SEC Form 4 insider filing by a director of Blue Owl Real Estate Net Lease Trust. Net lease is a tracked strategy (triple-net) and part of Blue Owl's real assets/credit-adjacent platform, so it is not excluded. It has no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "Blue Owl Real Estate Net Lease Trust 一名董事提交的例行 SEC 表格4内部人申报。净租赁属于跟踪策略（三净租赁），且是 Blue Owl 实物资产/信贷相关平台的一部分，因此未被排除。该事项不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "triple-net"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.01,
+            "finalScore": 12.01,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-38678b1e2331",
+          "title": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont - GuruFocus",
+          "titleZh": "Neuberger Berman High Yield Strategies Fund (NHS) 维持月度… - GuruFocus",
+          "summary": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+          "summaryZh": "Neuberger Berman High Yield Strategies Fund (NHS) 维持月度… GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDNmNUdkdDZWSFZNVzc2dl9ieWNQZUwxdndDeUo1aXFCWlcxY0RBQ0pCbmNHRGNqX2hCaHpsLVRjU0hVVFdDa0dadEE5MjltYlBzalBDS0phcXZCNFpKNXp3N3pxUEgtcHRNeDcybnppczR5bldJRzNKV0R6MzNzdmhQQnZRNVVSZk8xQzBkRlRuMzlrZjFxN2ZPcHNCdXJMMWtabG5LN09LOV8xWVI4eDhFQWN2a2pyUGIyTTF6YUxsVXYwaGp1dGRvdEREWmk4N09n?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-02",
+          "lede": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+          "articleExcerpt": "Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont - GuruFocus. Neuberger Berman High Yield Strategies Fund (NHS) Maintains Mont GuruFocus",
+          "contentFingerprint": "2bc651bccb8906e7",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman High Yield Strategies Fund (NHS) is a credit vehicle, a closed-end high-yield fund. The headline appears to be a routine monthly distribution announcement. It is credit-relevant but low-impact, with no financing, fundraising or lawsuit event, and high yield does not map cleanly to any tracked strategy.",
+            "llmReasonZh": "Neuberger Berman High Yield Strategies Fund (NHS) 是一只信用类投资工具，属于封闭式高收益基金。该标题似为例行月度分配公告。此事项与信用相关但影响较小，不涉及融资、募资或诉讼事件，且高收益类别无法明确对应任何跟踪策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.11,
+            "finalScore": 8.11,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-498b53ce541c",
+          "title": "Neuberger Berman Fund Sets $0.0701 November Distribution - TOKENPOST",
+          "titleZh": "Neuberger Berman基金宣布11月派息$0.0701 - TOKENPOST",
+          "summary": "Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+          "summaryZh": "Neuberger Berman基金宣布11月派息$0.0701 TOKENPOST",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VndFQ3RGWUtVNFQ5YUhQTGxRcWdkTUZjZ2t4ektFZHYybEVWQmlVcEQ0SThhMGpGSTFzLXZJM3FHOGNRcHVUcHNhMG04M2QxOVRPUG9CeV91Zw?oc=5",
+          "source": "TOKENPOST",
+          "publishedAt": "2026-11-02",
+          "lede": "Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+          "articleExcerpt": "Neuberger Berman Fund Sets $0.0701 November Distribution - TOKENPOST. Neuberger Berman Fund Sets $0.0701 November Distribution TOKENPOST",
+          "contentFingerprint": "c2b36d7c0c53adfd",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Routine monthly distribution announcement for a Neuberger Berman closed-end fund. The article doesn't name the fund, though the $0.0701 monthly rate likely matches a credit or income fund such as the High Yield Strategies Fund. There is no financing, fundraising or legal event and no tracked strategy keyword, so it is low importance but not clearly non-credit.",
+            "llmReasonZh": "Neuberger Berman旗下一只封闭式基金的例行月度派息公告。文章未注明具体基金名称，但$0.0701的月度派息水平可能对应一只信用或收益型基金，例如High Yield Strategies Fund。文章不涉及融资、募资或法律事件，也未包含任何追踪的策略关键词，因此重要性较低，但不能明确判定为非信用类内容。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TOKENPOST"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.78,
+            "finalScore": 7.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-7bbf688d0245",
+          "title": "Bain Capital raises over $1.8b for third Asia special situations fund - DealStreetAsia",
+          "titleZh": "Bain Capital第三只亚洲特殊机会基金募资逾$1.8b - DealStreetAsia",
+          "summary": "Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+          "summaryZh": "Bain Capital第三只亚洲特殊机会基金募资逾$1.8b DealStreetAsia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW53YVg2SjZsQlRKUUNTbktpVmU5b3FBMEw1VjktOWI3TVlNY3VxbS1aRGN3STFVdi1rVUFsakNubjl2bHk4OWJhOXFOVTIxNC1rbWxZVE5oSXluc0xua2NTN2d6TXFwSy1obXZ2Zzh6NWlINVFWVVlDRGhMMTNybGhWN1VqYVFSS3c?oc=5",
+          "source": "DealStreetAsia",
+          "publishedAt": "2026-11-02",
+          "lede": "Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+          "articleExcerpt": "Bain Capital raises over $1.8b for third Asia special situations fund - DealStreetAsia. Bain Capital raises over $1.8b for third Asia special situations fund DealStreetAsia",
+          "contentFingerprint": "c5909fdf1e5a0697",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Special Situations, part of its credit platform, raised over $1.8b for its third Asia fund. This is credit-related fundraising, possibly a significant or final close. The strategy fit is approximate: special situations maps most closely to private credit.",
+            "llmReasonZh": "Bain Capital旗下信贷平台的Bain Capital Special Situations为其第三只亚洲基金募资逾$1.8b。此为信贷相关募资，可能为一次重要关账或最终关账。策略匹配度为近似：特殊机会策略最接近私募信贷。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.8,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "DealStreetAsia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.33,
+            "finalScore": 11.33,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-254bd120654a",
+          "title": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance - Tech Times",
+          "titleZh": "Blackstone撤回投资级指引后，Anthropic债务定价降至垃圾级 - Tech Times",
+          "summary": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+          "summaryZh": "Blackstone撤回投资级指引后，Anthropic债务定价降至垃圾级 Tech Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2k4Q2ZqUWxZdC1jMzdXS0FiQl9QbHphTnNaZmJSbzVxWUxLVFJucXl5aDNRSmFxR2lKZndMcVhxMERhMHpjZF9MNEU3dzhXcDgzY1Z4M1RRdko0NktxR2ZrSzIxNk1DUDJ1ZlFrekVOd2tUVmFhS3Ftdzk2SEJEaTRKMjh1NF9taDlsOEFqSmNfTm1HQVRVLWRnRGd4WnluQ2NyS25mZ0M4c1hlT3ZWdjNZcTJLNGNFWG5VeHNoSk5VQTFRWDlzQVQ3VmktcVpfbk80?oc=5",
+          "source": "Tech Times",
+          "publishedAt": "2026-11-02",
+          "lede": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+          "articleExcerpt": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance - Tech Times. Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance Tech Times",
+          "contentFingerprint": "fcfe63f80d1ce5fe",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Blackstone's credit business is involved in pricing and guidance on Anthropic debt, now priced at junk after Blackstone reversed its investment-grade guidance. This is a credit-quality repricing of debt financing for an AI company, so it is relevant to credit investors and the importance is high.",
+            "llmReasonZh": "Blackstone的信贷业务参与了Anthropic债务的定价及指引工作。在Blackstone撤回其投资级指引后，该债务目前已按垃圾级定价。此事涉及一家AI公司债务融资的信用质量重新定价，与信贷投资者相关，重要性高。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.77,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Tech Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.22,
+            "finalScore": 22.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-22b21d610134",
+          "title": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk - Simply Wall St",
+          "titleZh": "Blackstone (BX)警告：若评级降至垃圾级，或使90亿美元贷款面临风险 - Simply Wall St",
+          "summary": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+          "summaryZh": "Blackstone (BX)警告：若评级降至垃圾级，或使90亿美元贷款面临风险 Simply Wall St",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUo4QzNUUlFaWEtvaGRRVGpCc1JFLVZyRDNHbFJINFFzbEJhTGFsYkx4RFlrRlgzWjA0SmVlQkNlRnBRQTF3bmY1NzNRNXc1Z0VMdWJYbzVvLW9mMUpwWV8yMjk5QmhwMERRTTQ5MHZpS0t2RTNVTjlPU2J4OTZRUWFRT3dBa2NXSXBlOG5LOGVtUXlWRThHVDg0WGwyZFRWRExWZTNWbnJoaU1nLWZWdWtWMnNyQnVZZEtqdUcyYnJWd0djcDluYnBIOEl1T2JINWZuS00yTTJZbTTSAdsBQVVfeXFMUHVKOEMzVFJRWlhLb2hkUVRqQnNSRS1WckQzR2xSSDRRc2xCYUxhbGJMeERZa0ZYM1owNEplZUJDZUZwUUExd25mNTczUTV3NWdFTHViWG81by1vZjFKcFlfMjI5OUJocDBEUU00OTB2aUtLdkUzVU45T1NieDk2UVFhUU93QWtjV0lwZThuSzhlbVF5VkU4R1Q4NFhsMmRUVkRMVmUzVm5yaGlNZy1mVnVrVjJzckJ1WWRLanVHMmJyVndHY3A5bmJwSDhJdU9iSDVmbktNMk0yWW00?oc=5",
+          "source": "Simply Wall St",
+          "publishedAt": "2026-11-02",
+          "lede": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+          "articleExcerpt": "Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk - Simply Wall St. Blackstone (BX) Warns Junk Rating Could Put $9 Billion In Loans At Risk Simply Wall St",
+          "contentFingerprint": "f8c20bcb272dd5de",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Blackstone warns that a junk credit rating could put $9B of loans at risk. This is a credit and financing risk disclosure tied to downgrade risk, which matters to credit investors. The snippet does not say which vehicle or strategy is involved (e.g., BXMT/CRE or private credit), so no strategy is tagged. Importance is slightly reduced because the source is a Simply Wall St summary.",
+            "llmReasonZh": "Blackstone警告，若信用评级降至垃圾级，可能使90亿美元贷款面临风险。这是一项与降级风险相关的信用及融资风险披露，对信用投资者具有重要意义。摘要未说明涉及哪一投资工具或策略（例如BXMT/商业地产或私募信贷），因此未标注策略。由于信息来源为Simply Wall St的摘要，重要性略有下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.9,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Simply Wall St"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.15,
+            "finalScore": 16.15,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-8e5d6d7a9314",
+          "title": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg",
+          "titleZh": "Apollo借助ADIC资金设立欧洲贷款业务部门，Meissner出任董事长 - Bloomberg",
+          "summary": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+          "summaryZh": "Apollo借助ADIC资金设立欧洲贷款业务部门，Meissner出任董事长 Bloomberg",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUV6YkNMaHdVbmY2RG1TZVFBMVRjSFFzWHdkTUt4a3NrUGVCd19YcU43RTBQMTBlcDdERzFsbmtMV0tNQnBMN2R2OGhsTFVOUzNEU1BReVVnTmRwLWIwRTA5QzBUSjU1YlI0cU9qdnYtX1c1SW5ETHhVSmtIcVBQaGNxcE5BcmUxNEN3N003bHE5b3E2d3ZOb3NPQi01bDJEVUFLRXE2SXhocVprekZicG9lc0Q?oc=5",
+          "source": "Bloomberg",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+          "articleExcerpt": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg. Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair Bloomberg",
+          "contentFingerprint": "501b27a3980c1d27",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a European lending platform (credit origination arm) backed by capital from ADIC (Abu Dhabi Investment Council), with Meissner as chair. This is credit-business expansion and capital commitment, so it is relevant private credit news, not a non-credit business story.",
+            "llmReasonZh": "Apollo正在推出一个欧洲贷款平台（信贷发起部门），由ADIC（阿布扎比投资委员会，Abu Dhabi Investment Council）提供资金支持，并由Meissner担任董事长。此事涉及信贷业务扩张及资本承诺，因此属于相关的私募信贷新闻，而非非信贷类商业报道。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.75,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 88,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 6.73,
+            "finalScore": 24.73,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-a28c797f55e8",
+          "title": "Apollo Announces the Launch of European Credit Company - Apollo Global Management",
+          "titleZh": "Apollo宣布推出European Credit Company - Apollo Global Management",
+          "summary": "Apollo Announces the Launch of European Credit Company Apollo Global Management",
+          "summaryZh": "Apollo宣布推出European Credit Company Apollo Global Management",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONE45WFBfeHNXU2VOd2lwX1BETDRBWTJGOEE2aGgyMWc5cTZVU09JNTVTei0xVk9hR1N0OGJKbDF6MHBuOEp4Z0x2RC1VUjA2Xzh1eE9XQjJwME96S2laWV90OWtsU0hZSGRTcnRKZWZ0UFYxbDEtV1lPd1FmY3gwVG5ZTHdsMV8zYl9IU1k0bnNtcXE3QnRuVmtQSmtpa3hlc3hSSktJdTRnWTFGYjUxLS05eEs?oc=5",
+          "source": "Apollo Global Management",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo Announces the Launch of European Credit Company Apollo Global Management",
+          "articleExcerpt": "Apollo Announces the Launch of European Credit Company - Apollo Global Management. Apollo Announces the Launch of European Credit Company Apollo Global Management",
+          "contentFingerprint": "eb90dc6498bfafb9",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo Global Management is launching a European credit company. That is a new credit vehicle within Apollo's credit business, so it counts as a fund launch. The article text is minimal, so the private-credit tag and importance are inferred from the headline.",
+            "llmReasonZh": "Apollo Global Management正在推出一家欧洲信贷公司。这是Apollo信贷业务旗下的一个新信贷投资载体，因此属于基金发行。文章正文内容极少，因此私募信贷标签及重要性系根据标题推断。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.75,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Apollo Global Management"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 6.41,
+            "finalScore": 24.41,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-970a15a39c26",
+          "title": "Apollo launches €10 billion European credit platform - Reuters",
+          "titleZh": "Apollo推出100亿欧元欧洲信贷平台 - Reuters",
+          "summary": "Apollo launches €10 billion European credit platform Reuters",
+          "summaryZh": "Apollo推出100亿欧元欧洲信贷平台 Reuters",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWZUNDh3NFhQaERXUU1neUtCdzBuUjNvM1lJcXRFR1JFQmdLSWFLSkVUcnRDX2ZXSkdOeF9jT016T2tmdVh6eHhWU1dQdFFTblpnTllJajQ4TFk1cHh5TDh0ZHlDQ1o3Yk5FeE9qMmRRS2tMZDhscEVBU1hmWlI4bEpyVTBMRWdCemZwOXFwamJXNVhZdEEwLThoMVNhYk16dTZSVG5QaXVmRk0?oc=5",
+          "source": "Reuters",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo launches €10 billion European credit platform Reuters",
+          "articleExcerpt": "Apollo launches €10 billion European credit platform - Reuters. Apollo launches €10 billion European credit platform Reuters",
+          "contentFingerprint": "9fa62d9dd798122b",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a €10 billion European credit platform. This is a major credit-business launch by a tracked GP, which fits private credit. The article body has only the headline, so it isn't clear whether this is a fund raise or a financing partnership. It is tagged as fundraising because it is a platform launch with stated capital.",
+            "llmReasonZh": "Apollo正在推出一个100亿欧元的欧洲信贷平台。这是一家受跟踪GP的重大信贷业务举措，符合私募信贷范畴。文章正文仅有标题，因此尚不清楚这是一次基金募资还是一项融资合作。由于这是一个披露了资本规模的平台启动，故将其标记为募资类。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.9,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Reuters"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 92,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.59,
+            "finalScore": 23.59,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-59a65d9e44e1",
+          "title": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) - Seeking Alpha",
+          "titleZh": "Apollo推出欧洲信贷平台，放贷能力逾€10B（APO:NYSE）- Seeking Alpha",
+          "summary": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+          "summaryZh": "Apollo推出欧洲信贷平台，放贷能力逾€10B（APO:NYSE）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDJSOV9tbXE4TTMzWkViQjhWVkZOQWk4Uk5PQk5KSWxNbXhSU0V0N1kxVVhDWGQzUnhGcHRtZmFFSVRMZGx5d3lSQ2Jzc1c1dW84NHVvTmVZeEF6MF9BNkFJb1JhUU84aDRVYnZadFY5aW1tZll0bnIzRUpRZjBRcWl2MTBoVGJHVjRGT1phZVgxbGVFZkM4X3l2Y0tJYWZUMUlabmF1b1NURnFsVUE?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+          "articleExcerpt": "Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) - Seeking Alpha. Apollo launches European credit platform with €10B-plus lending capacity (APO:NYSE) Seeking Alpha",
+          "contentFingerprint": "c6c090dd1934602c",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a European credit platform with more than €10B of lending capacity. This is a significant expansion of its private credit and direct lending business, and the deployable capacity is a financing-related event. It is not marked as fundraising because the article does not say a fund or capital raise is involved.",
+            "llmReasonZh": "Apollo正在推出一个欧洲信贷平台，放贷能力超过€10B。这是其私募信贷和直接贷款业务的重大扩张，且可部署资金能力属于融资相关事件。未将其标记为募资事件，因为文章并未提及涉及基金或资本募集。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.39,
+            "finalScore": 22.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-608932870fb4",
+          "title": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing - BigGo Finance",
+          "titleZh": "Apollo获阿布扎比资金支持，推出100亿欧元欧洲私募信贷平台 - BigGo Finance",
+          "summary": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+          "summaryZh": "Apollo获阿布扎比资金支持，推出100亿欧元欧洲私募信贷平台 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yRWUwb01VMUVGRHpvQS1zYVp2Q3EwR3VNQURMYVRpdlowS3BUanFSRDJIWUVFTFhxOUVBdXdhRDRmLTNsT0xGUXBKYkh5ZlhZdUh2ZHRvckhOdjNBMURVRUxlNVBXMWRMeVBEak91MC1zaXZ0Wmc?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+          "articleExcerpt": "Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing - BigGo Finance. Apollo Opens €10 Billion European Private Credit Platform With Abu Dhabi Backing BigGo Finance",
+          "contentFingerprint": "b982462f6e14491c",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a €10B European private credit platform backed by Abu Dhabi capital. This is a major credit fundraising and capital commitment event in Apollo's credit business.",
+            "llmReasonZh": "Apollo正在推出一个由阿布扎比资本支持的100亿欧元欧洲私募信贷平台。这是Apollo信贷业务中一项重大的信贷募资及资本承诺事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.79,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.58
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 79,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 7.01,
+            "finalScore": 22.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-e9335b29c9ce",
+          "title": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News - TradingView",
+          "titleZh": "Apollo将推出100亿欧元欧洲私募信贷平台，Abu Dhabi Investment Council等参与出资 - Bloomberg News - TradingView",
+          "summary": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+          "summaryZh": "Apollo将推出100亿欧元欧洲私募信贷平台，出资方包括Abu Dhabi Investment Council - Bloomberg News TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNV0FpYUcyajhZMWt2RmVuSkVQT0Q3OHRDazlHOE1kbTdvbmQ5ZWpDN0pqOXh3NGpZSmt4TEZuOEJGSVJjTnJkSnBVY3B3TmdZZVNndnhYTFRWVkd2MFRONnFydHoxd1BnUkJqUjhpUWtSZ3RlYl9TNktGNHRXWDA4MzlGT2NHUlBFRVk5cmQ1cmtSLV93cWlBZkl3TVRPNE9yeFd1WmNSMHRMOUtnZ3dKaHlfTFl3M20zZlhGTVBnMUgxOUtoX1FLWjJyUkhKQ3BJMFoyTmtSNjFDVWhpQ3FfdDdQTDNnTkQ1X1JDTTRkcUtIMzJ4SU1idTBMczduYUtzRUpMUW1tY2tMU3N4WjFjY1VlMXVaQU8yYjQ4RnhJUWN3R1A3bW9wVg?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-02",
+          "lede": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+          "articleExcerpt": "Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News - TradingView. Apollo Is Launching Its €10 Billion Private-Credit Arm For Europe With Backers Including Abu Dhabi Investment Council - Bloomberg News TradingView",
+          "contentFingerprint": "7704145b1834a84e",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a €10B European private-credit platform with backers including ADIC. This is credit-related fundraising and capital-raising activity by a tracked GP, so it is relevant and should not be excluded.",
+            "llmReasonZh": "Apollo将推出100亿欧元的欧洲私募信贷平台，出资方包括ADIC。此为受跟踪普通合伙人（GP）的信贷相关募资及融资活动，具有相关性，不应排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.9,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.58,
+            "finalScore": 21.58,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-c43591e1c6f2",
+          "title": "Golub Capital on opportunistic credit’s flexibility premium - privatedebtinvestor.com",
+          "titleZh": "Golub Capital谈机会型信贷的灵活性溢价 - privatedebtinvestor.com",
+          "summary": "Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+          "summaryZh": "Golub Capital谈机会型信贷的灵活性溢价 privatedebtinvestor.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkVYbU1UUVducW41R2ZzZGJmMEJoOTNubXh2RlEtNVZsUFNabnZ2Sl9YMW9XRTBJRTZnVDlyYkVHWFJDOEVjbWtvaXZTWU1Bc3ducEM1aDY2UWZtRWVzcklVZmYzV1ZjaFRER3ZiYlYzXzdsQzBxVHgzTjBhcnVtNFpOQjRMRm9mMkIweXR1NFpMZ24teWRaNE5hVQ?oc=5",
+          "source": "privatedebtinvestor.com",
+          "publishedAt": "2026-11-02",
+          "lede": "Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+          "articleExcerpt": "Golub Capital on opportunistic credit’s flexibility premium - privatedebtinvestor.com. Golub Capital on opportunistic credit’s flexibility premium privatedebtinvestor.com",
+          "contentFingerprint": "84a3ee36a75bcf84",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Golub Capital commentary on opportunistic credit published in Private Debt Investor. This is routine manager thought-leadership on its credit business, with no transaction, fundraising or litigation.",
+            "llmReasonZh": "Golub Capital在Private Debt Investor发表的机会型信贷评论。此为管理人就其信贷业务发表的常规观点类文章，不涉及交易、募资或诉讼。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "privatedebtinvestor.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-02T11:53:51.269859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.27,
+            "finalScore": 20.27,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 45,
+      "count": 36,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -119641,12 +122549,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 101,
+      "count": 53,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -119654,7 +122562,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119667,12 +122575,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 9,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -119680,7 +122588,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119693,12 +122601,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 3,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -119706,20 +122614,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 5,
-      "selected": 1,
+      "count": 9,
+      "selected": 3,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119732,25 +122640,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 9,
-      "selected": 1,
+      "count": 8,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 78,
+      "count": 97,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -119758,20 +122666,20 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 42,
-      "selected": 2,
+      "count": 29,
+      "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119784,20 +122692,20 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 9,
-      "selected": 0,
+      "count": 8,
+      "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119810,7 +122718,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
@@ -119823,12 +122731,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 185,
+      "count": 234,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -119842,9 +122750,9 @@
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
         "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
       ],
-      "asOf": "2026-11-02T03:32:14.085994+00:00",
+      "asOf": "2026-11-02T11:53:51.269859+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-02T03:32:14.085994+00:00"
+  "checkedAt": "2026-11-02T11:53:51.269859+00:00"
 }
