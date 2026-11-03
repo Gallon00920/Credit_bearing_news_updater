@@ -245,6 +245,19 @@
         "Golub's private equity or infrastructure arm acquires, sells, or recapitalizes an operating company or asset as an equity owner (e.g., a buyout or the sale of a portfolio company or infrastructure asset) with no mention of Golub providing or arranging financing.",
         "General corporate news about Golub with no credit or financing angle, such as philanthropic initiatives, office openings, workplace rankings or awards, sponsorships, or personnel announcements for non-credit teams."
       ]
+    },
+    "Canyon": {
+      "promptHash": "f79c64c5a516651749402a61b6a8dbc0ff16c0f3",
+      "model": "claude-opus-5-5",
+      "relevant": [
+        "Canyon Partners raises or closes a credit-focused fund or vehicle, such as a distressed debt fund, structured credit fund, CLO, or real estate debt/lending fund, or launches or expands a direct lending or asset-based finance strategy.",
+        "Canyon provides financing to a borrower, for example by originating or participating in a loan, refinancing, rescue financing, DIP loan, or bridge/mezzanine loan for a company or real estate project, or by buying a portfolio of loans or receivables.",
+        "Canyon acts as a creditor in a restructuring, bankruptcy, or debt workout (e.g., joins an ad hoc bondholder group, takes control through a debt-for-equity swap, or trades distressed bonds or leveraged loans), or hires or promotes staff for its credit, CLO, or structured finance teams."
+      ],
+      "notRelevant": [
+        "Canyon makes or exits an equity investment that involves no lending or financing role. Examples include a private equity-style acquisition of a company, a real estate equity purchase or joint venture, or the sale of an owned infrastructure or property asset.",
+        "General Canyon corporate or personnel news unrelated to credit. Examples include founder profiles, philanthropy, office moves, firm-wide AUM headlines, executive changes outside the credit business, or political donations by its principals."
+      ]
     }
   }
 }
