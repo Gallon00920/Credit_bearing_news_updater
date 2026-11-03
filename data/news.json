@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-02T22:13:08.393653+00:00",
+  "updatedAt": "2026-11-03T04:32:10.937899+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9165,7 +9165,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11164,7 +11164,7 @@
           "title": "HSBC Ultra Short Term Fund Direct growth - Upstox",
           "titleZh": "HSBC Ultra Short Term Fund Direct growth - Upstox",
           "summary": "HSBC Ultra Short Term Fund Direct growth Upstox",
-          "summaryZh": "HSBC Ultra Short Term Fund Direct growth（Upstox）",
+          "summaryZh": "HSBC Ultra Short Term Fund Direct growth Upstox",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNfSkRPenA1b2xtRU1taEluM0hJN0poWUJITks0a2Y0Vi1DMkczTzZPUFc5bDRmQTZmblY0Mm41TkFSWjBacjJ4cjJndkpmOGJtNWZBenh2M1FPeHdTdnNBTVZadTN2SDVKZW9tTEptSmliUTFMTGlpRWR0MzNBNU43T2Rycm1mWXROWDliM3dkUQ?oc=5",
           "source": "Upstox",
           "publishedAt": "2026-09-13",
@@ -11187,7 +11187,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期的债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保的短期贷款工具，在流动性基金框架下归入更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21599,7 +21599,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，具体而言为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -125493,33 +125493,703 @@
           }
         }
       ]
+    },
+    "2026-11-03": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-03-30977512bf7a",
+            "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - Columbus Ledger-Enquirer",
+            "titleZh": "黑石总裁称科技行业将有更多融资以跟上AI产业增长 - Columbus Ledger-Enquirer",
+            "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+            "summaryZh": "黑石总裁称科技行业将有更多融资以跟上AI产业增长 Columbus Ledger-Enquirer",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SVDhFLXZpN3Q3RXBneWVadVE5VVZPTVBPYVRqUkNiaXpCbmpzeEE2UGUxci1KQ2JfT3g0RW5uRHgtX1QzcS1tSmhvRXZtaHZmUkxUNjYyaWpwX1VDUUxSclA2bExYU2c0aHJwdHNjTjh5NjJ5Vnc?oc=5",
+            "source": "Columbus Ledger-Enquirer",
+            "publishedAt": "2026-11-03",
+            "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+            "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - Columbus Ledger-Enquirer. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+            "contentFingerprint": "4ea2859977f2b7ad",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Blackstone's president comments on future tech-sector capital raising to fund AI growth. This plausibly touches AI infrastructure financing, a key private credit theme, but the text is only a headline. It reports executive commentary, not a specific fund close or transaction, so no event type applies. The credit angle is unconfirmed, so importance is moderate-low.",
+              "llmReasonZh": "黑石总裁就科技行业未来为支持AI增长而进行的融资发表评论。此事可能涉及AI基础设施融资这一私募信贷关键主题，但文本仅为标题。内容为高管评论，而非具体基金募集完成或交易，因此不适用任何事件类型。信贷相关性尚未确认，故重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.35
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Columbus Ledger-Enquirer"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.24,
+              "finalScore": 12.24,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-04b34961550d",
+            "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Economic Times",
+            "titleZh": "Blackstone总裁称科技行业未来将有更多融资以跟上AI产业增长 - The Economic Times",
+            "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+            "summaryZh": "Blackstone总裁称科技行业未来将有更多融资以跟上AI产业增长 The Economic Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPUGE2YlZGamVZbmdzZ1oyelN6ay03azh1NmtqbERqVHNVam9oUUJ3SFlScFR0QXlzaVMzMm5qTzA0cFlnTnVzbUFyenVQMmtYdDExWVZiY2EyVjR4MWtoZGJkY3A2RlMwVjlMN2luUThnM1FTN0dIb1ZNSncxRHVKNEt3SFREd2tXZ1RTWjNjNXdOVE9iOWNZRGRtNlR0WWgxNFpycnIxVWVqaHVJdEFVMGQzaXVyNzJHWnM2RmEzdkFhd1dqU2RnbElIVWcxXzNpN0NDOU9nVDhMWWlnM0lxTzVHczVzRnl2NXpZLW5RQzVJdlRZcGd2UmxROXY3SU5MRzU0Mkx5TGlXbm1Hc2lvSmxKdVlaNVFYaUUxQ1g2anZLdVRSQURzcXBLMlpXc3N3MnFheUEyWTVsWkR3dU1mQ1FybFJhWDNsdTNIWVllMklrUXA1VFk2a2NYSFJPZVJpQ1E?oc=5",
+            "source": "The Economic Times",
+            "publishedAt": "2026-11-03",
+            "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+            "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Economic Times. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+            "contentFingerprint": "b0bc22b945a9f5ad",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.35,
+              "llmExclude": false,
+              "llmReason": "Executive commentary from Blackstone's president on future capital raising needed to fund AI growth. AI capital needs are a major theme for private credit and infrastructure lending, so it is relevant, but the text is too thin to confirm a credit-specific angle. 'Fundraising' here refers to sector-wide capital needs, not a Blackstone fund launch or close, so no event type is tagged. This is commentary only, not a specific transaction, so importance is low-to-moderate.",
+              "llmReasonZh": "Blackstone总裁就未来为支持AI增长所需的融资发表的高管评论。AI资本需求是私募信贷和基础设施贷款领域的重要主题，因此具有相关性，但文本内容过于简略，无法确认具体的信贷相关角度。此处的“融资”指整个行业的资本需求，而非Blackstone基金的发行或募集完成，因此未标注事件类型。该文章仅为评论，并非具体交易，因此重要性为低至中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.34
+                },
+                "event": {
+                  "value": 0.57,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.35
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Economic Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.03,
+              "finalScore": 12.030000000000001,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-5fd7d1cae15a",
+            "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Edge Malaysia",
+            "titleZh": "Blackstone总裁称科技行业将有更多融资，以跟上AI产业增长 - The Edge Malaysia",
+            "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+            "summaryZh": "Blackstone总裁称科技行业未来将有更多融资，以跟上AI产业增长 The Edge Malaysia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fV1I0WGdFMl9FbFZIbWcyYnhBcFdlUzVKQVlfUjEzTm1ETGJ0XzBVdEUyYWlqYjlySEQ5VTdocXprX2UwN0VYemNKZmJGeE1K?oc=5",
+            "source": "The Edge Malaysia",
+            "publishedAt": "2026-11-03",
+            "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+            "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Edge Malaysia. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+            "contentFingerprint": "5ea9edfec61eba6a",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone's president is commenting on future capital raising needed to fund AI industry growth. That is relevant to AI and data-center financing, where Blackstone's credit business is active, but the article gives no specific deal, fund close or explicit credit detail. It is executive commentary, not a financing or fundraising event, so it gets low-moderate importance. Not excluded because the topic is the capital and financing needs of AI.",
+              "llmReasonZh": "Blackstone总裁就为AI产业增长提供资金所需的未来融资发表评论。这与AI及数据中心融资相关，而Blackstone的信贷业务在该领域较为活跃，但文章未提供具体交易、基金募集完成情况或明确的信贷细节。该文属于高管评论，而非融资或募资事件，因此重要性为中低。由于主题涉及AI的资本与融资需求，故未予排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.66,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Edge Malaysia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 3.92,
+              "finalScore": 11.92,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-03-30977512bf7a",
+          "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - Columbus Ledger-Enquirer",
+          "titleZh": "黑石总裁称科技行业将有更多融资以跟上AI产业增长 - Columbus Ledger-Enquirer",
+          "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+          "summaryZh": "黑石总裁称科技行业将有更多融资以跟上AI产业增长 Columbus Ledger-Enquirer",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SVDhFLXZpN3Q3RXBneWVadVE5VVZPTVBPYVRqUkNiaXpCbmpzeEE2UGUxci1KQ2JfT3g0RW5uRHgtX1QzcS1tSmhvRXZtaHZmUkxUNjYyaWpwX1VDUUxSclA2bExYU2c0aHJwdHNjTjh5NjJ5Vnc?oc=5",
+          "source": "Columbus Ledger-Enquirer",
+          "publishedAt": "2026-11-03",
+          "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+          "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - Columbus Ledger-Enquirer. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth Columbus Ledger-Enquirer",
+          "contentFingerprint": "4ea2859977f2b7ad",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Blackstone's president comments on future tech-sector capital raising to fund AI growth. This plausibly touches AI infrastructure financing, a key private credit theme, but the text is only a headline. It reports executive commentary, not a specific fund close or transaction, so no event type applies. The credit angle is unconfirmed, so importance is moderate-low.",
+            "llmReasonZh": "黑石总裁就科技行业未来为支持AI增长而进行的融资发表评论。此事可能涉及AI基础设施融资这一私募信贷关键主题，但文本仅为标题。内容为高管评论，而非具体基金募集完成或交易，因此不适用任何事件类型。信贷相关性尚未确认，故重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.35
+              },
+              "event": {
+                "value": 0.6,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Columbus Ledger-Enquirer"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.24,
+            "finalScore": 12.24,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-04b34961550d",
+          "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Economic Times",
+          "titleZh": "Blackstone总裁称科技行业未来将有更多融资以跟上AI产业增长 - The Economic Times",
+          "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+          "summaryZh": "Blackstone总裁称科技行业未来将有更多融资以跟上AI产业增长 The Economic Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPUGE2YlZGamVZbmdzZ1oyelN6ay03azh1NmtqbERqVHNVam9oUUJ3SFlScFR0QXlzaVMzMm5qTzA0cFlnTnVzbUFyenVQMmtYdDExWVZiY2EyVjR4MWtoZGJkY3A2RlMwVjlMN2luUThnM1FTN0dIb1ZNSncxRHVKNEt3SFREd2tXZ1RTWjNjNXdOVE9iOWNZRGRtNlR0WWgxNFpycnIxVWVqaHVJdEFVMGQzaXVyNzJHWnM2RmEzdkFhd1dqU2RnbElIVWcxXzNpN0NDOU9nVDhMWWlnM0lxTzVHczVzRnl2NXpZLW5RQzVJdlRZcGd2UmxROXY3SU5MRzU0Mkx5TGlXbm1Hc2lvSmxKdVlaNVFYaUUxQ1g2anZLdVRSQURzcXBLMlpXc3N3MnFheUEyWTVsWkR3dU1mQ1FybFJhWDNsdTNIWVllMklrUXA1VFk2a2NYSFJPZVJpQ1E?oc=5",
+          "source": "The Economic Times",
+          "publishedAt": "2026-11-03",
+          "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+          "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Economic Times. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Economic Times",
+          "contentFingerprint": "b0bc22b945a9f5ad",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.35,
+            "llmExclude": false,
+            "llmReason": "Executive commentary from Blackstone's president on future capital raising needed to fund AI growth. AI capital needs are a major theme for private credit and infrastructure lending, so it is relevant, but the text is too thin to confirm a credit-specific angle. 'Fundraising' here refers to sector-wide capital needs, not a Blackstone fund launch or close, so no event type is tagged. This is commentary only, not a specific transaction, so importance is low-to-moderate.",
+            "llmReasonZh": "Blackstone总裁就未来为支持AI增长所需的融资发表的高管评论。AI资本需求是私募信贷和基础设施贷款领域的重要主题，因此具有相关性，但文本内容过于简略，无法确认具体的信贷相关角度。此处的“融资”指整个行业的资本需求，而非Blackstone基金的发行或募集完成，因此未标注事件类型。该文章仅为评论，并非具体交易，因此重要性为低至中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.67,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.34
+              },
+              "event": {
+                "value": 0.57,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.35
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Economic Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.03,
+            "finalScore": 12.030000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-5fd7d1cae15a",
+          "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Edge Malaysia",
+          "titleZh": "Blackstone总裁称科技行业将有更多融资，以跟上AI产业增长 - The Edge Malaysia",
+          "summary": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+          "summaryZh": "Blackstone总裁称科技行业未来将有更多融资，以跟上AI产业增长 The Edge Malaysia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fV1I0WGdFMl9FbFZIbWcyYnhBcFdlUzVKQVlfUjEzTm1ETGJ0XzBVdEUyYWlqYjlySEQ5VTdocXprX2UwN0VYemNKZmJGeE1K?oc=5",
+          "source": "The Edge Malaysia",
+          "publishedAt": "2026-11-03",
+          "lede": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+          "articleExcerpt": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth - The Edge Malaysia. Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth The Edge Malaysia",
+          "contentFingerprint": "5ea9edfec61eba6a",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone's president is commenting on future capital raising needed to fund AI industry growth. That is relevant to AI and data-center financing, where Blackstone's credit business is active, but the article gives no specific deal, fund close or explicit credit detail. It is executive commentary, not a financing or fundraising event, so it gets low-moderate importance. Not excluded because the topic is the capital and financing needs of AI.",
+            "llmReasonZh": "Blackstone总裁就为AI产业增长提供资金所需的未来融资发表评论。这与AI及数据中心融资相关，而Blackstone的信贷业务在该领域较为活跃，但文章未提供具体交易、基金募集完成情况或明确的信贷细节。该文属于高管评论，而非融资或募资事件，因此重要性为中低。由于主题涉及AI的资本与融资需求，故未予排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.66,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.33
+              },
+              "event": {
+                "value": 0.55,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Edge Malaysia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-03T04:25:55.342580+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 3.92,
+            "finalScore": 11.92,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 30,
-      "selected": 6,
+      "count": 15,
+      "selected": 0,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
       "queries": [
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 60,
-      "selected": 6,
+      "count": 43,
+      "selected": 0,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
@@ -125532,12 +126202,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 8,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -125545,7 +126215,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
@@ -125558,12 +126228,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 10,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -125571,20 +126241,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 9,
-      "selected": 3,
+      "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
@@ -125597,90 +126267,90 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 7,
-      "selected": 4,
+      "count": 8,
+      "selected": 0,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 74,
-      "selected": 6,
+      "count": 89,
+      "selected": 3,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
       "count": 40,
-      "selected": 6,
+      "selected": 0,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 9,
-      "selected": 3,
+      "count": 10,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 7,
-      "selected": 3,
+      "count": 2,
+      "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 11,
-      "selected": 1,
+      "count": 8,
+      "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 29,
+      "count": 18,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -125688,12 +126358,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 413,
+      "count": 446,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -125705,11 +126375,14 @@
         "aircraft leasing aviation finance Apollo KKR private credit",
         "GP stakes private credit Blue Owl Dyal Blackstone",
         "data center AI infrastructure financing private credit Blackstone Apollo KKR",
-        "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
+        "Europe private credit direct lending Apollo KKR CVC Neuberger Berman",
+        "site:dbrs.morningstar.com CLO OR BDC OR \"private credit\" OR \"direct lending\" OR \"middle market\"",
+        "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
+        "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-02T21:09:00.762032+00:00",
+      "asOf": "2026-11-03T04:25:55.342580+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-02T21:09:00.762032+00:00"
+  "checkedAt": "2026-11-03T04:25:55.342580+00:00"
 }
