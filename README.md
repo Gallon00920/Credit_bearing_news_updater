@@ -39,9 +39,11 @@ To migrate saved data to the current institution list, strategy taxonomy, event 
 python3 scripts/update_news.py --backfill-only
 ```
 
+Set your Claude (Anthropic) API key before running the full pipeline. Never commit real keys to this file:
+
 ```bash
-export ANTHROPIC_API_KEY="your-anthropic-api-key"
-export HF_TOKEN="your-hugging-face-token"
+export ANTHROPIC_API_KEY="your_anthropic_api_key"
+export HF_TOKEN="your_optional_hugging_face_token"
 python3 scripts/update_news.py
 ```
 
@@ -98,15 +100,15 @@ The current updater is primarily a free RSS / Atom ingestion script, not a brows
 Current source method:
 
 - Google News RSS search: API-like RSS feed calls generated from `config/news_sources.json`.
-- Institution feeds: two search queries per tracked institution (a name / alias query and a credit-focused query) for Blue Owl, KKR, CIFC, PAG, Pretium, Guggenheim, Neuberger, BasePoint, Bain Capital, Blackstone, Apollo, TPG, Golub, CVC, and Canyon. Blue Owl includes Dyal; TPG includes Angelo Gordon.
-- Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-based finance, aircraft / aviation finance, data center and AI infrastructure financing, and GP-stakes topics.
+- Institution feeds: two search queries per tracked institution (a name / alias query and a credit-focused query) for Blue Owl, KKR, CIFC, PAG, Pretium, Guggenheim, Neuberger, BasePoint, Bain Capital, Blackstone, Apollo, TPG, Golub, CVC, and Canyon. Blue Owl includes Dyal; TPG includes Angelo Gordon. Institution aliases in `gpAliases` also cover credit vehicles and tickers so rating actions and fund pages that name the vehicle rather than the sponsor still tag the manager: for example Owl Rock / OBDC / OCIC (Blue Owl), FS KKR / KREF (KKR), Progress Residential / Deephaven / Anchor Loans / PRET shelf (Pretium), BCRED / BXSL / BXMT / BX Trust (Blackstone), MidCap Financial / Redding Ridge / Athene (Apollo), Twin Brook / Northwoods / AG Mortgage Investment Trust (TPG), GBDC (Golub), BCSF (Bain Capital) and Cordatus (CVC).
+- Sector/context feeds: broader searches for private credit, direct lending, CLO, mortgage, real estate credit, asset-based finance, aircraft / aviation finance, data center and AI infrastructure financing, and GP-stakes topics, plus Google News site searches that pull Morningstar DBRS rating actions (CLO, BDC, private credit, SFR, mortgage, net lease, aircraft) and PitchBook / LCD coverage of private credit, direct lending, CLOs and leveraged loans. DBRS items name the rated vehicle rather than the sponsor, so they are only kept when the vehicle name or article text maps to a tracked institution.
 - Direct RSS / Atom feeds: SEC EDGAR Atom for Blue Owl Technology Finance, PR Newswire financial services RSS, Business Wire finance RSS, ABF Journal RSS, HousingWire RSS, Private Equity Wire RSS, Connect Money topic feeds for private debt / CLOs / business lending / alternatives / real estate, and Mortgage News Daily RSS feeds for mortgage industry news, MBS commentary, and full news.
 - HTML source parsers: Asset Securitization Report is fetched as a normal HTML page from `https://asreport.americanbanker.com/feed` and parsed with a dedicated listing-page extractor because that URL does not return valid RSS/XML. A generic listing-page extractor also reads public article indexes from ABL Advisor, Structured Credit Investor, and Inside Mortgage Finance.
 - Direct article-page scraping: not used for routine ingestion. If semantic scoring is enabled, the updater may make a simple free HTML fetch of an article URL to extract a meta description or first text words for scoring only; it does not bypass paywalls, submit forms, or run a headless browser.
 - Paid/news API integrations: not used in this version.
 - Full article extraction: limited. Automated summaries are still based mainly on RSS title/source/snippet metadata; semantic scoring uses title + lede + first available 200 free article words when fetchable.
 
-Preferred sources are configured in `config/news_sources.json` and include Reuters, Bloomberg, Financial Times, Wall Street Journal, Private Credit Daily, Creditflux, Structured Credit Investor, ABL Advisor, Asset Securitization Report, PR Newswire, Business Wire, SEC, and manager-owned press/IR pages when surfaced by RSS.
+Preferred sources are configured in `config/news_sources.json` and include Reuters, Bloomberg, Financial Times, Wall Street Journal, Private Credit Daily, Creditflux, Structured Credit Investor, ABL Advisor, Asset Securitization Report, PR Newswire, Business Wire, SEC, Morningstar DBRS, PitchBook, and manager-owned press/IR pages when surfaced by RSS.
 
 ## News Selection Criteria
 
@@ -165,7 +167,7 @@ Semantic dependencies are optional because the base dashboard should still run w
 
 ```bash
 pip install -r requirements-semantic.txt
-export ANTHROPIC_API_KEY="your-anthropic-api-key"
+export ANTHROPIC_API_KEY="your_api_key_here"
 python3 scripts/update_news.py
 ```
 
@@ -174,6 +176,10 @@ For token-wise ColBERT-style MaxSim scoring, install the PyLate backend (it need
 ```bash
 pip install -r requirements-colbert.txt
 ```
+
+If `huggingface.co` is blocked or slow (corporate proxies, offline machines), the updater probes it once with a 6-second timeout. When the ColBERT model is already in the local Hugging Face cache it loads in offline mode; otherwise it skips PyLate immediately and uses the Claude relevance judge instead of waiting through the Hub client's retries. Set `SEMANTIC_BACKEND=claude_judge` (or `pylate` / `auto`) in the environment to force a backend for one run without editing the config.
+
+Behind a TLS-inspecting corporate proxy, Python 3.13+ rejects the proxy's root certificate (`CERTIFICATE_VERIFY_FAILED: CA cert does not include key usage extension`) even though the browser accepts it. The updater therefore calls `truststore.inject_into_ssl()` at startup when the `truststore` package is installed (it is in `requirements-semantic.txt`), so certificate validation is delegated to the operating system's trust store. Install it into whichever interpreter runs the script, for example `python3 -m pip install truststore`, and set `NEWS_OS_TRUST_STORE=0` to disable the behaviour.
 
 Claude settings live in `config/news_sources.json` under the top-level `claude` block: `model`, `apiKeyEnv`, `effort` (`low` / `medium` / `high`), `maxTokens`, and `refusalFallback` (server-side fallback to another Claude model if a safety classifier declines a request). Any stage can override the model or effort with `claudeModel` / `claudeEffort` inside `classification`, `semanticScoring`, or `translation`. The semantic backend is chosen with `semanticScoring.backend` (`auto`, `pylate`, or `claude_judge`).
 

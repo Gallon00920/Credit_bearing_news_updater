@@ -161,20 +161,20 @@ REFUSAL_FALLBACK_BETA = "server-side-fallback-2026-07-01"
 
 # Default GP aliases; config/news_sources.json `gpAliases` overrides this map.
 GP_ALIASES = {
-    "Blue Owl": ["blue owl", "blueowl", "owl rock", "dyal capital", "dyal", "blue owl technology finance", "nyse: otf"],
-    "KKR": ["kkr", "kohlberg kravis roberts", "global atlantic"],
+    "Blue Owl": ["blue owl", "blueowl", "owl rock", "dyal capital", "dyal", "blue owl technology finance", "nyse: otf", " obdc", " ocic", " orcc"],
+    "KKR": ["kkr", "kohlberg kravis roberts", "global atlantic", " fsk ", " fsk's", " kref"],
     "CIFC": ["cifc"],
     "PAG": [" pag ", "pag's", "pacific alliance group"],
-    "Pretium": ["pretium"],
+    "Pretium": ["pretium", "progress residential", "deephaven", "anchor loans", "selene finance", " pret 20"],
     "Guggenheim": ["guggenheim"],
     "Neuberger": ["neuberger berman", "neuberger", " nb private"],
     "BasePoint": ["basepoint"],
-    "Bain Capital": ["bain capital", "baincapital"],
-    "Blackstone": ["blackstone", "bcred"],
-    "Apollo": ["apollo global", "apollo management", "apollo asset", "apollo debt", "apollo credit", "apollo's", "apollo ", "athene"],
-    "TPG": [" tpg ", "tpg inc", "tpg's", "angelo gordon", "tpg angelo"],
-    "Golub": ["golub"],
-    "CVC": ["cvc capital", "cvc credit", " cvc "],
+    "Bain Capital": ["bain capital", "baincapital", " bcsf"],
+    "Blackstone": ["blackstone", "bcred", " bxsl", " bxmt", " bx trust", " bx commercial mortgage"],
+    "Apollo": ["apollo global", "apollo management", "apollo asset", "apollo debt", "apollo credit", "apollo's", "apollo ", "athene", "midcap financial", "redding ridge"],
+    "TPG": [" tpg ", "tpg inc", "tpg's", "angelo gordon", "tpg angelo", "twin brook", "northwoods capital", "ag mortgage investment trust", " trtx"],
+    "Golub": ["golub", " gbdc"],
+    "CVC": ["cvc capital", "cvc credit", " cvc ", "cordatus"],
     "Canyon": ["canyon partners", "canyon capital", "canyon clo"],
 }
 
@@ -271,12 +271,12 @@ SOLICITATION_PATTERN = re.compile(
 )
 SOURCE_TIERS = [
     ("tier_top", 1.0, re.compile(r"^(reuters|bloomberg|financial times|ft\.com|the wall street journal|wall street journal|wsj)(\b|$)", re.IGNORECASE)),
-    ("tier_filing", 0.9, re.compile(r"\bsec\b|edgar|company filing", re.IGNORECASE)),
+    ("tier_filing", 0.9, re.compile(r"\bsec\b|edgar|company filing|morningstar dbrs|\bdbrs\b", re.IGNORECASE)),
     ("tier_trade", 0.8, re.compile(
         r"private debt investor|9fin|creditflux|structured credit investor|pensions & investments|alternative credit investor|"
         r"\bipe\b|aviation week|airfinance|asset securitization report|abl advisor|private credit daily|commercial observer|"
         r"housingwire|abf journal|inside mortgage finance|private equity wire|connect money|mortgage news daily|"
-        r"pere|secondaries investor|buyouts|debtwire|lcd|with intelligence", re.IGNORECASE)),
+        r"pere|secondaries investor|buyouts|debtwire|lcd|pitchbook|with intelligence", re.IGNORECASE)),
     ("tier_press_release", 0.4, re.compile(r"business wire|pr newswire|globenewswire|newsfile|accesswire", re.IGNORECASE)),
     ("tier_aggregator", 0.25, re.compile(r"seeking alpha|benzinga|tipranks|stock titan|marketbeat|simply wall st|yahoo|motley fool|investing\.com|stocktwits", re.IGNORECASE)),
 ]
@@ -351,7 +351,29 @@ def warn_once(key: str, message: str) -> None:
     print(message, file=sys.stderr)
 
 
+def enable_os_trust_store() -> bool:
+    """Validate TLS certificates with the operating system's trust store when truststore is installed.
+
+    Corporate proxies re-sign HTTPS traffic with their own root certificate. Python 3.13+
+    verifies certificates in strict mode and rejects such roots when they lack the key-usage
+    extension ("CA cert does not include key usage extension") even though the OS trusts
+    them. truststore delegates validation to the OS (Windows CryptoAPI, macOS Security,
+    OpenSSL system store on Linux) so local runs behave like the browser. Set
+    NEWS_OS_TRUST_STORE=0 to keep Python's bundled validation.
+    """
+    if os.environ.get("NEWS_OS_TRUST_STORE", "1").strip().lower() in {"0", "false", "no"}:
+        return False
+    try:
+        import truststore
+    except ImportError:
+        return False
+    truststore.inject_into_ssl()
+    print("TLS: validating certificates with the operating system trust store (truststore).", file=sys.stderr)
+    return True
+
+
 def main() -> int:
+    enable_os_trust_store()
     parser = argparse.ArgumentParser(description="Update the private-credit news dashboard.")
     parser.add_argument("--date", default=dt.date.today().isoformat(), help="Digest date, YYYY-MM-DD.")
     parser.add_argument("--dry-run", action="store_true", help="Print selected items without writing.")
@@ -1833,7 +1855,8 @@ class SemanticScorer:
         return normalized * scale
 
     def load_backend(self):
-        backend_name = self.semantic_config.get("backend", "auto")
+        # SEMANTIC_BACKEND=auto|pylate|claude_judge overrides the config for one run.
+        backend_name = os.environ.get("SEMANTIC_BACKEND") or self.semantic_config.get("backend", "auto")
         pylate_error = ""
         if backend_name in {"auto", "pylate"}:
             try:
@@ -2034,13 +2057,47 @@ def needs_chinese_summary(item: dict, target_language: str | None = None) -> boo
 class PyLateColbertBackend:
     raw_min = 0
 
+    HUB_PROBE_TIMEOUT = 6
+
     def __init__(self, semantic_config: dict):
+        self.raw_max = float(semantic_config.get("rawScoreMax", 30))
+        self.model_name = semantic_config.get("colbertModel", "colbert-ir/colbertv2.0")
+        # Probe before importing pylate: the import alone loads torch and transformers
+        # (tens of seconds), and huggingface_hub would then retry every model file for
+        # minutes when the Hub is unreachable (blocked network, TLS-inspecting proxy).
+        if os.environ.get("HF_HUB_OFFLINE") not in {"1", "true", "True"} and not self.hub_reachable():
+            if self.model_is_cached():
+                os.environ["HF_HUB_OFFLINE"] = "1"
+                print(
+                    f"Hugging Face unreachable within {self.HUB_PROBE_TIMEOUT}s; loading {self.model_name} from the local cache in offline mode.",
+                    file=sys.stderr,
+                )
+            else:
+                raise RuntimeError(
+                    f"huggingface.co unreachable within {self.HUB_PROBE_TIMEOUT}s and {self.model_name} is not in the local cache"
+                )
         from pylate import models, rank
 
         self.rank = rank
-        self.raw_max = float(semantic_config.get("rawScoreMax", 30))
-        self.model_name = semantic_config.get("colbertModel", "colbert-ir/colbertv2.0")
         self.model = models.ColBERT(model_name_or_path=self.model_name)
+
+    def hub_reachable(self) -> bool:
+        url = f"https://huggingface.co/api/models/{self.model_name}"
+        try:
+            with urllib.request.urlopen(request_for(url), timeout=self.HUB_PROBE_TIMEOUT) as response:
+                return 200 <= response.status < 400
+        except Exception:
+            return False
+
+    def model_is_cached(self) -> bool:
+        try:
+            from huggingface_hub import try_to_load_from_cache
+        except Exception:
+            return False
+        try:
+            return isinstance(try_to_load_from_cache(self.model_name, "config.json"), str)
+        except Exception:
+            return False
 
     def score(self, query: str, document: str) -> float:
         queries_embeddings = self.model.encode([query], is_query=True)

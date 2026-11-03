@@ -30,20 +30,20 @@ const DEFAULT_GROUPS = {
   watch: ["Blackstone", "Apollo", "TPG", "Golub", "CVC", "Canyon"],
 };
 const DEFAULT_ALIASES = {
-  "Blue Owl": ["Blue Owl", "BlueOwl", "Owl Rock", "Dyal Capital", "Dyal", "Blue Owl Technology Finance"],
-  KKR: ["KKR", "Kohlberg Kravis Roberts", "Global Atlantic"],
+  "Blue Owl": ["Blue Owl", "BlueOwl", "Owl Rock", "Dyal Capital", "Dyal", "Blue Owl Technology Finance", "OBDC", "OCIC", "ORCC"],
+  KKR: ["KKR", "Kohlberg Kravis Roberts", "Global Atlantic", "FSK", "KREF"],
   CIFC: ["CIFC"],
   PAG: ["PAG", "Pacific Alliance Group"],
-  Pretium: ["Pretium"],
+  Pretium: ["Pretium", "Progress Residential", "Deephaven", "Anchor Loans", "Selene Finance"],
   Guggenheim: ["Guggenheim"],
   Neuberger: ["Neuberger Berman", "Neuberger"],
   BasePoint: ["BasePoint"],
-  "Bain Capital": ["Bain Capital", "BainCapital"],
-  Blackstone: ["Blackstone", "BCRED"],
-  Apollo: ["Apollo Global", "Apollo Management", "Apollo", "Athene"],
-  TPG: ["TPG", "Angelo Gordon"],
-  Golub: ["Golub"],
-  CVC: ["CVC Capital", "CVC Credit", "CVC"],
+  "Bain Capital": ["Bain Capital", "BainCapital", "BCSF"],
+  Blackstone: ["Blackstone", "BCRED", "BXSL", "BXMT", "BX Trust", "BX Commercial Mortgage"],
+  Apollo: ["Apollo Global", "Apollo Management", "Apollo", "Athene", "MidCap Financial", "Redding Ridge"],
+  TPG: ["TPG", "Angelo Gordon", "Twin Brook", "Northwoods Capital", "AG Mortgage Investment Trust", "TRTX"],
+  Golub: ["Golub", "GBDC"],
+  CVC: ["CVC Capital", "CVC Credit", "CVC", "Cordatus"],
   Canyon: ["Canyon Partners", "Canyon Capital"],
 };
 const BUILTIN_STRATEGIES = [
@@ -88,8 +88,8 @@ const STOCK_COMMENTARY = /price target|stock price|stock market|shares (rise|fal
 const SOLICITATION = /investor alert|investor reminder|securities class action notice|law firm|deadline alert|reminds investors|shareholder alert|investigation alert|investors.*contact|losses.*contact/i;
 const SOURCE_TIERS = [
   ["tier_top", 1.0, /^(reuters|bloomberg|financial times|ft\.com|the wall street journal|wall street journal|wsj)(\b|$)/i],
-  ["tier_filing", 0.9, /\bsec\b|edgar|company filing/i],
-  ["tier_trade", 0.8, /private debt investor|9fin|creditflux|structured credit investor|pensions & investments|alternative credit investor|\bipe\b|aviation week|airfinance|asset securitization report|abl advisor|private credit daily|commercial observer|housingwire|abf journal|inside mortgage finance|private equity wire|connect money|mortgage news daily|pere|secondaries investor|buyouts|debtwire|lcd|with intelligence/i],
+  ["tier_filing", 0.9, /\bsec\b|edgar|company filing|morningstar dbrs|\bdbrs\b/i],
+  ["tier_trade", 0.8, /private debt investor|9fin|creditflux|structured credit investor|pensions & investments|alternative credit investor|\bipe\b|aviation week|airfinance|asset securitization report|abl advisor|private credit daily|commercial observer|housingwire|abf journal|inside mortgage finance|private equity wire|connect money|mortgage news daily|pere|secondaries investor|buyouts|debtwire|lcd|pitchbook|with intelligence/i],
   ["tier_press_release", 0.4, /business wire|pr newswire|globenewswire|newsfile|accesswire/i],
   ["tier_aggregator", 0.25, /seeking alpha|benzinga|tipranks|stock titan|marketbeat|simply wall st|yahoo|motley fool|investing\.com|stocktwits/i],
 ];
@@ -208,7 +208,6 @@ const UI = {
     partSource: "Source priority",
     partFreshness: "Freshness",
     generateSummary: "Generate summary",
-    regenerateSummary: "Regenerate summary",
     sortImportance: "Importance first",
     sortRecent: "Newest first",
     sortOldest: "Oldest first",
@@ -410,7 +409,6 @@ const UI = {
     partSource: "来源优先级",
     partFreshness: "时效",
     generateSummary: "生成 Summary 概要",
-    regenerateSummary: "重新生成概要",
     sortImportance: "重要性优先",
     sortRecent: "最新优先",
     sortOldest: "最早优先",
@@ -536,7 +534,7 @@ const REASONS = {
     solicitation: "law-firm solicitation / investor alert down-weighted",
     routine: "routine institution update",
     tier_top: "preset priority financial media",
-    tier_filing: "regulatory filing",
+    tier_filing: "regulatory filing / rating action",
     tier_trade: "preset trade press",
     tier_press_release: "press-release channel; verify the issuer",
     tier_aggregator: "investment commentary / aggregator source",
@@ -568,7 +566,7 @@ const REASONS = {
     solicitation: "律师征集 / 投资者提醒降权",
     routine: "常规机构动态",
     tier_top: "预设优先财经媒体",
-    tier_filing: "监管文件",
+    tier_filing: "监管文件 / 评级公告",
     tier_trade: "预设行业专业媒体",
     tier_press_release: "新闻稿渠道；需核对发行方",
     tier_aggregator: "投资评论 / 聚合来源",
@@ -1043,12 +1041,12 @@ function renderTop() {
   renderCounts();
 }
 function renderCounts() {
-  $("#summaryButton").textContent = state.summary ? t().regenerateSummary : t().generateSummary;
+  $("#summaryButton").textContent = state.summary ? t().collapse : t().generateSummary;
   const view = state.loading || state.error ? null : computeView();
   const titles = { all: t().resultsAll, lawsuit: t().resultsLawsuit, financing: t().resultsFinancing, fundraising: t().resultsFundraising };
   $("#resultsTitle").textContent = titles[state.event];
   $("#resultsCount").textContent = view ? view.shown.length : "…";
-  $("#summaryButton").disabled = !view || !view.shown.length;
+  $("#summaryButton").disabled = !view || (!view.shown.length && !state.summary);
 
   const selected = strategyById(state.strategy);
   const bits = [
@@ -1205,7 +1203,7 @@ function renderSummary(view) {
     .join(" · ");
   node.hidden = false;
   node.innerHTML = `
-    <div class="summary-heading"><h3>${t().summaryTitle}</h3><button type="button" data-action="close-summary">${t().collapse}</button></div>
+    <div class="summary-heading"><h3>${t().summaryTitle}</h3></div>
     <p class="summary-scope">${escapeHtml(scope)}</p>
     <p>${t().summaryCounts(s.reports, s.stories, s.priority)}${s.oldest ? t().summaryDates(formatDate(s.oldest), formatDate(s.newest)) : ""}</p>
     <h4>${t().synthesisTitle}</h4>
@@ -1579,12 +1577,7 @@ function onClick(event) {
       renderAll();
       break;
     case "toggle-summary":
-      state.summary = buildSummary(computeView().shown);
-      renderTop();
-      renderResults();
-      break;
-    case "close-summary":
-      state.summary = null;
+      state.summary = state.summary ? null : buildSummary(computeView().shown);
       renderTop();
       renderResults();
       break;

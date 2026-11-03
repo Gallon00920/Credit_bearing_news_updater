@@ -56,20 +56,20 @@
     "watch": ["Blackstone", "Apollo", "TPG", "Golub", "CVC", "Canyon"]
   },
   "gpAliases": {
-    "Blue Owl": ["blue owl", "blueowl", "owl rock", "dyal capital", "dyal", "blue owl technology finance", "nyse: otf"],
-    "KKR": ["kkr", "kohlberg kravis roberts", "global atlantic"],
+    "Blue Owl": ["blue owl", "blueowl", "owl rock", "dyal capital", "dyal", "blue owl technology finance", "nyse: otf", " obdc", " ocic", " orcc"],
+    "KKR": ["kkr", "kohlberg kravis roberts", "global atlantic", " fsk ", " fsk's", " kref"],
     "CIFC": ["cifc"],
     "PAG": [" pag ", "pag's", "pacific alliance group"],
-    "Pretium": ["pretium"],
+    "Pretium": ["pretium", "progress residential", "deephaven", "anchor loans", "selene finance", " pret 20"],
     "Guggenheim": ["guggenheim"],
     "Neuberger": ["neuberger berman", "neuberger", " nb private"],
     "BasePoint": ["basepoint"],
-    "Bain Capital": ["bain capital", "baincapital"],
-    "Blackstone": ["blackstone", "bcred"],
-    "Apollo": ["apollo global", "apollo management", "apollo asset", "apollo debt", "apollo credit", "apollo's", "apollo ", "athene"],
-    "TPG": [" tpg ", "tpg inc", "tpg's", "angelo gordon", "tpg angelo"],
-    "Golub": ["golub"],
-    "CVC": ["cvc capital", "cvc credit", " cvc "],
+    "Bain Capital": ["bain capital", "baincapital", " bcsf"],
+    "Blackstone": ["blackstone", "bcred", " bxsl", " bxmt", " bx trust", " bx commercial mortgage"],
+    "Apollo": ["apollo global", "apollo management", "apollo asset", "apollo debt", "apollo credit", "apollo's", "apollo ", "athene", "midcap financial", "redding ridge"],
+    "TPG": [" tpg ", "tpg inc", "tpg's", "angelo gordon", "tpg angelo", "twin brook", "northwoods capital", "ag mortgage investment trust", " trtx"],
+    "Golub": ["golub", " gbdc"],
+    "CVC": ["cvc capital", "cvc credit", " cvc ", "cordatus"],
     "Canyon": ["canyon partners", "canyon capital", "canyon clo"]
   },
   "gpQueries": {
@@ -97,7 +97,10 @@
     "aircraft leasing aviation finance Apollo KKR private credit",
     "GP stakes private credit Blue Owl Dyal Blackstone",
     "data center AI infrastructure financing private credit Blackstone Apollo KKR",
-    "Europe private credit direct lending Apollo KKR CVC Neuberger Berman"
+    "Europe private credit direct lending Apollo KKR CVC Neuberger Berman",
+    "site:dbrs.morningstar.com CLO OR BDC OR \"private credit\" OR \"direct lending\" OR \"middle market\"",
+    "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
+    "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
   ],
   "rssFeeds": [
     {
@@ -197,6 +200,8 @@
     "PR Newswire",
     "Business Wire",
     "SEC",
+    "Morningstar DBRS",
+    "PitchBook",
     "Apollo",
     "KKR",
     "Blue Owl",

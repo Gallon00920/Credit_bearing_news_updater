@@ -1,1 +1,3 @@
 anthropic
+# Lets Python validate TLS with the OS trust store (needed behind TLS-inspecting corporate proxies).
+truststore
