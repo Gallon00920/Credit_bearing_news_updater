@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-03T20:09:46.138495+00:00",
+  "updatedAt": "2026-11-04T01:04:11.293587+00:00",
   "scope": {
     "regions": [
       "US",
@@ -9165,7 +9165,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11187,7 +11187,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下归入更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，这与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21575,7 +21575,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -21599,7 +21599,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -127796,7 +127796,217 @@
     },
     "2026-11-03": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-03-ca1cb2b4d639",
+            "title": "Blue Owl Capital nearing first close of credit secondaries fund - PEI Secondaries Investor",
+            "titleZh": "Blue Owl Capital信贷二级市场基金即将完成首次关账 - PEI Secondaries Investor",
+            "summary": "Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+            "summaryZh": "Blue Owl Capital信贷二级市场基金即将完成首次关账 PEI Secondaries Investor",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGNKVnlmTW51bmxtdS1hVzBJcWdvaWlEdkZmLUZCeXhhdHlCOVpIOGpMOUo0aEhtbUNKY3ZKWlhvSmY0NHJtbm1JWGVDMl9VVDRiRUdZSEs4MldDaS1iS3djT3NFWW0xTF84MFFZeG90bjFKQzkyd1hSbDdxQkhZOXhuOXJ0b3gydTlPZjhpNUFHenVLUTVRU0F0QWUzUFRYU0hwVHRuYw?oc=5",
+            "source": "PEI Secondaries Investor",
+            "publishedAt": "2026-11-03",
+            "lede": "Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+            "articleExcerpt": "Blue Owl Capital nearing first close of credit secondaries fund - PEI Secondaries Investor. Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+            "contentFingerprint": "d06507864feccdc7",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is nearing the first close of a credit secondaries fund. This is credit-related fundraising, so it maps to private credit. A first close that is still pending matters, but it is less significant than a final close.",
+              "llmReasonZh": "Blue Owl即将完成一只信贷二级市场基金的首次关账。此为信贷相关募资，因此归入私募信贷类别。尚未完成的首次关账具有一定意义，但重要性不及最终关账。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PEI Secondaries Investor"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 86,
+              "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.64,
+              "finalScore": 25.64,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-0d188721fb14",
+            "title": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns - GuruFocus",
+            "titleZh": "Blue Owl Technology Finance Corp (OTF)将公布第三季度业绩，股息可持续性引发担忧 - GuruFocus",
+            "summary": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+            "summaryZh": "Blue Owl Technology Finance Corp (OTF)将公布第三季度业绩，股息可持续性引发担忧 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUxFQWU5X3RtTUYxN3JSOG1PVGpTNS1RRHg4a2FlSW4tVmZodWVZZkJLR1ctWGE2aWNwcktkTTMtWkcxN19zSzJRN3RpalAxbDNYN0JpOWFLZ08zNkxNLUJvci0wR2JxZkJabzZUbVdMTE1ZQUwzX0VSZVFpcGlxNXEyUXF1UGxXR0NSSjJEMkVRcENCN3l3NGp1LTJLSnNFQjR0TTlWWHBPS05keHBaaGRzOGdQbFEtSDNvSVp6dTdEeFYzd0hPODBtYWhBUW9uQUQ1Rld3?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-03",
+            "lede": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+            "articleExcerpt": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns - GuruFocus. Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+            "contentFingerprint": "217236a857d64b52",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp is a Blue Owl BDC, so this falls under its private credit business. The article is an earnings preview. It flags dividend sustainability concerns, a possible sign of stress for credit investors, so it rates above pure stock commentary but below routine manager news. No lawsuit, financing or fundraising event.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp是Blue Owl旗下的BDC（业务发展公司），因此属于其私募信贷业务范畴。本文为业绩前瞻，提及股息可持续性方面的担忧，这对信贷投资者而言可能是压力信号，因此其重要性高于纯粹的股票评论，但低于常规的管理人新闻。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.5,
+              "finalScore": 20.5,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-11-03-0f4dd8cdbee1",
@@ -128116,6 +128326,114 @@
               "keywordScore": 6,
               "semanticScore": 5.29,
               "finalScore": 11.29,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-6f0186bd1d85",
+            "title": "Form D/A Bain Capital Senior Loan - StreetInsider",
+            "titleZh": "Bain Capital Senior Loan提交Form D/A修订文件 - StreetInsider",
+            "summary": "Form D/A Bain Capital Senior Loan StreetInsider",
+            "summaryZh": "Bain Capital Senior Loan提交Form D/A文件 StreetInsider",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFpCWEtzTFhKdnF4dGlEbGEwRHhpY19meEI2YjcyVlNpbVRJaHBSQmFiY0NlV0tMTTd5UnJENl9ZSVI2SG9wOXAxS1FMVnd2OEZuX0hpVGVWQ3BfLThZX251dWlzNXktcS1GMjZPZlM3YTFkZHVrcDFMQ0htWjF4cXBTekViWk11dDR1SjZ2RVU1dw?oc=5",
+            "source": "StreetInsider",
+            "publishedAt": "2026-11-03",
+            "lede": "Form D/A Bain Capital Senior Loan StreetInsider",
+            "articleExcerpt": "Form D/A Bain Capital Senior Loan - StreetInsider. Form D/A Bain Capital Senior Loan StreetInsider",
+            "contentFingerprint": "901bf8919cf20ff1",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "This is an amended Form D filing for a Bain Capital senior loan vehicle. That falls under Bain Capital Credit's lending business. Form D filings report private fund offerings and capital raised, so the event is fundraising. It is a routine regulatory filing with no details given, so importance is moderate.",
+              "llmReasonZh": "这是Bain Capital旗下一只优先贷款工具提交的Form D修订文件，属于Bain Capital Credit的贷款业务。Form D文件用于披露私募基金发行及募资情况，因此该事件属于募资类事件。该文件为常规监管备案，未披露具体细节，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "StreetInsider"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.37,
+              "finalScore": 19.37,
               "semanticEnabled": true
             }
           }
@@ -128765,6 +129083,105 @@
               "finalScore": 24.6,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-1b5cf328e6bb",
+            "title": "Blackstone Secured Lending earnings on deck as dividend cut looms - Investing.com",
+            "titleZh": "Blackstone Secured Lending即将公布财报，或面临削减股息 - Investing.com",
+            "summary": "Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+            "summaryZh": "Blackstone Secured Lending即将公布财报，或面临削减股息 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU8xcVBkd3hRcXExZ1BqV0hNRXlKOVhweXptWnFpb3kwa1hWYU9YazFvcFExMTlTNlZsZFdQT0ZQZFptc0FvRFJqaWQtS2NTQnJJV1ZFanNoVkJmRmx3ZUZFMndVWE1CLUd5dTBTdDFETF96Z2dHaDJvNTVQbEZMeWdaTS1oZ0VjUDYxdXVHMk5DZ1Jsdk9oVlk5T1VmT3hrbEl0eloyNnkyRVFOaUJ3RHNBMWNTUEVSWGc?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-03",
+            "lede": "Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+            "articleExcerpt": "Blackstone Secured Lending earnings on deck as dividend cut looms - Investing.com. Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+            "contentFingerprint": "5321ff8262b9137a",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's BDC, so it is credit exposure. An expected dividend cut signals income pressure on a private-credit vehicle, which matters to credit investors. It is an earnings preview rather than a financing, fundraising or legal event, so no event types apply.",
+              "llmReasonZh": "Blackstone Secured Lending（BXSL）是Blackstone旗下的业务发展公司（BDC），属于信贷敞口。预期的股息削减表明该私募信贷工具面临收益压力，这对信贷投资者具有重要意义。本文属于财报前瞻，而非融资、募资或法律事件，因此不适用任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.91,
+              "finalScore": 21.91,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -128869,6 +129286,120 @@
               "keywordScore": 17,
               "semanticScore": 5.08,
               "finalScore": 22.08,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-19ee90742a67",
+            "title": "Apollo Launches European Credit Company With €10B Capacity - ABF Journal",
+            "titleZh": "Apollo推出欧洲信贷公司，规模达€10B - ABF Journal",
+            "summary": "Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+            "summaryZh": "Apollo推出欧洲信贷公司，规模达€10B ABF Journal",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2lnWUhINlB3cGxMYTB4aXh5Sy1SLWprYkVPc0RXSXZkeEpTR2FqSmUwVE9BTWJSWEVkZ0VubTRBRU1HQ0t4MkhkSVNMQW9xbHR4WndRMVRVSmQxS0NDeGJsV25uVmpqX2NtY2tzcWFwdUoyM3U1aWVOQl9SMkxkOGNfSDFGNG05aHFqS2lldw?oc=5",
+            "source": "ABF Journal",
+            "publishedAt": "2026-11-03",
+            "lede": "Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+            "articleExcerpt": "Apollo Launches European Credit Company With €10B Capacity - ABF Journal. Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+            "contentFingerprint": "8b98331ebbc5ad8b",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Apollo (credit business) launching a European credit company with €10B capacity is a major credit platform/capital launch, reported by ABF Journal. This fits private credit and likely asset-based finance. It is credit-relevant, so it should not be excluded.",
+              "llmReasonZh": "据ABF Journal报道，Apollo（信贷业务）推出规模达€10B的欧洲信贷公司，属于重大信贷平台/资本发行事件。该事件契合私募信贷领域，并可能涉及资产支持融资，与信贷相关，因此不应排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "ABF Journal"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 86,
+              "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.73,
+              "finalScore": 23.73,
               "semanticEnabled": true
             }
           }
@@ -128984,6 +129515,215 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-03-ca1cb2b4d639",
+          "title": "Blue Owl Capital nearing first close of credit secondaries fund - PEI Secondaries Investor",
+          "titleZh": "Blue Owl Capital信贷二级市场基金即将完成首次关账 - PEI Secondaries Investor",
+          "summary": "Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+          "summaryZh": "Blue Owl Capital信贷二级市场基金即将完成首次关账 PEI Secondaries Investor",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGNKVnlmTW51bmxtdS1hVzBJcWdvaWlEdkZmLUZCeXhhdHlCOVpIOGpMOUo0aEhtbUNKY3ZKWlhvSmY0NHJtbm1JWGVDMl9VVDRiRUdZSEs4MldDaS1iS3djT3NFWW0xTF84MFFZeG90bjFKQzkyd1hSbDdxQkhZOXhuOXJ0b3gydTlPZjhpNUFHenVLUTVRU0F0QWUzUFRYU0hwVHRuYw?oc=5",
+          "source": "PEI Secondaries Investor",
+          "publishedAt": "2026-11-03",
+          "lede": "Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+          "articleExcerpt": "Blue Owl Capital nearing first close of credit secondaries fund - PEI Secondaries Investor. Blue Owl Capital nearing first close of credit secondaries fund PEI Secondaries Investor",
+          "contentFingerprint": "d06507864feccdc7",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is nearing the first close of a credit secondaries fund. This is credit-related fundraising, so it maps to private credit. A first close that is still pending matters, but it is less significant than a final close.",
+            "llmReasonZh": "Blue Owl即将完成一只信贷二级市场基金的首次关账。此为信贷相关募资，因此归入私募信贷类别。尚未完成的首次关账具有一定意义，但重要性不及最终关账。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.85,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PEI Secondaries Investor"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 86,
+            "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.64,
+            "finalScore": 25.64,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-0d188721fb14",
+          "title": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns - GuruFocus",
+          "titleZh": "Blue Owl Technology Finance Corp (OTF)将公布第三季度业绩，股息可持续性引发担忧 - GuruFocus",
+          "summary": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+          "summaryZh": "Blue Owl Technology Finance Corp (OTF)将公布第三季度业绩，股息可持续性引发担忧 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUxFQWU5X3RtTUYxN3JSOG1PVGpTNS1RRHg4a2FlSW4tVmZodWVZZkJLR1ctWGE2aWNwcktkTTMtWkcxN19zSzJRN3RpalAxbDNYN0JpOWFLZ08zNkxNLUJvci0wR2JxZkJabzZUbVdMTE1ZQUwzX0VSZVFpcGlxNXEyUXF1UGxXR0NSSjJEMkVRcENCN3l3NGp1LTJLSnNFQjR0TTlWWHBPS05keHBaaGRzOGdQbFEtSDNvSVp6dTdEeFYzd0hPODBtYWhBUW9uQUQ1Rld3?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-03",
+          "lede": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+          "articleExcerpt": "Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns - GuruFocus. Blue Owl Technology Finance Corp (OTF) Set to Report Q3 Earnings Amid Dividend Sustainability Concerns GuruFocus",
+          "contentFingerprint": "217236a857d64b52",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp is a Blue Owl BDC, so this falls under its private credit business. The article is an earnings preview. It flags dividend sustainability concerns, a possible sign of stress for credit investors, so it rates above pure stock commentary but below routine manager news. No lawsuit, financing or fundraising event.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp是Blue Owl旗下的BDC（业务发展公司），因此属于其私募信贷业务范畴。本文为业绩前瞻，提及股息可持续性方面的担忧，这对信贷投资者而言可能是压力信号，因此其重要性高于纯粹的股票评论，但低于常规的管理人新闻。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.5,
+            "finalScore": 20.5,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-03-0f4dd8cdbee1",
           "title": "KKR Real Estate Finance Trust (NYSE:KREF) Given New $5.50 Price Target at Keefe, Bruyette & Woods - MarketBeat",
@@ -129294,6 +130034,114 @@
             "keywordScore": 6,
             "semanticScore": 5.29,
             "finalScore": 11.29,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-6f0186bd1d85",
+          "title": "Form D/A Bain Capital Senior Loan - StreetInsider",
+          "titleZh": "Bain Capital Senior Loan提交Form D/A修订文件 - StreetInsider",
+          "summary": "Form D/A Bain Capital Senior Loan StreetInsider",
+          "summaryZh": "Bain Capital Senior Loan提交Form D/A文件 StreetInsider",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFpCWEtzTFhKdnF4dGlEbGEwRHhpY19meEI2YjcyVlNpbVRJaHBSQmFiY0NlV0tMTTd5UnJENl9ZSVI2SG9wOXAxS1FMVnd2OEZuX0hpVGVWQ3BfLThZX251dWlzNXktcS1GMjZPZlM3YTFkZHVrcDFMQ0htWjF4cXBTekViWk11dDR1SjZ2RVU1dw?oc=5",
+          "source": "StreetInsider",
+          "publishedAt": "2026-11-03",
+          "lede": "Form D/A Bain Capital Senior Loan StreetInsider",
+          "articleExcerpt": "Form D/A Bain Capital Senior Loan - StreetInsider. Form D/A Bain Capital Senior Loan StreetInsider",
+          "contentFingerprint": "901bf8919cf20ff1",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "This is an amended Form D filing for a Bain Capital senior loan vehicle. That falls under Bain Capital Credit's lending business. Form D filings report private fund offerings and capital raised, so the event is fundraising. It is a routine regulatory filing with no details given, so importance is moderate.",
+            "llmReasonZh": "这是Bain Capital旗下一只优先贷款工具提交的Form D修订文件，属于Bain Capital Credit的贷款业务。Form D文件用于披露私募基金发行及募资情况，因此该事件属于募资类事件。该文件为常规监管备案，未披露具体细节，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.65,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "StreetInsider"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.37,
+            "finalScore": 19.37,
             "semanticEnabled": true
           }
         },
@@ -129943,6 +130791,105 @@
           }
         },
         {
+          "id": "2026-11-03-1b5cf328e6bb",
+          "title": "Blackstone Secured Lending earnings on deck as dividend cut looms - Investing.com",
+          "titleZh": "Blackstone Secured Lending即将公布财报，或面临削减股息 - Investing.com",
+          "summary": "Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+          "summaryZh": "Blackstone Secured Lending即将公布财报，或面临削减股息 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU8xcVBkd3hRcXExZ1BqV0hNRXlKOVhweXptWnFpb3kwa1hWYU9YazFvcFExMTlTNlZsZFdQT0ZQZFptc0FvRFJqaWQtS2NTQnJJV1ZFanNoVkJmRmx3ZUZFMndVWE1CLUd5dTBTdDFETF96Z2dHaDJvNTVQbEZMeWdaTS1oZ0VjUDYxdXVHMk5DZ1Jsdk9oVlk5T1VmT3hrbEl0eloyNnkyRVFOaUJ3RHNBMWNTUEVSWGc?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-03",
+          "lede": "Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+          "articleExcerpt": "Blackstone Secured Lending earnings on deck as dividend cut looms - Investing.com. Blackstone Secured Lending earnings on deck as dividend cut looms Investing.com",
+          "contentFingerprint": "5321ff8262b9137a",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's BDC, so it is credit exposure. An expected dividend cut signals income pressure on a private-credit vehicle, which matters to credit investors. It is an earnings preview rather than a financing, fundraising or legal event, so no event types apply.",
+            "llmReasonZh": "Blackstone Secured Lending（BXSL）是Blackstone旗下的业务发展公司（BDC），属于信贷敞口。预期的股息削减表明该私募信贷工具面临收益压力，这对信贷投资者具有重要意义。本文属于财报前瞻，而非融资、募资或法律事件，因此不适用任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.91,
+            "finalScore": 21.91,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-c08babb4e4b4",
           "title": "Apollo to Spend $350 Million on Private Credit Trading in Austin - Bloomberg.com",
           "titleZh": "Apollo将斥资3.5亿美元在奥斯汀开展私募信贷交易业务 - Bloomberg.com",
@@ -130043,6 +130990,120 @@
             "keywordScore": 17,
             "semanticScore": 5.08,
             "finalScore": 22.08,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-19ee90742a67",
+          "title": "Apollo Launches European Credit Company With €10B Capacity - ABF Journal",
+          "titleZh": "Apollo推出欧洲信贷公司，规模达€10B - ABF Journal",
+          "summary": "Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+          "summaryZh": "Apollo推出欧洲信贷公司，规模达€10B ABF Journal",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2lnWUhINlB3cGxMYTB4aXh5Sy1SLWprYkVPc0RXSXZkeEpTR2FqSmUwVE9BTWJSWEVkZ0VubTRBRU1HQ0t4MkhkSVNMQW9xbHR4WndRMVRVSmQxS0NDeGJsV25uVmpqX2NtY2tzcWFwdUoyM3U1aWVOQl9SMkxkOGNfSDFGNG05aHFqS2lldw?oc=5",
+          "source": "ABF Journal",
+          "publishedAt": "2026-11-03",
+          "lede": "Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+          "articleExcerpt": "Apollo Launches European Credit Company With €10B Capacity - ABF Journal. Apollo Launches European Credit Company With €10B Capacity ABF Journal",
+          "contentFingerprint": "8b98331ebbc5ad8b",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Apollo (credit business) launching a European credit company with €10B capacity is a major credit platform/capital launch, reported by ABF Journal. This fits private credit and likely asset-based finance. It is credit-relevant, so it should not be excluded.",
+            "llmReasonZh": "据ABF Journal报道，Apollo（信贷业务）推出规模达€10B的欧洲信贷公司，属于重大信贷平台/资本发行事件。该事件契合私募信贷领域，并可能涉及资产支持融资，与信贷相关，因此不应排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.8,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "ABF Journal"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 86,
+            "retrievedAt": "2026-11-03T23:49:39.840063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.73,
+            "finalScore": 23.73,
             "semanticEnabled": true
           }
         },
@@ -130156,7 +131217,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 20,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -130164,12 +131225,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 102,
+      "count": 78,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -130177,7 +131238,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130190,7 +131251,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130203,7 +131264,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130216,7 +131277,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130229,7 +131290,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130242,7 +131303,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130255,25 +131316,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 13,
-      "selected": 5,
+      "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -130281,7 +131342,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130294,12 +131355,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 11,
+      "count": 9,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -130307,25 +131368,25 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
-      "selected": 3,
+      "count": 2,
+      "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 15,
+      "count": 16,
       "selected": 2,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -130333,7 +131394,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
@@ -130346,12 +131407,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 443,
+      "count": 462,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -130368,9 +131429,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-03T18:52:07.534834+00:00",
+      "asOf": "2026-11-03T23:49:39.840063+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-03T18:52:07.534834+00:00"
+  "checkedAt": "2026-11-03T23:49:39.840063+00:00"
 }
