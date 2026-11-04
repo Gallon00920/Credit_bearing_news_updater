@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-04T01:04:11.293587+00:00",
+  "updatedAt": "2026-11-04T05:15:14.192677+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,224 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-06": {
-      "byGp": {
-        "Blue Owl": [
-          {
-            "id": "2026-08-06-80d821f41a42",
-            "title": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value - Bloomberg.com",
-            "titleZh": "Blue Owl旗下BDC回购9000万美元股份以支撑估值 - Bloomberg.com",
-            "summary": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-            "summaryZh": "Blue Owl旗下BDC回购9000万美元股份以支撑估值 Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkJUOG9SUnRzWDh5UDlmWlpELS1ySHlOeUNYT2I0bEEtQTgwUVBlaEdUWDN2SC14STNXWG11MGxaRlJxRUsyVHlJNGdab3ZwNkY3Zk9GelZLTmdWYllhcHgzM3VUZGZCd1doZVo3UjktTV9yOHlFeVpheWNxaThyM2MtVEswbEFESHR1ZGUzcmNhWmhPeWo1cTh4dHlZbk9FYW1HLW5KWVpYd1FwMzdVSw?oc=5",
-            "source": "Bloomberg.com",
-            "publishedAt": "2026-08-06",
-            "lede": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-            "articleExcerpt": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value - Bloomberg.com. Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-            "contentFingerprint": "f85c00e3df1ac6f2",
-            "region": "Global",
-            "gps": [
-              "Blue Owl"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "Blue Owl"
-              ],
-              "llmGps": [
-                "Blue Owl"
-              ],
-              "keywordSectors": [
-                "private credit / direct lending"
-              ],
-              "llmSectors": [
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "Blue Owl BDCs (Business Development Companies) are vehicles for Blue Owl's direct lending/private credit strategy; share buybacks are capital management actions supporting the value of their credit-focused investment vehicles.",
-              "llmReasonZh": "Blue Owl旗下BDC（业务发展公司）是Blue Owl开展直接贷款/私募信贷策略的投资载体；股份回购属于资本管理举措，旨在支撑其信贷类投资载体的价值。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 17,
-              "semanticScore": 7.07,
-              "finalScore": 24.07,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.79,
-                  "code": "title_hits_strategy",
-                  "tagValue": 1.0,
-                  "strategies": [
-                    "private-credit"
-                  ],
-                  "semanticValue": 0.59
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 1.0,
-                  "code": "tier_top",
-                  "source": "Bloomberg.com"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 85,
-              "retrievedAt": "2026-10-29T09:02:01.308168+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-06-80d821f41a42",
-          "title": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value - Bloomberg.com",
-          "titleZh": "Blue Owl旗下BDC回购9000万美元股份以支撑估值 - Bloomberg.com",
-          "summary": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-          "summaryZh": "Blue Owl旗下BDC回购9000万美元股份以支撑估值 Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkJUOG9SUnRzWDh5UDlmWlpELS1ySHlOeUNYT2I0bEEtQTgwUVBlaEdUWDN2SC14STNXWG11MGxaRlJxRUsyVHlJNGdab3ZwNkY3Zk9GelZLTmdWYllhcHgzM3VUZGZCd1doZVo3UjktTV9yOHlFeVpheWNxaThyM2MtVEswbEFESHR1ZGUzcmNhWmhPeWo1cTh4dHlZbk9FYW1HLW5KWVpYd1FwMzdVSw?oc=5",
-          "source": "Bloomberg.com",
-          "publishedAt": "2026-08-06",
-          "lede": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-          "articleExcerpt": "Blue Owl BDCs Buy Back $90 Million of Shares to Support Value - Bloomberg.com. Blue Owl BDCs Buy Back $90 Million of Shares to Support Value Bloomberg.com",
-          "contentFingerprint": "f85c00e3df1ac6f2",
-          "region": "Global",
-          "gps": [
-            "Blue Owl"
-          ],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "Blue Owl"
-            ],
-            "llmGps": [
-              "Blue Owl"
-            ],
-            "keywordSectors": [
-              "private credit / direct lending"
-            ],
-            "llmSectors": [
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "Blue Owl BDCs (Business Development Companies) are vehicles for Blue Owl's direct lending/private credit strategy; share buybacks are capital management actions supporting the value of their credit-focused investment vehicles.",
-            "llmReasonZh": "Blue Owl旗下BDC（业务发展公司）是Blue Owl开展直接贷款/私募信贷策略的投资载体；股份回购属于资本管理举措，旨在支撑其信贷类投资载体的价值。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 17,
-            "semanticScore": 7.07,
-            "finalScore": 24.07,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Blue Owl"
-                ]
-              },
-              "strategy": {
-                "value": 0.79,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "private-credit"
-                ],
-                "semanticValue": 0.59
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 1.0,
-                "code": "tier_top",
-                "source": "Bloomberg.com"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 85,
-            "retrievedAt": "2026-10-29T09:02:01.308168+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-10": {
       "byGp": {
         "Blue Owl": [],
@@ -9165,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -11164,7 +10946,7 @@
           "title": "HSBC Ultra Short Term Fund Direct growth - Upstox",
           "titleZh": "HSBC Ultra Short Term Fund Direct growth - Upstox",
           "summary": "HSBC Ultra Short Term Fund Direct growth Upstox",
-          "summaryZh": "HSBC Ultra Short Term Fund Direct growth（Upstox）",
+          "summaryZh": "HSBC Ultra Short Term Fund Direct growth Upstox",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNfSkRPenA1b2xtRU1taEluM0hJN0poWUJITks0a2Y0Vi1DMkczTzZPUFc5bDRmQTZmblY0Mm41TkFSWjBacjJ4cjJndkpmOGJtNWZBenh2M1FPeHdTdnNBTVZadTN2SDVKZW9tTEptSmliUTFMTGlpRWR0MzNBNU43T2Rycm1mWXROWDliM3dkUQ?oc=5",
           "source": "Upstox",
           "publishedAt": "2026-09-13",
@@ -11187,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，这与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下属于更广义的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21575,7 +21357,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -21599,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -120858,6 +120640,114 @@
               "finalScore": 12.04,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-02-721059d20fe6",
+            "title": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? - Yahoo Finance",
+            "titleZh": "华尔街分析师预计Blue Owl Capital Corporation (OBDC)有25.99%上涨空间：股价真能涨这么高吗？ - Yahoo Finance",
+            "summary": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+            "summaryZh": "华尔街分析师预计Blue Owl Capital Corporation (OBDC)有25.99%上涨空间：股价真能涨这么高吗？ Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU83UlE0TzFlREpxRGRyMzk3eXdZMjViTzFlaDBqeW1VTWpzZ0ZDZThDZ3l5VjRKRVhyR0JITmVMeEFMWUJ1R1F0MEJKTE9FWXZPRmxMX2ZKbFdySTY1TFlTcFl3eUlob2h1NV9aaThWa3VBMElvS3VDLTUxTzFiVTlSTk9aTGlZY3Ryamt2eEtOaXdtVmxv?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-02",
+            "lede": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+            "articleExcerpt": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? - Yahoo Finance. Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+            "contentFingerprint": "4211db9c35630fb8",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price-target commentary on Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, so it falls under its private credit / direct lending business. It is stock-price commentary with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "本文为分析师对Blue Owl Capital Corporation (OBDC)目标价的评论。OBDC是Blue Owl旗下公开交易的BDC，因此归入其私募信贷/直接贷款业务。本文仅为股价评论，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.43,
+              "finalScore": 22.43,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -122449,6 +122339,122 @@
               "finalScore": 21.79,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-02-9643969669bb",
+            "title": "Blackstone-backed data center operator tests AI debt fears - Yahoo Finance",
+            "titleZh": "黑石支持的数据中心运营商试探AI债务担忧 - Yahoo Finance",
+            "summary": "Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+            "summaryZh": "黑石支持的数据中心运营商试探AI债务担忧 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTFISEpCeEFHWHVtM3NJWXF5RV9jblFpVTVveXVuYlhkZkVTMFNPNWxhQS05a1VwcUJIUlJNMEpqd3lYalJOVHg1bzAyRnA5V3liNnAzdnczbkh4bkhvYXpObGpTQmdNeDFycDhsMW9INWRQLXJ2T0dJdTd5SENDYVdjNHllRVl6WU9aRkZMWlpOenJpd1hkUFNndFNqYmtzbW9jbw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-02",
+            "lede": "Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+            "articleExcerpt": "Blackstone-backed data center operator tests AI debt fears - Yahoo Finance. Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+            "contentFingerprint": "405e70aadfbf8b58",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "titleStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "A Blackstone-backed data center operator (likely QTS or AirTrunk) is testing debt-market appetite amid AI-related debt concerns. That is a financing and credit angle tied to data center and AI infrastructure. Only the headline is available, so the details and the size of the deal are uncertain.",
+              "llmReasonZh": "一家由黑石（Blackstone）支持的数据中心运营商（可能为QTS或AirTrunk）正在AI相关债务担忧背景下试探债务市场需求。这涉及与数据中心及AI基础设施相关的融资和信用议题。目前仅有标题可供参考，具体细节及交易规模尚不确定。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.4,
+              "finalScore": 22.4,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -123301,9 +123307,9 @@
           {
             "id": "2026-11-02-5d8d4a007a93",
             "title": "Distressed Real Estate Capital Swells as TPG, ACORE Raise $6B - Yahoo Finance",
-            "titleZh": "TPG与ACORE募资60亿美元，不良房地产资本规模扩大 - Yahoo Finance",
+            "titleZh": "TPG与ACORE募资60亿美元，困境房地产资本规模扩大 - Yahoo Finance",
             "summary": "Distressed Real Estate Capital Swells as TPG, ACORE Raise $6B Yahoo Finance",
-            "summaryZh": "TPG与ACORE募资60亿美元，不良房地产资本规模扩大 Yahoo Finance",
+            "summaryZh": "TPG与ACORE募资60亿美元，困境房地产资本规模扩大 Yahoo Finance",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEh6X2RyZXA5aXFWS1d4SkQ1UksxdnR0ZHdFZG16X2Y2OFVZMkF3Skl6eTBXYkFoNWp0dXptSW4wc0NQZXZiUXV3eHpERFh2eWVyeUZkaWNzTGExUmRtZm9YNzdRRjllQkhOZXU0ajdiUGUwX0RPMnZtVW1FUnNIV2o3am9ZQlh2TVJzcHlLNkc3NHVaN2ptUS1sVk52SG9P?oc=5",
             "source": "Yahoo Finance",
@@ -123316,9 +123322,11 @@
               "TPG"
             ],
             "strategies": [
+              "private-credit",
               "cre"
             ],
             "sectors": [
+              "private-credit",
               "cre"
             ],
             "events": [
@@ -123336,6 +123344,7 @@
               "keywordStrategies": [],
               "titleStrategies": [],
               "llmStrategies": [
+                "private-credit",
                 "cre"
               ],
               "llmEvents": [
@@ -123343,8 +123352,8 @@
               ],
               "llmImportance": 0.8,
               "llmExclude": false,
-              "llmReason": "TPG and ACORE (a CRE lender) raised $6B in distressed real estate capital, likely including real estate debt/credit strategies. This counts as a fundraising event for TPG's real estate credit platform.",
-              "llmReasonZh": "TPG与ACORE（一家商业地产贷款机构）募集了60亿美元不良房地产资本，可能包括房地产债务/信贷策略。这属于TPG房地产信贷平台的一项募资事件。"
+              "llmReason": "TPG (alongside CRE lender ACORE) raised capital for distressed real estate, likely real estate debt/lending strategies amid CRE distress. This is credit-relevant fundraising, though the snippet does not fully confirm a debt vs. equity mandate.",
+              "llmReasonZh": "TPG（携手商业地产贷款机构ACORE）为困境房地产募集资金，在商业地产（CRE）困境背景下，可能投向房地产债务/贷款策略。此次募资与信贷相关，但摘要未能完全确认其为债权还是股权投资授权。"
             },
             "rating": {
               "parts": {
@@ -123360,6 +123369,7 @@
                   "code": "llm_strategy",
                   "tagValue": 0.7,
                   "strategies": [
+                    "private-credit",
                     "cre"
                   ],
                   "semanticValue": 0.45
@@ -123380,9 +123390,9 @@
                   "source": "Yahoo Finance"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.4
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
                 }
               },
               "weights": {
@@ -123392,13 +123402,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 65,
-              "retrievedAt": "2026-11-02T21:09:00.762032+00:00"
+              "score": 62,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 14,
+              "keywordScore": 17,
               "semanticScore": 5.42,
-              "finalScore": 19.42,
+              "finalScore": 22.42,
               "semanticEnabled": true
             }
           }
@@ -124651,6 +124661,114 @@
             "keywordScore": 6,
             "semanticScore": 6.04,
             "finalScore": 12.04,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-721059d20fe6",
+          "title": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? - Yahoo Finance",
+          "titleZh": "华尔街分析师预计Blue Owl Capital Corporation (OBDC)有25.99%上涨空间：股价真能涨这么高吗？ - Yahoo Finance",
+          "summary": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+          "summaryZh": "华尔街分析师预计Blue Owl Capital Corporation (OBDC)有25.99%上涨空间：股价真能涨这么高吗？ Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU83UlE0TzFlREpxRGRyMzk3eXdZMjViTzFlaDBqeW1VTWpzZ0ZDZThDZ3l5VjRKRVhyR0JITmVMeEFMWUJ1R1F0MEJKTE9FWXZPRmxMX2ZKbFdySTY1TFlTcFl3eUlob2h1NV9aaThWa3VBMElvS3VDLTUxTzFiVTlSTk9aTGlZY3Ryamt2eEtOaXdtVmxv?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-02",
+          "lede": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+          "articleExcerpt": "Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? - Yahoo Finance. Wall Street Analysts See a 25.99% Upside in Blue Owl Capital Corporation (OBDC): Can the Stock Really Move This High? Yahoo Finance",
+          "contentFingerprint": "4211db9c35630fb8",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price-target commentary on Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, so it falls under its private credit / direct lending business. It is stock-price commentary with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "本文为分析师对Blue Owl Capital Corporation (OBDC)目标价的评论。OBDC是Blue Owl旗下公开交易的BDC，因此归入其私募信贷/直接贷款业务。本文仅为股价评论，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.43,
+            "finalScore": 22.43,
             "semanticEnabled": true
           }
         },
@@ -126232,6 +126350,122 @@
           }
         },
         {
+          "id": "2026-11-02-9643969669bb",
+          "title": "Blackstone-backed data center operator tests AI debt fears - Yahoo Finance",
+          "titleZh": "黑石支持的数据中心运营商试探AI债务担忧 - Yahoo Finance",
+          "summary": "Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+          "summaryZh": "黑石支持的数据中心运营商试探AI债务担忧 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTFISEpCeEFHWHVtM3NJWXF5RV9jblFpVTVveXVuYlhkZkVTMFNPNWxhQS05a1VwcUJIUlJNMEpqd3lYalJOVHg1bzAyRnA5V3liNnAzdnczbkh4bkhvYXpObGpTQmdNeDFycDhsMW9INWRQLXJ2T0dJdTd5SENDYVdjNHllRVl6WU9aRkZMWlpOenJpd1hkUFNndFNqYmtzbW9jbw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-02",
+          "lede": "Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+          "articleExcerpt": "Blackstone-backed data center operator tests AI debt fears - Yahoo Finance. Blackstone-backed data center operator tests AI debt fears Yahoo Finance",
+          "contentFingerprint": "405e70aadfbf8b58",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "titleStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "A Blackstone-backed data center operator (likely QTS or AirTrunk) is testing debt-market appetite amid AI-related debt concerns. That is a financing and credit angle tied to data center and AI infrastructure. Only the headline is available, so the details and the size of the deal are uncertain.",
+            "llmReasonZh": "一家由黑石（Blackstone）支持的数据中心运营商（可能为QTS或AirTrunk）正在AI相关债务担忧背景下试探债务市场需求。这涉及与数据中心及AI基础设施相关的融资和信用议题。目前仅有标题可供参考，具体细节及交易规模尚不确定。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.4,
+            "finalScore": 22.4,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-02-8e5d6d7a9314",
           "title": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg.com",
           "titleZh": "Apollo借助ADIC资金设立欧洲贷款业务，Meissner出任董事长 - Bloomberg.com",
@@ -127078,9 +127312,9 @@
         {
           "id": "2026-11-02-5d8d4a007a93",
           "title": "Distressed Real Estate Capital Swells as TPG, ACORE Raise $6B - Yahoo Finance",
-          "titleZh": "TPG与ACORE募资60亿美元，不良房地产资本规模扩大 - Yahoo Finance",
+          "titleZh": "TPG与ACORE募资60亿美元，困境房地产资本规模扩大 - Yahoo Finance",
           "summary": "Distressed Real Estate Capital Swells as TPG, ACORE Raise $6B Yahoo Finance",
-          "summaryZh": "TPG与ACORE募资60亿美元，不良房地产资本规模扩大 Yahoo Finance",
+          "summaryZh": "TPG与ACORE募资60亿美元，困境房地产资本规模扩大 Yahoo Finance",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEh6X2RyZXA5aXFWS1d4SkQ1UksxdnR0ZHdFZG16X2Y2OFVZMkF3Skl6eTBXYkFoNWp0dXptSW4wc0NQZXZiUXV3eHpERFh2eWVyeUZkaWNzTGExUmRtZm9YNzdRRjllQkhOZXU0ajdiUGUwX0RPMnZtVW1FUnNIV2o3am9ZQlh2TVJzcHlLNkc3NHVaN2ptUS1sVk52SG9P?oc=5",
           "source": "Yahoo Finance",
@@ -127093,9 +127327,11 @@
             "TPG"
           ],
           "strategies": [
+            "private-credit",
             "cre"
           ],
           "sectors": [
+            "private-credit",
             "cre"
           ],
           "events": [
@@ -127113,6 +127349,7 @@
             "keywordStrategies": [],
             "titleStrategies": [],
             "llmStrategies": [
+              "private-credit",
               "cre"
             ],
             "llmEvents": [
@@ -127120,8 +127357,8 @@
             ],
             "llmImportance": 0.8,
             "llmExclude": false,
-            "llmReason": "TPG and ACORE (a CRE lender) raised $6B in distressed real estate capital, likely including real estate debt/credit strategies. This counts as a fundraising event for TPG's real estate credit platform.",
-            "llmReasonZh": "TPG与ACORE（一家商业地产贷款机构）募集了60亿美元不良房地产资本，可能包括房地产债务/信贷策略。这属于TPG房地产信贷平台的一项募资事件。"
+            "llmReason": "TPG (alongside CRE lender ACORE) raised capital for distressed real estate, likely real estate debt/lending strategies amid CRE distress. This is credit-relevant fundraising, though the snippet does not fully confirm a debt vs. equity mandate.",
+            "llmReasonZh": "TPG（携手商业地产贷款机构ACORE）为困境房地产募集资金，在商业地产（CRE）困境背景下，可能投向房地产债务/贷款策略。此次募资与信贷相关，但摘要未能完全确认其为债权还是股权投资授权。"
           },
           "rating": {
             "parts": {
@@ -127137,6 +127374,7 @@
                 "code": "llm_strategy",
                 "tagValue": 0.7,
                 "strategies": [
+                  "private-credit",
                   "cre"
                 ],
                 "semanticValue": 0.45
@@ -127157,9 +127395,9 @@
                 "source": "Yahoo Finance"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.4
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
               }
             },
             "weights": {
@@ -127169,13 +127407,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 65,
-            "retrievedAt": "2026-11-02T21:09:00.762032+00:00"
+            "score": 62,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 14,
+            "keywordScore": 17,
             "semanticScore": 5.42,
-            "finalScore": 19.42,
+            "finalScore": 22.42,
             "semanticEnabled": true
           }
         },
@@ -128005,6 +128243,102 @@
               "finalScore": 20.5,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-0deff99a8852",
+            "title": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Blue Owl Capital Inc. (OWL) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Blue Owl Capital Inc. (OWL) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dFlGM3BMYk9KM1AzeXpPbTZITXpxUlZzbHZQeFBUYXRLd0FrdEJoYTJFSjNKVU1kNkhTbjE1YkdPTlZNSU5XakRHS1pwU284ejQzMm10ZGdOTmJjVW9Wag?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-03",
+            "lede": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "eb978a60d2ae7c61",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock price seasonal returns chart page for Blue Owl Capital (OWL). The parent is a credit-heavy manager, but the page has no credit, financing, or fund content. Low-value stock/market data.",
+              "llmReasonZh": "Blue Owl Capital (OWL) 股价季节性回报图表页面。其母公司是以信贷业务为主的资产管理公司，但该页面不含任何信贷、融资或基金相关内容。属于低价值的股票/市场数据。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.26,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.23,
+              "finalScore": 17.23,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -128212,6 +128546,209 @@
               "keywordScore": 14,
               "semanticScore": 5.22,
               "finalScore": 19.22,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-4646c6aa1da4",
+            "title": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 - TradingView",
+            "titleZh": "Keefe, Bruyette & Woods维持KKR Real Est Finance Tr“与大市同步”评级，目标价下调至$5.50 - TradingView",
+            "summary": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+            "summaryZh": "Keefe, Bruyette & Woods维持KKR Real Est Finance Tr“与大市同步”评级，目标价下调至$5.50 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ3lobVN3YUZfcTRxVmkxaHJERzd0VmJpbXk2UXpqWVlkdWRIa0F0VzVoSmdxeFhzUG1HNkxQUnhJUHBkT2xKVHFNSHluVnJBTGJwYjI3NHdGWWZ2cFRiWVF3R29kaGI2V3lWamJyQW5jWWNMT3B6SjhfdFl4M2VzcWZrWUppRE5IRnpsTzRuQWlyNjd5NjVoTTd3NEVEOFBJQ2M1cTBOcTJURVFMREk1MlVnb0E0NGVudS1aRzhOUWc1bkR6ZTJXTjNTZWRFQW12WXUwNUllR1JxR3AwNmR5a1FWSzN3QThlMUxxc3hpcHN5ZjQ5?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-03",
+            "lede": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+            "articleExcerpt": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 - TradingView. Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+            "contentFingerprint": "5d67dfc779136b70",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending REIT, so it counts as credit exposure. The news is an analyst price-target cut (KBW, Market Perform kept), which is stock/analyst commentary. That puts importance at 0.15 with no event type.",
+              "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款REIT，因此属于信贷敞口。该新闻为分析师下调目标价（KBW维持“与大市同步”评级），属于股票/分析师评论。因此重要性评分为0.15，且无事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.0,
+              "finalScore": 19.0,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-15d7c9830379",
+            "title": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
+            "titleZh": "FS KKR Capital (NYSE:FSK) 股价升破200日移动均线——原因解析 - MarketBeat",
+            "summary": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+            "summaryZh": "FS KKR Capital (NYSE:FSK) 股价升破200日移动均线——原因解析 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczNoanFGcGlwZFBZNW94X0s0WHpnaG1RU2VpT3pnd3JSelRwNWxyd1dBU19oQk5qb1ZuaFJJcWFrZUl2MUVWWjBCVGQ5MVdFd3FHU0FlUk42dlhRRkppaER1MnhBYjdPbXJ4dlZ2clJwR0xjMXNWWGc2dHVZT1htai12ZWozRVlkM2NubERjTU4wZ1VTOGlqdnlXbU5tSFotWXN5NkVXOWRaUlZBSno3R2Rqc0QzSWtldlVzSmF0NjJVSmE5M3JYVWFkVGhWWjhWUkEzemxlb3h3UQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-03",
+            "lede": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+            "articleExcerpt": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why - MarketBeat. FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+            "contentFingerprint": "9ef970d47efb3506",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital is a KKR-affiliated BDC (private credit). The article is only stock-price and technical-analysis commentary, with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "FS KKR Capital 是一家隶属于 KKR 的业务发展公司（BDC，私募信贷）。该文章仅涉及股价及技术分析评论，未涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.71,
+              "finalScore": 12.71,
               "semanticEnabled": true
             }
           }
@@ -129182,6 +129719,105 @@
               "finalScore": 21.91,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-1623339bf3c0",
+            "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages - MarketBeat",
+            "titleZh": "券商给予Blackstone Secured Lending Fund (NYSE:BXSL)股票的一致目标价为$24.89 - MarketBeat",
+            "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+            "summaryZh": "据券商数据，Blackstone Secured Lending Fund (NYSE:BXSL)股票的一致目标价为$24.89 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU19hMFFPT1JtVG83ajM0amVkdkxfU0VKc3dEVzJRU05tMm1qeGk3TDd5T3p4U2JrcUp1TTlUYXd2RndRMjZOY3I4XzRHSl9Vdm5sN3ZiU1R5TGF6dVhZRl91R2JtSm1YdWFMLVR1enhIVXc0dnpYSGJwYWYxX1lYLWxVV3FXME9haUR5NF9jd21qNWhhaFBkZkQwS3VHNVZjbEY0RXdTYnpSZlBvQkVPR1g1T3BkR2o5MnNRc2JqMTVING5ZN3haMU0xZEM4aWhRdTduakJ6b2dSZUdsYXhha1NFcjBZbm1sOXljSEVUZktKQm02c0FjaFp0LUFKMUE?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-03",
+            "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+            "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+            "contentFingerprint": "2c901a7d2a6e4216",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst consensus price target for Blackstone Secured Lending Fund (BXSL), a Blackstone private credit BDC. Credit-relevant, but this is stock price / analyst commentary only, so low importance.",
+              "llmReasonZh": "涉及Blackstone旗下私募信贷BDC Blackstone Secured Lending Fund (BXSL)的分析师一致目标价。与信贷相关，但仅为股价/分析师评论，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.52,
+              "finalScore": 21.52,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -129512,7 +130148,124 @@
           }
         ],
         "CVC": [],
-        "Canyon": []
+        "Canyon": [
+          {
+            "id": "2026-11-03-2302f928a774",
+            "title": "Canyon CLO 2026-3 issuance targets demand for structured finance products - Traders Union",
+            "titleZh": "Canyon CLO 2026-3发行，瞄准结构化金融产品需求 - Traders Union",
+            "summary": "Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+            "summaryZh": "Canyon CLO 2026-3发行，瞄准结构化金融产品需求 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekRjcWNTYVFqbGFxNXctMnBFWVRYYWZfaEhXVThIUlIwbWNSaHRVWXhkdTFrUmVjUnhsQURPVV83blp1cDZaV25YNnpETzJwX1dXeHNUX3U3TlZtMmRPNkhyb0stc1p3WGlJV0s4T2JjTDFoeS1Tb1YzQXpNbWl4R2pPbWRUdEJNQjhWQlkzV3JKUjBid2VIWg?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-03",
+            "lede": "Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+            "articleExcerpt": "Canyon CLO 2026-3 issuance targets demand for structured finance products - Traders Union. Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+            "contentFingerprint": "4116c040bc376994",
+            "region": "Global",
+            "gps": [
+              "Canyon"
+            ],
+            "strategies": [
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Canyon"
+              ],
+              "titleGps": [
+                "Canyon"
+              ],
+              "llmGps": [
+                "Canyon"
+              ],
+              "keywordStrategies": [
+                "structured",
+                "clo"
+              ],
+              "titleStrategies": [
+                "structured",
+                "clo"
+              ],
+              "llmStrategies": [
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Canyon Partners is issuing a new CLO, Canyon CLO 2026-3. This is a structured-credit debt issuance from the tracked GP's credit business, so it counts as ordinary financing activity.",
+              "llmReasonZh": "Canyon Partners正在发行新的CLO产品Canyon CLO 2026-3。这是所追踪GP旗下信贷业务的结构化信贷债务发行，因此属于常规融资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Canyon"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.98,
+              "finalScore": 22.98,
+              "semanticEnabled": true
+            }
+          }
+        ]
       },
       "items": [
         {
@@ -129725,6 +130478,102 @@
           }
         },
         {
+          "id": "2026-11-03-0deff99a8852",
+          "title": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Blue Owl Capital Inc. (OWL) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Blue Owl Capital Inc. (OWL) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dFlGM3BMYk9KM1AzeXpPbTZITXpxUlZzbHZQeFBUYXRLd0FrdEJoYTJFSjNKVU1kNkhTbjE1YkdPTlZNSU5XakRHS1pwU284ejQzMm10ZGdOTmJjVW9Wag?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-03",
+          "lede": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Blue Owl Capital Inc. (OWL) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "eb978a60d2ae7c61",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock price seasonal returns chart page for Blue Owl Capital (OWL). The parent is a credit-heavy manager, but the page has no credit, financing, or fund content. Low-value stock/market data.",
+            "llmReasonZh": "Blue Owl Capital (OWL) 股价季节性回报图表页面。其母公司是以信贷业务为主的资产管理公司，但该页面不含任何信贷、融资或基金相关内容。属于低价值的股票/市场数据。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.26,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.23,
+            "finalScore": 17.23,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-0f4dd8cdbee1",
           "title": "KKR Real Estate Finance Trust (NYSE:KREF) Given New $5.50 Price Target at Keefe, Bruyette & Woods - MarketBeat",
           "titleZh": "Keefe, Bruyette & Woods将KKR Real Estate Finance Trust (NYSE:KREF)目标价调整为$5.50 - MarketBeat",
@@ -129928,6 +130777,209 @@
             "keywordScore": 14,
             "semanticScore": 5.22,
             "finalScore": 19.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-4646c6aa1da4",
+          "title": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 - TradingView",
+          "titleZh": "Keefe, Bruyette & Woods维持KKR Real Est Finance Tr“与大市同步”评级，目标价下调至$5.50 - TradingView",
+          "summary": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+          "summaryZh": "Keefe, Bruyette & Woods维持KKR Real Est Finance Tr“与大市同步”评级，目标价下调至$5.50 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ3lobVN3YUZfcTRxVmkxaHJERzd0VmJpbXk2UXpqWVlkdWRIa0F0VzVoSmdxeFhzUG1HNkxQUnhJUHBkT2xKVHFNSHluVnJBTGJwYjI3NHdGWWZ2cFRiWVF3R29kaGI2V3lWamJyQW5jWWNMT3B6SjhfdFl4M2VzcWZrWUppRE5IRnpsTzRuQWlyNjd5NjVoTTd3NEVEOFBJQ2M1cTBOcTJURVFMREk1MlVnb0E0NGVudS1aRzhOUWc1bkR6ZTJXTjNTZWRFQW12WXUwNUllR1JxR3AwNmR5a1FWSzN3QThlMUxxc3hpcHN5ZjQ5?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-03",
+          "lede": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+          "articleExcerpt": "Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 - TradingView. Keefe, Bruyette & Woods maintains KKR Real Est Finance Tr at Market Perform, lowers price target to $5.50 TradingView",
+          "contentFingerprint": "5d67dfc779136b70",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending REIT, so it counts as credit exposure. The news is an analyst price-target cut (KBW, Market Perform kept), which is stock/analyst commentary. That puts importance at 0.15 with no event type.",
+            "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款REIT，因此属于信贷敞口。该新闻为分析师下调目标价（KBW维持“与大市同步”评级），属于股票/分析师评论。因此重要性评分为0.15，且无事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.0,
+            "finalScore": 19.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-15d7c9830379",
+          "title": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
+          "titleZh": "FS KKR Capital (NYSE:FSK) 股价升破200日移动均线——原因解析 - MarketBeat",
+          "summary": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+          "summaryZh": "FS KKR Capital (NYSE:FSK) 股价升破200日移动均线——原因解析 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczNoanFGcGlwZFBZNW94X0s0WHpnaG1RU2VpT3pnd3JSelRwNWxyd1dBU19oQk5qb1ZuaFJJcWFrZUl2MUVWWjBCVGQ5MVdFd3FHU0FlUk42dlhRRkppaER1MnhBYjdPbXJ4dlZ2clJwR0xjMXNWWGc2dHVZT1htai12ZWozRVlkM2NubERjTU4wZ1VTOGlqdnlXbU5tSFotWXN5NkVXOWRaUlZBSno3R2Rqc0QzSWtldlVzSmF0NjJVSmE5M3JYVWFkVGhWWjhWUkEzemxlb3h3UQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-03",
+          "lede": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+          "articleExcerpt": "FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why - MarketBeat. FS KKR Capital (NYSE:FSK) Share Price Crosses Above 200 Day Moving Average - Here's Why MarketBeat",
+          "contentFingerprint": "9ef970d47efb3506",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital is a KKR-affiliated BDC (private credit). The article is only stock-price and technical-analysis commentary, with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "FS KKR Capital 是一家隶属于 KKR 的业务发展公司（BDC，私募信贷）。该文章仅涉及股价及技术分析评论，未涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.71,
+            "finalScore": 12.71,
             "semanticEnabled": true
           }
         },
@@ -130890,6 +131942,105 @@
           }
         },
         {
+          "id": "2026-11-03-1623339bf3c0",
+          "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages - MarketBeat",
+          "titleZh": "券商给予Blackstone Secured Lending Fund (NYSE:BXSL)股票的一致目标价为$24.89 - MarketBeat",
+          "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+          "summaryZh": "据券商数据，Blackstone Secured Lending Fund (NYSE:BXSL)股票的一致目标价为$24.89 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU19hMFFPT1JtVG83ajM0amVkdkxfU0VKc3dEVzJRU05tMm1qeGk3TDd5T3p4U2JrcUp1TTlUYXd2RndRMjZOY3I4XzRHSl9Vdm5sN3ZiU1R5TGF6dVhZRl91R2JtSm1YdWFMLVR1enhIVXc0dnpYSGJwYWYxX1lYLWxVV3FXME9haUR5NF9jd21qNWhhaFBkZkQwS3VHNVZjbEY0RXdTYnpSZlBvQkVPR1g1T3BkR2o5MnNRc2JqMTVING5ZN3haMU0xZEM4aWhRdTduakJ6b2dSZUdsYXhha1NFcjBZbm1sOXljSEVUZktKQm02c0FjaFp0LUFKMUE?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-03",
+          "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+          "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Stock Has Consensus Price Target of $24.89 According to Brokerages MarketBeat",
+          "contentFingerprint": "2c901a7d2a6e4216",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst consensus price target for Blackstone Secured Lending Fund (BXSL), a Blackstone private credit BDC. Credit-relevant, but this is stock price / analyst commentary only, so low importance.",
+            "llmReasonZh": "涉及Blackstone旗下私募信贷BDC Blackstone Secured Lending Fund (BXSL)的分析师一致目标价。与信贷相关，但仅为股价/分析师评论，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.52,
+            "finalScore": 21.52,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-c08babb4e4b4",
           "title": "Apollo to Spend $350 Million on Private Credit Trading in Austin - Bloomberg.com",
           "titleZh": "Apollo将斥资3.5亿美元在奥斯汀开展私募信贷交易业务 - Bloomberg.com",
@@ -131210,6 +132361,372 @@
             "finalScore": 19.58,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-03-2302f928a774",
+          "title": "Canyon CLO 2026-3 issuance targets demand for structured finance products - Traders Union",
+          "titleZh": "Canyon CLO 2026-3发行，瞄准结构化金融产品需求 - Traders Union",
+          "summary": "Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+          "summaryZh": "Canyon CLO 2026-3发行，瞄准结构化金融产品需求 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekRjcWNTYVFqbGFxNXctMnBFWVRYYWZfaEhXVThIUlIwbWNSaHRVWXhkdTFrUmVjUnhsQURPVV83blp1cDZaV25YNnpETzJwX1dXeHNUX3U3TlZtMmRPNkhyb0stc1p3WGlJV0s4T2JjTDFoeS1Tb1YzQXpNbWl4R2pPbWRUdEJNQjhWQlkzV3JKUjBid2VIWg?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-03",
+          "lede": "Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+          "articleExcerpt": "Canyon CLO 2026-3 issuance targets demand for structured finance products - Traders Union. Canyon CLO 2026-3 issuance targets demand for structured finance products Traders Union",
+          "contentFingerprint": "4116c040bc376994",
+          "region": "Global",
+          "gps": [
+            "Canyon"
+          ],
+          "strategies": [
+            "structured",
+            "clo"
+          ],
+          "sectors": [
+            "structured",
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Canyon"
+            ],
+            "titleGps": [
+              "Canyon"
+            ],
+            "llmGps": [
+              "Canyon"
+            ],
+            "keywordStrategies": [
+              "structured",
+              "clo"
+            ],
+            "titleStrategies": [
+              "structured",
+              "clo"
+            ],
+            "llmStrategies": [
+              "structured",
+              "clo"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Canyon Partners is issuing a new CLO, Canyon CLO 2026-3. This is a structured-credit debt issuance from the tracked GP's credit business, so it counts as ordinary financing activity.",
+            "llmReasonZh": "Canyon Partners正在发行新的CLO产品Canyon CLO 2026-3。这是所追踪GP旗下信贷业务的结构化信贷债务发行，因此属于常规融资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Canyon"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "clo"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.98,
+            "finalScore": 22.98,
+            "semanticEnabled": true
+          }
+        }
+      ]
+    },
+    "2026-11-04": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [
+          {
+            "id": "2026-11-04-9ce2e3b528bd",
+            "title": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보",
+            "titleZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元",
+            "summary": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+            "summaryZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元 : 金融 : JKN 재경일보",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ka1c1NTktS0RTTzkxdmFFWHNkckttVVBQWHU5VDJHU0tzVFVMRUM3Q05qTnBCUmJMQ25tTnA0RUhTZ2Zzdk9iMlJqZTRQc3BEdmNFTjE0emRFYW82a2VkWUFn?oc=5",
+            "source": "재경일보",
+            "publishedAt": "2026-11-04",
+            "lede": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+            "articleExcerpt": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보. \"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+            "contentFingerprint": "5f041f89854519f6",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo's Q3 credit origination volume ($114B) highlights GPU-backed lending, which fits AI/GPU financing and asset-based credit. This is credit-business activity rather than a single major transaction, so it is rated at ordinary financing importance.",
+              "llmReasonZh": "Apollo第三季度信贷发起规模（1140亿美元）突显了以GPU为抵押的贷款业务，契合AI/GPU融资及资产支持信贷主题。该内容属于信贷业务动态，而非单笔重大交易，因此评级为一般融资重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf",
+                    "ai"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "재경일보"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.06,
+              "finalScore": 26.06,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-04-9ce2e3b528bd",
+          "title": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보",
+          "titleZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元",
+          "summary": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+          "summaryZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元 : 金融 : JKN 재경일보",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ka1c1NTktS0RTTzkxdmFFWHNkckttVVBQWHU5VDJHU0tzVFVMRUM3Q05qTnBCUmJMQ25tTnA0RUhTZ2Zzdk9iMlJqZTRQc3BEdmNFTjE0emRFYW82a2VkWUFn?oc=5",
+          "source": "재경일보",
+          "publishedAt": "2026-11-04",
+          "lede": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+          "articleExcerpt": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보. \"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN 재경일보",
+          "contentFingerprint": "5f041f89854519f6",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo's Q3 credit origination volume ($114B) highlights GPU-backed lending, which fits AI/GPU financing and asset-based credit. This is credit-business activity rather than a single major transaction, so it is rated at ordinary financing importance.",
+            "llmReasonZh": "Apollo第三季度信贷发起规模（1140亿美元）突显了以GPU为抵押的贷款业务，契合AI/GPU融资及资产支持信贷主题。该内容属于信贷业务动态，而非单笔重大交易，因此评级为一般融资重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf",
+                  "ai"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "재경일보"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-04T03:59:39.281896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.06,
+            "finalScore": 26.06,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -131217,7 +132734,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 24,
+      "count": 23,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -131225,12 +132742,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 78,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -131238,7 +132755,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131251,12 +132768,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 8,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -131264,7 +132781,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131277,12 +132794,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 20,
+      "count": 21,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -131290,7 +132807,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131303,7 +132820,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131316,12 +132833,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 13,
+      "count": 14,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -131329,12 +132846,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 101,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -131342,12 +132859,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 64,
+      "count": 66,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -131355,12 +132872,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 9,
+      "count": 12,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -131368,7 +132885,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131381,7 +132898,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
@@ -131394,25 +132911,25 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 24,
-      "selected": 1,
+      "count": 27,
+      "selected": 2,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
       "queries": [
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 462,
+      "count": 463,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -131429,9 +132946,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-03T23:49:39.840063+00:00",
+      "asOf": "2026-11-04T03:59:39.281896+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-03T23:49:39.840063+00:00"
+  "checkedAt": "2026-11-04T03:59:39.281896+00:00"
 }
