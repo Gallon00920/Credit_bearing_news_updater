@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-04T13:17:15.638897+00:00",
+  "updatedAt": "2026-11-04T20:30:10.634024+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下归入更广义的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21381,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -120748,9 +120748,245 @@
               "finalScore": 22.43,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-02-c98a71cd0d03",
+            "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+            "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+            "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+            "source": "Pensions & Investments",
+            "publishedAt": "2026-11-02",
+            "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "contentFingerprint": "dd5e0e81ea6adfc9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Blackstone",
+                "Apollo",
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+              "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR",
+                    "Blackstone",
+                    "Apollo",
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Pensions & Investments"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 3.97,
+              "finalScore": 25.97,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
+          {
+            "id": "2026-11-02-c98a71cd0d03",
+            "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+            "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+            "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+            "source": "Pensions & Investments",
+            "publishedAt": "2026-11-02",
+            "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "contentFingerprint": "dd5e0e81ea6adfc9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Blackstone",
+                "Apollo",
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+              "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR",
+                    "Blackstone",
+                    "Apollo",
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Pensions & Investments"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 3.97,
+              "finalScore": 25.97,
+              "semanticEnabled": true
+            }
+          },
           {
             "id": "2026-11-02-52c2217f7200",
             "title": "Precision Trading with Kkr Real Estate Finance Trust Inc. (KREF) Risk Zones - Stock Traders Daily",
@@ -121066,6 +121302,114 @@
               "finalScore": 19.64,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-02-54dc0556aa46",
+            "title": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow - Yahoo Finance",
+            "titleZh": "市场传闻：随着CLO机会增多，Carlyle、KKR关注低价杠杆贷款 - Yahoo Finance",
+            "summary": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+            "summaryZh": "市场传闻：随着CLO机会增多，Carlyle、KKR关注低价杠杆贷款 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVNLTy1RMHFrWEdSS3dnWEJHVU9zRGhycmlneDYtYzFBZWtKSXhUSzIzM3hpWkdGdktkeXc2UVItWVY0d1NwcFM2ZXFkRTZFc1VGcEl0YjRzTnZRVEloZjhBa25kUktpVWtva2pGdGZieXZONU1zcEl2V2M1Vk9kbjQxMkFucnJrSGd6N0x0OE84QS1USE82Y0VLVWQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-02",
+            "lede": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+            "articleExcerpt": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow - Yahoo Finance. Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+            "contentFingerprint": "f7000a270e0cb9d0",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "clo"
+            ],
+            "sectors": [
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "clo"
+              ],
+              "titleStrategies": [
+                "clo"
+              ],
+              "llmStrategies": [
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Market chatter that KKR (along with Carlyle, which is not tracked) is eyeing discounted leveraged loans as CLO opportunities grow. This concerns KKR's credit/CLO business, so it is credit-relevant. No specific transaction, fund close or litigation is reported, so no event type applies and importance is moderate-to-low.",
+              "llmReasonZh": "市场传闻称，随着CLO机会增多，KKR（以及未被追踪的Carlyle）正关注折价杠杆贷款。此事涉及KKR的信贷/CLO业务，因此与信贷相关。报道未提及具体交易、基金募集完成或诉讼，因此不适用任何事件类型，重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "clo"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.89,
+              "finalScore": 19.89,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -121351,6 +121695,98 @@
               "keywordScore": 3,
               "semanticScore": 4.78,
               "finalScore": 7.78,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-02-f082ea562836",
+            "title": "CIO Weekly: Seeing the Rate Hikes Through the Holds - Neuberger Berman",
+            "titleZh": "CIO周评：透过按兵不动看清加息走向 - Neuberger Berman",
+            "summary": "CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+            "summaryZh": "CIO周评：透过按兵不动看清加息走向 Neuberger Berman",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTW1yQU9MQ2JlaE9Jdi13NGNwOGdld0VIZGI4ZnJEY3JRMFVFbXNTaXZ0clRfdVdsdXBwOC1UdUhvT2FqRnE2ektWM245M0xrSFdqb2I0c29WZ0YySDNLNWdNdFR6cXhJU2tMenVaNG1ORWJUUGxSNGptdEQzMlJtYzlET2piTk1OTXVSWlNrSQ?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-11-02",
+            "lede": "CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+            "articleExcerpt": "CIO Weekly: Seeing the Rate Hikes Through the Holds - Neuberger Berman. CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+            "contentFingerprint": "e1a12039e5a2abe0",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman CIO Weekly macro commentary on rate hikes. It is general market commentary that touches fixed income and credit, with no specific credit transaction, fund, or strategy event. It is routine, low-importance manager content.",
+              "llmReasonZh": "Neuberger Berman CIO周评，关于加息的宏观评论。属于一般性市场评论，涉及固定收益和信贷，但未涉及具体的信贷交易、基金或策略事件。属于常规、低重要性的资产管理人内容。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.17,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Neuberger Berman"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 47,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.0,
+              "finalScore": 7.0,
               "semanticEnabled": true
             }
           }
@@ -121793,6 +122229,124 @@
           }
         ],
         "Blackstone": [
+          {
+            "id": "2026-11-02-c98a71cd0d03",
+            "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+            "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+            "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+            "source": "Pensions & Investments",
+            "publishedAt": "2026-11-02",
+            "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "contentFingerprint": "dd5e0e81ea6adfc9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Blackstone",
+                "Apollo",
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+              "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR",
+                    "Blackstone",
+                    "Apollo",
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Pensions & Investments"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 3.97,
+              "finalScore": 25.97,
+              "semanticEnabled": true
+            }
+          },
           {
             "id": "2026-11-02-254bd120654a",
             "title": "Anthropic Debt Now Priced at Junk After Blackstone Reverses Investment-Grade Guidance - Tech Times",
@@ -122458,6 +123012,124 @@
           }
         ],
         "Apollo": [
+          {
+            "id": "2026-11-02-c98a71cd0d03",
+            "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+            "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+            "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+            "source": "Pensions & Investments",
+            "publishedAt": "2026-11-02",
+            "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "contentFingerprint": "dd5e0e81ea6adfc9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Blackstone",
+                "Apollo",
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+              "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR",
+                    "Blackstone",
+                    "Apollo",
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Pensions & Investments"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 3.97,
+              "finalScore": 25.97,
+              "semanticEnabled": true
+            }
+          },
           {
             "id": "2026-11-02-8e5d6d7a9314",
             "title": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair - Bloomberg.com",
@@ -123304,6 +123976,124 @@
           }
         ],
         "TPG": [
+          {
+            "id": "2026-11-02-c98a71cd0d03",
+            "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+            "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+            "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+            "source": "Pensions & Investments",
+            "publishedAt": "2026-11-02",
+            "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+            "contentFingerprint": "dd5e0e81ea6adfc9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "KKR",
+                "Blackstone",
+                "Apollo",
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+              "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR",
+                    "Blackstone",
+                    "Apollo",
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Pensions & Investments"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 22,
+              "semanticScore": 3.97,
+              "finalScore": 25.97,
+              "semanticEnabled": true
+            }
+          },
           {
             "id": "2026-11-02-5d8d4a007a93",
             "title": "Distressed Real Estate Capital Swells as TPG, ACORE Raise $6B - Yahoo Finance",
@@ -124877,6 +125667,124 @@
           }
         },
         {
+          "id": "2026-11-02-c98a71cd0d03",
+          "title": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments",
+          "titleZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 - Pensions & Investments",
+          "summary": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+          "summaryZh": "创纪录募资、数据中心与财富管理渠道推动另类资产管理机构第三季度业绩增长 Pensions & Investments",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjhqR3FXZ3pNUlhMUmoyUFI5ZmRRRzNZc3AyekxIZEJrVDFxbC0tZkdqN18xT3pMeWdhZjhqeFhEaThGQXVmWmVVQ3NrX1ppWGZmX2k1OXZzNVNlbUNqeXBOQ2lWdHV1S3cyYm5QZFlacjFrRDZNc3BYZmxkQi0tLU5sVXlmTkF3NUl4YUg3d2lHemM3dHJXNkNUVQ?oc=5",
+          "source": "Pensions & Investments",
+          "publishedAt": "2026-11-02",
+          "lede": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+          "articleExcerpt": "How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings - Pensions & Investments. How record fundraising, data centers and wealth fueled 3rd quarter alts manager earnings Pensions & Investments",
+          "contentFingerprint": "dd5e0e81ea6adfc9",
+          "region": "Global",
+          "gps": [
+            "Blue Owl",
+            "KKR",
+            "Blackstone",
+            "Apollo",
+            "TPG"
+          ],
+          "strategies": [
+            "data-center"
+          ],
+          "sectors": [
+            "data-center"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Blue Owl",
+              "KKR",
+              "Blackstone",
+              "Apollo",
+              "TPG"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "data-center"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "The article is a P&I roundup of Q3 earnings at listed alternative managers, covering record fundraising, data centers and wealth channels. Only the headline is available, so the GP list is inferred: the listed alts managers in the tracked list (Blackstone, KKR, Apollo, Blue Owl, TPG) are the likely subjects and are not named in the text. Their credit businesses typically drive these earnings and fundraising figures, but the text gives no specific credit transaction. This makes it routine manager news, so it is kept with moderate importance and low confidence on the GP tags.",
+            "llmReasonZh": "本文为P&I对上市另类资产管理机构第三季度业绩的综述，涵盖创纪录募资、数据中心及财富管理渠道。由于仅有标题可用，GP名单系推断得出：跟踪名单中的上市另类资产管理机构（Blackstone、KKR、Apollo、Blue Owl、TPG）可能是报道对象，但文中并未点名。这些机构的信贷业务通常是此类业绩和募资数据的主要驱动力，但文中未提及具体信贷交易。因此，本文属于常规管理机构新闻，予以保留，重要性为中等，GP标签置信度较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Blue Owl",
+                  "KKR",
+                  "Blackstone",
+                  "Apollo",
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.67,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center"
+                ],
+                "semanticValue": 0.33
+              },
+              "event": {
+                "value": 0.65,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "Pensions & Investments"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 22,
+            "semanticScore": 3.97,
+            "finalScore": 25.97,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-02-52c2217f7200",
           "title": "Precision Trading with Kkr Real Estate Finance Trust Inc. (KREF) Risk Zones - Stock Traders Daily",
           "titleZh": "借助KKR Real Estate Finance Trust Inc.（KREF）风险区间进行精准交易 - Stock Traders Daily",
@@ -125193,6 +126101,114 @@
           }
         },
         {
+          "id": "2026-11-02-54dc0556aa46",
+          "title": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow - Yahoo Finance",
+          "titleZh": "市场传闻：随着CLO机会增多，Carlyle、KKR关注低价杠杆贷款 - Yahoo Finance",
+          "summary": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+          "summaryZh": "市场传闻：随着CLO机会增多，Carlyle、KKR关注低价杠杆贷款 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVNLTy1RMHFrWEdSS3dnWEJHVU9zRGhycmlneDYtYzFBZWtKSXhUSzIzM3hpWkdGdktkeXc2UVItWVY0d1NwcFM2ZXFkRTZFc1VGcEl0YjRzTnZRVEloZjhBa25kUktpVWtva2pGdGZieXZONU1zcEl2V2M1Vk9kbjQxMkFucnJrSGd6N0x0OE84QS1USE82Y0VLVWQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-02",
+          "lede": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+          "articleExcerpt": "Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow - Yahoo Finance. Market Chatter: Carlyle, KKR Eye Bargain Leveraged Loans as CLO Opportunities Grow Yahoo Finance",
+          "contentFingerprint": "f7000a270e0cb9d0",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "clo"
+          ],
+          "sectors": [
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "clo"
+            ],
+            "titleStrategies": [
+              "clo"
+            ],
+            "llmStrategies": [
+              "clo"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Market chatter that KKR (along with Carlyle, which is not tracked) is eyeing discounted leveraged loans as CLO opportunities grow. This concerns KKR's credit/CLO business, so it is credit-relevant. No specific transaction, fund close or litigation is reported, so no event type applies and importance is moderate-to-low.",
+            "llmReasonZh": "市场传闻称，随着CLO机会增多，KKR（以及未被追踪的Carlyle）正关注折价杠杆贷款。此事涉及KKR的信贷/CLO业务，因此与信贷相关。报道未提及具体交易、基金募集完成或诉讼，因此不适用任何事件类型，重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "clo"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.89,
+            "finalScore": 19.89,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-02-893c86d66907",
           "title": "Guggenheim Investments Announces November 2026 Closed-End Fund Distributions - Yahoo Finance",
           "titleZh": "Guggenheim Investments公布2026年11月封闭式基金分配",
@@ -125469,6 +126485,98 @@
             "keywordScore": 3,
             "semanticScore": 4.78,
             "finalScore": 7.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-02-f082ea562836",
+          "title": "CIO Weekly: Seeing the Rate Hikes Through the Holds - Neuberger Berman",
+          "titleZh": "CIO周评：透过按兵不动看清加息走向 - Neuberger Berman",
+          "summary": "CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+          "summaryZh": "CIO周评：透过按兵不动看清加息走向 Neuberger Berman",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTW1yQU9MQ2JlaE9Jdi13NGNwOGdld0VIZGI4ZnJEY3JRMFVFbXNTaXZ0clRfdVdsdXBwOC1UdUhvT2FqRnE2ektWM245M0xrSFdqb2I0c29WZ0YySDNLNWdNdFR6cXhJU2tMenVaNG1ORWJUUGxSNGptdEQzMlJtYzlET2piTk1OTXVSWlNrSQ?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-11-02",
+          "lede": "CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+          "articleExcerpt": "CIO Weekly: Seeing the Rate Hikes Through the Holds - Neuberger Berman. CIO Weekly: Seeing the Rate Hikes Through the Holds Neuberger Berman",
+          "contentFingerprint": "e1a12039e5a2abe0",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman CIO Weekly macro commentary on rate hikes. It is general market commentary that touches fixed income and credit, with no specific credit transaction, fund, or strategy event. It is routine, low-importance manager content.",
+            "llmReasonZh": "Neuberger Berman CIO周评，关于加息的宏观评论。属于一般性市场评论，涉及固定收益和信贷，但未涉及具体的信贷交易、基金或策略事件。属于常规、低重要性的资产管理人内容。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.17,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.33
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Neuberger Berman"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 47,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.0,
+            "finalScore": 7.0,
             "semanticEnabled": true
           }
         },
@@ -128959,6 +130067,102 @@
               "finalScore": 12.71,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-291c249a5579",
+            "title": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway - Yahoo Finance",
+            "titleZh": "散户资金流入与行业整合助推KKR & Co.（KKR）增长前景 - Yahoo Finance",
+            "summary": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+            "summaryZh": "散户资金流入与行业整合助推KKR & Co.（KKR）增长前景 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFNlTWhyeEZ3T2xTUXVwTFFqbGU1YUl1MTZYQWhoeXh6ZU5nSGx4RzMyVlBJaHNsdE9oWnpsQ1pSWnh6MWE0MWhiaEF1Mjl2X3I0QnNrVWlfei1DV3JXYkdXc1BGWXJUMC01SURGVkVoTHBvQW94UEtYNmpjZEJpTzlicWZIcWR3bXZYZmNfZGlBX2xNWERFNzFlRm9sNVRodnY1Sjk1MVFqUQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-03",
+            "lede": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+            "articleExcerpt": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway - Yahoo Finance. Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+            "contentFingerprint": "8e4031d346135538",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance stock/analyst commentary on KKR's overall growth outlook (retail flows, industry consolidation). The content is title-only, so no specific credit, lending or financing activity is described. Not excluded, since retail flows into KKR plausibly include its private credit vehicles, but importance is low as stock-commentary content.",
+              "llmReasonZh": "Yahoo Finance关于KKR整体增长前景（散户资金流入、行业整合）的股票/分析师评论。内容仅有标题，未涉及具体的信贷、贷款或融资活动。未予排除，因为流入KKR的散户资金可能包括其私募信贷产品，但作为股票评论类内容，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.25,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.92,
+              "finalScore": 16.92,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -131626,6 +132830,102 @@
           }
         },
         {
+          "id": "2026-11-03-291c249a5579",
+          "title": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway - Yahoo Finance",
+          "titleZh": "散户资金流入与行业整合助推KKR & Co.（KKR）增长前景 - Yahoo Finance",
+          "summary": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+          "summaryZh": "散户资金流入与行业整合助推KKR & Co.（KKR）增长前景 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFNlTWhyeEZ3T2xTUXVwTFFqbGU1YUl1MTZYQWhoeXh6ZU5nSGx4RzMyVlBJaHNsdE9oWnpsQ1pSWnh6MWE0MWhiaEF1Mjl2X3I0QnNrVWlfei1DV3JXYkdXc1BGWXJUMC01SURGVkVoTHBvQW94UEtYNmpjZEJpTzlicWZIcWR3bXZYZmNfZGlBX2xNWERFNzFlRm9sNVRodnY1Sjk1MVFqUQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-03",
+          "lede": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+          "articleExcerpt": "Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway - Yahoo Finance. Retail Flows and Industry Consolidation Power KKR & Co.’s (KKR) Growth Runway Yahoo Finance",
+          "contentFingerprint": "8e4031d346135538",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance stock/analyst commentary on KKR's overall growth outlook (retail flows, industry consolidation). The content is title-only, so no specific credit, lending or financing activity is described. Not excluded, since retail flows into KKR plausibly include its private credit vehicles, but importance is low as stock-commentary content.",
+            "llmReasonZh": "Yahoo Finance关于KKR整体增长前景（散户资金流入、行业整合）的股票/分析师评论。内容仅有标题，未涉及具体的信贷、贷款或融资活动。未予排除，因为流入KKR的散户资金可能包括其私募信贷产品，但作为股票评论类内容，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.25,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.92,
+            "finalScore": 16.92,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-e675a3e93b81",
           "title": "Guggenheim Active Allocation Fund declares $0.1188 dividend - TradingView",
           "titleZh": "Guggenheim Active Allocation Fund宣布派息$0.1188 - TradingView",
@@ -133660,6 +134960,110 @@
               "finalScore": 20.259999999999998,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-589b39c73a1c",
+            "title": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A - MarketBeat",
+            "titleZh": "State of New Jersey Common Pension Fund A新建仓Blue Owl Technology Finance Corp. $OTF股份 - MarketBeat",
+            "summary": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+            "summaryZh": "State of New Jersey Common Pension Fund A新建仓Blue Owl Technology Finance Corp. $OTF股份 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUnpZRmtGVENtUVJvZUVVTlVCUHBpN3oxNW54SVFGTmlfRGhGUDZKMDM5X04yakxaTk1oS2g5R2UxV0RUNlFXb1dwaHU5enNMaDVsa2JLajJjQjFmY2RIa0dBT0NPQXRBeUtKZGdybHo4MFpIRFlRLXJhWVJXa25NWlNVLUx3ZUpOVnZmbmU2N2FJWlBtNEpZYmJwOXpWVmlvWXJLY3VhT2tDaHJXaFBWeVU2NlNoMVFSS0hFZ1ZHdE9taHZrRzQxUTI4eEhJU1lfN1dGc2l3Z0VYbUsyYmZVWmFfbzhMSTFIRTJUUkRqODM1ZnpsaXg1YQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-04",
+            "lede": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+            "articleExcerpt": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A - MarketBeat. Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+            "contentFingerprint": "8d9e3186edd6f9bd",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp. (OTF) is a Blue Owl BDC, so it falls under private credit. The article is a MarketBeat note on a pension fund buying the shares. That is routine stock-ownership news, with no financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp.（OTF）是Blue Owl旗下的BDC，因此属于私募信贷范畴。该文章是MarketBeat关于一家养老基金买入其股份的简讯。这属于常规的股权持有类新闻，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.54,
+              "finalScore": 20.54,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -133764,6 +135168,214 @@
               "keywordScore": 15,
               "semanticScore": 5.91,
               "finalScore": 20.91,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-bbe47e01346a",
+            "title": "KKR Posts Asset-Based Finance Overview Presentation - TradingView",
+            "titleZh": "KKR发布资产支持融资业务概览演示文稿 - TradingView",
+            "summary": "KKR Posts Asset-Based Finance Overview Presentation TradingView",
+            "summaryZh": "KKR发布资产支持融资业务概览演示文稿 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEtPVmdaX2xiZHNEemNhdGZ6bXAxRzFycW9CYmlBSkl5NEhQZEI1NmtHa0Y0MWFJU2lCM3h3cFZacFlYNG5fck8ySHZkemlpU3BIX0tXaU90WGNyd3lFOHpSVFFSSkpUMUd6WUo1WnA4c1E3UTM1SFBVTnZqSzNEQkN5MkJHa0hVaXNiZHg5TklhMjZvMlJIX0VfVGJTOV9ydkRFTTkzMUdzZG03d0dzUUJYSQ?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-04",
+            "lede": "KKR Posts Asset-Based Finance Overview Presentation TradingView",
+            "articleExcerpt": "KKR Posts Asset-Based Finance Overview Presentation - TradingView. KKR Posts Asset-Based Finance Overview Presentation TradingView",
+            "contentFingerprint": "36236f1b0756d853",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR published an overview presentation on its asset-based finance (credit) business. This is routine manager news with no specific financing, fundraising or litigation event.",
+              "llmReasonZh": "KKR发布了其资产支持融资（信贷）业务的概览演示文稿。此为常规管理人新闻，不涉及具体融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.94,
+              "finalScore": 19.94,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-0f92c341c987",
+            "title": "FS KKR Capital earnings up next as credit concerns mount - Investing.com",
+            "titleZh": "FS KKR Capital即将发布财报，信贷担忧加剧 - Investing.com",
+            "summary": "FS KKR Capital earnings up next as credit concerns mount Investing.com",
+            "summaryZh": "FS KKR Capital即将发布财报，信贷担忧加剧 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVU1yS250Nl80cDdtdjNiQ3o2N2xLU0NJbHpFTWdIWnAycU1BWG5WSmlKa1pOYnZraDExbmhsOFNUYlBjLVdseXU3MnFNVGUzRzQ3Z3JaaWJzVTJmcm9fQWhNNFdqS2E3emc4TlZ4YlVTY1BqTGNqMGtfQklhTkdERWtiVVBXU2pCOURIYmhWYWo4NWVUX2Y3blhLcXlDc0pvOUJFeXdmT3BtNkdGaFE?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-04",
+            "lede": "FS KKR Capital earnings up next as credit concerns mount Investing.com",
+            "articleExcerpt": "FS KKR Capital earnings up next as credit concerns mount - Investing.com. FS KKR Capital earnings up next as credit concerns mount Investing.com",
+            "contentFingerprint": "be5ccbb59fa407f5",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital is a KKR-affiliated BDC, so this falls under KKR's private credit business. The article is an earnings preview flagging mounting credit concerns, which matters to credit investors. No lawsuit, financing or fundraising event is described. Importance is moderate because it is preview commentary rather than an actual default or downgrade.",
+              "llmReasonZh": "FS KKR Capital是KKR关联的BDC（业务发展公司），因此属于KKR私募信贷业务范畴。该文章为财报前瞻，指出信贷担忧日益加剧，对信贷投资者具有参考意义。文中未涉及诉讼、融资或募资事件。重要性为中等，因其属于前瞻性评论，而非实际发生的违约或评级下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.29,
+              "finalScore": 19.29,
               "semanticEnabled": true
             }
           }
@@ -133960,7 +135572,218 @@
         ],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-04-84b851212986",
+            "title": "Blackstone Draws €13 Billion as Institutions Back Private Credit - Bloomberg.com",
+            "titleZh": "机构投资者押注私募信贷，Blackstone募资130亿欧元 - Bloomberg.com",
+            "summary": "Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+            "summaryZh": "机构投资者押注私募信贷，Blackstone募资130亿欧元 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWRuU1pzN3BhdmV1SGdiRXlEYzVWNUlBeURoWGJrTlFkNlo4RE5GV0l4YWZmZkdCN3F2OVI3SllhMFF6c2FMd3NDT3dwZEUybjd2bmJDcmN3dnFwaUh1ZzNocEN6c1hHVlNJeGxtRUxVTTIzQlhVaFRuZGNGU2VLeFJrWHNOV1RuM181OGdMem9DVWhNX092d09SUUtIMGtYSFlhaElWTFk5V1RubUhIaWM0UHY?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-04",
+            "lede": "Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+            "articleExcerpt": "Blackstone Draws €13 Billion as Institutions Back Private Credit - Bloomberg.com. Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+            "contentFingerprint": "56075768a000de84",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blackstone raised €13 billion from institutional investors for private credit. This is a major credit fundraising event, though the article does not say whether it is a final close.",
+              "llmReasonZh": "Blackstone从机构投资者处为私募信贷募集130亿欧元。这是一项重大的信贷募资事件，但文章未说明是否为最终关账。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 94,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.76,
+              "finalScore": 21.759999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-74c8b2c49a23",
+            "title": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall - marketscreener.com",
+            "titleZh": "Blackstone Secured Lending Fund第三季度盈利及总投资收益下降 - marketscreener.com",
+            "summary": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+            "summaryZh": "Blackstone Secured Lending Fund第三季度盈利及总投资收益下降 marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3Y4ZHcySmxoalR0ZEhfVWhDTmVkOWZJbXROUjV3SktFa2hFcjJ4WjcxRm9jSnBBazBVOThHSU5hbUJYWWtaaDZNbG0zM1N4U2I5bS1BYTlkRVhjNDBhTHN4VDRzSzRqR1FVdFhlYlcwRmFKTTFLVThsZ1R2cDVwUjZ5UlZiYnRKSzR1NDlSeTU2YjBXMHJLODBXaVpWMlkzZGNhc2NMWHJiUGN2X0ZNUFAyNUVIbmJwSVJCc25Va19Md0E?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-11-04",
+            "lede": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+            "articleExcerpt": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall - marketscreener.com. Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+            "contentFingerprint": "c1aa46a69eb593df",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone Secured Lending Fund (BXSL) is Blackstone's publicly traded BDC, so its quarterly results are credit-relevant. A decline in total investment income is routine earnings news, not a financing, fundraising or legal event.",
+              "llmReasonZh": "Blackstone Secured Lending Fund（BXSL）是Blackstone旗下的上市BDC（业务发展公司），因此其季度业绩与信贷相关。总投资收益下降属于常规盈利新闻，并非融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.61,
+              "finalScore": 21.61,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [
           {
             "id": "2026-11-04-9ce2e3b528bd",
@@ -134195,7 +136018,118 @@
           }
         ],
         "Golub": [],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-11-04-92087623496c",
+            "title": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings - Traders Union",
+            "titleZh": "CVC Cordatus Loan Fund XXXIX DAC有担保票据获惠誉授予预期评级 - Traders Union",
+            "summary": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+            "summaryZh": "CVC Cordatus Loan Fund XXXIX DAC有担保票据获惠誉授予预期评级 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmNya0Q1Zm5OTW1qNzZCMEJXMkQtMExYUkMyQm9tejE3V1VqS0ZMWWppYzd4amNvdVlFRzhNNlQ3SHZUZ09oaU1PM0x3ZGhPbFdrTVgzTnRnbzVNeG5XbG9oWnUwNmFJY2RaMS01am11dFEwOWdsWl82a29mcmZVSENQOU1XRjRqRHBpclc0bmM3QU9W?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-04",
+            "lede": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+            "articleExcerpt": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings - Traders Union. CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+            "contentFingerprint": "575737c2557700f2",
+            "region": "US",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "CVC Cordatus Loan Fund XXXIX is a European CLO from CVC's credit platform. Fitch assigning expected ratings to its secured notes points to a new CLO issuance, which counts as ordinary financing activity.",
+              "llmReasonZh": "CVC Cordatus Loan Fund XXXIX是CVC信贷平台旗下的一只欧洲CLO。惠誉对其有担保票据授予预期评级，表明这是一笔新的CLO发行，属于常规融资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.0,
+              "finalScore": 25.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
       "items": [
@@ -134303,6 +136237,110 @@
           }
         },
         {
+          "id": "2026-11-04-589b39c73a1c",
+          "title": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A - MarketBeat",
+          "titleZh": "State of New Jersey Common Pension Fund A新建仓Blue Owl Technology Finance Corp. $OTF股份 - MarketBeat",
+          "summary": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+          "summaryZh": "State of New Jersey Common Pension Fund A新建仓Blue Owl Technology Finance Corp. $OTF股份 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUnpZRmtGVENtUVJvZUVVTlVCUHBpN3oxNW54SVFGTmlfRGhGUDZKMDM5X04yakxaTk1oS2g5R2UxV0RUNlFXb1dwaHU5enNMaDVsa2JLajJjQjFmY2RIa0dBT0NPQXRBeUtKZGdybHo4MFpIRFlRLXJhWVJXa25NWlNVLUx3ZUpOVnZmbmU2N2FJWlBtNEpZYmJwOXpWVmlvWXJLY3VhT2tDaHJXaFBWeVU2NlNoMVFSS0hFZ1ZHdE9taHZrRzQxUTI4eEhJU1lfN1dGc2l3Z0VYbUsyYmZVWmFfbzhMSTFIRTJUUkRqODM1ZnpsaXg1YQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-04",
+          "lede": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+          "articleExcerpt": "Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A - MarketBeat. Blue Owl Technology Finance Corp. $OTF Shares Newly Purchased by State of New Jersey Common Pension Fund A MarketBeat",
+          "contentFingerprint": "8d9e3186edd6f9bd",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp. (OTF) is a Blue Owl BDC, so it falls under private credit. The article is a MarketBeat note on a pension fund buying the shares. That is routine stock-ownership news, with no financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp.（OTF）是Blue Owl旗下的BDC，因此属于私募信贷范畴。该文章是MarketBeat关于一家养老基金买入其股份的简讯。这属于常规的股权持有类新闻，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.54,
+            "finalScore": 20.54,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-04-1b39bd2a36c5",
           "title": "Why KKR Credit Income Fund (ASX:KKC) sought an ASX waiver to keep funding European direct lending - Kalkine",
           "titleZh": "KKR Credit Income Fund (ASX:KKC)为何寻求ASX豁免以继续为欧洲直接贷款提供资金 - Kalkine",
@@ -134403,6 +136441,214 @@
             "keywordScore": 15,
             "semanticScore": 5.91,
             "finalScore": 20.91,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-bbe47e01346a",
+          "title": "KKR Posts Asset-Based Finance Overview Presentation - TradingView",
+          "titleZh": "KKR发布资产支持融资业务概览演示文稿 - TradingView",
+          "summary": "KKR Posts Asset-Based Finance Overview Presentation TradingView",
+          "summaryZh": "KKR发布资产支持融资业务概览演示文稿 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEtPVmdaX2xiZHNEemNhdGZ6bXAxRzFycW9CYmlBSkl5NEhQZEI1NmtHa0Y0MWFJU2lCM3h3cFZacFlYNG5fck8ySHZkemlpU3BIX0tXaU90WGNyd3lFOHpSVFFSSkpUMUd6WUo1WnA4c1E3UTM1SFBVTnZqSzNEQkN5MkJHa0hVaXNiZHg5TklhMjZvMlJIX0VfVGJTOV9ydkRFTTkzMUdzZG03d0dzUUJYSQ?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-04",
+          "lede": "KKR Posts Asset-Based Finance Overview Presentation TradingView",
+          "articleExcerpt": "KKR Posts Asset-Based Finance Overview Presentation - TradingView. KKR Posts Asset-Based Finance Overview Presentation TradingView",
+          "contentFingerprint": "36236f1b0756d853",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR published an overview presentation on its asset-based finance (credit) business. This is routine manager news with no specific financing, fundraising or litigation event.",
+            "llmReasonZh": "KKR发布了其资产支持融资（信贷）业务的概览演示文稿。此为常规管理人新闻，不涉及具体融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.94,
+            "finalScore": 19.94,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-0f92c341c987",
+          "title": "FS KKR Capital earnings up next as credit concerns mount - Investing.com",
+          "titleZh": "FS KKR Capital即将发布财报，信贷担忧加剧 - Investing.com",
+          "summary": "FS KKR Capital earnings up next as credit concerns mount Investing.com",
+          "summaryZh": "FS KKR Capital即将发布财报，信贷担忧加剧 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVU1yS250Nl80cDdtdjNiQ3o2N2xLU0NJbHpFTWdIWnAycU1BWG5WSmlKa1pOYnZraDExbmhsOFNUYlBjLVdseXU3MnFNVGUzRzQ3Z3JaaWJzVTJmcm9fQWhNNFdqS2E3emc4TlZ4YlVTY1BqTGNqMGtfQklhTkdERWtiVVBXU2pCOURIYmhWYWo4NWVUX2Y3blhLcXlDc0pvOUJFeXdmT3BtNkdGaFE?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-04",
+          "lede": "FS KKR Capital earnings up next as credit concerns mount Investing.com",
+          "articleExcerpt": "FS KKR Capital earnings up next as credit concerns mount - Investing.com. FS KKR Capital earnings up next as credit concerns mount Investing.com",
+          "contentFingerprint": "be5ccbb59fa407f5",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital is a KKR-affiliated BDC, so this falls under KKR's private credit business. The article is an earnings preview flagging mounting credit concerns, which matters to credit investors. No lawsuit, financing or fundraising event is described. Importance is moderate because it is preview commentary rather than an actual default or downgrade.",
+            "llmReasonZh": "FS KKR Capital是KKR关联的BDC（业务发展公司），因此属于KKR私募信贷业务范畴。该文章为财报前瞻，指出信贷担忧日益加剧，对信贷投资者具有参考意义。文中未涉及诉讼、融资或募资事件。重要性为中等，因其属于前瞻性评论，而非实际发生的违约或评级下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.29,
+            "finalScore": 19.29,
             "semanticEnabled": true
           }
         },
@@ -134587,6 +136833,216 @@
             "keywordScore": 5,
             "semanticScore": 4.57,
             "finalScore": 9.57,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-84b851212986",
+          "title": "Blackstone Draws €13 Billion as Institutions Back Private Credit - Bloomberg.com",
+          "titleZh": "机构投资者押注私募信贷，Blackstone募资130亿欧元 - Bloomberg.com",
+          "summary": "Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+          "summaryZh": "机构投资者押注私募信贷，Blackstone募资130亿欧元 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWRuU1pzN3BhdmV1SGdiRXlEYzVWNUlBeURoWGJrTlFkNlo4RE5GV0l4YWZmZkdCN3F2OVI3SllhMFF6c2FMd3NDT3dwZEUybjd2bmJDcmN3dnFwaUh1ZzNocEN6c1hHVlNJeGxtRUxVTTIzQlhVaFRuZGNGU2VLeFJrWHNOV1RuM181OGdMem9DVWhNX092d09SUUtIMGtYSFlhaElWTFk5V1RubUhIaWM0UHY?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-04",
+          "lede": "Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+          "articleExcerpt": "Blackstone Draws €13 Billion as Institutions Back Private Credit - Bloomberg.com. Blackstone Draws €13 Billion as Institutions Back Private Credit Bloomberg.com",
+          "contentFingerprint": "56075768a000de84",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blackstone raised €13 billion from institutional investors for private credit. This is a major credit fundraising event, though the article does not say whether it is a final close.",
+            "llmReasonZh": "Blackstone从机构投资者处为私募信贷募集130亿欧元。这是一项重大的信贷募资事件，但文章未说明是否为最终关账。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 94,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.76,
+            "finalScore": 21.759999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-74c8b2c49a23",
+          "title": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall - marketscreener.com",
+          "titleZh": "Blackstone Secured Lending Fund第三季度盈利及总投资收益下降 - marketscreener.com",
+          "summary": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+          "summaryZh": "Blackstone Secured Lending Fund第三季度盈利及总投资收益下降 marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3Y4ZHcySmxoalR0ZEhfVWhDTmVkOWZJbXROUjV3SktFa2hFcjJ4WjcxRm9jSnBBazBVOThHSU5hbUJYWWtaaDZNbG0zM1N4U2I5bS1BYTlkRVhjNDBhTHN4VDRzSzRqR1FVdFhlYlcwRmFKTTFLVThsZ1R2cDVwUjZ5UlZiYnRKSzR1NDlSeTU2YjBXMHJLODBXaVpWMlkzZGNhc2NMWHJiUGN2X0ZNUFAyNUVIbmJwSVJCc25Va19Md0E?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-11-04",
+          "lede": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+          "articleExcerpt": "Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall - marketscreener.com. Blackstone Secured Lending Fund Q3 Earnings, Total Investment Income Fall marketscreener.com",
+          "contentFingerprint": "c1aa46a69eb593df",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone Secured Lending Fund (BXSL) is Blackstone's publicly traded BDC, so its quarterly results are credit-relevant. A decline in total investment income is routine earnings news, not a financing, fundraising or legal event.",
+            "llmReasonZh": "Blackstone Secured Lending Fund（BXSL）是Blackstone旗下的上市BDC（业务发展公司），因此其季度业绩与信贷相关。总投资收益下降属于常规盈利新闻，并非融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.61,
+            "finalScore": 21.61,
             "semanticEnabled": true
           }
         },
@@ -134818,6 +137274,116 @@
             "finalScore": 21.38,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-04-92087623496c",
+          "title": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings - Traders Union",
+          "titleZh": "CVC Cordatus Loan Fund XXXIX DAC有担保票据获惠誉授予预期评级 - Traders Union",
+          "summary": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+          "summaryZh": "CVC Cordatus Loan Fund XXXIX DAC有担保票据获惠誉授予预期评级 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmNya0Q1Zm5OTW1qNzZCMEJXMkQtMExYUkMyQm9tejE3V1VqS0ZMWWppYzd4amNvdVlFRzhNNlQ3SHZUZ09oaU1PM0x3ZGhPbFdrTVgzTnRnbzVNeG5XbG9oWnUwNmFJY2RaMS01am11dFEwOWdsWl82a29mcmZVSENQOU1XRjRqRHBpclc0bmM3QU9W?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-04",
+          "lede": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+          "articleExcerpt": "CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings - Traders Union. CVC Cordatus Loan Fund XXXIX DAC secured notes receive expected Fitch ratings Traders Union",
+          "contentFingerprint": "575737c2557700f2",
+          "region": "US",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "structured",
+            "clo"
+          ],
+          "sectors": [
+            "structured",
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "structured",
+              "clo"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "CVC Cordatus Loan Fund XXXIX is a European CLO from CVC's credit platform. Fitch assigning expected ratings to its secured notes points to a new CLO issuance, which counts as ordinary financing activity.",
+            "llmReasonZh": "CVC Cordatus Loan Fund XXXIX是CVC信贷平台旗下的一只欧洲CLO。惠誉对其有担保票据授予预期评级，表明这是一笔新的CLO发行，属于常规融资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured",
+                  "clo"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-04T19:08:23.122914+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.0,
+            "finalScore": 25.0,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -134825,7 +137391,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 24,
+      "count": 26,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -134833,12 +137399,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 101,
+      "count": 81,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -134846,7 +137412,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
@@ -134859,12 +137425,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 7,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -134872,7 +137438,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
@@ -134885,12 +137451,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 21,
+      "count": 24,
       "selected": 2,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -134898,12 +137464,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 11,
+      "count": 12,
       "selected": 4,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -134911,7 +137477,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
@@ -134924,12 +137490,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 19,
+      "count": 15,
       "selected": 5,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -134937,12 +137503,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -134950,12 +137516,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 70,
+      "count": 64,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -134963,25 +137529,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 15,
-      "selected": 2,
+      "count": 9,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
+      "count": 4,
       "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -134989,25 +137555,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 14,
-      "selected": 2,
+      "count": 17,
+      "selected": 3,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 26,
+      "count": 27,
       "selected": 2,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -135015,12 +137581,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 514,
+      "count": 519,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -135037,9 +137603,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-04T11:53:30.289635+00:00",
+      "asOf": "2026-11-04T19:08:23.122914+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-04T11:53:30.289635+00:00"
+  "checkedAt": "2026-11-04T19:08:23.122914+00:00"
 }
