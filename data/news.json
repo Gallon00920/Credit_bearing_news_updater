@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-05T17:16:08.635838+00:00",
+  "updatedAt": "2026-11-05T23:14:04.056518+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund 是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与 HSBC AM 的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金范畴内归属于更广泛的私募信贷/直接贷款类别。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归入更广义的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21357,7 +21357,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -137984,6 +137984,215 @@
               "finalScore": 21.84,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-d47e75d170ac",
+            "title": "Blackstone Secures €13 Billion for European Direct Lending Vehicles - Securities.io",
+            "titleZh": "Blackstone为欧洲直接贷款工具募集130亿欧元 - Securities.io",
+            "summary": "Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+            "summaryZh": "Blackstone为欧洲直接贷款工具募集130亿欧元 Securities.io",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJqWjZ2ZjJNWS15a1ZpamhfZTNoalRZeTZBZmhxQm5HN2FrTndxMXNmRUNJNVRrY3ozRmliTHlWZV84LUZQRW05WXF2OFlNOWhCemhGc1NZVFVZZzJZcV9OZmxtNmptcUtSdFFSdF9McEhRX20takJUZlNXN3lXRXZoMHhSdS1rSDZSSHhaaE40RnEtMUZvWA?oc=5",
+            "source": "Securities.io",
+            "publishedAt": "2026-11-04",
+            "lede": "Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+            "articleExcerpt": "Blackstone Secures €13 Billion for European Direct Lending Vehicles - Securities.io. Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+            "contentFingerprint": "1d3c89a57c783f8a",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blackstone raised €13B for its European direct lending vehicles. This is a major private credit fundraising event within its credit business.",
+              "llmReasonZh": "Blackstone为其欧洲直接贷款工具募集了130亿欧元。这是其信贷业务中的一项重大私募信贷募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Securities.io"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.57,
+              "finalScore": 24.57,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-f31698d84e5a",
+            "title": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. - Stock Titan",
+            "titleZh": "Blackstone Secured Lending Fund (BXSL) 第三季度投资收益下滑，股息覆盖率仅为88%",
+            "summary": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+            "summaryZh": "Blackstone Secured Lending Fund (BXSL) 第三季度投资收益下降，股息覆盖率为88%。Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0RyTnIxcmYydW9WeVhuOWtZR2FBYmRpQ3R4TDhnZWhlbXVUbnowQ01FRzNINHViY1dscnJBQmVjZndLdjEzSnYyeUhhWW8wVVAxUXNJLWw4Mm5YSVVBY3MtZlRaNnZrRVNvLUNFbGVOQW9Pa29oaFUxSGpmZFo4SHZ5bURrY0JXZ3NMMEQzVUZlR0puU1hUUXptNm1YYlZfbEhLMUJKZ3hnZGxwU2wyYmR4S2I0QWItcG9oMQ?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-04",
+            "lede": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+            "articleExcerpt": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. - Stock Titan. Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+            "contentFingerprint": "2d3dc1281d6f5e6d",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "BXSL is Blackstone's publicly traded BDC (direct lending). Q3 results show net investment income falling and dividend coverage at only 88%, meaning the dividend is under-earned. That is a credit-relevant fundamental signal that could point to a dividend cut or portfolio yield pressure, so it rates above routine stock commentary. No lawsuit, financing or fundraising event.",
+              "llmReasonZh": "BXSL是Blackstone旗下公开交易的BDC（直接贷款）。第三季度业绩显示净投资收益下降，股息覆盖率仅为88%，意味着股息未能被收益完全覆盖。这是一项与信用相关的基本面信号，可能预示股息削减或投资组合收益率承压，因此其重要性高于常规股票评论。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.95,
+              "finalScore": 21.95,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -140587,6 +140796,215 @@
           }
         },
         {
+          "id": "2026-11-04-d47e75d170ac",
+          "title": "Blackstone Secures €13 Billion for European Direct Lending Vehicles - Securities.io",
+          "titleZh": "Blackstone为欧洲直接贷款工具募集130亿欧元 - Securities.io",
+          "summary": "Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+          "summaryZh": "Blackstone为欧洲直接贷款工具募集130亿欧元 Securities.io",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJqWjZ2ZjJNWS15a1ZpamhfZTNoalRZeTZBZmhxQm5HN2FrTndxMXNmRUNJNVRrY3ozRmliTHlWZV84LUZQRW05WXF2OFlNOWhCemhGc1NZVFVZZzJZcV9OZmxtNmptcUtSdFFSdF9McEhRX20takJUZlNXN3lXRXZoMHhSdS1rSDZSSHhaaE40RnEtMUZvWA?oc=5",
+          "source": "Securities.io",
+          "publishedAt": "2026-11-04",
+          "lede": "Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+          "articleExcerpt": "Blackstone Secures €13 Billion for European Direct Lending Vehicles - Securities.io. Blackstone Secures €13 Billion for European Direct Lending Vehicles Securities.io",
+          "contentFingerprint": "1d3c89a57c783f8a",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blackstone raised €13B for its European direct lending vehicles. This is a major private credit fundraising event within its credit business.",
+            "llmReasonZh": "Blackstone为其欧洲直接贷款工具募集了130亿欧元。这是其信贷业务中的一项重大私募信贷募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Securities.io"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.57,
+            "finalScore": 24.57,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-f31698d84e5a",
+          "title": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. - Stock Titan",
+          "titleZh": "Blackstone Secured Lending Fund (BXSL) 第三季度投资收益下滑，股息覆盖率仅为88%",
+          "summary": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+          "summaryZh": "Blackstone Secured Lending Fund (BXSL) 第三季度投资收益下降，股息覆盖率为88%。Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0RyTnIxcmYydW9WeVhuOWtZR2FBYmRpQ3R4TDhnZWhlbXVUbnowQ01FRzNINHViY1dscnJBQmVjZndLdjEzSnYyeUhhWW8wVVAxUXNJLWw4Mm5YSVVBY3MtZlRaNnZrRVNvLUNFbGVOQW9Pa29oaFUxSGpmZFo4SHZ5bURrY0JXZ3NMMEQzVUZlR0puU1hUUXptNm1YYlZfbEhLMUJKZ3hnZGxwU2wyYmR4S2I0QWItcG9oMQ?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-04",
+          "lede": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+          "articleExcerpt": "Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. - Stock Titan. Dividend coverage is 88% at Blackstone Secured Lending Fund (BXSL) as Q3 investment income falls. Stock Titan",
+          "contentFingerprint": "2d3dc1281d6f5e6d",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "BXSL is Blackstone's publicly traded BDC (direct lending). Q3 results show net investment income falling and dividend coverage at only 88%, meaning the dividend is under-earned. That is a credit-relevant fundamental signal that could point to a dividend cut or portfolio yield pressure, so it rates above routine stock commentary. No lawsuit, financing or fundraising event.",
+            "llmReasonZh": "BXSL是Blackstone旗下公开交易的BDC（直接贷款）。第三季度业绩显示净投资收益下降，股息覆盖率仅为88%，意味着股息未能被收益完全覆盖。这是一项与信用相关的基本面信号，可能预示股息削减或投资组合收益率承压，因此其重要性高于常规股票评论。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.95,
+            "finalScore": 21.95,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-04-9ce2e3b528bd",
           "title": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보",
           "titleZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元",
@@ -142273,7 +142691,208 @@
           }
         ],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-05-cfa7980389e6",
+            "title": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra - The Economic Times",
+            "titleZh": "银行贷款之外选择有限，混合资本接受度提升：Bain Capital的Sarit Chopra - The Economic Times",
+            "summary": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+            "summaryZh": "银行贷款之外选择有限，混合资本接受度提升：Bain Capital的Sarit Chopra The Economic Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPdERna2RiaG5VRXp6TmZhSk1HU0tqTVpaeDhSckMyOFRqNk1fQVFvVGZrUUMxZGhldTNad2NHaFc0SHdyazN2SVNwOURCbDNlNVhfVkhiRV9ua3JzY2J6bk96dEF6S0hWMm9wT3pRVVJyc1ZXVXo5OHYycTMySGZjSS1CLXJqWThXd1ozNjkxc0IzUTB5V2dpeTFYbC1Tbnd1WXdsY0RxR2pOYmpHQVRjcWhxcDJINm5OZkROOWYxeS1lcmtfM2xrLVVBWjJJcVg0MEhzQWk4U3loOWJyaV9IZXBXbTluSWRhQ2s5ck9qVklrSUtMNC1CZmNhZ2lQdkxrY2RBd2Q3QXhBVFBCbU50RkV5bzd3LTNGa242Y2N0Z2VDZFlrZEtmY09STnU0YmhVZUMzSTRmdHM?oc=5",
+            "source": "The Economic Times",
+            "publishedAt": "2026-11-05",
+            "lede": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+            "articleExcerpt": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra - The Economic Times. There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+            "contentFingerprint": "215ace34098bb40a",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Interview with Bain Capital's Sarit Chopra (Bain Capital Credit, India) on wider acceptance of hybrid capital as an alternative to bank lending. This is credit-business commentary, so it is relevant. No specific transaction, fund close or litigation is mentioned, so it counts as routine manager news.",
+              "llmReasonZh": "对Bain Capital的Sarit Chopra（Bain Capital Credit，印度）的专访，内容涉及混合资本作为银行贷款替代方案的接受度日益提高。此为信贷业务评论，因此具有相关性。文中未提及具体交易、基金募集完成或诉讼，因此归类为常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Economic Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.41,
+              "finalScore": 19.41,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-f4bdb1a5b900",
+            "title": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s - The Economic Times",
+            "titleZh": "Bain Capital：银行贷款之外选择有限，混合资本接受度日益提高 - The Economic Times",
+            "summary": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+            "summaryZh": "Bain Capital：银行贷款之外选择有限，混合资本接受度日益提高 The Economic Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQTEs5LTJuUE1IQ09BbGJ4MW1pV3BaQjBiRHQ5MEJJV0JadWFhQTdEdGZjdUYzeDkxQmQyTE1iNXNFM2xha2Y2dUh1UXZ0bEpRM192anZOMnlVMVN4dTVmQ2pPY1piMFdLNUVLWVBVZGtuUTE1dVpDZnV4QkZkQXF3TUpDVlk3bDR5bVc4dm9ybXJ0dlgySnZWdGxvR3g2cEZwQTQtMkpSSjRIX0kxb3Z4YTMtdGQwR0hiQXdiVzdCQUM1NHpCMFJGV19wN0liNkE2MTdpV0FJMDZ0c0VmTlU0eG1GZlhmT1hTaHJYOXJUeU92RUotUEpNeEhYWjB3SUN0RFEtek1SMGpaYkJZOExDbFhhck5KMWlhMzNlNXY1dUhzdGUxSGdIZ0Nwbm_SAbICQVVfeXFMTUYzLUVHSllIMGY1ek1xNy0xYTVwU0d0ZFEzeF9SN0tJNTRqRkNXdkR4bU1RSmYyejF5WGNqZko1ZmRwQlhsREx5djhFbW83NldKXy1raFFKazFWSnhDSEU5LUxoc2NZTFNtQnB2dHRGSElxOEUwbUFyTmZlRC1oRGlISGZRSkRYRkkxM0JxS1BHcVhReUV4MjRDM1BhaGM1MWhpSmhHeGp6bXNQUUk4dFlaOUtWYzlmY05rRzBHZnlnM1JXZTl3ZVJFTTM2Mk9lWUtCenMzY0JIaUZsejlaNXUwQzNJNHlzWm1CYjhla2h3TDNMOXlubG0tMWhCbHVVSEhXMFlMYWM2bHJTbHBBSHZtOGh6RFhJR21fZVZsTVBYSnpwTXFsMlZ3TzRrSVB3WC1B?oc=5",
+            "source": "The Economic Times",
+            "publishedAt": "2026-11-05",
+            "lede": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+            "articleExcerpt": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s - The Economic Times. There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+            "contentFingerprint": "ee93a40c9f381029",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "An Economic Times interview with a Bain Capital executive on growing acceptance of hybrid capital as an alternative to bank lending. This is commentary on Bain Capital's credit / private lending business, not a specific transaction, so it rates as routine manager news.",
+              "llmReasonZh": "The Economic Times对一位Bain Capital高管的采访，内容涉及混合资本作为银行贷款替代方案的接受度日益提高。该文属于对Bain Capital信贷/私募信贷业务的评论，并非具体交易，因此评定为常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Economic Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.34,
+              "finalScore": 19.34,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [
           {
             "id": "2026-11-05-c9fa6b312dff",
@@ -143819,6 +144438,206 @@
           }
         },
         {
+          "id": "2026-11-05-cfa7980389e6",
+          "title": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra - The Economic Times",
+          "titleZh": "银行贷款之外选择有限，混合资本接受度提升：Bain Capital的Sarit Chopra - The Economic Times",
+          "summary": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+          "summaryZh": "银行贷款之外选择有限，混合资本接受度提升：Bain Capital的Sarit Chopra The Economic Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPdERna2RiaG5VRXp6TmZhSk1HU0tqTVpaeDhSckMyOFRqNk1fQVFvVGZrUUMxZGhldTNad2NHaFc0SHdyazN2SVNwOURCbDNlNVhfVkhiRV9ua3JzY2J6bk96dEF6S0hWMm9wT3pRVVJyc1ZXVXo5OHYycTMySGZjSS1CLXJqWThXd1ozNjkxc0IzUTB5V2dpeTFYbC1Tbnd1WXdsY0RxR2pOYmpHQVRjcWhxcDJINm5OZkROOWYxeS1lcmtfM2xrLVVBWjJJcVg0MEhzQWk4U3loOWJyaV9IZXBXbTluSWRhQ2s5ck9qVklrSUtMNC1CZmNhZ2lQdkxrY2RBd2Q3QXhBVFBCbU50RkV5bzd3LTNGa242Y2N0Z2VDZFlrZEtmY09STnU0YmhVZUMzSTRmdHM?oc=5",
+          "source": "The Economic Times",
+          "publishedAt": "2026-11-05",
+          "lede": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+          "articleExcerpt": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra - The Economic Times. There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s Sarit Chopra The Economic Times",
+          "contentFingerprint": "215ace34098bb40a",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Interview with Bain Capital's Sarit Chopra (Bain Capital Credit, India) on wider acceptance of hybrid capital as an alternative to bank lending. This is credit-business commentary, so it is relevant. No specific transaction, fund close or litigation is mentioned, so it counts as routine manager news.",
+            "llmReasonZh": "对Bain Capital的Sarit Chopra（Bain Capital Credit，印度）的专访，内容涉及混合资本作为银行贷款替代方案的接受度日益提高。此为信贷业务评论，因此具有相关性。文中未提及具体交易、基金募集完成或诉讼，因此归类为常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Economic Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.41,
+            "finalScore": 19.41,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-f4bdb1a5b900",
+          "title": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s - The Economic Times",
+          "titleZh": "Bain Capital：银行贷款之外选择有限，混合资本接受度日益提高 - The Economic Times",
+          "summary": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+          "summaryZh": "Bain Capital：银行贷款之外选择有限，混合资本接受度日益提高 The Economic Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQTEs5LTJuUE1IQ09BbGJ4MW1pV3BaQjBiRHQ5MEJJV0JadWFhQTdEdGZjdUYzeDkxQmQyTE1iNXNFM2xha2Y2dUh1UXZ0bEpRM192anZOMnlVMVN4dTVmQ2pPY1piMFdLNUVLWVBVZGtuUTE1dVpDZnV4QkZkQXF3TUpDVlk3bDR5bVc4dm9ybXJ0dlgySnZWdGxvR3g2cEZwQTQtMkpSSjRIX0kxb3Z4YTMtdGQwR0hiQXdiVzdCQUM1NHpCMFJGV19wN0liNkE2MTdpV0FJMDZ0c0VmTlU0eG1GZlhmT1hTaHJYOXJUeU92RUotUEpNeEhYWjB3SUN0RFEtek1SMGpaYkJZOExDbFhhck5KMWlhMzNlNXY1dUhzdGUxSGdIZ0Nwbm_SAbICQVVfeXFMTUYzLUVHSllIMGY1ek1xNy0xYTVwU0d0ZFEzeF9SN0tJNTRqRkNXdkR4bU1RSmYyejF5WGNqZko1ZmRwQlhsREx5djhFbW83NldKXy1raFFKazFWSnhDSEU5LUxoc2NZTFNtQnB2dHRGSElxOEUwbUFyTmZlRC1oRGlISGZRSkRYRkkxM0JxS1BHcVhReUV4MjRDM1BhaGM1MWhpSmhHeGp6bXNQUUk4dFlaOUtWYzlmY05rRzBHZnlnM1JXZTl3ZVJFTTM2Mk9lWUtCenMzY0JIaUZsejlaNXUwQzNJNHlzWm1CYjhla2h3TDNMOXlubG0tMWhCbHVVSEhXMFlMYWM2bHJTbHBBSHZtOGh6RFhJR21fZVZsTVBYSnpwTXFsMlZ3TzRrSVB3WC1B?oc=5",
+          "source": "The Economic Times",
+          "publishedAt": "2026-11-05",
+          "lede": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+          "articleExcerpt": "There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s - The Economic Times. There is a wider acceptance of hybrid capital with the lack of options beyond bank lending: Bain Capital’s The Economic Times",
+          "contentFingerprint": "ee93a40c9f381029",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "An Economic Times interview with a Bain Capital executive on growing acceptance of hybrid capital as an alternative to bank lending. This is commentary on Bain Capital's credit / private lending business, not a specific transaction, so it rates as routine manager news.",
+            "llmReasonZh": "The Economic Times对一位Bain Capital高管的采访，内容涉及混合资本作为银行贷款替代方案的接受度日益提高。该文属于对Bain Capital信贷/私募信贷业务的评论，并非具体交易，因此评定为常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Economic Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-05T21:46:04.483357+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.34,
+            "finalScore": 19.34,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-05-ad2710858523",
           "title": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H - GuruFocus",
           "titleZh": "Blackstone Secured Lending Fund (BXSL) 2026年第三季度财报电话会议要点 - GuruFocus",
@@ -144126,7 +144945,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 44,
+      "count": 45,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -144134,12 +144953,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 82,
+      "count": 75,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -144147,7 +144966,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
@@ -144160,12 +144979,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 9,
+      "count": 10,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -144173,12 +144992,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 0,
+      "count": 1,
       "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -144186,12 +145005,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 24,
+      "count": 18,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -144199,20 +145018,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 8,
-      "selected": 3,
+      "count": 10,
+      "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
@@ -144225,25 +145044,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 12,
-      "selected": 2,
+      "count": 18,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 102,
+      "count": 99,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -144251,12 +145070,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 45,
+      "count": 42,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -144264,7 +145083,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
@@ -144277,12 +145096,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -144290,7 +145109,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
@@ -144303,12 +145122,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 26,
+      "count": 25,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -144316,12 +145135,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 651,
+      "count": 717,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -144338,9 +145157,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-05T15:58:45.276070+00:00",
+      "asOf": "2026-11-05T21:46:04.483357+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-05T15:58:45.276070+00:00"
+  "checkedAt": "2026-11-05T21:46:04.483357+00:00"
 }
