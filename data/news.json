@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-04T20:30:10.634024+00:00",
+  "updatedAt": "2026-11-05T01:46:20.979706+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为主的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金范畴内归属于更广泛的私募信贷/直接贷款领域。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21381,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -131884,6 +131884,222 @@
               "finalScore": 26.08,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-de5395066e00",
+            "title": "Apollo Taps European Private Credit Markets With New Lending Platform - Yahoo Finance",
+            "titleZh": "Apollo推出新贷款平台，进军欧洲私募信贷市场 - Yahoo Finance",
+            "summary": "Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+            "summaryZh": "Apollo推出新贷款平台，进军欧洲私募信贷市场 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkZycnB3SThJaXJMdldJUzhyVElOX19qSmZfOWNicUxlLTRtbFUzbDFjYkluWHQ4OEpPSlczVHRpa2tWd0ZRVm4tTzctc01WVzVRU3dtei1mQXI2UnY0STY5ZkdXLW5mVXluSFNJbVlRUktQTmZyVUV3eTFEdmViTThoa0EyZnBOdTFMYkw3Q08zYWl0ZDl6SUNFYXMxZ2lXWlE?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-03",
+            "lede": "Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+            "articleExcerpt": "Apollo Taps European Private Credit Markets With New Lending Platform - Yahoo Finance. Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+            "contentFingerprint": "b02efeaedf5f9d1e",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a new European private credit lending platform. This is credit-relevant activity by a tracked GP, involving direct lending and financing capacity expansion.",
+              "llmReasonZh": "Apollo正在推出一个新的欧洲私募信贷贷款平台。此举属于受追踪GP的信贷相关活动，涉及直接贷款及融资能力扩张。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.79,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.58
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 7.01,
+              "finalScore": 22.009999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-03-e5060c065684",
+            "title": "Apollo launches European Credit Company - The Drawdown",
+            "titleZh": "Apollo推出European Credit Company - The Drawdown",
+            "summary": "Apollo launches European Credit Company The Drawdown",
+            "summaryZh": "Apollo推出European Credit Company The Drawdown",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U0QyVkRnNmc5TmhhVlIwTTI2Z2xQeXp5Zy05a0VpSkZvWmVoMDk4RVBqRDZ2M1c0VGRjSy1iZlROZHpuWHlsRURERk1KR1Q4Q2tDejFuRjI4d3ZpdkdvdVJ6M2pmX3dfVlp0Sk9RMEotX2s2emhnaFc4VWY?oc=5",
+            "source": "The Drawdown",
+            "publishedAt": "2026-11-03",
+            "lede": "Apollo launches European Credit Company The Drawdown",
+            "articleExcerpt": "Apollo launches European Credit Company - The Drawdown. Apollo launches European Credit Company The Drawdown",
+            "contentFingerprint": "18bc5482623bb9dc",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo launching a European Credit Company is a new credit vehicle (fund launch) within its credit business. That makes it credit-relevant fundraising activity, likely private credit. Importance is moderate because it is a launch, not a final close.",
+              "llmReasonZh": "Apollo推出European Credit Company，是其信贷业务中新设立的信贷投资工具（基金发行）。这属于与信贷相关的募资活动，很可能涉及私募信贷。由于这只是产品推出而非最终募集完成，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Drawdown"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.43,
+              "finalScore": 21.43,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -134634,6 +134850,222 @@
           }
         },
         {
+          "id": "2026-11-03-de5395066e00",
+          "title": "Apollo Taps European Private Credit Markets With New Lending Platform - Yahoo Finance",
+          "titleZh": "Apollo推出新贷款平台，进军欧洲私募信贷市场 - Yahoo Finance",
+          "summary": "Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+          "summaryZh": "Apollo推出新贷款平台，进军欧洲私募信贷市场 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkZycnB3SThJaXJMdldJUzhyVElOX19qSmZfOWNicUxlLTRtbFUzbDFjYkluWHQ4OEpPSlczVHRpa2tWd0ZRVm4tTzctc01WVzVRU3dtei1mQXI2UnY0STY5ZkdXLW5mVXluSFNJbVlRUktQTmZyVUV3eTFEdmViTThoa0EyZnBOdTFMYkw3Q08zYWl0ZDl6SUNFYXMxZ2lXWlE?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-03",
+          "lede": "Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+          "articleExcerpt": "Apollo Taps European Private Credit Markets With New Lending Platform - Yahoo Finance. Apollo Taps European Private Credit Markets With New Lending Platform Yahoo Finance",
+          "contentFingerprint": "b02efeaedf5f9d1e",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a new European private credit lending platform. This is credit-relevant activity by a tracked GP, involving direct lending and financing capacity expansion.",
+            "llmReasonZh": "Apollo正在推出一个新的欧洲私募信贷贷款平台。此举属于受追踪GP的信贷相关活动，涉及直接贷款及融资能力扩张。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.79,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.58
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 7.01,
+            "finalScore": 22.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-e5060c065684",
+          "title": "Apollo launches European Credit Company - The Drawdown",
+          "titleZh": "Apollo推出European Credit Company - The Drawdown",
+          "summary": "Apollo launches European Credit Company The Drawdown",
+          "summaryZh": "Apollo推出European Credit Company The Drawdown",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U0QyVkRnNmc5TmhhVlIwTTI2Z2xQeXp5Zy05a0VpSkZvWmVoMDk4RVBqRDZ2M1c0VGRjSy1iZlROZHpuWHlsRURERk1KR1Q4Q2tDejFuRjI4d3ZpdkdvdVJ6M2pmX3dfVlp0Sk9RMEotX2s2emhnaFc4VWY?oc=5",
+          "source": "The Drawdown",
+          "publishedAt": "2026-11-03",
+          "lede": "Apollo launches European Credit Company The Drawdown",
+          "articleExcerpt": "Apollo launches European Credit Company - The Drawdown. Apollo launches European Credit Company The Drawdown",
+          "contentFingerprint": "18bc5482623bb9dc",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo launching a European Credit Company is a new credit vehicle (fund launch) within its credit business. That makes it credit-relevant fundraising activity, likely private credit. Importance is moderate because it is a launch, not a final close.",
+            "llmReasonZh": "Apollo推出European Credit Company，是其信贷业务中新设立的信贷投资工具（基金发行）。这属于与信贷相关的募资活动，很可能涉及私募信贷。由于这只是产品推出而非最终募集完成，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.75,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Drawdown"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.43,
+            "finalScore": 21.43,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-23b7e74ffbba",
           "title": "Golub's private credit fund clears redemption cap again - Citywire",
           "titleZh": "Golub旗下私募信贷基金赎回请求再度突破赎回上限 - Citywire",
@@ -135064,6 +135496,425 @@
               "finalScore": 20.54,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-2bc51ba95f69",
+            "title": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls - Securities.io",
+            "titleZh": "Blue Owl Technology Finance利润上升，净投资收益下降 - Securities.io",
+            "summary": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+            "summaryZh": "Blue Owl Technology Finance利润上升，净投资收益下降 Securities.io",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1KekR0VlEyZVpVaV9sUG5EZUNtODhuOExrNHQ4TGkxRFNjLXF3M3I0YkYxUE9VVjlRY2pHakJHWWNYSE1STHRqMkJaSFFBOTlPZWd3bl9jRjEwNGtNN1U0eDlxeHlaeEZyQkN2R0stUGtVUC00dHFUSUF6ZlU2SWxqRTVsNUxUb0lXZnVtX2E3YkFab0FMMGh6RHNURVE?oc=5",
+            "source": "Securities.io",
+            "publishedAt": "2026-11-04",
+            "lede": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+            "articleExcerpt": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls - Securities.io. Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+            "contentFingerprint": "5b55e16f53fb2cd6",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is a Blue Owl BDC, which falls under the private-credit strategy. The article covers a quarterly earnings result (profit up, net investment income down). That is routine manager or BDC performance news rather than a financing, fundraising or legal event.",
+              "llmReasonZh": "Blue Owl Technology Finance是Blue Owl旗下的BDC，属于私募信贷策略。该文章报道其季度业绩（利润上升，净投资收益下降），属于常规的管理人或BDC业绩新闻，而非融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Securities.io"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.71,
+              "finalScore": 25.71,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-a74d6a349a72",
+            "title": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) - Seeking Alpha",
+            "titleZh": "Blue Owl Capital Corp.第三季度盈利符合预期，总投资收益超预期，信贷质量稳健（OBDC:NYSE）- Seeking Alpha",
+            "summary": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+            "summaryZh": "Blue Owl Capital Corp.第三季度盈利符合预期，总投资收益超预期，信贷质量稳健（OBDC:NYSE）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczNHV1JqdGRqX1hETWFrZmtBbUZ6UWRXYVkyMW1xaGxBeEtFUUZYZFBDYXpjTG5NTmpBbzFEc1M5SGdOMHQ1YzNMaVA0VVBTSDJtVHNBSXNhYVNIVlZUZG1uNmQ0dndzR0RwOFpVVXNKUHVKbmk4SFNZWnhEY0dvZE5YYklWTW43N18xUHp1SmlEeVZpbjh6V2lUM201ZFBrTkgtc1B3QUt3U2lQcXMwVkIwenQ2Zw?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-04",
+            "lede": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+            "articleExcerpt": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) - Seeking Alpha. Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+            "contentFingerprint": "94262882c053c8af",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Capital Corp. (OBDC) is Blue Owl's flagship BDC, which puts this squarely in its private credit / direct lending business. The article is a routine quarterly earnings update: results in line, total investment income beat, solid credit quality. It mixes earnings news with analyst-style coverage, so importance is moderate. No lawsuit, financing, or fundraising event applies.",
+              "llmReasonZh": "Blue Owl Capital Corp.（OBDC）是Blue Owl旗下的旗舰BDC，因此本文直接涉及其私募信贷/直接贷款业务。本文为常规季度业绩更新：业绩符合预期，总投资收益超预期，信贷质量稳健。文章兼具业绩新闻与分析师式评述，因此重要性为中等。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.7,
+              "finalScore": 22.7,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-cd7015ac4758",
+            "title": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal - GuruFocus",
+            "titleZh": "Blue Owl Capital Corp (OBDC)第三季度业绩符合预期，股价因股息吸引力上涨 - GuruFocus",
+            "summary": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+            "summaryZh": "Blue Owl Capital Corp (OBDC)第三季度业绩符合预期，股价因股息吸引力上涨 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1RjQUNqWmw4SkdzQXNqY25feHVweTNnanVHclpzVXZlSmc3TUxLWEsxUUlPWmtTZ2xadlkyN1Z2SzhoVm5GcUhBeWdQWldkR1JHcURvc1hieEd5TXJfLVdrQ20wVmdULXFkdURqbko0NHJTakUtcVJmUXRzT1pHa2c1X04wTnRkSkFySTdsLVBUWkRmOU5jMnNhTGNqcFNYSmoyd1RnNnJrX1g5eUswYU5qMHQyWEM5aV9qT1ZPX1I5dw?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-04",
+            "lede": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+            "articleExcerpt": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal - GuruFocus. Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+            "contentFingerprint": "9b4f9bfca51d7610",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Capital Corp (OBDC) is Blue Owl's flagship BDC, so this is direct private-credit exposure. The article covers in-line Q3 earnings and a share-price rise on dividend appeal. That is routine earnings and stock commentary with no financing, fundraising or litigation event. Importance falls between stock commentary and routine manager news.",
+              "llmReasonZh": "Blue Owl Capital Corp (OBDC)是Blue Owl旗下的旗舰BDC，因此该新闻直接涉及私募信贷敞口。文章报道其第三季度业绩符合预期，以及股价因股息吸引力而上涨。这属于常规的业绩及股价评论，未涉及融资、募资或诉讼事件。重要性介于股价评论与常规管理人新闻之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.79,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.58
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.91,
+              "finalScore": 20.91,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-8a00c6ee26fa",
+            "title": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Capital Corporation (OBDC)第三季度盈利及营收超预期 - Yahoo! Finance Canada",
+            "summary": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+            "summaryZh": "Blue Owl Capital Corporation (OBDC)第三季度盈利及营收超预期 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEpvczE0ajZ6VmlGS2QtVS1PT21fOWswMExHN3p0LTJWaXpyWDBYY0dvT0lYQWFuNmZmRTdCbmtzNURIeklra2UzYjhpNkxUY1B0MHRHcHp3d1MtWHZ1STFIRWlOand5SXFGTWxWdTYtZ2pZUnlDbTdvMVlMTEpQZW1ZVnEzQmdPSUE?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-04",
+            "lede": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates - Yahoo! Finance Canada. Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+            "contentFingerprint": "58a6e7b4dfb27564",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Capital Corporation (OBDC) is Blue Owl's flagship BDC, so this is credit-relevant. The article is an earnings-beat headline with no financing, fundraising or litigation event. That makes it routine earnings and analyst-style news with modest importance.",
+              "llmReasonZh": "Blue Owl Capital Corporation (OBDC)是Blue Owl旗下的旗舰BDC，因此与信贷相关。该文章为盈利超预期的标题新闻，不涉及融资、募资或诉讼事件，因此属于常规的财报及分析师类新闻，重要性一般。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.66,
+              "finalScore": 20.66,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -135378,9 +136229,409 @@
               "finalScore": 19.29,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-bbe0bca5f0e0",
+            "title": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo Finance Singapore",
+            "titleZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭下调 - Yahoo Finance Singapore",
+            "summary": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+            "summaryZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭下调 Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81N2NETGIwb21lM3pzTHVVZlJzb01Dd3I3TG5Xd1lGbU1Zcml6UUdsa211UjdzMkxTNGktREZhbW90cEJlWFVWN3MwMFFvQ2tQXzFha1RjV2xMVHVQd3BaZ2Nqai1FZUhRdXZibzVsYmN1NFNWVzJzY0VQal8?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-04",
+            "lede": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+            "articleExcerpt": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo Finance Singapore. KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+            "contentFingerprint": "c8e6568131b64ecd",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock price and analyst price-target commentary on KKR at the firm level. It has no specific credit, lending, or financing angle, so no strategy or event tags apply and importance is low. It is not excluded because it concerns the tracked GP's overall listed entity rather than a specific non-credit asset or deal.",
+              "llmReasonZh": "涉及KKR公司层面的股价及分析师目标价评论。该文章无具体的信贷、贷款或融资角度，因此不适用任何策略或事件标签，重要性较低。未予排除是因为其涉及所跟踪GP的整体上市实体，而非某项具体的非信贷资产或交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.24,
+              "finalScore": 16.240000000000002,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-4d363fd31f28",
+            "title": "Form 8-K KKR Enhanced US Direct For: Oct 30 - StreetInsider",
+            "titleZh": "KKR Enhanced US Direct 提交 Form 8-K 文件（10月30日）- StreetInsider",
+            "summary": "Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+            "summaryZh": "KKR Enhanced US Direct 提交 Form 8-K 文件，日期：10月30日。来源：StreetInsider",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3hhaWlHMW03LVVIaExFeWVkMEdvWGJBU1RYbDBWVVJUb0Jhd2JrZmI1WVQwanRuNFBLWmRjVkk1RlJxbHVXWWs2UFBSM29FUzdLVXJlY21tcEdaNHBYQVJhZ1RDMWJPcUFXNXBNcnNTQUx6NHdxcTVtX2NNcHIxSHhyNWkySGZwOUtNRlE5V2lsQWlPR1pZSmFtaE81MUpYa09v?oc=5",
+            "source": "StreetInsider",
+            "publishedAt": "2026-11-04",
+            "lede": "Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+            "articleExcerpt": "Form 8-K KKR Enhanced US Direct For: Oct 30 - StreetInsider. Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+            "contentFingerprint": "63b4a3a28fac4e7b",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.45,
+              "llmExclude": false,
+              "llmReason": "This is an 8-K filing by KKR Enhanced US Direct Lending, a KKR private credit / direct lending vehicle, so it falls within KKR's credit business. The article contains no details about what the filing discloses, so no specific event type can be assigned. Treated as routine manager news.",
+              "llmReasonZh": "这是 KKR Enhanced US Direct Lending 提交的 8-K 文件。该实体是 KKR 旗下的私募信贷/直接贷款工具，因此属于 KKR 信贷业务范畴。文章未提供该文件披露内容的任何细节，因此无法归入具体事件类型，按常规管理人新闻处理。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.33,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.45
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "StreetInsider"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.54,
+              "finalScore": 12.54,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-298bb2b1d16a",
+            "title": "Form 8K KKR FS Income Trust For: 4 November By Investing.com - Investing.com Canada",
+            "titleZh": "KKR FS Income Trust提交8-K表格：11月4日 - Investing.com Canada",
+            "summary": "Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+            "summaryZh": "KKR FS Income Trust提交8-K表格，日期为11月4日，来源：Investing.com Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1JKclhUZUhiUlQwWjctOTNRQzFxQmxMdHl5X2wxYWRveDgzRURIVHhwOF92QkUyZ3JFYmRLQnZISllQSHZHLWV6WVR2emo0clEtLVU0azVxQ0U5cW9zbjUtcHRnc05lLWg5cVpfaUoxOTRpeGVFOS1ZdEtCRzBrMG1VNld5RnFLZDlnazJhbDFFaUNtbWZ6N0VxeFRrWHRyU2k0Vg?oc=5",
+            "source": "Investing.com Canada",
+            "publishedAt": "2026-11-04",
+            "lede": "Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+            "articleExcerpt": "Form 8K KKR FS Income Trust For: 4 November By Investing.com - Investing.com Canada. Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+            "contentFingerprint": "d400aa6b98208853",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "KKR FS Income Trust is a KKR/FS private credit vehicle (BDC-style), so it is credit-relevant. The article is only a bare 8-K filing notice with no disclosed content, so it rates as routine manager news with no identifiable event.",
+              "llmReasonZh": "KKR FS Income Trust是KKR/FS旗下的私募信贷工具（类BDC），因此与信贷相关。该文章仅为简单的8-K申报通知，未披露具体内容，因此被评为常规管理人新闻，无可识别事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.78,
+              "finalScore": 10.780000000000001,
+              "semanticEnabled": true
+            }
           }
         ],
-        "CIFC": [],
+        "CIFC": [
+          {
+            "id": "2026-11-04-9d5e11e2e188",
+            "title": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SURuYkpqdHVxME5pR09QcEZJSHJYVWFmY2N4b2xzWTJNLXlrUFgzU0l6bWh3YlFRdndiUFpVT09iLVgwRzdVdUQ3ckw5ckluTWRtRVJiUnotQUJwRzBGMEdGSnI3RXhPRDFxYVNR?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-04",
+            "lede": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "811d3250ece90530",
+            "region": "Global",
+            "gps": [
+              "CIFC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CIFC"
+              ],
+              "titleGps": [
+                "CIFC"
+              ],
+              "llmGps": [
+                "CIFC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a Yahoo Finance seasonal returns chart page for CIFC's Global Floating Rate Credit fund (CHF share class). It is credit-related but carries no news: no financing, fundraising or litigation event. It is treated like price/performance commentary, so importance is low. The strategy tag is approximate. A floating-rate credit fund (broadly syndicated loans/CLO-adjacent) fits private-credit loosely, but no strategy keyword appears explicitly.",
+              "llmReasonZh": "这是Yahoo Finance上关于CIFC全球浮动利率信贷基金（瑞士法郎份额类别）的季节性回报图表页面。该内容与信贷相关，但不含新闻信息：未涉及融资、募资或诉讼事件。其性质类同于价格/业绩评论，因此重要性较低。策略标签为近似归类：浮动利率信贷基金（广泛银团贷款/与CLO相关）可宽泛地归入私募信贷，但文中未明确出现任何策略关键词。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CIFC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.65,
+              "finalScore": 18.65,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Pretium": [],
         "Guggenheim": [],
@@ -135782,6 +137033,205 @@
               "finalScore": 21.61,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-45bf5035b7c5",
+            "title": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) - Seeking Alpha",
+            "titleZh": "Blackstone Secured Lending大幅削减股息（NYSE:BXSL）- Seeking Alpha",
+            "summary": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+            "summaryZh": "Blackstone Secured Lending大幅削减股息（NYSE:BXSL） Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXNZNzBCQ3NHYUZ0eExrUVNTdUgxaXVOTkNuSWJRNTNvR0lia0VEX2lvSVJYeXZXVXR6Y1QzUWs4S0c5QlkzVndCZHFZYnJPV1EwNmRjMl9oV2pkanptVDdpQVNuYlAtbGtrVlMzRjhPejRFb1c5TEtDNVgzSUczUG5HZW80bEtKdXdlMg?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-04",
+            "lede": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+            "articleExcerpt": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) - Seeking Alpha. Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+            "contentFingerprint": "0a05599d365f19cb",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's flagship BDC, a private credit vehicle. A dividend cut signals pressure on credit performance or earnings and matters to credit investors. It is analyst commentary (Seeking Alpha), but the underlying event is significant. It is not a financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Blackstone Secured Lending（BXSL）是Blackstone旗下的旗舰BDC，属于私募信贷工具。削减股息表明其信贷表现或盈利承压，对信贷投资者具有重要意义。本文为分析师评论（Seeking Alpha），但所涉事件本身具有重要性。该事件不属于融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.37,
+              "finalScore": 22.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-47bd94c80fbb",
+            "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS - MarketBeat",
+            "titleZh": "Blackstone Secured Lending Fund (NYSE:BXSL) 公布业绩，每股收益低于预期 $0.16 - MarketBeat",
+            "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+            "summaryZh": "Blackstone Secured Lending Fund (NYSE:BXSL) 公布业绩，每股收益低于预期 $0.16 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHNxSVJ6MzZzTnBuQ01GempzS1FDaUtlZ3c1cTZ4SWgyTnY5eFRhX3RxdEx4eDdCVlhKM0lBeDZURUhuX0NYU2RocFlSYzZfVmxqejNCNmVINlFGYXFJUVk5TzlhRHVpT2wyb2o3MXNHak5tZFdkTHdNX0hUdnNWRGNGNElOUTU5TWpmbkRVNG9NZF9YTzRKMC1Ib0wyeTRQeGtmN3NOZWV0UjgxWThvUkZQbXNtYXJBTlVlRGlhU2VBd2ZHZ1ZEY3VSbnlXTEZTcTNJaWhYTDY5cHh1Qk56elZ0YkMwMXRnM1ZDTDNobTNhcnJ3?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-04",
+            "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+            "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+            "contentFingerprint": "85c0dfeffc191543",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "BXSL is Blackstone's publicly traded BDC (private credit). The article reports an earnings miss of $0.16 per share. That is mostly stock and analyst-style commentary, but a miss at a credit vehicle carries some signal on portfolio performance. It involves no lawsuit, financing, or fundraising event.",
+              "llmReasonZh": "BXSL 是 Blackstone 旗下公开上市的 BDC（私募信贷）。文章报道其每股收益低于预期 $0.16。内容主要为股价及分析师类评论，但信贷投资工具业绩不及预期，对其投资组合表现具有一定参考意义。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.84,
+              "finalScore": 21.84,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -135896,6 +137346,112 @@
               "keywordScore": 20,
               "semanticScore": 6.06,
               "finalScore": 26.06,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-7b92327332fd",
+            "title": "Apollo debuts €10bn European Credit Company in private lending drive - FinTech Futures",
+            "titleZh": "Apollo推出€10bn欧洲信贷公司，加码私人信贷业务 - FinTech Futures",
+            "summary": "Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+            "summaryZh": "Apollo推出€10bn欧洲信贷公司，加码私人信贷业务 FinTech Futures",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0RlcUlDX0tCdk1qTVNGVG5UODd3bTZqX1J4TURNeGZRSHpUX2w0Z29zZEdRekNJS1Rtd0prUzBZemI1WUJkU21XdGVBUXMzbWpheGlkQkYtNXJ1QUJBclM3ajZKZVdDUFdETHgtVkpLUzBGR1BGNWtkT3RoSHNkTXpjWFJGM2xLOFM5bm1ZYy1vQjByTWl5My12UGZwTzM5YkJRczZSVWdpSkJjc2R0bw?oc=5",
+            "source": "FinTech Futures",
+            "publishedAt": "2026-11-04",
+            "lede": "Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+            "articleExcerpt": "Apollo debuts €10bn European Credit Company in private lending drive - FinTech Futures. Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+            "contentFingerprint": "496b544b09712828",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Apollo is launching a €10bn European Credit Company to drive private lending in Europe. This is Apollo's credit business, and the new vehicle and capital commitment count as fundraising.",
+              "llmReasonZh": "Apollo正在推出规模€10bn的欧洲信贷公司，以推动其在欧洲的私人信贷业务。此举属于Apollo的信贷业务范畴，新设投资载体及资本承诺属于募资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "FinTech Futures"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.63,
+              "finalScore": 21.63,
               "semanticEnabled": true
             }
           }
@@ -136128,6 +137684,110 @@
               "finalScore": 25.0,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-1f1f891f78c5",
+            "title": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55NVptbnZIZ0hRaC1nRnl2Sm1xVmU5MDdaTjdqNGh0RGxqMS1yQ01qa3UxNFBtcDB3c0Jvbk5WZUdLU2Rfc3hONGxhRk9wRjVkdnVWNHVLZGNIMmxwa3lRaEVlT3A?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-04",
+            "lede": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance UK. CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "465830061371d179",
+            "region": "Europe",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "CVC Income & Growth Limited is a London-listed closed-end fund managed by CVC Credit. It invests in senior secured loans and high-yield credit, so it is credit-relevant. The article is only a stock seasonal-returns chart page with no news content, which makes it low-importance price commentary.",
+              "llmReasonZh": "CVC Income & Growth Limited 是一只在伦敦上市、由 CVC Credit 管理的封闭式基金，投资于优先有担保贷款和高收益信贷，因此与信贷相关。该文章仅为股票季节性回报图表页面，不含新闻内容，属于重要性较低的价格评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 5.61,
+              "finalScore": 20.61,
+              "semanticEnabled": true
+            }
           }
         ],
         "Canyon": []
@@ -136337,6 +137997,425 @@
             "keywordScore": 14,
             "semanticScore": 6.54,
             "finalScore": 20.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-2bc51ba95f69",
+          "title": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls - Securities.io",
+          "titleZh": "Blue Owl Technology Finance利润上升，净投资收益下降 - Securities.io",
+          "summary": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+          "summaryZh": "Blue Owl Technology Finance利润上升，净投资收益下降 Securities.io",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1KekR0VlEyZVpVaV9sUG5EZUNtODhuOExrNHQ4TGkxRFNjLXF3M3I0YkYxUE9VVjlRY2pHakJHWWNYSE1STHRqMkJaSFFBOTlPZWd3bl9jRjEwNGtNN1U0eDlxeHlaeEZyQkN2R0stUGtVUC00dHFUSUF6ZlU2SWxqRTVsNUxUb0lXZnVtX2E3YkFab0FMMGh6RHNURVE?oc=5",
+          "source": "Securities.io",
+          "publishedAt": "2026-11-04",
+          "lede": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+          "articleExcerpt": "Blue Owl Technology Finance Profit Rises as Net Investment Income Falls - Securities.io. Blue Owl Technology Finance Profit Rises as Net Investment Income Falls Securities.io",
+          "contentFingerprint": "5b55e16f53fb2cd6",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance is a Blue Owl BDC, which falls under the private-credit strategy. The article covers a quarterly earnings result (profit up, net investment income down). That is routine manager or BDC performance news rather than a financing, fundraising or legal event.",
+            "llmReasonZh": "Blue Owl Technology Finance是Blue Owl旗下的BDC，属于私募信贷策略。该文章报道其季度业绩（利润上升，净投资收益下降），属于常规的管理人或BDC业绩新闻，而非融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Securities.io"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.71,
+            "finalScore": 25.71,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-a74d6a349a72",
+          "title": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) - Seeking Alpha",
+          "titleZh": "Blue Owl Capital Corp.第三季度盈利符合预期，总投资收益超预期，信贷质量稳健（OBDC:NYSE）- Seeking Alpha",
+          "summary": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+          "summaryZh": "Blue Owl Capital Corp.第三季度盈利符合预期，总投资收益超预期，信贷质量稳健（OBDC:NYSE）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczNHV1JqdGRqX1hETWFrZmtBbUZ6UWRXYVkyMW1xaGxBeEtFUUZYZFBDYXpjTG5NTmpBbzFEc1M5SGdOMHQ1YzNMaVA0VVBTSDJtVHNBSXNhYVNIVlZUZG1uNmQ0dndzR0RwOFpVVXNKUHVKbmk4SFNZWnhEY0dvZE5YYklWTW43N18xUHp1SmlEeVZpbjh6V2lUM201ZFBrTkgtc1B3QUt3U2lQcXMwVkIwenQ2Zw?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-04",
+          "lede": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+          "articleExcerpt": "Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) - Seeking Alpha. Blue Owl Capital Corp. Q3 earnings in line, TII beats, amid solid credit quality (OBDC:NYSE) Seeking Alpha",
+          "contentFingerprint": "94262882c053c8af",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Capital Corp. (OBDC) is Blue Owl's flagship BDC, which puts this squarely in its private credit / direct lending business. The article is a routine quarterly earnings update: results in line, total investment income beat, solid credit quality. It mixes earnings news with analyst-style coverage, so importance is moderate. No lawsuit, financing, or fundraising event applies.",
+            "llmReasonZh": "Blue Owl Capital Corp.（OBDC）是Blue Owl旗下的旗舰BDC，因此本文直接涉及其私募信贷/直接贷款业务。本文为常规季度业绩更新：业绩符合预期，总投资收益超预期，信贷质量稳健。文章兼具业绩新闻与分析师式评述，因此重要性为中等。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.7,
+            "finalScore": 22.7,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-cd7015ac4758",
+          "title": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal - GuruFocus",
+          "titleZh": "Blue Owl Capital Corp (OBDC)第三季度业绩符合预期，股价因股息吸引力上涨 - GuruFocus",
+          "summary": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+          "summaryZh": "Blue Owl Capital Corp (OBDC)第三季度业绩符合预期，股价因股息吸引力上涨 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1RjQUNqWmw4SkdzQXNqY25feHVweTNnanVHclpzVXZlSmc3TUxLWEsxUUlPWmtTZ2xadlkyN1Z2SzhoVm5GcUhBeWdQWldkR1JHcURvc1hieEd5TXJfLVdrQ20wVmdULXFkdURqbko0NHJTakUtcVJmUXRzT1pHa2c1X04wTnRkSkFySTdsLVBUWkRmOU5jMnNhTGNqcFNYSmoyd1RnNnJrX1g5eUswYU5qMHQyWEM5aV9qT1ZPX1I5dw?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-04",
+          "lede": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+          "articleExcerpt": "Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal - GuruFocus. Blue Owl Capital Corp (OBDC) Reports Q3 Earnings in Line, Shares Rise on Dividend Appeal GuruFocus",
+          "contentFingerprint": "9b4f9bfca51d7610",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Capital Corp (OBDC) is Blue Owl's flagship BDC, so this is direct private-credit exposure. The article covers in-line Q3 earnings and a share-price rise on dividend appeal. That is routine earnings and stock commentary with no financing, fundraising or litigation event. Importance falls between stock commentary and routine manager news.",
+            "llmReasonZh": "Blue Owl Capital Corp (OBDC)是Blue Owl旗下的旗舰BDC，因此该新闻直接涉及私募信贷敞口。文章报道其第三季度业绩符合预期，以及股价因股息吸引力而上涨。这属于常规的业绩及股价评论，未涉及融资、募资或诉讼事件。重要性介于股价评论与常规管理人新闻之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.79,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.58
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.91,
+            "finalScore": 20.91,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-8a00c6ee26fa",
+          "title": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Capital Corporation (OBDC)第三季度盈利及营收超预期 - Yahoo! Finance Canada",
+          "summary": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+          "summaryZh": "Blue Owl Capital Corporation (OBDC)第三季度盈利及营收超预期 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEpvczE0ajZ6VmlGS2QtVS1PT21fOWswMExHN3p0LTJWaXpyWDBYY0dvT0lYQWFuNmZmRTdCbmtzNURIeklra2UzYjhpNkxUY1B0MHRHcHp3d1MtWHZ1STFIRWlOand5SXFGTWxWdTYtZ2pZUnlDbTdvMVlMTEpQZW1ZVnEzQmdPSUE?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-04",
+          "lede": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates - Yahoo! Finance Canada. Blue Owl Capital Corporation (OBDC) Q3 Earnings and Revenues Beat Estimates Yahoo! Finance Canada",
+          "contentFingerprint": "58a6e7b4dfb27564",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Capital Corporation (OBDC) is Blue Owl's flagship BDC, so this is credit-relevant. The article is an earnings-beat headline with no financing, fundraising or litigation event. That makes it routine earnings and analyst-style news with modest importance.",
+            "llmReasonZh": "Blue Owl Capital Corporation (OBDC)是Blue Owl旗下的旗舰BDC，因此与信贷相关。该文章为盈利超预期的标题新闻，不涉及融资、募资或诉讼事件，因此属于常规的财报及分析师类新闻，重要性一般。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.66,
+            "finalScore": 20.66,
             "semanticEnabled": true
           }
         },
@@ -136649,6 +138728,405 @@
             "keywordScore": 14,
             "semanticScore": 5.29,
             "finalScore": 19.29,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-bbe0bca5f0e0",
+          "title": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo Finance Singapore",
+          "titleZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭下调 - Yahoo Finance Singapore",
+          "summary": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+          "summaryZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭下调 Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81N2NETGIwb21lM3pzTHVVZlJzb01Dd3I3TG5Xd1lGbU1Zcml6UUdsa211UjdzMkxTNGktREZhbW90cEJlWFVWN3MwMFFvQ2tQXzFha1RjV2xMVHVQd3BaZ2Nqai1FZUhRdXZibzVsYmN1NFNWVzJzY0VQal8?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-04",
+          "lede": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+          "articleExcerpt": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo Finance Singapore. KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo Finance Singapore",
+          "contentFingerprint": "c8e6568131b64ecd",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock price and analyst price-target commentary on KKR at the firm level. It has no specific credit, lending, or financing angle, so no strategy or event tags apply and importance is low. It is not excluded because it concerns the tracked GP's overall listed entity rather than a specific non-credit asset or deal.",
+            "llmReasonZh": "涉及KKR公司层面的股价及分析师目标价评论。该文章无具体的信贷、贷款或融资角度，因此不适用任何策略或事件标签，重要性较低。未予排除是因为其涉及所跟踪GP的整体上市实体，而非某项具体的非信贷资产或交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.24,
+            "finalScore": 16.240000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-4d363fd31f28",
+          "title": "Form 8-K KKR Enhanced US Direct For: Oct 30 - StreetInsider",
+          "titleZh": "KKR Enhanced US Direct 提交 Form 8-K 文件（10月30日）- StreetInsider",
+          "summary": "Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+          "summaryZh": "KKR Enhanced US Direct 提交 Form 8-K 文件，日期：10月30日。来源：StreetInsider",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3hhaWlHMW03LVVIaExFeWVkMEdvWGJBU1RYbDBWVVJUb0Jhd2JrZmI1WVQwanRuNFBLWmRjVkk1RlJxbHVXWWs2UFBSM29FUzdLVXJlY21tcEdaNHBYQVJhZ1RDMWJPcUFXNXBNcnNTQUx6NHdxcTVtX2NNcHIxSHhyNWkySGZwOUtNRlE5V2lsQWlPR1pZSmFtaE81MUpYa09v?oc=5",
+          "source": "StreetInsider",
+          "publishedAt": "2026-11-04",
+          "lede": "Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+          "articleExcerpt": "Form 8-K KKR Enhanced US Direct For: Oct 30 - StreetInsider. Form 8-K KKR Enhanced US Direct For: Oct 30 StreetInsider",
+          "contentFingerprint": "63b4a3a28fac4e7b",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.45,
+            "llmExclude": false,
+            "llmReason": "This is an 8-K filing by KKR Enhanced US Direct Lending, a KKR private credit / direct lending vehicle, so it falls within KKR's credit business. The article contains no details about what the filing discloses, so no specific event type can be assigned. Treated as routine manager news.",
+            "llmReasonZh": "这是 KKR Enhanced US Direct Lending 提交的 8-K 文件。该实体是 KKR 旗下的私募信贷/直接贷款工具，因此属于 KKR 信贷业务范畴。文章未提供该文件披露内容的任何细节，因此无法归入具体事件类型，按常规管理人新闻处理。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.33,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.45
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "StreetInsider"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.54,
+            "finalScore": 12.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-298bb2b1d16a",
+          "title": "Form 8K KKR FS Income Trust For: 4 November By Investing.com - Investing.com Canada",
+          "titleZh": "KKR FS Income Trust提交8-K表格：11月4日 - Investing.com Canada",
+          "summary": "Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+          "summaryZh": "KKR FS Income Trust提交8-K表格，日期为11月4日，来源：Investing.com Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1JKclhUZUhiUlQwWjctOTNRQzFxQmxMdHl5X2wxYWRveDgzRURIVHhwOF92QkUyZ3JFYmRLQnZISllQSHZHLWV6WVR2emo0clEtLVU0azVxQ0U5cW9zbjUtcHRnc05lLWg5cVpfaUoxOTRpeGVFOS1ZdEtCRzBrMG1VNld5RnFLZDlnazJhbDFFaUNtbWZ6N0VxeFRrWHRyU2k0Vg?oc=5",
+          "source": "Investing.com Canada",
+          "publishedAt": "2026-11-04",
+          "lede": "Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+          "articleExcerpt": "Form 8K KKR FS Income Trust For: 4 November By Investing.com - Investing.com Canada. Form 8K KKR FS Income Trust For: 4 November By Investing.com Investing.com Canada",
+          "contentFingerprint": "d400aa6b98208853",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "KKR FS Income Trust is a KKR/FS private credit vehicle (BDC-style), so it is credit-relevant. The article is only a bare 8-K filing notice with no disclosed content, so it rates as routine manager news with no identifiable event.",
+            "llmReasonZh": "KKR FS Income Trust是KKR/FS旗下的私募信贷工具（类BDC），因此与信贷相关。该文章仅为简单的8-K申报通知，未披露具体内容，因此被评为常规管理人新闻，无可识别事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.78,
+            "finalScore": 10.780000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-9d5e11e2e188",
+          "title": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SURuYkpqdHVxME5pR09QcEZJSHJYVWFmY2N4b2xzWTJNLXlrUFgzU0l6bWh3YlFRdndiUFpVT09iLVgwRzdVdUQ3ckw5ckluTWRtRVJiUnotQUJwRzBGMEdGSnI3RXhPRDFxYVNR?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-04",
+          "lede": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. CIFC Global Floating Rt Crdt B-1 CHF Acc (0P0001PDNX.SW) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "811d3250ece90530",
+          "region": "Global",
+          "gps": [
+            "CIFC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CIFC"
+            ],
+            "titleGps": [
+              "CIFC"
+            ],
+            "llmGps": [
+              "CIFC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a Yahoo Finance seasonal returns chart page for CIFC's Global Floating Rate Credit fund (CHF share class). It is credit-related but carries no news: no financing, fundraising or litigation event. It is treated like price/performance commentary, so importance is low. The strategy tag is approximate. A floating-rate credit fund (broadly syndicated loans/CLO-adjacent) fits private-credit loosely, but no strategy keyword appears explicitly.",
+            "llmReasonZh": "这是Yahoo Finance上关于CIFC全球浮动利率信贷基金（瑞士法郎份额类别）的季节性回报图表页面。该内容与信贷相关，但不含新闻信息：未涉及融资、募资或诉讼事件。其性质类同于价格/业绩评论，因此重要性较低。策略标签为近似归类：浮动利率信贷基金（广泛银团贷款/与CLO相关）可宽泛地归入私募信贷，但文中未明确出现任何策略关键词。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CIFC"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.65,
+            "finalScore": 18.65,
             "semanticEnabled": true
           }
         },
@@ -137047,6 +139525,205 @@
           }
         },
         {
+          "id": "2026-11-04-45bf5035b7c5",
+          "title": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) - Seeking Alpha",
+          "titleZh": "Blackstone Secured Lending大幅削减股息（NYSE:BXSL）- Seeking Alpha",
+          "summary": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+          "summaryZh": "Blackstone Secured Lending大幅削减股息（NYSE:BXSL） Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXNZNzBCQ3NHYUZ0eExrUVNTdUgxaXVOTkNuSWJRNTNvR0lia0VEX2lvSVJYeXZXVXR6Y1QzUWs4S0c5QlkzVndCZHFZYnJPV1EwNmRjMl9oV2pkanptVDdpQVNuYlAtbGtrVlMzRjhPejRFb1c5TEtDNVgzSUczUG5HZW80bEtKdXdlMg?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-04",
+          "lede": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+          "articleExcerpt": "Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) - Seeking Alpha. Blackstone Secured Lending Slashes Its Dividend (NYSE:BXSL) Seeking Alpha",
+          "contentFingerprint": "0a05599d365f19cb",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's flagship BDC, a private credit vehicle. A dividend cut signals pressure on credit performance or earnings and matters to credit investors. It is analyst commentary (Seeking Alpha), but the underlying event is significant. It is not a financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Blackstone Secured Lending（BXSL）是Blackstone旗下的旗舰BDC，属于私募信贷工具。削减股息表明其信贷表现或盈利承压，对信贷投资者具有重要意义。本文为分析师评论（Seeking Alpha），但所涉事件本身具有重要性。该事件不属于融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.37,
+            "finalScore": 22.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-47bd94c80fbb",
+          "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS - MarketBeat",
+          "titleZh": "Blackstone Secured Lending Fund (NYSE:BXSL) 公布业绩，每股收益低于预期 $0.16 - MarketBeat",
+          "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+          "summaryZh": "Blackstone Secured Lending Fund (NYSE:BXSL) 公布业绩，每股收益低于预期 $0.16 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHNxSVJ6MzZzTnBuQ01GempzS1FDaUtlZ3c1cTZ4SWgyTnY5eFRhX3RxdEx4eDdCVlhKM0lBeDZURUhuX0NYU2RocFlSYzZfVmxqejNCNmVINlFGYXFJUVk5TzlhRHVpT2wyb2o3MXNHak5tZFdkTHdNX0hUdnNWRGNGNElOUTU5TWpmbkRVNG9NZF9YTzRKMC1Ib0wyeTRQeGtmN3NOZWV0UjgxWThvUkZQbXNtYXJBTlVlRGlhU2VBd2ZHZ1ZEY3VSbnlXTEZTcTNJaWhYTDY5cHh1Qk56elZ0YkMwMXRnM1ZDTDNobTNhcnJ3?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-04",
+          "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+          "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Announces Earnings Results, Misses Expectations By $0.16 EPS MarketBeat",
+          "contentFingerprint": "85c0dfeffc191543",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "BXSL is Blackstone's publicly traded BDC (private credit). The article reports an earnings miss of $0.16 per share. That is mostly stock and analyst-style commentary, but a miss at a credit vehicle carries some signal on portfolio performance. It involves no lawsuit, financing, or fundraising event.",
+            "llmReasonZh": "BXSL 是 Blackstone 旗下公开上市的 BDC（私募信贷）。文章报道其每股收益低于预期 $0.16。内容主要为股价及分析师类评论，但信贷投资工具业绩不及预期，对其投资组合表现具有一定参考意义。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.84,
+            "finalScore": 21.84,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-04-9ce2e3b528bd",
           "title": "\"GPUs as New Collateral\": Apollo Records $114 Billion in New Originations in Q3 : Finance : JKN - 재경일보",
           "titleZh": "\"GPU成为新型抵押品\"：Apollo第三季度新增发起规模达1140亿美元",
@@ -137157,6 +139834,112 @@
             "keywordScore": 20,
             "semanticScore": 6.06,
             "finalScore": 26.06,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-7b92327332fd",
+          "title": "Apollo debuts €10bn European Credit Company in private lending drive - FinTech Futures",
+          "titleZh": "Apollo推出€10bn欧洲信贷公司，加码私人信贷业务 - FinTech Futures",
+          "summary": "Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+          "summaryZh": "Apollo推出€10bn欧洲信贷公司，加码私人信贷业务 FinTech Futures",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0RlcUlDX0tCdk1qTVNGVG5UODd3bTZqX1J4TURNeGZRSHpUX2w0Z29zZEdRekNJS1Rtd0prUzBZemI1WUJkU21XdGVBUXMzbWpheGlkQkYtNXJ1QUJBclM3ajZKZVdDUFdETHgtVkpLUzBGR1BGNWtkT3RoSHNkTXpjWFJGM2xLOFM5bm1ZYy1vQjByTWl5My12UGZwTzM5YkJRczZSVWdpSkJjc2R0bw?oc=5",
+          "source": "FinTech Futures",
+          "publishedAt": "2026-11-04",
+          "lede": "Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+          "articleExcerpt": "Apollo debuts €10bn European Credit Company in private lending drive - FinTech Futures. Apollo debuts €10bn European Credit Company in private lending drive FinTech Futures",
+          "contentFingerprint": "496b544b09712828",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Apollo is launching a €10bn European Credit Company to drive private lending in Europe. This is Apollo's credit business, and the new vehicle and capital commitment count as fundraising.",
+            "llmReasonZh": "Apollo正在推出规模€10bn的欧洲信贷公司，以推动其在欧洲的私人信贷业务。此举属于Apollo的信贷业务范畴，新设投资载体及资本承诺属于募资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.82,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "FinTech Futures"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.63,
+            "finalScore": 21.63,
             "semanticEnabled": true
           }
         },
@@ -137384,14 +140167,138 @@
             "finalScore": 25.0,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-04-1f1f891f78c5",
+          "title": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55NVptbnZIZ0hRaC1nRnl2Sm1xVmU5MDdaTjdqNGh0RGxqMS1yQ01qa3UxNFBtcDB3c0Jvbk5WZUdLU2Rfc3hONGxhRk9wRjVkdnVWNHVLZGNIMmxwa3lRaEVlT3A?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-04",
+          "lede": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance UK. CVC Income & Growth Limited (CVCG.L) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "465830061371d179",
+          "region": "Europe",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "CVC Income & Growth Limited is a London-listed closed-end fund managed by CVC Credit. It invests in senior secured loans and high-yield credit, so it is credit-relevant. The article is only a stock seasonal-returns chart page with no news content, which makes it low-importance price commentary.",
+            "llmReasonZh": "CVC Income & Growth Limited 是一只在伦敦上市、由 CVC Credit 管理的封闭式基金，投资于优先有担保贷款和高收益信贷，因此与信贷相关。该文章仅为股票季节性回报图表页面，不含新闻内容，属于重要性较低的价格评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-05T00:41:16.759063+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 5.61,
+            "finalScore": 20.61,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-05": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 26,
+      "count": 35,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -137399,12 +140306,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 81,
+      "count": 77,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -137412,25 +140319,25 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 0,
-      "selected": 0,
+      "count": 1,
+      "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 8,
+      "count": 0,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -137438,7 +140345,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
@@ -137451,33 +140358,33 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 24,
-      "selected": 2,
+      "count": 26,
+      "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 12,
-      "selected": 4,
+      "count": 11,
+      "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
@@ -137490,25 +140397,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 15,
-      "selected": 5,
+      "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 101,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -137516,12 +140423,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 64,
+      "count": 63,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -137529,64 +140436,64 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 9,
-      "selected": 1,
+      "count": 11,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
-      "selected": 2,
+      "count": 3,
+      "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 17,
-      "selected": 3,
+      "count": 24,
+      "selected": 2,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
       "count": 27,
-      "selected": 2,
+      "selected": 1,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
       "queries": [
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 519,
+      "count": 530,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -137603,9 +140510,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-04T19:08:23.122914+00:00",
+      "asOf": "2026-11-05T00:41:16.759063+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-04T19:08:23.122914+00:00"
+  "checkedAt": "2026-11-05T00:41:16.759063+00:00"
 }

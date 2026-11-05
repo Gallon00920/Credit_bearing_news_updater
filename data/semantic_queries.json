@@ -95,15 +95,16 @@
       ]
     },
     "CIFC": {
-      "promptHash": "a6958275e6e4e7343597d567a97648914ffbad69",
+      "promptHash": "d6d0d8edf07bdddcf7abff84bf0e09edea635898",
+      "model": "claude-opus-5-5",
       "relevant": [
-        "CIFC announces the closing of a $750M senior secured direct lending fund focused on middle-market corporate borrowers, with commitments from institutional investors and a target yield of 10–12% LIBOR +.",
-        "CIFC serves as collateral manager for a newly issued $1.2B AAA-rated CLO, marking its 18th managed CLO and reflecting expansion in its structured credit platform.",
-        "CIFC’s BDC affiliate, CIFC Corp., reports Q2 2024 portfolio growth in asset-based loans—primarily against inventory and receivables—with net investment income up 14% YoY due to higher yield and deployment pace."
+        "CIFC prices, closes or refinances a CLO (e.g., \"CIFC Funding 2024-III\"), with details on deal size, tranche spreads, AAA pricing, reset or reinvestment-period terms, or the collateral manager's role.",
+        "CIFC provides or leads a financing package as lender, arranger or agent, such as a unitranche loan, senior secured term loan or asset-based facility for a borrower. This includes cases where the borrower is a PE-backed company.",
+        "CIFC raises capital for or launches a credit-focused vehicle, such as a senior loan fund, opportunistic credit fund, private credit/direct lending strategy or BDC. It also covers hires, promotions or AUM updates specific to its credit, CLO or structured-finance teams."
       ],
       "notRelevant": [
-        "CIFC acquires a controlling stake in a U.S. renewable energy developer through its private equity arm, with plans to hold and operate the portfolio of solar assets long-term.",
-        "CIFC announces the sale of its majority-owned logistics real estate platform—including 12 industrial properties—to a public REIT, citing strategic portfolio rationalization in its equity real estate business."
+        "CIFC or an affiliated entity makes a private equity investment, buyout or equity stake acquisition in a company, or exits one, without CIFC providing debt financing.",
+        "General corporate news about CIFC that is not tied to its credit or lending activities, such as office relocations, executive or board changes, or firm-wide branding and ESG announcements. This also covers the purchase or sale of infrastructure or real estate equity assets where CIFC acts as owner rather than lender."
       ]
     },
     "NB": {
