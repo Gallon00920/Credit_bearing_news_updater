@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-05T01:46:20.979706+00:00",
+  "updatedAt": "2026-11-05T08:43:26.394663+00:00",
   "scope": {
     "regions": [
       "US",
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为主的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金范畴内归属于更广泛的私募信贷/直接贷款领域。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金的框架下，属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21381,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -130163,6 +130163,112 @@
               "finalScore": 16.92,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-f137ecb9fdd9",
+            "title": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV - TradingView",
+            "titleZh": "要点：Realty Income上调AFFO；发行$1B票据；与KKR成立合资企业 - TradingView",
+            "summary": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+            "summaryZh": "要点：Realty Income上调AFFO；发行$1B票据；与KKR成立合资企业 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0kyTnFYUWtuT0w3TjJFbkdEakEwM0t6ZTVSTHM0Y2ljeGR4WXByT096eGlnVU5hZVdKbjF1Q0hQMUJLRmNIT0s4Y2ZNcVRxUEFpNE9kLTNzWmtza3cyUDJMYzlFaFBwREZzemRiOWctQ1pDZmlLdXFCY1Z3Ry1SVTJmTEhhMk00ajBEMW01NWN1TzF0dFdqblpxUm5rMXBnNzJ0WmVTOXBXbEtPQ0VRTUdKdmd4S1FqMzdtLWgzOVJXNkJH?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-03",
+            "lede": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+            "articleExcerpt": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV - TradingView. Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+            "contentFingerprint": "84e7942c34dea630",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "triple-net"
+            ],
+            "sectors": [
+              "triple-net"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "triple-net"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Realty Income, a triple-net lease REIT, issued $1B of notes and formed a JV with KKR. Net lease is a tracked strategy. The JV's exact structure (equity vs. credit) isn't specified in the snippet, so the KKR link is moderately relevant rather than clearly credit-focused.",
+              "llmReasonZh": "Realty Income是一家三重净租赁REIT，发行了$1B票据，并与KKR成立合资企业。净租赁是重点跟踪的策略。摘要片段未说明该合资企业的具体结构（股权还是信贷），因此与KKR的关联属中等相关，而非明确聚焦信贷。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "triple-net"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.76,
+              "finalScore": 10.76,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -130914,9 +131020,9 @@
           {
             "id": "2026-11-03-b7f8a1ea56ce",
             "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount - CNBC",
-            "titleZh": "Blackstone总裁呼吁以更多股权融资支持AI基础设施建设，债务风险日益加剧 - CNBC",
+            "titleZh": "黑石总裁呼吁以更多股权为AI建设融资，债务风险上升 - CNBC",
             "summary": "Blackstone president calls for more equity to fund AI buildout as debt risks mount CNBC",
-            "summaryZh": "Blackstone总裁呼吁以更多股权融资支持AI基础设施建设，债务风险日益加剧 CNBC",
+            "summaryZh": "黑石总裁呼吁以更多股权为AI建设融资，债务风险上升 CNBC",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjFCTnQtNlFzNmJjWEhkR3JkR0tLa1l3THpYclotUGpBM1hoNUFoS01FSnVTVTIxYW1WVi1laGcwNjRhNWRNRTc4LXJEYWItMHJfQ2J6ejdRQVJnTUtyWnF4TWxIN3Bya0NfUEdzdUdRNGlLbFkzTVBZZGduNjRJdjJHUjDSAYoBQVVfeXFMT1JzT05XMVota3o1TWNCV28zSlhySmtvWU5obUhHR2tGa290REN1aGFEMlI5TmpJUS1VS003UjNQbDBya3VDNFh1TnU4aUZvN0wxWndZdlpDd010aGpYYVZRRTU2YnJ2MXhTZE51VkNEeWo4dWZhR3R5dDQtNnFnLVZ5Qk5tX1BBcE53?oc=5",
             "source": "CNBC",
@@ -130929,10 +131035,12 @@
               "Blackstone"
             ],
             "strategies": [
+              "private-credit",
               "data-center",
               "ai"
             ],
             "sectors": [
+              "private-credit",
               "data-center",
               "ai"
             ],
@@ -130956,14 +131064,15 @@
                 "ai"
               ],
               "llmStrategies": [
+                "private-credit",
                 "data-center",
                 "ai"
               ],
               "llmEvents": [],
               "llmImportance": 0.5,
               "llmExclude": false,
-              "llmReason": "Blackstone's president is commenting on how the AI buildout should be funded and warns about mounting debt risks. That makes it relevant to credit and AI infrastructure financing. It is commentary rather than a specific transaction, so no event type applies and it is rated as routine manager news.",
-              "llmReasonZh": "Blackstone总裁就AI基础设施建设应如何融资发表评论，并警告债务风险不断上升，因此与信贷及AI基础设施融资相关。该内容属于评论性质，而非具体交易，因此不适用任何事件类型，被评为常规管理人新闻。"
+              "llmReason": "Blackstone's president is commenting on how to finance the AI buildout, warning that debt risks are rising and more equity is needed. This is relevant to credit exposure to AI and data-center lending. It is market commentary, not a specific transaction, lawsuit or fundraise, so no event type applies.",
+              "llmReasonZh": "黑石总裁就AI建设的融资方式发表评论，警告债务风险正在上升，需要更多股权融资。这与AI及数据中心贷款相关的信贷敞口有关。该文为市场评论，并非具体交易、诉讼或募资事件，因此不适用任何事件类型。"
             },
             "rating": {
               "parts": {
@@ -130979,6 +131088,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "private-credit",
                     "data-center",
                     "ai"
                   ],
@@ -130997,9 +131107,9 @@
                   "source": "CNBC"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.0
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
                 }
               },
               "weights": {
@@ -131009,13 +131119,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 61,
-              "retrievedAt": "2026-11-03T11:31:15.545692+00:00"
+              "score": 58,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 17,
+              "keywordScore": 20,
               "semanticScore": 5.27,
-              "finalScore": 22.27,
+              "finalScore": 25.27,
               "semanticEnabled": true
             }
           },
@@ -132100,6 +132210,110 @@
               "finalScore": 21.43,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-03-731d1e2f9df9",
+            "title": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push - PitchBook",
+            "titleZh": "Apollo拟投入$350M发力数据与科技，“加倍押注”私募信贷流动性 - PitchBook",
+            "summary": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+            "summaryZh": "Apollo拟投入$350M发力数据与科技，“加倍押注”私募信贷流动性 PitchBook",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN25rLVBfNXdDQ01XLXJhYmt0eGxTT0tVRnltYnhPTVJxckRpMVNWLTNka3p6WXRDSy1YaVhCX0FHMnd6VFhOSGs1X25aNVRwa3hfeWtHdU96ZkY3ZTktajlFamRJRzd0R3UxWDl3a2NUTmxmZEFuTkJWd2tpS0xKRzlqeFJSRWtOb1N1bzAzWXpGRjQwWkZlVUo2b3daZ0E?oc=5",
+            "source": "PitchBook",
+            "publishedAt": "2026-11-03",
+            "lede": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+            "articleExcerpt": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push - PitchBook. Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+            "contentFingerprint": "34d5943469352f24",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo plans a $350M investment in data and technology to improve private credit liquidity and trading. This is credit-relevant strategic manager news, not a financing, fundraise or lawsuit. The 'data' here means data and tech infrastructure, not data centers, so no data-center or AI tag applies.",
+              "llmReasonZh": "Apollo计划投资$350M用于数据和技术，以提升私募信贷的流动性和交易能力。这是与信贷相关的管理人战略动态，而非融资、募资或诉讼事项。此处的“数据”指数据与技术基础设施，而非数据中心，因此不适用数据中心或AI标签。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PitchBook"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.88,
+              "finalScore": 21.88,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -133142,6 +133356,112 @@
           }
         },
         {
+          "id": "2026-11-03-f137ecb9fdd9",
+          "title": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV - TradingView",
+          "titleZh": "要点：Realty Income上调AFFO；发行$1B票据；与KKR成立合资企业 - TradingView",
+          "summary": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+          "summaryZh": "要点：Realty Income上调AFFO；发行$1B票据；与KKR成立合资企业 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0kyTnFYUWtuT0w3TjJFbkdEakEwM0t6ZTVSTHM0Y2ljeGR4WXByT096eGlnVU5hZVdKbjF1Q0hQMUJLRmNIT0s4Y2ZNcVRxUEFpNE9kLTNzWmtza3cyUDJMYzlFaFBwREZzemRiOWctQ1pDZmlLdXFCY1Z3Ry1SVTJmTEhhMk00ajBEMW01NWN1TzF0dFdqblpxUm5rMXBnNzJ0WmVTOXBXbEtPQ0VRTUdKdmd4S1FqMzdtLWgzOVJXNkJH?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-03",
+          "lede": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+          "articleExcerpt": "Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV - TradingView. Key facts: Realty Income Raises AFFO; Issues $1B Notes; Forms KKR JV TradingView",
+          "contentFingerprint": "84e7942c34dea630",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "triple-net"
+          ],
+          "sectors": [
+            "triple-net"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "triple-net"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Realty Income, a triple-net lease REIT, issued $1B of notes and formed a JV with KKR. Net lease is a tracked strategy. The JV's exact structure (equity vs. credit) isn't specified in the snippet, so the KKR link is moderately relevant rather than clearly credit-focused.",
+            "llmReasonZh": "Realty Income是一家三重净租赁REIT，发行了$1B票据，并与KKR成立合资企业。净租赁是重点跟踪的策略。摘要片段未说明该合资企业的具体结构（股权还是信贷），因此与KKR的关联属中等相关，而非明确聚焦信贷。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "triple-net"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.76,
+            "finalScore": 10.76,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-03-e675a3e93b81",
           "title": "Guggenheim Active Allocation Fund declares $0.1188 dividend - TradingView",
           "titleZh": "Guggenheim Active Allocation Fund宣布派息$0.1188 - TradingView",
@@ -133880,9 +134200,9 @@
         {
           "id": "2026-11-03-b7f8a1ea56ce",
           "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount - CNBC",
-          "titleZh": "Blackstone总裁呼吁以更多股权融资支持AI基础设施建设，债务风险日益加剧 - CNBC",
+          "titleZh": "黑石总裁呼吁以更多股权为AI建设融资，债务风险上升 - CNBC",
           "summary": "Blackstone president calls for more equity to fund AI buildout as debt risks mount CNBC",
-          "summaryZh": "Blackstone总裁呼吁以更多股权融资支持AI基础设施建设，债务风险日益加剧 CNBC",
+          "summaryZh": "黑石总裁呼吁以更多股权为AI建设融资，债务风险上升 CNBC",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjFCTnQtNlFzNmJjWEhkR3JkR0tLa1l3THpYclotUGpBM1hoNUFoS01FSnVTVTIxYW1WVi1laGcwNjRhNWRNRTc4LXJEYWItMHJfQ2J6ejdRQVJnTUtyWnF4TWxIN3Bya0NfUEdzdUdRNGlLbFkzTVBZZGduNjRJdjJHUjDSAYoBQVVfeXFMT1JzT05XMVota3o1TWNCV28zSlhySmtvWU5obUhHR2tGa290REN1aGFEMlI5TmpJUS1VS003UjNQbDBya3VDNFh1TnU4aUZvN0wxWndZdlpDd010aGpYYVZRRTU2YnJ2MXhTZE51VkNEeWo4dWZhR3R5dDQtNnFnLVZ5Qk5tX1BBcE53?oc=5",
           "source": "CNBC",
@@ -133895,10 +134215,12 @@
             "Blackstone"
           ],
           "strategies": [
+            "private-credit",
             "data-center",
             "ai"
           ],
           "sectors": [
+            "private-credit",
             "data-center",
             "ai"
           ],
@@ -133922,14 +134244,15 @@
               "ai"
             ],
             "llmStrategies": [
+              "private-credit",
               "data-center",
               "ai"
             ],
             "llmEvents": [],
             "llmImportance": 0.5,
             "llmExclude": false,
-            "llmReason": "Blackstone's president is commenting on how the AI buildout should be funded and warns about mounting debt risks. That makes it relevant to credit and AI infrastructure financing. It is commentary rather than a specific transaction, so no event type applies and it is rated as routine manager news.",
-            "llmReasonZh": "Blackstone总裁就AI基础设施建设应如何融资发表评论，并警告债务风险不断上升，因此与信贷及AI基础设施融资相关。该内容属于评论性质，而非具体交易，因此不适用任何事件类型，被评为常规管理人新闻。"
+            "llmReason": "Blackstone's president is commenting on how to finance the AI buildout, warning that debt risks are rising and more equity is needed. This is relevant to credit exposure to AI and data-center lending. It is market commentary, not a specific transaction, lawsuit or fundraise, so no event type applies.",
+            "llmReasonZh": "黑石总裁就AI建设的融资方式发表评论，警告债务风险正在上升，需要更多股权融资。这与AI及数据中心贷款相关的信贷敞口有关。该文为市场评论，并非具体交易、诉讼或募资事件，因此不适用任何事件类型。"
           },
           "rating": {
             "parts": {
@@ -133945,6 +134268,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "private-credit",
                   "data-center",
                   "ai"
                 ],
@@ -133963,9 +134287,9 @@
                 "source": "CNBC"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.0
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
               }
             },
             "weights": {
@@ -133975,13 +134299,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 61,
-            "retrievedAt": "2026-11-03T11:31:15.545692+00:00"
+            "score": 58,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 17,
+            "keywordScore": 20,
             "semanticScore": 5.27,
-            "finalScore": 22.27,
+            "finalScore": 25.27,
             "semanticEnabled": true
           }
         },
@@ -135062,6 +135386,110 @@
             "keywordScore": 15,
             "semanticScore": 6.43,
             "finalScore": 21.43,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-03-731d1e2f9df9",
+          "title": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push - PitchBook",
+          "titleZh": "Apollo拟投入$350M发力数据与科技，“加倍押注”私募信贷流动性 - PitchBook",
+          "summary": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+          "summaryZh": "Apollo拟投入$350M发力数据与科技，“加倍押注”私募信贷流动性 PitchBook",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN25rLVBfNXdDQ01XLXJhYmt0eGxTT0tVRnltYnhPTVJxckRpMVNWLTNka3p6WXRDSy1YaVhCX0FHMnd6VFhOSGs1X25aNVRwa3hfeWtHdU96ZkY3ZTktajlFamRJRzd0R3UxWDl3a2NUTmxmZEFuTkJWd2tpS0xKRzlqeFJSRWtOb1N1bzAzWXpGRjQwWkZlVUo2b3daZ0E?oc=5",
+          "source": "PitchBook",
+          "publishedAt": "2026-11-03",
+          "lede": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+          "articleExcerpt": "Apollo to ‘double down’ on private credit liquidity in $350M data and tech push - PitchBook. Apollo to ‘double down’ on private credit liquidity in $350M data and tech push PitchBook",
+          "contentFingerprint": "34d5943469352f24",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo plans a $350M investment in data and technology to improve private credit liquidity and trading. This is credit-relevant strategic manager news, not a financing, fundraise or lawsuit. The 'data' here means data and tech infrastructure, not data centers, so no data-center or AI tag applies.",
+            "llmReasonZh": "Apollo计划投资$350M用于数据和技术，以提升私募信贷的流动性和交易能力。这是与信贷相关的管理人战略动态，而非融资、募资或诉讼事项。此处的“数据”指数据与技术基础设施，而非数据中心，因此不适用数据中心或AI标签。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PitchBook"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.88,
+            "finalScore": 21.88,
             "semanticEnabled": true
           }
         },
@@ -136822,7 +137250,119 @@
           }
         ],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-04-1ea5ce2888dd",
+            "title": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union",
+            "titleZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 - Traders Union",
+            "summary": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "summaryZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TLUJ2VXp1TmtwOE1nSGZlTHZUeXhidW5PZm1XNm9mbkFSWjdIZVF3MUl4bWlVNFlQSFdEMG0xRXZVSGtubTRaVFYwU0VwaDloUWg5RFFJenZCQmNFVVJKUTVnQ01Md2dHRW02ZnV1SQ?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-04",
+            "lede": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "articleExcerpt": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union. Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "contentFingerprint": "47573bae171d6ccd",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Technical stock analysis page for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC (private credit). This is credit-relevant, but it is only stock price/technical commentary with no news event.",
+              "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 的股票技术分析页面，BCSF为Bain Capital旗下公开上市的BDC（私募信贷）。该内容与信贷相关，但仅为股价/技术面评论，不涉及任何新闻事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.75,
+              "finalScore": 22.75,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [
           {
             "id": "2026-11-04-84b851212986",
@@ -139315,6 +139855,117 @@
           }
         },
         {
+          "id": "2026-11-04-1ea5ce2888dd",
+          "title": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union",
+          "titleZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 - Traders Union",
+          "summary": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "summaryZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TLUJ2VXp1TmtwOE1nSGZlTHZUeXhidW5PZm1XNm9mbkFSWjdIZVF3MUl4bWlVNFlQSFdEMG0xRXZVSGtubTRaVFYwU0VwaDloUWg5RFFJenZCQmNFVVJKUTVnQ01Md2dHRW02ZnV1SQ?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-04",
+          "lede": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "articleExcerpt": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union. Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "contentFingerprint": "47573bae171d6ccd",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Technical stock analysis page for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC (private credit). This is credit-relevant, but it is only stock price/technical commentary with no news event.",
+            "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 的股票技术分析页面，BCSF为Bain Capital旗下公开上市的BDC（私募信贷）。该内容与信贷相关，但仅为股价/技术面评论，不涉及任何新闻事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.75,
+            "finalScore": 22.75,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-04-84b851212986",
           "title": "Blackstone Draws €13 Billion as Institutions Back Private Credit - Bloomberg.com",
           "titleZh": "机构投资者押注私募信贷，Blackstone募资130亿欧元 - Bloomberg.com",
@@ -140276,29 +140927,1173 @@
     },
     "2026-11-05": {
       "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-05-e453552705fe",
+            "title": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review",
+            "titleZh": "Blue Owl Technology Finance Corp.遭提起证券集体诉讼 - The National Law Review",
+            "summary": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "summaryZh": "Blue Owl Technology Finance Corp.遭提起证券集体诉讼 The National Law Review",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZE55S2RFalQ3V256SnoyNWFMMzcweHNMWmJHWmlvZ3YySDVGOW9Bbm5ySnVhSnAtUTVnVFozTWxuMlFrdUVFUy1CWEdOenRFQ0pOdS1kcktpSXdnMHpYdjZwLS1lM19XNTBtLWhPRDM4NG51cFpYVDh1X3hldzh2emVVdl9NTVlGTEpOal9BMjNoamVJVmdCdExnUTFkUldlRU5tU1RlVGtTRDMxMUNYU3RrQUVRams?oc=5",
+            "source": "The National Law Review",
+            "publishedAt": "2026-11-05",
+            "lede": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "articleExcerpt": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review. Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "contentFingerprint": "82b2a5d301ad2548",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "lawsuit",
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp. is Blue Owl's tech-focused BDC, so it is credit-relevant. A filed securities class action is a lawsuit. Importance is set between the lawsuit level (1.0) and the law-firm-alert level (0.1): the case has actually been filed, but the National Law Review source suggests a law-firm promotional alert with little detail.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp.是Blue Owl旗下专注科技领域的BDC，因此与信贷相关。已提起的证券集体诉讼属于诉讼事件。重要性设定在诉讼级别（1.0）与律所提示级别（0.1）之间：该案已实际提起，但来源为The National Law Review，表明其可能是律所的推广性提示，细节有限。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit",
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The National Law Review"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.34,
+              "finalScore": 22.34,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-1e2d713cd4ba",
+            "title": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 - GuruFocus",
+            "titleZh": "Blue Owl Capital (OBDC) 维持季度股息，收益率为1 - GuruFocus",
+            "summary": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+            "summaryZh": "Blue Owl Capital (OBDC) 维持季度股息，收益率为1 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDBNRXZIMnNoN0ZWZTBpRmVpN3VDRnlfaDdNa0RDY1BtcTBsZHM0VWZXRHdkZHZ5NXBYTFZ2c3dNZjRGRGpwd2NOdFA5VUpFX3JqekpTeE11LTg2NFBxS1N3OWdvdTZMeUNTbE5mNFd3cVVDQWQwTXB3RlJRcmpLV0U3ZDliZGszTTZ6SG04MG1zZmh6bkF3SE4zRWJHZk9QaEFGd2RR?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-05",
+            "lede": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+            "articleExcerpt": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 - GuruFocus. Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+            "contentFingerprint": "29aae5d33ca1545c",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's flagship BDC, so this is credit-relevant. A maintained quarterly dividend is routine news with no cut or distress signal. It sits between stock/analyst commentary (0.15) and routine manager news (0.5).",
+              "llmReasonZh": "OBDC即Blue Owl Capital Corp，是Blue Owl旗下的旗舰BDC，因此与信贷相关。维持季度股息属于常规新闻，并无削减股息或困境信号。其相关性介于股票/分析师评论（0.15）与常规管理人新闻（0.5）之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.57
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.79,
+              "finalScore": 20.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "KKR": [
+          {
+            "id": "2026-11-05-c9fa6b312dff",
+            "title": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks",
+            "titleZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 - TipRanks",
+            "summary": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "summaryZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcU9Hb293VnJGT1Rxczl3YUxOTGtPQTVEX05VQ3g5QVNRT1NIN3JoMjJUaUt0Q1VmbVVCSlR4UVp6YXNwZ091RUhuNDZJQlVKVnJGTDIzZVRzZHhJNXFEQzZsdXhheHhKQVJmeFQ1cUhqZnVZZnp4Vk56OUtWYkp0aFhXcnA1Q0xTLTZBVV9zdFVmYjJDRDFKYW03djFSNGhQV1FhY2ZON3BGZnYzYWtNQy05X21hMEhwTnBSRkRWWGZtX2x2OEZHV3RIeVYySXdONVVCM01xbFRNaEMzMDVEemRQc29JajlKN3djSXNiMktMcnZiLWc?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-05",
+            "lede": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "articleExcerpt": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks. Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "contentFingerprint": "3909d0bec8b1211c",
+            "region": "Global",
+            "gps": [
+              "KKR",
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "titleGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "llmGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "The article covers covenant restrictions and liquidity risk at Rhythm Pharmaceuticals under its term loans from KKR and Blackstone. That is direct-lending exposure in both firms' credit businesses, with possible borrower stress. The piece looks like TipRanks risk-factor commentary rather than a new default or transaction, so importance is moderate.",
+              "llmReasonZh": "该文章涉及Rhythm Pharmaceuticals在KKR与Blackstone提供的定期贷款项下所受的契约条款限制及流动性风险。这属于两家机构信贷业务中的直接贷款敞口，借款人可能面临压力。该文章似为TipRanks的风险因素评论，而非新的违约或交易事件，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR",
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.13,
+              "finalScore": 23.13,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
         "Guggenheim": [],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-05-ab37e9782bf5",
+            "title": "Korea Investment & Securities, Neuberger explore investment product partnership - KED Global",
+            "titleZh": "Korea Investment & Securities与Neuberger探讨投资产品合作 - KED Global",
+            "summary": "Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+            "summaryZh": "Korea Investment & Securities与Neuberger探讨投资产品合作 KED Global",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvUDBFWG81d3BBVXpYcVNwbzlMdFI0clFLWC1wajJQWkw1akhNdGRTdlkwb2FpYUpSd0NxRnh6MTNQNkN5VnJYdmtnM2g2cE5JbE9uS1JXSVE3bkN4MVN4R1JoRUFJTGQ4QVBqX1RRWWt0Y21VWEE?oc=5",
+            "source": "KED Global",
+            "publishedAt": "2026-11-05",
+            "lede": "Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+            "articleExcerpt": "Korea Investment & Securities, Neuberger explore investment product partnership - KED Global. Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+            "contentFingerprint": "9f745d18c7b1704c",
+            "region": "US",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman and Korea Investment & Securities are exploring an investment product partnership. This is routine distribution and partnership news. The article doesn't say which strategy is involved, so credit products are possible but not confirmed. No financing, fundraising close or lawsuit is involved, so importance is low.",
+              "llmReasonZh": "Neuberger Berman与Korea Investment & Securities正在探讨投资产品合作。此为常规的分销及合作类新闻。文章未说明涉及何种策略，因此可能涉及信贷产品，但尚未确认。不涉及融资、募资完成或诉讼，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KED Global"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.99,
+              "finalScore": 9.99,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-05-c9fa6b312dff",
+            "title": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks",
+            "titleZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 - TipRanks",
+            "summary": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "summaryZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcU9Hb293VnJGT1Rxczl3YUxOTGtPQTVEX05VQ3g5QVNRT1NIN3JoMjJUaUt0Q1VmbVVCSlR4UVp6YXNwZ091RUhuNDZJQlVKVnJGTDIzZVRzZHhJNXFEQzZsdXhheHhKQVJmeFQ1cUhqZnVZZnp4Vk56OUtWYkp0aFhXcnA1Q0xTLTZBVV9zdFVmYjJDRDFKYW03djFSNGhQV1FhY2ZON3BGZnYzYWtNQy05X21hMEhwTnBSRkRWWGZtX2x2OEZHV3RIeVYySXdONVVCM01xbFRNaEMzMDVEemRQc29JajlKN3djSXNiMktMcnZiLWc?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-05",
+            "lede": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "articleExcerpt": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks. Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+            "contentFingerprint": "3909d0bec8b1211c",
+            "region": "Global",
+            "gps": [
+              "KKR",
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "titleGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "llmGps": [
+                "KKR",
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "The article covers covenant restrictions and liquidity risk at Rhythm Pharmaceuticals under its term loans from KKR and Blackstone. That is direct-lending exposure in both firms' credit businesses, with possible borrower stress. The piece looks like TipRanks risk-factor commentary rather than a new default or transaction, so importance is moderate.",
+              "llmReasonZh": "该文章涉及Rhythm Pharmaceuticals在KKR与Blackstone提供的定期贷款项下所受的契约条款限制及流动性风险。这属于两家机构信贷业务中的直接贷款敞口，借款人可能面临压力。该文章似为TipRanks的风险因素评论，而非新的违约或交易事件，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR",
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.13,
+              "finalScore": 23.13,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-ad2710858523",
+            "title": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H - GuruFocus",
+            "titleZh": "Blackstone Secured Lending Fund (BXSL) 2026年第三季度财报电话会议要点 - GuruFocus",
+            "summary": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+            "summaryZh": "Blackstone Secured Lending Fund (BXSL) 2026年第三季度财报电话会议要点 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRlczMmxMbm55LUktYjVkZ3hXeDBtekV0eFlsMjhuRmlqMUxwcGxiNEgzcXdLTEdZVEdEdFZqUllRMTl0VkpBeEc1OEZ0bnE5Rm5yYXZXdVQ3MF9qWjhkTW1XZmt2a0hhWHBUbndfSFN6eG9fbUxCend2TkxJNUZLX3NYMEEzQ3JPeVdENUIwN29HQk5NTEZyUVFaSWlLd09PT2RRRlJ5aHluQTV4U2N5MnV5aWhmWVhGMkY0VG5vVjJOWV84WTU0U3I5VzkzOFBjc01pMUpkWTNlQkN0VHl6VWRfSkdyYjlFYnJ4bGJrNTlqZw?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-05",
+            "lede": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+            "articleExcerpt": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H - GuruFocus. Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+            "contentFingerprint": "9d8b2e886be8f00c",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Earnings call highlights for Blackstone Secured Lending Fund (BXSL), Blackstone's publicly traded BDC, which is part of its credit/direct lending business. It is routine manager news with no specific financing, lawsuit or fundraising event, so importance is moderate.",
+              "llmReasonZh": "Blackstone Secured Lending Fund (BXSL)财报电话会议要点。BXSL是Blackstone旗下公开交易的BDC（业务发展公司），属于其信贷/直接贷款业务。该消息属于常规管理人新闻，未涉及具体融资、诉讼或募资事件，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.13,
+              "finalScore": 22.13,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
         "TPG": [],
         "Golub": [],
         "CVC": [],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-05-e453552705fe",
+          "title": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review",
+          "titleZh": "Blue Owl Technology Finance Corp.遭提起证券集体诉讼 - The National Law Review",
+          "summary": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "summaryZh": "Blue Owl Technology Finance Corp.遭提起证券集体诉讼 The National Law Review",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZE55S2RFalQ3V256SnoyNWFMMzcweHNMWmJHWmlvZ3YySDVGOW9Bbm5ySnVhSnAtUTVnVFozTWxuMlFrdUVFUy1CWEdOenRFQ0pOdS1kcktpSXdnMHpYdjZwLS1lM19XNTBtLWhPRDM4NG51cFpYVDh1X3hldzh2emVVdl9NTVlGTEpOal9BMjNoamVJVmdCdExnUTFkUldlRU5tU1RlVGtTRDMxMUNYU3RrQUVRams?oc=5",
+          "source": "The National Law Review",
+          "publishedAt": "2026-11-05",
+          "lede": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "articleExcerpt": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review. Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "contentFingerprint": "82b2a5d301ad2548",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "lawsuit",
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp. is Blue Owl's tech-focused BDC, so it is credit-relevant. A filed securities class action is a lawsuit. Importance is set between the lawsuit level (1.0) and the law-firm-alert level (0.1): the case has actually been filed, but the National Law Review source suggests a law-firm promotional alert with little detail.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp.是Blue Owl旗下专注科技领域的BDC，因此与信贷相关。已提起的证券集体诉讼属于诉讼事件。重要性设定在诉讼级别（1.0）与律所提示级别（0.1）之间：该案已实际提起，但来源为The National Law Review，表明其可能是律所的推广性提示，细节有限。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.8,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit",
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The National Law Review"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.34,
+            "finalScore": 22.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-1e2d713cd4ba",
+          "title": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 - GuruFocus",
+          "titleZh": "Blue Owl Capital (OBDC) 维持季度股息，收益率为1 - GuruFocus",
+          "summary": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+          "summaryZh": "Blue Owl Capital (OBDC) 维持季度股息，收益率为1 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDBNRXZIMnNoN0ZWZTBpRmVpN3VDRnlfaDdNa0RDY1BtcTBsZHM0VWZXRHdkZHZ5NXBYTFZ2c3dNZjRGRGpwd2NOdFA5VUpFX3JqekpTeE11LTg2NFBxS1N3OWdvdTZMeUNTbE5mNFd3cVVDQWQwTXB3RlJRcmpLV0U3ZDliZGszTTZ6SG04MG1zZmh6bkF3SE4zRWJHZk9QaEFGd2RR?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-05",
+          "lede": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+          "articleExcerpt": "Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 - GuruFocus. Blue Owl Capital (OBDC) Maintains Quarterly Dividend, Yielding 1 GuruFocus",
+          "contentFingerprint": "29aae5d33ca1545c",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's flagship BDC, so this is credit-relevant. A maintained quarterly dividend is routine news with no cut or distress signal. It sits between stock/analyst commentary (0.15) and routine manager news (0.5).",
+            "llmReasonZh": "OBDC即Blue Owl Capital Corp，是Blue Owl旗下的旗舰BDC，因此与信贷相关。维持季度股息属于常规新闻，并无削减股息或困境信号。其相关性介于股票/分析师评论（0.15）与常规管理人新闻（0.5）之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.57
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.79,
+            "finalScore": 20.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-c9fa6b312dff",
+          "title": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks",
+          "titleZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 - TipRanks",
+          "summary": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+          "summaryZh": "Rhythm Pharmaceuticals受KKR与Blackstone定期贷款严格契约条款限制，流动性风险加剧 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcU9Hb293VnJGT1Rxczl3YUxOTGtPQTVEX05VQ3g5QVNRT1NIN3JoMjJUaUt0Q1VmbVVCSlR4UVp6YXNwZ091RUhuNDZJQlVKVnJGTDIzZVRzZHhJNXFEQzZsdXhheHhKQVJmeFQ1cUhqZnVZZnp4Vk56OUtWYkp0aFhXcnA1Q0xTLTZBVV9zdFVmYjJDRDFKYW03djFSNGhQV1FhY2ZON3BGZnYzYWtNQy05X21hMEhwTnBSRkRWWGZtX2x2OEZHV3RIeVYySXdONVVCM01xbFRNaEMzMDVEemRQc29JajlKN3djSXNiMktMcnZiLWc?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-05",
+          "lede": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+          "articleExcerpt": "Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants - TipRanks. Rhythm Pharmaceuticals Faces Heightened Liquidity Risk Under Restrictive KKR and Blackstone Term-Loan Covenants TipRanks",
+          "contentFingerprint": "3909d0bec8b1211c",
+          "region": "Global",
+          "gps": [
+            "KKR",
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR",
+              "Blackstone"
+            ],
+            "titleGps": [
+              "KKR",
+              "Blackstone"
+            ],
+            "llmGps": [
+              "KKR",
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "The article covers covenant restrictions and liquidity risk at Rhythm Pharmaceuticals under its term loans from KKR and Blackstone. That is direct-lending exposure in both firms' credit businesses, with possible borrower stress. The piece looks like TipRanks risk-factor commentary rather than a new default or transaction, so importance is moderate.",
+            "llmReasonZh": "该文章涉及Rhythm Pharmaceuticals在KKR与Blackstone提供的定期贷款项下所受的契约条款限制及流动性风险。这属于两家机构信贷业务中的直接贷款敞口，借款人可能面临压力。该文章似为TipRanks的风险因素评论，而非新的违约或交易事件，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR",
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.13,
+            "finalScore": 23.13,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-ab37e9782bf5",
+          "title": "Korea Investment & Securities, Neuberger explore investment product partnership - KED Global",
+          "titleZh": "Korea Investment & Securities与Neuberger探讨投资产品合作 - KED Global",
+          "summary": "Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+          "summaryZh": "Korea Investment & Securities与Neuberger探讨投资产品合作 KED Global",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvUDBFWG81d3BBVXpYcVNwbzlMdFI0clFLWC1wajJQWkw1akhNdGRTdlkwb2FpYUpSd0NxRnh6MTNQNkN5VnJYdmtnM2g2cE5JbE9uS1JXSVE3bkN4MVN4R1JoRUFJTGQ4QVBqX1RRWWt0Y21VWEE?oc=5",
+          "source": "KED Global",
+          "publishedAt": "2026-11-05",
+          "lede": "Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+          "articleExcerpt": "Korea Investment & Securities, Neuberger explore investment product partnership - KED Global. Korea Investment & Securities, Neuberger explore investment product partnership KED Global",
+          "contentFingerprint": "9f745d18c7b1704c",
+          "region": "US",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman and Korea Investment & Securities are exploring an investment product partnership. This is routine distribution and partnership news. The article doesn't say which strategy is involved, so credit products are possible but not confirmed. No financing, fundraising close or lawsuit is involved, so importance is low.",
+            "llmReasonZh": "Neuberger Berman与Korea Investment & Securities正在探讨投资产品合作。此为常规的分销及合作类新闻。文章未说明涉及何种策略，因此可能涉及信贷产品，但尚未确认。不涉及融资、募资完成或诉讼，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KED Global"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.99,
+            "finalScore": 9.99,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-ad2710858523",
+          "title": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H - GuruFocus",
+          "titleZh": "Blackstone Secured Lending Fund (BXSL) 2026年第三季度财报电话会议要点 - GuruFocus",
+          "summary": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+          "summaryZh": "Blackstone Secured Lending Fund (BXSL) 2026年第三季度财报电话会议要点 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRlczMmxMbm55LUktYjVkZ3hXeDBtekV0eFlsMjhuRmlqMUxwcGxiNEgzcXdLTEdZVEdEdFZqUllRMTl0VkpBeEc1OEZ0bnE5Rm5yYXZXdVQ3MF9qWjhkTW1XZmt2a0hhWHBUbndfSFN6eG9fbUxCend2TkxJNUZLX3NYMEEzQ3JPeVdENUIwN29HQk5NTEZyUVFaSWlLd09PT2RRRlJ5aHluQTV4U2N5MnV5aWhmWVhGMkY0VG5vVjJOWV84WTU0U3I5VzkzOFBjc01pMUpkWTNlQkN0VHl6VWRfSkdyYjlFYnJ4bGJrNTlqZw?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-05",
+          "lede": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+          "articleExcerpt": "Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H - GuruFocus. Blackstone Secured Lending Fund (BXSL) (Q3 2026) Earnings Call H GuruFocus",
+          "contentFingerprint": "9d8b2e886be8f00c",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Earnings call highlights for Blackstone Secured Lending Fund (BXSL), Blackstone's publicly traded BDC, which is part of its credit/direct lending business. It is routine manager news with no specific financing, lawsuit or fundraising event, so importance is moderate.",
+            "llmReasonZh": "Blackstone Secured Lending Fund (BXSL)财报电话会议要点。BXSL是Blackstone旗下公开交易的BDC（业务发展公司），属于其信贷/直接贷款业务。该消息属于常规管理人新闻，未涉及具体融资、诉讼或募资事件，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-05T07:35:56.722896+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.13,
+            "finalScore": 22.13,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 35,
+      "count": 41,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -140306,20 +142101,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 77,
-      "selected": 6,
+      "count": 71,
+      "selected": 5,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
@@ -140332,12 +142127,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 0,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -140345,7 +142140,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
@@ -140358,12 +142153,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 26,
+      "count": 25,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -140371,12 +142166,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 11,
+      "count": 12,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -140384,7 +142179,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
@@ -140397,25 +142192,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 15,
-      "selected": 1,
+      "count": 13,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 102,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -140423,12 +142218,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 63,
+      "count": 59,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -140436,7 +142231,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
@@ -140449,51 +142244,51 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
-      "selected": 1,
+      "count": 4,
+      "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 24,
-      "selected": 2,
+      "count": 25,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
-      "selected": 1,
+      "count": 29,
+      "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
       "queries": [
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 530,
+      "count": 553,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -140510,9 +142305,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-05T00:41:16.759063+00:00",
+      "asOf": "2026-11-05T07:35:56.722896+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-05T00:41:16.759063+00:00"
+  "checkedAt": "2026-11-05T07:35:56.722896+00:00"
 }
