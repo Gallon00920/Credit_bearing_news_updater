@@ -58,15 +58,16 @@
       ]
     },
     "Pretium": {
-      "promptHash": "bfd803f8c0eecd9805c4ad86e16fc1cf2f358f38",
+      "promptHash": "00afc23c9cb48aaecf013f5436fb006577b00b26",
+      "model": "claude-opus-5-5",
       "relevant": [
-        "Pretium announces a $750 million senior secured credit facility to fund its new direct lending platform targeting middle-market U.S. companies, with loan terms, collateral structure, and syndication details disclosed.",
-        "Pretium’s CLO management arm closes Pretium Capital CLO IX, a $1.2 billion collateralized loan obligation backed by broadly syndicated corporate loans, including portfolio composition, rating agency assignments, and warehouse financing arrangements.",
-        "Pretium expands its asset-based lending division by acquiring a specialty finance firm focused on inventory- and receivables-backed facilities for consumer goods distributors—highlighting credit underwriting criteria, advance rates, and covenant structures."
+        "Pretium raises, closes, or deploys capital for a credit vehicle, such as a residential mortgage credit fund, an asset-based finance strategy, or a private lending/opportunistic credit fund, including details on fund size, LP commitments, or target returns.",
+        "Pretium or an affiliate (e.g., Anchor Loans, Selene Finance) originates, buys, services, or securitizes loans. Examples include business-purpose/fix-and-flip lending, purchases of re-performing or non-performing mortgage pools, and RMBS/ABS deals rated by agencies like KBRA, DBRS, or Moody's.",
+        "Pretium is involved in a financing transaction as lender or structured-finance counterparty. This covers providing debt, warehouse facilities, or rescue capital to a company, as well as credit-related hires, team launches, or leadership changes in its credit business."
       ],
       "notRelevant": [
-        "Pretium acquires a portfolio of Class A office buildings in Sun Belt markets through its real estate equity strategy, with no debt financing or credit structuring role—purely an equity ownership transaction.",
-        "Pretium leads a $3.4 billion leveraged buyout of a healthcare IT services provider via its private equity arm, where Pretium acts solely as the controlling equity sponsor and does not provide or arrange any financing to the target or the acquisition vehicle."
+        "Pretium's single-family rental platform (e.g., Progress Residential) buys, sells, or operates homes, or faces tenant, rent, or housing-policy scrutiny, with no lending, securitization, or debt-financing angle.",
+        "Pretium makes a private equity or real estate equity investment, buyout, or asset sale (e.g., acquiring an operating company or a portfolio of properties for equity ownership). This also covers general corporate news such as office openings, philanthropy, or non-credit executive appointments."
       ]
     },
     "KKR": {
