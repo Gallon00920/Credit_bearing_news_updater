@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-06T17:44:54.606501+00:00",
+  "updatedAt": "2026-11-06T23:06:01.210419+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -139136,6 +139136,124 @@
               "finalScore": 20.48,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-248435765e88",
+            "title": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports - U.S. News - Money",
+            "titleZh": "彭博：Goldman与Apollo为400亿美元SpaceX AI芯片交易寻找买家",
+            "summary": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+            "summaryZh": "据彭博新闻社报道，Goldman与Apollo正为400亿美元SpaceX AI芯片交易寻找买家。美国新闻 - 财经",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXAwcFBuWklXSGFSODJ0V1R1dllMNlpIeWpqeHVxajBWMjhZRFNiUVB3blh1TkFRM3FkeTdjTVBGVzQxazktWjBuM3ZQa21vQkFWWkFBX2dCQWJyX0JydlVUN3pUaDhkelNKcFNDS0ZxZGEzT1gtaXprcDFBOHlPYXRwdmFDNzVNeTgyOUFGUjdkc21KbUtMRlZRSElmM216OFFHdURXbHRueF9TcnVNVmUyWUdTaEZsckdLMnFJOTBuRnFSc3NTTVdrbzhKcW5pVXpvaTVsR2lEendU?oc=5",
+            "source": "U.S. News - Money",
+            "publishedAt": "2026-11-04",
+            "lede": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+            "articleExcerpt": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports - U.S. News - Money. Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+            "contentFingerprint": "d65f4fbb35647337",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "abf",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Apollo, alongside Goldman, is syndicating a $40B financing tied to SpaceX AI chips (likely GPU/hardware financing). This is a large credit/asset-backed financing transaction in Apollo's credit business, relevant to AI infrastructure financing.",
+              "llmReasonZh": "Apollo正与Goldman联合银团分销一笔与SpaceX AI芯片相关的400亿美元融资（可能为GPU/硬件融资）。这是Apollo信贷业务中的一笔大型信贷/资产支持融资交易，与AI基础设施融资相关。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "U.S. News - Money"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.2,
+              "finalScore": 19.2,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -142663,6 +142781,124 @@
             "keywordScore": 16,
             "semanticScore": 4.48,
             "finalScore": 20.48,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-248435765e88",
+          "title": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports - U.S. News - Money",
+          "titleZh": "彭博：Goldman与Apollo为400亿美元SpaceX AI芯片交易寻找买家",
+          "summary": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+          "summaryZh": "据彭博新闻社报道，Goldman与Apollo正为400亿美元SpaceX AI芯片交易寻找买家。美国新闻 - 财经",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXAwcFBuWklXSGFSODJ0V1R1dllMNlpIeWpqeHVxajBWMjhZRFNiUVB3blh1TkFRM3FkeTdjTVBGVzQxazktWjBuM3ZQa21vQkFWWkFBX2dCQWJyX0JydlVUN3pUaDhkelNKcFNDS0ZxZGEzT1gtaXprcDFBOHlPYXRwdmFDNzVNeTgyOUFGUjdkc21KbUtMRlZRSElmM216OFFHdURXbHRueF9TcnVNVmUyWUdTaEZsckdLMnFJOTBuRnFSc3NTTVdrbzhKcW5pVXpvaTVsR2lEendU?oc=5",
+          "source": "U.S. News - Money",
+          "publishedAt": "2026-11-04",
+          "lede": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+          "articleExcerpt": "Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports - U.S. News - Money. Goldman, Apollo Seek Buyers for $40 Billion SpaceX AI Chip Deal, Bloomberg News Reports U.S. News - Money",
+          "contentFingerprint": "d65f4fbb35647337",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Apollo, alongside Goldman, is syndicating a $40B financing tied to SpaceX AI chips (likely GPU/hardware financing). This is a large credit/asset-backed financing transaction in Apollo's credit business, relevant to AI infrastructure financing.",
+            "llmReasonZh": "Apollo正与Goldman联合银团分销一笔与SpaceX AI芯片相关的400亿美元融资（可能为GPU/硬件融资）。这是Apollo信贷业务中的一笔大型信贷/资产支持融资交易，与AI基础设施融资相关。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.9,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "U.S. News - Money"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.2,
+            "finalScore": 19.2,
             "semanticEnabled": true
           }
         },
@@ -149181,7 +149417,216 @@
             }
           }
         ],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-06-8c118b139e2f",
+            "title": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... - Yahoo Finance",
+            "titleZh": "FS KKR Capital Corp (FSK) (Q3 2026) 财报电话会议要点：大力回购及投资组合…… - Yahoo Finance",
+            "summary": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+            "summaryZh": "FS KKR Capital Corp (FSK) (Q3 2026) 财报电话会议要点：大力回购及投资组合…… Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZndpRlpTMDUtMHZadF9KSExYSUc3WlJyenpOLVlRNHFKdEhkXzl2Zkp1UG1OLS1IdUxLelpsbmJUb0VZYUgxbEJaMkh6OWJicjE3V1lMdXVLZjk0MnRtTWdXcVVlN3FFTnoyVmN5UlFjZUVQODA4dVlpVjRxVTVRV2hVdnZvcExGVFd5WXFNa2dGUQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-06",
+            "lede": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+            "articleExcerpt": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... - Yahoo Finance. FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+            "contentFingerprint": "233349e09b4a9a26",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp is KKR's publicly traded BDC, so this is credit-relevant. The article is a routine earnings-call summary (buybacks, portfolio update) with no financing, fundraising or litigation event. That makes it routine manager news, a step above pure stock commentary.",
+              "llmReasonZh": "FS KKR Capital Corp 是 KKR 旗下的公开上市 BDC，因此与信贷相关。该文章为常规的财报电话会议摘要（回购、投资组合更新），不涉及融资、募资或诉讼事件。因此属于常规管理人新闻，略高于纯粹的股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.87,
+              "finalScore": 19.87,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-45f51fd236ad",
+            "title": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services - PEI Private Equity",
+            "titleZh": "Haelan Capital Partners首次亮相；KKR推出Akrapoint Commercial Capital；私募股权押注铁路服务 - PEI Private Equity",
+            "summary": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+            "summaryZh": "Haelan Capital Partners首次亮相；KKR推出Akrapoint Commercial Capital；私募股权押注铁路服务 PEI Private Equity",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDFQNi1ZcjV5TjlDNmU3U3BNbFp0S09QY25QSUhlR0ZFVlQwV1A5RHM4bVh2ODRqQ2lhQjE2M3dJRl9OLTNmZ1FVdUZiWHQwX1ktWnhlQ2VtaE43WnJQckxSRXRTQV84c0tUWEYycXRKNnZmRENld1lMbzRBdFI3SEpqNTlMVlpHMWM5ckpJSXR4dkhJVGV5aURLcjlBRVhWUFUyX1ptYVFIWGlodnlXZV9fV2hUTXp4ZGJjeUs2d3Q0WHUwcVQxVTdVTnNtN05wcDJhUHhiaVU?oc=5",
+            "source": "PEI Private Equity",
+            "publishedAt": "2026-11-06",
+            "lede": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+            "articleExcerpt": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services - PEI Private Equity. Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+            "contentFingerprint": "d0d400081dce2a0f",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.55,
+              "llmExclude": false,
+              "llmReason": "This is a PEI newsletter roundup with a headline-only snippet. One item is KKR launching Akrapoint Commercial Capital. The 'Commercial Capital' name suggests a commercial lending or asset-based finance platform, which would fall under KKR's credit business. However, the snippet does not describe the platform's activity, so the strategy tags are tentative. The other items (Haelan debut, PE rail bets) involve untracked or non-credit activity. A platform launch is routine-to-notable manager news. No specific financing or fundraising event is described.",
+              "llmReasonZh": "这是一篇PEI新闻简报汇总，摘要仅含标题。其中一项内容为KKR推出Akrapoint Commercial Capital。从“Commercial Capital”这一名称来看，该平台可能是商业贷款或资产支持融资平台，应归属KKR的信贷业务。但摘要未说明该平台的具体业务，因此策略标签仅为暂定。其他内容（Haelan首次亮相、私募股权押注铁路）涉及未追踪机构或非信贷业务。平台推出属于常规至值得关注级别的管理人动态。文中未提及具体的融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.38,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.55
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "PEI Private Equity"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.44,
+              "finalScore": 14.440000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [
           {
             "id": "2026-11-06-60a57aca8676",
@@ -149289,7 +149734,114 @@
           }
         ],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-06-27662ad34975",
+            "title": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices - HousingWire",
+            "titleZh": "Progress Residential将支付4980万美元，就租赁行为与FTC及多州达成和解 - HousingWire",
+            "summary": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+            "summaryZh": "Progress Residential将支付4980万美元，就租赁行为了结FTC及州政府指控 HousingWire",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2ptVHVrbzBmc0NFYWdsQmIteHgtTlpmN0V1NEN3eWR0T2ZCMDB2Qk1qUjRLTGI1WUJPQUx3SmtiT3JjVG83SzFIWElpTzVLT2J4OTV4ckR2ZUhvR0ZhdEhDV1N2clJpLUNhODFtTVRybUxwdUYwSEdHRWxFQmxWU3ZKbmpldw?oc=5",
+            "source": "HousingWire",
+            "publishedAt": "2026-11-06",
+            "lede": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+            "articleExcerpt": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices - HousingWire. Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+            "contentFingerprint": "7309ed31e669a78a",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Progress Residential is Pretium's single-family rental platform. It is agreeing to a $49.8M settlement with the FTC and states over its rental practices. That is regulatory enforcement in the SFR strategy. It is credit-relevant because Progress is a major issuer of SFR securitizations, so a settlement could affect its cash flows and debt. Pretium is not named in the snippet; the tag relies on its known ownership of Progress.",
+              "llmReasonZh": "Progress Residential是Pretium旗下的单户住宅租赁平台。该公司同意就其租赁行为与FTC及多州达成4980万美元的和解。这属于单户住宅租赁（SFR）策略领域的监管执法事件。由于Progress是SFR证券化产品的主要发行人，该和解可能影响其现金流及债务，因此具有信用相关性。摘要中未提及Pretium，此标签依据其对Progress的已知所有权关系。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.24
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "HousingWire"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 86,
+              "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 2.87,
+              "finalScore": 8.870000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "Neuberger": [
           {
@@ -150263,7 +150815,114 @@
             }
           }
         ],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-11-06-03217c447b00",
+            "title": "Latham Advises Apollo on European Credit Company Launch - Latham & Watkins LLP",
+            "titleZh": "Latham & Watkins LLP为Apollo推出欧洲信贷公司提供法律咨询",
+            "summary": "Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+            "summaryZh": "Latham & Watkins LLP为Apollo推出欧洲信贷公司提供法律咨询",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXdrVWdmTk1tbHRxLWVZTkhwQVVUTHZmNE1LSzRheE43OWZTQ0EySVdqekNQdERWaHV4WmxUVkwwTHlRNm11V3cxN2E0UDRYZXBwSXFYUlI0SWJZTkJsWVJJZWRVcUVZVmVUdTdqMXlSSDBiSWhrZFJDc2ZGYVNlZEkwUzZOTm5OQ1lwTWFTblV1YnR2?oc=5",
+            "source": "Latham & Watkins LLP",
+            "publishedAt": "2026-11-06",
+            "lede": "Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+            "articleExcerpt": "Latham Advises Apollo on European Credit Company Launch - Latham & Watkins LLP. Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+            "contentFingerprint": "c30919e4b04ff37b",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "The article reports Apollo launching a European credit company, likely an evergreen or retail-oriented private credit vehicle. That is a credit-business fund launch, so it counts as fundraising. Importance is moderate because the news comes from a law-firm advisory announcement with few details on size or close.",
+              "llmReasonZh": "该文章报道Apollo推出一家欧洲信贷公司，可能为常青型或面向零售投资者的私募信贷工具。此举属于信贷业务的基金发行，因此归类为募资事项。重要性为中等，因为该消息来自律师事务所的顾问业务公告，有关规模或募集完成情况的细节较少。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Latham & Watkins LLP"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 5.82,
+              "finalScore": 20.82,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [],
         "Golub": [],
         "CVC": [],
@@ -150590,6 +151249,214 @@
           }
         },
         {
+          "id": "2026-11-06-8c118b139e2f",
+          "title": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... - Yahoo Finance",
+          "titleZh": "FS KKR Capital Corp (FSK) (Q3 2026) 财报电话会议要点：大力回购及投资组合…… - Yahoo Finance",
+          "summary": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+          "summaryZh": "FS KKR Capital Corp (FSK) (Q3 2026) 财报电话会议要点：大力回购及投资组合…… Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZndpRlpTMDUtMHZadF9KSExYSUc3WlJyenpOLVlRNHFKdEhkXzl2Zkp1UG1OLS1IdUxLelpsbmJUb0VZYUgxbEJaMkh6OWJicjE3V1lMdXVLZjk0MnRtTWdXcVVlN3FFTnoyVmN5UlFjZUVQODA4dVlpVjRxVTVRV2hVdnZvcExGVFd5WXFNa2dGUQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-06",
+          "lede": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+          "articleExcerpt": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... - Yahoo Finance. FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: Strong Buybacks and Portfolio ... Yahoo Finance",
+          "contentFingerprint": "233349e09b4a9a26",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp is KKR's publicly traded BDC, so this is credit-relevant. The article is a routine earnings-call summary (buybacks, portfolio update) with no financing, fundraising or litigation event. That makes it routine manager news, a step above pure stock commentary.",
+            "llmReasonZh": "FS KKR Capital Corp 是 KKR 旗下的公开上市 BDC，因此与信贷相关。该文章为常规的财报电话会议摘要（回购、投资组合更新），不涉及融资、募资或诉讼事件。因此属于常规管理人新闻，略高于纯粹的股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.87,
+            "finalScore": 19.87,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-45f51fd236ad",
+          "title": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services - PEI Private Equity",
+          "titleZh": "Haelan Capital Partners首次亮相；KKR推出Akrapoint Commercial Capital；私募股权押注铁路服务 - PEI Private Equity",
+          "summary": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+          "summaryZh": "Haelan Capital Partners首次亮相；KKR推出Akrapoint Commercial Capital；私募股权押注铁路服务 PEI Private Equity",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDFQNi1ZcjV5TjlDNmU3U3BNbFp0S09QY25QSUhlR0ZFVlQwV1A5RHM4bVh2ODRqQ2lhQjE2M3dJRl9OLTNmZ1FVdUZiWHQwX1ktWnhlQ2VtaE43WnJQckxSRXRTQV84c0tUWEYycXRKNnZmRENld1lMbzRBdFI3SEpqNTlMVlpHMWM5ckpJSXR4dkhJVGV5aURLcjlBRVhWUFUyX1ptYVFIWGlodnlXZV9fV2hUTXp4ZGJjeUs2d3Q0WHUwcVQxVTdVTnNtN05wcDJhUHhiaVU?oc=5",
+          "source": "PEI Private Equity",
+          "publishedAt": "2026-11-06",
+          "lede": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+          "articleExcerpt": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services - PEI Private Equity. Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services PEI Private Equity",
+          "contentFingerprint": "d0d400081dce2a0f",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.55,
+            "llmExclude": false,
+            "llmReason": "This is a PEI newsletter roundup with a headline-only snippet. One item is KKR launching Akrapoint Commercial Capital. The 'Commercial Capital' name suggests a commercial lending or asset-based finance platform, which would fall under KKR's credit business. However, the snippet does not describe the platform's activity, so the strategy tags are tentative. The other items (Haelan debut, PE rail bets) involve untracked or non-credit activity. A platform launch is routine-to-notable manager news. No specific financing or fundraising event is described.",
+            "llmReasonZh": "这是一篇PEI新闻简报汇总，摘要仅含标题。其中一项内容为KKR推出Akrapoint Commercial Capital。从“Commercial Capital”这一名称来看，该平台可能是商业贷款或资产支持融资平台，应归属KKR的信贷业务。但摘要未说明该平台的具体业务，因此策略标签仅为暂定。其他内容（Haelan首次亮相、私募股权押注铁路）涉及未追踪机构或非信贷业务。平台推出属于常规至值得关注级别的管理人动态。文中未提及具体的融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.38,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.55
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "PEI Private Equity"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.44,
+            "finalScore": 14.440000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-06-60a57aca8676",
           "title": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
           "titleZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
@@ -150690,6 +151557,112 @@
             "keywordScore": 16,
             "semanticScore": 5.12,
             "finalScore": 21.12,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-27662ad34975",
+          "title": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices - HousingWire",
+          "titleZh": "Progress Residential将支付4980万美元，就租赁行为与FTC及多州达成和解 - HousingWire",
+          "summary": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+          "summaryZh": "Progress Residential将支付4980万美元，就租赁行为了结FTC及州政府指控 HousingWire",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2ptVHVrbzBmc0NFYWdsQmIteHgtTlpmN0V1NEN3eWR0T2ZCMDB2Qk1qUjRLTGI1WUJPQUx3SmtiT3JjVG83SzFIWElpTzVLT2J4OTV4ckR2ZUhvR0ZhdEhDV1N2clJpLUNhODFtTVRybUxwdUYwSEdHRWxFQmxWU3ZKbmpldw?oc=5",
+          "source": "HousingWire",
+          "publishedAt": "2026-11-06",
+          "lede": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+          "articleExcerpt": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices - HousingWire. Progress Residential to pay $49.8M to settle FTC, state claims over rental practices HousingWire",
+          "contentFingerprint": "7309ed31e669a78a",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Progress Residential is Pretium's single-family rental platform. It is agreeing to a $49.8M settlement with the FTC and states over its rental practices. That is regulatory enforcement in the SFR strategy. It is credit-relevant because Progress is a major issuer of SFR securitizations, so a settlement could affect its cash flows and debt. Pretium is not named in the snippet; the tag relies on its known ownership of Progress.",
+            "llmReasonZh": "Progress Residential是Pretium旗下的单户住宅租赁平台。该公司同意就其租赁行为与FTC及多州达成4980万美元的和解。这属于单户住宅租赁（SFR）策略领域的监管执法事件。由于Progress是SFR证券化产品的主要发行人，该和解可能影响其现金流及债务，因此具有信用相关性。摘要中未提及Pretium，此标签依据其对Progress的已知所有权关系。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.24
+              },
+              "event": {
+                "value": 0.9,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "HousingWire"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 86,
+            "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 2.87,
+            "finalScore": 8.870000000000001,
             "semanticEnabled": true
           }
         },
@@ -151657,6 +152630,112 @@
             "finalScore": 22.59,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-06-03217c447b00",
+          "title": "Latham Advises Apollo on European Credit Company Launch - Latham & Watkins LLP",
+          "titleZh": "Latham & Watkins LLP为Apollo推出欧洲信贷公司提供法律咨询",
+          "summary": "Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+          "summaryZh": "Latham & Watkins LLP为Apollo推出欧洲信贷公司提供法律咨询",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXdrVWdmTk1tbHRxLWVZTkhwQVVUTHZmNE1LSzRheE43OWZTQ0EySVdqekNQdERWaHV4WmxUVkwwTHlRNm11V3cxN2E0UDRYZXBwSXFYUlI0SWJZTkJsWVJJZWRVcUVZVmVUdTdqMXlSSDBiSWhrZFJDc2ZGYVNlZEkwUzZOTm5OQ1lwTWFTblV1YnR2?oc=5",
+          "source": "Latham & Watkins LLP",
+          "publishedAt": "2026-11-06",
+          "lede": "Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+          "articleExcerpt": "Latham Advises Apollo on European Credit Company Launch - Latham & Watkins LLP. Latham Advises Apollo on European Credit Company Launch Latham & Watkins LLP",
+          "contentFingerprint": "c30919e4b04ff37b",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "The article reports Apollo launching a European credit company, likely an evergreen or retail-oriented private credit vehicle. That is a credit-business fund launch, so it counts as fundraising. Importance is moderate because the news comes from a law-firm advisory announcement with few details on size or close.",
+            "llmReasonZh": "该文章报道Apollo推出一家欧洲信贷公司，可能为常青型或面向零售投资者的私募信贷工具。此举属于信贷业务的基金发行，因此归类为募资事项。重要性为中等，因为该消息来自律师事务所的顾问业务公告，有关规模或募集完成情况的细节较少。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.7,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Latham & Watkins LLP"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-06T21:55:07.623761+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 5.82,
+            "finalScore": 20.82,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -151664,7 +152743,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 66,
+      "count": 63,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -151672,12 +152751,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 87,
+      "count": 83,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -151685,7 +152764,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
@@ -151698,12 +152777,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 10,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -151711,25 +152790,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 1,
-      "selected": 1,
+      "count": 2,
+      "selected": 2,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 11,
+      "count": 9,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -151737,20 +152816,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 14,
-      "selected": 2,
+      "count": 12,
+      "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
@@ -151763,20 +152842,20 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 12,
-      "selected": 5,
+      "count": 10,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
@@ -151789,12 +152868,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 39,
+      "count": 41,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -151802,12 +152881,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 10,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -151815,7 +152894,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
@@ -151828,12 +152907,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 26,
+      "count": 24,
       "selected": 3,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -151841,12 +152920,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 25,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -151854,12 +152933,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 606,
+      "count": 555,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -151876,9 +152955,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-06T16:31:39.886738+00:00",
+      "asOf": "2026-11-06T21:55:07.623761+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-06T16:31:39.886738+00:00"
+  "checkedAt": "2026-11-06T21:55:07.623761+00:00"
 }
