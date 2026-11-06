@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-06T10:13:27.603565+00:00",
+  "updatedAt": "2026-11-06T17:44:54.606501+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM在信用和固定收益领域的能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -137164,6 +137164,101 @@
               "finalScore": 10.780000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-0bb60254d346",
+            "title": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo! Finance Canada",
+            "titleZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭小幅下调 - Yahoo! Finance Canada",
+            "summary": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+            "summaryZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭小幅下调 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2YUltbDREODUyTTN3aHcxall3UmxMZzQ5M3B0MjRpQTk1LVRZR3U5LWg2RkdZUUYtZzBFbXhRRW9SandMQ2RNc2twLXpxUzJ2aDRSZktxTUN5N0hWWGlsUVFNT284SWc0Q0ZQSXc0VUM2ZGZiTmoxWHNmVzg?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-04",
+            "lede": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+            "articleExcerpt": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo! Finance Canada. KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+            "contentFingerprint": "d479a0ac0795fd8e",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock price and analyst price-target commentary on KKR at the firm level. It has no specific credit, lending, or financing angle, but it is not tied to a non-credit business either, so it is kept at low importance.",
+              "llmReasonZh": "涉及KKR公司层面的股价及分析师目标价评论。该文章无具体的信贷、贷款或融资角度，但也未与非信贷业务挂钩，因此保留为低重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 43,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.26,
+              "finalScore": 16.259999999999998,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [
@@ -138821,6 +138916,226 @@
               "finalScore": 16.990000000000002,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-04-9a36517ad269",
+            "title": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing - Seoul Economic Daily",
+            "titleZh": "Apollo季度贷款发放额创纪录达1140亿美元，业务拓展至AI芯片融资 - Seoul Economic Daily",
+            "summary": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+            "summaryZh": "Apollo季度贷款发放额创纪录达1140亿美元，业务拓展至AI芯片融资 Seoul Economic Daily",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHhJRDF5YXdSWlgwbXZDU05NdHhxTG5peFlPSFRlakN3ekY3UTFBeUFIcFhGSEpadUlaY29qaHpxUGVaal9wWXRqOFNIUmNyMF91cnR2cXVyMm1fajJzUWxLZENzUlhGYzhnbWdOdUNwMVlUWEJQRHAwbklEbkVUaFhKbVV1cXFpVnVoQ3Vyc1piendkMGM4UE0xSTk2UjU4SGljam9FYW9PQQ?oc=5",
+            "source": "Seoul Economic Daily",
+            "publishedAt": "2026-11-04",
+            "lede": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+            "articleExcerpt": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing - Seoul Economic Daily. Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+            "contentFingerprint": "2427804cb341c524",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Apollo's credit business hit a record $114B in quarterly loan origination and is expanding into AI chip/GPU financing. This is core credit/lending activity and a notable financing milestone.",
+              "llmReasonZh": "Apollo信贷业务季度贷款发放额创下1140亿美元的纪录，并正拓展至AI芯片/GPU融资领域。这属于核心信贷/贷款业务，也是一项值得关注的融资里程碑。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Seoul Economic Daily"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.76,
+              "finalScore": 22.759999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-04-adbb7bbde1fb",
+            "title": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 - Yahoo Finance",
+            "titleZh": "KBRA对MidCap Financial Issuer Trust的5亿美元2029年11月到期优先无担保票据授予评级 - Yahoo Finance",
+            "summary": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+            "summaryZh": "KBRA对MidCap Financial Issuer Trust的5亿美元2029年11月到期优先无担保票据授予评级 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2NFTFR0akgzMnRYb29aZ1Mta0htV1NWSHBMOFlaU1VmeDc2XzlKUXA2NjlDS1JtVVhKWlYyNE1VSnZuQlBZZDQ0RUpiUXpHQS1NOXBMQU5ZVE5KbDhLTldqTzItZko5cklTa2pieXZodXo0dGs1U1liZ29VQk5uOHVYSkxFNlFvN2Ytal9sX1ZOUUtUYUxVVXFDWlpZQVFockYw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-04",
+            "lede": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+            "articleExcerpt": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 - Yahoo Finance. KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+            "contentFingerprint": "bb94af530e62690d",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "MidCap Financial is Apollo's middle-market direct lending platform. MidCap Financial Issuer Trust is a debt-issuing entity for that business. KBRA rated a $500M senior unsecured note issuance, which is ordinary debt financing tied to Apollo's private credit business.",
+              "llmReasonZh": "MidCap Financial是Apollo旗下的中型市场直接贷款平台。MidCap Financial Issuer Trust是该业务的债务发行主体。KBRA对一笔5亿美元的优先无担保票据发行授予评级，这属于与Apollo私募信贷业务相关的常规债务融资。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.48,
+              "finalScore": 20.48,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -140390,6 +140705,101 @@
             "keywordScore": 6,
             "semanticScore": 4.78,
             "finalScore": 10.780000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-0bb60254d346",
+          "title": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo! Finance Canada",
+          "titleZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭小幅下调 - Yahoo! Finance Canada",
+          "summary": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+          "summaryZh": "分析师下调目标价，KKR (KKR) 股票公允价值遭小幅下调 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2YUltbDREODUyTTN3aHcxall3UmxMZzQ5M3B0MjRpQTk1LVRZR3U5LWg2RkdZUUYtZzBFbXhRRW9SandMQ2RNc2twLXpxUzJ2aDRSZktxTUN5N0hWWGlsUVFNT284SWc0Q0ZQSXc0VUM2ZGZiTmoxWHNmVzg?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-04",
+          "lede": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+          "articleExcerpt": "KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets - Yahoo! Finance Canada. KKR (KKR) Stock Gets Fair Value Trim As Analysts Cut Price Targets Yahoo! Finance Canada",
+          "contentFingerprint": "d479a0ac0795fd8e",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock price and analyst price-target commentary on KKR at the firm level. It has no specific credit, lending, or financing angle, but it is not tied to a non-credit business either, so it is kept at low importance.",
+            "llmReasonZh": "涉及KKR公司层面的股价及分析师目标价评论。该文章无具体的信贷、贷款或融资角度，但也未与非信贷业务挂钩，因此保留为低重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 43,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.26,
+            "finalScore": 16.259999999999998,
             "semanticEnabled": true
           }
         },
@@ -142033,6 +142443,226 @@
             "keywordScore": 11,
             "semanticScore": 5.99,
             "finalScore": 16.990000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-9a36517ad269",
+          "title": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing - Seoul Economic Daily",
+          "titleZh": "Apollo季度贷款发放额创纪录达1140亿美元，业务拓展至AI芯片融资 - Seoul Economic Daily",
+          "summary": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+          "summaryZh": "Apollo季度贷款发放额创纪录达1140亿美元，业务拓展至AI芯片融资 Seoul Economic Daily",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHhJRDF5YXdSWlgwbXZDU05NdHhxTG5peFlPSFRlakN3ekY3UTFBeUFIcFhGSEpadUlaY29qaHpxUGVaal9wWXRqOFNIUmNyMF91cnR2cXVyMm1fajJzUWxLZENzUlhGYzhnbWdOdUNwMVlUWEJQRHAwbklEbkVUaFhKbVV1cXFpVnVoQ3Vyc1piendkMGM4UE0xSTk2UjU4SGljam9FYW9PQQ?oc=5",
+          "source": "Seoul Economic Daily",
+          "publishedAt": "2026-11-04",
+          "lede": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+          "articleExcerpt": "Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing - Seoul Economic Daily. Apollo's Quarterly Loan Volume Hits Record $114 Billion as It Expands Into AI Chip Financing Seoul Economic Daily",
+          "contentFingerprint": "2427804cb341c524",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Apollo's credit business hit a record $114B in quarterly loan origination and is expanding into AI chip/GPU financing. This is core credit/lending activity and a notable financing milestone.",
+            "llmReasonZh": "Apollo信贷业务季度贷款发放额创下1140亿美元的纪录，并正拓展至AI芯片/GPU融资领域。这属于核心信贷/贷款业务，也是一项值得关注的融资里程碑。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.85,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Seoul Economic Daily"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.76,
+            "finalScore": 22.759999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-04-adbb7bbde1fb",
+          "title": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 - Yahoo Finance",
+          "titleZh": "KBRA对MidCap Financial Issuer Trust的5亿美元2029年11月到期优先无担保票据授予评级 - Yahoo Finance",
+          "summary": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+          "summaryZh": "KBRA对MidCap Financial Issuer Trust的5亿美元2029年11月到期优先无担保票据授予评级 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2NFTFR0akgzMnRYb29aZ1Mta0htV1NWSHBMOFlaU1VmeDc2XzlKUXA2NjlDS1JtVVhKWlYyNE1VSnZuQlBZZDQ0RUpiUXpHQS1NOXBMQU5ZVE5KbDhLTldqTzItZko5cklTa2pieXZodXo0dGs1U1liZ29VQk5uOHVYSkxFNlFvN2Ytal9sX1ZOUUtUYUxVVXFDWlpZQVFockYw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-04",
+          "lede": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+          "articleExcerpt": "KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 - Yahoo Finance. KBRA Assigns Rating to MidCap Financial Issuer Trust's $500 Million Senior Unsecured Notes due November 2029 Yahoo Finance",
+          "contentFingerprint": "bb94af530e62690d",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "MidCap Financial is Apollo's middle-market direct lending platform. MidCap Financial Issuer Trust is a debt-issuing entity for that business. KBRA rated a $500M senior unsecured note issuance, which is ordinary debt financing tied to Apollo's private credit business.",
+            "llmReasonZh": "MidCap Financial是Apollo旗下的中型市场直接贷款平台。MidCap Financial Issuer Trust是该业务的债务发行主体。KBRA对一笔5亿美元的优先无担保票据发行授予评级，这属于与Apollo私募信贷业务相关的常规债务融资。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 4.48,
+            "finalScore": 20.48,
             "semanticEnabled": true
           }
         },
@@ -145139,6 +145769,120 @@
               "finalScore": 7.88,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-05-8e2fbc0e51d3",
+            "title": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal - Bloomberg.com",
+            "titleZh": "Goldman、Apollo洽谈出售SpaceX 400亿美元AI交易 - Bloomberg.com",
+            "summary": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+            "summaryZh": "Goldman、Apollo洽谈出售SpaceX 400亿美元AI交易 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXh2SlMyd0Z6eHJwTVkyTnJOV09CZGhHWFVEQWg5SXZwbUxGdDBoNzV4WTQyV0Q2V3lSbWd5ZGNWQTNUQ2YtZExEMGVEWEtFTVI2VG4xS0U4VnNpWHVvaUVpT2xRSWtIYUlkb2pUUVp3SEV0NE9TQTBYY28tX004LVlTNlhXejhnUjN0WmVmdEIwTXVRbi1fWTdLMkhPQ043RmNGUGE0UXlaYUhMU2Zj?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-05",
+            "lede": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+            "articleExcerpt": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal - Bloomberg.com. Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+            "contentFingerprint": "0a52b50d9736c566",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Apollo and Goldman are reportedly in talks to sell (syndicate) a $40B financing tied to SpaceX's AI deal. This is a large AI-related debt/financing transaction involving Apollo's credit business, so it is credit-relevant and should not be excluded.",
+              "llmReasonZh": "据报道，Apollo与Goldman正洽谈出售（银团分销）一笔与SpaceX AI交易相关的400亿美元融资。这是一笔涉及Apollo信贷业务的大型AI相关债务/融资交易，与信贷相关，不应排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 91,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 5.01,
+              "finalScore": 17.009999999999998,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -147895,6 +148639,120 @@
           }
         },
         {
+          "id": "2026-11-05-8e2fbc0e51d3",
+          "title": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal - Bloomberg.com",
+          "titleZh": "Goldman、Apollo洽谈出售SpaceX 400亿美元AI交易 - Bloomberg.com",
+          "summary": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+          "summaryZh": "Goldman、Apollo洽谈出售SpaceX 400亿美元AI交易 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXh2SlMyd0Z6eHJwTVkyTnJOV09CZGhHWFVEQWg5SXZwbUxGdDBoNzV4WTQyV0Q2V3lSbWd5ZGNWQTNUQ2YtZExEMGVEWEtFTVI2VG4xS0U4VnNpWHVvaUVpT2xRSWtIYUlkb2pUUVp3SEV0NE9TQTBYY28tX004LVlTNlhXejhnUjN0WmVmdEIwTXVRbi1fWTdLMkhPQ043RmNGUGE0UXlaYUhMU2Zj?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-05",
+          "lede": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+          "articleExcerpt": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal - Bloomberg.com. Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal Bloomberg.com",
+          "contentFingerprint": "0a52b50d9736c566",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Apollo and Goldman are reportedly in talks to sell (syndicate) a $40B financing tied to SpaceX's AI deal. This is a large AI-related debt/financing transaction involving Apollo's credit business, so it is credit-relevant and should not be excluded.",
+            "llmReasonZh": "据报道，Apollo与Goldman正洽谈出售（银团分销）一笔与SpaceX AI交易相关的400亿美元融资。这是一笔涉及Apollo信贷业务的大型AI相关债务/融资交易，与信贷相关，不应排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.9,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 91,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 5.01,
+            "finalScore": 17.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-05-60df52b2f6d6",
           "title": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
           "titleZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
@@ -148218,14 +149076,319 @@
               "finalScore": 22.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-b1e35600f62c",
+            "title": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company - MarketBeat",
+            "titleZh": "Wells Fargo & Company下调Blue Owl Technology Finance（NYSE:OTF）目标价 - MarketBeat",
+            "summary": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+            "summaryZh": "Wells Fargo & Company下调Blue Owl Technology Finance（NYSE:OTF）股票目标价 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSHRCQVdwSW9fallMbHl3MXU5QVM3UTZ0bXBvRFRsYWZrZS1lQU1ncDJkMzBieFNBODZ6UzJ4bkNHdFdQUFZST1ZBcGI1MjhmcXhkTU91a295b2U3WWdLbmR2b1lnQ1M3eGxLcGZFR1Vfc0NacV9hN21ZTWQyYUl0Yy13aWNnd3hWQUhSOUFQWjAzMWFSZHIzZF9tZXVkemNRV1d3Tm4xbm51YVpwZTNORHd4a01pVnJ2T2U1ZE10MGJhdnd1ZHVMTzZ1ZGlrcUJGMjl0ZWI4R0dXMXRR?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-06",
+            "lede": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+            "articleExcerpt": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company - MarketBeat. Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+            "contentFingerprint": "f65573b9c84525d9",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so this is credit-relevant. However, the article is only an analyst price target cut with no financing, fundraising, or legal event, so importance is low.",
+              "llmReasonZh": "Blue Owl Technology Finance（OTF）是Blue Owl旗下的BDC，因此与信贷相关。但该文章仅涉及分析师下调目标价，未涉及融资、募资或法律事件，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.47,
+              "finalScore": 22.47,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [],
-        "CIFC": [],
+        "CIFC": [
+          {
+            "id": "2026-11-06-60a57aca8676",
+            "title": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsRHJhaTFSNkVKT0dLWEhxeDkxOHlNdDlJSXRLYk5QeklnbmhmRGhBWC1TWTZvaVpZN0Q3Z0t4eVFDMTdTamE3dnJyZ2tLWEV4TGFjMi15MzdyVml4WDJRX1NlTQ?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-06",
+            "lede": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "199f22a077886beb",
+            "region": "US",
+            "gps": [
+              "CIFC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CIFC"
+              ],
+              "titleGps": [
+                "CIFC"
+              ],
+              "llmGps": [
+                "CIFC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a Yahoo Finance seasonal returns chart page for the Catalyst/CIFC Senior Secured Income mutual fund. The fund is a CIFC-subadvised senior secured loan fund, so it is credit-relevant. There is no news event, only performance and price data, so importance is low, like stock price commentary. The private-credit tag is approximate, since the fund holds senior secured loans and no strategy fits exactly.",
+              "llmReasonZh": "这是Yahoo Finance上关于Catalyst/CIFC Senior Secured Income共同基金的季节性回报图表页面。该基金是由CIFC担任次级顾问的优先担保贷款基金，因此与信贷相关。页面不涉及新闻事件，仅包含业绩和价格数据，因此重要性较低，类似于股价评论。私募信贷标签为近似归类，因为该基金持有优先担保贷款，且没有完全匹配的策略类别。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CIFC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.12,
+              "finalScore": 21.12,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Pretium": [],
         "Guggenheim": [],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-06-26035722d2a7",
+            "title": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart - Yahoo Finance Australia",
+            "titleZh": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) 季节性回报图表 - Yahoo Finance Australia",
+            "summary": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+            "summaryZh": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) 季节性回报图表 Yahoo Finance Australia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZ0RZUFpza2dlOXh2RjFOd18yOVd3QVJoOXpwU1JBaG1pZENmOFU0NjNTSEJlVlpseXp6Z1h3a3RrenRWSkU0a3MtcEVnOXlUTnZ4SmQwdGhoU2lld3hObWxQRHg0RmlxV0thSXByUXk?oc=5",
+            "source": "Yahoo Finance Australia",
+            "publishedAt": "2026-11-06",
+            "lede": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+            "articleExcerpt": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart - Yahoo Finance Australia. Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+            "contentFingerprint": "e413745fda3a283d",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is an auto-generated Yahoo Finance seasonal returns chart page for a Neuberger Berman emerging-market hard-currency debt fund share class. It is credit-related (EM sovereign/corporate bonds), so it is not excluded. It fits no tracked strategy and involves no event, so it is low-importance performance data comparable to stock-price commentary.",
+              "llmReasonZh": "这是一个由Yahoo Finance自动生成的季节性回报图表页面，涉及Neuberger Berman一只新兴市场硬通货债券基金的某一份额类别。该内容与信用相关（新兴市场主权/公司债券），因此未被排除。但它不符合任何跟踪策略，也不涉及任何事件，因此属于低重要性的业绩数据，与股价评论类内容相当。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Australia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.68,
+              "finalScore": 15.68,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [
           {
@@ -148339,6 +149502,117 @@
               "keywordScore": 17,
               "semanticScore": 5.18,
               "finalScore": 22.18,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-1ea5ce2888dd",
+            "title": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union",
+            "titleZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 - Traders Union",
+            "summary": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "summaryZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TLUJ2VXp1TmtwOE1nSGZlTHZUeXhidW5PZm1XNm9mbkFSWjdIZVF3MUl4bWlVNFlQSFdEMG0xRXZVSGtubTRaVFYwU0VwaDloUWg5RFFJenZCQmNFVVJKUTVnQ01Md2dHRW02ZnV1SQ?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-06",
+            "lede": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "articleExcerpt": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union. Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+            "contentFingerprint": "2bc6aee0e74e6e2d",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, which is credit exposure. The article is only technical analysis of the stock price, so it has low importance and no event types apply.",
+              "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 是 Bain Capital 旗下公开上市的业务发展公司（BDC），属于信贷敞口。该文章仅为股价技术分析，重要性较低，不涉及任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.75,
+              "finalScore": 22.75,
               "semanticEnabled": true
             }
           }
@@ -148880,6 +150154,113 @@
               "finalScore": 22.34,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-9d400d6091f2",
+            "title": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC - MarketBeat",
+            "titleZh": "Choreo LLC减持Blackstone Mortgage Trust, Inc.（$BXMT）股份 - MarketBeat",
+            "summary": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+            "summaryZh": "Choreo LLC减持Blackstone Mortgage Trust, Inc.（$BXMT）股份 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0F5VUdDYkhqUXptZEdrTDRad3J2bXpNVGN3SGVIVkQtREVlSDNWY1RhWWlNOTF6Rjh0LUdzVGhJUVZDSVVCcTB1NXREMWkzU1NXT1hCRjI1d0lIX2NWX3V2OUEzRzNZTDAtTkZiZENNQWhlOU5iSFp3YlZYT0lXeU9XbFcxQ0gydjhhbExiS2ZhQnc4dFJld3VEbXRYWDZTc1czNUVMc05zT3N1TjlUZktfYXpYTzhLX1RyV1B3?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-06",
+            "lede": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+            "articleExcerpt": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC - MarketBeat. Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+            "contentFingerprint": "061fb73a4da596cf",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust (BXMT) is Blackstone's commercial real estate lending REIT, so the subject is credit-relevant. The article is only a MarketBeat note about an institutional holder selling shares, which is stock-trading commentary with no financing, fundraising or legal event.",
+              "llmReasonZh": "Blackstone Mortgage Trust（BXMT）是Blackstone旗下的商业地产贷款REIT，因此该主体与信贷相关。但该文章仅为MarketBeat关于一家机构持有人出售股份的简讯，属于股票交易评论，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.59,
+              "finalScore": 22.59,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [],
@@ -149106,6 +150487,309 @@
           }
         },
         {
+          "id": "2026-11-06-b1e35600f62c",
+          "title": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company - MarketBeat",
+          "titleZh": "Wells Fargo & Company下调Blue Owl Technology Finance（NYSE:OTF）目标价 - MarketBeat",
+          "summary": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+          "summaryZh": "Wells Fargo & Company下调Blue Owl Technology Finance（NYSE:OTF）股票目标价 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSHRCQVdwSW9fallMbHl3MXU5QVM3UTZ0bXBvRFRsYWZrZS1lQU1ncDJkMzBieFNBODZ6UzJ4bkNHdFdQUFZST1ZBcGI1MjhmcXhkTU91a295b2U3WWdLbmR2b1lnQ1M3eGxLcGZFR1Vfc0NacV9hN21ZTWQyYUl0Yy13aWNnd3hWQUhSOUFQWjAzMWFSZHIzZF9tZXVkemNRV1d3Tm4xbm51YVpwZTNORHd4a01pVnJ2T2U1ZE10MGJhdnd1ZHVMTzZ1ZGlrcUJGMjl0ZWI4R0dXMXRR?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-06",
+          "lede": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+          "articleExcerpt": "Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company - MarketBeat. Blue Owl Technology Finance (NYSE:OTF) Stock Price Target Cut by Wells Fargo & Company MarketBeat",
+          "contentFingerprint": "f65573b9c84525d9",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so this is credit-relevant. However, the article is only an analyst price target cut with no financing, fundraising, or legal event, so importance is low.",
+            "llmReasonZh": "Blue Owl Technology Finance（OTF）是Blue Owl旗下的BDC，因此与信贷相关。但该文章仅涉及分析师下调目标价，未涉及融资、募资或法律事件，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.47,
+            "finalScore": 22.47,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-60a57aca8676",
+          "title": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsRHJhaTFSNkVKT0dLWEhxeDkxOHlNdDlJSXRLYk5QeklnbmhmRGhBWC1TWTZvaVpZN0Q3Z0t4eVFDMTdTamE3dnJyZ2tLWEV4TGFjMi15MzdyVml4WDJRX1NlTQ?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-06",
+          "lede": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "199f22a077886beb",
+          "region": "US",
+          "gps": [
+            "CIFC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CIFC"
+            ],
+            "titleGps": [
+              "CIFC"
+            ],
+            "llmGps": [
+              "CIFC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a Yahoo Finance seasonal returns chart page for the Catalyst/CIFC Senior Secured Income mutual fund. The fund is a CIFC-subadvised senior secured loan fund, so it is credit-relevant. There is no news event, only performance and price data, so importance is low, like stock price commentary. The private-credit tag is approximate, since the fund holds senior secured loans and no strategy fits exactly.",
+            "llmReasonZh": "这是Yahoo Finance上关于Catalyst/CIFC Senior Secured Income共同基金的季节性回报图表页面。该基金是由CIFC担任次级顾问的优先担保贷款基金，因此与信贷相关。页面不涉及新闻事件，仅包含业绩和价格数据，因此重要性较低，类似于股价评论。私募信贷标签为近似归类，因为该基金持有优先担保贷款，且没有完全匹配的策略类别。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CIFC"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.12,
+            "finalScore": 21.12,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-26035722d2a7",
+          "title": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart - Yahoo Finance Australia",
+          "titleZh": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) 季节性回报图表 - Yahoo Finance Australia",
+          "summary": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+          "summaryZh": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) 季节性回报图表 Yahoo Finance Australia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZ0RZUFpza2dlOXh2RjFOd18yOVd3QVJoOXpwU1JBaG1pZENmOFU0NjNTSEJlVlpseXp6Z1h3a3RrenRWSkU0a3MtcEVnOXlUTnZ4SmQwdGhoU2lld3hObWxQRHg0RmlxV0thSXByUXk?oc=5",
+          "source": "Yahoo Finance Australia",
+          "publishedAt": "2026-11-06",
+          "lede": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+          "articleExcerpt": "Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart - Yahoo Finance Australia. Neuberger Berman EM Dbt Hard Ccy IJPYAcc (IE00B986HN44.IR) Seasonal returns chart Yahoo Finance Australia",
+          "contentFingerprint": "e413745fda3a283d",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is an auto-generated Yahoo Finance seasonal returns chart page for a Neuberger Berman emerging-market hard-currency debt fund share class. It is credit-related (EM sovereign/corporate bonds), so it is not excluded. It fits no tracked strategy and involves no event, so it is low-importance performance data comparable to stock-price commentary.",
+            "llmReasonZh": "这是一个由Yahoo Finance自动生成的季节性回报图表页面，涉及Neuberger Berman一只新兴市场硬通货债券基金的某一份额类别。该内容与信用相关（新兴市场主权/公司债券），因此未被排除。但它不符合任何跟踪策略，也不涉及任何事件，因此属于低重要性的业绩数据，与股价评论类内容相当。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Australia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.68,
+            "finalScore": 15.68,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-06-a5fd276f6537",
           "title": "Fitch assigns ratings to Bain Capital Credit CLO 2017-2 refinancing notes - Traders Union",
           "titleZh": "惠誉授予Bain Capital Credit CLO 2017-2再融资票据评级 - Traders Union",
@@ -149216,6 +150900,117 @@
             "keywordScore": 17,
             "semanticScore": 5.18,
             "finalScore": 22.18,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-1ea5ce2888dd",
+          "title": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union",
+          "titleZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 - Traders Union",
+          "summary": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "summaryZh": "Bain Capital Specialty Finance (BCSF) 实时技术分析 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TLUJ2VXp1TmtwOE1nSGZlTHZUeXhidW5PZm1XNm9mbkFSWjdIZVF3MUl4bWlVNFlQSFdEMG0xRXZVSGtubTRaVFYwU0VwaDloUWg5RFFJenZCQmNFVVJKUTVnQ01Md2dHRW02ZnV1SQ?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-06",
+          "lede": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "articleExcerpt": "Live Bain Capital Specialty Finance (BCSF) Technical Analysis - Traders Union. Live Bain Capital Specialty Finance (BCSF) Technical Analysis Traders Union",
+          "contentFingerprint": "2bc6aee0e74e6e2d",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, which is credit exposure. The article is only technical analysis of the stock price, so it has low importance and no event types apply.",
+            "llmReasonZh": "Bain Capital Specialty Finance (BCSF) 是 Bain Capital 旗下公开上市的业务发展公司（BDC），属于信贷敞口。该文章仅为股价技术分析，重要性较低，不涉及任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.75,
+            "finalScore": 22.75,
             "semanticEnabled": true
           }
         },
@@ -149755,6 +151550,113 @@
             "finalScore": 22.34,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-06-9d400d6091f2",
+          "title": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC - MarketBeat",
+          "titleZh": "Choreo LLC减持Blackstone Mortgage Trust, Inc.（$BXMT）股份 - MarketBeat",
+          "summary": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+          "summaryZh": "Choreo LLC减持Blackstone Mortgage Trust, Inc.（$BXMT）股份 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0F5VUdDYkhqUXptZEdrTDRad3J2bXpNVGN3SGVIVkQtREVlSDNWY1RhWWlNOTF6Rjh0LUdzVGhJUVZDSVVCcTB1NXREMWkzU1NXT1hCRjI1d0lIX2NWX3V2OUEzRzNZTDAtTkZiZENNQWhlOU5iSFp3YlZYT0lXeU9XbFcxQ0gydjhhbExiS2ZhQnc4dFJld3VEbXRYWDZTc1czNUVMc05zT3N1TjlUZktfYXpYTzhLX1RyV1B3?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-06",
+          "lede": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+          "articleExcerpt": "Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC - MarketBeat. Blackstone Mortgage Trust, Inc. $BXMT Shares Sold by Choreo LLC MarketBeat",
+          "contentFingerprint": "061fb73a4da596cf",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust (BXMT) is Blackstone's commercial real estate lending REIT, so the subject is credit-relevant. The article is only a MarketBeat note about an institutional holder selling shares, which is stock-trading commentary with no financing, fundraising or legal event.",
+            "llmReasonZh": "Blackstone Mortgage Trust（BXMT）是Blackstone旗下的商业地产贷款REIT，因此该主体与信贷相关。但该文章仅为MarketBeat关于一家机构持有人出售股份的简讯，属于股票交易评论，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-06T16:31:39.886738+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.59,
+            "finalScore": 22.59,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -149762,7 +151664,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 62,
+      "count": 66,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -149770,12 +151672,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 73,
+      "count": 87,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -149783,20 +151685,20 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 1,
-      "selected": 1,
+      "count": 2,
+      "selected": 2,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
@@ -149809,25 +151711,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 1,
-      "selected": 0,
+      "selected": 1,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 16,
+      "count": 11,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -149835,12 +151737,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 14,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -149848,7 +151750,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
@@ -149861,12 +151763,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 14,
+      "count": 12,
       "selected": 5,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -149874,12 +151776,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 88,
+      "count": 82,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -149887,12 +151789,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 41,
+      "count": 39,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -149900,7 +151802,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
@@ -149913,12 +151815,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 5,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -149926,12 +151828,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 27,
+      "count": 26,
       "selected": 3,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -149939,12 +151841,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 25,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -149952,12 +151854,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 724,
+      "count": 606,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -149974,9 +151876,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-06T08:50:25.597000+00:00",
+      "asOf": "2026-11-06T16:31:39.886738+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-06T08:50:25.597000+00:00"
+  "checkedAt": "2026-11-06T16:31:39.886738+00:00"
 }
