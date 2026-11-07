@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-06T23:06:01.210419+00:00",
+  "updatedAt": "2026-11-07T02:17:36.050551+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；\"超短期\"基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21381,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -144597,6 +144597,206 @@
               "finalScore": 16.05,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-05-130cb7c8ee78",
+            "title": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) - Seeking Alpha",
+            "titleZh": "FS KKR股价波动：第三季度业绩超预期，NAV表现落后（FSK:NYSE） - Seeking Alpha",
+            "summary": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+            "summaryZh": "FS KKR股价波动：第三季度业绩超预期，NAV表现落后（FSK:NYSE） Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRHN2ozQUR5UkZ5XzdtOTRMQTdfYzU5Wi1YX0FBNHRxM1BZZVlKQ3ptNUQtbTc4bng5TG5pbXVZR0h0UDl0Q3ZmSnhlYWhkVTUyb1l2TkdFcnFrVFZLb0MyNWdCLVFuc3dUenF4QlJ2TFZOWm5YTnhwcmN6ODR5TWZDcEh1WHpncmxPaVktUDM1Zkd2eWZYS0VsOG9xMXRDRXVHMjZmOWVZS2lrRlE?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-05",
+            "lede": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+            "articleExcerpt": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) - Seeking Alpha. FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+            "contentFingerprint": "8284dba74d9913d4",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital (FSK) is a KKR-advised BDC, so this is credit exposure. The article is mainly stock and earnings commentary, but a NAV that lags is a modest credit-quality signal, so importance is set slightly above the stock-commentary level.",
+              "llmReasonZh": "FS KKR Capital（FSK）是由KKR担任顾问的BDC，因此涉及信贷敞口。该文章主要为股价及业绩评论，但NAV表现落后是一个温和的信贷质量信号，因此重要性设定为略高于股价评论类文章的水平。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.93,
+              "finalScore": 12.93,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-4d2938208d96",
+            "title": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com - Investing.com UK",
+            "titleZh": "FS KKR Capital Corp提交8-K表格：11月5日 - Investing.com UK",
+            "summary": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+            "summaryZh": "FS KKR Capital Corp提交8-K表格：11月5日，来源：Investing.com UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmZEUTB5a193YkFsZHlyYW94RG84VGdDVmRReGF0aEZrbWZ3dGlFNW1yQ1BmaDBSdkwyTTFBS1FxQ2FHY0FlbUZ6N3JCX2t6WWFjMks5YXZ1Y1FRVU9MU0xtOWxscUFpUHdjLS04VGJ6bjNiazVCejctUUx2NG1RTndiaERWdVR4WUtVRXRhV1J6aVZjeE5kdkhBaWVjaHQwdWtpNll3?oc=5",
+            "source": "Investing.com UK",
+            "publishedAt": "2026-11-05",
+            "lede": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+            "articleExcerpt": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com - Investing.com UK. Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+            "contentFingerprint": "e3b40f36c4508720",
+            "region": "Europe",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp is a KKR-affiliated BDC (private credit). The article is only a Form 8-K filing notice with no disclosed content. The filing date suggests it may be an earnings or dividend announcement. Routine regulatory filing, so moderate-low importance and no event type confirmed.",
+              "llmReasonZh": "FS KKR Capital Corp是KKR旗下的BDC（私募信贷）。该文章仅为8-K表格提交通知，未披露具体内容。从提交日期看，可能涉及业绩或股息公告。属于常规监管备案，重要性中低，事件类型尚未确认。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com UK"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 5.1,
+              "finalScore": 12.1,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -146119,6 +146319,318 @@
               "finalScore": 17.009999999999998,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-05-1bef70b9cff0",
+            "title": "Goldman, Apollo in talks to sell SpaceX’s AI deal - KLSE Screener",
+            "titleZh": "Goldman、Apollo洽谈出售SpaceX的AI交易 - KLSE Screener",
+            "summary": "Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+            "summaryZh": "Goldman、Apollo洽谈出售SpaceX的AI交易 KLSE Screener",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXBodElYUy1VZTdUVnh0U1YwcVd1N0toXzdBaGRaTkhKQm5nY0ZES3lPWUJ0Nng1Y1hDSVc5V2VxNk1nNkVSb08wRTBvTjJiUUgyWmxva00yYzRMSkNMVDVJLXUtYm9ZMGNlVm5uTUZaM3ZOWEI4cGVYa3lMUkY1a1MxS1RkR3puNElob0t4MVExNzJKTC11N1JTQWNqNFk?oc=5",
+            "source": "KLSE Screener",
+            "publishedAt": "2026-11-05",
+            "lede": "Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+            "articleExcerpt": "Goldman, Apollo in talks to sell SpaceX’s AI deal - KLSE Screener. Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+            "contentFingerprint": "6fa50e556dd7a3b8",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Apollo, alongside Goldman, is reportedly in talks to sell or syndicate a SpaceX AI-related deal. This is likely debt financing for AI infrastructure, which fits Apollo's credit business. The text is limited to the headline, so the credit angle is inferred but probable.",
+              "llmReasonZh": "据报道，Apollo正与Goldman洽谈出售或银团分销一笔与SpaceX AI相关的交易。该交易很可能是用于AI基础设施的债务融资，与Apollo的信贷业务相契合。由于文本仅限于标题，信贷相关性系推断得出，但可能性较大。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KLSE Screener"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.13,
+              "finalScore": 14.129999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-1937b1ddcc6c",
+            "title": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business - Fakti.bg",
+            "titleZh": "Goldman Sachs与Apollo为SpaceX交易寻找买家",
+            "summary": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+            "summaryZh": "Goldman Sachs与Apollo为SpaceX交易寻找买家 ᐉ Fakti.bg商业新闻",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGdPc0lWZDJUQmpxOWVoMF9Ja01xX1l6UWJmT0huWHZkTGhyUUpUWUpCMWFCQU1IMjhsajZuOW5RQWg3dnFwZnRKQzZ0dDRhX0liS0lld1RxMHQ0TS1DWXVNUTc5U0xyd1BGWm0zdkFnRmhmNFFKT2ppTzNrLXNXOFFMZHpta0VHRmo4ektJZC0?oc=5",
+            "source": "Fakti.bg",
+            "publishedAt": "2026-11-05",
+            "lede": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+            "articleExcerpt": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business - Fakti.bg. Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+            "contentFingerprint": "167c50e5fa9d854f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Apollo is working with Goldman Sachs to find buyers for a SpaceX deal. This most likely means syndicating debt financing, which is a credit and lending activity. The article text is very thin, so it is unclear whether the deal is debt or equity. Importance is therefore set slightly below ordinary financing.",
+              "llmReasonZh": "Apollo正与Goldman Sachs合作，为一笔SpaceX交易寻找买家。这很可能意味着对债务融资进行银团分销，属于信贷与放贷活动。由于文章内容极为有限，尚不清楚该交易属于债务还是股权性质，因此其重要性被设定为略低于一般融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Fakti.bg"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.89,
+              "finalScore": 11.89,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-05-97d68725f55d",
+            "title": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) - Seeking Alpha",
+            "titleZh": "Apollo Global Management：优先股与场外交易债券之间的相对价值交易（NYSE:APO）- Seeking Alpha",
+            "summary": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+            "summaryZh": "Apollo Global Management：优先股与场外交易债券之间的相对价值交易（NYSE:APO）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3QwV1RLWU9HNHVnMEg1WnBNMm1wdnV2RVVSQ0ZVR0V4WU9UYnExaHAzSGk3SnJ2Ny1sN2lvYmhXamM3OEtSaEJKanhESUgydTBkU0hYMGRWek5aeThldDdzZjVZOFQ3NE0yMXlTRERpc01NTkZhQmR0ZWJZWjZFLVN6VXJta2dlN0V2LTE1NzVVLVQyM1pLdG96ZFpleXBIUlBxM2k5X0pzNHRoZDJoT2trSXVEZGhGWkJn?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-05",
+            "lede": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+            "articleExcerpt": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) - Seeking Alpha. Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+            "contentFingerprint": "7be9811b343b2d87",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst piece on a relative-value trade between Apollo's own preferred shares and its OTC bonds. This is securities and analyst commentary on Apollo's corporate capital structure, not news about its credit or lending business. It is not a non-credit business story or a name collision, so it is not excluded, but importance is low.",
+              "llmReasonZh": "Seeking Alpha分析师文章，探讨Apollo自身优先股与其场外交易债券之间的相对价值交易。该文属于针对Apollo公司资本结构的证券及分析师评论，而非有关其信贷或贷款业务的新闻。该文既非非信贷业务报道，也不属于名称混淆，因此未被排除，但重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 5.25,
+              "finalScore": 10.25,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -147593,6 +148105,206 @@
           }
         },
         {
+          "id": "2026-11-05-130cb7c8ee78",
+          "title": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) - Seeking Alpha",
+          "titleZh": "FS KKR股价波动：第三季度业绩超预期，NAV表现落后（FSK:NYSE） - Seeking Alpha",
+          "summary": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+          "summaryZh": "FS KKR股价波动：第三季度业绩超预期，NAV表现落后（FSK:NYSE） Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRHN2ozQUR5UkZ5XzdtOTRMQTdfYzU5Wi1YX0FBNHRxM1BZZVlKQ3ptNUQtbTc4bng5TG5pbXVZR0h0UDl0Q3ZmSnhlYWhkVTUyb1l2TkdFcnFrVFZLb0MyNWdCLVFuc3dUenF4QlJ2TFZOWm5YTnhwcmN6ODR5TWZDcEh1WHpncmxPaVktUDM1Zkd2eWZYS0VsOG9xMXRDRXVHMjZmOWVZS2lrRlE?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-05",
+          "lede": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+          "articleExcerpt": "FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) - Seeking Alpha. FS KKR stock shows volatility as Q3 earnings beat expectations, NAV lags (FSK:NYSE) Seeking Alpha",
+          "contentFingerprint": "8284dba74d9913d4",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital (FSK) is a KKR-advised BDC, so this is credit exposure. The article is mainly stock and earnings commentary, but a NAV that lags is a modest credit-quality signal, so importance is set slightly above the stock-commentary level.",
+            "llmReasonZh": "FS KKR Capital（FSK）是由KKR担任顾问的BDC，因此涉及信贷敞口。该文章主要为股价及业绩评论，但NAV表现落后是一个温和的信贷质量信号，因此重要性设定为略高于股价评论类文章的水平。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.93,
+            "finalScore": 12.93,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-4d2938208d96",
+          "title": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com - Investing.com UK",
+          "titleZh": "FS KKR Capital Corp提交8-K表格：11月5日 - Investing.com UK",
+          "summary": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+          "summaryZh": "FS KKR Capital Corp提交8-K表格：11月5日，来源：Investing.com UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmZEUTB5a193YkFsZHlyYW94RG84VGdDVmRReGF0aEZrbWZ3dGlFNW1yQ1BmaDBSdkwyTTFBS1FxQ2FHY0FlbUZ6N3JCX2t6WWFjMks5YXZ1Y1FRVU9MU0xtOWxscUFpUHdjLS04VGJ6bjNiazVCejctUUx2NG1RTndiaERWdVR4WUtVRXRhV1J6aVZjeE5kdkhBaWVjaHQwdWtpNll3?oc=5",
+          "source": "Investing.com UK",
+          "publishedAt": "2026-11-05",
+          "lede": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+          "articleExcerpt": "Form 8K FS KKR Capital Corp For: 5 November By Investing.com - Investing.com UK. Form 8K FS KKR Capital Corp For: 5 November By Investing.com Investing.com UK",
+          "contentFingerprint": "e3b40f36c4508720",
+          "region": "Europe",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp is a KKR-affiliated BDC (private credit). The article is only a Form 8-K filing notice with no disclosed content. The filing date suggests it may be an earnings or dividend announcement. Routine regulatory filing, so moderate-low importance and no event type confirmed.",
+            "llmReasonZh": "FS KKR Capital Corp是KKR旗下的BDC（私募信贷）。该文章仅为8-K表格提交通知，未披露具体内容。从提交日期看，可能涉及业绩或股息公告。属于常规监管备案，重要性中低，事件类型尚未确认。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com UK"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 7,
+            "semanticScore": 5.1,
+            "finalScore": 12.1,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-05-bb6c4f49d322",
           "title": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices - WBIW",
           "titleZh": "总检察长Todd Rokita就欺骗性租赁行为与大型房东达成4850万美元和解 - WBIW",
@@ -148989,6 +149701,318 @@
           }
         },
         {
+          "id": "2026-11-05-1bef70b9cff0",
+          "title": "Goldman, Apollo in talks to sell SpaceX’s AI deal - KLSE Screener",
+          "titleZh": "Goldman、Apollo洽谈出售SpaceX的AI交易 - KLSE Screener",
+          "summary": "Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+          "summaryZh": "Goldman、Apollo洽谈出售SpaceX的AI交易 KLSE Screener",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXBodElYUy1VZTdUVnh0U1YwcVd1N0toXzdBaGRaTkhKQm5nY0ZES3lPWUJ0Nng1Y1hDSVc5V2VxNk1nNkVSb08wRTBvTjJiUUgyWmxva00yYzRMSkNMVDVJLXUtYm9ZMGNlVm5uTUZaM3ZOWEI4cGVYa3lMUkY1a1MxS1RkR3puNElob0t4MVExNzJKTC11N1JTQWNqNFk?oc=5",
+          "source": "KLSE Screener",
+          "publishedAt": "2026-11-05",
+          "lede": "Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+          "articleExcerpt": "Goldman, Apollo in talks to sell SpaceX’s AI deal - KLSE Screener. Goldman, Apollo in talks to sell SpaceX’s AI deal KLSE Screener",
+          "contentFingerprint": "6fa50e556dd7a3b8",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Apollo, alongside Goldman, is reportedly in talks to sell or syndicate a SpaceX AI-related deal. This is likely debt financing for AI infrastructure, which fits Apollo's credit business. The text is limited to the headline, so the credit angle is inferred but probable.",
+            "llmReasonZh": "据报道，Apollo正与Goldman洽谈出售或银团分销一笔与SpaceX AI相关的交易。该交易很可能是用于AI基础设施的债务融资，与Apollo的信贷业务相契合。由于文本仅限于标题，信贷相关性系推断得出，但可能性较大。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KLSE Screener"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.13,
+            "finalScore": 14.129999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-1937b1ddcc6c",
+          "title": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business - Fakti.bg",
+          "titleZh": "Goldman Sachs与Apollo为SpaceX交易寻找买家",
+          "summary": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+          "summaryZh": "Goldman Sachs与Apollo为SpaceX交易寻找买家 ᐉ Fakti.bg商业新闻",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGdPc0lWZDJUQmpxOWVoMF9Ja01xX1l6UWJmT0huWHZkTGhyUUpUWUpCMWFCQU1IMjhsajZuOW5RQWg3dnFwZnRKQzZ0dDRhX0liS0lld1RxMHQ0TS1DWXVNUTc5U0xyd1BGWm0zdkFnRmhmNFFKT2ppTzNrLXNXOFFMZHpta0VHRmo4ektJZC0?oc=5",
+          "source": "Fakti.bg",
+          "publishedAt": "2026-11-05",
+          "lede": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+          "articleExcerpt": "Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business - Fakti.bg. Goldman Sachs and Apollo Seek Buyers for SpaceX Deal ᐉ News from Fakti.bg - Business Fakti.bg",
+          "contentFingerprint": "167c50e5fa9d854f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Apollo is working with Goldman Sachs to find buyers for a SpaceX deal. This most likely means syndicating debt financing, which is a credit and lending activity. The article text is very thin, so it is unclear whether the deal is debt or equity. Importance is therefore set slightly below ordinary financing.",
+            "llmReasonZh": "Apollo正与Goldman Sachs合作，为一笔SpaceX交易寻找买家。这很可能意味着对债务融资进行银团分销，属于信贷与放贷活动。由于文章内容极为有限，尚不清楚该交易属于债务还是股权性质，因此其重要性被设定为略低于一般融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Fakti.bg"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.89,
+            "finalScore": 11.89,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-05-97d68725f55d",
+          "title": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) - Seeking Alpha",
+          "titleZh": "Apollo Global Management：优先股与场外交易债券之间的相对价值交易（NYSE:APO）- Seeking Alpha",
+          "summary": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+          "summaryZh": "Apollo Global Management：优先股与场外交易债券之间的相对价值交易（NYSE:APO）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3QwV1RLWU9HNHVnMEg1WnBNMm1wdnV2RVVSQ0ZVR0V4WU9UYnExaHAzSGk3SnJ2Ny1sN2lvYmhXamM3OEtSaEJKanhESUgydTBkU0hYMGRWek5aeThldDdzZjVZOFQ3NE0yMXlTRERpc01NTkZhQmR0ZWJZWjZFLVN6VXJta2dlN0V2LTE1NzVVLVQyM1pLdG96ZFpleXBIUlBxM2k5X0pzNHRoZDJoT2trSXVEZGhGWkJn?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-05",
+          "lede": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+          "articleExcerpt": "Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) - Seeking Alpha. Apollo Global Management: Relative Value Trade In Preferred Shares Vs. OTC Bonds (NYSE:APO) Seeking Alpha",
+          "contentFingerprint": "7be9811b343b2d87",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst piece on a relative-value trade between Apollo's own preferred shares and its OTC bonds. This is securities and analyst commentary on Apollo's corporate capital structure, not news about its credit or lending business. It is not a non-credit business story or a name collision, so it is not excluded, but importance is low.",
+            "llmReasonZh": "Seeking Alpha分析师文章，探讨Apollo自身优先股与其场外交易债券之间的相对价值交易。该文属于针对Apollo公司资本结构的证券及分析师评论，而非有关其信贷或贷款业务的新闻。该文既非非信贷业务报道，也不属于名称混淆，因此未被排除，但重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 5.25,
+            "finalScore": 10.25,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-05-60df52b2f6d6",
           "title": "CVC Income & Growth Limited (CVCG.L) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
           "titleZh": "CVC Income & Growth Limited (CVCG.L) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
@@ -149413,6 +150437,114 @@
               "keywordScore": 16,
               "semanticScore": 6.47,
               "finalScore": 22.47,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-66b87ea3475b",
+            "title": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review",
+            "titleZh": "Blue Owl Technology Finance Corp. 遭提起证券集体诉讼 - The National Law Review",
+            "summary": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "summaryZh": "Blue Owl Technology Finance Corp. 遭提起证券集体诉讼，The National Law Review",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeU5vaTlCVk8ya3IxWnBDQlMtZlY2SUJVZm1JMG81RmJ4ajFpSzAzMUZIaS1pMGVibkVySFRLQl85RUIzU1RPVUxpUlNXbkJxUTR2al94NE1tdVNrWFVjUWh6SDhONmR3MFg5SUh3WGlqR3I5X2UzbFdVRUZjelhnQ2w1amZNUFhPaHBlSVZTVDJNMGd0NjduOHVGeXBFVXlJQ1c3dkF3TjlUM242aUJycg?oc=5",
+            "source": "The National Law Review",
+            "publishedAt": "2026-11-06",
+            "lede": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "articleExcerpt": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review. Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+            "contentFingerprint": "7d0cc0c05107cd93",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "lawsuit",
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp. is a Blue Owl BDC, which is credit exposure. A securities class action filed against it is litigation that matters to credit investors. Importance is set below 1.0 because the National Law Review source suggests a law-firm investor-alert style notice.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp. 是 Blue Owl 旗下的 BDC，属于信用敞口。针对其提起的证券集体诉讼属于对信用投资者具有重要意义的诉讼事项。由于来源为 The National Law Review，表明该文可能属于律师事务所发布的投资者提示类通告，因此重要性评分设定低于 1.0。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit",
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The National Law Review"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.34,
+              "finalScore": 22.34,
               "semanticEnabled": true
             }
           }
@@ -149937,6 +151069,98 @@
               "keywordScore": 11,
               "semanticScore": 4.68,
               "finalScore": 15.68,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-427cbe4ceee8",
+            "title": "China grants QDII licence to Neuberger Berman Fund Management China - marketscreener.com",
+            "titleZh": "中国向Neuberger Berman Fund Management China授予QDII牌照 - marketscreener.com",
+            "summary": "China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+            "summaryZh": "中国向Neuberger Berman Fund Management China授予QDII牌照 marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUkR2V3B6MEZ1a1ZEWWVXTmEwd3BRSHZMWEF2dFowRUQ0ckR4QkI5bFQyYlg4SHNyMXByOEM0WUU3RkRuMmZuXzZUQzRJYjNqOE5wWW9DbmdRRGNydnVvZ3NrY21WcEJGbVlRbkkyb1IzemVrQjV4MlY5YlBZc0UzQ0NObVpsSzRQblZ4QjhwOGNyOFJQd1RWYXJoWlBGMUg3Q2xhMEg3TExRSkpnTU9hc25hbldVTW0yRG5qag?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-11-06",
+            "lede": "China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+            "articleExcerpt": "China grants QDII licence to Neuberger Berman Fund Management China - marketscreener.com. China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+            "contentFingerprint": "37e017c1ba98d8af",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman's China mutual fund unit received a QDII licence. This is routine regulatory and corporate news about its retail fund management business. There is no specific credit, lending or financing angle, and no fundraising close. It stays relevant only as general manager news about a tracked GP, so importance is low.",
+              "llmReasonZh": "Neuberger Berman旗下中国公募基金子公司获得QDII牌照。此为涉及其零售基金管理业务的常规监管及公司新闻，不涉及具体信贷、贷款或融资内容，亦无募资完成消息。仅作为所跟踪GP的一般性管理人新闻而具有相关性，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.02,
+              "finalScore": 8.02,
               "semanticEnabled": true
             }
           }
@@ -150813,6 +152037,105 @@
               "finalScore": 22.59,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-b8f25514a0a6",
+            "title": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Seeking Alpha",
+            "titleZh": "Blackstone Secured Lending：股息已下调，我的谨慎态度未变（NYSE:BXSL）- Seeking Alpha",
+            "summary": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+            "summaryZh": "Blackstone Secured Lending：股息已下调，我的谨慎态度未变（NYSE:BXSL）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0RMODdnMlhhb0dRZjUyV2xQNERCcXZGVDE1bG04TjBDeUxXdmVKeXY0T0V2clhOMVh6VVotUGp5a25DbXpURzNmRzMxN3NwZ2ZVOGxoUEZ4OXNwbnhLNU5fdFdNUG1EdlZyTFlRS0lUQURaTmFKd0VNMU00RUZsamNkZXlrSENZYVFDRE85TGExNHBIYnhSZjl2Ym9jNnhfcmtZb0J1MGk0NTg?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-06",
+            "lede": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+            "articleExcerpt": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Seeking Alpha. Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+            "contentFingerprint": "9e234237e48a8823",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst commentary on Blackstone Secured Lending (BXSL), Blackstone's credit vehicle (a BDC). It covers a dividend reset and the author's continued caution. This is credit-relevant, so it is not excluded. Opinion pieces normally sit around 0.15, but the dividend cut signals income pressure in a private credit BDC, so importance is raised slightly to 0.3. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "Seeking Alpha分析师对Blackstone旗下信贷投资工具（BDC）Blackstone Secured Lending（BXSL）的评论文章，内容涉及股息下调及作者持续的谨慎态度。该文章与信贷相关，因此未被排除。观点类文章的重要性通常约为0.15，但此次股息削减表明该私募信贷BDC面临收益压力，因此重要性略微上调至0.3。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.05,
+              "finalScore": 22.05,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -150919,6 +152242,104 @@
               "keywordScore": 15,
               "semanticScore": 5.82,
               "finalScore": 20.82,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-be5a1fcc3e33",
+            "title": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade",
+            "titleZh": "Apollo Global数据泄露事件引发Ademi LLP第二起集体诉讼调查 - scanx.trade",
+            "summary": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "summaryZh": "Apollo Global数据泄露事件引发Ademi LLP第二起集体诉讼调查 scanx.trade",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTG1RZ3FkNVlaZ3hXVHJoRWJIb0ItY0tkamdtSmtMQ1FFQWZTendnTEMwYUx6RTRzUFE5enlxVEpyZGJTLThSNGYtQWZtc2t4aF9YVXpOUW1pNVZRVWtka2RHX05GM3pWN1pReVlhSmZnNnppQ2JIMUhJdTBSR1phZ3N0eGJBb1VNbVltQ2twekRqNTVBdWM5SGV0N0Z6TW1UaHlUY0RGVDBfc1RvOUJ6ZkFvQmU2VFlxempqY0x3akE?oc=5",
+            "source": "scanx.trade",
+            "publishedAt": "2026-11-06",
+            "lede": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "articleExcerpt": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade. Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "contentFingerprint": "b9df83b56a94d721",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.1,
+              "llmExclude": false,
+              "llmReason": "A law firm (Ademi LLP) is soliciting for a possible class action over a data breach at Apollo Global. This is firm-wide litigation risk, not tied to a non-credit business, and Apollo's platform is credit-heavy, so it is kept. Importance is low because this is a law-firm investor alert, not a filed suit or ruling, and no specific credit strategy is involved.",
+              "llmReasonZh": "一家律师事务所（Ademi LLP）正就Apollo Global的数据泄露事件征集潜在集体诉讼当事人。这属于公司层面的诉讼风险，并非仅涉及非信贷业务，且Apollo的平台以信贷业务为主，因此予以保留。重要性较低，因为这只是律师事务所发布的投资者提示，并非已提起的诉讼或裁决，且不涉及具体信贷策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.1
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "scanx.trade"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.94,
+              "finalScore": 9.940000000000001,
               "semanticEnabled": true
             }
           }
@@ -151245,6 +152666,114 @@
             "keywordScore": 16,
             "semanticScore": 6.47,
             "finalScore": 22.47,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-66b87ea3475b",
+          "title": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review",
+          "titleZh": "Blue Owl Technology Finance Corp. 遭提起证券集体诉讼 - The National Law Review",
+          "summary": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "summaryZh": "Blue Owl Technology Finance Corp. 遭提起证券集体诉讼，The National Law Review",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeU5vaTlCVk8ya3IxWnBDQlMtZlY2SUJVZm1JMG81RmJ4ajFpSzAzMUZIaS1pMGVibkVySFRLQl85RUIzU1RPVUxpUlNXbkJxUTR2al94NE1tdVNrWFVjUWh6SDhONmR3MFg5SUh3WGlqR3I5X2UzbFdVRUZjelhnQ2w1amZNUFhPaHBlSVZTVDJNMGd0NjduOHVGeXBFVXlJQ1c3dkF3TjlUM242aUJycg?oc=5",
+          "source": "The National Law Review",
+          "publishedAt": "2026-11-06",
+          "lede": "Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "articleExcerpt": "Blue Owl Technology Finance Corp. Securities Class Action Filed o - The National Law Review. Blue Owl Technology Finance Corp. Securities Class Action Filed o The National Law Review",
+          "contentFingerprint": "7d0cc0c05107cd93",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "lawsuit",
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp. is a Blue Owl BDC, which is credit exposure. A securities class action filed against it is litigation that matters to credit investors. Importance is set below 1.0 because the National Law Review source suggests a law-firm investor-alert style notice.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp. 是 Blue Owl 旗下的 BDC，属于信用敞口。针对其提起的证券集体诉讼属于对信用投资者具有重要意义的诉讼事项。由于来源为 The National Law Review，表明该文可能属于律师事务所发布的投资者提示类通告，因此重要性评分设定低于 1.0。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.85,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit",
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The National Law Review"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.34,
+            "finalScore": 22.34,
             "semanticEnabled": true
           }
         },
@@ -151759,6 +153288,98 @@
             "keywordScore": 11,
             "semanticScore": 4.68,
             "finalScore": 15.68,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-427cbe4ceee8",
+          "title": "China grants QDII licence to Neuberger Berman Fund Management China - marketscreener.com",
+          "titleZh": "中国向Neuberger Berman Fund Management China授予QDII牌照 - marketscreener.com",
+          "summary": "China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+          "summaryZh": "中国向Neuberger Berman Fund Management China授予QDII牌照 marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUkR2V3B6MEZ1a1ZEWWVXTmEwd3BRSHZMWEF2dFowRUQ0ckR4QkI5bFQyYlg4SHNyMXByOEM0WUU3RkRuMmZuXzZUQzRJYjNqOE5wWW9DbmdRRGNydnVvZ3NrY21WcEJGbVlRbkkyb1IzemVrQjV4MlY5YlBZc0UzQ0NObVpsSzRQblZ4QjhwOGNyOFJQd1RWYXJoWlBGMUg3Q2xhMEg3TExRSkpnTU9hc25hbldVTW0yRG5qag?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-11-06",
+          "lede": "China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+          "articleExcerpt": "China grants QDII licence to Neuberger Berman Fund Management China - marketscreener.com. China grants QDII licence to Neuberger Berman Fund Management China marketscreener.com",
+          "contentFingerprint": "37e017c1ba98d8af",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman's China mutual fund unit received a QDII licence. This is routine regulatory and corporate news about its retail fund management business. There is no specific credit, lending or financing angle, and no fundraising close. It stays relevant only as general manager news about a tracked GP, so importance is low.",
+            "llmReasonZh": "Neuberger Berman旗下中国公募基金子公司获得QDII牌照。此为涉及其零售基金管理业务的常规监管及公司新闻，不涉及具体信贷、贷款或融资内容，亦无募资完成消息。仅作为所跟踪GP的一般性管理人新闻而具有相关性，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.02,
+            "finalScore": 8.02,
             "semanticEnabled": true
           }
         },
@@ -152632,6 +154253,105 @@
           }
         },
         {
+          "id": "2026-11-06-b8f25514a0a6",
+          "title": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Seeking Alpha",
+          "titleZh": "Blackstone Secured Lending：股息已下调，我的谨慎态度未变（NYSE:BXSL）- Seeking Alpha",
+          "summary": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+          "summaryZh": "Blackstone Secured Lending：股息已下调，我的谨慎态度未变（NYSE:BXSL）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0RMODdnMlhhb0dRZjUyV2xQNERCcXZGVDE1bG04TjBDeUxXdmVKeXY0T0V2clhOMVh6VVotUGp5a25DbXpURzNmRzMxN3NwZ2ZVOGxoUEZ4OXNwbnhLNU5fdFdNUG1EdlZyTFlRS0lUQURaTmFKd0VNMU00RUZsamNkZXlrSENZYVFDRE85TGExNHBIYnhSZjl2Ym9jNnhfcmtZb0J1MGk0NTg?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-06",
+          "lede": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+          "articleExcerpt": "Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Seeking Alpha. Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) Seeking Alpha",
+          "contentFingerprint": "9e234237e48a8823",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst commentary on Blackstone Secured Lending (BXSL), Blackstone's credit vehicle (a BDC). It covers a dividend reset and the author's continued caution. This is credit-relevant, so it is not excluded. Opinion pieces normally sit around 0.15, but the dividend cut signals income pressure in a private credit BDC, so importance is raised slightly to 0.3. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "Seeking Alpha分析师对Blackstone旗下信贷投资工具（BDC）Blackstone Secured Lending（BXSL）的评论文章，内容涉及股息下调及作者持续的谨慎态度。该文章与信贷相关，因此未被排除。观点类文章的重要性通常约为0.15，但此次股息削减表明该私募信贷BDC面临收益压力，因此重要性略微上调至0.3。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.05,
+            "finalScore": 22.05,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-06-03217c447b00",
           "title": "Latham Advises Apollo on European Credit Company Launch - Latham & Watkins LLP",
           "titleZh": "Latham & Watkins LLP为Apollo推出欧洲信贷公司提供法律咨询",
@@ -152736,14 +154456,132 @@
             "finalScore": 20.82,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-06-be5a1fcc3e33",
+          "title": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade",
+          "titleZh": "Apollo Global数据泄露事件引发Ademi LLP第二起集体诉讼调查 - scanx.trade",
+          "summary": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "summaryZh": "Apollo Global数据泄露事件引发Ademi LLP第二起集体诉讼调查 scanx.trade",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTG1RZ3FkNVlaZ3hXVHJoRWJIb0ItY0tkamdtSmtMQ1FFQWZTendnTEMwYUx6RTRzUFE5enlxVEpyZGJTLThSNGYtQWZtc2t4aF9YVXpOUW1pNVZRVWtka2RHX05GM3pWN1pReVlhSmZnNnppQ2JIMUhJdTBSR1phZ3N0eGJBb1VNbVltQ2twekRqNTVBdWM5SGV0N0Z6TW1UaHlUY0RGVDBfc1RvOUJ6ZkFvQmU2VFlxempqY0x3akE?oc=5",
+          "source": "scanx.trade",
+          "publishedAt": "2026-11-06",
+          "lede": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "articleExcerpt": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade. Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "contentFingerprint": "b9df83b56a94d721",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.1,
+            "llmExclude": false,
+            "llmReason": "A law firm (Ademi LLP) is soliciting for a possible class action over a data breach at Apollo Global. This is firm-wide litigation risk, not tied to a non-credit business, and Apollo's platform is credit-heavy, so it is kept. Importance is low because this is a law-firm investor alert, not a filed suit or ruling, and no specific credit strategy is involved.",
+            "llmReasonZh": "一家律师事务所（Ademi LLP）正就Apollo Global的数据泄露事件征集潜在集体诉讼当事人。这属于公司层面的诉讼风险，并非仅涉及非信贷业务，且Apollo的平台以信贷业务为主，因此予以保留。重要性较低，因为这只是律师事务所发布的投资者提示，并非已提起的诉讼或裁决，且不涉及具体信贷策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.55,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.1
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "scanx.trade"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-07T01:29:12.111976+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.94,
+            "finalScore": 9.940000000000001,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-07": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 63,
+      "count": 62,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -152751,12 +154589,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 83,
+      "count": 84,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -152764,25 +154602,25 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
       "count": 2,
-      "selected": 2,
+      "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 9,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -152790,7 +154628,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
@@ -152803,12 +154641,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 9,
+      "count": 8,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -152816,20 +154654,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 12,
-      "selected": 1,
+      "count": 14,
+      "selected": 3,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
@@ -152842,12 +154680,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 10,
+      "count": 9,
       "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -152855,12 +154693,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 82,
+      "count": 85,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -152868,12 +154706,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 41,
+      "count": 43,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -152881,12 +154719,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 11,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -152894,12 +154732,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
+      "count": 3,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -152907,25 +154745,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 24,
-      "selected": 3,
+      "count": 22,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 29,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -152933,12 +154771,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 555,
+      "count": 505,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -152955,9 +154793,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-06T21:55:07.623761+00:00",
+      "asOf": "2026-11-07T01:29:12.111976+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-06T21:55:07.623761+00:00"
+  "checkedAt": "2026-11-07T01:29:12.111976+00:00"
 }
