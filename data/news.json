@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-07T16:05:51.745806+00:00",
+  "updatedAt": "2026-11-07T20:33:03.520500+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8947,7 +8947,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10969,7 +10969,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的背景下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21357,7 +21357,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -21381,7 +21381,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -153221,6 +153221,120 @@
               "finalScore": 9.940000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-56a023b6f65e",
+            "title": "Apollo set to control $75B in AI chips, outspending every neocloud - Dealroom",
+            "titleZh": "Apollo将掌控价值750亿美元的AI芯片，投入规模超过所有新兴云服务商 - Dealroom",
+            "summary": "Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+            "summaryZh": "Apollo将掌控价值750亿美元的AI芯片，投入规模超过所有新兴云服务商 Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblRKQ3M4U0x0TDlQSVdXMzlEN0owVFE1RVB1bW9ieXFyNmlTckUtS1JBejF5eVZvYTlKblpiOEd6T0pxSEtsRFFkUVdPczgwejh5TlpYNlRwSFc5NFdhdVRFRGRPSjZEQmdDX2x0dU15cHhmRTJzYzZ4NWRFbjBraloyYmIwbkNZN2sxRk56ZFBWbXpwOElzR05aa2doZkk?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-11-06",
+            "lede": "Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+            "articleExcerpt": "Apollo set to control $75B in AI chips, outspending every neocloud - Dealroom. Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+            "contentFingerprint": "17b10bfae320e5fc",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "abf",
+              "ai"
+            ],
+            "sectors": [
+              "abf",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "abf",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "The article covers Apollo amassing control of about $75B in AI chips, which likely comes from its GPU and compute financing, an asset-backed credit activity rather than buyout equity. That makes it credit-relevant AI infrastructure financing at large scale. The article text is only a headline, so the exact deal structure is unconfirmed.",
+              "llmReasonZh": "该文章报道Apollo累计掌控约750亿美元的AI芯片，这很可能源自其GPU及算力融资业务，属于资产支持型信贷活动，而非收购类股权投资。因此，这是一项与信贷相关的大规模AI基础设施融资。由于文章正文仅有标题，具体交易结构尚未得到确认。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "abf",
+                    "ai"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Dealroom"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.37,
+              "finalScore": 21.37,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -155736,6 +155850,120 @@
             "finalScore": 9.940000000000001,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-06-56a023b6f65e",
+          "title": "Apollo set to control $75B in AI chips, outspending every neocloud - Dealroom",
+          "titleZh": "Apollo将掌控价值750亿美元的AI芯片，投入规模超过所有新兴云服务商 - Dealroom",
+          "summary": "Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+          "summaryZh": "Apollo将掌控价值750亿美元的AI芯片，投入规模超过所有新兴云服务商 Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblRKQ3M4U0x0TDlQSVdXMzlEN0owVFE1RVB1bW9ieXFyNmlTckUtS1JBejF5eVZvYTlKblpiOEd6T0pxSEtsRFFkUVdPczgwejh5TlpYNlRwSFc5NFdhdVRFRGRPSjZEQmdDX2x0dU15cHhmRTJzYzZ4NWRFbjBraloyYmIwbkNZN2sxRk56ZFBWbXpwOElzR05aa2doZkk?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-11-06",
+          "lede": "Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+          "articleExcerpt": "Apollo set to control $75B in AI chips, outspending every neocloud - Dealroom. Apollo set to control $75B in AI chips, outspending every neocloud Dealroom",
+          "contentFingerprint": "17b10bfae320e5fc",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "abf",
+            "ai"
+          ],
+          "sectors": [
+            "abf",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "abf",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "The article covers Apollo amassing control of about $75B in AI chips, which likely comes from its GPU and compute financing, an asset-backed credit activity rather than buyout equity. That makes it credit-relevant AI infrastructure financing at large scale. The article text is only a headline, so the exact deal structure is unconfirmed.",
+            "llmReasonZh": "该文章报道Apollo累计掌控约750亿美元的AI芯片，这很可能源自其GPU及算力融资业务，属于资产支持型信贷活动，而非收购类股权投资。因此，这是一项与信贷相关的大规模AI基础设施融资。由于文章正文仅有标题，具体交易结构尚未得到确认。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "abf",
+                  "ai"
+                ],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Dealroom"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.37,
+            "finalScore": 21.37,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -155850,7 +156078,216 @@
             }
           }
         ],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-07-964292c8c556",
+            "title": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "KKR Real Estate Finance Trust Inc.（KREF-PA）季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "KKR Real Estate Finance Trust Inc.（KREF-PA）季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYkNybC1sZlRmX1J5YkZHMHhQS0UxelZiVkZjLWtycGZKRV9mWEZaUzM5cTNIc1dzeVcwSmt3WldzUHhLSUt4WF9jWG9PTjNPbUoxaHZhR0c1TUVDT3ZzVmZpMnNpdw?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-07",
+            "lede": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "b46de67e3c6065bf",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so it counts as credit exposure. The item is only a seasonal returns chart page for its preferred stock (KREF-PA), with no news event, which makes it stock-price commentary and low importance.",
+              "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款平台，因此属于信贷敞口。该条目仅为其优先股（KREF-PA）的季节性回报图表页面，并无新闻事件，属于股价评论类内容，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.48,
+              "finalScore": 19.48,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-07-d5298c3b4e3f",
+            "title": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "titleZh": "FS KKR Capital (FSK) 第三季度财报电话会议要点 - Yahoo Finance",
+            "summary": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+            "summaryZh": "FS KKR Capital (FSK) 第三季度财报电话会议要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDRFS1dSel9MQU1lcXJsbjBiclFBcnJ3VEFFYlRCcmMtU0FJQjE2eVIyTHpmV2NELTlRay1aZXRkNDRlT2NoNF9VOHNUUkNwREoxbXZ1ejRDOG9OQm1BbmZuc3huR3FyYmlHWEs4TWRwRTVfU25zdU51ektXbG9kcXN1UU02ZnZXUlBkaTMxVU14Zw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-07",
+            "lede": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+            "articleExcerpt": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call - Yahoo Finance. What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+            "contentFingerprint": "28a9607d877a5399",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital is a KKR-affiliated BDC, so this is credit-related. Its Q3 earnings call is routine manager/BDC news with no specific financing, fundraising or lawsuit event. Earnings calls can show credit quality trends such as non-accruals, NAV and dividends, so it sits above pure stock commentary.",
+              "llmReasonZh": "FS KKR Capital 是一家隶属于 KKR 的 BDC（业务发展公司），因此与信贷相关。其第三季度财报电话会议属于常规的管理人/BDC 新闻，不涉及具体的融资、募资或诉讼事件。财报电话会议可反映信贷质量趋势，如非应计贷款、资产净值（NAV）和股息，因此其相关性高于纯粹的股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.31,
+              "finalScore": 19.31,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [
@@ -156397,6 +156834,214 @@
           }
         },
         {
+          "id": "2026-11-07-964292c8c556",
+          "title": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "KKR Real Estate Finance Trust Inc.（KREF-PA）季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "KKR Real Estate Finance Trust Inc.（KREF-PA）季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYkNybC1sZlRmX1J5YkZHMHhQS0UxelZiVkZjLWtycGZKRV9mWEZaUzM5cTNIc1dzeVcwSmt3WldzUHhLSUt4WF9jWG9PTjNPbUoxaHZhR0c1TUVDT3ZzVmZpMnNpdw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-07",
+          "lede": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "b46de67e3c6065bf",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so it counts as credit exposure. The item is only a seasonal returns chart page for its preferred stock (KREF-PA), with no news event, which makes it stock-price commentary and low importance.",
+            "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款平台，因此属于信贷敞口。该条目仅为其优先股（KREF-PA）的季节性回报图表页面，并无新闻事件，属于股价评论类内容，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.48,
+            "finalScore": 19.48,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-d5298c3b4e3f",
+          "title": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call - Yahoo Finance",
+          "titleZh": "FS KKR Capital (FSK) 第三季度财报电话会议要点 - Yahoo Finance",
+          "summary": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+          "summaryZh": "FS KKR Capital (FSK) 第三季度财报电话会议要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDRFS1dSel9MQU1lcXJsbjBiclFBcnJ3VEFFYlRCcmMtU0FJQjE2eVIyTHpmV2NELTlRay1aZXRkNDRlT2NoNF9VOHNUUkNwREoxbXZ1ejRDOG9OQm1BbmZuc3huR3FyYmlHWEs4TWRwRTVfU25zdU51ektXbG9kcXN1UU02ZnZXUlBkaTMxVU14Zw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-07",
+          "lede": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+          "articleExcerpt": "What FS KKR Capital (FSK) Said on Its Q3 Earnings Call - Yahoo Finance. What FS KKR Capital (FSK) Said on Its Q3 Earnings Call Yahoo Finance",
+          "contentFingerprint": "28a9607d877a5399",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital is a KKR-affiliated BDC, so this is credit-related. Its Q3 earnings call is routine manager/BDC news with no specific financing, fundraising or lawsuit event. Earnings calls can show credit quality trends such as non-accruals, NAV and dividends, so it sits above pure stock commentary.",
+            "llmReasonZh": "FS KKR Capital 是一家隶属于 KKR 的 BDC（业务发展公司），因此与信贷相关。其第三季度财报电话会议属于常规的管理人/BDC 新闻，不涉及具体的融资、募资或诉讼事件。财报电话会议可反映信贷质量趋势，如非应计贷款、资产净值（NAV）和股息，因此其相关性高于纯粹的股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-07T19:46:23.388119+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.31,
+            "finalScore": 19.31,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-07-27662ad34975",
           "title": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices - HousingWire",
           "titleZh": "Progress Residential将支付$49.8M，就租赁行为与FTC及州政府达成和解 - HousingWire",
@@ -156821,7 +157466,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 55,
+      "count": 52,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -156829,12 +157474,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 76,
+      "count": 70,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -156842,7 +157487,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
@@ -156855,7 +157500,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
@@ -156868,25 +157513,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 3,
-      "selected": 2,
+      "count": 5,
+      "selected": 1,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 9,
+      "count": 10,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -156894,12 +157539,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 13,
+      "count": 12,
       "selected": 3,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -156907,7 +157552,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
@@ -156920,12 +157565,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 7,
+      "count": 8,
       "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -156933,12 +157578,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 72,
+      "count": 60,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -156946,12 +157591,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 37,
+      "count": 33,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -156959,12 +157604,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 11,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -156972,12 +157617,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
+      "count": 2,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -156985,12 +157630,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 15,
+      "count": 10,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -156998,7 +157643,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
@@ -157011,12 +157656,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 436,
+      "count": 434,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -157033,9 +157678,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-07T15:18:17.836434+00:00",
+      "asOf": "2026-11-07T19:46:23.388119+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-07T15:18:17.836434+00:00"
+  "checkedAt": "2026-11-07T19:46:23.388119+00:00"
 }
