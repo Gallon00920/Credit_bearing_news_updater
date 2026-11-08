@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-08T11:29:08.043092+00:00",
+  "updatedAt": "2026-11-08T17:30:27.708686+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8579,7 +8579,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10601,7 +10601,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归入更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -21013,7 +21013,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为主的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -151573,6 +151573,198 @@
               "finalScore": 11.26,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-ea0fc6bf0b12",
+            "title": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St - GuruFocus",
+            "titleZh": "FS KKR Capital Corp (FSK) 2026年第三季度业绩电话会要点：St - GuruFocus",
+            "summary": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+            "summaryZh": "FS KKR Capital Corp (FSK) 2026年第三季度业绩电话会要点：St GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaUVNRnNFZTJWdUlORUlKajNVWFMwdjhJRHNHN2Y2dWdHOGpSeVpQQjk3Rl9iNm96SEsyNjZZa3lhSHlJT1M3YnNyWFJLQ19ka2dDOTJCalo3YWF2WkZDUWNXTlowRE43bE83LWJJOHRFYmZnNEVBS2FNTkpKUTE5WkpBMk9PUjJPRlRCUElvUXhBZHNoa0czUEExTmo0Tm5TRmM4aG9XeEUtZ29nblRod0FoZG1ySVpFUFBHeGZnMG1WRUJ6RGRaT3I2Sjl3Y1dKYkktZlI0aDVoajlmTG9OUlVxeV9BcjZzTmZRdDhzSQ?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-06",
+            "lede": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+            "articleExcerpt": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St - GuruFocus. FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+            "contentFingerprint": "65b75666be029f85",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp is a BDC co-managed by KKR's credit business, so this is credit-relevant. It is an earnings call highlights summary, which is routine manager news rather than a financing, fundraising or litigation event. The snippet gives no detail, so importance is set moderately.",
+              "llmReasonZh": "FS KKR Capital Corp 是由 KKR 信贷业务共同管理的 BDC，因此与信贷相关。本文为业绩电话会要点摘要，属于常规管理人新闻，而非融资、募资或诉讼事件。摘要未提供具体细节，因此重要性设为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.02,
+              "finalScore": 11.02,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-301894edc948",
+            "title": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock - TradingView",
+            "titleZh": "KKR第三季度财报即将发布：股票前瞻 - TradingView",
+            "summary": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+            "summaryZh": "KKR第三季度财报即将发布：股票前瞻 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVBzdEJnbHNBSGlpRkNsMEdBUWRFMGtPSHZ6WDZpcnZNRVhDV0ZGWEEzNWxkVnJXbjZBUFpJcS1pQW84b3hfbzhUampLVmJteUhRVlJSQ1hnNy00S1lNWFZNa283U245M0hWVU1HUDhEOHdKTVl0WDVEaEJFcGpod0J1LW40T1plZzFFU21pZFVmRkYxaHhlVThoY1otdUdYSmZDbklHNzlsUFllV0M1Sy11bXpocmJUVGFjaQ?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-06",
+            "lede": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+            "articleExcerpt": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock - TradingView. KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+            "contentFingerprint": "c10e7d8679755710",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a stock earnings preview for KKR, which counts as stock/analyst commentary. It has no specific credit, lending, or financing content, so it gets low importance. It is not excluded because it is firm-level KKR news rather than news about a non-credit business.",
+              "llmReasonZh": "这是一篇关于KKR的股票财报前瞻，属于股票/分析师评论。文章不涉及具体的信贷、放贷或融资内容，因此重要性较低。由于这是关于KKR公司层面的新闻，而非非信贷业务相关新闻，因此未被排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.65,
+              "finalScore": 7.65,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [
@@ -151977,6 +152169,102 @@
               "keywordScore": 3,
               "semanticScore": 5.02,
               "finalScore": 8.02,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-06-71eef2664ff2",
+            "title": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Sbm0zQ1ZGTTNfWHdkWjdrQTFsZ3RPUDJHX1BFUW1zOTVOcHJndm1MWXFMTllJbXMxTVphdUZabVRpT1dQeXlwUEtQUUJ5bE5ET0Vhc3Q3LWUyZm1aQ2VDUA?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-06",
+            "lede": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart - Yahoo Finance UK. Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "9fb336553e231a2c",
+            "region": "Europe",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance seasonal returns chart page for Neuberger's municipal bond closed-end fund (NBH). Muni bonds are fixed income under Neuberger's credit business, but no tracked strategy fits. This is stock price data with no news or events, so it is low importance.",
+              "llmReasonZh": "Yahoo Finance关于Neuberger旗下市政债券封闭式基金(NBH)的季节性回报图表页面。市政债券属于Neuberger信贷业务下的固定收益产品，但不符合任何跟踪策略。该页面仅为股价数据，无新闻或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 5.46,
+              "finalScore": 17.46,
               "semanticEnabled": true
             }
           }
@@ -153483,6 +153771,124 @@
               "finalScore": 24.37,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-06-41c7d361d32c",
+            "title": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal - Tekedia",
+            "titleZh": "Goldman Sachs与Apollo为400亿美元SpaceX AI芯片融资交易寻找投资者 - Tekedia",
+            "summary": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+            "summaryZh": "Goldman Sachs与Apollo为400亿美元SpaceX AI芯片融资交易寻找投资者 Tekedia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXd6cmVPYVRtYU1rVVI2dWxFN1BBbGRidGdJOXJGWXR0VlNNTmJubENYUWh1Qk9wdnNIRzRyX1VMbHBYOTdfR0NxWjZxSW9xNjhJTFcyRDVaOS02cjhsR0gyVjdhTGdOeUJmN0hpQWpkWlcwaG5MYmRybXVId0IzaXRVaDd1YzA5X0FNUGtQUkVzWGlVNGdUSlRmUFlsbU9KSmY5M0dYeXk?oc=5",
+            "source": "Tekedia",
+            "publishedAt": "2026-11-06",
+            "lede": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+            "articleExcerpt": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal - Tekedia. Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+            "contentFingerprint": "ffc9475099d6b39f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "abf",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Apollo is co-arranging and syndicating a $40B financing tied to SpaceX AI chips. This is a large private credit / asset-backed GPU financing deal, which falls within Apollo's credit business.",
+              "llmReasonZh": "Apollo正在联合安排并银团分销一笔与SpaceX AI芯片相关的400亿美元融资。这是一笔大型私募信贷/GPU资产支持融资交易，属于Apollo信贷业务范畴。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf",
+                    "ai"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Tekedia"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.13,
+              "finalScore": 26.13,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -154529,6 +154935,198 @@
           }
         },
         {
+          "id": "2026-11-06-ea0fc6bf0b12",
+          "title": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St - GuruFocus",
+          "titleZh": "FS KKR Capital Corp (FSK) 2026年第三季度业绩电话会要点：St - GuruFocus",
+          "summary": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+          "summaryZh": "FS KKR Capital Corp (FSK) 2026年第三季度业绩电话会要点：St GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaUVNRnNFZTJWdUlORUlKajNVWFMwdjhJRHNHN2Y2dWdHOGpSeVpQQjk3Rl9iNm96SEsyNjZZa3lhSHlJT1M3YnNyWFJLQ19ka2dDOTJCalo3YWF2WkZDUWNXTlowRE43bE83LWJJOHRFYmZnNEVBS2FNTkpKUTE5WkpBMk9PUjJPRlRCUElvUXhBZHNoa0czUEExTmo0Tm5TRmM4aG9XeEUtZ29nblRod0FoZG1ySVpFUFBHeGZnMG1WRUJ6RGRaT3I2Sjl3Y1dKYkktZlI0aDVoajlmTG9OUlVxeV9BcjZzTmZRdDhzSQ?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-06",
+          "lede": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+          "articleExcerpt": "FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St - GuruFocus. FS KKR Capital Corp (FSK) (Q3 2026) Earnings Call Highlights: St GuruFocus",
+          "contentFingerprint": "65b75666be029f85",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp is a BDC co-managed by KKR's credit business, so this is credit-relevant. It is an earnings call highlights summary, which is routine manager news rather than a financing, fundraising or litigation event. The snippet gives no detail, so importance is set moderately.",
+            "llmReasonZh": "FS KKR Capital Corp 是由 KKR 信贷业务共同管理的 BDC，因此与信贷相关。本文为业绩电话会要点摘要，属于常规管理人新闻，而非融资、募资或诉讼事件。摘要未提供具体细节，因此重要性设为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.02,
+            "finalScore": 11.02,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-301894edc948",
+          "title": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock - TradingView",
+          "titleZh": "KKR第三季度财报即将发布：股票前瞻 - TradingView",
+          "summary": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+          "summaryZh": "KKR第三季度财报即将发布：股票前瞻 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVBzdEJnbHNBSGlpRkNsMEdBUWRFMGtPSHZ6WDZpcnZNRVhDV0ZGWEEzNWxkVnJXbjZBUFpJcS1pQW84b3hfbzhUampLVmJteUhRVlJSQ1hnNy00S1lNWFZNa283U245M0hWVU1HUDhEOHdKTVl0WDVEaEJFcGpod0J1LW40T1plZzFFU21pZFVmRkYxaHhlVThoY1otdUdYSmZDbklHNzlsUFllV0M1Sy11bXpocmJUVGFjaQ?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-06",
+          "lede": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+          "articleExcerpt": "KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock - TradingView. KKR's Q3 Earnings Coming Up: Here's What to Expect From the Stock TradingView",
+          "contentFingerprint": "c10e7d8679755710",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a stock earnings preview for KKR, which counts as stock/analyst commentary. It has no specific credit, lending, or financing content, so it gets low importance. It is not excluded because it is firm-level KKR news rather than news about a non-credit business.",
+            "llmReasonZh": "这是一篇关于KKR的股票财报前瞻，属于股票/分析师评论。文章不涉及具体的信贷、放贷或融资内容，因此重要性较低。由于这是关于KKR公司层面的新闻，而非非信贷业务相关新闻，因此未被排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.65,
+            "finalScore": 7.65,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-06-60a57aca8676",
           "title": "Catalyst/CIFC Senior Secured Income C (CFRCX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
           "titleZh": "Catalyst/CIFC Senior Secured Income C (CFRCX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
@@ -154923,6 +155521,102 @@
             "keywordScore": 3,
             "semanticScore": 5.02,
             "finalScore": 8.02,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-71eef2664ff2",
+          "title": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Sbm0zQ1ZGTTNfWHdkWjdrQTFsZ3RPUDJHX1BFUW1zOTVOcHJndm1MWXFMTllJbXMxTVphdUZabVRpT1dQeXlwUEtQUUJ5bE5ET0Vhc3Q3LWUyZm1aQ2VDUA?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-06",
+          "lede": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart - Yahoo Finance UK. Neuberger Berman Income Funds - Neuberger Municipal Fund Inc. (NBH) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "9fb336553e231a2c",
+          "region": "Europe",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance seasonal returns chart page for Neuberger's municipal bond closed-end fund (NBH). Muni bonds are fixed income under Neuberger's credit business, but no tracked strategy fits. This is stock price data with no news or events, so it is low importance.",
+            "llmReasonZh": "Yahoo Finance关于Neuberger旗下市政债券封闭式基金(NBH)的季节性回报图表页面。市政债券属于Neuberger信贷业务下的固定收益产品，但不符合任何跟踪策略。该页面仅为股价数据，无新闻或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 5.46,
+            "finalScore": 17.46,
             "semanticEnabled": true
           }
         },
@@ -156420,6 +157114,124 @@
             "keywordScore": 20,
             "semanticScore": 4.37,
             "finalScore": 24.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-06-41c7d361d32c",
+          "title": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal - Tekedia",
+          "titleZh": "Goldman Sachs与Apollo为400亿美元SpaceX AI芯片融资交易寻找投资者 - Tekedia",
+          "summary": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+          "summaryZh": "Goldman Sachs与Apollo为400亿美元SpaceX AI芯片融资交易寻找投资者 Tekedia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXd6cmVPYVRtYU1rVVI2dWxFN1BBbGRidGdJOXJGWXR0VlNNTmJubENYUWh1Qk9wdnNIRzRyX1VMbHBYOTdfR0NxWjZxSW9xNjhJTFcyRDVaOS02cjhsR0gyVjdhTGdOeUJmN0hpQWpkWlcwaG5MYmRybXVId0IzaXRVaDd1YzA5X0FNUGtQUkVzWGlVNGdUSlRmUFlsbU9KSmY5M0dYeXk?oc=5",
+          "source": "Tekedia",
+          "publishedAt": "2026-11-06",
+          "lede": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+          "articleExcerpt": "Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal - Tekedia. Goldman Sachs, Apollo Seek Investors for $40 Billion SpaceX AI Chip Financing Deal Tekedia",
+          "contentFingerprint": "ffc9475099d6b39f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "abf",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Apollo is co-arranging and syndicating a $40B financing tied to SpaceX AI chips. This is a large private credit / asset-backed GPU financing deal, which falls within Apollo's credit business.",
+            "llmReasonZh": "Apollo正在联合安排并银团分销一笔与SpaceX AI芯片相关的400亿美元融资。这是一笔大型私募信贷/GPU资产支持融资交易，属于Apollo信贷业务范畴。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf",
+                  "ai"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Tekedia"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-08T16:53:28.941216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.13,
+            "finalScore": 26.13,
             "semanticEnabled": true
           }
         }
@@ -160027,7 +160839,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 50,
+      "count": 44,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -160035,12 +160847,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 66,
+      "count": 47,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -160048,7 +160860,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160061,7 +160873,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160074,7 +160886,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160087,12 +160899,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -160100,7 +160912,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160113,7 +160925,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160126,12 +160938,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 8,
+      "count": 10,
       "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -160139,12 +160951,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 54,
+      "count": 46,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -160152,12 +160964,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 31,
+      "count": 32,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -160165,7 +160977,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160178,7 +160990,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160191,7 +161003,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
@@ -160204,12 +161016,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 29,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -160217,12 +161029,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 400,
+      "count": 416,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -160239,9 +161051,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-08T10:56:01.647385+00:00",
+      "asOf": "2026-11-08T16:53:28.941216+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-08T10:56:01.647385+00:00"
+  "checkedAt": "2026-11-08T16:53:28.941216+00:00"
 }
