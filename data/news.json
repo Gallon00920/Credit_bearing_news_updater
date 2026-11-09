@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-08T21:32:44.715597+00:00",
+  "updatedAt": "2026-11-09T00:39:06.243776+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,218 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-11": {
-      "byGp": {
-        "Blue Owl": [
-          {
-            "id": "2026-08-11-e3f381e97d15",
-            "title": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines - Bloomberg.com",
-            "titleZh": "Blue Owl拟发行5亿美元债券以偿还信贷额度 - Bloomberg.com",
-            "summary": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-            "summaryZh": "Blue Owl拟发行5亿美元债券以偿还信贷额度 Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0Vxa1BLam1XenF4bDRjVlJfa245RFRnTUFPajl4VTdhcGJMbHoxVmRESWQ1VUpwdzVDMjBCZjJEbGItTXg2YzFPOENTbzNwR28ySjZ3VnFLTWhueFlhNGtwMUxWN2lWNm5zbHE2bWNOUXRRQ3dxTEhMMDRUYnVzb242ckhWMHZ4OTZteTExZlpiQ0xlaFlpcjZadjJ2VlFQa1Fsck42eEZQWXpyVjJJMA?oc=5",
-            "source": "Bloomberg.com",
-            "publishedAt": "2026-08-11",
-            "lede": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-            "articleExcerpt": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines - Bloomberg.com. Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-            "region": "Global",
-            "gps": [
-              "Blue Owl"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "Blue Owl"
-              ],
-              "llmGps": [
-                "Blue Owl"
-              ],
-              "keywordSectors": [],
-              "llmSectors": [
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "The article describes Blue Owl issuing bonds to pay down credit lines — a financing activity directly tied to its credit business operations, consistent with its private credit/direct lending strategy.",
-              "llmReasonZh": "该文章报道了Blue Owl发行债券以偿还信贷额度，这一融资活动与其信贷业务运营直接相关，符合其私募信贷/直接贷款策略。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 17,
-              "semanticScore": 7.01,
-              "finalScore": 24.009999999999998,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.59,
-                  "code": "body_strategy",
-                  "tagValue": 0.6,
-                  "strategies": [
-                    "private-credit"
-                  ],
-                  "semanticValue": 0.58
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 1.0,
-                  "code": "tier_top",
-                  "source": "Bloomberg.com"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 83,
-              "retrievedAt": "2026-10-29T09:02:01.309686+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-11-e3f381e97d15",
-          "title": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines - Bloomberg.com",
-          "titleZh": "Blue Owl拟发行5亿美元债券以偿还信贷额度 - Bloomberg.com",
-          "summary": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-          "summaryZh": "Blue Owl拟发行5亿美元债券以偿还信贷额度 Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0Vxa1BLam1XenF4bDRjVlJfa245RFRnTUFPajl4VTdhcGJMbHoxVmRESWQ1VUpwdzVDMjBCZjJEbGItTXg2YzFPOENTbzNwR28ySjZ3VnFLTWhueFlhNGtwMUxWN2lWNm5zbHE2bWNOUXRRQ3dxTEhMMDRUYnVzb242ckhWMHZ4OTZteTExZlpiQ0xlaFlpcjZadjJ2VlFQa1Fsck42eEZQWXpyVjJJMA?oc=5",
-          "source": "Bloomberg.com",
-          "publishedAt": "2026-08-11",
-          "lede": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-          "articleExcerpt": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines - Bloomberg.com. Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines Bloomberg.com",
-          "region": "Global",
-          "gps": [
-            "Blue Owl"
-          ],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "Blue Owl"
-            ],
-            "llmGps": [
-              "Blue Owl"
-            ],
-            "keywordSectors": [],
-            "llmSectors": [
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "The article describes Blue Owl issuing bonds to pay down credit lines — a financing activity directly tied to its credit business operations, consistent with its private credit/direct lending strategy.",
-            "llmReasonZh": "该文章报道了Blue Owl发行债券以偿还信贷额度，这一融资活动与其信贷业务运营直接相关，符合其私募信贷/直接贷款策略。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 17,
-            "semanticScore": 7.01,
-            "finalScore": 24.009999999999998,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Blue Owl"
-                ]
-              },
-              "strategy": {
-                "value": 0.59,
-                "code": "body_strategy",
-                "tagValue": 0.6,
-                "strategies": [
-                  "private-credit"
-                ],
-                "semanticValue": 0.58
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 1.0,
-                "code": "tier_top",
-                "source": "Bloomberg.com"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 83,
-            "retrievedAt": "2026-10-29T09:02:01.309686+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-17": {
       "byGp": {
         "Blue Owl": [
@@ -8579,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10601,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于广义私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20989,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -21013,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -157768,6 +157556,321 @@
               "finalScore": 25.740000000000002,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-07-4896b9385607",
+            "title": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "titleZh": "Blue Owl Capital (OBDC) 第三季度财报电话会议要点 - Yahoo Finance",
+            "summary": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+            "summaryZh": "Blue Owl Capital (OBDC) 第三季度财报电话会议要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGRFNS1Ebk1tZWZoMEVqZTIwU09YVmdBRGRUdnJVTE5jb0d4N0ZxQUJJb0ZVU0ktMk5oN2txa0h1ck9aMVJ3b3Z5MmEyYk1NdEhkNUxpNzkyamZlVEpJYW5GTlZLUjB1c0NGMUl0TC1la2M0SEN5Y3YzUGs5RDBqLTVUd2FLZFRYb2JzNlphTnhiaEFxVUE?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-07",
+            "lede": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+            "articleExcerpt": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call - Yahoo Finance. What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+            "contentFingerprint": "b4bcee3449624b64",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Earnings-call recap for Blue Owl Capital Corp (OBDC), Blue Owl's flagship BDC. That is credit-relevant routine manager news. The text gives no details of defaults, financings or fundraising, so no event type applies.",
+              "llmReasonZh": "Blue Owl旗舰BDC Blue Owl Capital Corp (OBDC) 的财报电话会议回顾，属于与信贷相关的常规管理人新闻。文中未提供违约、融资或募资的具体信息，因此不适用任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.6,
+              "finalScore": 20.6,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-07-a22d59e74c72",
+            "title": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC - MarketBeat",
+            "titleZh": "Bayshore Capital Advisors LLC出售104,000股Blue Owl Capital Corporation $OBDC股票 - MarketBeat",
+            "summary": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+            "summaryZh": "Bayshore Capital Advisors LLC出售104,000股Blue Owl Capital Corporation $OBDC股票 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3R2bjg4dWJ6ZkNfemxxaFN6S2pOU0NETWZmYm1YNFNJMUlkdUpyWTdYbnRmNHVlclp1NzZpZ1Q4ZUFNb2dycnRBYndvVmZ2bjJxZlRyNUM2RUxMSzNMTDlCWEk4cEtkcGZDdnJCOWlCYTlnZ3NPYlpFX3daX01IbDAtNHJNekxzelVrWDNJY1JoQndzWGhFUHcxUU42LWpQbVEwaVlncl9XOUxXMk4xZVY4LWhDMlBVYWxLS09NR1JhTVNZd3hSX1VPRFI3b0VKZFc1aS1STFA0VzlIbmNVcA?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-07",
+            "lede": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+            "articleExcerpt": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC - MarketBeat. Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+            "contentFingerprint": "7cb51b95f1c64998",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "MarketBeat filing-tracker item about an institutional holder trimming its stake in Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, which is a private-credit vehicle. This is routine stock-holding commentary with no financing, fundraising, or legal event, so importance is low.",
+              "llmReasonZh": "MarketBeat持仓申报追踪条目，涉及一家机构持有人减持Blue Owl Capital Corporation（OBDC）股份。OBDC为Blue Owl旗下公开交易的BDC（商业发展公司），属于私募信贷投资载体。此为常规持股动态，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.55,
+              "finalScore": 20.55,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-07-a8798406c438",
+            "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "titleZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 - Yahoo Finance",
+            "summary": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+            "summaryZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck10Njh5UFVLMWpVdDRVNE5ZdlNQN0JxeWVWMTRFOHNjWHBiX0FNZ0dPSVE3WU9jdFF2Z3EtY2k0VnViNUF6WVNRRkt6aXdnX0JBY1A3X0R2d0I5RXMwS0N2bzBTYk1tdVFEVWFHbVFkY3R0SFQyQjQ5NGZ0a05aQ2cwM0o4UmhyZDMxUUFaNVVoMUlBQXhmREJDX3M?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-07",
+            "lede": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+            "articleExcerpt": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - Yahoo Finance. What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+            "contentFingerprint": "1f1f7d9b1ae689af",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so this is credit-relevant. The article covers routine Q3 earnings call commentary with no specific financing, fundraising or litigation event.",
+              "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下的BDC（商业发展公司），因此与信贷相关。该文章涉及第三季度财报电话会议的常规表态，未涉及具体的融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.03,
+              "finalScore": 20.03,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -158288,6 +158391,108 @@
               "finalScore": 8.870000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-07-0e5408c5b6ad",
+            "title": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices - am1050.com",
+            "titleZh": "总检察长Todd Rokita就欺骗性租赁行为与大型房东达成4850万美元和解 - am1050.com",
+            "summary": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+            "summaryZh": "总检察长Todd Rokita就欺骗性租赁行为与大型房东达成4850万美元和解 am1050.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXI2Z0FyZE9ibFYtamNmSXRJSHptRGFjUUNXVU56RE5HVFdFOE1SZ2RCYmswNW5MMUlaTjBsRWlObU5kM1R3NUtaVW84N2M3WllpV21vUTFiYk1DMGl5aWYzZTFtQkJBd1phSmxMRHg3ckRhSG9MaUMtNnVPOGFjTW0xLUNQekVObmVyVjc3a1ZlcXpVa3RhUFNQUldyWmluUThUSkFQQnRWWExvZmxnTWpDWXJvX1hiMTE2MEl6b0dOOEJzMmU3eVRXTHF5TlNtSGVuWFV0Q1h2ZXM4QlpKSkVmQjAwNElHSVVTU2ZORFA?oc=5",
+            "source": "am1050.com",
+            "publishedAt": "2026-11-07",
+            "lede": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+            "articleExcerpt": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices - am1050.com. Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+            "contentFingerprint": "748f665f6b60d857",
+            "region": "US",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Indiana AG $48.5M settlement with a 'major landlord' over deceptive rental practices. This is likely Pretium's Progress Residential single-family rental platform, though the text does not name the landlord. It is a regulatory enforcement matter in SFR, a tracked strategy. Importance is lowered because the GP is not confirmed in the text and the exposure is to the operating platform rather than a direct credit vehicle.",
+              "llmReasonZh": "印第安纳州总检察长就欺骗性租赁行为与一家“大型房东”达成4850万美元和解。该房东可能是Pretium旗下的Progress Residential独栋住宅租赁平台，但文中未披露房东名称。此事属于独栋住宅租赁（SFR）领域的监管执法事项，而该领域为跟踪策略之一。由于文中未确认相关GP，且风险敞口在于运营平台而非直接信贷工具，故重要性下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.46,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.22
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "am1050.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 2.63,
+              "finalScore": 10.629999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [],
@@ -158690,6 +158895,203 @@
               "finalScore": 24.82,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-07-b16854846208",
+            "title": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here - Seeking Alpha",
+            "titleZh": "Blackstone Secured Lending：股息削减终于到来 - Seeking Alpha",
+            "summary": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+            "summaryZh": "Blackstone Secured Lending：股息削减终于到来 Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzVZZEM5bW9ONTE2NEI3N0ZGLUtiZjd0eTVkSWNONk1BbkQ0NjJCMDg5aXgyZ2JtYWJJeC1fNVhkMi1Ib0tFcVM3bDJWZ0JYMEQyVlNDaTYzeVFUOVV5N2FLSU52c00wWVJFU3AwMjZsMGRxY0dldUhPR2tnZU0tWFk0aEctYVgwLXVLaDl1VFd2YzYxelRpRlVidU10d2ZaWGc?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-07",
+            "lede": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+            "articleExcerpt": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here - Seeking Alpha. Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+            "contentFingerprint": "9d88490e702dd242",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's BDC, so it is credit-relevant. A dividend cut at a BDC points to pressure on income and possibly credit quality, which matters to credit investors. It is still Seeking Alpha analyst commentary rather than a primary event, so importance is moderate. No financing, fundraising or lawsuit event applies.",
+              "llmReasonZh": "Blackstone Secured Lending (BXSL) 是 Blackstone 旗下的 BDC，因此与信贷相关。BDC 削减股息表明其收益承压，并可能反映信贷质量承压，这对信贷投资者具有重要意义。但该文仍属于 Seeking Alpha 的分析师评论，而非一手事件，因此重要性为中等。不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.65,
+              "finalScore": 21.65,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-07-8d43f59fe25d",
+            "title": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients - Asia Insurance Post",
+            "titleZh": "Aon与Blackstone推出新劳合社辛迪加，为再保险客户提供高效长期资本 - Asia Insurance Post",
+            "summary": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+            "summaryZh": "Aon与Blackstone推出新劳合社辛迪加，为再保险客户提供高效长期资本 Asia Insurance Post",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5leFNjb0hYcjV2LTZPTnVjWmFESExPcV9qa0RKQ0txTzZTVXBxX0h2UXU5MW9NN043Q2FDUVJyeGlMRS1PWlpkSWZjc0dReGltWlFBcEpfcw?oc=5",
+            "source": "Asia Insurance Post",
+            "publishedAt": "2026-11-07",
+            "lede": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+            "articleExcerpt": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients - Asia Insurance Post. Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+            "contentFingerprint": "6c3cbbe7b769f0f5",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.45,
+              "llmExclude": false,
+              "llmReason": "Blackstone and Aon are launching a new Lloyd's syndicate that provides long-term capital to reinsurance clients. Blackstone's insurance activity sits within its Credit & Insurance (BXCI) platform, so this is plausibly credit-adjacent, and launching a capital vehicle fits the fundraising event type. It is not a lending or securitization deal, though, and matches no tracked strategy. The credit link is indirect, so importance is moderate.",
+              "llmReasonZh": "Blackstone与Aon正在推出一个新的劳合社辛迪加，为再保险客户提供长期资本。Blackstone的保险业务隶属于其信贷与保险（BXCI）平台，因此该事件可能与信贷相关，且推出资本工具符合募资类事件类型。但这并非贷款或证券化交易，也不匹配任何跟踪策略。与信贷的关联较为间接，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.62,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.45
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Asia Insurance Post"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.5,
+              "finalScore": 8.5,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -158913,6 +159315,110 @@
                 "title": "Apollo Global Management (APO) Stock Looks Below Fair Value After Record Origination - Yahoo Finance Singapore"
               }
             ]
+          },
+          {
+            "id": "2026-11-07-201dace326df",
+            "title": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Apollo Diversified Credit Fund (CRDTX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Apollo Diversified Credit Fund (CRDTX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01UkdCNlJrR2d3LUo5bmRvWmFzd00zcWZoT2VwNm41TTQ3MmZrU2ZFSXROOE5mOE9ydkJKLWNVNTBlamNfT2k5dnBsQXU2a1k4NjdpZ3ZjYnBMV1E4VG1xWkRrWQ?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-07",
+            "lede": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "c15e8259d4f3b57f",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "A Yahoo Finance seasonal returns chart page for Apollo Diversified Credit Fund (CRDTX). It relates to Apollo's credit business, but it is only fund price/return data with no news event, so importance is low. The private-credit tag is approximate because the fund is a diversified credit vehicle.",
+              "llmReasonZh": "这是Yahoo Finance上Apollo Diversified Credit Fund (CRDTX) 的季节性回报图表页面。该内容与Apollo的信贷业务相关，但仅为基金价格/回报数据，不涉及任何新闻事件，因此重要性较低。由于该基金为多元化信贷投资工具，私募信贷标签仅为近似归类。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.97,
+              "finalScore": 19.97,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -159025,6 +159531,321 @@
             "keywordScore": 19,
             "semanticScore": 6.74,
             "finalScore": 25.740000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-4896b9385607",
+          "title": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call - Yahoo Finance",
+          "titleZh": "Blue Owl Capital (OBDC) 第三季度财报电话会议要点 - Yahoo Finance",
+          "summary": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+          "summaryZh": "Blue Owl Capital (OBDC) 第三季度财报电话会议要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGRFNS1Ebk1tZWZoMEVqZTIwU09YVmdBRGRUdnJVTE5jb0d4N0ZxQUJJb0ZVU0ktMk5oN2txa0h1ck9aMVJ3b3Z5MmEyYk1NdEhkNUxpNzkyamZlVEpJYW5GTlZLUjB1c0NGMUl0TC1la2M0SEN5Y3YzUGs5RDBqLTVUd2FLZFRYb2JzNlphTnhiaEFxVUE?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-07",
+          "lede": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+          "articleExcerpt": "What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call - Yahoo Finance. What Blue Owl Capital (OBDC) Said on Its Q3 Earnings Call Yahoo Finance",
+          "contentFingerprint": "b4bcee3449624b64",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Earnings-call recap for Blue Owl Capital Corp (OBDC), Blue Owl's flagship BDC. That is credit-relevant routine manager news. The text gives no details of defaults, financings or fundraising, so no event type applies.",
+            "llmReasonZh": "Blue Owl旗舰BDC Blue Owl Capital Corp (OBDC) 的财报电话会议回顾，属于与信贷相关的常规管理人新闻。文中未提供违约、融资或募资的具体信息，因此不适用任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.6,
+            "finalScore": 20.6,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-a22d59e74c72",
+          "title": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC - MarketBeat",
+          "titleZh": "Bayshore Capital Advisors LLC出售104,000股Blue Owl Capital Corporation $OBDC股票 - MarketBeat",
+          "summary": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+          "summaryZh": "Bayshore Capital Advisors LLC出售104,000股Blue Owl Capital Corporation $OBDC股票 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3R2bjg4dWJ6ZkNfemxxaFN6S2pOU0NETWZmYm1YNFNJMUlkdUpyWTdYbnRmNHVlclp1NzZpZ1Q4ZUFNb2dycnRBYndvVmZ2bjJxZlRyNUM2RUxMSzNMTDlCWEk4cEtkcGZDdnJCOWlCYTlnZ3NPYlpFX3daX01IbDAtNHJNekxzelVrWDNJY1JoQndzWGhFUHcxUU42LWpQbVEwaVlncl9XOUxXMk4xZVY4LWhDMlBVYWxLS09NR1JhTVNZd3hSX1VPRFI3b0VKZFc1aS1STFA0VzlIbmNVcA?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-07",
+          "lede": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+          "articleExcerpt": "Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC - MarketBeat. Bayshore Capital Advisors LLC Sells 104,000 Shares of Blue Owl Capital Corporation $OBDC MarketBeat",
+          "contentFingerprint": "7cb51b95f1c64998",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "MarketBeat filing-tracker item about an institutional holder trimming its stake in Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, which is a private-credit vehicle. This is routine stock-holding commentary with no financing, fundraising, or legal event, so importance is low.",
+            "llmReasonZh": "MarketBeat持仓申报追踪条目，涉及一家机构持有人减持Blue Owl Capital Corporation（OBDC）股份。OBDC为Blue Owl旗下公开交易的BDC（商业发展公司），属于私募信贷投资载体。此为常规持股动态，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.55,
+            "finalScore": 20.55,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-a8798406c438",
+          "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - Yahoo Finance",
+          "titleZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 - Yahoo Finance",
+          "summary": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+          "summaryZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck10Njh5UFVLMWpVdDRVNE5ZdlNQN0JxeWVWMTRFOHNjWHBiX0FNZ0dPSVE3WU9jdFF2Z3EtY2k0VnViNUF6WVNRRkt6aXdnX0JBY1A3X0R2d0I5RXMwS0N2bzBTYk1tdVFEVWFHbVFkY3R0SFQyQjQ5NGZ0a05aQ2cwM0o4UmhyZDMxUUFaNVVoMUlBQXhmREJDX3M?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-07",
+          "lede": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+          "articleExcerpt": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - Yahoo Finance. What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call Yahoo Finance",
+          "contentFingerprint": "1f1f7d9b1ae689af",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so this is credit-relevant. The article covers routine Q3 earnings call commentary with no specific financing, fundraising or litigation event.",
+            "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下的BDC（商业发展公司），因此与信贷相关。该文章涉及第三季度财报电话会议的常规表态，未涉及具体的融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.03,
+            "finalScore": 20.03,
             "semanticEnabled": true
           }
         },
@@ -159543,6 +160364,108 @@
           }
         },
         {
+          "id": "2026-11-07-0e5408c5b6ad",
+          "title": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices - am1050.com",
+          "titleZh": "总检察长Todd Rokita就欺骗性租赁行为与大型房东达成4850万美元和解 - am1050.com",
+          "summary": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+          "summaryZh": "总检察长Todd Rokita就欺骗性租赁行为与大型房东达成4850万美元和解 am1050.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXI2Z0FyZE9ibFYtamNmSXRJSHptRGFjUUNXVU56RE5HVFdFOE1SZ2RCYmswNW5MMUlaTjBsRWlObU5kM1R3NUtaVW84N2M3WllpV21vUTFiYk1DMGl5aWYzZTFtQkJBd1phSmxMRHg3ckRhSG9MaUMtNnVPOGFjTW0xLUNQekVObmVyVjc3a1ZlcXpVa3RhUFNQUldyWmluUThUSkFQQnRWWExvZmxnTWpDWXJvX1hiMTE2MEl6b0dOOEJzMmU3eVRXTHF5TlNtSGVuWFV0Q1h2ZXM4QlpKSkVmQjAwNElHSVVTU2ZORFA?oc=5",
+          "source": "am1050.com",
+          "publishedAt": "2026-11-07",
+          "lede": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+          "articleExcerpt": "Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices - am1050.com. Attorney General Todd Rokita secures $48.5M settlement from major landlord over deceptive rental practices am1050.com",
+          "contentFingerprint": "748f665f6b60d857",
+          "region": "US",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Indiana AG $48.5M settlement with a 'major landlord' over deceptive rental practices. This is likely Pretium's Progress Residential single-family rental platform, though the text does not name the landlord. It is a regulatory enforcement matter in SFR, a tracked strategy. Importance is lowered because the GP is not confirmed in the text and the exposure is to the operating platform rather than a direct credit vehicle.",
+            "llmReasonZh": "印第安纳州总检察长就欺骗性租赁行为与一家“大型房东”达成4850万美元和解。该房东可能是Pretium旗下的Progress Residential独栋住宅租赁平台，但文中未披露房东名称。此事属于独栋住宅租赁（SFR）领域的监管执法事项，而该领域为跟踪策略之一。由于文中未确认相关GP，且风险敞口在于运营平台而非直接信贷工具，故重要性下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.46,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.22
+              },
+              "event": {
+                "value": 0.8,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "am1050.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 2.63,
+            "finalScore": 10.629999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-07-c5928464dc19",
           "title": "0P0000X9QC interactive stock chart | Neuberger Berman Short Duration stock - Yahoo Finance UK",
           "titleZh": "0P0000X9QC互动股价图 | Neuberger Berman Short Duration - Yahoo Finance UK",
@@ -159938,6 +160861,203 @@
           }
         },
         {
+          "id": "2026-11-07-b16854846208",
+          "title": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here - Seeking Alpha",
+          "titleZh": "Blackstone Secured Lending：股息削减终于到来 - Seeking Alpha",
+          "summary": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+          "summaryZh": "Blackstone Secured Lending：股息削减终于到来 Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzVZZEM5bW9ONTE2NEI3N0ZGLUtiZjd0eTVkSWNONk1BbkQ0NjJCMDg5aXgyZ2JtYWJJeC1fNVhkMi1Ib0tFcVM3bDJWZ0JYMEQyVlNDaTYzeVFUOVV5N2FLSU52c00wWVJFU3AwMjZsMGRxY0dldUhPR2tnZU0tWFk0aEctYVgwLXVLaDl1VFd2YzYxelRpRlVidU10d2ZaWGc?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-07",
+          "lede": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+          "articleExcerpt": "Blackstone Secured Lending: Finally, The Dividend Cut Is Here - Seeking Alpha. Blackstone Secured Lending: Finally, The Dividend Cut Is Here Seeking Alpha",
+          "contentFingerprint": "9d88490e702dd242",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone Secured Lending (BXSL) is Blackstone's BDC, so it is credit-relevant. A dividend cut at a BDC points to pressure on income and possibly credit quality, which matters to credit investors. It is still Seeking Alpha analyst commentary rather than a primary event, so importance is moderate. No financing, fundraising or lawsuit event applies.",
+            "llmReasonZh": "Blackstone Secured Lending (BXSL) 是 Blackstone 旗下的 BDC，因此与信贷相关。BDC 削减股息表明其收益承压，并可能反映信贷质量承压，这对信贷投资者具有重要意义。但该文仍属于 Seeking Alpha 的分析师评论，而非一手事件，因此重要性为中等。不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.65,
+            "finalScore": 21.65,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-8d43f59fe25d",
+          "title": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients - Asia Insurance Post",
+          "titleZh": "Aon与Blackstone推出新劳合社辛迪加，为再保险客户提供高效长期资本 - Asia Insurance Post",
+          "summary": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+          "summaryZh": "Aon与Blackstone推出新劳合社辛迪加，为再保险客户提供高效长期资本 Asia Insurance Post",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5leFNjb0hYcjV2LTZPTnVjWmFESExPcV9qa0RKQ0txTzZTVXBxX0h2UXU5MW9NN043Q2FDUVJyeGlMRS1PWlpkSWZjc0dReGltWlFBcEpfcw?oc=5",
+          "source": "Asia Insurance Post",
+          "publishedAt": "2026-11-07",
+          "lede": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+          "articleExcerpt": "Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients - Asia Insurance Post. Aon and Blackstone launch a new Lloyd’s syndicate offering efficient, long-term capital to reinsurance clients Asia Insurance Post",
+          "contentFingerprint": "6c3cbbe7b769f0f5",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.45,
+            "llmExclude": false,
+            "llmReason": "Blackstone and Aon are launching a new Lloyd's syndicate that provides long-term capital to reinsurance clients. Blackstone's insurance activity sits within its Credit & Insurance (BXCI) platform, so this is plausibly credit-adjacent, and launching a capital vehicle fits the fundraising event type. It is not a lending or securitization deal, though, and matches no tracked strategy. The credit link is indirect, so importance is moderate.",
+            "llmReasonZh": "Blackstone与Aon正在推出一个新的劳合社辛迪加，为再保险客户提供长期资本。Blackstone的保险业务隶属于其信贷与保险（BXCI）平台，因此该事件可能与信贷相关，且推出资本工具符合募资类事件类型。但这并非贷款或证券化交易，也不匹配任何跟踪策略。与信贷的关联较为间接，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.62,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.45
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Asia Insurance Post"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.5,
+            "finalScore": 8.5,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-07-e5b31690fb6f",
           "title": "Apollo's $75 Billion Chip Leasing Push Takes Shape, Far Outpacing All Neoclouds - BigGo Finance",
           "titleZh": "Apollo 750亿美元芯片租赁布局成形，规模远超所有新兴云服务商 - BigGo Finance",
@@ -160157,6 +161277,110 @@
               "title": "Apollo Global Management (APO) Stock Looks Below Fair Value After Record Origination - Yahoo Finance Singapore"
             }
           ]
+        },
+        {
+          "id": "2026-11-07-201dace326df",
+          "title": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Apollo Diversified Credit Fund (CRDTX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Apollo Diversified Credit Fund (CRDTX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01UkdCNlJrR2d3LUo5bmRvWmFzd00zcWZoT2VwNm41TTQ3MmZrU2ZFSXROOE5mOE9ydkJKLWNVNTBlamNfT2k5dnBsQXU2a1k4NjdpZ3ZjYnBMV1E4VG1xWkRrWQ?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-07",
+          "lede": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Apollo Diversified Credit Fund (CRDTX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "c15e8259d4f3b57f",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "A Yahoo Finance seasonal returns chart page for Apollo Diversified Credit Fund (CRDTX). It relates to Apollo's credit business, but it is only fund price/return data with no news event, so importance is low. The private-credit tag is approximate because the fund is a diversified credit vehicle.",
+            "llmReasonZh": "这是Yahoo Finance上Apollo Diversified Credit Fund (CRDTX) 的季节性回报图表页面。该内容与Apollo的信贷业务相关，但仅为基金价格/回报数据，不涉及任何新闻事件，因此重要性较低。由于该基金为多元化信贷投资工具，私募信贷标签仅为近似归类。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.97,
+            "finalScore": 19.97,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -160476,6 +161700,210 @@
               "finalScore": 19.37,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-08-44e23e24afb8",
+            "title": "FS KKR Capital Corp. (FSK) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MakRKdG0zQ3Q0ZjRpZDc2ZUNIT0liXzVFbjZ0VmhDQlNPeW5Wc2tGRVhpYUwzUVRkeUNQUGtGT2E1LTJzV2NlWDRkM0FJSFlHRWhUUXBSRTNLRVNoWVFLUg?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-08",
+            "lede": "FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "FS KKR Capital Corp. (FSK) Seasonal returns chart - Yahoo Finance UK. FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "59afdc2d7c684bc7",
+            "region": "Europe",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp. (FSK) is KKR's publicly traded BDC, so it falls under KKR's private credit business. The article is only a stock seasonal-returns chart page with no credit event, which makes it low-importance stock-price content.",
+              "llmReasonZh": "FS KKR Capital Corp. (FSK) 是 KKR 旗下的公开上市 BDC，因此属于 KKR 的私募信贷业务范畴。该文章仅为股票季节性回报图表页面，不涉及任何信用事件，属于重要性较低的股价类内容。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 5.6,
+              "finalScore": 20.6,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-08-74808a9408a9",
+            "title": "KKR Credit Income Fund Estimates NTA at A$2.2813 - TipRanks",
+            "titleZh": "KKR Credit Income Fund估算NTA为A$2.2813 - TipRanks",
+            "summary": "KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+            "summaryZh": "KKR Credit Income Fund估算NTA为A$2.2813 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGgyTUFjUXBNVUQ1dXhDQVJPS2hUbWZ1cHhqUThjcHRwWTQ5M2RzQkJMbUtOZnBhYzRZVnhuNmxTNU5IMmQ4b1FNN2VlV3ZzMlJlT2UzYlJYdXdudEstZUJHVlNYRTduN2l2ci0wXzl0UFVkZTBjNzBxcDdFS2RoUXJ4ZXRSOWxydjBBSkJzaXpZVkhhQTZVdkVPVEtkZUVt?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-08",
+            "lede": "KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+            "articleExcerpt": "KKR Credit Income Fund Estimates NTA at A$2.2813 - TipRanks. KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+            "contentFingerprint": "ece01800e6a37a53",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Routine NTA (net tangible assets) estimate update for KKR Credit Income Fund (ASX-listed), part of KKR's credit business. Ordinary periodic fund reporting with no financing, fundraising or litigation event, so importance sits below routine manager news.",
+              "llmReasonZh": "KKR Credit Income Fund（在ASX上市）例行更新NTA（有形资产净值）估算，该基金隶属KKR信贷业务。此为常规定期基金报告，不涉及融资、募资或诉讼事件，因此重要性低于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.93,
+              "finalScore": 18.93,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -160591,7 +162019,230 @@
         "Guggenheim": [],
         "Neuberger": [],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-08-af13e7696afe",
+            "title": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 - GuruFocus",
+            "titleZh": "Bain Capital Specialty Finance (BCSF)将于11月9日发布第三季度财报 - GuruFocus",
+            "summary": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+            "summaryZh": "Bain Capital Specialty Finance (BCSF)将于11月9日发布第三季度财报 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTlidHZCNjFjWHZNUjY5TmdqNEpBWmVCTi0tUWVURTdBWmlLSV9vUFBBM1BGX0lwbjMyT1dXeXpBMnRUcTZPWi1aMkhNZDN6RWFjbEcweWEyUXVseDJ2STEwaFBESXV0R3cyM2RqS1pHUmpYdHRXTENtb1hzMmhmWU1jOUpTakNvcVNTd2M0UldTZTI5ZEZ6LTJoMnFYVlNVWXFlM0VfV3ZaV2I1WlZENG0wWDU?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-08",
+            "lede": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+            "articleExcerpt": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 - GuruFocus. Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+            "contentFingerprint": "5312e8f3bd725370",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC (private credit). The article only announces the Q3 earnings date. That is routine, low-information manager news with no financing, fundraising or legal event.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的公开上市BDC（私募信贷）。该文章仅公布第三季度财报发布日期，属于常规、信息量低的管理人新闻，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.98,
+              "finalScore": 22.98,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-08-43b16ba4b7bc",
+            "title": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates - MarketBeat",
+            "titleZh": "Bain Capital Specialty Finance 2026年第三季度财报发布日期及预期 - MarketBeat",
+            "summary": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+            "summaryZh": "Bain Capital Specialty Finance 2026年第三季度财报发布日期及预期 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXdrVWVnTW1jVnVCdlY1Zm5WLXJzZi13cWZwSUlmR1NSSEQzdDJLN0pxcFVPbGo5ZWNIWl9jVVFoOUJPSy00MEE5Zmp0NmI0UDYwWFRBUVdvOHpHOTdtOG5tcm5oQ2tnanNVN0pSbDdLb0dIZU9BOGpkRjBQWGx4YVZzZ2c1XzR1UEZJNzVXTEFCUXFRalpyRXdPQQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-08",
+            "lede": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+            "articleExcerpt": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates - MarketBeat. Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+            "contentFingerprint": "e3513c9eb049f450",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so this is credit-relevant. The article is only an earnings-date and analyst-estimate listing, with no financing, fundraising, or legal event, so importance is low.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的公开上市BDC（业务发展公司），因此与信贷相关。该文章仅为财报发布日期及分析师预期列表，未涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.39,
+              "finalScore": 22.39,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [
           {
             "id": "2026-11-08-5fb586ab23ef",
@@ -160916,6 +162567,120 @@
               "finalScore": 20.73,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-08-88aedcd96a4b",
+            "title": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg - The Edge Malaysia",
+            "titleZh": "Goldman、Apollo洽谈出售SpaceX的400亿美元AI交易——Bloomberg - The Edge Malaysia",
+            "summary": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+            "summaryZh": "Goldman、Apollo洽谈出售SpaceX的400亿美元AI交易——Bloomberg The Edge Malaysia",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jNU4xVFhDcnktZ29ZYi16V2xHU3BUOXRaWC0yckRRMkljbENRZDFmMGJpVE9tWWFCUVdGU2luaDJfaDhIZDJtUnJSV2dId1pq?oc=5",
+            "source": "The Edge Malaysia",
+            "publishedAt": "2026-11-08",
+            "lede": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+            "articleExcerpt": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg - The Edge Malaysia. Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+            "contentFingerprint": "de8dcd6b13f55b93",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Apollo, alongside Goldman, is reportedly in talks to sell/syndicate a US$40bn AI-related financing deal tied to SpaceX. This is a large credit/financing transaction in AI infrastructure, which fits Apollo's credit business. The excerpt is short, so the deal structure is not fully confirmed.",
+              "llmReasonZh": "据报道，Apollo与Goldman正在洽谈出售/银团分销一笔与SpaceX相关、规模达400亿美元的AI相关融资交易。这是一笔AI基础设施领域的大型信贷/融资交易，契合Apollo的信贷业务。由于摘录内容较短，交易结构尚未完全确认。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.8,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Edge Malaysia"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.09,
+              "finalScore": 14.09,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -161237,6 +163002,210 @@
           }
         },
         {
+          "id": "2026-11-08-44e23e24afb8",
+          "title": "FS KKR Capital Corp. (FSK) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "FS KKR Capital Corp. (FSK) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MakRKdG0zQ3Q0ZjRpZDc2ZUNIT0liXzVFbjZ0VmhDQlNPeW5Wc2tGRVhpYUwzUVRkeUNQUGtGT2E1LTJzV2NlWDRkM0FJSFlHRWhUUXBSRTNLRVNoWVFLUg?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-08",
+          "lede": "FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "FS KKR Capital Corp. (FSK) Seasonal returns chart - Yahoo Finance UK. FS KKR Capital Corp. (FSK) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "59afdc2d7c684bc7",
+          "region": "Europe",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp. (FSK) is KKR's publicly traded BDC, so it falls under KKR's private credit business. The article is only a stock seasonal-returns chart page with no credit event, which makes it low-importance stock-price content.",
+            "llmReasonZh": "FS KKR Capital Corp. (FSK) 是 KKR 旗下的公开上市 BDC，因此属于 KKR 的私募信贷业务范畴。该文章仅为股票季节性回报图表页面，不涉及任何信用事件，属于重要性较低的股价类内容。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 5.6,
+            "finalScore": 20.6,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-08-74808a9408a9",
+          "title": "KKR Credit Income Fund Estimates NTA at A$2.2813 - TipRanks",
+          "titleZh": "KKR Credit Income Fund估算NTA为A$2.2813 - TipRanks",
+          "summary": "KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+          "summaryZh": "KKR Credit Income Fund估算NTA为A$2.2813 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGgyTUFjUXBNVUQ1dXhDQVJPS2hUbWZ1cHhqUThjcHRwWTQ5M2RzQkJMbUtOZnBhYzRZVnhuNmxTNU5IMmQ4b1FNN2VlV3ZzMlJlT2UzYlJYdXdudEstZUJHVlNYRTduN2l2ci0wXzl0UFVkZTBjNzBxcDdFS2RoUXJ4ZXRSOWxydjBBSkJzaXpZVkhhQTZVdkVPVEtkZUVt?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-08",
+          "lede": "KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+          "articleExcerpt": "KKR Credit Income Fund Estimates NTA at A$2.2813 - TipRanks. KKR Credit Income Fund Estimates NTA at A$2.2813 TipRanks",
+          "contentFingerprint": "ece01800e6a37a53",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Routine NTA (net tangible assets) estimate update for KKR Credit Income Fund (ASX-listed), part of KKR's credit business. Ordinary periodic fund reporting with no financing, fundraising or litigation event, so importance sits below routine manager news.",
+            "llmReasonZh": "KKR Credit Income Fund（在ASX上市）例行更新NTA（有形资产净值）估算，该基金隶属KKR信贷业务。此为常规定期基金报告，不涉及融资、募资或诉讼事件，因此重要性低于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.93,
+            "finalScore": 18.93,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-08-2d2080ac57b6",
           "title": "Progress Residential and Pretium Partners agree to pay $49.75m over rental pricing charges - https://www.lawnews.co.uk/",
           "titleZh": "Progress Residential与Pretium Partners同意支付$49.75m和解租金定价指控",
@@ -161339,6 +163308,228 @@
             "keywordScore": 7,
             "semanticScore": 4.2,
             "finalScore": 11.2,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-08-af13e7696afe",
+          "title": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 - GuruFocus",
+          "titleZh": "Bain Capital Specialty Finance (BCSF)将于11月9日发布第三季度财报 - GuruFocus",
+          "summary": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+          "summaryZh": "Bain Capital Specialty Finance (BCSF)将于11月9日发布第三季度财报 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTlidHZCNjFjWHZNUjY5TmdqNEpBWmVCTi0tUWVURTdBWmlLSV9vUFBBM1BGX0lwbjMyT1dXeXpBMnRUcTZPWi1aMkhNZDN6RWFjbEcweWEyUXVseDJ2STEwaFBESXV0R3cyM2RqS1pHUmpYdHRXTENtb1hzMmhmWU1jOUpTakNvcVNTd2M0UldTZTI5ZEZ6LTJoMnFYVlNVWXFlM0VfV3ZaV2I1WlZENG0wWDU?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-08",
+          "lede": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+          "articleExcerpt": "Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 - GuruFocus. Bain Capital Specialty Finance (BCSF) Set to Report Q3 Earnings on November 9 GuruFocus",
+          "contentFingerprint": "5312e8f3bd725370",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC (private credit). The article only announces the Q3 earnings date. That is routine, low-information manager news with no financing, fundraising or legal event.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的公开上市BDC（私募信贷）。该文章仅公布第三季度财报发布日期，属于常规、信息量低的管理人新闻，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.98,
+            "finalScore": 22.98,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-08-43b16ba4b7bc",
+          "title": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates - MarketBeat",
+          "titleZh": "Bain Capital Specialty Finance 2026年第三季度财报发布日期及预期 - MarketBeat",
+          "summary": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+          "summaryZh": "Bain Capital Specialty Finance 2026年第三季度财报发布日期及预期 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXdrVWVnTW1jVnVCdlY1Zm5WLXJzZi13cWZwSUlmR1NSSEQzdDJLN0pxcFVPbGo5ZWNIWl9jVVFoOUJPSy00MEE5Zmp0NmI0UDYwWFRBUVdvOHpHOTdtOG5tcm5oQ2tnanNVN0pSbDdLb0dIZU9BOGpkRjBQWGx4YVZzZ2c1XzR1UEZJNzVXTEFCUXFRalpyRXdPQQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-08",
+          "lede": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+          "articleExcerpt": "Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates - MarketBeat. Bain Capital Specialty Finance Q3 2026 Earnings Date and Estimates MarketBeat",
+          "contentFingerprint": "e3513c9eb049f450",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so this is credit-relevant. The article is only an earnings-date and analyst-estimate listing, with no financing, fundraising, or legal event, so importance is low.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的公开上市BDC（业务发展公司），因此与信贷相关。该文章仅为财报发布日期及分析师预期列表，未涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.39,
+            "finalScore": 22.39,
             "semanticEnabled": true
           }
         },
@@ -161663,14 +163854,148 @@
             "finalScore": 20.73,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-08-88aedcd96a4b",
+          "title": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg - The Edge Malaysia",
+          "titleZh": "Goldman、Apollo洽谈出售SpaceX的400亿美元AI交易——Bloomberg - The Edge Malaysia",
+          "summary": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+          "summaryZh": "Goldman、Apollo洽谈出售SpaceX的400亿美元AI交易——Bloomberg The Edge Malaysia",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jNU4xVFhDcnktZ29ZYi16V2xHU3BUOXRaWC0yckRRMkljbENRZDFmMGJpVE9tWWFCUVdGU2luaDJfaDhIZDJtUnJSV2dId1pq?oc=5",
+          "source": "The Edge Malaysia",
+          "publishedAt": "2026-11-08",
+          "lede": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+          "articleExcerpt": "Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg - The Edge Malaysia. Goldman, Apollo in talks to sell SpaceX’s US$40 bil AI deal — Bloomberg The Edge Malaysia",
+          "contentFingerprint": "de8dcd6b13f55b93",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Apollo, alongside Goldman, is reportedly in talks to sell/syndicate a US$40bn AI-related financing deal tied to SpaceX. This is a large credit/financing transaction in AI infrastructure, which fits Apollo's credit business. The excerpt is short, so the deal structure is not fully confirmed.",
+            "llmReasonZh": "据报道，Apollo与Goldman正在洽谈出售/银团分销一笔与SpaceX相关、规模达400亿美元的AI相关融资交易。这是一笔AI基础设施领域的大型信贷/融资交易，契合Apollo的信贷业务。由于摘录内容较短，交易结构尚未完全确认。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.8,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Edge Malaysia"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-09T00:21:40.187242+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.09,
+            "finalScore": 14.09,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-09": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 41,
+      "count": 39,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -161678,33 +164003,33 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 47,
-      "selected": 6,
+      "count": 41,
+      "selected": 4,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 2,
-      "selected": 1,
+      "count": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161717,20 +164042,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 6,
-      "selected": 2,
+      "selected": 3,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161743,7 +164068,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161756,7 +164081,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161769,33 +164094,33 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 11,
-      "selected": 4,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 47,
-      "selected": 6,
+      "count": 44,
+      "selected": 4,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161808,7 +164133,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161821,12 +164146,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 6,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -161834,7 +164159,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161847,7 +164172,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
@@ -161860,12 +164185,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 411,
+      "count": 409,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -161882,9 +164207,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-08T20:55:38.804747+00:00",
+      "asOf": "2026-11-09T00:21:40.187242+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-08T20:55:38.804747+00:00"
+  "checkedAt": "2026-11-09T00:21:40.187242+00:00"
 }
