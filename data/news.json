@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-09T00:39:06.243776+00:00",
+  "updatedAt": "2026-11-09T07:49:49.220749+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于广义私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -157871,6 +157871,110 @@
               "finalScore": 20.03,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-07-d3fb8cb6b738",
+            "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - TradingView",
+            "titleZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 - TradingView",
+            "summary": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+            "summaryZh": "Blue Owl Technology Finance (OTF) 在第三季度财报电话会议上的表态 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjAyNWU2R0FOeWxwd3JOMmVuUDJ6U1ExYWxqaFd6dWFJcGswMDc4WHlreW1kN2cxZW5QNHhEa2lNR1JpMjd4LXNhejVBWWkxdnVja2s4TkU5RmNjek5CUVZ5Rm5YeUpLY3RBRC1FUGx5SkUwUnlmbDFZZFVtQU5IdklQWktVZFRDNHNmWThGcXVQWVBYMmtGUzM4aW9BY1U4X21Ud0EtOGFYTFNGb2p5Z2JodWc1WVppVzRMeEtPRXA5RGxv?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-07",
+            "lede": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+            "articleExcerpt": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - TradingView. What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+            "contentFingerprint": "716ef6cd94c37625",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance (OTF) is Blue Owl's publicly traded BDC that lends to technology companies, so it falls within the credit business. A Q3 earnings call recap is routine manager news with no specific financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下向科技公司提供贷款的上市 BDC，属于信贷业务范畴。第三季度财报电话会议回顾属于常规管理人新闻，不涉及具体融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.96,
+              "finalScore": 19.96,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -158782,6 +158886,102 @@
               "keywordScore": 12,
               "semanticScore": 5.44,
               "finalScore": 17.44,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-07-be2efab54e12",
+            "title": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "titleZh": "Neuberger Berman Municipal Fund Inc. (XNBHX) 季节性回报图表 - Yahoo! Finance Canada",
+            "summary": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+            "summaryZh": "Neuberger Berman Municipal Fund Inc. (XNBHX) 季节性回报图表 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lZEhQbFFnQzAtMXhXZlprLVhRSmFESlZKZHhWZENOcWNnRTAzWmdRbGZsZ2tXZ2pUODBDYmJkblA4MlJhcF9DLXh1bkozN2NLVzk4WEVWbHFqRWRzNDJDeVJqaw?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-07",
+            "lede": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+            "articleExcerpt": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart - Yahoo! Finance Canada. Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+            "contentFingerprint": "1ae7b396b1681fef",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.1,
+              "llmExclude": false,
+              "llmReason": "Auto-generated Yahoo Finance seasonal returns chart page for Neuberger Berman's closed-end municipal bond fund. It is technically credit-related (munis), but it matches no tracked strategy and has no lawsuit, financing or fundraising event. It is just price-data commentary, so importance is very low.",
+              "llmReasonZh": "该页面为 Yahoo Finance 自动生成的 Neuberger Berman 旗下封闭式市政债券基金季节性回报图表页面。从技术上讲与信贷相关（市政债券），但不符合任何跟踪策略，也不涉及诉讼、融资或募资事件。内容仅为价格数据评论，因此重要性极低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.4,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.1
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.31,
+              "finalScore": 16.31,
               "semanticEnabled": true
             }
           }
@@ -159850,6 +160050,110 @@
           }
         },
         {
+          "id": "2026-11-07-d3fb8cb6b738",
+          "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - TradingView",
+          "titleZh": "Blue Owl Technology Finance (OTF) 第三季度财报电话会议要点 - TradingView",
+          "summary": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+          "summaryZh": "Blue Owl Technology Finance (OTF) 在第三季度财报电话会议上的表态 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjAyNWU2R0FOeWxwd3JOMmVuUDJ6U1ExYWxqaFd6dWFJcGswMDc4WHlreW1kN2cxZW5QNHhEa2lNR1JpMjd4LXNhejVBWWkxdnVja2s4TkU5RmNjek5CUVZ5Rm5YeUpLY3RBRC1FUGx5SkUwUnlmbDFZZFVtQU5IdklQWktVZFRDNHNmWThGcXVQWVBYMmtGUzM4aW9BY1U4X21Ud0EtOGFYTFNGb2p5Z2JodWc1WVppVzRMeEtPRXA5RGxv?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-07",
+          "lede": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+          "articleExcerpt": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call - TradingView. What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call TradingView",
+          "contentFingerprint": "716ef6cd94c37625",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance (OTF) is Blue Owl's publicly traded BDC that lends to technology companies, so it falls within the credit business. A Q3 earnings call recap is routine manager news with no specific financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下向科技公司提供贷款的上市 BDC，属于信贷业务范畴。第三季度财报电话会议回顾属于常规管理人新闻，不涉及具体融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.96,
+            "finalScore": 19.96,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-07-964292c8c556",
           "title": "KKR Real Estate Finance Trust Inc. (KREF-PA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
           "titleZh": "KKR Real Estate Finance Trust Inc.（KREF-PA）季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
@@ -160750,6 +161054,102 @@
             "keywordScore": 12,
             "semanticScore": 5.44,
             "finalScore": 17.44,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-07-be2efab54e12",
+          "title": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart - Yahoo! Finance Canada",
+          "titleZh": "Neuberger Berman Municipal Fund Inc. (XNBHX) 季节性回报图表 - Yahoo! Finance Canada",
+          "summary": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+          "summaryZh": "Neuberger Berman Municipal Fund Inc. (XNBHX) 季节性回报图表 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lZEhQbFFnQzAtMXhXZlprLVhRSmFESlZKZHhWZENOcWNnRTAzWmdRbGZsZ2tXZ2pUODBDYmJkblA4MlJhcF9DLXh1bkozN2NLVzk4WEVWbHFqRWRzNDJDeVJqaw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-07",
+          "lede": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+          "articleExcerpt": "Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart - Yahoo! Finance Canada. Neuberger Berman Municipal Fund Inc. (XNBHX) Seasonal Returns Chart Yahoo! Finance Canada",
+          "contentFingerprint": "1ae7b396b1681fef",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.1,
+            "llmExclude": false,
+            "llmReason": "Auto-generated Yahoo Finance seasonal returns chart page for Neuberger Berman's closed-end municipal bond fund. It is technically credit-related (munis), but it matches no tracked strategy and has no lawsuit, financing or fundraising event. It is just price-data commentary, so importance is very low.",
+            "llmReasonZh": "该页面为 Yahoo Finance 自动生成的 Neuberger Berman 旗下封闭式市政债券基金季节性回报图表页面。从技术上讲与信贷相关（市政债券），但不符合任何跟踪策略，也不涉及诉讼、融资或募资事件。内容仅为价格数据评论，因此重要性极低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.4,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.1
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.31,
+            "finalScore": 16.31,
             "semanticEnabled": true
           }
         },
@@ -162017,7 +162417,104 @@
           }
         ],
         "Guggenheim": [],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-08-0b9521ae1350",
+            "title": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "titleZh": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+            "summary": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZh": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSTBYTjg1YU5SNnhJREE1MlhvVWdCNTFzQk9UbmdUWGdRR2pjM0NjNld6eThEekd0RUtaMi1jeWhTNkRUeUJPMUlEam53OGt4ZVoyaUt2RUdra0EwMlFTSmEyVS05WEI3RFVfRmNQMTg?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-08",
+            "lede": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "articleExcerpt": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+            "contentFingerprint": "8f89b86d10ca0421",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance seasonal returns chart page for a Neuberger Berman emerging-market hard-currency debt UCITS fund. It is credit-related, since it is a public EM debt fund, but it is not private credit or any other tracked strategy. It is only fund performance data with no news or event, so importance is low (comparable to price commentary).",
+              "llmReasonZh": "Yahoo Finance 页面，展示一只 Neuberger Berman 新兴市场硬货币债券 UCITS 基金的季节性回报图表。该基金为公开市场新兴市场债券基金，与信贷相关，但不属于私募信贷或其他任何跟踪策略。页面仅包含基金业绩数据，无任何新闻或事件，因此重要性较低（与价格评论相当）。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.79,
+              "finalScore": 15.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [
           {
@@ -162681,6 +163178,102 @@
               "finalScore": 14.09,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-08-d5cb4e5254cb",
+            "title": "Apollo Global Management, Inc. (APO) Stock forecasts - Yahoo Finance UK",
+            "titleZh": "Apollo Global Management, Inc. (APO) 股价预测 - Yahoo Finance UK",
+            "summary": "Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+            "summaryZh": "Apollo Global Management, Inc. (APO) 股价预测 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYW14RlhXRFExQ2t1SVZueWgxd1BqaVFHTkxCZ0ZiNXdrV0pqMWtHRy12VV9CZHlPTlBwSzJ6YUtJUzcxalVjcWV1ekpGUkJNcUx5RzhpbzdSZTc0NmVCSmV5M3dUcUhNUFBiTmptLUVtbzh3WWExRWxoSDBNWHhDLVRBbm5GaTVoc2NqTw?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-08",
+            "lede": "Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+            "articleExcerpt": "Apollo Global Management, Inc. (APO) Stock forecasts - Yahoo Finance UK. Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+            "contentFingerprint": "4050303a8b42147d",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic Yahoo Finance stock forecast page for Apollo Global Management (APO). It has no credit-specific content, so it counts as stock price / analyst commentary with low importance. It is not excluded because it concerns the tracked firm itself, not an unrelated namesake or a non-credit asset deal.",
+              "llmReasonZh": "这是Yahoo Finance关于Apollo Global Management (APO)的通用股价预测页面。该页面不含信贷相关内容，因此归类为股价/分析师评论，重要性较低。未予排除的原因是其涉及所追踪的公司本身，而非无关的同名实体或非信贷类资产交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.25,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.8
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 6.07,
+              "finalScore": 18.07,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -163308,6 +163901,102 @@
             "keywordScore": 7,
             "semanticScore": 4.2,
             "finalScore": 11.2,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-08-0b9521ae1350",
+          "title": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "titleZh": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) 季节性回报图表 - Yahoo Finance - Yahoo! Finance Canada",
+          "summary": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZh": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) 季节性回报图表 - Yahoo Finance Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSTBYTjg1YU5SNnhJREE1MlhvVWdCNTFzQk9UbmdUWGdRR2pjM0NjNld6eThEekd0RUtaMi1jeWhTNkRUeUJPMUlEam53OGt4ZVoyaUt2RUdra0EwMlFTSmEyVS05WEI3RFVfRmNQMTg?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-08",
+          "lede": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "articleExcerpt": "Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada. Neuberger Berman EM Dbt Hard Ccy I £ Acc (IE00B986GX76.IR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+          "contentFingerprint": "8f89b86d10ca0421",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance seasonal returns chart page for a Neuberger Berman emerging-market hard-currency debt UCITS fund. It is credit-related, since it is a public EM debt fund, but it is not private credit or any other tracked strategy. It is only fund performance data with no news or event, so importance is low (comparable to price commentary).",
+            "llmReasonZh": "Yahoo Finance 页面，展示一只 Neuberger Berman 新兴市场硬货币债券 UCITS 基金的季节性回报图表。该基金为公开市场新兴市场债券基金，与信贷相关，但不属于私募信贷或其他任何跟踪策略。页面仅包含基金业绩数据，无任何新闻或事件，因此重要性较低（与价格评论相当）。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.79,
+            "finalScore": 15.79,
             "semanticEnabled": true
           }
         },
@@ -163968,13 +164657,310 @@
             "finalScore": 14.09,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-08-d5cb4e5254cb",
+          "title": "Apollo Global Management, Inc. (APO) Stock forecasts - Yahoo Finance UK",
+          "titleZh": "Apollo Global Management, Inc. (APO) 股价预测 - Yahoo Finance UK",
+          "summary": "Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+          "summaryZh": "Apollo Global Management, Inc. (APO) 股价预测 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYW14RlhXRFExQ2t1SVZueWgxd1BqaVFHTkxCZ0ZiNXdrV0pqMWtHRy12VV9CZHlPTlBwSzJ6YUtJUzcxalVjcWV1ekpGUkJNcUx5RzhpbzdSZTc0NmVCSmV5M3dUcUhNUFBiTmptLUVtbzh3WWExRWxoSDBNWHhDLVRBbm5GaTVoc2NqTw?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-08",
+          "lede": "Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+          "articleExcerpt": "Apollo Global Management, Inc. (APO) Stock forecasts - Yahoo Finance UK. Apollo Global Management, Inc. (APO) Stock forecasts Yahoo Finance UK",
+          "contentFingerprint": "4050303a8b42147d",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic Yahoo Finance stock forecast page for Apollo Global Management (APO). It has no credit-specific content, so it counts as stock price / analyst commentary with low importance. It is not excluded because it concerns the tracked firm itself, not an unrelated namesake or a non-credit asset deal.",
+            "llmReasonZh": "这是Yahoo Finance关于Apollo Global Management (APO)的通用股价预测页面。该页面不含信贷相关内容，因此归类为股价/分析师评论，重要性较低。未予排除的原因是其涉及所追踪的公司本身，而非无关的同名实体或非信贷类资产交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.25,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.8
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 6.07,
+            "finalScore": 18.07,
+            "semanticEnabled": true
+          }
         }
       ]
     },
     "2026-11-09": {
       "byGp": {
         "Blue Owl": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-09-b70a704b24fa",
+            "title": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 - Kalkine",
+            "titleZh": "KKR Credit Income Fund截至2026年11月4日NTA升至$2.2813 - Kalkine",
+            "summary": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+            "summaryZh": "KKR Credit Income Fund截至2026年11月4日NTA升至$2.2813 Kalkine",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0lmVjQ1bVBGRXdlaUw3OGpLNmI2NHVrNnN6RWRKY0lMcDFLYm1qeXhrZ3VkcEFuOGVBZ1B5RGN6QnowMXN5eHMtaUMwek9HcHE2X3hSX2NTOFQ5Sjlsdzh4aU12YWNfbEo2Uk15eldDcU9OaGdOV21NcFdqWDFibkltLU82RnMxMlVHMU5fM2cwa0hCMzZUUU94amticWtPYUR1SGpzNkU?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-11-09",
+            "lede": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+            "articleExcerpt": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 - Kalkine. KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+            "contentFingerprint": "7122f40ca518fbd3",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Routine NTA (net tangible asset) update for the KKR Credit Income Fund (ASX-listed), which is part of KKR's credit business. It is price/valuation commentary with no financing, fundraising or litigation event, so importance is low.",
+              "llmReasonZh": "KKR Credit Income Fund（ASX上市）的例行NTA（有形资产净值）更新，该基金隶属KKR信贷业务。内容为价格/估值评述，不涉及融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.08,
+              "finalScore": 19.08,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-8afc3b6dba8d",
+            "title": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 - Kalkine",
+            "titleZh": "KKR Credit Income Fund截至2026年11月2日NTA估值降至$2.2765 - Kalkine",
+            "summary": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+            "summaryZh": "KKR Credit Income Fund截至2026年11月2日NTA估值降至$2.2765 Kalkine",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMm95RTFiSWtyOTRUamJRQ0NZVThrS003NklHVDZqVTV3TEpTc0xfdTZMUVBNOEh1LXdEZmcybHpCbFkwTEdyWVphY1BReTZyR1NpemhmTGJQNlljaS1Rd2VjVWRqeTZ0cVRXeFgyZUJZZUI3d0ZsRk5LRmk5SmtaNWlxa3FXNzlzVWNiRUhGbVJWcHZFRDV2VFd4V1lqMFEtUTdkZUZIRXRQeUhCTll2Wno3b2E?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-11-09",
+            "lede": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+            "articleExcerpt": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 - Kalkine. KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+            "contentFingerprint": "5ec9d9d06faf7515",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "The article reports a routine daily NTA estimate decline for KKR Credit Income Fund, KKR's ASX-listed credit vehicle. It is credit-relevant but routine valuation news with no financing, fundraising, or legal event. Importance is set between the routine-manager-news (0.5) and price-commentary (0.15) anchors.",
+              "llmReasonZh": "该文章报道了KKR旗下在ASX上市的信贷投资工具KKR Credit Income Fund每日NTA估值的例行下降。该消息与信贷相关，但属于例行估值新闻，不涉及融资、募资或法律事件。重要性介于例行管理人新闻（0.5）与价格评论（0.15）两个基准之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.92,
+              "finalScore": 18.92,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
@@ -163982,20 +164968,434 @@
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-09-a2b280a5fe3d",
+            "title": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) - Seeking Alpha",
+            "titleZh": "Blackstone Mortgage Trust削减股息36%（NYSE:BXMT）- Seeking Alpha",
+            "summary": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+            "summaryZh": "Blackstone Mortgage Trust削减股息36%（NYSE:BXMT） Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGUwS1lHV2xqNHFwb1dBdTl5cUpGXy1hNVJEaHp0UTZQQTBZd2JxcV9BX3lSVWZxa2VNNmlLQjc0bk5yOThKcFZWdG9uQ25fNERlTnF1dEJRRXI5OWlYaEQ2WEo2WXdMUFpaUXNkeHpLMDFSRmZDSnRlNUl4c2lETFNxSkNPNnR3UkwtenpYb2tEeGdfSVE?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-09",
+            "lede": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+            "articleExcerpt": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) - Seeking Alpha. Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+            "contentFingerprint": "ef08b7acfa59ce19",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle (a mortgage REIT making CRE loans), so this is credit exposure. A 36% dividend cut points to stress in the CRE loan book, such as rising non-performing loans or reserves. That is material for credit investors even though the source is Seeking Alpha commentary, so importance is set well above the analyst-commentary level. No lawsuit, financing, or fundraising event applies.",
+              "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款平台（一家发放商业地产贷款的抵押贷款REIT），因此涉及信贷敞口。股息削减36%表明其商业地产贷款组合承压，例如不良贷款或拨备上升。尽管来源为Seeking Alpha评论文章，该事件对信贷投资者仍具重要意义，因此其重要性评级设定为远高于分析师评论类文章的水平。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.55,
+              "finalScore": 24.55,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
         "TPG": [],
         "Golub": [],
         "CVC": [],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-09-b70a704b24fa",
+          "title": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 - Kalkine",
+          "titleZh": "KKR Credit Income Fund截至2026年11月4日NTA升至$2.2813 - Kalkine",
+          "summary": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+          "summaryZh": "KKR Credit Income Fund截至2026年11月4日NTA升至$2.2813 Kalkine",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0lmVjQ1bVBGRXdlaUw3OGpLNmI2NHVrNnN6RWRKY0lMcDFLYm1qeXhrZ3VkcEFuOGVBZ1B5RGN6QnowMXN5eHMtaUMwek9HcHE2X3hSX2NTOFQ5Sjlsdzh4aU12YWNfbEo2Uk15eldDcU9OaGdOV21NcFdqWDFibkltLU82RnMxMlVHMU5fM2cwa0hCMzZUUU94amticWtPYUR1SGpzNkU?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-11-09",
+          "lede": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+          "articleExcerpt": "KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 - Kalkine. KKR Credit Income Fund NTA Rises to $2.2813 as at 4 November 2026 Kalkine",
+          "contentFingerprint": "7122f40ca518fbd3",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Routine NTA (net tangible asset) update for the KKR Credit Income Fund (ASX-listed), which is part of KKR's credit business. It is price/valuation commentary with no financing, fundraising or litigation event, so importance is low.",
+            "llmReasonZh": "KKR Credit Income Fund（ASX上市）的例行NTA（有形资产净值）更新，该基金隶属KKR信贷业务。内容为价格/估值评述，不涉及融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.08,
+            "finalScore": 19.08,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-8afc3b6dba8d",
+          "title": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 - Kalkine",
+          "titleZh": "KKR Credit Income Fund截至2026年11月2日NTA估值降至$2.2765 - Kalkine",
+          "summary": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+          "summaryZh": "KKR Credit Income Fund截至2026年11月2日NTA估值降至$2.2765 Kalkine",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMm95RTFiSWtyOTRUamJRQ0NZVThrS003NklHVDZqVTV3TEpTc0xfdTZMUVBNOEh1LXdEZmcybHpCbFkwTEdyWVphY1BReTZyR1NpemhmTGJQNlljaS1Rd2VjVWRqeTZ0cVRXeFgyZUJZZUI3d0ZsRk5LRmk5SmtaNWlxa3FXNzlzVWNiRUhGbVJWcHZFRDV2VFd4V1lqMFEtUTdkZUZIRXRQeUhCTll2Wno3b2E?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-11-09",
+          "lede": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+          "articleExcerpt": "KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 - Kalkine. KKR Credit Income Fund NTA Estimate Falls to $2.2765 as at 2 November 2026 Kalkine",
+          "contentFingerprint": "5ec9d9d06faf7515",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "The article reports a routine daily NTA estimate decline for KKR Credit Income Fund, KKR's ASX-listed credit vehicle. It is credit-relevant but routine valuation news with no financing, fundraising, or legal event. Importance is set between the routine-manager-news (0.5) and price-commentary (0.15) anchors.",
+            "llmReasonZh": "该文章报道了KKR旗下在ASX上市的信贷投资工具KKR Credit Income Fund每日NTA估值的例行下降。该消息与信贷相关，但属于例行估值新闻，不涉及融资、募资或法律事件。重要性介于例行管理人新闻（0.5）与价格评论（0.15）两个基准之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.92,
+            "finalScore": 18.92,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-a2b280a5fe3d",
+          "title": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) - Seeking Alpha",
+          "titleZh": "Blackstone Mortgage Trust削减股息36%（NYSE:BXMT）- Seeking Alpha",
+          "summary": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+          "summaryZh": "Blackstone Mortgage Trust削减股息36%（NYSE:BXMT） Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGUwS1lHV2xqNHFwb1dBdTl5cUpGXy1hNVJEaHp0UTZQQTBZd2JxcV9BX3lSVWZxa2VNNmlLQjc0bk5yOThKcFZWdG9uQ25fNERlTnF1dEJRRXI5OWlYaEQ2WEo2WXdMUFpaUXNkeHpLMDFSRmZDSnRlNUl4c2lETFNxSkNPNnR3UkwtenpYb2tEeGdfSVE?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-09",
+          "lede": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+          "articleExcerpt": "Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) - Seeking Alpha. Blackstone Mortgage Trust's 36% Dividend Cut (NYSE:BXMT) Seeking Alpha",
+          "contentFingerprint": "ef08b7acfa59ce19",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blackstone Mortgage Trust is Blackstone's commercial real estate lending vehicle (a mortgage REIT making CRE loans), so this is credit exposure. A 36% dividend cut points to stress in the CRE loan book, such as rising non-performing loans or reserves. That is material for credit investors even though the source is Seeking Alpha commentary, so importance is set well above the analyst-commentary level. No lawsuit, financing, or fundraising event applies.",
+            "llmReasonZh": "Blackstone Mortgage Trust是Blackstone旗下的商业地产贷款平台（一家发放商业地产贷款的抵押贷款REIT），因此涉及信贷敞口。股息削减36%表明其商业地产贷款组合承压，例如不良贷款或拨备上升。尽管来源为Seeking Alpha评论文章，该事件对信贷投资者仍具重要意义，因此其重要性评级设定为远高于分析师评论类文章的水平。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-09T07:29:29.606383+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.55,
+            "finalScore": 24.55,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 39,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -164003,20 +165403,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 41,
-      "selected": 4,
+      "count": 50,
+      "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164029,7 +165429,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164042,7 +165442,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164055,7 +165455,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164068,20 +165468,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 8,
-      "selected": 3,
+      "count": 10,
+      "selected": 5,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164094,7 +165494,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164107,25 +165507,25 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 44,
-      "selected": 4,
+      "count": 41,
+      "selected": 5,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 31,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -164133,7 +165533,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164146,12 +165546,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 5,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -164159,12 +165559,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 7,
+      "count": 6,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -164172,7 +165572,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164185,7 +165585,7 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     },
     {
@@ -164207,9 +165607,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-09T00:21:40.187242+00:00",
+      "asOf": "2026-11-09T07:29:29.606383+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-09T00:21:40.187242+00:00"
+  "checkedAt": "2026-11-09T07:29:29.606383+00:00"
 }
