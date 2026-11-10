@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-10T18:11:47.647221+00:00",
+  "updatedAt": "2026-11-10T23:26:42.850581+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，符合所追踪的信用敞口范围。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口一致。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期贷款工具，在流动性基金范畴内属于更广泛的私募信贷/直接贷款类别。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -163792,6 +163792,104 @@
               "finalScore": 18.07,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-08-be5a1fcc3e33",
+            "title": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade",
+            "titleZh": "Apollo Global数据泄露事件遭Ademi LLP发起第二起集体诉讼调查 - scanx.trade",
+            "summary": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "summaryZh": "Apollo Global数据泄露事件遭Ademi LLP发起第二起集体诉讼调查 scanx.trade",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTG1RZ3FkNVlaZ3hXVHJoRWJIb0ItY0tkamdtSmtMQ1FFQWZTendnTEMwYUx6RTRzUFE5enlxVEpyZGJTLThSNGYtQWZtc2t4aF9YVXpOUW1pNVZRVWtka2RHX05GM3pWN1pReVlhSmZnNnppQ2JIMUhJdTBSR1phZ3N0eGJBb1VNbVltQ2twekRqNTVBdWM5SGV0N0Z6TW1UaHlUY0RGVDBfc1RvOUJ6ZkFvQmU2VFlxempqY0x3akE?oc=5",
+            "source": "scanx.trade",
+            "publishedAt": "2026-11-08",
+            "lede": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "articleExcerpt": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade. Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+            "contentFingerprint": "a7094f6013c13099",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.1,
+              "llmExclude": false,
+              "llmReason": "This is a law-firm (Ademi LLP) class action probe into a firm-wide data breach at Apollo Global. It is not tied to a non-credit business line, so it reaches Apollo's credit platform and is not excluded. It is a law-firm investor alert with no specific strategy, so importance is low.",
+              "llmReasonZh": "这是律师事务所（Ademi LLP）针对Apollo Global全公司范围数据泄露事件发起的集体诉讼调查。该事件不限于某一非信贷业务线，因此波及Apollo的信贷平台，未予排除。此为律师事务所发布的投资者提示，未涉及具体策略，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.1
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "scanx.trade"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.94,
+              "finalScore": 9.940000000000001,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -165690,6 +165788,104 @@
           }
         },
         {
+          "id": "2026-11-08-be5a1fcc3e33",
+          "title": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade",
+          "titleZh": "Apollo Global数据泄露事件遭Ademi LLP发起第二起集体诉讼调查 - scanx.trade",
+          "summary": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "summaryZh": "Apollo Global数据泄露事件遭Ademi LLP发起第二起集体诉讼调查 scanx.trade",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTG1RZ3FkNVlaZ3hXVHJoRWJIb0ItY0tkamdtSmtMQ1FFQWZTendnTEMwYUx6RTRzUFE5enlxVEpyZGJTLThSNGYtQWZtc2t4aF9YVXpOUW1pNVZRVWtka2RHX05GM3pWN1pReVlhSmZnNnppQ2JIMUhJdTBSR1phZ3N0eGJBb1VNbVltQ2twekRqNTVBdWM5SGV0N0Z6TW1UaHlUY0RGVDBfc1RvOUJ6ZkFvQmU2VFlxempqY0x3akE?oc=5",
+          "source": "scanx.trade",
+          "publishedAt": "2026-11-08",
+          "lede": "Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "articleExcerpt": "Apollo Global data breach draws second class action probe from Ademi LLP - scanx.trade. Apollo Global data breach draws second class action probe from Ademi LLP scanx.trade",
+          "contentFingerprint": "a7094f6013c13099",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.1,
+            "llmExclude": false,
+            "llmReason": "This is a law-firm (Ademi LLP) class action probe into a firm-wide data breach at Apollo Global. It is not tied to a non-credit business line, so it reaches Apollo's credit platform and is not excluded. It is a law-firm investor alert with no specific strategy, so importance is low.",
+            "llmReasonZh": "这是律师事务所（Ademi LLP）针对Apollo Global全公司范围数据泄露事件发起的集体诉讼调查。该事件不限于某一非信贷业务线，因此波及Apollo的信贷平台，未予排除。此为律师事务所发布的投资者提示，未涉及具体策略，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.55,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.1
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "scanx.trade"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.94,
+            "finalScore": 9.940000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-08-8b916c7fbaa9",
           "title": "TPG Mortgage Investment Trust Inc (MITT) (Q3 2026) Earnings Call - GuruFocus",
           "titleZh": "TPG Mortgage Investment Trust Inc (MITT) 2026年第三季度业绩电话会议 - GuruFocus",
@@ -166905,6 +167101,102 @@
               "keywordScore": 11,
               "semanticScore": 5.4,
               "finalScore": 16.4,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-11a703138a83",
+            "title": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call - Yahoo Finance",
+            "titleZh": "KKR & Co. Inc. (KKR) 第三季度财报电话会议要点 - Yahoo Finance",
+            "summary": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+            "summaryZh": "KKR & Co. Inc. (KKR) 第三季度财报电话会议要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd01CSEdzOUk4MmYwVDM3QzNVRE9IckRoRUFZai13QjJKQkFrNGxMbGhKQ0lhcjR4VEVSUVp6b1BSSDRURGh0YU9DRlcwc1JNaTdOZlcyYkR3NWFOXzZOUExwOTBTcFRqa1NDV2IyVWl2V2N3V0J2VnZ4U0pnekNSWmp2Q0ZTN2EzSXJFag?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-09",
+            "lede": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+            "articleExcerpt": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call - Yahoo Finance. What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+            "contentFingerprint": "899308e6905deb05",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "General commentary on KKR's Q3 earnings call. The text is only a headline, with no credit-specific detail. Firm-wide earnings likely touch on KKR's credit business, so it is kept as low-importance manager or analyst commentary, with no strategy or event identifiable.",
+              "llmReasonZh": "关于KKR第三季度财报电话会议的一般性评论。文本仅有标题，无信贷相关细节。公司整体业绩可能涉及KKR的信贷业务，因此作为低重要性的管理人或分析师评论保留，未识别出具体策略或事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.45,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.18,
+              "finalScore": 16.18,
               "semanticEnabled": true
             }
           }
@@ -168549,6 +168841,106 @@
               "finalScore": 20.65,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-09-29f6892680eb",
+            "title": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 - Securities.io",
+            "titleZh": "Apollo发行6亿美元2056年到期7.550%次级票据 - Securities.io",
+            "summary": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+            "summaryZh": "Apollo发行6亿美元2056年到期7.550%次级票据 Securities.io",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFYzZ1otZGc0WDkzU1R1Yi1odW9ad3BQWjMwV3NPdkd1MlhFU25lZHFNYlRDWnFXdGh0WnVZSVVwZU5UMHNZbGhuV2ZtY1pIQXdVdjJySVRHbl9acFB3cURLLWt1UEF0ajc0NmZQZUxqMU0tcE00NVZOWXBfX3V0bDFyNFFOZ1RaeDY4Z25B?oc=5",
+            "source": "Securities.io",
+            "publishedAt": "2026-11-09",
+            "lede": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+            "articleExcerpt": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 - Securities.io. Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+            "contentFingerprint": "4032fdf121bcfe46",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.55,
+              "llmExclude": false,
+              "llmReason": "Apollo Global Management issued $600M of 7.550% junior subordinated notes due 2056. This is corporate debt issuance by a tracked GP, so it counts as a financing event. It is not about a buyout or infrastructure equity. It is parent-level capital-structure news rather than a specific credit strategy transaction, so no strategy tag applies and importance is moderate.",
+              "llmReasonZh": "Apollo Global Management发行了6亿美元2056年到期、票面利率7.550%的次级债券（junior subordinated notes）。这是受跟踪GP的公司债发行，因此属于融资事件。该事件与杠杆收购或基础设施股权无关。这属于母公司层面的资本结构新闻，而非具体信贷策略交易，因此不适用任何策略标签，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.68,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.55
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Securities.io"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 5.06,
+              "finalScore": 13.059999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [
@@ -169865,6 +170257,102 @@
             "keywordScore": 11,
             "semanticScore": 5.4,
             "finalScore": 16.4,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-11a703138a83",
+          "title": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call - Yahoo Finance",
+          "titleZh": "KKR & Co. Inc. (KKR) 第三季度财报电话会议要点 - Yahoo Finance",
+          "summary": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+          "summaryZh": "KKR & Co. Inc. (KKR) 第三季度财报电话会议要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd01CSEdzOUk4MmYwVDM3QzNVRE9IckRoRUFZai13QjJKQkFrNGxMbGhKQ0lhcjR4VEVSUVp6b1BSSDRURGh0YU9DRlcwc1JNaTdOZlcyYkR3NWFOXzZOUExwOTBTcFRqa1NDV2IyVWl2V2N3V0J2VnZ4U0pnekNSWmp2Q0ZTN2EzSXJFag?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-09",
+          "lede": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+          "articleExcerpt": "What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call - Yahoo Finance. What KKR & Co. Inc. (KKR) Said on Its Q3 Earnings Call Yahoo Finance",
+          "contentFingerprint": "899308e6905deb05",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "General commentary on KKR's Q3 earnings call. The text is only a headline, with no credit-specific detail. Firm-wide earnings likely touch on KKR's credit business, so it is kept as low-importance manager or analyst commentary, with no strategy or event identifiable.",
+            "llmReasonZh": "关于KKR第三季度财报电话会议的一般性评论。文本仅有标题，无信贷相关细节。公司整体业绩可能涉及KKR的信贷业务，因此作为低重要性的管理人或分析师评论保留，未识别出具体策略或事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.45,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.18,
+            "finalScore": 16.18,
             "semanticEnabled": true
           }
         },
@@ -171497,6 +171985,106 @@
           }
         },
         {
+          "id": "2026-11-09-29f6892680eb",
+          "title": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 - Securities.io",
+          "titleZh": "Apollo发行6亿美元2056年到期7.550%次级票据 - Securities.io",
+          "summary": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+          "summaryZh": "Apollo发行6亿美元2056年到期7.550%次级票据 Securities.io",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFYzZ1otZGc0WDkzU1R1Yi1odW9ad3BQWjMwV3NPdkd1MlhFU25lZHFNYlRDWnFXdGh0WnVZSVVwZU5UMHNZbGhuV2ZtY1pIQXdVdjJySVRHbl9acFB3cURLLWt1UEF0ajc0NmZQZUxqMU0tcE00NVZOWXBfX3V0bDFyNFFOZ1RaeDY4Z25B?oc=5",
+          "source": "Securities.io",
+          "publishedAt": "2026-11-09",
+          "lede": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+          "articleExcerpt": "Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 - Securities.io. Apollo Raises $600 Million With 7.550% Junior Notes Due 2056 Securities.io",
+          "contentFingerprint": "4032fdf121bcfe46",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.55,
+            "llmExclude": false,
+            "llmReason": "Apollo Global Management issued $600M of 7.550% junior subordinated notes due 2056. This is corporate debt issuance by a tracked GP, so it counts as a financing event. It is not about a buyout or infrastructure equity. It is parent-level capital-structure news rather than a specific credit strategy transaction, so no strategy tag applies and importance is moderate.",
+            "llmReasonZh": "Apollo Global Management发行了6亿美元2056年到期、票面利率7.550%的次级债券（junior subordinated notes）。这是受跟踪GP的公司债发行，因此属于融资事件。该事件与杠杆收购或基础设施股权无关。这属于母公司层面的资本结构新闻，而非具体信贷策略交易，因此不适用任何策略标签，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.68,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.55
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Securities.io"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 5.06,
+            "finalScore": 13.059999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-09-c09e488a7459",
           "title": "TPG Mortgage Investment Trust, Inc. (MITT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "titleZh": "TPG Mortgage Investment Trust, Inc. (MITT) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
@@ -172115,11 +172703,540 @@
               "finalScore": 16.9,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-9b5d586f7c47",
+            "title": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+            "titleZh": "KKR Real Estate Finance：长期投资者需关注的3个要点 - Yahoo Finance",
+            "summary": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+            "summaryZh": "KKR Real Estate Finance：长期投资者需关注的3个要点 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTi1WNHQ4bWRoT1VNVmJzYy1pRFdyTTRlTU5CcGFuT3VjSWdvSGxLcXA4R1VZM1RhQmM1aXN2WTlBYl84S19Mb3d5c3lnVGg3TFFPS1VkclRXX3lUMnB6TkRfTWRpMHlBRXVFQ18zT09odXp2Y0wyLVFmQWhyNGdmMENaaFl2R1FCeC1GNUJlUlk?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+            "articleExcerpt": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors - Yahoo Finance. KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+            "contentFingerprint": "d78d350903129b00",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so the article is credit-relevant. It reads as stock-analysis or investor-takeaway commentary with no specific transaction, lawsuit or fundraise, so importance is low.",
+              "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款平台，因此该文章与信贷相关。文章属于股票分析或投资者要点类评论，未涉及具体交易、诉讼或募资，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.8,
+              "finalScore": 19.8,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-31171f283721",
+            "title": "KKR & Co. Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+            "titleZh": "KKR & Co. Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+            "summary": "KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "summaryZh": "KKR & Co. Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTNmLUJnYzVwNXdZcnB4aFRqRWdQMWFuVEVLT3pXTGVONXFIWEh0cE1XdVRLSWtNOG80QXB2NDhqcC1FOWhxQ2JWYmE4R1RoSnB4Z01IZ2tsU0E0Y0lwSEx2ZE55aUg1Y0dRWFdKVzVtbzJScHdwYUVvS1FGZlNXY19uaXRsdmhPaGVR?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "articleExcerpt": "KKR & Co. Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+            "contentFingerprint": "3566dd52611ff72e",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Firm-wide KKR quarterly earnings call summary. The text is only a title with no detail, so no specific credit strategy or event can be identified. KKR earnings typically cover credit AUM and flows, so this is routine manager news of moderate relevance and is not excluded.",
+              "llmReasonZh": "KKR全公司层面的季度财报电话会议摘要。文本仅有标题，无具体内容，因此无法识别具体的信贷策略或事件。KKR财报通常涵盖信贷资产管理规模及资金流动情况，因此属于相关性中等的常规管理人新闻，未予排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.15,
+              "finalScore": 16.15,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-10-2396ca03b37b",
+            "title": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Yahoo Finance",
+            "titleZh": "单户租赁业主Pretium将支付$50M就欺骗性租金定价指控达成和解 - Yahoo Finance",
+            "summary": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+            "summaryZh": "单户租赁业主Pretium将支付$50M就欺骗性租金定价指控达成和解 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTIyRHdGYlltb2VmRDF5TDE1aVdvSGxHQjl1ekdnVTVKNE0yWm1Zcmo1NGJjaVFkUmVSNUNqNnl3Y1UtYkJJbjNyNjk0bHdPV1FMUDFUSVo2TmZwOHAtMmUybTl6ZFRtUndLaWx2NUtYMTZ6T1owbXFES19ueHRSbk52bEVQamxOMTlqbmFnQlc?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+            "articleExcerpt": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Yahoo Finance. SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+            "contentFingerprint": "37d9bba52dcaec54",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit",
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [
+                "sfr"
+              ],
+              "titleStrategies": [
+                "sfr"
+              ],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Pretium, a tracked GP, is paying a $50M settlement over deceptive rental pricing in its single-family rental business. SFR is an explicitly tracked strategy, and a regulatory settlement is a lawsuit event. This is the kind of legal and reputational risk credit investors need to know about.",
+              "llmReasonZh": "受跟踪的GP Pretium因其单户租赁业务存在欺骗性租金定价问题，将支付$50M和解金。单户租赁（SFR）是明确跟踪的策略，而监管和解属于诉讼事件。此类法律和声誉风险是信贷投资者需要了解的信息。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.95,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit",
+                    "financing"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.78,
+              "finalScore": 18.78,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-43ae92a82afc",
+            "title": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims - The Atlanta Journal-Constitution",
+            "titleZh": "Progress Residential与Pretium就欺诈性定价指控达成5000万美元和解 - The Atlanta Journal-Constitution",
+            "summary": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+            "summaryZh": "Progress Residential与Pretium就欺诈性定价指控达成5000万美元和解 The Atlanta Journal-Constitution",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SNlpQYUNkRzJZNEs4MC1yRXZjTkoyWGFabTlWZzdnTHhDQWNuSHNUZ1J5NGdUU0NzbU9tVDlaS1Q4bnR6bVBqZDluSGdIMmw5QkFMREJwT0tveVNkZ2tkaEJaV2ZEcXFDOGl3YVFzTjRUTU1JSzB4emV6WEVUUQ?oc=5",
+            "source": "The Atlanta Journal-Constitution",
+            "publishedAt": "2026-11-10",
+            "lede": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+            "articleExcerpt": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims - The Atlanta Journal-Constitution. Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+            "contentFingerprint": "72d69e4e9c8dbfe8",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Pretium and its single-family rental platform Progress Residential agreed to a $50M settlement over deceptive pricing claims. SFR is a tracked strategy, and Progress is a major issuer of SFR securitizations, so this litigation is relevant to credit exposure.",
+              "llmReasonZh": "Pretium及其单户租赁平台Progress Residential就欺诈性定价指控同意达成5000万美元和解。单户租赁（SFR）为跟踪策略，且Progress是SFR证券化产品的主要发行人，因此该诉讼与信用敞口相关。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.52,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.34
+                },
+                "event": {
+                  "value": 0.95,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Atlanta Journal-Constitution"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.08,
+              "finalScore": 10.08,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-4624403b0197",
+            "title": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Bisnow",
+            "titleZh": "SFR业主Pretium将支付$50M就欺骗性租金定价指控达成和解 - Bisnow",
+            "summary": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+            "summaryZh": "SFR业主Pretium将支付$50M就欺骗性租金定价指控达成和解 Bisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0RQX2ZiVDN1ZUgzc19MR2VUZ1V0UVFxVXZCX1FFQXNpRElzSXZPU1BIa3Jvam1uVVRlS2k5Nl82dFR6dldrZDJ2aktWRG82R3J0NmpyN1loNkJmRzRMM1hQY180VHJ5a2VfOGhJemZWNk43TkpMZ1R3V1JNNnpwUmNHTU0zZDQ1ZmpDQ3RrYXRkRUx5SmxjeTFuSVl4Slc5V0RZb3lMOFo2SkEyUkNxWjRvSUZZSnRKaEFnWmEwUUdYREFTalNKa3ln?oc=5",
+            "source": "Bisnow",
+            "publishedAt": "2026-11-10",
+            "lede": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+            "articleExcerpt": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Bisnow. SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+            "contentFingerprint": "2a73e3e4845d857f",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [
+                "sfr"
+              ],
+              "titleStrategies": [
+                "sfr"
+              ],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Pretium will pay $50M to settle charges over deceptive rental pricing at its single-family rental business. SFR is an explicitly tracked strategy, and Pretium's SFR platform is closely tied to its residential and SFR credit activity, including SFR securitizations. A regulatory settlement is a lawsuit-type event that a credit investor tracking Pretium should see. Importance is slightly below 1.0 because this concerns the SFR operating platform rather than a credit fund directly.",
+              "llmReasonZh": "Pretium将支付$50M，就其单户住宅租赁业务中的欺骗性租金定价指控达成和解。SFR是明确跟踪的策略，且Pretium的SFR平台与其住宅及SFR信贷业务密切相关，包括SFR证券化。监管和解属于诉讼类事件，跟踪Pretium的信贷投资者应予关注。重要性略低于1.0，因为此事涉及SFR运营平台，而非直接涉及信贷基金。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.66,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.31
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Bisnow"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 78,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 3.75,
+              "finalScore": 9.75,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "Neuberger": [],
         "BasePoint": [],
@@ -172565,6 +173682,117 @@
               "finalScore": 25.53,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-a0787f943019",
+            "title": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 - Seeking Alpha",
+            "titleZh": "Bain Capital Specialty Finance, Inc. 2026年第三季度业绩电话会议演示材料（NYSE:BCSF）2026-11-10 - Seeking Alpha",
+            "summary": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+            "summaryZh": "Bain Capital Specialty Finance, Inc. 2026年第三季度业绩电话会议演示材料（NYSE:BCSF）2026-11-10 Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXFudmZiSmY5NVNySVIzY25nb3U5YkdPdFJ0VkdtaF95dll2Y1c2dHBfb2xZR2Y2UHZ3RTk5alhwVmNCbnIwMnR5VmR6RzNqVU1WUXRGekJranBxdV93aFN5R1VLbW5PLUR2M0RJNXpCWVM3QXdtS3k3SWxrY1VHbXRZNFJ5V0YtblpkN2hmLUt0R1VmZm9aN21mQTE3Y2wwajRBMTctYkRLaU85X19YZE5BUXNadnAtUlE?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-10",
+            "lede": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 - Seeking Alpha. Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+            "contentFingerprint": "f4896a92727cf6d7",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "BCSF is Bain Capital's publicly traded BDC (direct lending vehicle). This is its Q3 2026 earnings presentation, which is routine manager news from Bain's credit business. No specific financing, fundraising or litigation event is mentioned.",
+              "llmReasonZh": "BCSF是Bain Capital旗下公开上市的BDC（直接贷款工具）。本文为其2026年第三季度业绩演示材料，属于Bain信贷业务的常规管理人新闻。文中未提及具体的融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.91,
+              "finalScore": 24.91,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -172780,6 +174008,323 @@
               "finalScore": 21.740000000000002,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-963a6f4ccea4",
+            "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial - MarketBeat",
+            "titleZh": "B. Riley Financial下调Blackstone Secured Lending Fund（NYSE:BXSL）目标价 - MarketBeat",
+            "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+            "summaryZh": "B. Riley Financial下调Blackstone Secured Lending Fund（NYSE:BXSL）股票目标价 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZERsbmNBdGU5bW9CbEw2eXZrWjFoeGpiTEdycVNweU5mN3V5cWhIbUdBMXlpUnpKLWx1d1VtS3pJN3pVcW9kTXh0c25YclFjOVM5RXdha2RrLVFKak44OU41dHVTaXRZUEFKVDE1YmU3bTR3V0hIdHRtaGtIM0IzYnQweUZ6REJNLU1vb19OdGh5UHhDMmoxTnpIdnQxT1Qxendkd0VKQm9qMVlCTDVaYmNpcXB4ZFZLRzBGemVZd045blE3eEYycnRXTGd3MEdDMTNnLXRjODNFZkRxLXpEUEV4SmpaeXpEMlE?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+            "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+            "contentFingerprint": "460b5a67039014e5",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "B. Riley cut its price target on Blackstone Secured Lending Fund (BXSL), Blackstone's publicly traded BDC, so it falls under Blackstone's credit business. This is analyst commentary with no financing, fundraising or litigation event, so importance is low.",
+              "llmReasonZh": "B. Riley下调了Blackstone Secured Lending Fund（BXSL）的目标价。BXSL是Blackstone旗下公开上市的BDC，属于Blackstone信贷业务范畴。此为分析师评论，不涉及融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.28,
+              "finalScore": 22.28,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-ea4001a663fb",
+            "title": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? - Yahoo Finance",
+            "titleZh": "Blackstone Inc. (BX)资产规模创纪录但面临私募信贷担忧：抛售是否带来机会？ - Yahoo Finance",
+            "summary": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+            "summaryZh": "Blackstone Inc. (BX)资产规模创纪录但面临私募信贷担忧：抛售是否带来机会？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG5VSEJTMlRnRHJRMkdUZDdYMnZHVjE3YlhaOVgyV3hNOWowXzF4NHptUnJpeUZsUnVoeFV6M2hLWlZKaTV3X0tEOHVINWM2d2tTU2pNelg4UVJJRU9jcjIwaUtnUWZHZnlYelBuSVFRWW5aNHJhSTZpb2pMd1RYdzd3T1dBVU81c3FjdXJDcGp5ZjRCRW90V0dKR3Q?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+            "articleExcerpt": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? - Yahoo Finance. Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+            "contentFingerprint": "54f978468183c0fc",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "This is stock and analyst commentary on Blackstone (BX) shares after a sell-off. The angle is concern about its private credit business, so it is credit-relevant and should not be excluded. No lawsuit, financing or fundraising event is reported, so importance is low, slightly above pure stock commentary because of the credit-risk theme.",
+              "llmReasonZh": "本文是关于Blackstone (BX)股价遭抛售后的股票及分析师评论。文章聚焦于市场对其私募信贷业务的担忧，因此与信贷相关，不应排除。文中未报道诉讼、融资或募资事件，因此重要性较低，但因涉及信用风险主题，略高于纯股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.45,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.55,
+              "finalScore": 20.55,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-562df6161920",
+            "title": "Blackstone Closes European Lending Fund as Strategy Reaches €13B - https://www.connectmoney.com/",
+            "titleZh": "Blackstone完成欧洲贷款基金募集，该策略规模达€13B",
+            "summary": "Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+            "summaryZh": "Blackstone完成欧洲贷款基金募集，该策略规模达€13B https://www.connectmoney.com/",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV191QkcyZFlFeEM0WWU2dlFkOERsd3dMSVgtelFlZDJQQUZETDFWZndrU3ZPRWpfdENfNzRMOVk4c0VMWVNpb3duMGZlN3JWRTk2U2xPNlNTQ1hFZzVDc09wUTduTnpGSVY0V1Y5MnV6bGQ2em83ZGxaSTJzQTBJMVVNb1paZDZKRUR3VXdESndLRUhKRURPbDBEM0pQOGV6enpGMQ?oc=5",
+            "source": "https://www.connectmoney.com/",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+            "articleExcerpt": "Blackstone Closes European Lending Fund as Strategy Reaches €13B - https://www.connectmoney.com/. Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+            "contentFingerprint": "a783644c1d02e98e",
+            "region": "Europe",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 1.0,
+              "llmExclude": false,
+              "llmReason": "Blackstone closed a European lending (direct lending/private credit) fund, bringing the strategy to €13B. This is a fund close in its credit business, which counts as fundraising, and a final close merits high importance.",
+              "llmReasonZh": "Blackstone完成一只欧洲贷款（直接贷款/私募信贷）基金的募集，使该策略规模达到€13B。这是其信贷业务的基金募集完成事件，属于募资类别，且为最终关账，重要性较高。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 1.0
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "https://www.connectmoney.com/"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 4.94,
+              "finalScore": 19.94,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -172880,6 +174425,120 @@
               "keywordScore": 15,
               "semanticScore": 6.19,
               "finalScore": 21.19,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-0ff6ec779eba",
+            "title": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters - Yahoo Finance",
+            "titleZh": "Apollo Global Management, Inc. (APO)以350亿美元交易为AI热潮提供融资：意义何在 - Yahoo Finance",
+            "summary": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+            "summaryZh": "Apollo Global Management, Inc. (APO)以350亿美元交易为AI热潮提供融资：意义何在 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWI2b0MzRWFkbC1yV0xvRXF0N2UyLWFmdkpJUjE3MjhHa3pGaU5qUHhpRkZnVkxYUW9JWXpCLUFHZkRLOWIwUDBwdjZwMGxBYXpZZUZaQ2dsUllTcVNqU2p5N09FdS0wVWxsVEdNWjh3ekVvYWp2eXdnTzNvd0lCVXA0cDJ3ZDVYYXpjc0RFaGtUc0U4TnJGRkFKRnc?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+            "articleExcerpt": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters - Yahoo Finance. Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+            "contentFingerprint": "45378f10d8a63541",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Apollo is providing about $35B of financing tied to AI infrastructure, which is credit/financing activity. It is a large transaction, but the piece reads as Yahoo Finance commentary on the deal rather than primary deal news, so importance is set slightly above ordinary financing.",
+              "llmReasonZh": "Apollo正为AI基础设施提供约350亿美元融资，属于信贷/融资活动。该交易规模较大，但本文为Yahoo Finance对该交易的评论，而非一手交易新闻，因此重要性设定为略高于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.33,
+              "finalScore": 23.33,
               "semanticEnabled": true
             }
           }
@@ -173299,6 +174958,534 @@
             "keywordScore": 11,
             "semanticScore": 5.9,
             "finalScore": 16.9,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-9b5d586f7c47",
+          "title": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+          "titleZh": "KKR Real Estate Finance：长期投资者需关注的3个要点 - Yahoo Finance",
+          "summary": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+          "summaryZh": "KKR Real Estate Finance：长期投资者需关注的3个要点 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTi1WNHQ4bWRoT1VNVmJzYy1pRFdyTTRlTU5CcGFuT3VjSWdvSGxLcXA4R1VZM1RhQmM1aXN2WTlBYl84S19Mb3d5c3lnVGg3TFFPS1VkclRXX3lUMnB6TkRfTWRpMHlBRXVFQ18zT09odXp2Y0wyLVFmQWhyNGdmMENaaFl2R1FCeC1GNUJlUlk?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+          "articleExcerpt": "KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors - Yahoo Finance. KKR Real Estate Finance: 3 Key Takeaways for Long-Term Investors Yahoo Finance",
+          "contentFingerprint": "d78d350903129b00",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so the article is credit-relevant. It reads as stock-analysis or investor-takeaway commentary with no specific transaction, lawsuit or fundraise, so importance is low.",
+            "llmReasonZh": "KKR Real Estate Finance Trust是KKR旗下的商业地产贷款平台，因此该文章与信贷相关。文章属于股票分析或投资者要点类评论，未涉及具体交易、诉讼或募资，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.8,
+            "finalScore": 19.8,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-31171f283721",
+          "title": "KKR & Co. Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+          "titleZh": "KKR & Co. Inc. 2026年第三季度财报电话会议摘要 - Yahoo Finance",
+          "summary": "KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "summaryZh": "KKR & Co. Inc. 2026年第三季度财报电话会议摘要 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTNmLUJnYzVwNXdZcnB4aFRqRWdQMWFuVEVLT3pXTGVONXFIWEh0cE1XdVRLSWtNOG80QXB2NDhqcC1FOWhxQ2JWYmE4R1RoSnB4Z01IZ2tsU0E0Y0lwSEx2ZE55aUg1Y0dRWFdKVzVtbzJScHdwYUVvS1FGZlNXY19uaXRsdmhPaGVR?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "articleExcerpt": "KKR & Co. Inc. Q3 2026 Earnings Call Summary - Yahoo Finance. KKR & Co. Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+          "contentFingerprint": "3566dd52611ff72e",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Firm-wide KKR quarterly earnings call summary. The text is only a title with no detail, so no specific credit strategy or event can be identified. KKR earnings typically cover credit AUM and flows, so this is routine manager news of moderate relevance and is not excluded.",
+            "llmReasonZh": "KKR全公司层面的季度财报电话会议摘要。文本仅有标题，无具体内容，因此无法识别具体的信贷策略或事件。KKR财报通常涵盖信贷资产管理规模及资金流动情况，因此属于相关性中等的常规管理人新闻，未予排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.15,
+            "finalScore": 16.15,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-2396ca03b37b",
+          "title": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Yahoo Finance",
+          "titleZh": "单户租赁业主Pretium将支付$50M就欺骗性租金定价指控达成和解 - Yahoo Finance",
+          "summary": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+          "summaryZh": "单户租赁业主Pretium将支付$50M就欺骗性租金定价指控达成和解 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTIyRHdGYlltb2VmRDF5TDE1aVdvSGxHQjl1ekdnVTVKNE0yWm1Zcmo1NGJjaVFkUmVSNUNqNnl3Y1UtYkJJbjNyNjk0bHdPV1FMUDFUSVo2TmZwOHAtMmUybTl6ZFRtUndLaWx2NUtYMTZ6T1owbXFES19ueHRSbk52bEVQamxOMTlqbmFnQlc?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+          "articleExcerpt": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Yahoo Finance. SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Yahoo Finance",
+          "contentFingerprint": "37d9bba52dcaec54",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit",
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [
+              "sfr"
+            ],
+            "titleStrategies": [
+              "sfr"
+            ],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Pretium, a tracked GP, is paying a $50M settlement over deceptive rental pricing in its single-family rental business. SFR is an explicitly tracked strategy, and a regulatory settlement is a lawsuit event. This is the kind of legal and reputational risk credit investors need to know about.",
+            "llmReasonZh": "受跟踪的GP Pretium因其单户租赁业务存在欺骗性租金定价问题，将支付$50M和解金。单户租赁（SFR）是明确跟踪的策略，而监管和解属于诉讼事件。此类法律和声誉风险是信贷投资者需要了解的信息。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.95,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit",
+                  "financing"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.78,
+            "finalScore": 18.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-43ae92a82afc",
+          "title": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims - The Atlanta Journal-Constitution",
+          "titleZh": "Progress Residential与Pretium就欺诈性定价指控达成5000万美元和解 - The Atlanta Journal-Constitution",
+          "summary": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+          "summaryZh": "Progress Residential与Pretium就欺诈性定价指控达成5000万美元和解 The Atlanta Journal-Constitution",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SNlpQYUNkRzJZNEs4MC1yRXZjTkoyWGFabTlWZzdnTHhDQWNuSHNUZ1J5NGdUU0NzbU9tVDlaS1Q4bnR6bVBqZDluSGdIMmw5QkFMREJwT0tveVNkZ2tkaEJaV2ZEcXFDOGl3YVFzTjRUTU1JSzB4emV6WEVUUQ?oc=5",
+          "source": "The Atlanta Journal-Constitution",
+          "publishedAt": "2026-11-10",
+          "lede": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+          "articleExcerpt": "Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims - The Atlanta Journal-Constitution. Progress Residential, Pretium agree to $50M settlement over deceptive pricing claims The Atlanta Journal-Constitution",
+          "contentFingerprint": "72d69e4e9c8dbfe8",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Pretium and its single-family rental platform Progress Residential agreed to a $50M settlement over deceptive pricing claims. SFR is a tracked strategy, and Progress is a major issuer of SFR securitizations, so this litigation is relevant to credit exposure.",
+            "llmReasonZh": "Pretium及其单户租赁平台Progress Residential就欺诈性定价指控同意达成5000万美元和解。单户租赁（SFR）为跟踪策略，且Progress是SFR证券化产品的主要发行人，因此该诉讼与信用敞口相关。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.52,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.34
+              },
+              "event": {
+                "value": 0.95,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Atlanta Journal-Constitution"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.08,
+            "finalScore": 10.08,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-4624403b0197",
+          "title": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Bisnow",
+          "titleZh": "SFR业主Pretium将支付$50M就欺骗性租金定价指控达成和解 - Bisnow",
+          "summary": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+          "summaryZh": "SFR业主Pretium将支付$50M就欺骗性租金定价指控达成和解 Bisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0RQX2ZiVDN1ZUgzc19MR2VUZ1V0UVFxVXZCX1FFQXNpRElzSXZPU1BIa3Jvam1uVVRlS2k5Nl82dFR6dldrZDJ2aktWRG82R3J0NmpyN1loNkJmRzRMM1hQY180VHJ5a2VfOGhJemZWNk43TkpMZ1R3V1JNNnpwUmNHTU0zZDQ1ZmpDQ3RrYXRkRUx5SmxjeTFuSVl4Slc5V0RZb3lMOFo2SkEyUkNxWjRvSUZZSnRKaEFnWmEwUUdYREFTalNKa3ln?oc=5",
+          "source": "Bisnow",
+          "publishedAt": "2026-11-10",
+          "lede": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+          "articleExcerpt": "SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing - Bisnow. SFR Owner Pretium To Pay $50M To Settle Charges Over Deceptive Rental Pricing Bisnow",
+          "contentFingerprint": "2a73e3e4845d857f",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [
+              "sfr"
+            ],
+            "titleStrategies": [
+              "sfr"
+            ],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Pretium will pay $50M to settle charges over deceptive rental pricing at its single-family rental business. SFR is an explicitly tracked strategy, and Pretium's SFR platform is closely tied to its residential and SFR credit activity, including SFR securitizations. A regulatory settlement is a lawsuit-type event that a credit investor tracking Pretium should see. Importance is slightly below 1.0 because this concerns the SFR operating platform rather than a credit fund directly.",
+            "llmReasonZh": "Pretium将支付$50M，就其单户住宅租赁业务中的欺骗性租金定价指控达成和解。SFR是明确跟踪的策略，且Pretium的SFR平台与其住宅及SFR信贷业务密切相关，包括SFR证券化。监管和解属于诉讼类事件，跟踪Pretium的信贷投资者应予关注。重要性略低于1.0，因为此事涉及SFR运营平台，而非直接涉及信贷基金。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.66,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.31
+              },
+              "event": {
+                "value": 0.93,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Bisnow"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 78,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 3.75,
+            "finalScore": 9.75,
             "semanticEnabled": true
           }
         },
@@ -173745,6 +175932,117 @@
           }
         },
         {
+          "id": "2026-11-10-a0787f943019",
+          "title": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 - Seeking Alpha",
+          "titleZh": "Bain Capital Specialty Finance, Inc. 2026年第三季度业绩电话会议演示材料（NYSE:BCSF）2026-11-10 - Seeking Alpha",
+          "summary": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+          "summaryZh": "Bain Capital Specialty Finance, Inc. 2026年第三季度业绩电话会议演示材料（NYSE:BCSF）2026-11-10 Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXFudmZiSmY5NVNySVIzY25nb3U5YkdPdFJ0VkdtaF95dll2Y1c2dHBfb2xZR2Y2UHZ3RTk5alhwVmNCbnIwMnR5VmR6RzNqVU1WUXRGekJranBxdV93aFN5R1VLbW5PLUR2M0RJNXpCWVM3QXdtS3k3SWxrY1VHbXRZNFJ5V0YtblpkN2hmLUt0R1VmZm9aN21mQTE3Y2wwajRBMTctYkRLaU85X19YZE5BUXNadnAtUlE?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-10",
+          "lede": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 - Seeking Alpha. Bain Capital Specialty Finance, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:BCSF) 2026-11-10 Seeking Alpha",
+          "contentFingerprint": "f4896a92727cf6d7",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "BCSF is Bain Capital's publicly traded BDC (direct lending vehicle). This is its Q3 2026 earnings presentation, which is routine manager news from Bain's credit business. No specific financing, fundraising or litigation event is mentioned.",
+            "llmReasonZh": "BCSF是Bain Capital旗下公开上市的BDC（直接贷款工具）。本文为其2026年第三季度业绩演示材料，属于Bain信贷业务的常规管理人新闻。文中未提及具体的融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.91,
+            "finalScore": 24.91,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-444e5091effe",
           "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
           "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
@@ -173958,6 +176256,323 @@
           }
         },
         {
+          "id": "2026-11-10-963a6f4ccea4",
+          "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial - MarketBeat",
+          "titleZh": "B. Riley Financial下调Blackstone Secured Lending Fund（NYSE:BXSL）目标价 - MarketBeat",
+          "summary": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+          "summaryZh": "B. Riley Financial下调Blackstone Secured Lending Fund（NYSE:BXSL）股票目标价 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZERsbmNBdGU5bW9CbEw2eXZrWjFoeGpiTEdycVNweU5mN3V5cWhIbUdBMXlpUnpKLWx1d1VtS3pJN3pVcW9kTXh0c25YclFjOVM5RXdha2RrLVFKak44OU41dHVTaXRZUEFKVDE1YmU3bTR3V0hIdHRtaGtIM0IzYnQweUZ6REJNLU1vb19OdGh5UHhDMmoxTnpIdnQxT1Qxendkd0VKQm9qMVlCTDVaYmNpcXB4ZFZLRzBGemVZd045blE3eEYycnRXTGd3MEdDMTNnLXRjODNFZkRxLXpEUEV4SmpaeXpEMlE?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+          "articleExcerpt": "Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial - MarketBeat. Blackstone Secured Lending Fund (NYSE:BXSL) Stock Gets Price Target Cut from B. Riley Financial MarketBeat",
+          "contentFingerprint": "460b5a67039014e5",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "B. Riley cut its price target on Blackstone Secured Lending Fund (BXSL), Blackstone's publicly traded BDC, so it falls under Blackstone's credit business. This is analyst commentary with no financing, fundraising or litigation event, so importance is low.",
+            "llmReasonZh": "B. Riley下调了Blackstone Secured Lending Fund（BXSL）的目标价。BXSL是Blackstone旗下公开上市的BDC，属于Blackstone信贷业务范畴。此为分析师评论，不涉及融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.28,
+            "finalScore": 22.28,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-ea4001a663fb",
+          "title": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? - Yahoo Finance",
+          "titleZh": "Blackstone Inc. (BX)资产规模创纪录但面临私募信贷担忧：抛售是否带来机会？ - Yahoo Finance",
+          "summary": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+          "summaryZh": "Blackstone Inc. (BX)资产规模创纪录但面临私募信贷担忧：抛售是否带来机会？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG5VSEJTMlRnRHJRMkdUZDdYMnZHVjE3YlhaOVgyV3hNOWowXzF4NHptUnJpeUZsUnVoeFV6M2hLWlZKaTV3X0tEOHVINWM2d2tTU2pNelg4UVJJRU9jcjIwaUtnUWZHZnlYelBuSVFRWW5aNHJhSTZpb2pMd1RYdzd3T1dBVU81c3FjdXJDcGp5ZjRCRW90V0dKR3Q?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+          "articleExcerpt": "Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? - Yahoo Finance. Blackstone Inc. (BX) Faces Private Credit Concerns Despite Record Assets: Is the Sell-Off an Opportunity? Yahoo Finance",
+          "contentFingerprint": "54f978468183c0fc",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "This is stock and analyst commentary on Blackstone (BX) shares after a sell-off. The angle is concern about its private credit business, so it is credit-relevant and should not be excluded. No lawsuit, financing or fundraising event is reported, so importance is low, slightly above pure stock commentary because of the credit-risk theme.",
+            "llmReasonZh": "本文是关于Blackstone (BX)股价遭抛售后的股票及分析师评论。文章聚焦于市场对其私募信贷业务的担忧，因此与信贷相关，不应排除。文中未报道诉讼、融资或募资事件，因此重要性较低，但因涉及信用风险主题，略高于纯股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.45,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.55,
+            "finalScore": 20.55,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-562df6161920",
+          "title": "Blackstone Closes European Lending Fund as Strategy Reaches €13B - https://www.connectmoney.com/",
+          "titleZh": "Blackstone完成欧洲贷款基金募集，该策略规模达€13B",
+          "summary": "Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+          "summaryZh": "Blackstone完成欧洲贷款基金募集，该策略规模达€13B https://www.connectmoney.com/",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV191QkcyZFlFeEM0WWU2dlFkOERsd3dMSVgtelFlZDJQQUZETDFWZndrU3ZPRWpfdENfNzRMOVk4c0VMWVNpb3duMGZlN3JWRTk2U2xPNlNTQ1hFZzVDc09wUTduTnpGSVY0V1Y5MnV6bGQ2em83ZGxaSTJzQTBJMVVNb1paZDZKRUR3VXdESndLRUhKRURPbDBEM0pQOGV6enpGMQ?oc=5",
+          "source": "https://www.connectmoney.com/",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+          "articleExcerpt": "Blackstone Closes European Lending Fund as Strategy Reaches €13B - https://www.connectmoney.com/. Blackstone Closes European Lending Fund as Strategy Reaches €13B https://www.connectmoney.com/",
+          "contentFingerprint": "a783644c1d02e98e",
+          "region": "Europe",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 1.0,
+            "llmExclude": false,
+            "llmReason": "Blackstone closed a European lending (direct lending/private credit) fund, bringing the strategy to €13B. This is a fund close in its credit business, which counts as fundraising, and a final close merits high importance.",
+            "llmReasonZh": "Blackstone完成一只欧洲贷款（直接贷款/私募信贷）基金的募集，使该策略规模达到€13B。这是其信贷业务的基金募集完成事件，属于募资类别，且为最终关账，重要性较高。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.9,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 1.0
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "https://www.connectmoney.com/"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 4.94,
+            "finalScore": 19.94,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-bbbff368ce64",
           "title": "CFO structures evolve as general partners seek broader access to capital",
           "titleZh": "随着普通合伙人寻求更广泛的融资渠道，CFO结构不断演变",
@@ -174056,6 +176671,120 @@
             "finalScore": 21.19,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-10-0ff6ec779eba",
+          "title": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters - Yahoo Finance",
+          "titleZh": "Apollo Global Management, Inc. (APO)以350亿美元交易为AI热潮提供融资：意义何在 - Yahoo Finance",
+          "summary": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+          "summaryZh": "Apollo Global Management, Inc. (APO)以350亿美元交易为AI热潮提供融资：意义何在 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWI2b0MzRWFkbC1yV0xvRXF0N2UyLWFmdkpJUjE3MjhHa3pGaU5qUHhpRkZnVkxYUW9JWXpCLUFHZkRLOWIwUDBwdjZwMGxBYXpZZUZaQ2dsUllTcVNqU2p5N09FdS0wVWxsVEdNWjh3ekVvYWp2eXdnTzNvd0lCVXA0cDJ3ZDVYYXpjc0RFaGtUc0U4TnJGRkFKRnc?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+          "articleExcerpt": "Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters - Yahoo Finance. Apollo Global Management, Inc. (APO) Is Financing the AI Boom With a $35 Billion Deal: Here’s Why It Matters Yahoo Finance",
+          "contentFingerprint": "45378f10d8a63541",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Apollo is providing about $35B of financing tied to AI infrastructure, which is credit/financing activity. It is a large transaction, but the piece reads as Yahoo Finance commentary on the deal rather than primary deal news, so importance is set slightly above ordinary financing.",
+            "llmReasonZh": "Apollo正为AI基础设施提供约350亿美元融资，属于信贷/融资活动。该交易规模较大，但本文为Yahoo Finance对该交易的评论，而非一手交易新闻，因此重要性设定为略高于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.85,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-10T22:05:37.084647+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.33,
+            "finalScore": 23.33,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -174063,7 +176792,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 28,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -174071,7 +176800,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
@@ -174084,7 +176813,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
@@ -174097,7 +176826,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
@@ -174110,20 +176839,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 7,
-      "selected": 2,
+      "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
@@ -174136,12 +176865,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -174149,7 +176878,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
@@ -174162,12 +176891,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 37,
+      "count": 40,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -174175,12 +176904,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 90,
+      "count": 94,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -174188,38 +176917,38 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 20,
-      "selected": 2,
+      "count": 21,
+      "selected": 5,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 12,
-      "selected": 2,
+      "count": 13,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 7,
+      "count": 6,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -174227,25 +176956,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 14,
-      "selected": 0,
+      "count": 13,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 29,
+      "count": 30,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -174253,12 +176982,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 710,
+      "count": 701,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -174275,9 +177004,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-10T16:49:20.481287+00:00",
+      "asOf": "2026-11-10T22:05:37.084647+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-10T16:49:20.481287+00:00"
+  "checkedAt": "2026-11-10T22:05:37.084647+00:00"
 }
