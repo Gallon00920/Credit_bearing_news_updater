@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-09T18:54:27.048813+00:00",
+  "updatedAt": "2026-11-10T02:12:20.130447+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口一致。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所追踪的信贷敞口一致。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20777,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -162308,6 +162308,110 @@
               "finalScore": 21.05,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-08-00061ea8059e",
+            "title": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings - TipRanks",
+            "titleZh": "Blue Owl Technology Finance公布稳健季度业绩 - TipRanks",
+            "summary": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+            "summaryZh": "Blue Owl Technology Finance公布稳健季度业绩 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpGb0JOZi1QUUJKVUdYV01NaFRDLUM0RzlmUXh4V0hSX05VRWsyUGgzOWZGZ0hWMldyMkhsWUdCM3RrRkl2RE5tOXJtQUVDM3QxR1duNEszajNWLWJsMndHeldZWm1lZFMyelVsWjEzajdHM1d0TTFPeDdTcVcxcnFKODk1QnlHWldnSldicWFoT2ZHXzY5YWQ4MjVfZl92b3Q1em9ETFZKajNxMkI0SmJxemI?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-08",
+            "lede": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+            "articleExcerpt": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings - TipRanks. Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+            "contentFingerprint": "43f2e626c50591cc",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance is a Blue Owl BDC (direct lending to tech companies). The article is about its quarterly earnings, which is routine manager news about a credit vehicle and involves no financing, fundraising, or legal event.",
+              "llmReasonZh": "Blue Owl Technology Finance是Blue Owl旗下的BDC（向科技公司提供直接贷款）。本文涉及其季度业绩，属于有关信贷投资工具的常规管理人新闻，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.92,
+              "finalScore": 19.92,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -164013,6 +164117,110 @@
           }
         },
         {
+          "id": "2026-11-08-00061ea8059e",
+          "title": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings - TipRanks",
+          "titleZh": "Blue Owl Technology Finance公布稳健季度业绩 - TipRanks",
+          "summary": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+          "summaryZh": "Blue Owl Technology Finance公布稳健季度业绩 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpGb0JOZi1QUUJKVUdYV01NaFRDLUM0RzlmUXh4V0hSX05VRWsyUGgzOWZGZ0hWMldyMkhsWUdCM3RrRkl2RE5tOXJtQUVDM3QxR1duNEszajNWLWJsMndHeldZWm1lZFMyelVsWjEzajdHM1d0TTFPeDdTcVcxcnFKODk1QnlHWldnSldicWFoT2ZHXzY5YWQ4MjVfZl92b3Q1em9ETFZKajNxMkI0SmJxemI?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-08",
+          "lede": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+          "articleExcerpt": "Blue Owl Technology Finance Posts Resilient Quarterly Earnings - TipRanks. Blue Owl Technology Finance Posts Resilient Quarterly Earnings TipRanks",
+          "contentFingerprint": "43f2e626c50591cc",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance is a Blue Owl BDC (direct lending to tech companies). The article is about its quarterly earnings, which is routine manager news about a credit vehicle and involves no financing, fundraising, or legal event.",
+            "llmReasonZh": "Blue Owl Technology Finance是Blue Owl旗下的BDC（向科技公司提供直接贷款）。本文涉及其季度业绩，属于有关信贷投资工具的常规管理人新闻，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.92,
+            "finalScore": 19.92,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-08-d58196e6d138",
           "title": "KKR, Constellation Energy On Deck Monday As Private Credit, Power Face Test - Benzinga",
           "titleZh": "KKR、Constellation Energy周一受关注，私募信贷与电力板块面临考验 - Benzinga",
@@ -165488,6 +165696,110 @@
               "finalScore": 22.57,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-09-0adf8a50364f",
+            "title": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? - MarketBeat",
+            "titleZh": "Blue Owl Technology Finance Corp. (OTF)：分析师如何看待这只股票？ - MarketBeat",
+            "summary": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+            "summaryZh": "Blue Owl Technology Finance Corp. (OTF)：分析师如何看待这只股票？ MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXR3R1NBZ1ZNY2poY2ZQcEUzY3FzNXJjajExWld3ZkNsLUloaUdnd0RpS1hDQVZzbVdqc1FsSzRPSWJiejE1NHVTQTFkeHgyYXFCdmpSemVFdGxhT3FfUVlQRnlwdzZRemQ0Y1h2NGRJNGktS0Z1QkRPaGJVQVRyTHlleVVRR3ZwODNtU3F6aFd4Mk1jTWlnNWdkRVRMWEhzWUFtVkRDLVhkaTFXaUZNNF9tdEJOZmlHczN1Y29xcElFdUg3TVk2UEJpcEp1S0NQeTFLNDlYNWd6Zw?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-09",
+            "lede": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+            "articleExcerpt": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? - MarketBeat. Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+            "contentFingerprint": "f69b8110dbeff238",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp. (OTF) is a Blue Owl BDC, so it falls under its credit business. The article is MarketBeat analyst/stock commentary with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp. (OTF) 是 Blue Owl 旗下的 BDC，因此属于其信贷业务范畴。该文章为 MarketBeat 的分析师/股票评论，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.24,
+              "finalScore": 20.240000000000002,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -165796,9 +166108,320 @@
               "finalScore": 19.77,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-09-581d4aea0f8c",
+            "title": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit - Benzinga",
+            "titleZh": "“有人会赚钱，也有人会亏钱”：KKR就AI热潮与私募信贷发表看法 - Benzinga",
+            "summary": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+            "summaryZh": "“有人会赚钱，也有人会亏钱”：KKR就AI热潮与私募信贷发表看法 Benzinga",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR05ZMFJybGFsa1dwUnIwRUNnMThXNVJXcnR5aTJJZHg4OVZJbmdLTWxsejJuZlh3Mk5vRHBPOHY5UVJzZEg3TTlSRS1sQWQ2Y2VISWM3RlIzSlJKbXRFYTRDb1VsS2xzQ21reTROWUZYZnF4YkoyX3F0ZFRBY2p2ZEZ3eklIU1Q4ampwc0pVd2M0NF9MVHQzendKdWtFalhtMkhpazljT1REN0drNHE0Nm9GcVE0Y3JBSU1yMGFGM2hQRlh6dVd3ak5YWVp0WVd3M2w5RUM0U3RxV1RUbXJGendEa20?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-11-09",
+            "lede": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+            "articleExcerpt": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit - Benzinga. ‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+            "contentFingerprint": "e005860a8f2ed783",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "titleStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "KKR commentary on the AI boom and private credit markets is relevant to its credit business. It is market outlook rather than a transaction, fundraise or lawsuit, so it rates as routine-to-lower manager news.",
+              "llmReasonZh": "KKR对AI热潮及私募信贷市场的评论与其信贷业务相关。该内容属于市场展望，而非交易、募资或诉讼，因此评级为常规至较低重要性的管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Benzinga"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.93,
+              "finalScore": 21.93,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-fba8544d6337",
+            "title": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge - BigGo Finance",
+            "titleZh": "KKR利润创纪录达$1.6 Billion，资产出售与费用收入激增 - BigGo Finance",
+            "summary": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+            "summaryZh": "KKR利润创纪录达$1.6 Billion，资产出售与费用收入激增 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTHd5THBPZGczbGNHMk5uWDVWNU9Ua0N0U1lFclpGMEExdFBmTkgzd0N6WlB0THVXYU1fdU0xU1J4NUtCbHR5cnJpaDZmTmVlTE9WT0ZPZjJpTE9iQWFiR0loNGctbVFsUXljUExLU1lXOWRXY0E?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-11-09",
+            "lede": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+            "articleExcerpt": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge - BigGo Finance. KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+            "contentFingerprint": "375c0bd71129a96d",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Firm-wide KKR earnings report (record $1.6B profit driven by asset sales and fees). It is routine manager news with no specific credit, lending or fund event, and the profit driver appears to be largely private equity realizations. It is kept at low importance as a general read on the manager's health, not as a credit-specific item.",
+              "llmReasonZh": "KKR全公司层面财报（受资产出售和费用收入推动，利润创纪录达$1.6B）。此为常规管理人新闻，未涉及具体的信贷、贷款或基金事件，且利润驱动因素似乎主要来自私募股权项目退出变现。作为了解该管理人整体经营状况的一般参考，列为低重要性，而非信贷专项内容。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.62,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.64,
+              "finalScore": 16.64,
+              "semanticEnabled": true
+            }
           }
         ],
-        "CIFC": [],
+        "CIFC": [
+          {
+            "id": "2026-11-09-49416e6e18f7",
+            "title": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Catalyst/CIFC Senior Secured Income A (CFRAX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Catalyst/CIFC Senior Secured Income A (CFRAX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFN2Q0Rng2d1hxQXdrd0syNGhzZmNjRnN1cnhpajAxS0k3cS1aaVpIdnR3TjhheHJMYS1udFZNT3JLV0VvdmtBZUVvc1dXYmhDOG1XMjFOaktSM2ZVRGljLXQ5cw?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-09",
+            "lede": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "515a66cb40b0f341",
+            "region": "US",
+            "gps": [
+              "CIFC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CIFC"
+              ],
+              "titleGps": [
+                "CIFC"
+              ],
+              "llmGps": [
+                "CIFC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is an auto-generated Yahoo Finance chart page for the Catalyst/CIFC Senior Secured Income Fund, a mutual fund sub-advised by CIFC that invests in senior secured loans. CIFC is a credit manager, so the item is credit-relevant and should not be excluded. The page has no news content, only fund performance data comparable to stock price commentary, so importance is low and no event type applies. The strategy tag is approximate: the fund holds senior secured leveraged loans, which fits private credit only loosely, and the clo tag would not be justified without explicit CLO content.",
+              "llmReasonZh": "这是Yahoo Finance自动生成的Catalyst/CIFC Senior Secured Income Fund图表页面，该基金为共同基金，由CIFC担任副顾问，投资于优先担保贷款。CIFC是一家信贷管理机构，因此该条目与信贷相关，不应被排除。该页面没有新闻内容，仅有基金业绩数据，性质类似于股价评论，因此重要性较低，且不适用任何事件类型。策略标签为近似归类：该基金持有优先担保杠杆贷款，与私募信贷仅大致相符；若无明确的CLO相关内容，则不宜使用CLO标签。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CIFC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.05,
+              "finalScore": 21.05,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Pretium": [
           {
@@ -165911,7 +166534,669 @@
         "Guggenheim": [],
         "Neuberger": [],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-09-16f14f4e9e43",
+            "title": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. - Quantisnow",
+            "titleZh": "BCSF：Bain Capital Specialty Finance Inc.提交SEC 10-Q表格 - Quantisnow",
+            "summary": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+            "summaryZh": "BCSF：Bain Capital Specialty Finance Inc.提交SEC 10-Q表格 Quantisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS054SXdOX1lxR2RnQnloQ2UySEtnanhreEhfZEtwQnJEdVZJY1A4WGJjOVh4Nm9NUHRBRHJ4UUh0VC14VzFyMjdxZFF5aTNYMkZtSnpMOGxXdnRQWXJFM3JYQy10Ym44bG81MkozU0E4d3QtTVJLUl9qajAtU0R1aDU0aDZLRmw1TFFVN0hnNU5ndTNKR25IamtFT2FoUC1RQ0E?oc=5",
+            "source": "Quantisnow",
+            "publishedAt": "2026-11-09",
+            "lede": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+            "articleExcerpt": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. - Quantisnow. BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+            "contentFingerprint": "6380968bc6ee1f46",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls under its credit business. A routine quarterly 10-Q filing notice with no other content makes this ordinary manager news.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC（业务发展公司），属于其信贷业务范畴。本文仅为例行季度10-Q文件提交通知，无其他内容，因此属于一般性管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Quantisnow"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.86,
+              "finalScore": 24.86,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-61fb0641c2af",
+            "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - The Joplin Globe",
+            "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，宣布2026年第四季度每股派息$0.42 - The Joplin Globe",
+            "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+            "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 The Joplin Globe",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNWlMX2R5T1I0ZXZFS0xuT1pYNDJQLVBVQzRHUkxJdmFreXVWekVVTHk5dWtqWkZyOVU4dFZLdXhCSEEtMEFBdzFiNnA5aWVUZnQ0ZXpaMnY0TTJqM1l2NEtYNVBFU2UxY29ZV05YRDdtUG91ZHBhQ3BRc01uMlZUb25zQ1J2THp3VGhFVEx2UnU2Q2F4ZTVDQzNLYkY1bkt2bk5yQ2xVRFpmOVdOUXl2Rl9hUWtCbkZURGVRQ0lHQnFKOUhJN0NwRHNiYnZTOGozUUFYNm1qaGdBU1ZkNGxEMjVLbTRPNUNrc0hRcklrNW5RRFo5WTNIamM0Zzk4QVpKVnRhcmFlODVlblNDWERuaEpwODYyZXZvMG9XOGlLVkhLYWs5RXp0Z0E2Nl9jbGRZWk1zNXlR?oc=5",
+            "source": "The Joplin Globe",
+            "publishedAt": "2026-11-09",
+            "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - The Joplin Globe. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+            "contentFingerprint": "d62e6b52c1f67fc4",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, so it falls within the credit business. The article is a routine quarterly earnings release and dividend declaration, with no financing, fundraising or litigation event.",
+              "llmReasonZh": "Bain Capital Specialty Finance（BCSF）是Bain Capital旗下公开上市的BDC（业务发展公司），属于信贷业务范畴。该文章为常规季度业绩发布及股息宣告，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Joplin Globe"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.07,
+              "finalScore": 23.07,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-21c642e472be",
+            "title": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend - TipRanks",
+            "titleZh": "Bain Capital Specialty Finance公布第三季度业绩并宣布派息 - TipRanks",
+            "summary": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+            "summaryZh": "Bain Capital Specialty Finance公布第三季度业绩并宣布派息 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVdRSjlnMGJMVFhnUm4tOEZDRzRlNlNLaU0wS2pBMWpmUGZ6X0J4V2k4M0hPTzFvcWlYTWwzZGx5SVN3YUZfNVN5REEzQWpxcVhPVlNVVEJ0eGkyd3JyS1pvWkVMb0xENGxNT0lMVTJtQTFXcHg0UTJYWTBBRkR0QkdqRTRUTkRISkZTN3Y1cmhzT0tsN1plWUpPaGROR1lPMG4zTi1TbFU1X2RBN3VlMnozYm81SnZ3R3NrTkxwMFVQNlA5QWNLZEVR?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-09",
+            "lede": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+            "articleExcerpt": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend - TipRanks. Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+            "contentFingerprint": "ce2e3ae81f839af6",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so this is credit-relevant. A quarterly earnings report and dividend declaration is routine manager news. It involves no financing, fundraising or litigation event.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的上市BDC（商业发展公司），因此与信贷相关。季度业绩报告及派息公告属于管理人的常规新闻，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.04,
+              "finalScore": 23.04,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-8f6e3da02c98",
+            "title": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History - FinancialContent",
+            "titleZh": "Bain Capital Specialty Finance, Inc. 普通股（BCSF）股价、新闻、报价及历史数据 - FinancialContent",
+            "summary": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+            "summaryZh": "Bain Capital Specialty Finance, Inc. 普通股（BCSF）股价、新闻、报价及历史数据 FinancialContent",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iV2NHajV0dDVUdGVCZ1VJM3BjWjM3ZnBuV2pJRXZ6aUdRVFBMOElTbUdrYjgwTkl0RnBqSnA3TEtxaERnY1dHYWIwUWszTlpISUw5dlVOOW5vZw?oc=5",
+            "source": "FinancialContent",
+            "publishedAt": "2026-11-09",
+            "lede": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History - FinancialContent. Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+            "contentFingerprint": "fbff72aec22a8254",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a generic stock quote page for Bain Capital Specialty Finance (BCSF), which is Bain Capital's publicly traded BDC, so it falls under its credit business. The page has no news content, only price and quote data, so it gets the low stock-price importance.",
+              "llmReasonZh": "这是 Bain Capital Specialty Finance（BCSF）的通用股票报价页面。BCSF 是 Bain Capital 旗下公开上市的 BDC，因此归入其信贷业务。该页面不含新闻内容，仅有股价和报价数据，因此被赋予较低的股价类重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "FinancialContent"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.01,
+              "finalScore": 23.009999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-8f1c0f29d024",
+            "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Stock Titan",
+            "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，宣布2026年第四季度每股股息$0.42 - Stock Titan",
+            "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+            "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股股息$0.42 Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVBEQm96clpVcDRtcHM1cjFPSXRuV09XTi1VczMyck1LaEtIbEh2RkdHYWYtZWptVXoxOGszM3ViZHoxakNmQUFaNlFROWdlUUd1NHZxVVdTSVJQUU5GSF9LMFlxdVdsWkNobThpSXJQSW1ISi1YZHBaN2FEaVB6QU1NbktlSy14WVlnZHUxNTRfWXRjRXJ5MDRNT19DcVVQRmMtMEpjMTdITGZVTTNWREdjUFVxWW11?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-09",
+            "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Stock Titan. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+            "contentFingerprint": "bf15c93933e773fd",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, part of its private credit / direct lending business. A quarterly earnings release with a regular dividend declaration is routine manager news. It involves no financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开交易的BDC（业务发展公司），属于其私募信贷/直接贷款业务。季度业绩发布及常规股息宣布属于例行管理人新闻，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.01,
+              "finalScore": 23.009999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-09-c5f8b5d24420",
+            "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Yahoo Finance",
+            "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 - Yahoo Finance",
+            "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+            "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeC02SXd5ZjJXc1ZQTEJ5RXY1Y3g3MVFUM1pEOE1id1lmVEJxaUlfcEJHOHdqOGQzQ09IdElHQk94UGt4X0tBdnp0Y3RrX3BqX0FVV1BQR1ZWM3NvTmpkQkpPR25Ecl9JWFluYkRndVJ6dnhhVGMxUDJ3Qlk2bjJQRzk5X3dNZk1hMHNlaEdfYWpndnlPQmJKR0xlY1BCZ045?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-09",
+            "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+            "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Yahoo Finance. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+            "contentFingerprint": "dbb56ee0e4c288da",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, so it falls under the credit business. Quarterly earnings and a dividend declaration are routine manager news, not a financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Bain Capital Specialty Finance (BCSF)是Bain Capital旗下的公开交易BDC（业务发展公司），因此属于其信贷业务范畴。季度业绩及派息公告属于常规管理人新闻，并非融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.0,
+              "finalScore": 23.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [
           {
             "id": "2026-11-09-a2b280a5fe3d",
@@ -166238,6 +167523,119 @@
               "finalScore": 13.719999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-09-68b9f4f39071",
+            "title": "Blackstone BDC, mortgage REIT, cut dividends. - InvestmentNews",
+            "titleZh": "Blackstone旗下BDC及抵押贷款REIT削减股息 - InvestmentNews",
+            "summary": "Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+            "summaryZh": "Blackstone旗下BDC及抵押贷款REIT削减股息。InvestmentNews",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUm5aakRCQ3N3U29Zb0pjZkdhdmprN21nT0dhbEloYlEwWWRlZ1hJejVEaXpjUXlGbUxSZnYybXktT3hwclVLV0lzS2JZS0pISFhEWmtlYmVfMEJ3OUdVZTNoNm1BWVBNZnc4RUpmM3lRMDBKT0pCVzZ1Um9LOVpCYU01TzZFa2FMV01Rd0FZZTU4bXQ3Y1FTa2cxaElTZGlXSkFWYm00UF9RSE5FVkNCVzBtVzd3c0IxaFVVNHZ0NmJwY2R5NWVpVXIzLVZZX3VjcV9rdF9pbGtRSHI4YUpfa2xxYVdnQi1DYzZCVDVqbnZBN2xGaFlZenZwQmwwamVIaUJ1UHpHWFVGMjVUMkhEdmRFdWtRcnVfQVR3?oc=5",
+            "source": "InvestmentNews",
+            "publishedAt": "2026-11-09",
+            "lede": "Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+            "articleExcerpt": "Blackstone BDC, mortgage REIT, cut dividends. - InvestmentNews. Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+            "contentFingerprint": "4b5876ad11ba101c",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "private-credit",
+                "resi"
+              ],
+              "titleStrategies": [
+                "private-credit",
+                "resi"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "resi",
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Dividend cuts at Blackstone's BDC (private credit) and its mortgage REIT (BXMT, commercial mortgage lending) point to stress in Blackstone's credit vehicles, which matters directly to credit investors. 'resi' is tagged loosely because the text says 'mortgage'. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "Blackstone旗下BDC（私募信贷）及其抵押贷款REIT（BXMT，商业抵押贷款）削减股息，显示Blackstone旗下信贷投资工具承压，与信贷投资者直接相关。因文中提及“mortgage”（抵押贷款），故宽泛标注“resi”标签。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "InvestmentNews"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.16,
+              "finalScore": 26.16,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -166459,6 +167857,110 @@
             "keywordScore": 16,
             "semanticScore": 6.57,
             "finalScore": 22.57,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-0adf8a50364f",
+          "title": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? - MarketBeat",
+          "titleZh": "Blue Owl Technology Finance Corp. (OTF)：分析师如何看待这只股票？ - MarketBeat",
+          "summary": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+          "summaryZh": "Blue Owl Technology Finance Corp. (OTF)：分析师如何看待这只股票？ MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXR3R1NBZ1ZNY2poY2ZQcEUzY3FzNXJjajExWld3ZkNsLUloaUdnd0RpS1hDQVZzbVdqc1FsSzRPSWJiejE1NHVTQTFkeHgyYXFCdmpSemVFdGxhT3FfUVlQRnlwdzZRemQ0Y1h2NGRJNGktS0Z1QkRPaGJVQVRyTHlleVVRR3ZwODNtU3F6aFd4Mk1jTWlnNWdkRVRMWEhzWUFtVkRDLVhkaTFXaUZNNF9tdEJOZmlHczN1Y29xcElFdUg3TVk2UEJpcEp1S0NQeTFLNDlYNWd6Zw?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-09",
+          "lede": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+          "articleExcerpt": "Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? - MarketBeat. Blue Owl Technology Finance Corp. (OTF) - What Are Analysts Saying About This Stock? MarketBeat",
+          "contentFingerprint": "f69b8110dbeff238",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp. (OTF) is a Blue Owl BDC, so it falls under its credit business. The article is MarketBeat analyst/stock commentary with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp. (OTF) 是 Blue Owl 旗下的 BDC，因此属于其信贷业务范畴。该文章为 MarketBeat 的分析师/股票评论，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.24,
+            "finalScore": 20.240000000000002,
             "semanticEnabled": true
           }
         },
@@ -166769,6 +168271,316 @@
           }
         },
         {
+          "id": "2026-11-09-581d4aea0f8c",
+          "title": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit - Benzinga",
+          "titleZh": "“有人会赚钱，也有人会亏钱”：KKR就AI热潮与私募信贷发表看法 - Benzinga",
+          "summary": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+          "summaryZh": "“有人会赚钱，也有人会亏钱”：KKR就AI热潮与私募信贷发表看法 Benzinga",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR05ZMFJybGFsa1dwUnIwRUNnMThXNVJXcnR5aTJJZHg4OVZJbmdLTWxsejJuZlh3Mk5vRHBPOHY5UVJzZEg3TTlSRS1sQWQ2Y2VISWM3RlIzSlJKbXRFYTRDb1VsS2xzQ21reTROWUZYZnF4YkoyX3F0ZFRBY2p2ZEZ3eklIU1Q4ampwc0pVd2M0NF9MVHQzendKdWtFalhtMkhpazljT1REN0drNHE0Nm9GcVE0Y3JBSU1yMGFGM2hQRlh6dVd3ak5YWVp0WVd3M2w5RUM0U3RxV1RUbXJGendEa20?oc=5",
+          "source": "Benzinga",
+          "publishedAt": "2026-11-09",
+          "lede": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+          "articleExcerpt": "‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit - Benzinga. ‘Money Will Be Made and Money Will Be Lost’: KKR Sounds Off on AI Boom and Private Credit Benzinga",
+          "contentFingerprint": "e005860a8f2ed783",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "titleStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "KKR commentary on the AI boom and private credit markets is relevant to its credit business. It is market outlook rather than a transaction, fundraise or lawsuit, so it rates as routine-to-lower manager news.",
+            "llmReasonZh": "KKR对AI热潮及私募信贷市场的评论与其信贷业务相关。该内容属于市场展望，而非交易、募资或诉讼，因此评级为常规至较低重要性的管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Benzinga"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.93,
+            "finalScore": 21.93,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-fba8544d6337",
+          "title": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge - BigGo Finance",
+          "titleZh": "KKR利润创纪录达$1.6 Billion，资产出售与费用收入激增 - BigGo Finance",
+          "summary": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+          "summaryZh": "KKR利润创纪录达$1.6 Billion，资产出售与费用收入激增 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTHd5THBPZGczbGNHMk5uWDVWNU9Ua0N0U1lFclpGMEExdFBmTkgzd0N6WlB0THVXYU1fdU0xU1J4NUtCbHR5cnJpaDZmTmVlTE9WT0ZPZjJpTE9iQWFiR0loNGctbVFsUXljUExLU1lXOWRXY0E?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-11-09",
+          "lede": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+          "articleExcerpt": "KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge - BigGo Finance. KKR Posts Record $1.6 Billion Profit as Asset Sales, Fees Surge BigGo Finance",
+          "contentFingerprint": "375c0bd71129a96d",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Firm-wide KKR earnings report (record $1.6B profit driven by asset sales and fees). It is routine manager news with no specific credit, lending or fund event, and the profit driver appears to be largely private equity realizations. It is kept at low importance as a general read on the manager's health, not as a credit-specific item.",
+            "llmReasonZh": "KKR全公司层面财报（受资产出售和费用收入推动，利润创纪录达$1.6B）。此为常规管理人新闻，未涉及具体的信贷、贷款或基金事件，且利润驱动因素似乎主要来自私募股权项目退出变现。作为了解该管理人整体经营状况的一般参考，列为低重要性，而非信贷专项内容。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.62,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.64,
+            "finalScore": 16.64,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-49416e6e18f7",
+          "title": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Catalyst/CIFC Senior Secured Income A (CFRAX) 季节性回报图表 - Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Catalyst/CIFC Senior Secured Income A (CFRAX) 季节性回报图表 - Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFN2Q0Rng2d1hxQXdrd0syNGhzZmNjRnN1cnhpajAxS0k3cS1aaVpIdnR3TjhheHJMYS1udFZNT3JLV0VvdmtBZUVvc1dXYmhDOG1XMjFOaktSM2ZVRGljLXQ5cw?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-09",
+          "lede": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore. Catalyst/CIFC Senior Secured Income A (CFRAX) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "515a66cb40b0f341",
+          "region": "US",
+          "gps": [
+            "CIFC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CIFC"
+            ],
+            "titleGps": [
+              "CIFC"
+            ],
+            "llmGps": [
+              "CIFC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is an auto-generated Yahoo Finance chart page for the Catalyst/CIFC Senior Secured Income Fund, a mutual fund sub-advised by CIFC that invests in senior secured loans. CIFC is a credit manager, so the item is credit-relevant and should not be excluded. The page has no news content, only fund performance data comparable to stock price commentary, so importance is low and no event type applies. The strategy tag is approximate: the fund holds senior secured leveraged loans, which fits private credit only loosely, and the clo tag would not be justified without explicit CLO content.",
+            "llmReasonZh": "这是Yahoo Finance自动生成的Catalyst/CIFC Senior Secured Income Fund图表页面，该基金为共同基金，由CIFC担任副顾问，投资于优先担保贷款。CIFC是一家信贷管理机构，因此该条目与信贷相关，不应被排除。该页面没有新闻内容，仅有基金业绩数据，性质类似于股价评论，因此重要性较低，且不适用任何事件类型。策略标签为近似归类：该基金持有优先担保杠杆贷款，与私募信贷仅大致相符；若无明确的CLO相关内容，则不宜使用CLO标签。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CIFC"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.05,
+            "finalScore": 21.05,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-09-870679a35dc1",
           "title": "Progress Residential to Pay $49.75 Million in FTC Settlement - Gizmodo",
           "titleZh": "Progress Residential将支付$49.75 Million与FTC和解 - Gizmodo",
@@ -166871,6 +168683,667 @@
             "keywordScore": 6,
             "semanticScore": 2.9,
             "finalScore": 8.9,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-16f14f4e9e43",
+          "title": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. - Quantisnow",
+          "titleZh": "BCSF：Bain Capital Specialty Finance Inc.提交SEC 10-Q表格 - Quantisnow",
+          "summary": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+          "summaryZh": "BCSF：Bain Capital Specialty Finance Inc.提交SEC 10-Q表格 Quantisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS054SXdOX1lxR2RnQnloQ2UySEtnanhreEhfZEtwQnJEdVZJY1A4WGJjOVh4Nm9NUHRBRHJ4UUh0VC14VzFyMjdxZFF5aTNYMkZtSnpMOGxXdnRQWXJFM3JYQy10Ym44bG81MkozU0E4d3QtTVJLUl9qajAtU0R1aDU0aDZLRmw1TFFVN0hnNU5ndTNKR25IamtFT2FoUC1RQ0E?oc=5",
+          "source": "Quantisnow",
+          "publishedAt": "2026-11-09",
+          "lede": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+          "articleExcerpt": "BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. - Quantisnow. BCSF: SEC Form 10-Q filed by Bain Capital Specialty Finance Inc. Quantisnow",
+          "contentFingerprint": "6380968bc6ee1f46",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls under its credit business. A routine quarterly 10-Q filing notice with no other content makes this ordinary manager news.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC（业务发展公司），属于其信贷业务范畴。本文仅为例行季度10-Q文件提交通知，无其他内容，因此属于一般性管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Quantisnow"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.86,
+            "finalScore": 24.86,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-61fb0641c2af",
+          "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - The Joplin Globe",
+          "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，宣布2026年第四季度每股派息$0.42 - The Joplin Globe",
+          "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+          "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 The Joplin Globe",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNWlMX2R5T1I0ZXZFS0xuT1pYNDJQLVBVQzRHUkxJdmFreXVWekVVTHk5dWtqWkZyOVU4dFZLdXhCSEEtMEFBdzFiNnA5aWVUZnQ0ZXpaMnY0TTJqM1l2NEtYNVBFU2UxY29ZV05YRDdtUG91ZHBhQ3BRc01uMlZUb25zQ1J2THp3VGhFVEx2UnU2Q2F4ZTVDQzNLYkY1bkt2bk5yQ2xVRFpmOVdOUXl2Rl9hUWtCbkZURGVRQ0lHQnFKOUhJN0NwRHNiYnZTOGozUUFYNm1qaGdBU1ZkNGxEMjVLbTRPNUNrc0hRcklrNW5RRFo5WTNIamM0Zzk4QVpKVnRhcmFlODVlblNDWERuaEpwODYyZXZvMG9XOGlLVkhLYWs5RXp0Z0E2Nl9jbGRZWk1zNXlR?oc=5",
+          "source": "The Joplin Globe",
+          "publishedAt": "2026-11-09",
+          "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - The Joplin Globe. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share The Joplin Globe",
+          "contentFingerprint": "d62e6b52c1f67fc4",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, so it falls within the credit business. The article is a routine quarterly earnings release and dividend declaration, with no financing, fundraising or litigation event.",
+            "llmReasonZh": "Bain Capital Specialty Finance（BCSF）是Bain Capital旗下公开上市的BDC（业务发展公司），属于信贷业务范畴。该文章为常规季度业绩发布及股息宣告，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Joplin Globe"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.07,
+            "finalScore": 23.07,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-21c642e472be",
+          "title": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend - TipRanks",
+          "titleZh": "Bain Capital Specialty Finance公布第三季度业绩并宣布派息 - TipRanks",
+          "summary": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+          "summaryZh": "Bain Capital Specialty Finance公布第三季度业绩并宣布派息 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVdRSjlnMGJMVFhnUm4tOEZDRzRlNlNLaU0wS2pBMWpmUGZ6X0J4V2k4M0hPTzFvcWlYTWwzZGx5SVN3YUZfNVN5REEzQWpxcVhPVlNVVEJ0eGkyd3JyS1pvWkVMb0xENGxNT0lMVTJtQTFXcHg0UTJYWTBBRkR0QkdqRTRUTkRISkZTN3Y1cmhzT0tsN1plWUpPaGROR1lPMG4zTi1TbFU1X2RBN3VlMnozYm81SnZ3R3NrTkxwMFVQNlA5QWNLZEVR?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-09",
+          "lede": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+          "articleExcerpt": "Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend - TipRanks. Bain Capital Specialty Finance Reports Third-Quarter Results, Declares Dividend TipRanks",
+          "contentFingerprint": "ce2e3ae81f839af6",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so this is credit-relevant. A quarterly earnings report and dividend declaration is routine manager news. It involves no financing, fundraising or litigation event.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的上市BDC（商业发展公司），因此与信贷相关。季度业绩报告及派息公告属于管理人的常规新闻，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.04,
+            "finalScore": 23.04,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-8f6e3da02c98",
+          "title": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History - FinancialContent",
+          "titleZh": "Bain Capital Specialty Finance, Inc. 普通股（BCSF）股价、新闻、报价及历史数据 - FinancialContent",
+          "summary": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+          "summaryZh": "Bain Capital Specialty Finance, Inc. 普通股（BCSF）股价、新闻、报价及历史数据 FinancialContent",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iV2NHajV0dDVUdGVCZ1VJM3BjWjM3ZnBuV2pJRXZ6aUdRVFBMOElTbUdrYjgwTkl0RnBqSnA3TEtxaERnY1dHYWIwUWszTlpISUw5dlVOOW5vZw?oc=5",
+          "source": "FinancialContent",
+          "publishedAt": "2026-11-09",
+          "lede": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History - FinancialContent. Bain Capital Specialty Finance, Inc. Common Stock (BCSF) Stock Price, News, Quote & History FinancialContent",
+          "contentFingerprint": "fbff72aec22a8254",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a generic stock quote page for Bain Capital Specialty Finance (BCSF), which is Bain Capital's publicly traded BDC, so it falls under its credit business. The page has no news content, only price and quote data, so it gets the low stock-price importance.",
+            "llmReasonZh": "这是 Bain Capital Specialty Finance（BCSF）的通用股票报价页面。BCSF 是 Bain Capital 旗下公开上市的 BDC，因此归入其信贷业务。该页面不含新闻内容，仅有股价和报价数据，因此被赋予较低的股价类重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "FinancialContent"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.01,
+            "finalScore": 23.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-8f1c0f29d024",
+          "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Stock Titan",
+          "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，宣布2026年第四季度每股股息$0.42 - Stock Titan",
+          "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+          "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股股息$0.42 Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVBEQm96clpVcDRtcHM1cjFPSXRuV09XTi1VczMyck1LaEtIbEh2RkdHYWYtZWptVXoxOGszM3ViZHoxakNmQUFaNlFROWdlUUd1NHZxVVdTSVJQUU5GSF9LMFlxdVdsWkNobThpSXJQSW1ISi1YZHBaN2FEaVB6QU1NbktlSy14WVlnZHUxNTRfWXRjRXJ5MDRNT19DcVVQRmMtMEpjMTdITGZVTTNWREdjUFVxWW11?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-09",
+          "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Stock Titan. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Stock Titan",
+          "contentFingerprint": "bf15c93933e773fd",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, part of its private credit / direct lending business. A quarterly earnings release with a regular dividend declaration is routine manager news. It involves no financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开交易的BDC（业务发展公司），属于其私募信贷/直接贷款业务。季度业绩发布及常规股息宣布属于例行管理人新闻，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.01,
+            "finalScore": 23.009999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-c5f8b5d24420",
+          "title": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Yahoo Finance",
+          "titleZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 - Yahoo Finance",
+          "summary": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+          "summaryZh": "Bain Capital Specialty Finance, Inc.公布截至2026年9月30日财务业绩，并宣布2026年第四季度每股派息$0.42 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeC02SXd5ZjJXc1ZQTEJ5RXY1Y3g3MVFUM1pEOE1id1lmVEJxaUlfcEJHOHdqOGQzQ09IdElHQk94UGt4X0tBdnp0Y3RrX3BqX0FVV1BQR1ZWM3NvTmpkQkpPR25Ecl9JWFluYkRndVJ6dnhhVGMxUDJ3Qlk2bjJQRzk5X3dNZk1hMHNlaEdfYWpndnlPQmJKR0xlY1BCZ045?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-09",
+          "lede": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+          "articleExcerpt": "Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share - Yahoo Finance. Bain Capital Specialty Finance, Inc. Announces September 30, 2026 Financial Results and Declares Fourth Quarter 2026 Dividend of $0.42 per Share Yahoo Finance",
+          "contentFingerprint": "dbb56ee0e4c288da",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance (BCSF) is Bain Capital's publicly traded BDC, so it falls under the credit business. Quarterly earnings and a dividend declaration are routine manager news, not a financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Bain Capital Specialty Finance (BCSF)是Bain Capital旗下的公开交易BDC（业务发展公司），因此属于其信贷业务范畴。季度业绩及派息公告属于常规管理人新闻，并非融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.0,
+            "finalScore": 23.0,
             "semanticEnabled": true
           }
         },
@@ -167201,6 +169674,119 @@
           }
         },
         {
+          "id": "2026-11-09-68b9f4f39071",
+          "title": "Blackstone BDC, mortgage REIT, cut dividends. - InvestmentNews",
+          "titleZh": "Blackstone旗下BDC及抵押贷款REIT削减股息 - InvestmentNews",
+          "summary": "Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+          "summaryZh": "Blackstone旗下BDC及抵押贷款REIT削减股息。InvestmentNews",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUm5aakRCQ3N3U29Zb0pjZkdhdmprN21nT0dhbEloYlEwWWRlZ1hJejVEaXpjUXlGbUxSZnYybXktT3hwclVLV0lzS2JZS0pISFhEWmtlYmVfMEJ3OUdVZTNoNm1BWVBNZnc4RUpmM3lRMDBKT0pCVzZ1Um9LOVpCYU01TzZFa2FMV01Rd0FZZTU4bXQ3Y1FTa2cxaElTZGlXSkFWYm00UF9RSE5FVkNCVzBtVzd3c0IxaFVVNHZ0NmJwY2R5NWVpVXIzLVZZX3VjcV9rdF9pbGtRSHI4YUpfa2xxYVdnQi1DYzZCVDVqbnZBN2xGaFlZenZwQmwwamVIaUJ1UHpHWFVGMjVUMkhEdmRFdWtRcnVfQVR3?oc=5",
+          "source": "InvestmentNews",
+          "publishedAt": "2026-11-09",
+          "lede": "Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+          "articleExcerpt": "Blackstone BDC, mortgage REIT, cut dividends. - InvestmentNews. Blackstone BDC, mortgage REIT, cut dividends. InvestmentNews",
+          "contentFingerprint": "4b5876ad11ba101c",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "private-credit",
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "private-credit",
+              "resi"
+            ],
+            "titleStrategies": [
+              "private-credit",
+              "resi"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "resi",
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Dividend cuts at Blackstone's BDC (private credit) and its mortgage REIT (BXMT, commercial mortgage lending) point to stress in Blackstone's credit vehicles, which matters directly to credit investors. 'resi' is tagged loosely because the text says 'mortgage'. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "Blackstone旗下BDC（私募信贷）及其抵押贷款REIT（BXMT，商业抵押贷款）削减股息，显示Blackstone旗下信贷投资工具承压，与信贷投资者直接相关。因文中提及“mortgage”（抵押贷款），故宽泛标注“resi”标签。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "InvestmentNews"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.16,
+            "finalScore": 26.16,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-09-26a803fc039f",
           "title": "How European Credit Launch Will Impact Apollo Global Management Stock - Simply Wall St",
           "titleZh": "欧洲信贷产品发布将如何影响Apollo Global Management股价 - Simply Wall St",
@@ -167307,12 +169893,447 @@
           }
         }
       ]
+    },
+    "2026-11-10": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-10-444e5091effe",
+            "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
+            "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
+            "summary": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+            "summaryZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMExNQUM3VkdXdjRocldFZ090VTVla0ZGMkd1Um9CN1pCVTQtRGN4cnZPaVQweDg4Mi1IcmxIYnNPNl9iSHdjYVJrZlRIUXlrMDJJRGlaWGhvSjZrSUVJa0FaQl80MC1ybWJDOVJXWUdPMVRubHZuOGhUSVJBaGJqMDY5T0RuRHVpTnF5clF3Wmd5bjlqQm5Ba25KMmVkUzJpYS0wZlFOc3lIYm4tRlJnMHg1VDc2eFFoTjhuazRn?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+            "articleExcerpt": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ. Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+            "contentFingerprint": "8242f6a032bcae10",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "structured"
+            ],
+            "sectors": [
+              "structured"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "structured"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone led a $3.1B investment tied to Mitsubishi's LNG Canada stake. The article text does not say which Blackstone business is involved. My recollection is that Blackstone's credit and insurance arm (BXCI) led it as a structured, financing-style investment rather than an infrastructure equity buyout. That recollection is not verified here. If the deal turns out to be pure infrastructure equity, it should be excluded.",
+              "llmReasonZh": "Blackstone牵头了一项与Mitsubishi所持LNG Canada股权相关的31亿美元投资。文章未说明涉及Blackstone的哪项业务。据我回忆，该交易由Blackstone旗下信贷与保险业务部门（BXCI）牵头，属于结构化、融资类投资，而非基础设施股权收购。此回忆在此未经核实。如该交易最终证实为纯基础设施股权投资，则应予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 88,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.15,
+              "finalScore": 11.15,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Apollo": [
+          {
+            "id": "2026-11-10-bbbff368ce64",
+            "title": "CFO structures evolve as general partners seek broader access to capital",
+            "titleZh": "随着普通合伙人寻求更广泛的融资渠道，CFO结构不断演变",
+            "summary": "fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+            "summaryZh": "CFO结构不断演变，普通合伙人寻求更广泛的融资渠道。普通合伙人（GP）越来越多地使用CFO及评级票据结构，为多只基金和多种投资策略融资……普通合伙人（GP）越来越多地利用CFO跨多只基金和多种投资策略募集资金，同时二级市场基金管理人也在采用CFO和评级票据基金（RNF）结构为其活动融资……Apollo……",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.structuredcreditinvestor.com/Article.asp?article=CFO structures evolve as general partners seek broader access to capital&PubID=250&=27816&SID=85336&SM=&SearchStr=&Category=Asset-Backed Finance&categories=&p_num=",
+            "source": "Structured Credit Investor Weekly Issue",
+            "publishedAt": "2026-11-10",
+            "lede": "fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+            "articleExcerpt": "CFO structures evolve as general partners seek broader access to capital. fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+            "contentFingerprint": "43cb956b4af1568d",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "structured"
+            ],
+            "sectors": [
+              "structured"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "structured"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "This is a trend piece on GPs using collateralized fund obligations (CFOs) and rated note fund structures to finance funds. Those are structured-finance/credit instruments, so the article is in scope. Apollo is mentioned, but the text is truncated and Apollo's specific role is unclear. No specific transaction is described, so no event type applies and importance is moderate-low.",
+              "llmReasonZh": "本文是一篇趋势报道，内容涉及普通合伙人利用担保基金债务（CFO）和评级票据基金结构为基金融资。这些属于结构化融资/信贷工具，因此本文属于关注范围。文中提及Apollo，但文本被截断，Apollo的具体角色尚不明确。文中未描述具体交易，因此不适用任何事件类型，重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Structured Credit Investor Weekly Issue"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.19,
+              "finalScore": 21.19,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-10-444e5091effe",
+          "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
+          "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
+          "summary": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+          "summaryZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMExNQUM3VkdXdjRocldFZ090VTVla0ZGMkd1Um9CN1pCVTQtRGN4cnZPaVQweDg4Mi1IcmxIYnNPNl9iSHdjYVJrZlRIUXlrMDJJRGlaWGhvSjZrSUVJa0FaQl80MC1ybWJDOVJXWUdPMVRubHZuOGhUSVJBaGJqMDY5T0RuRHVpTnF5clF3Wmd5bjlqQm5Ba25KMmVkUzJpYS0wZlFOc3lIYm4tRlJnMHg1VDc2eFFoTjhuazRn?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+          "articleExcerpt": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ. Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada WSJ",
+          "contentFingerprint": "8242f6a032bcae10",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "structured"
+          ],
+          "sectors": [
+            "structured"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "structured"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone led a $3.1B investment tied to Mitsubishi's LNG Canada stake. The article text does not say which Blackstone business is involved. My recollection is that Blackstone's credit and insurance arm (BXCI) led it as a structured, financing-style investment rather than an infrastructure equity buyout. That recollection is not verified here. If the deal turns out to be pure infrastructure equity, it should be excluded.",
+            "llmReasonZh": "Blackstone牵头了一项与Mitsubishi所持LNG Canada股权相关的31亿美元投资。文章未说明涉及Blackstone的哪项业务。据我回忆，该交易由Blackstone旗下信贷与保险业务部门（BXCI）牵头，属于结构化、融资类投资，而非基础设施股权收购。此回忆在此未经核实。如该交易最终证实为纯基础设施股权投资，则应予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 88,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.15,
+            "finalScore": 11.15,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-bbbff368ce64",
+          "title": "CFO structures evolve as general partners seek broader access to capital",
+          "titleZh": "随着普通合伙人寻求更广泛的融资渠道，CFO结构不断演变",
+          "summary": "fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+          "summaryZh": "CFO结构不断演变，普通合伙人寻求更广泛的融资渠道。普通合伙人（GP）越来越多地使用CFO及评级票据结构，为多只基金和多种投资策略融资……普通合伙人（GP）越来越多地利用CFO跨多只基金和多种投资策略募集资金，同时二级市场基金管理人也在采用CFO和评级票据基金（RNF）结构为其活动融资……Apollo……",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.structuredcreditinvestor.com/Article.asp?article=CFO structures evolve as general partners seek broader access to capital&PubID=250&=27816&SID=85336&SM=&SearchStr=&Category=Asset-Backed Finance&categories=&p_num=",
+          "source": "Structured Credit Investor Weekly Issue",
+          "publishedAt": "2026-11-10",
+          "lede": "fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+          "articleExcerpt": "CFO structures evolve as general partners seek broader access to capital. fa-circle\"> CFO structures evolve as general partners seek broader access to capital --> CFO structures evolve as general partners seek broader access to capital GPs increasingly use CFO and rated note structures to finance multiple funds and investment strategi... CFOs are increasingly being used by general partners (GPs) to raise capital across multiple funds and investment strategies, while managers of secondaries funds are also adopting CFO and rated note fund (RNF) structures to finance their acti... Apollo...",
+          "contentFingerprint": "43cb956b4af1568d",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "structured"
+          ],
+          "sectors": [
+            "structured"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "structured"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "This is a trend piece on GPs using collateralized fund obligations (CFOs) and rated note fund structures to finance funds. Those are structured-finance/credit instruments, so the article is in scope. Apollo is mentioned, but the text is truncated and Apollo's specific role is unclear. No specific transaction is described, so no event type applies and importance is moderate-low.",
+            "llmReasonZh": "本文是一篇趋势报道，内容涉及普通合伙人利用担保基金债务（CFO）和评级票据基金结构为基金融资。这些属于结构化融资/信贷工具，因此本文属于关注范围。文中提及Apollo，但文本被截断，Apollo的具体角色尚不明确。文中未描述具体交易，因此不适用任何事件类型，重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "Structured Credit Investor Weekly Issue"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-10T01:18:12.820634+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.19,
+            "finalScore": 21.19,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 32,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -167320,12 +170341,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 98,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -167333,20 +170354,20 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 1,
-      "selected": 0,
+      "count": 2,
+      "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
@@ -167359,25 +170380,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 8,
-      "selected": 3,
+      "count": 7,
+      "selected": 2,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 7,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -167385,20 +170406,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 9,
-      "selected": 3,
+      "count": 6,
+      "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
@@ -167411,20 +170432,20 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 10,
-      "selected": 2,
+      "count": 25,
+      "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
@@ -167437,25 +170458,25 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 29,
-      "selected": 6,
+      "count": 18,
+      "selected": 2,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 8,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -167463,12 +170484,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -167476,12 +170497,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 10,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -167489,7 +170510,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
@@ -167502,12 +170523,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 515,
+      "count": 601,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -167524,9 +170545,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-09T18:01:30.871348+00:00",
+      "asOf": "2026-11-10T01:18:12.820634+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-09T18:01:30.871348+00:00"
+  "checkedAt": "2026-11-10T01:18:12.820634+00:00"
 }
