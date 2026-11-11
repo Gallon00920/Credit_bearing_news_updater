@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-11T11:29:22.720186+00:00",
+  "updatedAt": "2026-11-11T19:29:34.776545+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口一致。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20777,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -167199,6 +167199,102 @@
               "finalScore": 16.18,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-09-3c400eb99688",
+            "title": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics - Yahoo Finance",
+            "titleZh": "KKR & Co. (KKR)第三季度业绩与预期对比：关键指标一览 - Yahoo Finance",
+            "summary": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+            "summaryZh": "KKR & Co. (KKR)第三季度业绩与预期对比：关键指标一览 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5aTWlXM2F5TUhoSGFEZktfc0JWc3dxUklPeU1YSmF6Zm9BNTd4RVhwemY2TXN0NWFmLWZ6S05RZ0N5elpjYUJzQndHNHhkd21rZ1pleS1EbHNYdWxxWkdaaFNHa0xpUkZ3VkJKa1RjT1hNVGV1aGdZNDYxRHJyY0FPZTNnQ0dDTTN4S3o4SmctTi1YR0JyVVZ3?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-09",
+            "lede": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+            "articleExcerpt": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics - Yahoo Finance. Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+            "contentFingerprint": "80404c4838cafbad",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Firm-level analyst commentary comparing KKR's Q3 earnings to estimates. It covers KKR as a whole, including its credit business, but has no specific credit, financing or fundraising event, so it gets stock/analyst-level importance.",
+              "llmReasonZh": "公司层面的分析师评论，将KKR第三季度业绩与市场预期进行对比。内容涵盖KKR整体业务，包括其信贷业务，但未涉及具体的信贷、融资或募资事件，因此按股票/分析师层面评定重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.08,
+              "finalScore": 16.08,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [
@@ -170353,6 +170449,102 @@
             "keywordScore": 11,
             "semanticScore": 5.18,
             "finalScore": 16.18,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-09-3c400eb99688",
+          "title": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics - Yahoo Finance",
+          "titleZh": "KKR & Co. (KKR)第三季度业绩与预期对比：关键指标一览 - Yahoo Finance",
+          "summary": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+          "summaryZh": "KKR & Co. (KKR)第三季度业绩与预期对比：关键指标一览 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5aTWlXM2F5TUhoSGFEZktfc0JWc3dxUklPeU1YSmF6Zm9BNTd4RVhwemY2TXN0NWFmLWZ6S05RZ0N5elpjYUJzQndHNHhkd21rZ1pleS1EbHNYdWxxWkdaaFNHa0xpUkZ3VkJKa1RjT1hNVGV1aGdZNDYxRHJyY0FPZTNnQ0dDTTN4S3o4SmctTi1YR0JyVVZ3?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-09",
+          "lede": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+          "articleExcerpt": "Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics - Yahoo Finance. Compared to Estimates, KKR & Co. (KKR) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+          "contentFingerprint": "80404c4838cafbad",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Firm-level analyst commentary comparing KKR's Q3 earnings to estimates. It covers KKR as a whole, including its credit business, but has no specific credit, financing or fundraising event, so it gets stock/analyst-level importance.",
+            "llmReasonZh": "公司层面的分析师评论，将KKR第三季度业绩与市场预期进行对比。内容涵盖KKR整体业务，包括其信贷业务，但未涉及具体的信贷、融资或募资事件，因此按股票/分析师层面评定重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.08,
+            "finalScore": 16.08,
             "semanticEnabled": true
           }
         },
@@ -175466,6 +175658,98 @@
               "finalScore": 7.37,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-b105bfdf0c27",
+            "title": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks - StockStory",
+            "titleZh": "第三季度财报要点：TPG (NASDAQ:TPG) 对比其他资产管理股 - StockStory",
+            "summary": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+            "summaryZh": "第三季度财报要点：TPG (NASDAQ:TPG) 对比其他资产管理股 StockStory",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHpZVjZhclZvSlNBMXdCSlQ1V1pRNENfVjllTGRGSUlhbkMxWU56UWxQc3VOeGdJN200N2xIbVRwN2RrSXJDVlRieWpjTVBmS2dUTFBtYUx4MDVSS1p1Y2Q5V29iRnJwTkt3Z28waTk4eHNFOXhNZDR4dWJuY3JiZzdQdmxHYWk0YVBJTVZwRU5CWUtoNUloZEhnMmNVYnhmN3otcllvM296NGwwTFc5YS02TGVFOTVCbEFQNEpTTFBNR0lUcGVPOXdaMzNKbDNnR3Y0?oc=5",
+            "source": "StockStory",
+            "publishedAt": "2026-11-10",
+            "lede": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+            "articleExcerpt": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks - StockStory. Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+            "contentFingerprint": "d592fbc214f91644",
+            "region": "US",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "StockStory earnings and stock commentary comparing TPG with other asset managers. It is generic equity-analyst content with no specific credit, lending or financing angle, so it gets low importance. It is not excluded because it is about TPG the firm, not a non-credit asset sale or a same-name entity.",
+              "llmReasonZh": "StockStory发布的财报及股票评论，将TPG与其他资产管理公司进行比较。该内容属于一般性股票分析，不涉及具体的信贷、贷款或融资角度，因此重要性较低。未被排除是因为其内容关于TPG公司本身，而非非信贷类资产出售或同名实体。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "StockStory"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.97,
+              "finalScore": 9.969999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "Golub": [],
@@ -178632,16 +178916,330 @@
             "finalScore": 7.37,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-10-b105bfdf0c27",
+          "title": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks - StockStory",
+          "titleZh": "第三季度财报要点：TPG (NASDAQ:TPG) 对比其他资产管理股 - StockStory",
+          "summary": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+          "summaryZh": "第三季度财报要点：TPG (NASDAQ:TPG) 对比其他资产管理股 StockStory",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHpZVjZhclZvSlNBMXdCSlQ1V1pRNENfVjllTGRGSUlhbkMxWU56UWxQc3VOeGdJN200N2xIbVRwN2RrSXJDVlRieWpjTVBmS2dUTFBtYUx4MDVSS1p1Y2Q5V29iRnJwTkt3Z28waTk4eHNFOXhNZDR4dWJuY3JiZzdQdmxHYWk0YVBJTVZwRU5CWUtoNUloZEhnMmNVYnhmN3otcllvM296NGwwTFc5YS02TGVFOTVCbEFQNEpTTFBNR0lUcGVPOXdaMzNKbDNnR3Y0?oc=5",
+          "source": "StockStory",
+          "publishedAt": "2026-11-10",
+          "lede": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+          "articleExcerpt": "Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks - StockStory. Q3 earnings highlights: TPG (NASDAQ:TPG) vs the rest of the asset management stocks StockStory",
+          "contentFingerprint": "d592fbc214f91644",
+          "region": "US",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "StockStory earnings and stock commentary comparing TPG with other asset managers. It is generic equity-analyst content with no specific credit, lending or financing angle, so it gets low importance. It is not excluded because it is about TPG the firm, not a non-credit asset sale or a same-name entity.",
+            "llmReasonZh": "StockStory发布的财报及股票评论，将TPG与其他资产管理公司进行比较。该内容属于一般性股票分析，不涉及具体的信贷、贷款或融资角度，因此重要性较低。未被排除是因为其内容关于TPG公司本身，而非非信贷类资产出售或同名实体。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "StockStory"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.97,
+            "finalScore": 9.969999999999999,
+            "semanticEnabled": true
+          }
         }
       ]
     },
     "2026-11-11": {
       "byGp": {
         "Blue Owl": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-11-15fb2bf24a22",
+            "title": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch",
+            "titleZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 - Alternatives Watch",
+            "summary": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "summaryZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 Alternatives Watch",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG8ta29CRm9fYWZZQ0tkdHFOUF8teW94clQxT2VERGxmUXNHSGpmb29YZTBZZFBjd09MeHJsNHp4SGUtbndLZEN5MjhWU0JHOVFfYmJpSTNwdTQzNXRKUFlqckRMRG9lcVU4aG5lLW9MY2dqY3hjdV80bGtGeTJUYzFlUGdCdUdoRXNNNEpjWU1IT1hNTjVB?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-11-11",
+            "lede": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "articleExcerpt": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch. Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "contentFingerprint": "70aa6ad6e7e3ff7f",
+            "region": "Global",
+            "gps": [
+              "KKR",
+              "Apollo"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR",
+                "Apollo"
+              ],
+              "titleGps": [
+                "KKR",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo is backing a $750m capital round for an AI data company. Apollo often provides such capital through its credit or hybrid-capital vehicles, so this has a possible credit/financing angle. However, 'round' may mean equity, so credit relevance is uncertain and importance is moderated. The KKR item (buying a Texas water business) is an infrastructure equity acquisition with no credit angle, so KKR is not tagged.",
+              "llmReasonZh": "Apollo正在支持一家AI数据公司的$750m融资轮。Apollo通常通过其信贷或混合资本工具提供此类资金，因此本事件可能涉及信贷/融资层面。然而，“融资轮”可能指股权融资，因此与信贷的相关性尚不确定，重要性评级相应下调。KKR事项（收购一家德州水务企业）属于基础设施股权收购，不涉及信贷层面，因此未标记KKR。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR",
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Alternatives Watch"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 10,
+              "semanticScore": 4.79,
+              "finalScore": 14.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-11-68fb43c1fde9",
+            "title": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges - The Real Deal",
+            "titleZh": "Pretium支付$50M和解欺诈性租金定价指控 - The Real Deal",
+            "summary": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+            "summaryZh": "Pretium支付$50M和解欺诈性租金定价指控 The Real Deal",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOENhSUF3RFh1ZHRsZmx3ejA3WkpQajFsZDZGYVdWYzRuQnE5STJfM3MtZW82eV9RbUJSZ19Tc2Q3M012c2hheGpiTUVpVkRxRkFzV0NhRmRsLUFsYzA0UXZ6Yjc1bUZHT1lvd21BdE0zTVNNbHpaNnM0eDNoX2VlYWhkWE92Yjgwc2xrMWlObkZjeUlDYnR5TWVLekszdFBwU3VUWQ?oc=5",
+            "source": "The Real Deal",
+            "publishedAt": "2026-11-11",
+            "lede": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+            "articleExcerpt": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges - The Real Deal. Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+            "contentFingerprint": "efeacd71b8e40319",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Pretium is paying $50M to settle deceptive rent-pricing charges, a regulatory/legal settlement tied to its single-family rental platform (Progress Residential). SFR is a tracked strategy, and these platforms are heavily financed through securitizations and credit facilities. The settlement therefore bears on credit risk, so it is not excluded.",
+              "llmReasonZh": "Pretium将支付$50M以和解欺诈性租金定价指控，该监管/法律和解与其单户住宅租赁平台（Progress Residential）相关。单户住宅租赁（SFR）属于重点跟踪策略，且此类平台高度依赖证券化和信贷融资。因此，该和解涉及信用风险，不予排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.95,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Real Deal"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 77,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.51,
+              "finalScore": 10.51,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [
           {
             "id": "2026-11-11-888d2ce9f643",
@@ -178873,6 +179471,120 @@
         "Blackstone": [],
         "Apollo": [
           {
+            "id": "2026-11-11-15fb2bf24a22",
+            "title": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch",
+            "titleZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 - Alternatives Watch",
+            "summary": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "summaryZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 Alternatives Watch",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG8ta29CRm9fYWZZQ0tkdHFOUF8teW94clQxT2VERGxmUXNHSGpmb29YZTBZZFBjd09MeHJsNHp4SGUtbndLZEN5MjhWU0JHOVFfYmJpSTNwdTQzNXRKUFlqckRMRG9lcVU4aG5lLW9MY2dqY3hjdV80bGtGeTJUYzFlUGdCdUdoRXNNNEpjWU1IT1hNTjVB?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-11-11",
+            "lede": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "articleExcerpt": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch. Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+            "contentFingerprint": "70aa6ad6e7e3ff7f",
+            "region": "Global",
+            "gps": [
+              "KKR",
+              "Apollo"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR",
+                "Apollo"
+              ],
+              "titleGps": [
+                "KKR",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo is backing a $750m capital round for an AI data company. Apollo often provides such capital through its credit or hybrid-capital vehicles, so this has a possible credit/financing angle. However, 'round' may mean equity, so credit relevance is uncertain and importance is moderated. The KKR item (buying a Texas water business) is an infrastructure equity acquisition with no credit angle, so KKR is not tagged.",
+              "llmReasonZh": "Apollo正在支持一家AI数据公司的$750m融资轮。Apollo通常通过其信贷或混合资本工具提供此类资金，因此本事件可能涉及信贷/融资层面。然而，“融资轮”可能指股权融资，因此与信贷的相关性尚不确定，重要性评级相应下调。KKR事项（收购一家德州水务企业）属于基础设施股权收购，不涉及信贷层面，因此未标记KKR。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR",
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Alternatives Watch"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 10,
+              "semanticScore": 4.79,
+              "finalScore": 14.79,
+              "semanticEnabled": true
+            }
+          },
+          {
             "id": "2026-11-11-bbbff368ce64",
             "title": "CFO structures evolve as general partners seek broader access to capital",
             "titleZh": "普通合伙人寻求更广泛融资渠道，CFO结构持续演变",
@@ -178973,18 +179685,18 @@
             }
           },
           {
-            "id": "2026-11-11-ff12f12f1ff3",
-            "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator",
-            "titleZh": "MidCap Business Credit与MidCap Equipment Finance为美国中西部一家金属加工企业完成3000万美元融资",
-            "summary": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
-            "summaryZh": "MidCap Business Credit与MidCap Equipment Finance为一家私人控股的金属加工企业完成了1800万美元资产支持循环信贷额度及1200万美元设备租赁融资安排[…]",
+            "id": "2026-11-11-0504ff0a160b",
+            "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator",
+            "titleZh": "MidCap Business Credit与MidCap Equipment Finance为中西部金属加工企业完成3000万美元融资",
+            "summary": "er 11, 2026 @ 08:05 AM MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. ... Read Story Filed Under: Manufacturing FGI Finance Supports Joseph Ribkoff with $50MM Working Capital Facility Joseph Ribkoff is a...",
+            "summaryZh": "er 11, 2026 @ 08:05 AM MidCap Business Credit与MidCap Equipment Finance为中西部金属加工企业完成3000万美元融资。MidCap Business Credit与MidCap Equipment Finance为一家业务遍及美国中西部和加拿大的私营金属加工企业完成了1800万美元的资产支持循环信贷额度和1200万美元的设备租赁融资安排。……阅读全文 归类：制造业 FGI Finance以5000万美元营运资金融资支持Joseph Ribkoff Joseph Ribkoff是一家……",
             "summaryZhLanguage": "Simplified Chinese",
-            "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
-            "source": "Google News",
+            "url": "https://www.abladvisor.com/news/44028/midcap-business-credit-and-midcap-equipment-finance-close-30mm-in-financing-for",
+            "source": "ABL Advisor News",
             "publishedAt": "2026-11-11",
-            "lede": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
-            "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million",
-            "contentFingerprint": "14e951fa016d8e80",
+            "lede": "er 11, 2026 @ 08:05 AM MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. ... Read Story Filed Under: Manufacturing FGI Finance Supports Joseph Ribkoff with $50MM Working Capital Facility Joseph Ribkoff is a...",
+            "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator November 11, 2026, 08:03 AM Filed Under: Manufacturing Related: Equipment Finance Advisor , Equipment Finance News , metal fabrication , MidCap Business Credit , MidCap Equipment Finance MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. The facility will support the company’s ongoing working capital needs and refinance it’s existing bank debt. The",
+            "contentFingerprint": "3ddce37855d433fd",
             "region": "Global",
             "gps": [
               "Apollo"
@@ -179021,10 +179733,10 @@
               "llmEvents": [
                 "financing"
               ],
-              "llmImportance": 0.7,
+              "llmImportance": 0.6,
               "llmExclude": false,
-              "llmReason": "MidCap Business Credit and MidCap Equipment Finance are lending platforms of MidCap Financial, which Apollo manages. This is credit activity: a closed $30MM financing made up of an $18MM asset-based revolver and an equipment financing facility. It is a routine deal, so importance is set at the ordinary-financing level.",
-              "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance是MidCap Financial旗下的贷款平台，MidCap Financial由Apollo管理。此为信贷活动：已完成一笔3000万美元融资，包括1800万美元资产支持循环信贷额度及一项设备融资安排。该交易属常规交易，因此重要性定为普通融资级别。"
+              "llmReason": "MidCap Business Credit and MidCap Equipment Finance are part of MidCap Financial, a specialty lender managed by an Apollo affiliate. The article does not name Apollo, so the tag is inferred. The deal is an $18MM asset-based revolver plus a $12MM equipment lease facility to a mid-market metals fabricator, which is ordinary credit/ABF financing activity. Importance is slightly below the 0.7 financing benchmark because the deal is small and the Apollo link is indirect.",
+              "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance隶属于MidCap Financial，后者是一家由Apollo关联机构管理的专业贷款机构。文章未提及Apollo，因此该标签系推断得出。该交易包括一笔1800万美元的资产支持循环贷款和一笔1200万美元的设备租赁融资，借款方为一家中型市场金属加工企业，属于常规的信贷/资产支持融资（ABF）活动。由于交易规模较小且与Apollo的关联较为间接，其重要性评分略低于0.7的融资类基准。"
             },
             "rating": {
               "parts": {
@@ -179036,33 +179748,33 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.74,
+                  "value": 0.73,
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
                     "private-credit",
                     "abf"
                   ],
-                  "semanticValue": 0.48
+                  "semanticValue": 0.46
                 },
                 "event": {
-                  "value": 0.7,
+                  "value": 0.65,
                   "code": "financing",
                   "ruleValue": 0.7,
                   "events": [
                     "financing"
                   ],
-                  "llmValue": 0.7
+                  "llmValue": 0.6
                 },
                 "source": {
-                  "value": 0.35,
-                  "code": "tier_other",
-                  "source": "Google News"
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "ABL Advisor News"
                 },
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.0
+                  "days": 0.3
                 }
               },
               "weights": {
@@ -179072,13 +179784,218 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 66,
-              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+              "score": 76,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 13,
-              "semanticScore": 5.76,
-              "finalScore": 18.759999999999998,
+              "keywordScore": 16,
+              "semanticScore": 5.57,
+              "finalScore": 21.57,
+              "semanticEnabled": true
+            },
+            "alternateSources": [
+              {
+                "source": "Google News",
+                "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
+                "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-11-28652b03c2bd",
+            "title": "Reimagining Multi-Asset Credit Allocations in a Converging Market - Apollo Global Management",
+            "titleZh": "在趋同市场中重新构想多资产信贷配置 - Apollo Global Management",
+            "summary": "Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+            "summaryZh": "在趋同市场中重新构想多资产信贷配置 Apollo Global Management",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3FXaVQ3U1BfWDlubzBJX1VKWkdTQTBVZHBROWo0UWhhTVItTzFya1NPLXM5aTZNYmRsbnlJLTlLcVBYUTl1dmI0dkZRdkNhOHlfWUhiV1BXaS1PNDcyV2lTWURtMUl6OUx3b0tadV9NUUxpb0RIWVQwSE9yTWFjbkhzOTBSbVZmMzdNRkxsOGJEdXZIVjVBVU5KVm9yZUs1Q0NzVGp0UWdEY0RXd1Q4OE1uWnozUUY3RlJVc0RaMFRnazRyMVl6aVBBXzNyNWNEWTVUR3luR2VLTFZr?oc=5",
+            "source": "Apollo Global Management",
+            "publishedAt": "2026-11-11",
+            "lede": "Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+            "articleExcerpt": "Reimagining Multi-Asset Credit Allocations in a Converging Market - Apollo Global Management. Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+            "contentFingerprint": "092dd398c9f040df",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Apollo thought-leadership piece on multi-asset credit allocation. It is credit-related, so it is not excluded, but it carries no transaction, fundraising or litigation event. Tagged private credit only loosely, since the article mentions converging public/private credit markets. Low importance because it is routine manager commentary.",
+              "llmReasonZh": "Apollo关于多资产信贷配置的思想领导力文章。该文章与信贷相关，因此未被排除，但不涉及任何交易、募资或诉讼事件。由于文章提及公开与私募信贷市场趋同，仅松散地标记为私募信贷。因属于常规管理人评论，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Apollo Global Management"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.05,
+              "finalScore": 23.05,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-11-02c2886e2e05",
+            "title": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) - Seeking Alpha",
+            "titleZh": "ONEOK：解析44亿美元Brazos收购、Apollo交易及Barnett上行潜力（NYSE:OKE）- Seeking Alpha",
+            "summary": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+            "summaryZh": "ONEOK：解析44亿美元Brazos收购、Apollo交易及Barnett上行潜力（NYSE:OKE） Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3VlOGlTdzRpSG9UQUZjcUE2dGNTS0hMeTFuNE1kTDViMzE5eEVsYmp4MDlMYXBrVzZqdG9hN1ZrNy13TTl5WlVWUFZVQS1udkhQVWJEdldEVXFKWVo3c2J2Q2w2MUloZE5BdlRLaU5GWUIyQ19tc3lJMEpkRTZfWjEwSGpGenNxRVQwQS10SVZUZDl2ejRwZEFMYVZ1Qmh6UVJtMjQyc0hPWDdBaHNyM01xTnI5S3c?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-11",
+            "lede": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+            "articleExcerpt": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) - Seeking Alpha. ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+            "contentFingerprint": "ead9256b3e9486a1",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is Seeking Alpha analyst commentary on ONEOK (NYSE:OKE) that mentions an 'Apollo deal' alongside the $4.4B Brazos acquisition. The text gives no deal details. Apollo's corporate transactions with energy and midstream companies usually run through its credit and hybrid-capital platforms as structured or asset-level financing, so there is plausibly a financing angle. That is uncertain, though; it could be an infrastructure equity stake. No tracked strategy keywords apply. Importance is low because this is stock-analysis commentary rather than primary deal news.",
+              "llmReasonZh": "这是Seeking Alpha关于ONEOK（NYSE:OKE）的分析师评论，文中在提及44亿美元Brazos收购的同时提到了一项“Apollo交易”。文本未提供交易细节。Apollo与能源及中游企业的公司交易通常通过其信贷和混合资本平台，以结构化融资或资产层面融资的形式进行，因此可能涉及融资层面。但这一点尚不确定，也可能是一笔基础设施股权投资。未匹配任何跟踪的策略关键词。重要性较低，因为这属于股票分析评论，而非一手交易新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 5.28,
+              "finalScore": 10.280000000000001,
               "semanticEnabled": true
             }
           }
@@ -179089,6 +180006,226 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-11-15fb2bf24a22",
+          "title": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch",
+          "titleZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 - Alternatives Watch",
+          "summary": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+          "summaryZh": "Apollo支持AI数据公司$750m融资轮；KKR将收购德州水务企业 Alternatives Watch",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG8ta29CRm9fYWZZQ0tkdHFOUF8teW94clQxT2VERGxmUXNHSGpmb29YZTBZZFBjd09MeHJsNHp4SGUtbndLZEN5MjhWU0JHOVFfYmJpSTNwdTQzNXRKUFlqckRMRG9lcVU4aG5lLW9MY2dqY3hjdV80bGtGeTJUYzFlUGdCdUdoRXNNNEpjWU1IT1hNTjVB?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-11-11",
+          "lede": "Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+          "articleExcerpt": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch. Apollo backs $750m round for AI data company; KKR to buy Texas water business Alternatives Watch",
+          "contentFingerprint": "70aa6ad6e7e3ff7f",
+          "region": "Global",
+          "gps": [
+            "KKR",
+            "Apollo"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR",
+              "Apollo"
+            ],
+            "titleGps": [
+              "KKR",
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo is backing a $750m capital round for an AI data company. Apollo often provides such capital through its credit or hybrid-capital vehicles, so this has a possible credit/financing angle. However, 'round' may mean equity, so credit relevance is uncertain and importance is moderated. The KKR item (buying a Texas water business) is an infrastructure equity acquisition with no credit angle, so KKR is not tagged.",
+            "llmReasonZh": "Apollo正在支持一家AI数据公司的$750m融资轮。Apollo通常通过其信贷或混合资本工具提供此类资金，因此本事件可能涉及信贷/融资层面。然而，“融资轮”可能指股权融资，因此与信贷的相关性尚不确定，重要性评级相应下调。KKR事项（收购一家德州水务企业）属于基础设施股权收购，不涉及信贷层面，因此未标记KKR。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR",
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Alternatives Watch"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 10,
+            "semanticScore": 4.79,
+            "finalScore": 14.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-68fb43c1fde9",
+          "title": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges - The Real Deal",
+          "titleZh": "Pretium支付$50M和解欺诈性租金定价指控 - The Real Deal",
+          "summary": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+          "summaryZh": "Pretium支付$50M和解欺诈性租金定价指控 The Real Deal",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOENhSUF3RFh1ZHRsZmx3ejA3WkpQajFsZDZGYVdWYzRuQnE5STJfM3MtZW82eV9RbUJSZ19Tc2Q3M012c2hheGpiTUVpVkRxRkFzV0NhRmRsLUFsYzA0UXZ6Yjc1bUZHT1lvd21BdE0zTVNNbHpaNnM0eDNoX2VlYWhkWE92Yjgwc2xrMWlObkZjeUlDYnR5TWVLekszdFBwU3VUWQ?oc=5",
+          "source": "The Real Deal",
+          "publishedAt": "2026-11-11",
+          "lede": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+          "articleExcerpt": "Pretium Pays $50M to Settle Deceptive Rent Pricing Charges - The Real Deal. Pretium Pays $50M to Settle Deceptive Rent Pricing Charges The Real Deal",
+          "contentFingerprint": "efeacd71b8e40319",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Pretium is paying $50M to settle deceptive rent-pricing charges, a regulatory/legal settlement tied to its single-family rental platform (Progress Residential). SFR is a tracked strategy, and these platforms are heavily financed through securitizations and credit facilities. The settlement therefore bears on credit risk, so it is not excluded.",
+            "llmReasonZh": "Pretium将支付$50M以和解欺诈性租金定价指控，该监管/法律和解与其单户住宅租赁平台（Progress Residential）相关。单户住宅租赁（SFR）属于重点跟踪策略，且此类平台高度依赖证券化和信贷融资。因此，该和解涉及信用风险，不予排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.95,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Real Deal"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 77,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.51,
+            "finalScore": 10.51,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-11-888d2ce9f643",
           "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
@@ -179412,18 +180549,18 @@
           }
         },
         {
-          "id": "2026-11-11-ff12f12f1ff3",
-          "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator",
-          "titleZh": "MidCap Business Credit与MidCap Equipment Finance为美国中西部一家金属加工企业完成3000万美元融资",
-          "summary": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
-          "summaryZh": "MidCap Business Credit与MidCap Equipment Finance为一家私人控股的金属加工企业完成了1800万美元资产支持循环信贷额度及1200万美元设备租赁融资安排[…]",
+          "id": "2026-11-11-0504ff0a160b",
+          "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator",
+          "titleZh": "MidCap Business Credit与MidCap Equipment Finance为中西部金属加工企业完成3000万美元融资",
+          "summary": "er 11, 2026 @ 08:05 AM MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. ... Read Story Filed Under: Manufacturing FGI Finance Supports Joseph Ribkoff with $50MM Working Capital Facility Joseph Ribkoff is a...",
+          "summaryZh": "er 11, 2026 @ 08:05 AM MidCap Business Credit与MidCap Equipment Finance为中西部金属加工企业完成3000万美元融资。MidCap Business Credit与MidCap Equipment Finance为一家业务遍及美国中西部和加拿大的私营金属加工企业完成了1800万美元的资产支持循环信贷额度和1200万美元的设备租赁融资安排。……阅读全文 归类：制造业 FGI Finance以5000万美元营运资金融资支持Joseph Ribkoff Joseph Ribkoff是一家……",
           "summaryZhLanguage": "Simplified Chinese",
-          "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
-          "source": "Google News",
+          "url": "https://www.abladvisor.com/news/44028/midcap-business-credit-and-midcap-equipment-finance-close-30mm-in-financing-for",
+          "source": "ABL Advisor News",
           "publishedAt": "2026-11-11",
-          "lede": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
-          "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million",
-          "contentFingerprint": "14e951fa016d8e80",
+          "lede": "er 11, 2026 @ 08:05 AM MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. ... Read Story Filed Under: Manufacturing FGI Finance Supports Joseph Ribkoff with $50MM Working Capital Facility Joseph Ribkoff is a...",
+          "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator - News | ABL Advisor FREE MEMBERSHIP Includes » ABL Advisor eNews + iData Blasts | JOIN NOW LOGIN About | FAQ | Contact Serving Asset-Based Lending Decision Makers Articles News Blogs Press Releases Videos Home Sector/Economic Data Deal Tables Directory Events Calendar Advertise Subscribe --> --> Home / News / Read News Tweet Email Print Recipient's Email Address(es) (Separate multiple addresses with a comma) Your Email Address Send a copy to myself Your Message (optional) Hi, I thought you would be interested in this article from ABL Advisor. MidCap Business Credit and MidCap Equipment Finance Close $30MM in Financing for Midwest Metals Fabricator November 11, 2026, 08:03 AM Filed Under: Manufacturing Related: Equipment Finance Advisor , Equipment Finance News , metal fabrication , MidCap Business Credit , MidCap Equipment Finance MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company with operations across the Midwest and Canada. The facility will support the company’s ongoing working capital needs and refinance it’s existing bank debt. The",
+          "contentFingerprint": "3ddce37855d433fd",
           "region": "Global",
           "gps": [
             "Apollo"
@@ -179460,10 +180597,10 @@
             "llmEvents": [
               "financing"
             ],
-            "llmImportance": 0.7,
+            "llmImportance": 0.6,
             "llmExclude": false,
-            "llmReason": "MidCap Business Credit and MidCap Equipment Finance are lending platforms of MidCap Financial, which Apollo manages. This is credit activity: a closed $30MM financing made up of an $18MM asset-based revolver and an equipment financing facility. It is a routine deal, so importance is set at the ordinary-financing level.",
-            "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance是MidCap Financial旗下的贷款平台，MidCap Financial由Apollo管理。此为信贷活动：已完成一笔3000万美元融资，包括1800万美元资产支持循环信贷额度及一项设备融资安排。该交易属常规交易，因此重要性定为普通融资级别。"
+            "llmReason": "MidCap Business Credit and MidCap Equipment Finance are part of MidCap Financial, a specialty lender managed by an Apollo affiliate. The article does not name Apollo, so the tag is inferred. The deal is an $18MM asset-based revolver plus a $12MM equipment lease facility to a mid-market metals fabricator, which is ordinary credit/ABF financing activity. Importance is slightly below the 0.7 financing benchmark because the deal is small and the Apollo link is indirect.",
+            "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance隶属于MidCap Financial，后者是一家由Apollo关联机构管理的专业贷款机构。文章未提及Apollo，因此该标签系推断得出。该交易包括一笔1800万美元的资产支持循环贷款和一笔1200万美元的设备租赁融资，借款方为一家中型市场金属加工企业，属于常规的信贷/资产支持融资（ABF）活动。由于交易规模较小且与Apollo的关联较为间接，其重要性评分略低于0.7的融资类基准。"
           },
           "rating": {
             "parts": {
@@ -179475,33 +180612,33 @@
                 ]
               },
               "strategy": {
-                "value": 0.74,
+                "value": 0.73,
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
                   "private-credit",
                   "abf"
                 ],
-                "semanticValue": 0.48
+                "semanticValue": 0.46
               },
               "event": {
-                "value": 0.7,
+                "value": 0.65,
                 "code": "financing",
                 "ruleValue": 0.7,
                 "events": [
                   "financing"
                 ],
-                "llmValue": 0.7
+                "llmValue": 0.6
               },
               "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "Google News"
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "ABL Advisor News"
               },
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.0
+                "days": 0.3
               }
             },
             "weights": {
@@ -179511,13 +180648,218 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 66,
-            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            "score": 76,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 13,
-            "semanticScore": 5.76,
-            "finalScore": 18.759999999999998,
+            "keywordScore": 16,
+            "semanticScore": 5.57,
+            "finalScore": 21.57,
+            "semanticEnabled": true
+          },
+          "alternateSources": [
+            {
+              "source": "Google News",
+              "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
+              "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-11-28652b03c2bd",
+          "title": "Reimagining Multi-Asset Credit Allocations in a Converging Market - Apollo Global Management",
+          "titleZh": "在趋同市场中重新构想多资产信贷配置 - Apollo Global Management",
+          "summary": "Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+          "summaryZh": "在趋同市场中重新构想多资产信贷配置 Apollo Global Management",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3FXaVQ3U1BfWDlubzBJX1VKWkdTQTBVZHBROWo0UWhhTVItTzFya1NPLXM5aTZNYmRsbnlJLTlLcVBYUTl1dmI0dkZRdkNhOHlfWUhiV1BXaS1PNDcyV2lTWURtMUl6OUx3b0tadV9NUUxpb0RIWVQwSE9yTWFjbkhzOTBSbVZmMzdNRkxsOGJEdXZIVjVBVU5KVm9yZUs1Q0NzVGp0UWdEY0RXd1Q4OE1uWnozUUY3RlJVc0RaMFRnazRyMVl6aVBBXzNyNWNEWTVUR3luR2VLTFZr?oc=5",
+          "source": "Apollo Global Management",
+          "publishedAt": "2026-11-11",
+          "lede": "Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+          "articleExcerpt": "Reimagining Multi-Asset Credit Allocations in a Converging Market - Apollo Global Management. Reimagining Multi-Asset Credit Allocations in a Converging Market Apollo Global Management",
+          "contentFingerprint": "092dd398c9f040df",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Apollo thought-leadership piece on multi-asset credit allocation. It is credit-related, so it is not excluded, but it carries no transaction, fundraising or litigation event. Tagged private credit only loosely, since the article mentions converging public/private credit markets. Low importance because it is routine manager commentary.",
+            "llmReasonZh": "Apollo关于多资产信贷配置的思想领导力文章。该文章与信贷相关，因此未被排除，但不涉及任何交易、募资或诉讼事件。由于文章提及公开与私募信贷市场趋同，仅松散地标记为私募信贷。因属于常规管理人评论，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Apollo Global Management"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.05,
+            "finalScore": 23.05,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-02c2886e2e05",
+          "title": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) - Seeking Alpha",
+          "titleZh": "ONEOK：解析44亿美元Brazos收购、Apollo交易及Barnett上行潜力（NYSE:OKE）- Seeking Alpha",
+          "summary": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+          "summaryZh": "ONEOK：解析44亿美元Brazos收购、Apollo交易及Barnett上行潜力（NYSE:OKE） Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3VlOGlTdzRpSG9UQUZjcUE2dGNTS0hMeTFuNE1kTDViMzE5eEVsYmp4MDlMYXBrVzZqdG9hN1ZrNy13TTl5WlVWUFZVQS1udkhQVWJEdldEVXFKWVo3c2J2Q2w2MUloZE5BdlRLaU5GWUIyQ19tc3lJMEpkRTZfWjEwSGpGenNxRVQwQS10SVZUZDl2ejRwZEFMYVZ1Qmh6UVJtMjQyc0hPWDdBaHNyM01xTnI5S3c?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-11",
+          "lede": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+          "articleExcerpt": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) - Seeking Alpha. ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE) Seeking Alpha",
+          "contentFingerprint": "ead9256b3e9486a1",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is Seeking Alpha analyst commentary on ONEOK (NYSE:OKE) that mentions an 'Apollo deal' alongside the $4.4B Brazos acquisition. The text gives no deal details. Apollo's corporate transactions with energy and midstream companies usually run through its credit and hybrid-capital platforms as structured or asset-level financing, so there is plausibly a financing angle. That is uncertain, though; it could be an infrastructure equity stake. No tracked strategy keywords apply. Importance is low because this is stock-analysis commentary rather than primary deal news.",
+            "llmReasonZh": "这是Seeking Alpha关于ONEOK（NYSE:OKE）的分析师评论，文中在提及44亿美元Brazos收购的同时提到了一项“Apollo交易”。文本未提供交易细节。Apollo与能源及中游企业的公司交易通常通过其信贷和混合资本平台，以结构化融资或资产层面融资的形式进行，因此可能涉及融资层面。但这一点尚不确定，也可能是一笔基础设施股权投资。未匹配任何跟踪的策略关键词。重要性较低，因为这属于股票分析评论，而非一手交易新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.55,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-11T18:14:35.753340+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 5.28,
+            "finalScore": 10.280000000000001,
             "semanticEnabled": true
           }
         }
@@ -179527,7 +180869,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 21,
+      "count": 20,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -179535,7 +180877,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179548,7 +180890,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179561,12 +180903,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 6,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -179574,20 +180916,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 7,
-      "selected": 3,
+      "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179600,12 +180942,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -179613,7 +180955,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179626,7 +180968,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179639,7 +180981,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
@@ -179652,38 +180994,38 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 22,
-      "selected": 3,
+      "count": 25,
+      "selected": 4,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
       "count": 13,
-      "selected": 1,
+      "selected": 2,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 2,
+      "count": 1,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -179691,12 +181033,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 15,
+      "count": 17,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -179704,12 +181046,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 31,
+      "count": 30,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -179717,12 +181059,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 698,
+      "count": 565,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -179739,9 +181081,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-11T10:03:30.064097+00:00",
+      "asOf": "2026-11-11T18:14:35.753340+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-11T10:03:30.064097+00:00"
+  "checkedAt": "2026-11-11T18:14:35.753340+00:00"
 }
