@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-11T03:48:03.217265+00:00",
+  "updatedAt": "2026-11-11T11:29:22.720186+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口一致。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -174411,6 +174411,117 @@
               "finalScore": 24.91,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-eb3157d60f09",
+            "title": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results - Investing.com UK",
+            "titleZh": "财报电话会议实录：Bain Capital Specialty Finance公布稳健的2026年第三季度业绩 - Investing.com UK",
+            "summary": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+            "summaryZh": "财报电话会议实录：Bain Capital Specialty Finance公布稳健的2026年第三季度业绩 Investing.com UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVF9sMUU4MTF2UkVhLWFJS3BrUjR1bl92Tkh2d0ZwRThTNXBmY2FnV3pBQXBBOEUxUmIyV01FQzdXV2YzVy1SUDg3MGp6N2hzbnVtZ3NKQVFPSldiNjRBUmtPbnhSeW1DUVJNamNTQkhQZ3F2VkNiaXZIRzVueFN2a1hSQUIyNWJrMzRhcFhCd19MZEJhWDdDd0JDYmFpU1E3anlJU09udHRPRkdoSDRKWVFxRnN5U0lMOWZDRjRaZXdodElmMUFHcFNUQ3hnNkFLbU5RNy1nWFlWVDdKWUE?oc=5",
+            "source": "Investing.com UK",
+            "publishedAt": "2026-11-10",
+            "lede": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+            "articleExcerpt": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results - Investing.com UK. Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+            "contentFingerprint": "035e1a44eb257923",
+            "region": "Europe",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's BDC, which is a direct lending vehicle in its credit business. The article is a routine quarterly earnings call transcript reporting steady results, with no financing, fundraising or litigation event.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的BDC（业务发展公司），为其信贷业务中的直接贷款平台。本文为常规季度财报电话会议实录，报告业绩稳健，未涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.17,
+              "finalScore": 23.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -175257,7 +175368,106 @@
             }
           }
         ],
-        "TPG": [],
+        "TPG": [
+          {
+            "id": "2026-11-10-cafc2a9941c9",
+            "title": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares - TradingKey",
+            "titleZh": "TPG 2026年第三季度业绩电话会：募资预期上调至550亿美元以上 - TradingKey",
+            "summary": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+            "summaryZh": "TPG 2026年第三季度业绩电话会：募资预期上调至550亿美元以上 TradingKey",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZGliczdWcld5MDd5V21CRThxYzZ5dUNJbjhYb085eHhvYXVqU0s3TnUwSHlpU0syVWhsSm5UWFR5bkFtT0pSS3JPcHc2YUxCWGdyc3lzanhiLUhqTGphSGpNUEx3V2FvSFVqc25SRVUtOWUyTGc?oc=5",
+            "source": "TradingKey",
+            "publishedAt": "2026-11-10",
+            "lede": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+            "articleExcerpt": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares - TradingKey. Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+            "contentFingerprint": "91e427b8c7605415",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Earnings-call recap in which TPG raises its firm-wide fundraising guidance above $55B. TPG runs a credit platform (Angelo Gordon), so the raise plausibly includes credit capital, but the article gives no credit-specific details. Firm-level manager news is relevant but only moderately important, and no specific strategy is identified.",
+              "llmReasonZh": "业绩电话会回顾，TPG将全公司募资指引上调至550亿美元以上。TPG旗下设有信贷平台（Angelo Gordon），因此此次上调可能包含信贷资金，但文章未提供信贷相关的具体细节。公司层面的管理人新闻具有相关性，但重要性一般，且未提及具体策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingKey"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.37,
+              "finalScore": 7.37,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Golub": [],
         "CVC": [],
         "Canyon": []
@@ -177375,6 +177585,117 @@
           }
         },
         {
+          "id": "2026-11-10-eb3157d60f09",
+          "title": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results - Investing.com UK",
+          "titleZh": "财报电话会议实录：Bain Capital Specialty Finance公布稳健的2026年第三季度业绩 - Investing.com UK",
+          "summary": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+          "summaryZh": "财报电话会议实录：Bain Capital Specialty Finance公布稳健的2026年第三季度业绩 Investing.com UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVF9sMUU4MTF2UkVhLWFJS3BrUjR1bl92Tkh2d0ZwRThTNXBmY2FnV3pBQXBBOEUxUmIyV01FQzdXV2YzVy1SUDg3MGp6N2hzbnVtZ3NKQVFPSldiNjRBUmtPbnhSeW1DUVJNamNTQkhQZ3F2VkNiaXZIRzVueFN2a1hSQUIyNWJrMzRhcFhCd19MZEJhWDdDd0JDYmFpU1E3anlJU09udHRPRkdoSDRKWVFxRnN5U0lMOWZDRjRaZXdodElmMUFHcFNUQ3hnNkFLbU5RNy1nWFlWVDdKWUE?oc=5",
+          "source": "Investing.com UK",
+          "publishedAt": "2026-11-10",
+          "lede": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+          "articleExcerpt": "Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results - Investing.com UK. Earnings call transcript: Bain Capital Specialty Finance posts steady Q3 2026 results Investing.com UK",
+          "contentFingerprint": "035e1a44eb257923",
+          "region": "Europe",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's BDC, which is a direct lending vehicle in its credit business. The article is a routine quarterly earnings call transcript reporting steady results, with no financing, fundraising or litigation event.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的BDC（业务发展公司），为其信贷业务中的直接贷款平台。本文为常规季度财报电话会议实录，报告业绩稳健，未涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.17,
+            "finalScore": 23.17,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-444e5091effe",
           "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
           "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
@@ -178213,6 +178534,104 @@
             "finalScore": 8.66,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-10-cafc2a9941c9",
+          "title": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares - TradingKey",
+          "titleZh": "TPG 2026年第三季度业绩电话会：募资预期上调至550亿美元以上 - TradingKey",
+          "summary": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+          "summaryZh": "TPG 2026年第三季度业绩电话会：募资预期上调至550亿美元以上 TradingKey",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZGliczdWcld5MDd5V21CRThxYzZ5dUNJbjhYb085eHhvYXVqU0s3TnUwSHlpU0syVWhsSm5UWFR5bkFtT0pSS3JPcHc2YUxCWGdyc3lzanhiLUhqTGphSGpNUEx3V2FvSFVqc25SRVUtOWUyTGc?oc=5",
+          "source": "TradingKey",
+          "publishedAt": "2026-11-10",
+          "lede": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+          "articleExcerpt": "Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares - TradingKey. Conferencia de resultados de TPG del T3 de 2026: La previsión de captación de fondos se eleva por encima de los 55.000 millones de dólares TradingKey",
+          "contentFingerprint": "91e427b8c7605415",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Earnings-call recap in which TPG raises its firm-wide fundraising guidance above $55B. TPG runs a credit platform (Angelo Gordon), so the raise plausibly includes credit capital, but the article gives no credit-specific details. Firm-level manager news is relevant but only moderately important, and no specific strategy is identified.",
+            "llmReasonZh": "业绩电话会回顾，TPG将全公司募资指引上调至550亿美元以上。TPG旗下设有信贷平台（Angelo Gordon），因此此次上调可能包含信贷资金，但文章未提供信贷相关的具体细节。公司层面的管理人新闻具有相关性，但重要性一般，且未提及具体策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.6,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingKey"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.37,
+            "finalScore": 7.37,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -178223,10 +178642,234 @@
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
-        "Guggenheim": [],
+        "Guggenheim": [
+          {
+            "id": "2026-11-11-888d2ce9f643",
+            "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
+            "titleZh": "Pizza Hut拟通过10亿美元证券化为LongRange收购融资再融资",
+            "summary": "Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years.",
+            "summaryZh": "据Bloomberg报道，Pizza Hut正准备通过资产支持债券发行募集约10亿美元，用于对其被私募股权公司LongRange Capital收购相关的债务进行再融资。据悉，拟议融资将采用全业务证券化形式，以特许经营协议、特许权使用费、广告费、供应商返利及知识产权作为支持。此次发行包括至少6亿美元债券以及一个单独营销的分级，预期平均期限约为4.8年。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/pizza-hut-targets-1bn-securitisation-to-refinance-longrange-buyout",
+            "source": "Google News",
+            "publishedAt": "2026-11-11",
+            "lede": "Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years. The bonds are expected to price at yields between two and three percentage points above benchmark rates and have received BBB ratings from S&P Global Ratings and Kroll Bond Rating Agency. Proceeds will primarily refinance acquisition-related debt, cover transaction expenses and fund an interest reserve, with any remaining capital available for strategic investments in the US and Canada. Pizza Hut operates a predominantly franchised model, with approximately 99% of restaurants run by franchisees. Its US and Canadian network comprises more than 6,675 locations, generating approximately $5.4bn in systemwide sales over the 12 months to the second quarter of 2026. UBS is leading the bond offering, with Barclays, Bank of America, Guggenheim Securities and Rabo Securities among the bookrunners.",
+            "articleExcerpt": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout. Private Equity Wire | Pizza Hut targets $1bn securitisation to… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Pizza Hut targets $1bn securitisation to refinance LongRange buyout November 11, 2026 at 9:53 am Share this article Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years. The bonds are expected to price at yields between two and three percentage points above benchmark rates and have received BBB ratings from S&P Global Ratings and Kroll Bond Rating Agency. Proceeds will primarily refinance acquisition-related debt, cover transaction expenses",
+            "contentFingerprint": "fe551588795c4771",
+            "region": "US",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [
+              "abf",
+              "structured"
+            ],
+            "sectors": [
+              "abf",
+              "structured"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Guggenheim"
+              ],
+              "titleGps": [],
+              "llmGps": [],
+              "keywordStrategies": [
+                "abf",
+                "structured"
+              ],
+              "titleStrategies": [
+                "structured"
+              ],
+              "llmStrategies": [
+                "abf",
+                "structured"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Pizza Hut plans a $1bn whole-business securitisation, an asset-backed financing, to refinance LongRange Capital's buyout debt. The deal fits the structured and ABF strategies. No tracked GP is involved: LongRange Capital is not on the list. Importance is low for this portfolio because no tracked manager is mentioned.",
+              "llmReasonZh": "Pizza Hut计划进行10亿美元全业务证券化（一种资产支持融资），为LongRange Capital的收购债务再融资。该交易契合结构化及ABF策略。未涉及任何跟踪中的GP：LongRange Capital不在名单内。由于未提及任何跟踪中的管理人，该文章对本投资组合的重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.5,
+                  "code": "body_mentions_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "abf",
+                    "structured"
+                  ],
+                  "semanticValue": 0.34
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 4.1,
+              "finalScore": 19.1,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Neuberger": [],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-11-303701f2bd08",
+            "title": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... - Yahoo Finance",
+            "titleZh": "Bain Capital Specialty Finance Inc (BCSF) 2026年第三季度财报电话会议要点：NII覆盖…… - Yahoo Finance",
+            "summary": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+            "summaryZh": "Bain Capital Specialty Finance Inc (BCSF) 2026年第三季度财报电话会议要点：NII覆盖…… Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVQxcWVrclNxRm5xQ0FodzJpejBHeDVEQ1ZXdjdOSDZmd1FCQUM3VEJjOHBJRU1kdEpoODZjVExENUxYcHB0OXl2dDR2OHdUNzhBdUdkLWJ0amR6c1pRWVVBQUNkMjNpMGNMZW9tQ2JoUGdDbnBORDljRHI3S3JJbWtVUmZ6OUxwclhCODFiYzJPRDRFbjF5SlVjeXVNeW5a?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-11",
+            "lede": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+            "articleExcerpt": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... - Yahoo Finance. Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+            "contentFingerprint": "baeb22fc8a5da953",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Earnings call highlights for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC, which falls under its credit business. The headline says NII covers the dividend, so this is routine manager and earnings news with no lawsuit, financing or fundraising event.",
+              "llmReasonZh": "Bain Capital Specialty Finance (BCSF)财报电话会议要点。BCSF是Bain Capital旗下公开上市的BDC，隶属其信贷业务。标题显示NII覆盖股息，因此属于常规的管理人及业绩新闻，不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.15,
+              "finalScore": 23.15,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [],
         "Apollo": [
           {
@@ -178328,6 +178971,116 @@
               "finalScore": 21.19,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-11-ff12f12f1ff3",
+            "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator",
+            "titleZh": "MidCap Business Credit与MidCap Equipment Finance为美国中西部一家金属加工企业完成3000万美元融资",
+            "summary": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
+            "summaryZh": "MidCap Business Credit与MidCap Equipment Finance为一家私人控股的金属加工企业完成了1800万美元资产支持循环信贷额度及1200万美元设备租赁融资安排[…]",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
+            "source": "Google News",
+            "publishedAt": "2026-11-11",
+            "lede": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
+            "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million",
+            "contentFingerprint": "14e951fa016d8e80",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "MidCap Business Credit and MidCap Equipment Finance are lending platforms of MidCap Financial, which Apollo manages. This is credit activity: a closed $30MM financing made up of an $18MM asset-based revolver and an equipment financing facility. It is a routine deal, so importance is set at the ordinary-financing level.",
+              "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance是MidCap Financial旗下的贷款平台，MidCap Financial由Apollo管理。此为信贷活动：已完成一笔3000万美元融资，包括1800万美元资产支持循环信贷额度及一项设备融资安排。该交易属常规交易，因此重要性定为普通融资级别。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 13,
+              "semanticScore": 5.76,
+              "finalScore": 18.759999999999998,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -178336,6 +179089,228 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-11-888d2ce9f643",
+          "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
+          "titleZh": "Pizza Hut拟通过10亿美元证券化为LongRange收购融资再融资",
+          "summary": "Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years.",
+          "summaryZh": "据Bloomberg报道，Pizza Hut正准备通过资产支持债券发行募集约10亿美元，用于对其被私募股权公司LongRange Capital收购相关的债务进行再融资。据悉，拟议融资将采用全业务证券化形式，以特许经营协议、特许权使用费、广告费、供应商返利及知识产权作为支持。此次发行包括至少6亿美元债券以及一个单独营销的分级，预期平均期限约为4.8年。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://privateequitywire.com/news/pizza-hut-targets-1bn-securitisation-to-refinance-longrange-buyout",
+          "source": "Google News",
+          "publishedAt": "2026-11-11",
+          "lede": "Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years. The bonds are expected to price at yields between two and three percentage points above benchmark rates and have received BBB ratings from S&P Global Ratings and Kroll Bond Rating Agency. Proceeds will primarily refinance acquisition-related debt, cover transaction expenses and fund an interest reserve, with any remaining capital available for strategic investments in the US and Canada. Pizza Hut operates a predominantly franchised model, with approximately 99% of restaurants run by franchisees. Its US and Canadian network comprises more than 6,675 locations, generating approximately $5.4bn in systemwide sales over the 12 months to the second quarter of 2026. UBS is leading the bond offering, with Barclays, Bank of America, Guggenheim Securities and Rabo Securities among the bookrunners.",
+          "articleExcerpt": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout. Private Equity Wire | Pizza Hut targets $1bn securitisation to… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Pizza Hut targets $1bn securitisation to refinance LongRange buyout November 11, 2026 at 9:53 am Share this article Pizza Hut is preparing to raise approximately $1bn through an asset-backed bond offering to refinance debt associated with its acquisition by private equity firm LongRange Capital, according to a report by Bloomberg. The proposed financing will reportedly take the form of a whole-business securitisation, backed by franchise agreements, royalty payments, advertising fees, vendor rebates and intellectual property. The offering includes at least $600m of bonds alongside a separately marketed tranche, with an expected average life of approximately 4.8 years. The bonds are expected to price at yields between two and three percentage points above benchmark rates and have received BBB ratings from S&P Global Ratings and Kroll Bond Rating Agency. Proceeds will primarily refinance acquisition-related debt, cover transaction expenses",
+          "contentFingerprint": "fe551588795c4771",
+          "region": "US",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [
+            "abf",
+            "structured"
+          ],
+          "sectors": [
+            "abf",
+            "structured"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Guggenheim"
+            ],
+            "titleGps": [],
+            "llmGps": [],
+            "keywordStrategies": [
+              "abf",
+              "structured"
+            ],
+            "titleStrategies": [
+              "structured"
+            ],
+            "llmStrategies": [
+              "abf",
+              "structured"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Pizza Hut plans a $1bn whole-business securitisation, an asset-backed financing, to refinance LongRange Capital's buyout debt. The deal fits the structured and ABF strategies. No tracked GP is involved: LongRange Capital is not on the list. Importance is low for this portfolio because no tracked manager is mentioned.",
+            "llmReasonZh": "Pizza Hut计划进行10亿美元全业务证券化（一种资产支持融资），为LongRange Capital的收购债务再融资。该交易契合结构化及ABF策略。未涉及任何跟踪中的GP：LongRange Capital不在名单内。由于未提及任何跟踪中的管理人，该文章对本投资组合的重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.5,
+                "code": "body_mentions_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.67,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "abf",
+                  "structured"
+                ],
+                "semanticValue": 0.34
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 4.1,
+            "finalScore": 19.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-303701f2bd08",
+          "title": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... - Yahoo Finance",
+          "titleZh": "Bain Capital Specialty Finance Inc (BCSF) 2026年第三季度财报电话会议要点：NII覆盖…… - Yahoo Finance",
+          "summary": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+          "summaryZh": "Bain Capital Specialty Finance Inc (BCSF) 2026年第三季度财报电话会议要点：NII覆盖…… Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVQxcWVrclNxRm5xQ0FodzJpejBHeDVEQ1ZXdjdOSDZmd1FCQUM3VEJjOHBJRU1kdEpoODZjVExENUxYcHB0OXl2dDR2OHdUNzhBdUdkLWJ0amR6c1pRWVVBQUNkMjNpMGNMZW9tQ2JoUGdDbnBORDljRHI3S3JJbWtVUmZ6OUxwclhCODFiYzJPRDRFbjF5SlVjeXVNeW5a?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-11",
+          "lede": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+          "articleExcerpt": "Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... - Yahoo Finance. Bain Capital Specialty Finance Inc (BCSF) (Q3 2026) Earnings Call Highlights: NII Covers ... Yahoo Finance",
+          "contentFingerprint": "baeb22fc8a5da953",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Earnings call highlights for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC, which falls under its credit business. The headline says NII covers the dividend, so this is routine manager and earnings news with no lawsuit, financing or fundraising event.",
+            "llmReasonZh": "Bain Capital Specialty Finance (BCSF)财报电话会议要点。BCSF是Bain Capital旗下公开上市的BDC，隶属其信贷业务。标题显示NII覆盖股息，因此属于常规的管理人及业绩新闻，不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.15,
+            "finalScore": 23.15,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-11-bbbff368ce64",
           "title": "CFO structures evolve as general partners seek broader access to capital",
@@ -178435,6 +179410,116 @@
             "finalScore": 21.19,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-11-ff12f12f1ff3",
+          "title": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator",
+          "titleZh": "MidCap Business Credit与MidCap Equipment Finance为美国中西部一家金属加工企业完成3000万美元融资",
+          "summary": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
+          "summaryZh": "MidCap Business Credit与MidCap Equipment Finance为一家私人控股的金属加工企业完成了1800万美元资产支持循环信贷额度及1200万美元设备租赁融资安排[…]",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://www.abfjournal.com/midcap-business-credit-and-midcap-equipment-finance-close-30mm-for-a-midwest-metals-fabricator/",
+          "source": "Google News",
+          "publishedAt": "2026-11-11",
+          "lede": "MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million equipment lease facility for a privately held metals fabrication company […]",
+          "articleExcerpt": "MidCap Business Credit and MidCap Equipment Finance Close $30MM for a Midwest Metals Fabricator. MidCap Business Credit and MidCap Equipment Finance closed an $18 million asset-based revolving line of credit and a $12 million",
+          "contentFingerprint": "14e951fa016d8e80",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "MidCap Business Credit and MidCap Equipment Finance are lending platforms of MidCap Financial, which Apollo manages. This is credit activity: a closed $30MM financing made up of an $18MM asset-based revolver and an equipment financing facility. It is a routine deal, so importance is set at the ordinary-financing level.",
+            "llmReasonZh": "MidCap Business Credit与MidCap Equipment Finance是MidCap Financial旗下的贷款平台，MidCap Financial由Apollo管理。此为信贷活动：已完成一笔3000万美元融资，包括1800万美元资产支持循环信贷额度及一项设备融资安排。该交易属常规交易，因此重要性定为普通融资级别。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-11T10:03:30.064097+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 13,
+            "semanticScore": 5.76,
+            "finalScore": 18.759999999999998,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -178442,7 +179527,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 25,
+      "count": 21,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -178450,7 +179535,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
@@ -178463,7 +179548,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
@@ -178476,12 +179561,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 7,
+      "count": 6,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -178489,7 +179574,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
@@ -178502,12 +179587,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 1,
+      "count": 3,
       "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -178515,12 +179600,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 5,
+      "count": 10,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -178528,7 +179613,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
@@ -178541,12 +179626,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 37,
+      "count": 40,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -178554,7 +179639,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
@@ -178567,12 +179652,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 20,
+      "count": 22,
       "selected": 3,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -178580,25 +179665,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 14,
-      "selected": 0,
+      "count": 13,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
+      "count": 2,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -178606,12 +179691,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 14,
+      "count": 15,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -178619,12 +179704,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 29,
+      "count": 31,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -178632,12 +179717,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 708,
+      "count": 698,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -178654,9 +179739,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-11T02:26:06.394766+00:00",
+      "asOf": "2026-11-11T10:03:30.064097+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-11T02:26:06.394766+00:00"
+  "checkedAt": "2026-11-11T10:03:30.064097+00:00"
 }
