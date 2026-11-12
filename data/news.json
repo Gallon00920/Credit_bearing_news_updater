@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-11T19:29:34.776545+00:00",
+  "updatedAt": "2026-11-12T02:13:50.966393+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20777,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体而言为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -172897,6 +172897,112 @@
               "finalScore": 20.22,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-40efec02e36a",
+            "title": "Blue Owl Moves To End 'Broadside' Over Advisory Fees - Law360",
+            "titleZh": "Blue Owl寻求驳回针对其顾问费的“全面抨击” - Law360",
+            "summary": "Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+            "summaryZh": "Blue Owl寻求驳回针对其顾问费的“全面抨击” Law360",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN09ObzVOWGZWbnRXX2N1X3dWV0xVZElORUdRbUVKdUdzNTgxUjNHcC1BLXN5NjRFOGFRMDNOZjFUczBLbFctcGtGb0J6aFV3WDh5amtJUU92ZzdMTkhHampOanZzdjBLY0ZkTUQ5VVZXcjBGNERubTBrWXJEX1NqSVlhX0lpcWNSRVE4ZElOcEtYQXpnODlVYjJqUE1TOWp3Y1F3T2drd2JhSTJQUlpUcHYxenJIZk3SAVZBVV95cUxNOVhha1padVpjTGF5V0xfM29sNkZKWTFZb1JZR0ZJQm1pa0U0R0loRzN2TTFqaEoyY1UweW94ZjY5UC13SmJEUUZMNzZfZVU5dXVEc0NqQQ?oc=5",
+            "source": "Law360",
+            "publishedAt": "2026-11-10",
+            "lede": "Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+            "articleExcerpt": "Blue Owl Moves To End 'Broadside' Over Advisory Fees - Law360. Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+            "contentFingerprint": "fbce164ec6155063",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is defending litigation over advisory fees, most likely a shareholder Section 36(b)-style claim against its BDC/credit vehicles. Litigation involving the credit platform's fees is directly relevant to credit investors. The snippet is thin, so the BDC link is inferred rather than confirmed.",
+              "llmReasonZh": "Blue Owl正就顾问费相关诉讼进行抗辩，该诉讼很可能是股东针对其BDC/信贷投资工具提起的类似第36(b)条的索赔。涉及该信贷平台收费的诉讼与信贷投资者直接相关。由于摘要信息有限，与BDC的关联系推断所得，尚未得到证实。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.95,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Law360"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.13,
+              "finalScore": 11.129999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -174714,6 +174820,117 @@
               "finalScore": 23.17,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-4169a86213a3",
+            "title": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H - GuruFocus",
+            "titleZh": "Bain Capital Specialty Finance (BCSF) 公布2026年第三季度业绩 - GuruFocus",
+            "summary": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+            "summaryZh": "Bain Capital Specialty Finance (BCSF) 公布2026年第三季度业绩 - GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcEtuOUtXT2x3cnFWdGJRYVpHZXNhZ21HQjJvcHhScWRKQWgtc25KTGtZTnJRVTZMUDNzTS1ybzlpeVBMUFpzWVU3UVpoeE1fX1VoakhsVm9OWHQycndtREpTT292aFpIVWY4cVd4YXNyeC1yV2lqbVFKTlVuRDFzb3JlSUNPbW9VWEs5ZE5za0ZpUlJKeU9tOUQxNVNuWVVhTjl3M2hWdzk0UFByd19JazdnOE9HMUUxZkNDblk0OHk1andQckZVNXdxczJJMmgwY2pxYklfLU1neWI1ODBuRUdyWnVOZw?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-10",
+            "lede": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+            "articleExcerpt": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H - GuruFocus. Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+            "contentFingerprint": "fb0d6758698561b6",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC (direct lending vehicle), so this is credit-relevant. A quarterly earnings report is routine manager news with no specific financing, fundraising or litigation event, and the article text gives no detail on credit deterioration.",
+              "llmReasonZh": "Bain Capital Specialty Finance 是 Bain Capital 旗下公开上市的BDC（直接贷款工具），因此与信贷相关。季度业绩报告属于常规管理人新闻，不涉及具体融资、募资或诉讼事件，且文章未提供有关信用恶化的细节。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.94,
+              "finalScore": 22.94,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -175244,6 +175461,210 @@
               "keywordScore": 15,
               "semanticScore": 4.94,
               "finalScore": 19.94,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-83406792ed2c",
+            "title": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain - Moneycontrol.com",
+            "titleZh": "董事总经理Nirmal Jain称，Blackstone的投资是对IIFL Finance投下的信任票 - Moneycontrol.com",
+            "summary": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+            "summaryZh": "董事总经理Nirmal Jain称，Blackstone的投资是对IIFL Finance投下的信任票 Moneycontrol.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXNtd3luX1BsUUFKbUpCUEQxVllVRlhTdzB0R2JOS3c2RmhNbHdCZE1DMnFZdkZ1RU04REJNeFAwSlFaM3NhY2lqaFdrSGxmdERyM2E1OFpJNnZqYjBFZVcxX1VFd1hYZHZOaGhTSVdPUU11U0wwRmY1eWVOQmhOXzJ2LW5hSFlBUWRvdDZZUXhHa29rai1td3lKZXB2T050NC1wUjg0Nktob3dPcU5QOFJzWnQ5TG4tdGxoNUNHc2YwNEk4M1F4YV9DR0dFNGFTMzA0MlpmV09aMl9kQUpMMtIB5gFBVV95cUxOdDNQTGdnRDdHb2FuQ3pxa09OLS0tS2U1VGpXQkFkZ3VFM2Y1RWRBTWVUWWZSb21Bb1R6aDlaTHpBR0VDd3dhNFFlSzhiSXI3ekpSOUpjd1ZuRncwNHBBTFN3SjBQdURCWlRJb1BVZlQyUmJ4bDNjZHlTVWRtNm0tcC1Bc2NDbjFEYnBGclhKSjRMZ0pKaDB0TzI5R2M3LUZ2RU1VWmtqOUx4X0FVMG9yMlpjYXV2V1Z0QS1DMUphLXd2WlJ5Ml9FM1FFdFpOOW1IenVSUHhlNTVsdmV3YWZaRGRoODVIQQ?oc=5",
+            "source": "Moneycontrol.com",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+            "articleExcerpt": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain - Moneycontrol.com. Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+            "contentFingerprint": "7ce502ec659f4b41",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is investing in IIFL Finance, an Indian non-bank lender (gold, home and MSME loans). Putting capital into a lending platform has a credit and financing angle, so the article is not excluded. The snippet does not say whether the instrument is equity or structured credit, and the piece is mainly the MD's commentary, so importance is moderate.",
+              "llmReasonZh": "Blackstone正在投资IIFL Finance，这是一家印度非银行贷款机构（提供黄金贷款、住房贷款及中小微企业贷款）。向贷款平台注资涉及信贷及融资层面，因此该文章未被排除。摘要未说明投资工具是股权还是结构化信贷，且文章主要为董事总经理的评论，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Moneycontrol.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.81,
+              "finalScore": 19.81,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-ff2ebd00ec22",
+            "title": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone - Rediff MoneyWiz",
+            "titleZh": "IIFL Finance获Blackstone投资Rs 6,414 Cr - Rediff MoneyWiz",
+            "summary": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+            "summaryZh": "IIFL Finance获Blackstone投资Rs 6,414 Cr Rediff MoneyWiz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1QzUHFhbHRBdEZVQnJZZllFUXVFMEYtQ0hSd0lMY1hWbjA1Q2xhQi1fRG5DRURoeGJJa3dSRGpOLUZoN01SXzJLY3lCNVZ0QjNSbk1mS1JIMF9hNW9FbUZZUU1nNEJOd2c0ckJFY2paSFJYMDNRdUVUNEZhb0MtMExjcV8ybFNSNnBNalk1aWFWaV9wWE1SZDVHZTZzZHdYRHNocFJrb2ZPeUlhZ3ZhONIBtgFBVV95cUxNenNoeENBZVc5V3d5dHZXb3psTkJodXVFSDZhZlhVdjhyLU1RXzYzZnNwYnNIQ3RjNHJhN2lRZWd4RHk3eEJPUDhhMnA3Q0RrZlFoMzJaS2pObWFHUEtmTUQ2NzZrYlF4M1VjMzh5VmkyQXpPOEFhSFI3X3NlLXBZUjNJclB1UVFDeXBncjRaWUFTUUlISG5ub1JYWWx1X0FJRG9LWDhQSVhYODdEQmlEWVpxMTdVQQ?oc=5",
+            "source": "Rediff MoneyWiz",
+            "publishedAt": "2026-11-10",
+            "lede": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+            "articleExcerpt": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone - Rediff MoneyWiz. IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+            "contentFingerprint": "518bed4b89e825df",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone is putting about Rs 6,414 Cr (~$750M) into IIFL Finance, an Indian lender (NBFC), so there is a lending/financing angle. The text does not say whether this is debt or an equity stake. If it is a private-equity equity purchase, it should be re-evaluated and possibly excluded. No strategy is tagged because the article gives no detail.",
+              "llmReasonZh": "Blackstone拟向印度贷款机构（NBFC）IIFL Finance投资约Rs 6,414 Cr（约$750M），具有贷款/融资相关性。文中未说明该笔投资为债务还是股权。若属于私募股权性质的股权收购，应重新评估并可能予以排除。因文章未提供细节，未标注任何策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Rediff MoneyWiz"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 13,
+              "semanticScore": 5.12,
+              "finalScore": 18.12,
               "semanticEnabled": true
             }
           }
@@ -176170,6 +176591,112 @@
             "keywordScore": 14,
             "semanticScore": 6.22,
             "finalScore": 20.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-40efec02e36a",
+          "title": "Blue Owl Moves To End 'Broadside' Over Advisory Fees - Law360",
+          "titleZh": "Blue Owl寻求驳回针对其顾问费的“全面抨击” - Law360",
+          "summary": "Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+          "summaryZh": "Blue Owl寻求驳回针对其顾问费的“全面抨击” Law360",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN09ObzVOWGZWbnRXX2N1X3dWV0xVZElORUdRbUVKdUdzNTgxUjNHcC1BLXN5NjRFOGFRMDNOZjFUczBLbFctcGtGb0J6aFV3WDh5amtJUU92ZzdMTkhHampOanZzdjBLY0ZkTUQ5VVZXcjBGNERubTBrWXJEX1NqSVlhX0lpcWNSRVE4ZElOcEtYQXpnODlVYjJqUE1TOWp3Y1F3T2drd2JhSTJQUlpUcHYxenJIZk3SAVZBVV95cUxNOVhha1padVpjTGF5V0xfM29sNkZKWTFZb1JZR0ZJQm1pa0U0R0loRzN2TTFqaEoyY1UweW94ZjY5UC13SmJEUUZMNzZfZVU5dXVEc0NqQQ?oc=5",
+          "source": "Law360",
+          "publishedAt": "2026-11-10",
+          "lede": "Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+          "articleExcerpt": "Blue Owl Moves To End 'Broadside' Over Advisory Fees - Law360. Blue Owl Moves To End 'Broadside' Over Advisory Fees Law360",
+          "contentFingerprint": "fbce164ec6155063",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is defending litigation over advisory fees, most likely a shareholder Section 36(b)-style claim against its BDC/credit vehicles. Litigation involving the credit platform's fees is directly relevant to credit investors. The snippet is thin, so the BDC link is inferred rather than confirmed.",
+            "llmReasonZh": "Blue Owl正就顾问费相关诉讼进行抗辩，该诉讼很可能是股东针对其BDC/信贷投资工具提起的类似第36(b)条的索赔。涉及该信贷平台收费的诉讼与信贷投资者直接相关。由于摘要信息有限，与BDC的关联系推断所得，尚未得到证实。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.95,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Law360"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.13,
+            "finalScore": 11.129999999999999,
             "semanticEnabled": true
           }
         },
@@ -177980,6 +178507,117 @@
           }
         },
         {
+          "id": "2026-11-10-4169a86213a3",
+          "title": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H - GuruFocus",
+          "titleZh": "Bain Capital Specialty Finance (BCSF) 公布2026年第三季度业绩 - GuruFocus",
+          "summary": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+          "summaryZh": "Bain Capital Specialty Finance (BCSF) 公布2026年第三季度业绩 - GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcEtuOUtXT2x3cnFWdGJRYVpHZXNhZ21HQjJvcHhScWRKQWgtc25KTGtZTnJRVTZMUDNzTS1ybzlpeVBMUFpzWVU3UVpoeE1fX1VoakhsVm9OWHQycndtREpTT292aFpIVWY4cVd4YXNyeC1yV2lqbVFKTlVuRDFzb3JlSUNPbW9VWEs5ZE5za0ZpUlJKeU9tOUQxNVNuWVVhTjl3M2hWdzk0UFByd19JazdnOE9HMUUxZkNDblk0OHk1andQckZVNXdxczJJMmgwY2pxYklfLU1neWI1ODBuRUdyWnVOZw?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-10",
+          "lede": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+          "articleExcerpt": "Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H - GuruFocus. Bain Capital Specialty Finance (BCSF) Reports Q3 2026 Results, H GuruFocus",
+          "contentFingerprint": "fb0d6758698561b6",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC (direct lending vehicle), so this is credit-relevant. A quarterly earnings report is routine manager news with no specific financing, fundraising or litigation event, and the article text gives no detail on credit deterioration.",
+            "llmReasonZh": "Bain Capital Specialty Finance 是 Bain Capital 旗下公开上市的BDC（直接贷款工具），因此与信贷相关。季度业绩报告属于常规管理人新闻，不涉及具体融资、募资或诉讼事件，且文章未提供有关信用恶化的细节。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.94,
+            "finalScore": 22.94,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-444e5091effe",
           "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
           "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
@@ -178510,6 +179148,210 @@
           }
         },
         {
+          "id": "2026-11-10-83406792ed2c",
+          "title": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain - Moneycontrol.com",
+          "titleZh": "董事总经理Nirmal Jain称，Blackstone的投资是对IIFL Finance投下的信任票 - Moneycontrol.com",
+          "summary": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+          "summaryZh": "董事总经理Nirmal Jain称，Blackstone的投资是对IIFL Finance投下的信任票 Moneycontrol.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXNtd3luX1BsUUFKbUpCUEQxVllVRlhTdzB0R2JOS3c2RmhNbHdCZE1DMnFZdkZ1RU04REJNeFAwSlFaM3NhY2lqaFdrSGxmdERyM2E1OFpJNnZqYjBFZVcxX1VFd1hYZHZOaGhTSVdPUU11U0wwRmY1eWVOQmhOXzJ2LW5hSFlBUWRvdDZZUXhHa29rai1td3lKZXB2T050NC1wUjg0Nktob3dPcU5QOFJzWnQ5TG4tdGxoNUNHc2YwNEk4M1F4YV9DR0dFNGFTMzA0MlpmV09aMl9kQUpMMtIB5gFBVV95cUxOdDNQTGdnRDdHb2FuQ3pxa09OLS0tS2U1VGpXQkFkZ3VFM2Y1RWRBTWVUWWZSb21Bb1R6aDlaTHpBR0VDd3dhNFFlSzhiSXI3ekpSOUpjd1ZuRncwNHBBTFN3SjBQdURCWlRJb1BVZlQyUmJ4bDNjZHlTVWRtNm0tcC1Bc2NDbjFEYnBGclhKSjRMZ0pKaDB0TzI5R2M3LUZ2RU1VWmtqOUx4X0FVMG9yMlpjYXV2V1Z0QS1DMUphLXd2WlJ5Ml9FM1FFdFpOOW1IenVSUHhlNTVsdmV3YWZaRGRoODVIQQ?oc=5",
+          "source": "Moneycontrol.com",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+          "articleExcerpt": "Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain - Moneycontrol.com. Blackstone’s investment a vote of confidence in IIFL Finance, says MD Nirmal Jain Moneycontrol.com",
+          "contentFingerprint": "7ce502ec659f4b41",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is investing in IIFL Finance, an Indian non-bank lender (gold, home and MSME loans). Putting capital into a lending platform has a credit and financing angle, so the article is not excluded. The snippet does not say whether the instrument is equity or structured credit, and the piece is mainly the MD's commentary, so importance is moderate.",
+            "llmReasonZh": "Blackstone正在投资IIFL Finance，这是一家印度非银行贷款机构（提供黄金贷款、住房贷款及中小微企业贷款）。向贷款平台注资涉及信贷及融资层面，因此该文章未被排除。摘要未说明投资工具是股权还是结构化信贷，且文章主要为董事总经理的评论，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Moneycontrol.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.81,
+            "finalScore": 19.81,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-ff2ebd00ec22",
+          "title": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone - Rediff MoneyWiz",
+          "titleZh": "IIFL Finance获Blackstone投资Rs 6,414 Cr - Rediff MoneyWiz",
+          "summary": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+          "summaryZh": "IIFL Finance获Blackstone投资Rs 6,414 Cr Rediff MoneyWiz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1QzUHFhbHRBdEZVQnJZZllFUXVFMEYtQ0hSd0lMY1hWbjA1Q2xhQi1fRG5DRURoeGJJa3dSRGpOLUZoN01SXzJLY3lCNVZ0QjNSbk1mS1JIMF9hNW9FbUZZUU1nNEJOd2c0ckJFY2paSFJYMDNRdUVUNEZhb0MtMExjcV8ybFNSNnBNalk1aWFWaV9wWE1SZDVHZTZzZHdYRHNocFJrb2ZPeUlhZ3ZhONIBtgFBVV95cUxNenNoeENBZVc5V3d5dHZXb3psTkJodXVFSDZhZlhVdjhyLU1RXzYzZnNwYnNIQ3RjNHJhN2lRZWd4RHk3eEJPUDhhMnA3Q0RrZlFoMzJaS2pObWFHUEtmTUQ2NzZrYlF4M1VjMzh5VmkyQXpPOEFhSFI3X3NlLXBZUjNJclB1UVFDeXBncjRaWUFTUUlISG5ub1JYWWx1X0FJRG9LWDhQSVhYODdEQmlEWVpxMTdVQQ?oc=5",
+          "source": "Rediff MoneyWiz",
+          "publishedAt": "2026-11-10",
+          "lede": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+          "articleExcerpt": "IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone - Rediff MoneyWiz. IIFL Finance Secures Rs 6,414 Cr Investment from Blackstone Rediff MoneyWiz",
+          "contentFingerprint": "518bed4b89e825df",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone is putting about Rs 6,414 Cr (~$750M) into IIFL Finance, an Indian lender (NBFC), so there is a lending/financing angle. The text does not say whether this is debt or an equity stake. If it is a private-equity equity purchase, it should be re-evaluated and possibly excluded. No strategy is tagged because the article gives no detail.",
+            "llmReasonZh": "Blackstone拟向印度贷款机构（NBFC）IIFL Finance投资约Rs 6,414 Cr（约$750M），具有贷款/融资相关性。文中未说明该笔投资为债务还是股权。若属于私募股权性质的股权收购，应重新评估并可能予以排除。因文章未提供细节，未标注任何策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Rediff MoneyWiz"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 13,
+            "semanticScore": 5.12,
+            "finalScore": 18.12,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-bbbff368ce64",
           "title": "CFO structures evolve as general partners seek broader access to capital",
           "titleZh": "随着普通合伙人寻求更广泛的融资渠道，CFO结构不断演变",
@@ -179013,7 +179855,107 @@
     },
     "2026-11-11": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-11-da6753174349",
+            "title": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out - Investing.com",
+            "titleZh": "银行收缩之际，Blue Owl 8.7%的股息收益率为何脱颖而出 - Investing.com",
+            "summary": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+            "summaryZh": "银行收缩之际，Blue Owl 8.7%的股息收益率为何脱颖而出 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVJBQi1rSzllSkEwcVV0d2FBcVc2cEtEMjFYemVSb2IySlEtaEpXMmlTSTdQcldNaGpsV3NNeGh5Q2FPcGJXaHZaeU9ZZWQxWUNSby14aGZiMUFsUENYaGdabzVtYVNENk5RclN0ZFVSem1qRXBxeWRRa05raTl3ZzRCMW9pdjNmaUtoSGtKSFlqeTBaRElzSTJ4aWVhbnljSnBqZ1FfTnNsY3BqYVRZSWc0UVdoanc?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-11",
+            "lede": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+            "articleExcerpt": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out - Investing.com. As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+            "contentFingerprint": "25d8341e9c0ee53b",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is stock/dividend-yield commentary on Blue Owl, framed around banks retreating from lending, which points to its private credit and direct lending business. It reports no transaction, fundraising or litigation, so importance is low (analyst-commentary level).",
+              "llmReasonZh": "本文是关于Blue Owl股票及股息收益率的评论，以银行退出放贷为背景，涉及其私募信贷和直接贷款业务。文中未报道任何交易、募资或诉讼，因此重要性较低（属于分析师评论级别）。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.81,
+              "finalScore": 11.809999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-11-11-15fb2bf24a22",
@@ -179126,6 +180068,102 @@
               "keywordScore": 10,
               "semanticScore": 4.79,
               "finalScore": 14.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-11-7a46b1a0c4bd",
+            "title": "Is KKR a Buy After Its Latest Earnings Report? - The Motley Fool",
+            "titleZh": "KKR最新财报发布后是否值得买入？- The Motley Fool",
+            "summary": "Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+            "summaryZh": "KKR最新财报发布后是否值得买入？The Motley Fool",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0pvQ0x6aUVQQ1Y0WkstT045R0VGME1mVTIyMks3Wnd6VzVMaGk5b1NxUUZCSzZjUG1aV3kwWlhoeHpPeW1mXzVyU3M1eURtMEdlRktVVDlRdnVZb0M4ZHVJcmpZUjdwakdERUFYN2NvcnFQMUZXeXVqX0Y5ZFJrbDF6azNBRGFXMlJiZTFVSG1KQQ?oc=5",
+            "source": "The Motley Fool",
+            "publishedAt": "2026-11-11",
+            "lede": "Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+            "articleExcerpt": "Is KKR a Buy After Its Latest Earnings Report? - The Motley Fool. Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+            "contentFingerprint": "cc51cc83049c0c7e",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Motley Fool stock commentary on KKR after earnings. It covers the whole firm, so it is not specific to a non-credit business. There is no credit-specific content, transaction, or event, so importance is low.",
+              "llmReasonZh": "The Motley Fool在KKR发布财报后对其股票的评论文章。文章涵盖公司整体，并非专门针对某项非信贷业务。文章不含信贷相关内容、交易或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "The Motley Fool"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.41,
+              "finalScore": 7.41,
               "semanticEnabled": true
             }
           }
@@ -179468,7 +180506,106 @@
             }
           }
         ],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-11-bcae9badd7b8",
+            "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard",
+            "titleZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 - Business Standard",
+            "summary": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+            "summaryZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 Business Standard",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGvSAdQBQVVfeXFMT0Rmc3AxQ2lhTG9zYmxZTTVVano3dmV6U3ljRkFaRko0Ykh6eEJrbEpYQjdfU2tsSWVEUWxMWXRmdHpLSkFGc2taSnk1d3BaVjNidV9xc2oyVUZHbV9BWmVad0tmdnpLa3lHOVgyTV9NZWZWbENqbllCLWdsSjg0dUROelgwT1pwVjdnR1JEN0dCMmRXRGd1LUowQm5EeUlaNlR3RHRkeXF4R0xFOUxMeENyaEFKbGJ2MUt6TlYzLVNKSGJiWVRYM0VHekdETERKeGZCWjY?oc=5",
+            "source": "Business Standard",
+            "publishedAt": "2026-11-11",
+            "lede": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+            "articleExcerpt": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard. IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+            "contentFingerprint": "3b1dc6da2b6b4a54",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian non-bank lender, so it has a lending/financing angle. The snippet does not say whether this is a Blackstone credit investment or a private-equity stake. The content is mainly stock-price reaction and brokerage commentary, hence the low importance. No strategy is tagged because the deal structure is unclear. Exclude if the deal turns out to be a pure PE equity stake.",
+              "llmReasonZh": "该文章涉及Blackstone与印度非银行贷款机构IIFL Finance的交易，因此具有贷款/融资相关性。摘要未说明这是Blackstone的信贷投资还是私募股权入股。文章内容主要为股价反应和券商评论，因此重要性较低。由于交易结构不明确，未标注策略。若该交易最终确认为纯私募股权入股，则应予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Business Standard"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.44,
+              "finalScore": 16.44,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [
           {
             "id": "2026-11-11-15fb2bf24a22",
@@ -179998,6 +181135,300 @@
               "finalScore": 10.280000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-11-078d320f17da",
+            "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ",
+            "titleZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 - WSJ",
+            "summary": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "summaryZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtIejc1NGpfcDh3cWxiZElWYmVqOTNYc3lZemtra2M4VnppMWFTSWh3YS1VeHFJZmQ0M3BlT01odFg5WEdfVUlMVHVzLUJqSTUwQ1VoS25OYmZDcVZUSVJYcmN5NFFXTWkyeVBCNzFlSFRQNUVrcnFfcjc0QjZyYV90eThBbWx2VlZWVnVVLTA5V3laMFIxRFRwclZMUTNnT2RxWFFweGpOekU?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-11",
+            "lede": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "articleExcerpt": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ. Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "contentFingerprint": "4afa1b1c267a0e32",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo's record $114B of debt originations is a core measure of its credit/lending platform, and the article links the growth to AI-related financing opportunities. This is significant credit-business news, though it is a performance update rather than a single major transaction.",
+              "llmReasonZh": "Apollo创纪录的1140亿美元债务发起规模是衡量其信贷/贷款平台的核心指标，且文章将这一增长与AI相关融资机遇联系起来。这是重要的信贷业务新闻，但属于业绩更新，而非单一重大交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 86,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.39,
+              "finalScore": 14.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-11-3e91c7065216",
+            "title": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios - Apollo Global Management",
+            "titleZh": "风险何在？揭示当今投资组合隐性敞口的7个数字 - Apollo Global Management",
+            "summary": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+            "summaryZh": "风险何在？揭示当今投资组合隐性敞口的7个数字 Apollo Global Management",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWlnNmR0ZDN5R0dJU0FBR0xkNmpiMWw1a2M1YW9pWlV2aEJlX0I2dVZ0UmJaWDJaQ3g2U2RKSC1PUzgzUmtrSUVpOVBSU0VOZU9uNEdxVGZfRHNuaFNSVEZZN2pSZGZjbUUwYkRCMFdsREtsQnMtLTVkUjl4eURRZS02MVA5cnJLb2xwWlhRLUsycGFKM0t0ekU1ZVhSb3dNSmg4c1NQLWRsZlU2czJsZ1VSeGg0c1BUbms3VGVQcFU3c3VxSS1UazhjTURRbEVHQjMtWFJn?oc=5",
+            "source": "Apollo Global Management",
+            "publishedAt": "2026-11-11",
+            "lede": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+            "articleExcerpt": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios - Apollo Global Management. What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+            "contentFingerprint": "a40d9999aa2c40df",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Apollo-published market commentary piece on portfolio risk exposures; thought leadership with no specific credit transaction, fund, or event. Low importance, not a non-credit business story.",
+              "llmReasonZh": "Apollo发布的关于投资组合风险敞口的市场评论文章；属于思想领导力内容，不涉及具体信贷交易、基金或事件。重要性较低，但并非非信贷业务类报道。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Apollo Global Management"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.61,
+              "finalScore": 10.61,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-11-d4505d29eeec",
+            "title": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push - Investing.com",
+            "titleZh": "Apollo亮相2026年Wolfe Research财富研讨会：大力推进私募市场 - Investing.com",
+            "summary": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+            "summaryZh": "Apollo亮相2026年Wolfe Research财富研讨会：大力推进私募市场 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGxaTk50YUVJM1ZlNEZGeUw1RnBvZGprNUpoRDhOU213NHd6bjg0TWNkdVNGQlZJUFJPajZJZ0VRSDZzS1FWZ0FCM1pjWmp5UXFEN1hEUXJxbnUtTEhlUTZ3a1VsVE9iSUtEUWYxWlVDWEtGbkM4bkhHSWxBVmRzOER3ZWk5ZVYtNUF5NFdsMlpSTzJ6NzBZRTNQZ2RLUXdCb0RBZVg5UjlZcGNibkM1eTdFN050bjZhSDV2U0txc20?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-11",
+            "lede": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+            "articleExcerpt": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push - Investing.com. Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+            "contentFingerprint": "ea1c35485d668a9e",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Apollo is presenting at an investor conference (the Wolfe Research Wealth Symposium) about pushing private markets into the wealth channel. Apollo's wealth products are largely credit-oriented, so the article is relevant to the credit business. It is routine manager commentary, with no transaction, fundraise or lawsuit, and the text gives no specifics. That makes its importance low and no specific strategy can be confirmed.",
+              "llmReasonZh": "Apollo在投资者会议（Wolfe Research财富研讨会）上发表演讲，内容涉及将私募市场产品推向财富管理渠道。Apollo的财富管理产品以信贷类为主，因此该文章与其信贷业务相关。该文章属于管理人的常规评论，不涉及交易、募资或诉讼，且文中未提供具体细节。因此其重要性较低，亦无法确认涉及任何具体策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.61,
+              "finalScore": 8.61,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -180006,6 +181437,105 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-11-da6753174349",
+          "title": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out - Investing.com",
+          "titleZh": "银行收缩之际，Blue Owl 8.7%的股息收益率为何脱颖而出 - Investing.com",
+          "summary": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+          "summaryZh": "银行收缩之际，Blue Owl 8.7%的股息收益率为何脱颖而出 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVJBQi1rSzllSkEwcVV0d2FBcVc2cEtEMjFYemVSb2IySlEtaEpXMmlTSTdQcldNaGpsV3NNeGh5Q2FPcGJXaHZaeU9ZZWQxWUNSby14aGZiMUFsUENYaGdabzVtYVNENk5RclN0ZFVSem1qRXBxeWRRa05raTl3ZzRCMW9pdjNmaUtoSGtKSFlqeTBaRElzSTJ4aWVhbnljSnBqZ1FfTnNsY3BqYVRZSWc0UVdoanc?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-11",
+          "lede": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+          "articleExcerpt": "As banks retreat, why Blue Owl’s 8.7% dividend yield stands out - Investing.com. As banks retreat, why Blue Owl’s 8.7% dividend yield stands out Investing.com",
+          "contentFingerprint": "25d8341e9c0ee53b",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is stock/dividend-yield commentary on Blue Owl, framed around banks retreating from lending, which points to its private credit and direct lending business. It reports no transaction, fundraising or litigation, so importance is low (analyst-commentary level).",
+            "llmReasonZh": "本文是关于Blue Owl股票及股息收益率的评论，以银行退出放贷为背景，涉及其私募信贷和直接贷款业务。文中未报道任何交易、募资或诉讼，因此重要性较低（属于分析师评论级别）。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.81,
+            "finalScore": 11.809999999999999,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-11-15fb2bf24a22",
           "title": "Apollo backs $750m round for AI data company; KKR to buy Texas water business - Alternatives Watch",
@@ -180117,6 +181647,102 @@
             "keywordScore": 10,
             "semanticScore": 4.79,
             "finalScore": 14.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-7a46b1a0c4bd",
+          "title": "Is KKR a Buy After Its Latest Earnings Report? - The Motley Fool",
+          "titleZh": "KKR最新财报发布后是否值得买入？- The Motley Fool",
+          "summary": "Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+          "summaryZh": "KKR最新财报发布后是否值得买入？The Motley Fool",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0pvQ0x6aUVQQ1Y0WkstT045R0VGME1mVTIyMks3Wnd6VzVMaGk5b1NxUUZCSzZjUG1aV3kwWlhoeHpPeW1mXzVyU3M1eURtMEdlRktVVDlRdnVZb0M4ZHVJcmpZUjdwakdERUFYN2NvcnFQMUZXeXVqX0Y5ZFJrbDF6azNBRGFXMlJiZTFVSG1KQQ?oc=5",
+          "source": "The Motley Fool",
+          "publishedAt": "2026-11-11",
+          "lede": "Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+          "articleExcerpt": "Is KKR a Buy After Its Latest Earnings Report? - The Motley Fool. Is KKR a Buy After Its Latest Earnings Report? The Motley Fool",
+          "contentFingerprint": "cc51cc83049c0c7e",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Motley Fool stock commentary on KKR after earnings. It covers the whole firm, so it is not specific to a non-credit business. There is no credit-specific content, transaction, or event, so importance is low.",
+            "llmReasonZh": "The Motley Fool在KKR发布财报后对其股票的评论文章。文章涵盖公司整体，并非专门针对某项非信贷业务。文章不含信贷相关内容、交易或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "The Motley Fool"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.41,
+            "finalScore": 7.41,
             "semanticEnabled": true
           }
         },
@@ -180445,6 +182071,104 @@
             "keywordScore": 17,
             "semanticScore": 6.15,
             "finalScore": 23.15,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-bcae9badd7b8",
+          "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard",
+          "titleZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 - Business Standard",
+          "summary": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+          "summaryZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 Business Standard",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGvSAdQBQVVfeXFMT0Rmc3AxQ2lhTG9zYmxZTTVVano3dmV6U3ljRkFaRko0Ykh6eEJrbEpYQjdfU2tsSWVEUWxMWXRmdHpLSkFGc2taSnk1d3BaVjNidV9xc2oyVUZHbV9BWmVad0tmdnpLa3lHOVgyTV9NZWZWbENqbllCLWdsSjg0dUROelgwT1pwVjdnR1JEN0dCMmRXRGd1LUowQm5EeUlaNlR3RHRkeXF4R0xFOUxMeENyaEFKbGJ2MUt6TlYzLVNKSGJiWVRYM0VHekdETERKeGZCWjY?oc=5",
+          "source": "Business Standard",
+          "publishedAt": "2026-11-11",
+          "lede": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+          "articleExcerpt": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard. IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
+          "contentFingerprint": "3b1dc6da2b6b4a54",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian non-bank lender, so it has a lending/financing angle. The snippet does not say whether this is a Blackstone credit investment or a private-equity stake. The content is mainly stock-price reaction and brokerage commentary, hence the low importance. No strategy is tagged because the deal structure is unclear. Exclude if the deal turns out to be a pure PE equity stake.",
+            "llmReasonZh": "该文章涉及Blackstone与印度非银行贷款机构IIFL Finance的交易，因此具有贷款/融资相关性。摘要未说明这是Blackstone的信贷投资还是私募股权入股。文章内容主要为股价反应和券商评论，因此重要性较低。由于交易结构不明确，未标注策略。若该交易最终确认为纯私募股权入股，则应予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Business Standard"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.44,
+            "finalScore": 16.44,
             "semanticEnabled": true
           }
         },
@@ -180862,14 +182586,328 @@
             "finalScore": 10.280000000000001,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-11-078d320f17da",
+          "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ",
+          "titleZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 - WSJ",
+          "summary": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "summaryZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtIejc1NGpfcDh3cWxiZElWYmVqOTNYc3lZemtra2M4VnppMWFTSWh3YS1VeHFJZmQ0M3BlT01odFg5WEdfVUlMVHVzLUJqSTUwQ1VoS25OYmZDcVZUSVJYcmN5NFFXTWkyeVBCNzFlSFRQNUVrcnFfcjc0QjZyYV90eThBbWx2VlZWVnVVLTA5V3laMFIxRFRwclZMUTNnT2RxWFFweGpOekU?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-11",
+          "lede": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "articleExcerpt": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ. Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "contentFingerprint": "4afa1b1c267a0e32",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo's record $114B of debt originations is a core measure of its credit/lending platform, and the article links the growth to AI-related financing opportunities. This is significant credit-business news, though it is a performance update rather than a single major transaction.",
+            "llmReasonZh": "Apollo创纪录的1140亿美元债务发起规模是衡量其信贷/贷款平台的核心指标，且文章将这一增长与AI相关融资机遇联系起来。这是重要的信贷业务新闻，但属于业绩更新，而非单一重大交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 86,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.39,
+            "finalScore": 14.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-3e91c7065216",
+          "title": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios - Apollo Global Management",
+          "titleZh": "风险何在？揭示当今投资组合隐性敞口的7个数字 - Apollo Global Management",
+          "summary": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+          "summaryZh": "风险何在？揭示当今投资组合隐性敞口的7个数字 Apollo Global Management",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWlnNmR0ZDN5R0dJU0FBR0xkNmpiMWw1a2M1YW9pWlV2aEJlX0I2dVZ0UmJaWDJaQ3g2U2RKSC1PUzgzUmtrSUVpOVBSU0VOZU9uNEdxVGZfRHNuaFNSVEZZN2pSZGZjbUUwYkRCMFdsREtsQnMtLTVkUjl4eURRZS02MVA5cnJLb2xwWlhRLUsycGFKM0t0ekU1ZVhSb3dNSmg4c1NQLWRsZlU2czJsZ1VSeGg0c1BUbms3VGVQcFU3c3VxSS1UazhjTURRbEVHQjMtWFJn?oc=5",
+          "source": "Apollo Global Management",
+          "publishedAt": "2026-11-11",
+          "lede": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+          "articleExcerpt": "What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios - Apollo Global Management. What's the Risk? 7 Numbers That Reveal Hidden Exposures in Today’s Portfolios Apollo Global Management",
+          "contentFingerprint": "a40d9999aa2c40df",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Apollo-published market commentary piece on portfolio risk exposures; thought leadership with no specific credit transaction, fund, or event. Low importance, not a non-credit business story.",
+            "llmReasonZh": "Apollo发布的关于投资组合风险敞口的市场评论文章；属于思想领导力内容，不涉及具体信贷交易、基金或事件。重要性较低，但并非非信贷业务类报道。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Apollo Global Management"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.61,
+            "finalScore": 10.61,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-d4505d29eeec",
+          "title": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push - Investing.com",
+          "titleZh": "Apollo亮相2026年Wolfe Research财富研讨会：大力推进私募市场 - Investing.com",
+          "summary": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+          "summaryZh": "Apollo亮相2026年Wolfe Research财富研讨会：大力推进私募市场 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGxaTk50YUVJM1ZlNEZGeUw1RnBvZGprNUpoRDhOU213NHd6bjg0TWNkdVNGQlZJUFJPajZJZ0VRSDZzS1FWZ0FCM1pjWmp5UXFEN1hEUXJxbnUtTEhlUTZ3a1VsVE9iSUtEUWYxWlVDWEtGbkM4bkhHSWxBVmRzOER3ZWk5ZVYtNUF5NFdsMlpSTzJ6NzBZRTNQZ2RLUXdCb0RBZVg5UjlZcGNibkM1eTdFN050bjZhSDV2U0txc20?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-11",
+          "lede": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+          "articleExcerpt": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push - Investing.com. Apollo at 2026 Wolfe Research Wealth Symposium: private markets push Investing.com",
+          "contentFingerprint": "ea1c35485d668a9e",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Apollo is presenting at an investor conference (the Wolfe Research Wealth Symposium) about pushing private markets into the wealth channel. Apollo's wealth products are largely credit-oriented, so the article is relevant to the credit business. It is routine manager commentary, with no transaction, fundraise or lawsuit, and the text gives no specifics. That makes its importance low and no specific strategy can be confirmed.",
+            "llmReasonZh": "Apollo在投资者会议（Wolfe Research财富研讨会）上发表演讲，内容涉及将私募市场产品推向财富管理渠道。Apollo的财富管理产品以信贷类为主，因此该文章与其信贷业务相关。该文章属于管理人的常规评论，不涉及交易、募资或诉讼，且文中未提供具体细节。因此其重要性较低，亦无法确认涉及任何具体策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.61,
+            "finalScore": 8.61,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-12": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 20,
+      "count": 17,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -180877,33 +182915,33 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 100,
-      "selected": 6,
+      "selected": 3,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
       "count": 1,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -180916,20 +182954,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 7,
-      "selected": 4,
+      "selected": 3,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -180942,12 +182980,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 9,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -180955,7 +182993,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -180968,7 +183006,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -180981,7 +183019,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -180994,25 +183032,25 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 25,
-      "selected": 4,
+      "count": 28,
+      "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 13,
+      "count": 15,
       "selected": 2,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -181020,7 +183058,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -181033,12 +183071,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 17,
+      "count": 18,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -181046,7 +183084,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
@@ -181059,12 +183097,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 565,
+      "count": 583,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -181081,9 +183119,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-11T18:14:35.753340+00:00",
+      "asOf": "2026-11-12T01:12:03.568289+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-11T18:14:35.753340+00:00"
+  "checkedAt": "2026-11-12T01:12:03.568289+00:00"
 }
