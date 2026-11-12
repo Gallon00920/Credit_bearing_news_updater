@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-12T02:13:50.966393+00:00",
+  "updatedAt": "2026-11-12T10:05:25.328594+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先有担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体而言为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -173003,6 +173003,101 @@
               "finalScore": 11.129999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-962071dde269",
+            "title": "Blue Owl Capital Inc's Dividend Analysis - Yahoo Finance",
+            "titleZh": "Blue Owl Capital Inc股息分析 - Yahoo Finance",
+            "summary": "Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+            "summaryZh": "Blue Owl Capital Inc股息分析 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEtfdGtFa3MyUWtGTTdmWHBWak43S1BBSE9rdzN6LW42Rm1Dd29WWG1PRzZtRkNjWlE3OERkd2N1QWFBYW94NWFScUxBNndnbzVvLVZ2dFd4ZWN1WXpXT3dIbFdvdEdfUlBLTnlmTFBGLUxhME03MHFHeGlUd05XaFRkU3JldmI1Q2piakxKVERMYS1BV2s4ZFJPUQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-10",
+            "lede": "Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+            "articleExcerpt": "Blue Owl Capital Inc's Dividend Analysis - Yahoo Finance. Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+            "contentFingerprint": "f89122ecc5ec3456",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock dividend analysis of Blue Owl Capital Inc (OWL), the parent asset manager. This is equity-market commentary with no specific credit transaction, lending, fundraising or litigation. It is low importance but not excluded, since it concerns the tracked manager itself and not a non-credit asset or an unrelated entity.",
+              "llmReasonZh": "针对母公司资产管理机构Blue Owl Capital Inc（OWL）的股票股息分析。本文属于股票市场评论，不涉及具体的信贷交易、放贷、募资或诉讼。重要性较低，但未予排除，因为其涉及所跟踪的管理人本身，而非非信贷资产或无关实体。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.28,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.66,
+              "finalScore": 17.66,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -173711,6 +173806,189 @@
               "keywordScore": 11,
               "semanticScore": 5.25,
               "finalScore": 16.25,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-2123d16cb29a",
+            "title": "KKR Could Be A Brilliant Value Play (NYSE:KKR) - Seeking Alpha",
+            "titleZh": "KKR或成绝佳价值投资标的（NYSE:KKR）- Seeking Alpha",
+            "summary": "KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+            "summaryZh": "KKR或成绝佳价值投资标的（NYSE:KKR）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3pMY05DWjZLS1BYMXU3QW1MZG1VdzlvSEVtRHZoTzMwcjhJdmFIN0JCMlV4ZWo5dU9Qc1k0Mzd5UndEX3Q5NEhYRDdpYXFzSUwwa0EweFlzNnZXUm1JRjlzYjhsbGdTbGlBdEFkOExXdElRWTU4cnBlMEZBQU1SZEtn?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-10",
+            "lede": "KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+            "articleExcerpt": "KKR Could Be A Brilliant Value Play (NYSE:KKR) - Seeking Alpha. KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+            "contentFingerprint": "e3973fbfda8e8f0d",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha stock valuation commentary on KKR's listed shares. There is no specific credit or financing event, so it is analyst commentary with low importance. It is not excluded because it concerns the overall firm rather than a non-credit asset.",
+              "llmReasonZh": "Seeking Alpha针对KKR上市股票的估值评论。文章未涉及具体的信贷或融资事件，属于分析师评论，重要性较低。由于内容涉及公司整体而非非信贷类资产，因此未予排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.42,
+              "finalScore": 9.42,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-4b1f92873df6",
+            "title": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 - TradingView",
+            "titleZh": "Evercore ISI Group维持KKR“跑赢大盘”评级，目标价由$109上调至$115 - TradingView",
+            "summary": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+            "summaryZh": "Evercore ISI Group维持KKR“跑赢大盘”评级，目标价由$109上调至$115 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlZwQ3lxSVhIaUxWU19TNktub1BmVzVLZXdOdjJjS25KWW5QTzZQUlRDX2NZZFhyY2JBYUNTUDA3OTZLM3R5eC1tWVJ1QWlWTEZzaFNKcm0wd2hBMmNLU0NZQ1g3Q2MxWkdpeWZlZ2tqSWk2am1XUzdndVVPYmZMUGlNd3FhTlZJSE9GcDdlenBuVFdMM3JsN2YzVTZoTzMtbEpJNTJwRWlaNXYwTU9uTEdjakJ1Y09Qdk1xSVZVbWxxd2I0WS1Mc21QaTBNQkpiYktaV0x5T1VJZXFs?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-10",
+            "lede": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+            "articleExcerpt": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 - TradingView. Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+            "contentFingerprint": "0970c7e5b0d9c9d5",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst rating and price-target update on KKR's listed stock. The article has no credit-specific content, but it is firm-level commentary that covers KKR's whole platform, including its credit business, so it is kept as low-importance analyst commentary rather than excluded.",
+              "llmReasonZh": "针对KKR上市股票的分析师评级及目标价更新。该文章不含信贷相关的具体内容，但属于覆盖KKR整体平台（包括其信贷业务）的公司层面评论，因此作为低重要性的分析师评论予以保留，而非剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 45,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.4,
+              "finalScore": 7.4,
               "semanticEnabled": true
             }
           }
@@ -175667,6 +175945,106 @@
               "finalScore": 18.12,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-94f3e523f1c6",
+            "title": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore - Urban Acres",
+            "titleZh": "IIFL Finance融资：Blackstone投资Rs 5,000 crore - Urban Acres",
+            "summary": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+            "summaryZh": "IIFL Finance融资：Blackstone投资Rs 5,000 crore Urban Acres",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTdnNmpEcVRTRTVsN0ZKVnZrVXlfY2MtenM1MEVUZHpkMnZSRW01Vjhmelh3b1FUUWcxenEtUWducl85cWlyaExnMTZOOU0xajhmWlYtcUJKNnhWUHZnS1M2OEowRDQtaXc5RGVUNkxDdmJLZTRNQUpfOFdsQno5TzRlZGRFY0dVVy0xRVYzSHBKYm55U3c?oc=5",
+            "source": "Urban Acres",
+            "publishedAt": "2026-11-10",
+            "lede": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+            "articleExcerpt": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore - Urban Acres. IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+            "contentFingerprint": "bab1c4d4c2f12485",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone is investing Rs 5,000 crore in IIFL Finance, an Indian non-bank lender focused on gold loans, mortgages and MSME loans. The article does not say whether this is equity (private equity, which would be out of scope) or a structured or credit investment (e.g., Blackstone Credit). It is kept because the target is a lending business and the deal is a large capital transaction, but no strategy is assigned and importance is moderated given that ambiguity.",
+              "llmReasonZh": "Blackstone将向IIFL Finance投资Rs 5,000 crore。IIFL Finance是一家印度非银行贷款机构，专注于黄金贷款、按揭贷款及中小微企业（MSME）贷款。文章未说明该笔投资属于股权投资（即私募股权，不在关注范围内），还是结构化或信贷投资（例如Blackstone Credit）。鉴于投资标的为贷款业务且该交易属于大型资本交易，故予以保留；但因存在上述不确定性，未归入任何策略，重要性亦相应下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Urban Acres"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.33,
+              "finalScore": 16.33,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -175977,6 +176355,102 @@
               "keywordScore": 3,
               "semanticScore": 5.66,
               "finalScore": 8.66,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-c3d066903db0",
+            "title": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore",
+            "titleZh": "Apollo Global Management, Inc. (APO)最新股票新闻与头条 – Yahoo Finance - Yahoo Finance Singapore",
+            "summary": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "summaryZh": "Apollo Global Management, Inc. (APO)最新股票新闻与头条 – Yahoo Finance Yahoo Finance Singapore",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0eWhMMDVlbENkSk5wSmozM0w0NFV6Q19ncmRNOVJETDBNdGRaazV4bEgza2Y5cUY0ajNTZU5kYkdnaFlJV2JvaVBCY19aOTBLZURkNzYyOA?oc=5",
+            "source": "Yahoo Finance Singapore",
+            "publishedAt": "2026-11-10",
+            "lede": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "articleExcerpt": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore. Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+            "contentFingerprint": "068acf4211143555",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Generic Yahoo Finance stock-news/headlines page for Apollo Global Management (APO) with no specific content. It is stock-price/aggregator material with no identifiable credit, financing, lawsuit, or fundraising event, so importance is low. It is not excluded because it concerns the real Apollo firm, not a name-alike, and no non-credit business is identified.",
+              "llmReasonZh": "该页面为Yahoo Finance关于Apollo Global Management (APO)的通用股票新闻/头条页面，无具体内容。属于股价/聚合类信息，未涉及可识别的信贷、融资、诉讼或募资事件，因此重要性较低。未予排除，因其涉及的是真实的Apollo公司而非同名机构，且未识别出非信贷业务。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.24,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance Singapore"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.9
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.81,
+              "finalScore": 16.81,
               "semanticEnabled": true
             }
           }
@@ -176701,6 +177175,101 @@
           }
         },
         {
+          "id": "2026-11-10-962071dde269",
+          "title": "Blue Owl Capital Inc's Dividend Analysis - Yahoo Finance",
+          "titleZh": "Blue Owl Capital Inc股息分析 - Yahoo Finance",
+          "summary": "Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+          "summaryZh": "Blue Owl Capital Inc股息分析 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEtfdGtFa3MyUWtGTTdmWHBWak43S1BBSE9rdzN6LW42Rm1Dd29WWG1PRzZtRkNjWlE3OERkd2N1QWFBYW94NWFScUxBNndnbzVvLVZ2dFd4ZWN1WXpXT3dIbFdvdEdfUlBLTnlmTFBGLUxhME03MHFHeGlUd05XaFRkU3JldmI1Q2piakxKVERMYS1BV2s4ZFJPUQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-10",
+          "lede": "Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+          "articleExcerpt": "Blue Owl Capital Inc's Dividend Analysis - Yahoo Finance. Blue Owl Capital Inc's Dividend Analysis Yahoo Finance",
+          "contentFingerprint": "f89122ecc5ec3456",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock dividend analysis of Blue Owl Capital Inc (OWL), the parent asset manager. This is equity-market commentary with no specific credit transaction, lending, fundraising or litigation. It is low importance but not excluded, since it concerns the tracked manager itself and not a non-credit asset or an unrelated entity.",
+            "llmReasonZh": "针对母公司资产管理机构Blue Owl Capital Inc（OWL）的股票股息分析。本文属于股票市场评论，不涉及具体的信贷交易、放贷、募资或诉讼。重要性较低，但未予排除，因为其涉及所跟踪的管理人本身，而非非信贷资产或无关实体。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.28,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.66,
+            "finalScore": 17.66,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-d604193c73dc",
           "title": "Eldridge closes $869m equipment ABS; KKR, KIC to buy out specialty insurer - Alternatives Watch",
           "titleZh": "Eldridge完成8.69亿美元设备ABS发行；KKR与KIC将收购一家专业保险公司 - Alternatives Watch",
@@ -177405,6 +177974,189 @@
             "keywordScore": 11,
             "semanticScore": 5.25,
             "finalScore": 16.25,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-2123d16cb29a",
+          "title": "KKR Could Be A Brilliant Value Play (NYSE:KKR) - Seeking Alpha",
+          "titleZh": "KKR或成绝佳价值投资标的（NYSE:KKR）- Seeking Alpha",
+          "summary": "KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+          "summaryZh": "KKR或成绝佳价值投资标的（NYSE:KKR）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3pMY05DWjZLS1BYMXU3QW1MZG1VdzlvSEVtRHZoTzMwcjhJdmFIN0JCMlV4ZWo5dU9Qc1k0Mzd5UndEX3Q5NEhYRDdpYXFzSUwwa0EweFlzNnZXUm1JRjlzYjhsbGdTbGlBdEFkOExXdElRWTU4cnBlMEZBQU1SZEtn?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-10",
+          "lede": "KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+          "articleExcerpt": "KKR Could Be A Brilliant Value Play (NYSE:KKR) - Seeking Alpha. KKR Could Be A Brilliant Value Play (NYSE:KKR) Seeking Alpha",
+          "contentFingerprint": "e3973fbfda8e8f0d",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha stock valuation commentary on KKR's listed shares. There is no specific credit or financing event, so it is analyst commentary with low importance. It is not excluded because it concerns the overall firm rather than a non-credit asset.",
+            "llmReasonZh": "Seeking Alpha针对KKR上市股票的估值评论。文章未涉及具体的信贷或融资事件，属于分析师评论，重要性较低。由于内容涉及公司整体而非非信贷类资产，因此未予排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.42,
+            "finalScore": 9.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-4b1f92873df6",
+          "title": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 - TradingView",
+          "titleZh": "Evercore ISI Group维持KKR“跑赢大盘”评级，目标价由$109上调至$115 - TradingView",
+          "summary": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+          "summaryZh": "Evercore ISI Group维持KKR“跑赢大盘”评级，目标价由$109上调至$115 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlZwQ3lxSVhIaUxWU19TNktub1BmVzVLZXdOdjJjS25KWW5QTzZQUlRDX2NZZFhyY2JBYUNTUDA3OTZLM3R5eC1tWVJ1QWlWTEZzaFNKcm0wd2hBMmNLU0NZQ1g3Q2MxWkdpeWZlZ2tqSWk2am1XUzdndVVPYmZMUGlNd3FhTlZJSE9GcDdlenBuVFdMM3JsN2YzVTZoTzMtbEpJNTJwRWlaNXYwTU9uTEdjakJ1Y09Qdk1xSVZVbWxxd2I0WS1Mc21QaTBNQkpiYktaV0x5T1VJZXFs?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-10",
+          "lede": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+          "articleExcerpt": "Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 - TradingView. Evercore ISI Group maintains KKR at Outperform, raises price target to $115 from $109 TradingView",
+          "contentFingerprint": "0970c7e5b0d9c9d5",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst rating and price-target update on KKR's listed stock. The article has no credit-specific content, but it is firm-level commentary that covers KKR's whole platform, including its credit business, so it is kept as low-importance analyst commentary rather than excluded.",
+            "llmReasonZh": "针对KKR上市股票的分析师评级及目标价更新。该文章不含信贷相关的具体内容，但属于覆盖KKR整体平台（包括其信贷业务）的公司层面评论，因此作为低重要性的分析师评论予以保留，而非剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 45,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.4,
+            "finalScore": 7.4,
             "semanticEnabled": true
           }
         },
@@ -179352,6 +180104,106 @@
           }
         },
         {
+          "id": "2026-11-10-94f3e523f1c6",
+          "title": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore - Urban Acres",
+          "titleZh": "IIFL Finance融资：Blackstone投资Rs 5,000 crore - Urban Acres",
+          "summary": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+          "summaryZh": "IIFL Finance融资：Blackstone投资Rs 5,000 crore Urban Acres",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTdnNmpEcVRTRTVsN0ZKVnZrVXlfY2MtenM1MEVUZHpkMnZSRW01Vjhmelh3b1FUUWcxenEtUWducl85cWlyaExnMTZOOU0xajhmWlYtcUJKNnhWUHZnS1M2OEowRDQtaXc5RGVUNkxDdmJLZTRNQUpfOFdsQno5TzRlZGRFY0dVVy0xRVYzSHBKYm55U3c?oc=5",
+          "source": "Urban Acres",
+          "publishedAt": "2026-11-10",
+          "lede": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+          "articleExcerpt": "IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore - Urban Acres. IIFL Finance Fundraise: Blackstone Invests Rs 5,000 Crore Urban Acres",
+          "contentFingerprint": "bab1c4d4c2f12485",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone is investing Rs 5,000 crore in IIFL Finance, an Indian non-bank lender focused on gold loans, mortgages and MSME loans. The article does not say whether this is equity (private equity, which would be out of scope) or a structured or credit investment (e.g., Blackstone Credit). It is kept because the target is a lending business and the deal is a large capital transaction, but no strategy is assigned and importance is moderated given that ambiguity.",
+            "llmReasonZh": "Blackstone将向IIFL Finance投资Rs 5,000 crore。IIFL Finance是一家印度非银行贷款机构，专注于黄金贷款、按揭贷款及中小微企业（MSME）贷款。文章未说明该笔投资属于股权投资（即私募股权，不在关注范围内），还是结构化或信贷投资（例如Blackstone Credit）。鉴于投资标的为贷款业务且该交易属于大型资本交易，故予以保留；但因存在上述不确定性，未归入任何策略，重要性亦相应下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.7,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Urban Acres"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.33,
+            "finalScore": 16.33,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-bbbff368ce64",
           "title": "CFO structures evolve as general partners seek broader access to capital",
           "titleZh": "随着普通合伙人寻求更广泛的融资渠道，CFO结构不断演变",
@@ -179658,6 +180510,102 @@
             "keywordScore": 3,
             "semanticScore": 5.66,
             "finalScore": 8.66,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-c3d066903db0",
+          "title": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore",
+          "titleZh": "Apollo Global Management, Inc. (APO)最新股票新闻与头条 – Yahoo Finance - Yahoo Finance Singapore",
+          "summary": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "summaryZh": "Apollo Global Management, Inc. (APO)最新股票新闻与头条 – Yahoo Finance Yahoo Finance Singapore",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0eWhMMDVlbENkSk5wSmozM0w0NFV6Q19ncmRNOVJETDBNdGRaazV4bEgza2Y5cUY0ajNTZU5kYkdnaFlJV2JvaVBCY19aOTBLZURkNzYyOA?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "publishedAt": "2026-11-10",
+          "lede": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "articleExcerpt": "Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore. Apollo Global Management, Inc. (APO) latest stock news and headlines – Yahoo Finance Yahoo Finance Singapore",
+          "contentFingerprint": "068acf4211143555",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Generic Yahoo Finance stock-news/headlines page for Apollo Global Management (APO) with no specific content. It is stock-price/aggregator material with no identifiable credit, financing, lawsuit, or fundraising event, so importance is low. It is not excluded because it concerns the real Apollo firm, not a name-alike, and no non-credit business is identified.",
+            "llmReasonZh": "该页面为Yahoo Finance关于Apollo Global Management (APO)的通用股票新闻/头条页面，无具体内容。属于股价/聚合类信息，未涉及可识别的信贷、融资、诉讼或募资事件，因此重要性较低。未予排除，因其涉及的是真实的Apollo公司而非同名机构，且未识别出非信贷业务。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.24,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance Singapore"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.9
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.81,
+            "finalScore": 16.81,
             "semanticEnabled": true
           }
         },
@@ -180510,9 +181458,9 @@
           {
             "id": "2026-11-11-bcae9badd7b8",
             "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard",
-            "titleZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 - Business Standard",
+            "titleZh": "IIFL Finance与Blackstone达成交易：股价上涨4%，券商解读影响 - Business Standard",
             "summary": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
-            "summaryZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 Business Standard",
+            "summaryZh": "IIFL Finance与Blackstone达成交易：股价上涨4%，券商解读影响 Business Standard",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGvSAdQBQVVfeXFMT0Rmc3AxQ2lhTG9zYmxZTTVVano3dmV6U3ljRkFaRko0Ykh6eEJrbEpYQjdfU2tsSWVEUWxMWXRmdHpLSkFGc2taSnk1d3BaVjNidV9xc2oyVUZHbV9BWmVad0tmdnpLa3lHOVgyTV9NZWZWbENqbllCLWdsSjg0dUROelgwT1pwVjdnR1JEN0dCMmRXRGd1LUowQm5EeUlaNlR3RHRkeXF4R0xFOUxMeENyaEFKbGJ2MUt6TlYzLVNKSGJiWVRYM0VHekdETERKeGZCWjY?oc=5",
             "source": "Business Standard",
@@ -180524,8 +181472,12 @@
             "gps": [
               "Blackstone"
             ],
-            "strategies": [],
-            "sectors": [],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
             "events": [
               "financing"
             ],
@@ -180543,14 +181495,16 @@
               ],
               "keywordStrategies": [],
               "titleStrategies": [],
-              "llmStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
               "llmEvents": [
                 "financing"
               ],
               "llmImportance": 0.3,
               "llmExclude": false,
-              "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian non-bank lender, so it has a lending/financing angle. The snippet does not say whether this is a Blackstone credit investment or a private-equity stake. The content is mainly stock-price reaction and brokerage commentary, hence the low importance. No strategy is tagged because the deal structure is unclear. Exclude if the deal turns out to be a pure PE equity stake.",
-              "llmReasonZh": "该文章涉及Blackstone与印度非银行贷款机构IIFL Finance的交易，因此具有贷款/融资相关性。摘要未说明这是Blackstone的信贷投资还是私募股权入股。文章内容主要为股价反应和券商评论，因此重要性较低。由于交易结构不明确，未标注策略。若该交易最终确认为纯私募股权入股，则应予以排除。"
+              "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian lender (NBFC). That gives it a credit/financing angle, though the deal structure is unclear and may be an equity stake. The text mainly covers the stock moving 4% and brokerage commentary, so importance is low-moderate.",
+              "llmReasonZh": "该文章报道了Blackstone与印度贷款机构（NBFC）IIFL Finance之间的交易，具有一定的信贷/融资相关性，但交易结构尚不明确，可能为股权投资。文章主要涉及股价上涨4%及券商评论，因此重要性为中低。"
             },
             "rating": {
               "parts": {
@@ -180562,10 +181516,12 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.23,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
                   "semanticValue": 0.45
                 },
                 "event": {
@@ -180585,7 +181541,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.6
+                  "days": 0.9
                 }
               },
               "weights": {
@@ -180595,13 +181551,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 60,
-              "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+              "score": 64,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 14,
               "semanticScore": 5.44,
-              "finalScore": 16.44,
+              "finalScore": 19.44,
               "semanticEnabled": true
             }
           }
@@ -182077,9 +183033,9 @@
         {
           "id": "2026-11-11-bcae9badd7b8",
           "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard",
-          "titleZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 - Business Standard",
+          "titleZh": "IIFL Finance与Blackstone达成交易：股价上涨4%，券商解读影响 - Business Standard",
           "summary": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact Business Standard",
-          "summaryZh": "IIFL Finance与Blackstone交易：股价上涨4%，券商解读影响 Business Standard",
+          "summaryZh": "IIFL Finance与Blackstone达成交易：股价上涨4%，券商解读影响 Business Standard",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGvSAdQBQVVfeXFMT0Rmc3AxQ2lhTG9zYmxZTTVVano3dmV6U3ljRkFaRko0Ykh6eEJrbEpYQjdfU2tsSWVEUWxMWXRmdHpLSkFGc2taSnk1d3BaVjNidV9xc2oyVUZHbV9BWmVad0tmdnpLa3lHOVgyTV9NZWZWbENqbllCLWdsSjg0dUROelgwT1pwVjdnR1JEN0dCMmRXRGd1LUowQm5EeUlaNlR3RHRkeXF4R0xFOUxMeENyaEFKbGJ2MUt6TlYzLVNKSGJiWVRYM0VHekdETERKeGZCWjY?oc=5",
           "source": "Business Standard",
@@ -182091,8 +183047,12 @@
           "gps": [
             "Blackstone"
           ],
-          "strategies": [],
-          "sectors": [],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
           "events": [
             "financing"
           ],
@@ -182110,14 +183070,16 @@
             ],
             "keywordStrategies": [],
             "titleStrategies": [],
-            "llmStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
             "llmEvents": [
               "financing"
             ],
             "llmImportance": 0.3,
             "llmExclude": false,
-            "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian non-bank lender, so it has a lending/financing angle. The snippet does not say whether this is a Blackstone credit investment or a private-equity stake. The content is mainly stock-price reaction and brokerage commentary, hence the low importance. No strategy is tagged because the deal structure is unclear. Exclude if the deal turns out to be a pure PE equity stake.",
-            "llmReasonZh": "该文章涉及Blackstone与印度非银行贷款机构IIFL Finance的交易，因此具有贷款/融资相关性。摘要未说明这是Blackstone的信贷投资还是私募股权入股。文章内容主要为股价反应和券商评论，因此重要性较低。由于交易结构不明确，未标注策略。若该交易最终确认为纯私募股权入股，则应予以排除。"
+            "llmReason": "The article covers a Blackstone deal with IIFL Finance, an Indian lender (NBFC). That gives it a credit/financing angle, though the deal structure is unclear and may be an equity stake. The text mainly covers the stock moving 4% and brokerage commentary, so importance is low-moderate.",
+            "llmReasonZh": "该文章报道了Blackstone与印度贷款机构（NBFC）IIFL Finance之间的交易，具有一定的信贷/融资相关性，但交易结构尚不明确，可能为股权投资。文章主要涉及股价上涨4%及券商评论，因此重要性为中低。"
           },
           "rating": {
             "parts": {
@@ -182129,10 +183091,12 @@
                 ]
               },
               "strategy": {
-                "value": 0.23,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
                 "semanticValue": 0.45
               },
               "event": {
@@ -182152,7 +183116,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.6
+                "days": 0.9
               }
             },
             "weights": {
@@ -182162,13 +183126,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 60,
-            "retrievedAt": "2026-11-12T01:12:03.568289+00:00"
+            "score": 64,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 14,
             "semanticScore": 5.44,
-            "finalScore": 16.44,
+            "finalScore": 19.44,
             "semanticEnabled": true
           }
         },
@@ -182890,18 +183854,858 @@
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
-        "Guggenheim": [],
+        "Guggenheim": [
+          {
+            "id": "2026-11-12-8f57368623ab",
+            "title": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary - Seeking Alpha",
+            "titleZh": "Guggenheim Floating Rate Strategies Fund 2026年第三季度评论 - Seeking Alpha",
+            "summary": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+            "summaryZh": "Guggenheim Floating Rate Strategies Fund 2026年第三季度评论 Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnlmbjdDRHlLdDlMLVdqbm5aYUxUWHJ5bXRsZ2VyeUxNMmhGdGNjdWlYWlktRkUzZ2RBeldBUXJVSG9pMkNoS3QzMm15c0Q5WFl3eFRORnNEVEdyZFVlWHNCRnZMYXVGWlVjamhuc1pzaHVneXhCMElZTzItTHlwYzQ0d3ZJZnF2YTlwREY0a01iOUg2VDVjM0pzSkN6REdyaWc?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-12",
+            "lede": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+            "articleExcerpt": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary - Seeking Alpha. Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+            "contentFingerprint": "e56232ebf4ef3a26",
+            "region": "Global",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Guggenheim"
+              ],
+              "titleGps": [
+                "Guggenheim"
+              ],
+              "llmGps": [
+                "Guggenheim"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Quarterly commentary for Guggenheim's Floating Rate Strategies Fund, a credit vehicle investing mainly in leveraged loans. This is relevant to Guggenheim's credit business, but it is routine market commentary with no financing, fundraising, or legal event. The strategy tag is tentative, since leveraged loans are closest to private credit among the tracked categories and the snippet does not mention CLOs or structured credit. Importance is low because this is commentary only.",
+              "llmReasonZh": "Guggenheim旗下Floating Rate Strategies Fund的季度评论，该基金为主要投资于杠杆贷款的信贷产品。此内容与Guggenheim的信贷业务相关，但属于常规市场评论，不涉及融资、募资或法律事件。策略标签为暂定，因为在所跟踪的类别中杠杆贷款最接近私募信贷，且摘要片段未提及CLO或结构化信贷。由于仅为评论内容，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.0,
+              "finalScore": 11.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [],
         "Blackstone": [],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-11-12-271c6fb35d05",
+            "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance",
+            "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然稳健 - Yahoo Finance",
+            "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+            "summaryZh": "Apollo Global Management认为，尽管负面消息不断，私募信贷需求依然稳健 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlQwWkNIMEM4SFE2Qkg1OHl0TmZQZ2FNNXhiX04wVVZ1aF9LcjN3YTVRajFqSTBmeG9wcHhCVmRUNGo4aU56ZlN4c0RHMGcxREVtbWRPT0RZeDJsTGtHY202YjFIRTZNTHRRMC1iLXhXNWJzQlJlc192aHV0YVpjMDVvNlk0Umh6RGRZUVE4SDJmaE80NlhqR3VYcEtud0FpRElnRA?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+            "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+            "contentFingerprint": "416de16a344ef41c",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo says private credit demand is holding up despite negative headlines. This is credit-relevant manager news and sector commentary, with no specific financing, fundraising, or lawsuit event.",
+              "llmReasonZh": "Apollo表示，尽管负面消息不断，私募信贷需求依然稳健。此为与信贷相关的管理人动态及行业评论，未涉及具体融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.78,
+              "finalScore": 19.78,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-dcbf9ff4cfbc",
+            "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - MarketBeat",
+            "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 - MarketBeat",
+            "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+            "summaryZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGhSSkc1NkdURlZ6cU5DemRlVjU0MlN1dUE2LVNkTHJjTHpxMVFqR2FxSGU1Q0Fpa1N3VzlPaHRkY3hrYkZmeDZWVWhkYWh4dGF3bTJ2T01hVVYzY1NxTjZ1R2JrS09RdDVWbFRfS0o5TjdYZTcxVUprMzExQ0laVjZWakJUeVItYXpRaG50a3FfRTV3TDl2cXNKNWhqenoxaVFXSWJuLXJiaTJTZmFtUUtIV2twc0pxU0dxUFE0SFNuUVdwU0RXNktpbE5MUnBKRlhmcWJNYld2dDQ1QXB6UTBTcw?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-12",
+            "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+            "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - MarketBeat. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+            "contentFingerprint": "2e1e9318040fce3e",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo management commentary on demand for its private credit business amid negative sector headlines. This is routine manager news about its credit business, with no specific financing, fundraising or lawsuit event.",
+              "llmReasonZh": "在行业负面消息频出之际，Apollo管理层就其私募信贷业务需求发表评论。此为关于该管理人信贷业务的常规新闻，不涉及具体融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.23,
+              "finalScore": 19.23,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [],
         "Golub": [],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-11-12-aadc48b2a949",
+            "title": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International",
+            "titleZh": "意大利私募债务与企业融资周报：Recordati、CVC、GBL、Banca CF+等最新动态 - BeBeez International",
+            "summary": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+            "summaryZh": "意大利私募债务与企业融资周报。Recordati、CVC、GBL、Banca CF+等最新动态 BeBeez International",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb05nX1ZXNkNFMVEtUTJmclJhSGhlVWlCZWIxT2VvUzQwOVpka1BzVThTaTQ5dWpGT0tadFNYSDNfZUpqczhHbUZSaUlEWXpvb2MwUUwwMFFHQVhGeWFFTDdOU1JYMm5fZ2lReHozMHJDTE5pVnAxcEJuaS0tV0MteTlnVEhMWHNJdmt6Umlrb0pkZVFWNFFCdUhSOGliMnZpQWVEQlpMdThrcjE4dlZ6ZXFaUGVlckR2OUxLZ3dEYlluMzNtZy1abg?oc=5",
+            "source": "BeBeez International",
+            "publishedAt": "2026-11-12",
+            "lede": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+            "articleExcerpt": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International. Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+            "contentFingerprint": "bc347d519c18f2ce",
+            "region": "Europe",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "This is a weekly Italian private debt and corporate finance round-up that mentions CVC, but only the headline is available. The CVC item may be about its private equity side (e.g., Recordati-related M&A) rather than its credit business. Tagged tentatively under private credit and financing with low importance; it should be reviewed against the full text.",
+              "llmReasonZh": "本文为意大利私募债务与企业融资周报，提及CVC，但仅能获取标题。有关CVC的内容可能涉及其私募股权业务（例如与Recordati相关的并购），而非其信贷业务。暂归入私募信贷与融资类别，重要性较低；应对照全文进行复核。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BeBeez International"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 5.4,
+              "finalScore": 20.4,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-12-8f57368623ab",
+          "title": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary - Seeking Alpha",
+          "titleZh": "Guggenheim Floating Rate Strategies Fund 2026年第三季度评论 - Seeking Alpha",
+          "summary": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+          "summaryZh": "Guggenheim Floating Rate Strategies Fund 2026年第三季度评论 Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnlmbjdDRHlLdDlMLVdqbm5aYUxUWHJ5bXRsZ2VyeUxNMmhGdGNjdWlYWlktRkUzZ2RBeldBUXJVSG9pMkNoS3QzMm15c0Q5WFl3eFRORnNEVEdyZFVlWHNCRnZMYXVGWlVjamhuc1pzaHVneXhCMElZTzItTHlwYzQ0d3ZJZnF2YTlwREY0a01iOUg2VDVjM0pzSkN6REdyaWc?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-12",
+          "lede": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+          "articleExcerpt": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary - Seeking Alpha. Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary Seeking Alpha",
+          "contentFingerprint": "e56232ebf4ef3a26",
+          "region": "Global",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Guggenheim"
+            ],
+            "titleGps": [
+              "Guggenheim"
+            ],
+            "llmGps": [
+              "Guggenheim"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Quarterly commentary for Guggenheim's Floating Rate Strategies Fund, a credit vehicle investing mainly in leveraged loans. This is relevant to Guggenheim's credit business, but it is routine market commentary with no financing, fundraising, or legal event. The strategy tag is tentative, since leveraged loans are closest to private credit among the tracked categories and the snippet does not mention CLOs or structured credit. Importance is low because this is commentary only.",
+            "llmReasonZh": "Guggenheim旗下Floating Rate Strategies Fund的季度评论，该基金为主要投资于杠杆贷款的信贷产品。此内容与Guggenheim的信贷业务相关，但属于常规市场评论，不涉及融资、募资或法律事件。策略标签为暂定，因为在所跟踪的类别中杠杆贷款最接近私募信贷，且摘要片段未提及CLO或结构化信贷。由于仅为评论内容，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.0,
+            "finalScore": 11.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-271c6fb35d05",
+          "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance",
+          "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然稳健 - Yahoo Finance",
+          "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+          "summaryZh": "Apollo Global Management认为，尽管负面消息不断，私募信贷需求依然稳健 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlQwWkNIMEM4SFE2Qkg1OHl0TmZQZ2FNNXhiX04wVVZ1aF9LcjN3YTVRajFqSTBmeG9wcHhCVmRUNGo4aU56ZlN4c0RHMGcxREVtbWRPT0RZeDJsTGtHY202YjFIRTZNTHRRMC1iLXhXNWJzQlJlc192aHV0YVpjMDVvNlk0Umh6RGRZUVE4SDJmaE80NlhqR3VYcEtud0FpRElnRA?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+          "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines Yahoo Finance",
+          "contentFingerprint": "416de16a344ef41c",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo says private credit demand is holding up despite negative headlines. This is credit-relevant manager news and sector commentary, with no specific financing, fundraising, or lawsuit event.",
+            "llmReasonZh": "Apollo表示，尽管负面消息不断，私募信贷需求依然稳健。此为与信贷相关的管理人动态及行业评论，未涉及具体融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.78,
+            "finalScore": 19.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-dcbf9ff4cfbc",
+          "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - MarketBeat",
+          "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 - MarketBeat",
+          "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+          "summaryZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGhSSkc1NkdURlZ6cU5DemRlVjU0MlN1dUE2LVNkTHJjTHpxMVFqR2FxSGU1Q0Fpa1N3VzlPaHRkY3hrYkZmeDZWVWhkYWh4dGF3bTJ2T01hVVYzY1NxTjZ1R2JrS09RdDVWbFRfS0o5TjdYZTcxVUprMzExQ0laVjZWakJUeVItYXpRaG50a3FfRTV3TDl2cXNKNWhqenoxaVFXSWJuLXJiaTJTZmFtUUtIV2twc0pxU0dxUFE0SFNuUVdwU0RXNktpbE5MUnBKRlhmcWJNYld2dDQ1QXB6UTBTcw?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-12",
+          "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+          "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - MarketBeat. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines MarketBeat",
+          "contentFingerprint": "2e1e9318040fce3e",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo management commentary on demand for its private credit business amid negative sector headlines. This is routine manager news about its credit business, with no specific financing, fundraising or lawsuit event.",
+            "llmReasonZh": "在行业负面消息频出之际，Apollo管理层就其私募信贷业务需求发表评论。此为关于该管理人信贷业务的常规新闻，不涉及具体融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.23,
+            "finalScore": 19.23,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-aadc48b2a949",
+          "title": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International",
+          "titleZh": "意大利私募债务与企业融资周报：Recordati、CVC、GBL、Banca CF+等最新动态 - BeBeez International",
+          "summary": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+          "summaryZh": "意大利私募债务与企业融资周报。Recordati、CVC、GBL、Banca CF+等最新动态 BeBeez International",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb05nX1ZXNkNFMVEtUTJmclJhSGhlVWlCZWIxT2VvUzQwOVpka1BzVThTaTQ5dWpGT0tadFNYSDNfZUpqczhHbUZSaUlEWXpvb2MwUUwwMFFHQVhGeWFFTDdOU1JYMm5fZ2lReHozMHJDTE5pVnAxcEJuaS0tV0MteTlnVEhMWHNJdmt6Umlrb0pkZVFWNFFCdUhSOGliMnZpQWVEQlpMdThrcjE4dlZ6ZXFaUGVlckR2OUxLZ3dEYlluMzNtZy1abg?oc=5",
+          "source": "BeBeez International",
+          "publishedAt": "2026-11-12",
+          "lede": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+          "articleExcerpt": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International. Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more BeBeez International",
+          "contentFingerprint": "bc347d519c18f2ce",
+          "region": "Europe",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "This is a weekly Italian private debt and corporate finance round-up that mentions CVC, but only the headline is available. The CVC item may be about its private equity side (e.g., Recordati-related M&A) rather than its credit business. Tagged tentatively under private credit and financing with low importance; it should be reviewed against the full text.",
+            "llmReasonZh": "本文为意大利私募债务与企业融资周报，提及CVC，但仅能获取标题。有关CVC的内容可能涉及其私募股权业务（例如与Recordati相关的并购），而非其信贷业务。暂归入私募信贷与融资类别，重要性较低；应对照全文进行复核。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BeBeez International"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-12T09:00:33.326902+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 5.4,
+            "finalScore": 20.4,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
@@ -182915,20 +184719,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 100,
-      "selected": 3,
+      "selected": 5,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
@@ -182941,12 +184745,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 8,
+      "count": 10,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -182954,12 +184758,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 7,
+      "count": 8,
       "selected": 3,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -182967,25 +184771,25 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 3,
-      "selected": 0,
+      "count": 5,
+      "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 8,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -182993,7 +184797,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
@@ -183006,12 +184810,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 40,
+      "count": 43,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -183019,7 +184823,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
@@ -183032,7 +184836,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
@@ -183045,20 +184849,20 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 15,
-      "selected": 2,
+      "count": 12,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
@@ -183071,25 +184875,25 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 18,
-      "selected": 0,
+      "count": 21,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 30,
+      "count": 27,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -183097,12 +184901,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 583,
+      "count": 578,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -183119,9 +184923,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-12T01:12:03.568289+00:00",
+      "asOf": "2026-11-12T09:00:33.326902+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-12T01:12:03.568289+00:00"
+  "checkedAt": "2026-11-12T09:00:33.326902+00:00"
 }
