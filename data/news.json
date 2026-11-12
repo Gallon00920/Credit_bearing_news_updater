@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-12T10:05:25.328594+00:00",
+  "updatedAt": "2026-11-12T18:37:52.544109+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -181452,6 +181452,116 @@
               "finalScore": 23.15,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-11-98c335f66151",
+            "title": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company - MarketBeat",
+            "titleZh": "富国银行（Wells Fargo & Company）将Bain Capital Specialty Finance（NYSE:BCSF）目标价调整为$11.00 - MarketBeat",
+            "summary": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+            "summaryZh": "富国银行（Wells Fargo & Company）将Bain Capital Specialty Finance（NYSE:BCSF）目标价调整为$11.00 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOS1RUkxtaXRNajhySUVfWmlxNTRCbjd6V0djM1V5NnlwdUF2cWtfc1BzcGlfa1pxUk1tUElIY09BYmRYQktwc2NnNTdkVjVzbVVQXzB2U0NYNlpfb3lQSXprT3p3TWxtb3pqTV9zRGFFTFRyZ3ZnbV9wRDE4TTRPV2hoREUxUF9tWUh4YjU2SFdrTVpaMTZVY2FfMEd3bGlPbTNzVktqWjlORmd5LXZiNGJZMDZOUUlIWE5pZWVaR2twSlV5R2E0Tk5xRHhubkxaSzZXMS00R0ZjRlpfVFZJdjFQYW1zX1dX?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-11",
+            "lede": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+            "articleExcerpt": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company - MarketBeat. Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+            "contentFingerprint": "ba08cc2be8dcbf2e",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls under its credit business. The article is only an analyst price-target change at Wells Fargo, with no financing, fundraising or legal event.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC（业务发展公司），属于其信贷业务范畴。该文章仅涉及富国银行（Wells Fargo）分析师的目标价调整，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.18,
+              "finalScore": 25.18,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -183031,6 +183141,116 @@
           }
         },
         {
+          "id": "2026-11-11-98c335f66151",
+          "title": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company - MarketBeat",
+          "titleZh": "富国银行（Wells Fargo & Company）将Bain Capital Specialty Finance（NYSE:BCSF）目标价调整为$11.00 - MarketBeat",
+          "summary": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+          "summaryZh": "富国银行（Wells Fargo & Company）将Bain Capital Specialty Finance（NYSE:BCSF）目标价调整为$11.00 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOS1RUkxtaXRNajhySUVfWmlxNTRCbjd6V0djM1V5NnlwdUF2cWtfc1BzcGlfa1pxUk1tUElIY09BYmRYQktwc2NnNTdkVjVzbVVQXzB2U0NYNlpfb3lQSXprT3p3TWxtb3pqTV9zRGFFTFRyZ3ZnbV9wRDE4TTRPV2hoREUxUF9tWUh4YjU2SFdrTVpaMTZVY2FfMEd3bGlPbTNzVktqWjlORmd5LXZiNGJZMDZOUUlIWE5pZWVaR2twSlV5R2E0Tk5xRHhubkxaSzZXMS00R0ZjRlpfVFZJdjFQYW1zX1dX?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-11",
+          "lede": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+          "articleExcerpt": "Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company - MarketBeat. Bain Capital Specialty Finance (NYSE:BCSF) Given New $11.00 Price Target at Wells Fargo & Company MarketBeat",
+          "contentFingerprint": "ba08cc2be8dcbf2e",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls under its credit business. The article is only an analyst price-target change at Wells Fargo, with no financing, fundraising or legal event.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC（业务发展公司），属于其信贷业务范畴。该文章仅涉及富国银行（Wells Fargo）分析师的目标价调整，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.18,
+            "finalScore": 25.18,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-11-bcae9badd7b8",
           "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact - Business Standard",
           "titleZh": "IIFL Finance与Blackstone达成交易：股价上涨4%，券商解读影响 - Business Standard",
@@ -183849,11 +184069,735 @@
     },
     "2026-11-12": {
       "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-12-4c93ab42c415",
+            "title": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions - Yahoo Finance UK",
+            "titleZh": "Blue Owl Technology Finance Corp (F4G.DU) 近期内部人交易 - Yahoo Finance UK",
+            "summary": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+            "summaryZh": "Blue Owl Technology Finance Corp (F4G.DU) 近期内部人交易 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HYTB3Q0FnWWFHcmRBclZCdXNmaUVxN2RIcXlua3F6WVBhY1RpTDZtSWRzYlBwMVRHMVhHNXhIR3JuTG50NWlpakRQTHNjSFY3bzViT011LV9tMlJxVVhEeWZtVm52elZBa1VONjF4dWo?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-12",
+            "lede": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+            "articleExcerpt": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions - Yahoo Finance UK. Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+            "contentFingerprint": "f059fa4868c6a155",
+            "region": "Europe",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance Corp is a Blue Owl BDC, so this falls under its credit business. The article is a stock-data page listing insider transactions on a Düsseldorf listing, with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "Blue Owl Technology Finance Corp 是 Blue Owl 旗下的 BDC，因此属于其信贷业务范畴。该文章为股票数据页面，列示了其杜塞尔多夫上市股票的内部人交易，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.51,
+              "finalScore": 21.509999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-0a86cf20a67e",
+            "title": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? - Yahoo Finance",
+            "titleZh": "投资者目前是否低估了Blue Owl Capital Corporation (OBDC)？- Yahoo Finance",
+            "summary": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+            "summaryZh": "投资者目前是否低估了Blue Owl Capital Corporation (OBDC)？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjhpUkNvdWk4QmY2ZlM5dkRVZkdjb3F2RGlXYkZaNG1KUjN3eURBa2dOZ3hUZlFndFkyUGdhMmhwZDV3eXJfS2M0TEJPQ1oySXE1UWJfWG5HUjcxZE93d2xBQXFKNU1Bc3QxWDZzZ0dmLThoZndYbWY0N05QTGhJSHZseUt0LWFicWFlVkNDTHExVmk1UEdiZGNDazRzTnhRNzhvVV84Yw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+            "articleExcerpt": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? - Yahoo Finance. Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+            "contentFingerprint": "71fa8bfab795e4b2",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock valuation commentary on Blue Owl Capital Corporation (OBDC), Blue Owl's BDC, so it is credit-relevant. It is analyst/stock-price commentary with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "关于Blue Owl旗下BDC Blue Owl Capital Corporation (OBDC)的股票估值评论，与信贷相关。该文为分析师/股价评论，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.76,
+              "finalScore": 20.759999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-4e6647b176f1",
+            "title": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) - The Globe and Mail",
+            "titleZh": "RBC Capital维持Blue Owl Technology Finance Corp. (OTF)“持有”评级 - The Globe and Mail",
+            "summary": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+            "summaryZh": "RBC Capital维持Blue Owl Technology Finance Corp. (OTF)“持有”评级 The Globe and Mail",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcVFCbGVNWF8yNW1xU0hJZ2dnMi1WOUVJU1poT1ZzdGI4YVhtaFRhZ0pjVkppVURZMFRBWGVTcWlRd0dqRFBsdkR1QkJVYUtTTzgyRndpQk9VejJxTWUybmMxYTY1ZGl0N1UxVUwzRVZNM0R1LUN4T2ZtSlNZakFFdWVPN2lkOVRWVThWaFFsWDFHNG1HZk9hN2JTeHRfYW9jQlVHa3Vjb0lMeGNHVTlNM2tKQklPY1RqdmZDS25DM3RBNUxVTENCc2V4VVNPSW90enNUbnpjODlYUnJ4VHhra09kUEJXUkFSUnV4MEF3cW4?oc=5",
+            "source": "The Globe and Mail",
+            "publishedAt": "2026-11-12",
+            "lede": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+            "articleExcerpt": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) - The Globe and Mail. RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+            "contentFingerprint": "94b8a0b8fed15256",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst rating commentary (RBC maintains Hold) on Blue Owl Technology Finance Corp., a Blue Owl BDC in its credit/direct lending business. It is stock and analyst commentary, so importance is low and no event type applies.",
+              "llmReasonZh": "关于Blue Owl Technology Finance Corp.的分析师评级评论（RBC维持“持有”评级），该公司为Blue Owl旗下信贷/直接贷款业务中的一家BDC。该文属于股票及分析师评论，因此重要性较低，且不适用任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Globe and Mail"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.46,
+              "finalScore": 20.46,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "KKR": [
+          {
+            "id": "2026-11-12-bfae8b768803",
+            "title": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) - Seeking Alpha",
+            "titleZh": "FS KKR Capital：别被特别股息迷惑 (NYSE:FSK) - Seeking Alpha",
+            "summary": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+            "summaryZh": "FS KKR Capital：别被特别股息迷惑 (NYSE:FSK) Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVZBMTVqSUtfMnBSYUFSZGRzeGc2Z3AtSzZYeXdFdWpfTTdBVmNZWTRKU3l4aEZicXJ1UlYxemVWM0I4U2pqVDVFZzBTVFF2UUViV0JSWko3WVhjRzNJeVEyXzFQM2hfbk1hV2twLWxwUHJtcHNrRVQ3UWZmVkpXZ1JTSGtIazcyUjRFNFNXVDcwUQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-12",
+            "lede": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+            "articleExcerpt": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) - Seeking Alpha. FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+            "contentFingerprint": "0cffa7d464911f89",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst commentary on FS KKR Capital (FSK), a BDC in KKR's credit business, about its special dividend. This is stock and analyst commentary with no transaction, financing or legal event, so importance is low.",
+              "llmReasonZh": "Seeking Alpha分析师就FS KKR Capital (FSK)的特别股息发表的评论，FSK是KKR信贷业务旗下的一家BDC（业务发展公司）。该文属于股票及分析师评论，不涉及交易、融资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.93,
+              "finalScore": 12.93,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-cc02d41f4ebe",
+            "title": "Form 10-Q KKR FS Income Trust For: Sep 30 - StreetInsider",
+            "titleZh": "KKR FS Income Trust提交截至9月30日的10-Q季度报告 - StreetInsider",
+            "summary": "Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+            "summaryZh": "KKR FS Income Trust提交截至9月30日的10-Q表格 StreetInsider",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0JmdnZRd0lmT2c3cXBnbUxkam1oLURMOE9UcjhkYU04aTFGZzhKN2RoNGlaZ080LUptUXNYSkVGOThXV05fWnlEZkhod3VRX1JVX0E0cmhrUURWc0F6SmpEdHNoTFBXSThBUzdqaWJuWTVNc1l5UldMckpVSnRpekhaRTU3a1ZsZThkMzQ5SVcyZWV2WGp2bWUtekNxVVRy?oc=5",
+            "source": "StreetInsider",
+            "publishedAt": "2026-11-12",
+            "lede": "Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+            "articleExcerpt": "Form 10-Q KKR FS Income Trust For: Sep 30 - StreetInsider. Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+            "contentFingerprint": "675387086bcd784a",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "KKR FS Income Trust is a KKR/FS private credit vehicle (non-traded BDC-style income fund). The article is a routine quarterly 10-Q filing notice with no details of a specific transaction, so it counts as routine credit-manager news.",
+              "llmReasonZh": "KKR FS Income Trust是KKR/FS旗下的私募信贷工具（非交易型BDC类收益基金）。该文章为例行10-Q季度报告提交通知，未披露具体交易细节，因此属于信贷管理人例行新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "StreetInsider"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.01,
+              "finalScore": 11.01,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-e59a606b8f79",
+            "title": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing - Stock Traders Daily",
+            "titleZh": "Kkr Income Opportunities Fund (KIO)如何影响轮动策略时机 - Stock Traders Daily",
+            "summary": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+            "summaryZh": "Kkr Income Opportunities Fund (KIO)如何影响轮动策略时机 Stock Traders Daily",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRVNvOFAwWHFHTmQwc0FHeVVzalRCdFZZU3ZoTzM0WXFJRGpuZl9yZmVHRGNyOVlybkNURm5HcDRaS0hEcDBidlhEaVcyd1Jocjd4NXlFVFVDRzVBcWdGY2RkT3JRaXFKSEJNWHQ2dk8tRGl5QkRkSkkwVE53em1fMzdpUnEtdWxpNGY0Ul9zdlg3NzNtQm9BRURYUGlnYjFjMFhheWhmTlM1YkdueEFBNi16R1Ezc2R2Y1pqQTFERWlQaW1CLW14d3VRc0dYYnpsaFcxUkthVE5hV29lbmFaNGRRMXNxZ1U?oc=5",
+            "source": "Stock Traders Daily",
+            "publishedAt": "2026-11-12",
+            "lede": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+            "articleExcerpt": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing - Stock Traders Daily. How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+            "contentFingerprint": "4590b4a8ba90973d",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KKR Income Opportunities Fund (KIO) is a KKR credit closed-end fund that invests in leveraged loans and high-yield debt, so it falls under KKR's credit business. The article is automated stock-trading and technical-timing commentary with no substantive credit event, so importance is low.",
+              "llmReasonZh": "KKR Income Opportunities Fund (KIO)是KKR旗下投资于杠杆贷款和高收益债券的信贷类封闭式基金，因此属于KKR信贷业务范畴。该文章为自动生成的股票交易及技术择时评论，未涉及实质性信贷事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Stock Traders Daily"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.98,
+              "finalScore": 10.98,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-12-94391086ac34",
+            "title": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot",
+            "titleZh": "集体诉讼指控Progress Residential广告月租金未包含强制性费用 - Claim Depot",
+            "summary": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+            "summaryZh": "一项集体诉讼指控，Progress Residential所宣传的月租金未包含强制性费用。Claim Depot",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmZWcVVBRmhWVDg5MkhEV3hjODRETjFhRmZQMVBOR0dTMWJDb2FGa1haaXV3bDJ5b25YbGU4X0xVV2ZRN2VhaWVYeXlqaTZFYnFXdnZDQmQyOHpQalNIdjhNRi1qMWFWTEJqMkV3bVY2VUtqT2FXbHlGZVNuODhBUURBU3kwdExtRE93NzNtWm53Yi0wQWJsbUVhRWNvZzBFWGg3NnNZR2dOaVdxSng4Nm5mUFdvLVhBYjV6U0g0cw?oc=5",
+            "source": "Claim Depot",
+            "publishedAt": "2026-11-12",
+            "lede": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+            "articleExcerpt": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot. Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+            "contentFingerprint": "9505b70480761cf7",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "The article does not name Pretium. The tag rests on outside knowledge that Progress Residential is Pretium's single-family rental platform, which also issues SFR securitizations. SFR is a tracked strategy, so the item is not excluded as non-credit equity news. The class action over advertised rents that omitted mandatory fees is consumer litigation that could affect rental cash flows backing SFR debt. Importance is set below the 1.0 lawsuit level because this is a consumer-fee claim with no default or credit event mentioned.",
+              "llmReasonZh": "该文章未提及Pretium。该标签基于外部信息，即Progress Residential是Pretium旗下的单户住宅租赁平台，该平台亦发行SFR证券化产品。SFR属于跟踪策略，因此该条目未作为非信用类股票新闻予以排除。这起有关广告租金未包含强制性费用的集体诉讼属于消费者诉讼，可能影响支持SFR债务的租金现金流。由于这是一项消费者费用索赔，且未提及违约或信用事件，其重要性被设定为低于诉讼类事件的1.0级别。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.25
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Claim Depot"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 3.0,
+              "finalScore": 9.0,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [
           {
             "id": "2026-11-12-8f57368623ab",
@@ -183959,7 +184903,441 @@
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-12-9c92c1297d39",
+            "title": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 - MarketBeat",
+            "titleZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 股票平均目标价为$17.00 - MarketBeat",
+            "summary": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+            "summaryZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 股票平均目标价为$17.00 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFNfcV94OTk3MGZUYW84VFM2ZFdPOG5fR2lRTExkZkJaRC00WnRNRHJ0UndUMHotQ0V2dnQwYk9xbkhXUTM0NWdhZVFtZ19xcHpmYndBbDdPZ0ZhVEVweWJJU1duQVFGTlRyUE9ON3M3MklTS202OVd0Z1AtQl9GZFBlZVg1QjlOcHZ3T1JuLTVqVzFCbFBjcE5ObUFFbU5DN2FkekIzY2RvZmVfcnI2MmNIZ0pGVXQwOXpUN3NXQ19tdUpUaHluMVZfakZIQzAzU3J5cVJjT1R4Zw?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-12",
+            "lede": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+            "articleExcerpt": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 - MarketBeat. Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+            "contentFingerprint": "c92379ee802e8db8",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "resi",
+              "cre"
+            ],
+            "sectors": [
+              "resi",
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price-target commentary on Blackstone Mortgage Trust, Blackstone's commercial real estate lending REIT. This is credit-relevant, but it is only stock and analyst commentary with no transaction or event.",
+              "llmReasonZh": "关于Blackstone旗下商业地产贷款REIT Blackstone Mortgage Trust的分析师目标价评论。该内容与信贷相关，但仅为股票及分析师评论，不涉及任何交易或事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi",
+                    "cre"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.28,
+              "finalScore": 24.28,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-5c007591a546",
+            "title": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing - Bloomberg.com",
+            "titleZh": "Blackstone支持的数据中心公司新增15亿美元融资 - Bloomberg.com",
+            "summary": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+            "summaryZh": "Blackstone支持的数据中心公司新增15亿美元融资 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2oxazhYbzZKejJYbVJkbTNCQTNPeW5kVVFPbHp3QUNXS01CQkh6X3JDOGI5NXBWOE5ybHRRV2oxc0txcW5zbFpCZUU4djFKNkFSSE1qQjc0eVNDT1ZTYk1xVlpEa3VWUlhoLVdqZW85aG5ZV2dXUjVqOFV5SzNEbHl1Mld5V2xZV3NOWTJWVFJLZUgydGU0dDc5a2hLY2ZlZktGNmxkTDRfVHhMcUgwdzdUMEtQS2pLNTZhaml3?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-12",
+            "lede": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+            "articleExcerpt": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing - Bloomberg.com. Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+            "contentFingerprint": "30006a0512e298c5",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "A Blackstone-backed data center company raised $1.5B of new financing. This is a debt deal tied to data center assets, so it has a financing angle and should not be excluded. Blackstone's role appears to be equity sponsor rather than lender, so credit relevance is moderate and importance sits slightly below ordinary financing.",
+              "llmReasonZh": "一家由Blackstone支持的数据中心公司获得15亿美元新增融资。该交易为与数据中心资产相关的债务交易，具有融资属性，不应排除。Blackstone的角色似乎是股权发起人而非贷款方，因此信贷相关性中等，重要性略低于一般融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 90,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 4.89,
+              "finalScore": 21.89,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-4b9cbd98a12e",
+            "title": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset - BioSpace",
+            "titleZh": "辉瑞从私募股权公司Blackstone获得$1.5B融资，用于支持Metsera资产 - BioSpace",
+            "summary": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+            "summaryZh": "辉瑞从私募股权公司Blackstone获得$1.5B融资，用于支持Metsera资产 BioSpace",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkUxMFpSSTZyd2ZoR1dSQm5BZFBVY3RkdFQyYWFLRWFlQ3I5dklMRm1pN3drX09BTEVIUW9XRnZSYlc3Mi1WSnItZGhrMTZaYVZoZ05YakpBaGFtNHM2MG9qUnBoUFJENWhGV2xfcldOSVdyRFM0NmYwMnFqWlBYSHE1Y2VKbHBVR0E5S1lrZ0dUeW1GN2N4VE1sMDRMa2lQNElMVGFSUFUzT3A5LThz?oc=5",
+            "source": "BioSpace",
+            "publishedAt": "2026-11-12",
+            "lede": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+            "articleExcerpt": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset - BioSpace. Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+            "contentFingerprint": "a1de21b302930fe2",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blackstone is providing $1.5B of financing to Pfizer to support development of the Metsera asset. This is a financing transaction, not an equity buyout, so it has a credit angle. Such deals are often structured as royalty or R&D funding through Blackstone Life Sciences or its credit arm. The text is thin, so the strategy tag is tentative. Importance is set at the ordinary-financing level.",
+              "llmReasonZh": "Blackstone向辉瑞提供$1.5B融资，用于支持Metsera资产的开发。该交易属于融资交易，而非股权收购，因此具有信贷相关性。此类交易通常通过Blackstone Life Sciences或其信贷部门，以特许权使用费或研发融资的形式进行结构安排。由于文本信息有限，策略标签为暂定。重要性按普通融资级别设定。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BioSpace"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.12,
+              "finalScore": 19.12,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-ea282b8419da",
+            "title": "Data center campuses developer backed by Blackstone bags over $1.5B in financing - TradingView",
+            "titleZh": "Blackstone支持的数据中心园区开发商获得逾$1.5B融资 - TradingView",
+            "summary": "Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+            "summaryZh": "Blackstone支持的数据中心园区开发商获得逾$1.5B融资 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbU5DSVp0akoyakJ2V0VtQTZ5U1BrcXptZ2N2c1N0RWZYUkpRQ3NQRzFHZTAyTXBra1BDOEJySmZ0cVFPdHNvQjNQV1V4aXZwWHdsYnkwS1U5WWdKLUtFVU9GakoyMWhqaHppMDBIc3BMZW9jdkllNTd4eEg4UzNZRmtIbHNScW55dk1VWGpONTJMc2MxeHNQNHNfWjFxb2Rnb2I4M1M4c3hPdU9USjgyZWU0YkpqMWtFZkNLaE9mRjg5YlVUc1E0ZkF1eXpQanpta0VQcTdrUEhlZw?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-12",
+            "lede": "Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+            "articleExcerpt": "Data center campuses developer backed by Blackstone bags over $1.5B in financing - TradingView. Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+            "contentFingerprint": "44eaccb1c46e62da",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "A Blackstone-backed data center developer raised over $1.5B in debt financing. This is a financing event in the data-center strategy, so it has a credit angle. Blackstone appears to be the equity sponsor, not clearly the lender, so the GP tag is borderline and importance is set slightly below ordinary financing.",
+              "llmReasonZh": "一家由Blackstone支持的数据中心开发商获得逾$1.5B债务融资。这是数据中心策略中的融资事件，因此具有信贷相关性。Blackstone似乎是股权发起人，而非明确的贷款方，因此GP标签处于边缘状态，重要性设定为略低于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.69,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.62,
+              "finalScore": 18.62,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [
           {
             "id": "2026-11-12-271c6fb35d05",
@@ -184172,6 +185550,218 @@
               "finalScore": 19.23,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-f55f5fd8fa99",
+            "title": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet - Mezha.net",
+            "titleZh": "Apollo向SoftBank提供贷款，助其为对OpenAI近650亿美元的押注融资 - Mezha.net",
+            "summary": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+            "summaryZh": "Apollo向SoftBank提供贷款，助其为对OpenAI近650亿美元的押注融资 Mezha.net",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0gwbFJsVzJERGlPMGZqTnhnWE1vMUZ4UUpYajFyZ2RWRHdrV2RlN3RuYi1FOXVhM2FTVzRKUVBZRFlxNzlneFFxanZjVGlNNmg3MS1LZno3UFRpQUtZRGdWakpqcGdkdDZZeTdleVdmdmh0OUtqZW5wNTBlQUREVkZCdk9QSF9BZWtyYw?oc=5",
+            "source": "Mezha.net",
+            "publishedAt": "2026-11-12",
+            "lede": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+            "articleExcerpt": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet - Mezha.net. Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+            "contentFingerprint": "77e253331a5c2960",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Apollo is lending to SoftBank to help fund SoftBank's roughly $65B investment in OpenAI. This is credit and lending activity tied to AI financing, so it is a large private-credit financing transaction and should not be excluded.",
+              "llmReasonZh": "Apollo正向SoftBank提供贷款，以协助SoftBank为其对OpenAI约650亿美元的投资融资。这属于与AI融资相关的信贷及贷款活动，因此是一笔大型私募信贷融资交易，不应被排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Mezha.net"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.34,
+              "finalScore": 23.34,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-ba20e0aef726",
+            "title": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet - Howl.Link",
+            "titleZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 - Howl.Link",
+            "summary": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+            "summaryZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 Howl.Link",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBEYlZIX3FTd2ZFck1MdF82aHZsZDVXUU1kam1TdldMQjdhSE9pZjB2b3RrcG9XaWR0TzRN?oc=5",
+            "source": "Howl.Link",
+            "publishedAt": "2026-11-12",
+            "lede": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+            "articleExcerpt": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet - Howl.Link. How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+            "contentFingerprint": "a410434ae36a5218",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "The headline says Apollo used its SoftBank ties to back an 'unprecedented OpenAI bet'. Apollo's large-ticket deals with SoftBank are usually credit or financing structures, so this is likely a credit-side financing tied to AI. The text is only a headline, so this reading is inferred and moderate importance is assigned.",
+              "llmReasonZh": "标题称Apollo借助与SoftBank的关系支持了一项“对OpenAI的空前押注”。Apollo与SoftBank之间的大额交易通常为信贷或融资结构，因此这很可能是一笔与AI相关的信贷端融资。由于原文仅有标题，上述判断系推断所得，故评定为中等重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Howl.Link"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.95,
+              "finalScore": 13.95,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -184282,11 +185872,842 @@
               "finalScore": 20.4,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-24065b203268",
+            "title": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings - Traders Union",
+            "titleZh": "CVC Cordatus Loan Fund XVIII DAC重置票据获惠誉最终评级 - Traders Union",
+            "summary": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+            "summaryZh": "CVC Cordatus Loan Fund XVIII DAC重置票据获惠誉最终评级 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzZnLW1TOWktdmhFNEdxZUNSY0prN0U0THY4aWJMTUdSSDZTeDFENHA4dUdDM1ZVNU42c3FMNVNuM0MyajREMXVyaFB0ZHdvdG5tNl9DYUNFdG1pd0R0WUQtcERBYWV2Z3hFd3ZJWjhzMXY3ZkhEekRGZzdmcURGZGpmTEtPUDZLMHhld0ttSjZKb2pRVmpWS0dn?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-12",
+            "lede": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+            "articleExcerpt": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings - Traders Union. CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+            "contentFingerprint": "e49f1a711ddfa55d",
+            "region": "Global",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "CVC Cordatus Loan Fund XVIII is a European CLO managed by CVC Credit. The article reports Fitch final ratings on its reset notes. A CLO reset is a refinancing and debt issuance, so this is an ordinary credit financing event.",
+              "llmReasonZh": "CVC Cordatus Loan Fund XVIII是由CVC Credit管理的欧洲CLO。该文章报道了惠誉对其重置票据给予的最终评级。CLO重置属于再融资及债务发行，因此这是一项常规信贷融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.2
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.85,
+              "finalScore": 22.85,
+              "semanticEnabled": true
+            }
           }
         ],
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-12-4c93ab42c415",
+          "title": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions - Yahoo Finance UK",
+          "titleZh": "Blue Owl Technology Finance Corp (F4G.DU) 近期内部人交易 - Yahoo Finance UK",
+          "summary": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+          "summaryZh": "Blue Owl Technology Finance Corp (F4G.DU) 近期内部人交易 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HYTB3Q0FnWWFHcmRBclZCdXNmaUVxN2RIcXlua3F6WVBhY1RpTDZtSWRzYlBwMVRHMVhHNXhIR3JuTG50NWlpakRQTHNjSFY3bzViT011LV9tMlJxVVhEeWZtVm52elZBa1VONjF4dWo?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-12",
+          "lede": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+          "articleExcerpt": "Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions - Yahoo Finance UK. Blue Owl Technology Finance Corp (F4G.DU) recent insider transactions Yahoo Finance UK",
+          "contentFingerprint": "f059fa4868c6a155",
+          "region": "Europe",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance Corp is a Blue Owl BDC, so this falls under its credit business. The article is a stock-data page listing insider transactions on a Düsseldorf listing, with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "Blue Owl Technology Finance Corp 是 Blue Owl 旗下的 BDC，因此属于其信贷业务范畴。该文章为股票数据页面，列示了其杜塞尔多夫上市股票的内部人交易，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.51,
+            "finalScore": 21.509999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-0a86cf20a67e",
+          "title": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? - Yahoo Finance",
+          "titleZh": "投资者目前是否低估了Blue Owl Capital Corporation (OBDC)？- Yahoo Finance",
+          "summary": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+          "summaryZh": "投资者目前是否低估了Blue Owl Capital Corporation (OBDC)？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjhpUkNvdWk4QmY2ZlM5dkRVZkdjb3F2RGlXYkZaNG1KUjN3eURBa2dOZ3hUZlFndFkyUGdhMmhwZDV3eXJfS2M0TEJPQ1oySXE1UWJfWG5HUjcxZE93d2xBQXFKNU1Bc3QxWDZzZ0dmLThoZndYbWY0N05QTGhJSHZseUt0LWFicWFlVkNDTHExVmk1UEdiZGNDazRzTnhRNzhvVV84Yw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+          "articleExcerpt": "Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? - Yahoo Finance. Are Investors Undervaluing Blue Owl Capital Corporation (OBDC) Right Now? Yahoo Finance",
+          "contentFingerprint": "71fa8bfab795e4b2",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock valuation commentary on Blue Owl Capital Corporation (OBDC), Blue Owl's BDC, so it is credit-relevant. It is analyst/stock-price commentary with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "关于Blue Owl旗下BDC Blue Owl Capital Corporation (OBDC)的股票估值评论，与信贷相关。该文为分析师/股价评论，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.76,
+            "finalScore": 20.759999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-4e6647b176f1",
+          "title": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) - The Globe and Mail",
+          "titleZh": "RBC Capital维持Blue Owl Technology Finance Corp. (OTF)“持有”评级 - The Globe and Mail",
+          "summary": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+          "summaryZh": "RBC Capital维持Blue Owl Technology Finance Corp. (OTF)“持有”评级 The Globe and Mail",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcVFCbGVNWF8yNW1xU0hJZ2dnMi1WOUVJU1poT1ZzdGI4YVhtaFRhZ0pjVkppVURZMFRBWGVTcWlRd0dqRFBsdkR1QkJVYUtTTzgyRndpQk9VejJxTWUybmMxYTY1ZGl0N1UxVUwzRVZNM0R1LUN4T2ZtSlNZakFFdWVPN2lkOVRWVThWaFFsWDFHNG1HZk9hN2JTeHRfYW9jQlVHa3Vjb0lMeGNHVTlNM2tKQklPY1RqdmZDS25DM3RBNUxVTENCc2V4VVNPSW90enNUbnpjODlYUnJ4VHhra09kUEJXUkFSUnV4MEF3cW4?oc=5",
+          "source": "The Globe and Mail",
+          "publishedAt": "2026-11-12",
+          "lede": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+          "articleExcerpt": "RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) - The Globe and Mail. RBC Capital Keeps Their Hold Rating on Blue Owl Technology Finance Corp. (OTF) The Globe and Mail",
+          "contentFingerprint": "94b8a0b8fed15256",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst rating commentary (RBC maintains Hold) on Blue Owl Technology Finance Corp., a Blue Owl BDC in its credit/direct lending business. It is stock and analyst commentary, so importance is low and no event type applies.",
+            "llmReasonZh": "关于Blue Owl Technology Finance Corp.的分析师评级评论（RBC维持“持有”评级），该公司为Blue Owl旗下信贷/直接贷款业务中的一家BDC。该文属于股票及分析师评论，因此重要性较低，且不适用任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Globe and Mail"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.46,
+            "finalScore": 20.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-bfae8b768803",
+          "title": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) - Seeking Alpha",
+          "titleZh": "FS KKR Capital：别被特别股息迷惑 (NYSE:FSK) - Seeking Alpha",
+          "summary": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+          "summaryZh": "FS KKR Capital：别被特别股息迷惑 (NYSE:FSK) Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVZBMTVqSUtfMnBSYUFSZGRzeGc2Z3AtSzZYeXdFdWpfTTdBVmNZWTRKU3l4aEZicXJ1UlYxemVWM0I4U2pqVDVFZzBTVFF2UUViV0JSWko3WVhjRzNJeVEyXzFQM2hfbk1hV2twLWxwUHJtcHNrRVQ3UWZmVkpXZ1JTSGtIazcyUjRFNFNXVDcwUQ?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-12",
+          "lede": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+          "articleExcerpt": "FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) - Seeking Alpha. FS KKR Capital: Don't Fall For The Special Dividend (NYSE:FSK) Seeking Alpha",
+          "contentFingerprint": "0cffa7d464911f89",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst commentary on FS KKR Capital (FSK), a BDC in KKR's credit business, about its special dividend. This is stock and analyst commentary with no transaction, financing or legal event, so importance is low.",
+            "llmReasonZh": "Seeking Alpha分析师就FS KKR Capital (FSK)的特别股息发表的评论，FSK是KKR信贷业务旗下的一家BDC（业务发展公司）。该文属于股票及分析师评论，不涉及交易、融资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.93,
+            "finalScore": 12.93,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-cc02d41f4ebe",
+          "title": "Form 10-Q KKR FS Income Trust For: Sep 30 - StreetInsider",
+          "titleZh": "KKR FS Income Trust提交截至9月30日的10-Q季度报告 - StreetInsider",
+          "summary": "Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+          "summaryZh": "KKR FS Income Trust提交截至9月30日的10-Q表格 StreetInsider",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0JmdnZRd0lmT2c3cXBnbUxkam1oLURMOE9UcjhkYU04aTFGZzhKN2RoNGlaZ080LUptUXNYSkVGOThXV05fWnlEZkhod3VRX1JVX0E0cmhrUURWc0F6SmpEdHNoTFBXSThBUzdqaWJuWTVNc1l5UldMckpVSnRpekhaRTU3a1ZsZThkMzQ5SVcyZWV2WGp2bWUtekNxVVRy?oc=5",
+          "source": "StreetInsider",
+          "publishedAt": "2026-11-12",
+          "lede": "Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+          "articleExcerpt": "Form 10-Q KKR FS Income Trust For: Sep 30 - StreetInsider. Form 10-Q KKR FS Income Trust For: Sep 30 StreetInsider",
+          "contentFingerprint": "675387086bcd784a",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "KKR FS Income Trust is a KKR/FS private credit vehicle (non-traded BDC-style income fund). The article is a routine quarterly 10-Q filing notice with no details of a specific transaction, so it counts as routine credit-manager news.",
+            "llmReasonZh": "KKR FS Income Trust是KKR/FS旗下的私募信贷工具（非交易型BDC类收益基金）。该文章为例行10-Q季度报告提交通知，未披露具体交易细节，因此属于信贷管理人例行新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "StreetInsider"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.01,
+            "finalScore": 11.01,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-e59a606b8f79",
+          "title": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing - Stock Traders Daily",
+          "titleZh": "Kkr Income Opportunities Fund (KIO)如何影响轮动策略时机 - Stock Traders Daily",
+          "summary": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+          "summaryZh": "Kkr Income Opportunities Fund (KIO)如何影响轮动策略时机 Stock Traders Daily",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRVNvOFAwWHFHTmQwc0FHeVVzalRCdFZZU3ZoTzM0WXFJRGpuZl9yZmVHRGNyOVlybkNURm5HcDRaS0hEcDBidlhEaVcyd1Jocjd4NXlFVFVDRzVBcWdGY2RkT3JRaXFKSEJNWHQ2dk8tRGl5QkRkSkkwVE53em1fMzdpUnEtdWxpNGY0Ul9zdlg3NzNtQm9BRURYUGlnYjFjMFhheWhmTlM1YkdueEFBNi16R1Ezc2R2Y1pqQTFERWlQaW1CLW14d3VRc0dYYnpsaFcxUkthVE5hV29lbmFaNGRRMXNxZ1U?oc=5",
+          "source": "Stock Traders Daily",
+          "publishedAt": "2026-11-12",
+          "lede": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+          "articleExcerpt": "How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing - Stock Traders Daily. How Kkr Income Opportunities Fund (KIO) Affects Rotational Strategy Timing Stock Traders Daily",
+          "contentFingerprint": "4590b4a8ba90973d",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KKR Income Opportunities Fund (KIO) is a KKR credit closed-end fund that invests in leveraged loans and high-yield debt, so it falls under KKR's credit business. The article is automated stock-trading and technical-timing commentary with no substantive credit event, so importance is low.",
+            "llmReasonZh": "KKR Income Opportunities Fund (KIO)是KKR旗下投资于杠杆贷款和高收益债券的信贷类封闭式基金，因此属于KKR信贷业务范畴。该文章为自动生成的股票交易及技术择时评论，未涉及实质性信贷事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Stock Traders Daily"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.98,
+            "finalScore": 10.98,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-94391086ac34",
+          "title": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot",
+          "titleZh": "集体诉讼指控Progress Residential广告月租金未包含强制性费用 - Claim Depot",
+          "summary": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+          "summaryZh": "一项集体诉讼指控，Progress Residential所宣传的月租金未包含强制性费用。Claim Depot",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmZWcVVBRmhWVDg5MkhEV3hjODRETjFhRmZQMVBOR0dTMWJDb2FGa1haaXV3bDJ5b25YbGU4X0xVV2ZRN2VhaWVYeXlqaTZFYnFXdnZDQmQyOHpQalNIdjhNRi1qMWFWTEJqMkV3bVY2VUtqT2FXbHlGZVNuODhBUURBU3kwdExtRE93NzNtWm53Yi0wQWJsbUVhRWNvZzBFWGg3NnNZR2dOaVdxSng4Nm5mUFdvLVhBYjV6U0g0cw?oc=5",
+          "source": "Claim Depot",
+          "publishedAt": "2026-11-12",
+          "lede": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+          "articleExcerpt": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot. Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. Claim Depot",
+          "contentFingerprint": "9505b70480761cf7",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "The article does not name Pretium. The tag rests on outside knowledge that Progress Residential is Pretium's single-family rental platform, which also issues SFR securitizations. SFR is a tracked strategy, so the item is not excluded as non-credit equity news. The class action over advertised rents that omitted mandatory fees is consumer litigation that could affect rental cash flows backing SFR debt. Importance is set below the 1.0 lawsuit level because this is a consumer-fee claim with no default or credit event mentioned.",
+            "llmReasonZh": "该文章未提及Pretium。该标签基于外部信息，即Progress Residential是Pretium旗下的单户住宅租赁平台，该平台亦发行SFR证券化产品。SFR属于跟踪策略，因此该条目未作为非信用类股票新闻予以排除。这起有关广告租金未包含强制性费用的集体诉讼属于消费者诉讼，可能影响支持SFR债务的租金现金流。由于这是一项消费者费用索赔，且未提及违约或信用事件，其重要性被设定为低于诉讼类事件的1.0级别。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.25
+              },
+              "event": {
+                "value": 0.85,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Claim Depot"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 3.0,
+            "finalScore": 9.0,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-12-8f57368623ab",
           "title": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary - Seeking Alpha",
@@ -184384,6 +186805,439 @@
             "keywordScore": 6,
             "semanticScore": 5.0,
             "finalScore": 11.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-9c92c1297d39",
+          "title": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 - MarketBeat",
+          "titleZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 股票平均目标价为$17.00 - MarketBeat",
+          "summary": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+          "summaryZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 股票平均目标价为$17.00 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFNfcV94OTk3MGZUYW84VFM2ZFdPOG5fR2lRTExkZkJaRC00WnRNRHJ0UndUMHotQ0V2dnQwYk9xbkhXUTM0NWdhZVFtZ19xcHpmYndBbDdPZ0ZhVEVweWJJU1duQVFGTlRyUE9ON3M3MklTS202OVd0Z1AtQl9GZFBlZVg1QjlOcHZ3T1JuLTVqVzFCbFBjcE5ObUFFbU5DN2FkekIzY2RvZmVfcnI2MmNIZ0pGVXQwOXpUN3NXQ19tdUpUaHluMVZfakZIQzAzU3J5cVJjT1R4Zw?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-12",
+          "lede": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+          "articleExcerpt": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 - MarketBeat. Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 MarketBeat",
+          "contentFingerprint": "c92379ee802e8db8",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "resi",
+            "cre"
+          ],
+          "sectors": [
+            "resi",
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price-target commentary on Blackstone Mortgage Trust, Blackstone's commercial real estate lending REIT. This is credit-relevant, but it is only stock and analyst commentary with no transaction or event.",
+            "llmReasonZh": "关于Blackstone旗下商业地产贷款REIT Blackstone Mortgage Trust的分析师目标价评论。该内容与信贷相关，但仅为股票及分析师评论，不涉及任何交易或事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi",
+                  "cre"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.28,
+            "finalScore": 24.28,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-5c007591a546",
+          "title": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing - Bloomberg.com",
+          "titleZh": "Blackstone支持的数据中心公司新增15亿美元融资 - Bloomberg.com",
+          "summary": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+          "summaryZh": "Blackstone支持的数据中心公司新增15亿美元融资 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2oxazhYbzZKejJYbVJkbTNCQTNPeW5kVVFPbHp3QUNXS01CQkh6X3JDOGI5NXBWOE5ybHRRV2oxc0txcW5zbFpCZUU4djFKNkFSSE1qQjc0eVNDT1ZTYk1xVlpEa3VWUlhoLVdqZW85aG5ZV2dXUjVqOFV5SzNEbHl1Mld5V2xZV3NOWTJWVFJLZUgydGU0dDc5a2hLY2ZlZktGNmxkTDRfVHhMcUgwdzdUMEtQS2pLNTZhaml3?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-12",
+          "lede": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+          "articleExcerpt": "Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing - Bloomberg.com. Blackstone-Backed Data Center Firm Adds $1.5 Billion Financing Bloomberg.com",
+          "contentFingerprint": "30006a0512e298c5",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "data-center"
+          ],
+          "sectors": [
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "A Blackstone-backed data center company raised $1.5B of new financing. This is a debt deal tied to data center assets, so it has a financing angle and should not be excluded. Blackstone's role appears to be equity sponsor rather than lender, so credit relevance is moderate and importance sits slightly below ordinary financing.",
+            "llmReasonZh": "一家由Blackstone支持的数据中心公司获得15亿美元新增融资。该交易为与数据中心资产相关的债务交易，具有融资属性，不应排除。Blackstone的角色似乎是股权发起人而非贷款方，因此信贷相关性中等，重要性略低于一般融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 90,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 4.89,
+            "finalScore": 21.89,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-4b9cbd98a12e",
+          "title": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset - BioSpace",
+          "titleZh": "辉瑞从私募股权公司Blackstone获得$1.5B融资，用于支持Metsera资产 - BioSpace",
+          "summary": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+          "summaryZh": "辉瑞从私募股权公司Blackstone获得$1.5B融资，用于支持Metsera资产 BioSpace",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkUxMFpSSTZyd2ZoR1dSQm5BZFBVY3RkdFQyYWFLRWFlQ3I5dklMRm1pN3drX09BTEVIUW9XRnZSYlc3Mi1WSnItZGhrMTZaYVZoZ05YakpBaGFtNHM2MG9qUnBoUFJENWhGV2xfcldOSVdyRFM0NmYwMnFqWlBYSHE1Y2VKbHBVR0E5S1lrZ0dUeW1GN2N4VE1sMDRMa2lQNElMVGFSUFUzT3A5LThz?oc=5",
+          "source": "BioSpace",
+          "publishedAt": "2026-11-12",
+          "lede": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+          "articleExcerpt": "Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset - BioSpace. Pfizer snags $1.5B financing from PE firm Blackstone to support Metsera asset BioSpace",
+          "contentFingerprint": "a1de21b302930fe2",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blackstone is providing $1.5B of financing to Pfizer to support development of the Metsera asset. This is a financing transaction, not an equity buyout, so it has a credit angle. Such deals are often structured as royalty or R&D funding through Blackstone Life Sciences or its credit arm. The text is thin, so the strategy tag is tentative. Importance is set at the ordinary-financing level.",
+            "llmReasonZh": "Blackstone向辉瑞提供$1.5B融资，用于支持Metsera资产的开发。该交易属于融资交易，而非股权收购，因此具有信贷相关性。此类交易通常通过Blackstone Life Sciences或其信贷部门，以特许权使用费或研发融资的形式进行结构安排。由于文本信息有限，策略标签为暂定。重要性按普通融资级别设定。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BioSpace"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.12,
+            "finalScore": 19.12,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-ea282b8419da",
+          "title": "Data center campuses developer backed by Blackstone bags over $1.5B in financing - TradingView",
+          "titleZh": "Blackstone支持的数据中心园区开发商获得逾$1.5B融资 - TradingView",
+          "summary": "Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+          "summaryZh": "Blackstone支持的数据中心园区开发商获得逾$1.5B融资 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbU5DSVp0akoyakJ2V0VtQTZ5U1BrcXptZ2N2c1N0RWZYUkpRQ3NQRzFHZTAyTXBra1BDOEJySmZ0cVFPdHNvQjNQV1V4aXZwWHdsYnkwS1U5WWdKLUtFVU9GakoyMWhqaHppMDBIc3BMZW9jdkllNTd4eEg4UzNZRmtIbHNScW55dk1VWGpONTJMc2MxeHNQNHNfWjFxb2Rnb2I4M1M4c3hPdU9USjgyZWU0YkpqMWtFZkNLaE9mRjg5YlVUc1E0ZkF1eXpQanpta0VQcTdrUEhlZw?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-12",
+          "lede": "Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+          "articleExcerpt": "Data center campuses developer backed by Blackstone bags over $1.5B in financing - TradingView. Data center campuses developer backed by Blackstone bags over $1.5B in financing TradingView",
+          "contentFingerprint": "44eaccb1c46e62da",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "data-center"
+          ],
+          "sectors": [
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "A Blackstone-backed data center developer raised over $1.5B in debt financing. This is a financing event in the data-center strategy, so it has a credit angle. Blackstone appears to be the equity sponsor, not clearly the lender, so the GP tag is borderline and importance is set slightly below ordinary financing.",
+            "llmReasonZh": "一家由Blackstone支持的数据中心开发商获得逾$1.5B债务融资。这是数据中心策略中的融资事件，因此具有信贷相关性。Blackstone似乎是股权发起人，而非明确的贷款方，因此GP标签处于边缘状态，重要性设定为略低于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.69,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.62,
+            "finalScore": 18.62,
             "semanticEnabled": true
           }
         },
@@ -184600,6 +187454,218 @@
           }
         },
         {
+          "id": "2026-11-12-f55f5fd8fa99",
+          "title": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet - Mezha.net",
+          "titleZh": "Apollo向SoftBank提供贷款，助其为对OpenAI近650亿美元的押注融资 - Mezha.net",
+          "summary": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+          "summaryZh": "Apollo向SoftBank提供贷款，助其为对OpenAI近650亿美元的押注融资 Mezha.net",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0gwbFJsVzJERGlPMGZqTnhnWE1vMUZ4UUpYajFyZ2RWRHdrV2RlN3RuYi1FOXVhM2FTVzRKUVBZRFlxNzlneFFxanZjVGlNNmg3MS1LZno3UFRpQUtZRGdWakpqcGdkdDZZeTdleVdmdmh0OUtqZW5wNTBlQUREVkZCdk9QSF9BZWtyYw?oc=5",
+          "source": "Mezha.net",
+          "publishedAt": "2026-11-12",
+          "lede": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+          "articleExcerpt": "Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet - Mezha.net. Apollo’s SoftBank lending helps fund its nearly $65 billion OpenAI bet Mezha.net",
+          "contentFingerprint": "77e253331a5c2960",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Apollo is lending to SoftBank to help fund SoftBank's roughly $65B investment in OpenAI. This is credit and lending activity tied to AI financing, so it is a large private-credit financing transaction and should not be excluded.",
+            "llmReasonZh": "Apollo正向SoftBank提供贷款，以协助SoftBank为其对OpenAI约650亿美元的投资融资。这属于与AI融资相关的信贷及贷款活动，因此是一笔大型私募信贷融资交易，不应被排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.85,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Mezha.net"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.34,
+            "finalScore": 23.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-ba20e0aef726",
+          "title": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet - Howl.Link",
+          "titleZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 - Howl.Link",
+          "summary": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+          "summaryZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 Howl.Link",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBEYlZIX3FTd2ZFck1MdF82aHZsZDVXUU1kam1TdldMQjdhSE9pZjB2b3RrcG9XaWR0TzRN?oc=5",
+          "source": "Howl.Link",
+          "publishedAt": "2026-11-12",
+          "lede": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+          "articleExcerpt": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet - Howl.Link. How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet Howl.Link",
+          "contentFingerprint": "a410434ae36a5218",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "The headline says Apollo used its SoftBank ties to back an 'unprecedented OpenAI bet'. Apollo's large-ticket deals with SoftBank are usually credit or financing structures, so this is likely a credit-side financing tied to AI. The text is only a headline, so this reading is inferred and moderate importance is assigned.",
+            "llmReasonZh": "标题称Apollo借助与SoftBank的关系支持了一项“对OpenAI的空前押注”。Apollo与SoftBank之间的大额交易通常为信贷或融资结构，因此这很可能是一笔与AI相关的信贷端融资。由于原文仅有标题，上述判断系推断所得，故评定为中等重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Howl.Link"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.95,
+            "finalScore": 13.95,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-aadc48b2a949",
           "title": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International",
           "titleZh": "意大利私募债务与企业融资周报：Recordati、CVC、GBL、Banca CF+等最新动态 - BeBeez International",
@@ -184704,6 +187770,116 @@
             "finalScore": 20.4,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-12-24065b203268",
+          "title": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings - Traders Union",
+          "titleZh": "CVC Cordatus Loan Fund XVIII DAC重置票据获惠誉最终评级 - Traders Union",
+          "summary": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+          "summaryZh": "CVC Cordatus Loan Fund XVIII DAC重置票据获惠誉最终评级 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzZnLW1TOWktdmhFNEdxZUNSY0prN0U0THY4aWJMTUdSSDZTeDFENHA4dUdDM1ZVNU42c3FMNVNuM0MyajREMXVyaFB0ZHdvdG5tNl9DYUNFdG1pd0R0WUQtcERBYWV2Z3hFd3ZJWjhzMXY3ZkhEekRGZzdmcURGZGpmTEtPUDZLMHhld0ttSjZKb2pRVmpWS0dn?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-12",
+          "lede": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+          "articleExcerpt": "CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings - Traders Union. CVC Cordatus loan fund XVIII DAC reset notes win Fitch final ratings Traders Union",
+          "contentFingerprint": "e49f1a711ddfa55d",
+          "region": "Global",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "structured",
+            "clo"
+          ],
+          "sectors": [
+            "structured",
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "structured",
+              "clo"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "CVC Cordatus Loan Fund XVIII is a European CLO managed by CVC Credit. The article reports Fitch final ratings on its reset notes. A CLO reset is a refinancing and debt issuance, so this is an ordinary credit financing event.",
+            "llmReasonZh": "CVC Cordatus Loan Fund XVIII是由CVC Credit管理的欧洲CLO。该文章报道了惠誉对其重置票据给予的最终评级。CLO重置属于再融资及债务发行，因此这是一项常规信贷融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured",
+                  "clo"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.2
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-12T17:25:27.947784+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.85,
+            "finalScore": 22.85,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -184711,7 +187887,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 17,
+      "count": 19,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -184719,25 +187895,25 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 100,
-      "selected": 5,
+      "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 1,
+      "count": 0,
       "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -184745,12 +187921,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 10,
+      "count": 16,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -184758,25 +187934,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 8,
-      "selected": 3,
+      "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 5,
+      "count": 7,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -184784,12 +187960,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 9,
+      "count": 10,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -184797,7 +187973,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
@@ -184810,12 +187986,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 43,
+      "count": 46,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -184823,12 +187999,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 102,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -184836,12 +188012,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 28,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -184849,12 +188025,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 12,
+      "count": 10,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -184862,12 +188038,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 1,
+      "count": 3,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -184875,12 +188051,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 21,
+      "count": 18,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -184888,12 +188064,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
+      "count": 26,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -184901,12 +188077,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 578,
+      "count": 635,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -184923,9 +188099,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-12T09:00:33.326902+00:00",
+      "asOf": "2026-11-12T17:25:27.947784+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-12T09:00:33.326902+00:00"
+  "checkedAt": "2026-11-12T17:25:27.947784+00:00"
 }
