@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-13T12:53:10.432847+00:00",
+  "updatedAt": "2026-11-13T20:08:43.099786+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10364,9 +10364,9 @@
         {
           "id": "2026-09-13-12e06a7ee035",
           "title": "HSBC Ultra Short Term Fund Direct growth - Upstox",
-          "titleZh": "HSBC Ultra Short Term Fund Direct growth - Upstox",
+          "titleZh": "HSBC Ultra Short Term Fund 直接计划增长型 - Upstox",
           "summary": "HSBC Ultra Short Term Fund Direct growth Upstox",
-          "summaryZh": "HSBC Ultra Short Term Fund Direct growth Upstox",
+          "summaryZh": "HSBC Ultra Short Term Fund 直接计划增长型 Upstox",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNfSkRPenA1b2xtRU1taEluM0hJN0poWUJITks0a2Y0Vi1DMkczTzZPUFc5bDRmQTZmblY0Mm41TkFSWjBacjJ4cjJndkpmOGJtNWZBenh2M1FPeHdTdnNBTVZadTN2SDVKZW9tTEptSmliUTFMTGlpRWR0MzNBNU43T2Rycm1mWXROWDliM3dkUQ?oc=5",
           "source": "Upstox",
           "publishedAt": "2026-09-13",
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund 是一只专注于信用的共同基金，提供对高质量、短久期债务工具的敞口，与 HSBC AM 的信用及固定收益能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归入更广泛的私募信贷/直接借贷范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20777,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -181639,6 +181639,102 @@
               "finalScore": 7.41,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-11-cc43e4532a0f",
+            "title": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) - Yahoo Finance",
+            "titleZh": "业绩超预期或改变投资KKR股票的逻辑（KKR）- Yahoo Finance",
+            "summary": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+            "summaryZh": "业绩超预期或改变投资KKR股票的逻辑（KKR）Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUldqbTVveEQzampMY082WEp0LTlUN0lVejVPNnJtT19MOC1zTDFpRU9KeDlKMmlkMTJJUjJpMHdDa05pUnBqa3JSSElOOUNOUDJRcnpQZ2JTUXNNRVl2RlhXWk03UUpkc0h6MUdKWUJSZzRGV0N4bExSek1QTll6LUtfdEFNb1FuV1pjNWRac3M3MkUzLWxqR0M3dlQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-11",
+            "lede": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+            "articleExcerpt": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) - Yahoo Finance. Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+            "contentFingerprint": "b041090f69ce4941",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock and earnings commentary on KKR as a firm, with no specific credit, lending, or financing content. It is not excluded because firm-level earnings can reflect its credit business, but importance is low because this is analyst-style commentary.",
+              "llmReasonZh": "关于KKR公司层面的股票及业绩评论，未涉及具体的信贷、贷款或融资内容。由于公司层面的业绩可能反映其信贷业务，因此未予排除，但因属于分析师式评论，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.17,
+              "finalScore": 16.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -183748,6 +183844,102 @@
             "keywordScore": 3,
             "semanticScore": 4.41,
             "finalScore": 7.41,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-cc43e4532a0f",
+          "title": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) - Yahoo Finance",
+          "titleZh": "业绩超预期或改变投资KKR股票的逻辑（KKR）- Yahoo Finance",
+          "summary": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+          "summaryZh": "业绩超预期或改变投资KKR股票的逻辑（KKR）Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUldqbTVveEQzampMY082WEp0LTlUN0lVejVPNnJtT19MOC1zTDFpRU9KeDlKMmlkMTJJUjJpMHdDa05pUnBqa3JSSElOOUNOUDJRcnpQZ2JTUXNNRVl2RlhXWk03UUpkc0h6MUdKWUJSZzRGV0N4bExSek1QTll6LUtfdEFNb1FuV1pjNWRac3M3MkUzLWxqR0M3dlQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-11",
+          "lede": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+          "articleExcerpt": "Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) - Yahoo Finance. Earnings Beat Might Change The Case For Investing In KKR Stock (KKR) Yahoo Finance",
+          "contentFingerprint": "b041090f69ce4941",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock and earnings commentary on KKR as a firm, with no specific credit, lending, or financing content. It is not excluded because firm-level earnings can reflect its credit business, but importance is low because this is analyst-style commentary.",
+            "llmReasonZh": "关于KKR公司层面的股票及业绩评论，未涉及具体的信贷、贷款或融资内容。由于公司层面的业绩可能反映其信贷业务，因此未予排除，但因属于分析师式评论，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.17,
+            "finalScore": 16.17,
             "semanticEnabled": true
           }
         },
@@ -186568,6 +186760,108 @@
               "keywordScore": 6,
               "semanticScore": 5.0,
               "finalScore": 11.0,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-bf50bd3440b3",
+            "title": "Mark Walter’s Empire Borrowed Billions More From His Close Allies - Bloomberg.com",
+            "titleZh": "Mark Walter旗下商业帝国向其亲密盟友额外借款数十亿美元 - Bloomberg.com",
+            "summary": "Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+            "summaryZh": "Mark Walter旗下商业帝国向其亲密盟友额外借款数十亿美元 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yb1RxcXpUaFl2bWE1bnJoa3JEZEkxZnpIRUJJVm5tTXJzWHZQUVcwdTA0MHJPLWlTUWtJVG9vLUlNUDBMSV9sbGdXRHdwUUd2M2c4enE5azFIVXhfbzNPa1FKeXNhWWstMUNMYS1PcVpCZ1E?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-12",
+            "lede": "Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+            "articleExcerpt": "Mark Walter’s Empire Borrowed Billions More From His Close Allies - Bloomberg.com. Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+            "contentFingerprint": "0f3f6931078ac430",
+            "region": "Global",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Guggenheim"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Mark Walter is CEO and co-founder of Guggenheim Partners. The article covers his business empire (Guggenheim and related entities such as Eldridge) borrowing billions from close allies. That points to related-party lending and financing, which is a credit-relevant governance concern for investors in Guggenheim's credit business. The article body is minimal, so the private-credit tag is inferred.",
+              "llmReasonZh": "Mark Walter是Guggenheim Partners的首席执行官兼联合创始人。该文章报道其商业帝国（Guggenheim及Eldridge等关联实体）向亲密盟友借款数十亿美元。这涉及关联方借贷及融资，对于Guggenheim信贷业务的投资者而言，属于与信用相关的公司治理问题。文章正文内容有限，因此私募信贷标签系推断得出。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.48,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.27
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 78,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 3.24,
+              "finalScore": 20.240000000000002,
               "semanticEnabled": true
             }
           }
@@ -189823,6 +190117,108 @@
           }
         },
         {
+          "id": "2026-11-12-bf50bd3440b3",
+          "title": "Mark Walter’s Empire Borrowed Billions More From His Close Allies - Bloomberg.com",
+          "titleZh": "Mark Walter旗下商业帝国向其亲密盟友额外借款数十亿美元 - Bloomberg.com",
+          "summary": "Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+          "summaryZh": "Mark Walter旗下商业帝国向其亲密盟友额外借款数十亿美元 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yb1RxcXpUaFl2bWE1bnJoa3JEZEkxZnpIRUJJVm5tTXJzWHZQUVcwdTA0MHJPLWlTUWtJVG9vLUlNUDBMSV9sbGdXRHdwUUd2M2c4enE5azFIVXhfbzNPa1FKeXNhWWstMUNMYS1PcVpCZ1E?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-12",
+          "lede": "Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+          "articleExcerpt": "Mark Walter’s Empire Borrowed Billions More From His Close Allies - Bloomberg.com. Mark Walter’s Empire Borrowed Billions More From His Close Allies Bloomberg.com",
+          "contentFingerprint": "0f3f6931078ac430",
+          "region": "Global",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Guggenheim"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Mark Walter is CEO and co-founder of Guggenheim Partners. The article covers his business empire (Guggenheim and related entities such as Eldridge) borrowing billions from close allies. That points to related-party lending and financing, which is a credit-relevant governance concern for investors in Guggenheim's credit business. The article body is minimal, so the private-credit tag is inferred.",
+            "llmReasonZh": "Mark Walter是Guggenheim Partners的首席执行官兼联合创始人。该文章报道其商业帝国（Guggenheim及Eldridge等关联实体）向亲密盟友借款数十亿美元。这涉及关联方借贷及融资，对于Guggenheim信贷业务的投资者而言，属于与信用相关的公司治理问题。文章正文内容有限，因此私募信贷标签系推断得出。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.48,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.27
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 78,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 3.24,
+            "finalScore": 20.240000000000002,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-b87bc9b24975",
           "title": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing - Stock Traders Daily",
           "titleZh": "Neuberger Berman High Yield Strategies Fund (NHS)如何影响轮动策略时机 - Stock Traders Daily",
@@ -192035,6 +192431,114 @@
               "finalScore": 20.22,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-1011c73a75c6",
+            "title": "Blue Owl Technology Finance trades at 42% disco... - Pluang",
+            "titleZh": "Blue Owl Technology Finance 折价42%交易... - Pluang",
+            "summary": "Blue Owl Technology Finance trades at 42% disco... Pluang",
+            "summaryZh": "Blue Owl Technology Finance 折价42%交易... Pluang",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHB1NWtYbmFheXNiRGR4dC12ZnhOVUdCVE5VQXQ1VzhjaXRSQWhWeWFMamhoWGNFa0tySUVPbERHbzRNOEhfWTRuV0RXS2NXMWF0d01nakVTdnBGNHJKYTk0MkQxRV9KQ3M2MFR6VWNycDQyMUhSN01wRUtlaG0tLUh5aUFGMk9vMFFuQmFyOVZXUENUYjR6NHRRWkt4NkJxUGpJbGtrZmV0THc?oc=5",
+            "source": "Pluang",
+            "publishedAt": "2026-11-13",
+            "lede": "Blue Owl Technology Finance trades at 42% disco... Pluang",
+            "articleExcerpt": "Blue Owl Technology Finance trades at 42% disco... - Pluang. Blue Owl Technology Finance trades at 42% disco... Pluang",
+            "contentFingerprint": "e560932dc0108e49",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance (OTF) is Blue Owl's tech-focused direct-lending BDC, so this is credit-relevant. A 42% discount (presumably to NAV) is market and valuation commentary. A discount that large can signal credit or redemption concerns, which puts importance slightly above routine stock commentary. No financing, fundraising or lawsuit event. The AI tag is tentative: the snippet is truncated and only implies tech lending.",
+              "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下专注科技领域的直接贷款型BDC，因此与信贷相关。42%的折价（推测为相对资产净值）属于市场及估值评论。如此大幅的折价可能预示信用或赎回方面的担忧，因此重要性略高于常规股票评论。未涉及融资、募资或诉讼事件。AI标签为暂定：摘要内容被截断，仅暗示涉及科技贷款。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Pluang"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.86,
+              "finalScore": 22.86,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -192259,7 +192763,100 @@
             }
           }
         ],
-        "Guggenheim": [],
+        "Guggenheim": [
+          {
+            "id": "2026-11-13-12ba3e178d0f",
+            "title": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database",
+            "titleZh": "PIMCO与Guggenheim探讨2027年固定收益投资机会 - ETF Database",
+            "summary": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+            "summaryZh": "PIMCO与Guggenheim探讨2027年固定收益投资机会 ETF Database",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmdVV01TY0dFRm9kNDkwVllQcTl1OTJtUS1BVlJaOXpubElwNVJCSXMwUjJRQ1NkODlIZjRyLUxWSHJmTy1JbDEyMGkzSEw2SGZnRkdIdDNvZFQ3M0N3RHlhSjd4OE1lM25oSTFJZGcwVTNTWnZ1Qnk0SHRNZzdUSzRTV3FYZXJYOE1IM1JGYWFyV0pVcWJvbFJ3UzJuQQ?oc=5",
+            "source": "ETF Database",
+            "publishedAt": "2026-11-13",
+            "lede": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+            "articleExcerpt": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database. PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+            "contentFingerprint": "439807af2c858815",
+            "region": "Global",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Guggenheim"
+              ],
+              "titleGps": [
+                "Guggenheim"
+              ],
+              "llmGps": [
+                "Guggenheim"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Guggenheim Investments (credit/fixed income) gives market commentary on fixed income opportunities alongside PIMCO. This is outlook commentary only, with no transaction, fundraising or litigation, so importance is low. The article text gives no detail tying it to a specific tracked strategy.",
+              "llmReasonZh": "Guggenheim Investments（信贷/固定收益）与PIMCO共同就固定收益投资机会发表市场评论。该文章仅为前景展望评论，不涉及交易、募资或诉讼，因此重要性较低。文章内容未提供与特定跟踪策略相关的细节。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "ETF Database"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.6,
+              "finalScore": 7.6,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Neuberger": [
           {
             "id": "2026-11-13-eded4b60a6c2",
@@ -192686,6 +193283,212 @@
               "keywordScore": 11,
               "semanticScore": 5.37,
               "finalScore": 16.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-a49c5adc8832",
+            "title": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line - Venture Intelligence News",
+            "titleZh": "Blackstone安排2亿美元贷款，为收购ASK的信贷额度再融资 - Venture Intelligence News",
+            "summary": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+            "summaryZh": "Blackstone安排2亿美元贷款，为收购ASK的信贷额度再融资 Venture Intelligence News",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDhua29BbUFLWk8talJxcGdna2NUZnZENVRHaFp1Vm9zZklpZ1NyRm5SaHgyUmdtU1Z1bVNWSzN0ai00SVU2RklLbUpxQmg0QTMwb1lpVjh3UDAzVEVOblB1N2p0Q2d1RTVaUzB4c0xwd0lGTXlGbTdtUHRZaDh2cXUxTHI3djNjMWdMRTFyUVVmSG1WbGtFaExaVGV1RlJ2SGVBUm1fQU5sMFRGUGJrZDJpbWdQZmdKZmdROVZNY2ZFZw?oc=5",
+            "source": "Venture Intelligence News",
+            "publishedAt": "2026-11-13",
+            "lede": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+            "articleExcerpt": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line - Venture Intelligence News. Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+            "contentFingerprint": "ed4f5cd2c9a03b17",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blackstone is arranging a $200M loan to refinance the acquisition credit line for its purchase of ASK Investment Managers. This is a debt financing transaction, so it has a credit and financing angle. It is an ordinary financing event, so importance is 0.7.",
+              "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于为其收购ASK Investment Managers的收购信贷额度进行再融资。这是一项债务融资交易，因此具有信贷和融资层面的关注点。这属于常规融资事件，因此重要性为0.7。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Venture Intelligence News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.46,
+              "finalScore": 19.46,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-2bb1263d0cfa",
+            "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada",
+            "titleZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？- Yahoo! Finance Canada",
+            "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+            "summaryZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-13",
+            "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+            "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+            "contentFingerprint": "ea786cc63a0d8dff",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.25,
+              "llmExclude": false,
+              "llmReason": "Stock-commentary piece (Yahoo Finance / BX 'signaling' framing) about Blackstone opening a Dubai wealth office and a $3B fund. The snippet doesn't say what strategy the fund follows. The wealth channel commonly distributes credit vehicles such as BCRED, so the item isn't excluded, but no credit strategy can be confirmed. Low importance because it is analyst commentary with an unconfirmed credit link.",
+              "llmReasonZh": "这是一篇股票评论文章（Yahoo Finance，以BX\"释放信号\"为切入角度），内容涉及黑石开设迪拜财富管理办公室并推出一只30亿美元基金。摘要未说明该基金采用何种策略。财富管理渠道通常会分销BCRED等信贷产品，因此未将该条目排除，但无法确认其涉及信贷策略。由于属于分析评论且与信贷的关联尚未确认，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.24,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.25
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.69,
+              "finalScore": 16.69,
               "semanticEnabled": true
             }
           }
@@ -193122,7 +193925,212 @@
             }
           }
         ],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-11-13-98b7bd0abe8b",
+            "title": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance - PitchBook",
+            "titleZh": "CVC Credit Partners European Direct Lending Fund V Co-Investment：业绩表现 - PitchBook",
+            "summary": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+            "summaryZh": "CVC Credit Partners European Direct Lending Fund V Co-Investment：业绩表现 PitchBook",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tMkNVcC16dTZXdll2WHhQSFRWdXd1ZjA2aGpIdE1PSzFKQW10WThGQzE0NVhqNHkybDg3QUluOWZXd3lTUEg3WXlxc3ZmRGZpd3J3Q0wyejM?oc=5",
+            "source": "PitchBook",
+            "publishedAt": "2026-11-13",
+            "lede": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+            "articleExcerpt": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance - PitchBook. CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+            "contentFingerprint": "ea7759e82dfcb92b",
+            "region": "Europe",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a PitchBook database profile page showing performance data for CVC Credit Partners' European Direct Lending Fund V co-investment vehicle. It falls under CVC's credit business and the direct lending (private credit) strategy. It carries no news event such as a fundraise, close, financing or lawsuit, so it is low-importance reference content.",
+              "llmReasonZh": "该页面为PitchBook数据库简介页，展示CVC Credit Partners旗下European Direct Lending Fund V联合投资工具的业绩数据，属于CVC信贷业务及直接贷款（私募信贷）策略范畴。页面不涉及募资、关账、融资或诉讼等新闻事件，属于重要性较低的参考内容。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PitchBook"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.56,
+              "finalScore": 20.56,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-ea5adf4c28d3",
+            "title": "CVC Credit Capital Solutions IV: Fund Performance - PitchBook",
+            "titleZh": "CVC Credit Capital Solutions IV：基金业绩 - PitchBook",
+            "summary": "CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+            "summaryZh": "CVC Credit Capital Solutions IV：基金业绩 PitchBook",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aX0t5N1lvSHpua01MOXkyNXp3ZjR1MU9wZXh6cTBRYnljN2RETUlhREhJQ1NwbjZnbVUwYmNxakNNcmVEVlA2dGRFWmktZW4xaGhaZEV3d2k?oc=5",
+            "source": "PitchBook",
+            "publishedAt": "2026-11-13",
+            "lede": "CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+            "articleExcerpt": "CVC Credit Capital Solutions IV: Fund Performance - PitchBook. CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+            "contentFingerprint": "7872215ea3ce2f8b",
+            "region": "Global",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a PitchBook fund profile/performance page for CVC Credit's Capital Solutions IV fund, a credit vehicle within CVC's private credit platform. It is credit-relevant, but it carries no news event: no new close, financing or litigation. That makes it low-importance reference data.",
+              "llmReasonZh": "这是PitchBook上关于CVC Credit旗下Capital Solutions IV基金的基金概况/业绩页面，该基金是CVC私募信贷平台中的一只信贷投资工具。该内容与信贷相关，但不涉及任何新闻事件：无新的募资关账、融资或诉讼。因此属于重要性较低的参考数据。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PitchBook"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 13,
+              "semanticScore": 6.39,
+              "finalScore": 19.39,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
       "items": [
@@ -193330,6 +194338,114 @@
             "keywordScore": 14,
             "semanticScore": 6.22,
             "finalScore": 20.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-1011c73a75c6",
+          "title": "Blue Owl Technology Finance trades at 42% disco... - Pluang",
+          "titleZh": "Blue Owl Technology Finance 折价42%交易... - Pluang",
+          "summary": "Blue Owl Technology Finance trades at 42% disco... Pluang",
+          "summaryZh": "Blue Owl Technology Finance 折价42%交易... Pluang",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHB1NWtYbmFheXNiRGR4dC12ZnhOVUdCVE5VQXQ1VzhjaXRSQWhWeWFMamhoWGNFa0tySUVPbERHbzRNOEhfWTRuV0RXS2NXMWF0d01nakVTdnBGNHJKYTk0MkQxRV9KQ3M2MFR6VWNycDQyMUhSN01wRUtlaG0tLUh5aUFGMk9vMFFuQmFyOVZXUENUYjR6NHRRWkt4NkJxUGpJbGtrZmV0THc?oc=5",
+          "source": "Pluang",
+          "publishedAt": "2026-11-13",
+          "lede": "Blue Owl Technology Finance trades at 42% disco... Pluang",
+          "articleExcerpt": "Blue Owl Technology Finance trades at 42% disco... - Pluang. Blue Owl Technology Finance trades at 42% disco... Pluang",
+          "contentFingerprint": "e560932dc0108e49",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance (OTF) is Blue Owl's tech-focused direct-lending BDC, so this is credit-relevant. A 42% discount (presumably to NAV) is market and valuation commentary. A discount that large can signal credit or redemption concerns, which puts importance slightly above routine stock commentary. No financing, fundraising or lawsuit event. The AI tag is tentative: the snippet is truncated and only implies tech lending.",
+            "llmReasonZh": "Blue Owl Technology Finance (OTF) 是 Blue Owl 旗下专注科技领域的直接贷款型BDC，因此与信贷相关。42%的折价（推测为相对资产净值）属于市场及估值评论。如此大幅的折价可能预示信用或赎回方面的担忧，因此重要性略高于常规股票评论。未涉及融资、募资或诉讼事件。AI标签为暂定：摘要内容被截断，仅暗示涉及科技贷款。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Pluang"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.86,
+            "finalScore": 22.86,
             "semanticEnabled": true
           }
         },
@@ -193546,6 +194662,98 @@
             "keywordScore": 14,
             "semanticScore": 2.45,
             "finalScore": 16.45,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-12ba3e178d0f",
+          "title": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database",
+          "titleZh": "PIMCO与Guggenheim探讨2027年固定收益投资机会 - ETF Database",
+          "summary": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+          "summaryZh": "PIMCO与Guggenheim探讨2027年固定收益投资机会 ETF Database",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmdVV01TY0dFRm9kNDkwVllQcTl1OTJtUS1BVlJaOXpubElwNVJCSXMwUjJRQ1NkODlIZjRyLUxWSHJmTy1JbDEyMGkzSEw2SGZnRkdIdDNvZFQ3M0N3RHlhSjd4OE1lM25oSTFJZGcwVTNTWnZ1Qnk0SHRNZzdUSzRTV3FYZXJYOE1IM1JGYWFyV0pVcWJvbFJ3UzJuQQ?oc=5",
+          "source": "ETF Database",
+          "publishedAt": "2026-11-13",
+          "lede": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+          "articleExcerpt": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database. PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 ETF Database",
+          "contentFingerprint": "439807af2c858815",
+          "region": "Global",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Guggenheim"
+            ],
+            "titleGps": [
+              "Guggenheim"
+            ],
+            "llmGps": [
+              "Guggenheim"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Guggenheim Investments (credit/fixed income) gives market commentary on fixed income opportunities alongside PIMCO. This is outlook commentary only, with no transaction, fundraising or litigation, so importance is low. The article text gives no detail tying it to a specific tracked strategy.",
+            "llmReasonZh": "Guggenheim Investments（信贷/固定收益）与PIMCO共同就固定收益投资机会发表市场评论。该文章仅为前景展望评论，不涉及交易、募资或诉讼，因此重要性较低。文章内容未提供与特定跟踪策略相关的细节。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "ETF Database"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.6,
+            "finalScore": 7.6,
             "semanticEnabled": true
           }
         },
@@ -193969,6 +195177,212 @@
             "keywordScore": 11,
             "semanticScore": 5.37,
             "finalScore": 16.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-a49c5adc8832",
+          "title": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line - Venture Intelligence News",
+          "titleZh": "Blackstone安排2亿美元贷款，为收购ASK的信贷额度再融资 - Venture Intelligence News",
+          "summary": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+          "summaryZh": "Blackstone安排2亿美元贷款，为收购ASK的信贷额度再融资 Venture Intelligence News",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDhua29BbUFLWk8talJxcGdna2NUZnZENVRHaFp1Vm9zZklpZ1NyRm5SaHgyUmdtU1Z1bVNWSzN0ai00SVU2RklLbUpxQmg0QTMwb1lpVjh3UDAzVEVOblB1N2p0Q2d1RTVaUzB4c0xwd0lGTXlGbTdtUHRZaDh2cXUxTHI3djNjMWdMRTFyUVVmSG1WbGtFaExaVGV1RlJ2SGVBUm1fQU5sMFRGUGJrZDJpbWdQZmdKZmdROVZNY2ZFZw?oc=5",
+          "source": "Venture Intelligence News",
+          "publishedAt": "2026-11-13",
+          "lede": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+          "articleExcerpt": "Blackstone arranges $200-M loan to refinance ASK acquisition credit line - Venture Intelligence News. Blackstone arranges $200-M loan to refinance ASK acquisition credit line Venture Intelligence News",
+          "contentFingerprint": "ed4f5cd2c9a03b17",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blackstone is arranging a $200M loan to refinance the acquisition credit line for its purchase of ASK Investment Managers. This is a debt financing transaction, so it has a credit and financing angle. It is an ordinary financing event, so importance is 0.7.",
+            "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于为其收购ASK Investment Managers的收购信贷额度进行再融资。这是一项债务融资交易，因此具有信贷和融资层面的关注点。这属于常规融资事件，因此重要性为0.7。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Venture Intelligence News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.46,
+            "finalScore": 19.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-2bb1263d0cfa",
+          "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada",
+          "titleZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？- Yahoo! Finance Canada",
+          "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+          "summaryZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-13",
+          "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+          "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
+          "contentFingerprint": "ea786cc63a0d8dff",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.25,
+            "llmExclude": false,
+            "llmReason": "Stock-commentary piece (Yahoo Finance / BX 'signaling' framing) about Blackstone opening a Dubai wealth office and a $3B fund. The snippet doesn't say what strategy the fund follows. The wealth channel commonly distributes credit vehicles such as BCRED, so the item isn't excluded, but no credit strategy can be confirmed. Low importance because it is analyst commentary with an unconfirmed credit link.",
+            "llmReasonZh": "这是一篇股票评论文章（Yahoo Finance，以BX\"释放信号\"为切入角度），内容涉及黑石开设迪拜财富管理办公室并推出一只30亿美元基金。摘要未说明该基金采用何种策略。财富管理渠道通常会分销BCRED等信贷产品，因此未将该条目排除，但无法确认其涉及信贷策略。由于属于分析评论且与信贷的关联尚未确认，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.24,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.6,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.25
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.69,
+            "finalScore": 16.69,
             "semanticEnabled": true
           }
         },
@@ -194397,6 +195811,210 @@
             "finalScore": 20.6,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-13-98b7bd0abe8b",
+          "title": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance - PitchBook",
+          "titleZh": "CVC Credit Partners European Direct Lending Fund V Co-Investment：业绩表现 - PitchBook",
+          "summary": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+          "summaryZh": "CVC Credit Partners European Direct Lending Fund V Co-Investment：业绩表现 PitchBook",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tMkNVcC16dTZXdll2WHhQSFRWdXd1ZjA2aGpIdE1PSzFKQW10WThGQzE0NVhqNHkybDg3QUluOWZXd3lTUEg3WXlxc3ZmRGZpd3J3Q0wyejM?oc=5",
+          "source": "PitchBook",
+          "publishedAt": "2026-11-13",
+          "lede": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+          "articleExcerpt": "CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance - PitchBook. CVC Credit Partners European Direct Lending Fund V Co-Investment: Performance PitchBook",
+          "contentFingerprint": "ea7759e82dfcb92b",
+          "region": "Europe",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a PitchBook database profile page showing performance data for CVC Credit Partners' European Direct Lending Fund V co-investment vehicle. It falls under CVC's credit business and the direct lending (private credit) strategy. It carries no news event such as a fundraise, close, financing or lawsuit, so it is low-importance reference content.",
+            "llmReasonZh": "该页面为PitchBook数据库简介页，展示CVC Credit Partners旗下European Direct Lending Fund V联合投资工具的业绩数据，属于CVC信贷业务及直接贷款（私募信贷）策略范畴。页面不涉及募资、关账、融资或诉讼等新闻事件，属于重要性较低的参考内容。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PitchBook"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.56,
+            "finalScore": 20.56,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-ea5adf4c28d3",
+          "title": "CVC Credit Capital Solutions IV: Fund Performance - PitchBook",
+          "titleZh": "CVC Credit Capital Solutions IV：基金业绩 - PitchBook",
+          "summary": "CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+          "summaryZh": "CVC Credit Capital Solutions IV：基金业绩 PitchBook",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aX0t5N1lvSHpua01MOXkyNXp3ZjR1MU9wZXh6cTBRYnljN2RETUlhREhJQ1NwbjZnbVUwYmNxakNNcmVEVlA2dGRFWmktZW4xaGhaZEV3d2k?oc=5",
+          "source": "PitchBook",
+          "publishedAt": "2026-11-13",
+          "lede": "CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+          "articleExcerpt": "CVC Credit Capital Solutions IV: Fund Performance - PitchBook. CVC Credit Capital Solutions IV: Fund Performance PitchBook",
+          "contentFingerprint": "7872215ea3ce2f8b",
+          "region": "Global",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a PitchBook fund profile/performance page for CVC Credit's Capital Solutions IV fund, a credit vehicle within CVC's private credit platform. It is credit-relevant, but it carries no news event: no new close, financing or litigation. That makes it low-importance reference data.",
+            "llmReasonZh": "这是PitchBook上关于CVC Credit旗下Capital Solutions IV基金的基金概况/业绩页面，该基金是CVC私募信贷平台中的一只信贷投资工具。该内容与信贷相关，但不涉及任何新闻事件：无新的募资关账、融资或诉讼。因此属于重要性较低的参考数据。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PitchBook"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 13,
+            "semanticScore": 6.39,
+            "finalScore": 19.39,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -194412,20 +196030,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 101,
-      "selected": 4,
+      "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
@@ -194438,12 +196056,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 15,
+      "count": 16,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -194451,38 +196069,38 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 8,
-      "selected": 5,
+      "count": 5,
+      "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 7,
-      "selected": 1,
+      "count": 9,
+      "selected": 3,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 13,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -194490,7 +196108,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
@@ -194503,12 +196121,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 30,
+      "count": 22,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -194516,7 +196134,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
@@ -194529,12 +196147,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 36,
+      "count": 33,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -194542,7 +196160,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
@@ -194555,12 +196173,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
+      "count": 3,
       "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -194568,12 +196186,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 17,
+      "count": 18,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -194581,7 +196199,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
@@ -194594,12 +196212,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 639,
+      "count": 572,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -194616,9 +196234,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-13T11:45:40.639295+00:00",
+      "asOf": "2026-11-13T18:59:19.868311+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-13T11:45:40.639295+00:00"
+  "checkedAt": "2026-11-13T18:59:19.868311+00:00"
 }
