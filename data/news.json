@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-12T18:37:52.544109+00:00",
+  "updatedAt": "2026-11-13T00:17:57.951145+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只侧重信用的共同基金，投资于高质量、短久期债务工具，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只专注于信用的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为核心的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -175209,6 +175209,117 @@
               "finalScore": 22.94,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-10-f74852e7e28f",
+            "title": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance - Kalkine Media",
+            "titleZh": "Amrit Kanwal向SEC提交Bain Capital Specialty Finance首次持股报告 - Kalkine Media",
+            "summary": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+            "summaryZh": "Amrit Kanwal向SEC提交Bain Capital Specialty Finance首次持股报告 Kalkine Media",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktPbVhfWUluWDZGbnhWRGM2V3dpVlpGVGkxMkdaN2w4eFBPQk9qSElNcUtTWVNDdHZRdFhzTHNWdDc4ZVVzaUtoNjBfT21LbFB4a1BrLVl5ZG93ZFpfQVJGa093N3NWVjNsakdteXZaZ3EySDBLQlh4cllJaTZDOHc4MmxsbWhYS0JpTkh1NUFaeGk1UFlPVmNYZVZWQUh4dXo3cnZfbUpKc1JET0JMSWVDWE9kaUpLZUpVLW9EZEo2REVGZ3hTWUdtVQ?oc=5",
+            "source": "Kalkine Media",
+            "publishedAt": "2026-11-10",
+            "lede": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+            "articleExcerpt": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance - Kalkine Media. Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+            "contentFingerprint": "9b087d6e9c4528cb",
+            "region": "US",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls within the credit business. The article covers a routine initial SEC ownership filing (Form 3) by an insider, with no financing, fundraising or legal event, so its importance is low.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的上市BDC（业务发展公司），属于信贷业务范畴。本文报道的是一名内部人士向SEC例行提交的首次持股申报（Form 3），不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.45,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine Media"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.58,
+              "finalScore": 24.58,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -176043,6 +176154,112 @@
               "keywordScore": 11,
               "semanticScore": 5.33,
               "finalScore": 16.33,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-10-4a38f9d53de3",
+            "title": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance - TradingView",
+            "titleZh": "Blackstone将向IIFL Finance投资Rs 5,000 Cr - TradingView",
+            "summary": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+            "summaryZh": "Blackstone将向IIFL Finance投资Rs 5,000 Cr TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG82ZFgxbndxZHRKZVk1LVdVV05nRTFNWDJ5UTdUTGIxQjZsUXNNWmxQS1l2cXJORVhaQWZteWpmVUZFV0MzRjVaN0MzQmVKRXpid1BKQVpaa21IdmEtdWREdFB6d3Y5b1V4U3FXQ2JJdG9hcC1MNHBCT1Zoa252NjhNRnBTcm9GSDluUFF2SVprR1h2ZHF0NjR0SFY4aC1jTWpTeTZYeEk?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-10",
+            "lede": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+            "articleExcerpt": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance - TradingView. Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+            "contentFingerprint": "a63c60aa095875d8",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone is putting about Rs 5,000 Cr into IIFL Finance, an Indian non-bank lender focused on gold loans, mortgages and MSME loans. This is borderline: the headline doesn't say whether it is debt or equity, and it may be a private-equity stake. It is kept because the money goes into a lending business, so it has a credit and financing angle. The strategy tag and importance are lowered to reflect the uncertainty.",
+              "llmReasonZh": "Blackstone将向IIFL Finance投入约Rs 5,000 Cr。IIFL Finance是一家印度非银行贷款机构，专注于黄金贷款、抵押贷款及中小微企业（MSME）贷款。本条属于边缘情况：标题未说明该笔投资为债权还是股权，且可能是私募股权入股。之所以保留，是因为资金投向一家贷款业务机构，具有信贷与融资相关性。鉴于存在不确定性，已下调策略标签和重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.21,
+              "finalScore": 19.21,
               "semanticEnabled": true
             }
           }
@@ -179370,6 +179587,117 @@
           }
         },
         {
+          "id": "2026-11-10-f74852e7e28f",
+          "title": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance - Kalkine Media",
+          "titleZh": "Amrit Kanwal向SEC提交Bain Capital Specialty Finance首次持股报告 - Kalkine Media",
+          "summary": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+          "summaryZh": "Amrit Kanwal向SEC提交Bain Capital Specialty Finance首次持股报告 Kalkine Media",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktPbVhfWUluWDZGbnhWRGM2V3dpVlpGVGkxMkdaN2w4eFBPQk9qSElNcUtTWVNDdHZRdFhzTHNWdDc4ZVVzaUtoNjBfT21LbFB4a1BrLVl5ZG93ZFpfQVJGa093N3NWVjNsakdteXZaZ3EySDBLQlh4cllJaTZDOHc4MmxsbWhYS0JpTkh1NUFaeGk1UFlPVmNYZVZWQUh4dXo3cnZfbUpKc1JET0JMSWVDWE9kaUpLZUpVLW9EZEo2REVGZ3hTWUdtVQ?oc=5",
+          "source": "Kalkine Media",
+          "publishedAt": "2026-11-10",
+          "lede": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+          "articleExcerpt": "Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance - Kalkine Media. Amrit Kanwal Submits Initial SEC Ownership Report for Bain Capital Specialty Finance Kalkine Media",
+          "contentFingerprint": "9b087d6e9c4528cb",
+          "region": "US",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, so it falls within the credit business. The article covers a routine initial SEC ownership filing (Form 3) by an insider, with no financing, fundraising or legal event, so its importance is low.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下的上市BDC（业务发展公司），属于信贷业务范畴。本文报道的是一名内部人士向SEC例行提交的首次持股申报（Form 3），不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.45,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine Media"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.58,
+            "finalScore": 24.58,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-10-444e5091effe",
           "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada - WSJ",
           "titleZh": "Blackstone牵头对Mitsubishi所持LNG Canada股权进行31亿美元投资 - WSJ",
@@ -180200,6 +180528,112 @@
             "keywordScore": 11,
             "semanticScore": 5.33,
             "finalScore": 16.33,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-10-4a38f9d53de3",
+          "title": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance - TradingView",
+          "titleZh": "Blackstone将向IIFL Finance投资Rs 5,000 Cr - TradingView",
+          "summary": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+          "summaryZh": "Blackstone将向IIFL Finance投资Rs 5,000 Cr TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG82ZFgxbndxZHRKZVk1LVdVV05nRTFNWDJ5UTdUTGIxQjZsUXNNWmxQS1l2cXJORVhaQWZteWpmVUZFV0MzRjVaN0MzQmVKRXpid1BKQVpaa21IdmEtdWREdFB6d3Y5b1V4U3FXQ2JJdG9hcC1MNHBCT1Zoa252NjhNRnBTcm9GSDluUFF2SVprR1h2ZHF0NjR0SFY4aC1jTWpTeTZYeEk?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-10",
+          "lede": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+          "articleExcerpt": "Blackstone To Invest Rs 5,000 Cr In IIFL Finance - TradingView. Blackstone To Invest Rs 5,000 Cr In IIFL Finance TradingView",
+          "contentFingerprint": "a63c60aa095875d8",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone is putting about Rs 5,000 Cr into IIFL Finance, an Indian non-bank lender focused on gold loans, mortgages and MSME loans. This is borderline: the headline doesn't say whether it is debt or equity, and it may be a private-equity stake. It is kept because the money goes into a lending business, so it has a credit and financing angle. The strategy tag and importance are lowered to reflect the uncertainty.",
+            "llmReasonZh": "Blackstone将向IIFL Finance投入约Rs 5,000 Cr。IIFL Finance是一家印度非银行贷款机构，专注于黄金贷款、抵押贷款及中小微企业（MSME）贷款。本条属于边缘情况：标题未说明该笔投资为债权还是股权，且可能是私募股权入股。之所以保留，是因为资金投向一家贷款业务机构，具有信贷与融资相关性。鉴于存在不确定性，已下调策略标签和重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.21,
+            "finalScore": 19.21,
             "semanticEnabled": true
           }
         },
@@ -181224,6 +181658,108 @@
               "finalScore": 10.51,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-11-67be46cff4be",
+            "title": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception - Yahoo",
+            "titleZh": "租赁业巨头及其所有者将支付4975万美元和解金，涉嫌欺诈指控 - Yahoo",
+            "summary": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+            "summaryZh": "租赁业巨头及其所有者将就欺诈指控支付4975万美元和解金 Yahoo",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFp0ODNFWHhCaEp6TTlkaTE5TjFvSjRwNmE5ZHpIeE1aSzFURWtRRldINzVmQ2EyYXhORkZoQXRleXpNeDJMV21Tel9NN09XRl9RZC1ueHRLeEFINXdhdkVaYnUyUUFiRUZiczZLZEYweVNnempFcmJNQUtfclRTZm1iY2dKb290?oc=5",
+            "source": "Yahoo",
+            "publishedAt": "2026-11-11",
+            "lede": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+            "articleExcerpt": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception - Yahoo. Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+            "contentFingerprint": "93e24519c3249bff",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "A $49.75M settlement by a large rental firm and its owner over deception allegations is legal/regulatory news, so it counts as a lawsuit event. The snippet names neither company. My guess is that it is Progress Residential and its owner Pretium, based on the 'rental firm giant, owner' framing, but this is unverified and the article should be checked. If it is Pretium, it falls under the tracked single-family-rental strategy. Importance is lowered from 1.0 because the GP identity is uncertain and the link to Pretium's credit exposure is indirect.",
+              "llmReasonZh": "一家大型租赁公司及其所有者就欺诈指控支付4975万美元和解金，属于法律/监管类新闻，因此计为诉讼事件。摘要片段未提及任何一家公司名称。根据“租赁业巨头及其所有者”的表述，推测可能是Progress Residential及其所有者Pretium，但此推测未经核实，需查阅原文确认。若确为Pretium，则属于所跟踪的独栋住宅租赁（single-family rental）策略范畴。由于GP身份不确定，且与Pretium信用敞口的关联较为间接，重要性评分从1.0下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.23
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 2.81,
+              "finalScore": 8.81,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [
@@ -181339,7 +181875,118 @@
             }
           }
         ],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-11-e9d857ce3986",
+            "title": "AI Data Centers and the New Compute of Politics, Power and Capex - Neuberger Berman",
+            "titleZh": "AI数据中心与政治、电力及资本开支的新算力 - Neuberger Berman",
+            "summary": "AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+            "summaryZh": "AI数据中心与政治、电力及资本开支的新算力 Neuberger Berman",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnBDREstc3VQV05MWXZjcWExUmt5SFowVEdVN01fcFA4QUVjRU1pUm1Takt6SWhrYW96UUR6NDEyLWNwTzVwZWs5c3JDaTV4MmpvcVVBcl83bXJ2SS1nQVUtMUlGWXk1S04xUXNVSzZhSGs2NFZoUExEc21pbXhfRGNOYmZTTkRkOFRVNWdqRUZ2RzJJc3c?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-11-11",
+            "lede": "AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+            "articleExcerpt": "AI Data Centers and the New Compute of Politics, Power and Capex - Neuberger Berman. AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+            "contentFingerprint": "10c392c76fa411bc",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "data-center",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "titleStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a Neuberger Berman thought-leadership piece on AI data centers, power and capex. The financing of AI and data-center capex could matter to credit investors, but the article text is only the title, so no credit activity is confirmed. It reports no transaction, lawsuit or fundraise, so it is kept at low importance as routine manager commentary.",
+              "llmReasonZh": "本文为Neuberger Berman发布的关于AI数据中心、电力及资本开支的观点性文章。AI及数据中心资本开支的融资问题可能与信用投资者相关，但文章正文仅有标题，因此无法确认任何信用相关活动。文章未报道任何交易、诉讼或募资事项，故作为常规管理人评论列为低重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.65,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.3
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Neuberger Berman"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 3.66,
+              "finalScore": 12.66,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [
           {
@@ -182919,6 +183566,108 @@
           }
         },
         {
+          "id": "2026-11-11-67be46cff4be",
+          "title": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception - Yahoo",
+          "titleZh": "租赁业巨头及其所有者将支付4975万美元和解金，涉嫌欺诈指控 - Yahoo",
+          "summary": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+          "summaryZh": "租赁业巨头及其所有者将就欺诈指控支付4975万美元和解金 Yahoo",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFp0ODNFWHhCaEp6TTlkaTE5TjFvSjRwNmE5ZHpIeE1aSzFURWtRRldINzVmQ2EyYXhORkZoQXRleXpNeDJMV21Tel9NN09XRl9RZC1ueHRLeEFINXdhdkVaYnUyUUFiRUZiczZLZEYweVNnempFcmJNQUtfclRTZm1iY2dKb290?oc=5",
+          "source": "Yahoo",
+          "publishedAt": "2026-11-11",
+          "lede": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+          "articleExcerpt": "Rental firm giant, owner to pay $49.75M settlement over allegations of deception - Yahoo. Rental firm giant, owner to pay $49.75M settlement over allegations of deception Yahoo",
+          "contentFingerprint": "93e24519c3249bff",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "A $49.75M settlement by a large rental firm and its owner over deception allegations is legal/regulatory news, so it counts as a lawsuit event. The snippet names neither company. My guess is that it is Progress Residential and its owner Pretium, based on the 'rental firm giant, owner' framing, but this is unverified and the article should be checked. If it is Pretium, it falls under the tracked single-family-rental strategy. Importance is lowered from 1.0 because the GP identity is uncertain and the link to Pretium's credit exposure is indirect.",
+            "llmReasonZh": "一家大型租赁公司及其所有者就欺诈指控支付4975万美元和解金，属于法律/监管类新闻，因此计为诉讼事件。摘要片段未提及任何一家公司名称。根据“租赁业巨头及其所有者”的表述，推测可能是Progress Residential及其所有者Pretium，但此推测未经核实，需查阅原文确认。若确为Pretium，则属于所跟踪的独栋住宅租赁（single-family rental）策略范畴。由于GP身份不确定，且与Pretium信用敞口的关联较为间接，重要性评分从1.0下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.23
+              },
+              "event": {
+                "value": 0.9,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 2.81,
+            "finalScore": 8.81,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-11-888d2ce9f643",
           "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
           "titleZh": "Pizza Hut拟通过10亿美元证券化为LongRange收购融资再融资",
@@ -183026,6 +183775,116 @@
             "keywordScore": 15,
             "semanticScore": 4.1,
             "finalScore": 19.1,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-11-e9d857ce3986",
+          "title": "AI Data Centers and the New Compute of Politics, Power and Capex - Neuberger Berman",
+          "titleZh": "AI数据中心与政治、电力及资本开支的新算力 - Neuberger Berman",
+          "summary": "AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+          "summaryZh": "AI数据中心与政治、电力及资本开支的新算力 Neuberger Berman",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnBDREstc3VQV05MWXZjcWExUmt5SFowVEdVN01fcFA4QUVjRU1pUm1Takt6SWhrYW96UUR6NDEyLWNwTzVwZWs5c3JDaTV4MmpvcVVBcl83bXJ2SS1nQVUtMUlGWXk1S04xUXNVSzZhSGs2NFZoUExEc21pbXhfRGNOYmZTTkRkOFRVNWdqRUZ2RzJJc3c?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-11-11",
+          "lede": "AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+          "articleExcerpt": "AI Data Centers and the New Compute of Politics, Power and Capex - Neuberger Berman. AI Data Centers and the New Compute of Politics, Power and Capex Neuberger Berman",
+          "contentFingerprint": "10c392c76fa411bc",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "data-center",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "titleStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a Neuberger Berman thought-leadership piece on AI data centers, power and capex. The financing of AI and data-center capex could matter to credit investors, but the article text is only the title, so no credit activity is confirmed. It reports no transaction, lawsuit or fundraise, so it is kept at low importance as routine manager commentary.",
+            "llmReasonZh": "本文为Neuberger Berman发布的关于AI数据中心、电力及资本开支的观点性文章。AI及数据中心资本开支的融资问题可能与信用投资者相关，但文章正文仅有标题，因此无法确认任何信用相关活动。文章未报道任何交易、诉讼或募资事项，故作为常规管理人评论列为低重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.65,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.3
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Neuberger Berman"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 3.66,
+            "finalScore": 12.66,
             "semanticEnabled": true
           }
         },
@@ -184686,6 +185545,109 @@
               "finalScore": 10.98,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-40c598566b5a",
+            "title": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+            "summary": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50bUI4czdjVHBlZmlOeThnV0xpdERRSklVVXZMNUhrSXpQT2oxZ1F3aTJCMlM1TG5McWdvMkE1VEFoNy1YV0kzUk52STMyQU15?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-12",
+            "lede": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "de71fa078fd4c914",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital Corp. is a KKR-affiliated BDC, which is credit exposure. The page is only a stock quote listing with no substantive news, so importance is low.",
+              "llmReasonZh": "FS KKR Capital Corp. 是一家与 KKR 关联的商业发展公司（BDC），涉及信贷敞口。该页面仅为股票报价列表，无实质性新闻内容，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.34,
+              "finalScore": 19.34,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -184900,7 +185862,100 @@
             }
           }
         ],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-12-b87bc9b24975",
+            "title": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing - Stock Traders Daily",
+            "titleZh": "Neuberger Berman High Yield Strategies Fund (NHS)如何影响轮动策略时机 - Stock Traders Daily",
+            "summary": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+            "summaryZh": "Neuberger Berman High Yield Strategies Fund (NHS)如何影响轮动策略时机 Stock Traders Daily",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY1dnTnB0aFppNHp5MndoYkxibU0zZVN1bFFPbW1WaEowbVhVYkI3U1JDczNDNmhWZXdmNEtab2FUeS12bnZUZ3pWUk5IZjN0MlVvWWFfZDRtZDZSQjhZeTRjSmVYcDRDd042ZFByaW9va2FFQVB3QUd3VG43a1dBYV8zZGJUbGRGOEtsamxiTlZ1RlFRV3dlOGFhdzdNbHdDV2c5SkxUVldWSFA3bUxJLXFHSnZ5eGxFU0FELVlINjBCTl9jTEhOZ29UODdLakhMa3NObWdCMDkzcXBaWVdCU1VNbURkSVd4eW80aUpfN0RvdXpWMmNfRw?oc=5",
+            "source": "Stock Traders Daily",
+            "publishedAt": "2026-11-12",
+            "lede": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+            "articleExcerpt": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing - Stock Traders Daily. How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+            "contentFingerprint": "68867ea9f9c37871",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock-trading commentary on Neuberger Berman's listed high-yield credit closed-end fund (NHS). It is credit-related, so it is not excluded, but it is only stock-price/technical analysis with no financing, fundraising or legal event, so importance is low. No tracked strategy keyword fits high-yield bonds.",
+              "llmReasonZh": "关于Neuberger Berman旗下上市高收益信贷封闭式基金(NHS)的股票交易评论。该文章与信贷相关，因此未被排除，但仅涉及股价/技术分析，不涉及融资、募资或法律事件，因此重要性较低。没有与高收益债券相匹配的跟踪策略关键词。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Stock Traders Daily"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.7,
+              "finalScore": 7.7,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [],
         "Blackstone": [
@@ -185762,6 +186817,112 @@
               "finalScore": 13.95,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-10233853606c",
+            "title": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet - Bloomberg.com",
+            "titleZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 - Bloomberg.com",
+            "summary": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+            "summaryZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWRLTDUxX3VYM0Rwc3FpUkFzM01kOWhYWmlaS1dmU1c0OUxKVlFQVTJ1X0NfZEtaTzZWT1Rlb21ROHg3NUIxUWI5b2pnN1NrYUF0UEEwMXNUQ0tXOXJxMFNZYlRKZVROc1VXNHU4aHJPMFdlbm02WWRXQnBlNzFGMW1MUkZWYzhwdURjbnRTTU9zYTNuQTM0engyc1NmMGF6NGdOUVB2NWRxM1pYbWxnNXJSQzQ?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-12",
+            "lede": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+            "articleExcerpt": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet - Bloomberg.com. How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+            "contentFingerprint": "315bda39446964b9",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "The article covers Apollo's large OpenAI-related bet made through its SoftBank relationship. Apollo's activity here is most likely credit or financing (for example, funding SoftBank's OpenAI commitment), which makes it a major AI-related private credit deal. The article text is only a headline, so the credit angle is inferred, not confirmed.",
+              "llmReasonZh": "该文章报道了Apollo通过与SoftBank的关系进行的一项与OpenAI相关的大规模押注。Apollo在此次交易中的角色很可能涉及信贷或融资（例如为SoftBank对OpenAI的出资承诺提供资金），因此这可能是一笔与AI相关的重大私募信贷交易。文章内容仅有标题，因此信贷角度系推断得出，尚未得到证实。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 81,
+              "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 5.29,
+              "finalScore": 17.29,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -186603,6 +187764,109 @@
           }
         },
         {
+          "id": "2026-11-12-40c598566b5a",
+          "title": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+          "summary": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "FS KKR Capital Corp. (FSK) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50bUI4czdjVHBlZmlOeThnV0xpdERRSklVVXZMNUhrSXpQT2oxZ1F3aTJCMlM1TG5McWdvMkE1VEFoNy1YV0kzUk52STMyQU15?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-12",
+          "lede": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History - Yahoo! Finance Canada. FS KKR Capital Corp. (FSK) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "de71fa078fd4c914",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital Corp. is a KKR-affiliated BDC, which is credit exposure. The page is only a stock quote listing with no substantive news, so importance is low.",
+            "llmReasonZh": "FS KKR Capital Corp. 是一家与 KKR 关联的商业发展公司（BDC），涉及信贷敞口。该页面仅为股票报价列表，无实质性新闻内容，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.34,
+            "finalScore": 19.34,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-94391086ac34",
           "title": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot",
           "titleZh": "集体诉讼指控Progress Residential广告月租金未包含强制性费用 - Claim Depot",
@@ -186805,6 +188069,98 @@
             "keywordScore": 6,
             "semanticScore": 5.0,
             "finalScore": 11.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-b87bc9b24975",
+          "title": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing - Stock Traders Daily",
+          "titleZh": "Neuberger Berman High Yield Strategies Fund (NHS)如何影响轮动策略时机 - Stock Traders Daily",
+          "summary": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+          "summaryZh": "Neuberger Berman High Yield Strategies Fund (NHS)如何影响轮动策略时机 Stock Traders Daily",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY1dnTnB0aFppNHp5MndoYkxibU0zZVN1bFFPbW1WaEowbVhVYkI3U1JDczNDNmhWZXdmNEtab2FUeS12bnZUZ3pWUk5IZjN0MlVvWWFfZDRtZDZSQjhZeTRjSmVYcDRDd042ZFByaW9va2FFQVB3QUd3VG43a1dBYV8zZGJUbGRGOEtsamxiTlZ1RlFRV3dlOGFhdzdNbHdDV2c5SkxUVldWSFA3bUxJLXFHSnZ5eGxFU0FELVlINjBCTl9jTEhOZ29UODdLakhMa3NObWdCMDkzcXBaWVdCU1VNbURkSVd4eW80aUpfN0RvdXpWMmNfRw?oc=5",
+          "source": "Stock Traders Daily",
+          "publishedAt": "2026-11-12",
+          "lede": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+          "articleExcerpt": "How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing - Stock Traders Daily. How Neuberger Berman High Yield Strategies Fund (NHS) Affects Rotational Strategy Timing Stock Traders Daily",
+          "contentFingerprint": "68867ea9f9c37871",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock-trading commentary on Neuberger Berman's listed high-yield credit closed-end fund (NHS). It is credit-related, so it is not excluded, but it is only stock-price/technical analysis with no financing, fundraising or legal event, so importance is low. No tracked strategy keyword fits high-yield bonds.",
+            "llmReasonZh": "关于Neuberger Berman旗下上市高收益信贷封闭式基金(NHS)的股票交易评论。该文章与信贷相关，因此未被排除，但仅涉及股价/技术分析，不涉及融资、募资或法律事件，因此重要性较低。没有与高收益债券相匹配的跟踪策略关键词。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Stock Traders Daily"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.7,
+            "finalScore": 7.7,
             "semanticEnabled": true
           }
         },
@@ -187666,6 +189022,112 @@
           }
         },
         {
+          "id": "2026-11-12-10233853606c",
+          "title": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet - Bloomberg.com",
+          "titleZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 - Bloomberg.com",
+          "summary": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+          "summaryZh": "Apollo如何借助与SoftBank的关系促成对OpenAI的空前押注 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWRLTDUxX3VYM0Rwc3FpUkFzM01kOWhYWmlaS1dmU1c0OUxKVlFQVTJ1X0NfZEtaTzZWT1Rlb21ROHg3NUIxUWI5b2pnN1NrYUF0UEEwMXNUQ0tXOXJxMFNZYlRKZVROc1VXNHU4aHJPMFdlbm02WWRXQnBlNzFGMW1MUkZWYzhwdURjbnRTTU9zYTNuQTM0engyc1NmMGF6NGdOUVB2NWRxM1pYbWxnNXJSQzQ?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-12",
+          "lede": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+          "articleExcerpt": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet - Bloomberg.com. How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet Bloomberg.com",
+          "contentFingerprint": "315bda39446964b9",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "The article covers Apollo's large OpenAI-related bet made through its SoftBank relationship. Apollo's activity here is most likely credit or financing (for example, funding SoftBank's OpenAI commitment), which makes it a major AI-related private credit deal. The article text is only a headline, so the credit angle is inferred, not confirmed.",
+            "llmReasonZh": "该文章报道了Apollo通过与SoftBank的关系进行的一项与OpenAI相关的大规模押注。Apollo在此次交易中的角色很可能涉及信贷或融资（例如为SoftBank对OpenAI的出资承诺提供资金），因此这可能是一笔与AI相关的重大私募信贷交易。文章内容仅有标题，因此信贷角度系推断得出，尚未得到证实。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 81,
+            "retrievedAt": "2026-11-12T23:00:47.036846+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 5.29,
+            "finalScore": 17.29,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-aadc48b2a949",
           "title": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International",
           "titleZh": "意大利私募债务与企业融资周报：Recordati、CVC、GBL、Banca CF+等最新动态 - BeBeez International",
@@ -187887,7 +189349,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 19,
+      "count": 17,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -187895,12 +189357,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 100,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -187908,7 +189370,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
@@ -187921,12 +189383,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 16,
+      "count": 17,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -187934,20 +189396,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 8,
-      "selected": 4,
+      "selected": 5,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
@@ -187960,20 +189422,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 10,
-      "selected": 0,
+      "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
@@ -187986,12 +189448,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 46,
+      "count": 36,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -187999,12 +189461,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 102,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -188012,12 +189474,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 24,
+      "count": 32,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -188025,25 +189487,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 10,
-      "selected": 1,
+      "count": 8,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -188051,20 +189513,20 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 18,
-      "selected": 1,
+      "count": 17,
+      "selected": 2,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
@@ -188077,12 +189539,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 635,
+      "count": 664,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -188099,9 +189561,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-12T17:25:27.947784+00:00",
+      "asOf": "2026-11-12T23:00:47.036846+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-12T17:25:27.947784+00:00"
+  "checkedAt": "2026-11-12T23:00:47.036846+00:00"
 }
