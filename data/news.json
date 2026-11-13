@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-13T04:21:56.224853+00:00",
+  "updatedAt": "2026-11-13T12:53:10.432847+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -10389,7 +10389,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The HSBC Ultra Short Term Fund is a credit-focused mutual fund offering exposure to high-quality, short-duration debt instruments — consistent with HSBC AM's credit and fixed-income capabilities; 'ultra short term' funds typically invest in money market instruments, commercial paper, and other senior secured short-term lending vehicles, falling under the broader private credit/direct lending umbrella in a liquid fund context.",
-            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的投资敞口，与HSBC AM的信用及固定收益能力相契合；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期贷款工具，在流动性基金的框架下归属于更广泛的私募信贷/直接贷款范畴。"
+            "llmReasonZh": "HSBC Ultra Short Term Fund是一只以信用为重点的共同基金，提供对高质量、短久期债务工具的敞口，与HSBC AM的信用及固定收益投资能力相符；“超短期”基金通常投资于货币市场工具、商业票据及其他优先担保短期借贷工具，在流动性基金框架下归属于更广泛的私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为核心的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -185646,6 +185646,114 @@
               "finalScore": 20.46,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-95a5f58dd899",
+            "title": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 - Moomoo",
+            "titleZh": "RBC Capital维持Blue Owl Capital(OBDC.US)“买入”评级，维持目标价$13 - Moomoo",
+            "summary": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+            "summaryZh": "RBC Capital维持Blue Owl Capital(OBDC.US)“买入”评级，维持目标价$13 Moomoo",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWV0YW04eEU5SlJzd1NxTVBBcUhySTcxUVRiRzdXdW1IWWJsVWluRHp6UG1TV0RRdENHbXFDR0Q5VlhmY1lCVXA4a3RINVhuVmlSUkpmNE9QY29pS3pULVBFZHIydFRlRVJrRHo5cXJuOThQZndDalE4WGRUazBoQ242c0w0eDAzQ0loMno2Vk0wZzhmam5QN3Iwd0FnOXUwVXhWOTljWmg?oc=5",
+            "source": "Moomoo",
+            "publishedAt": "2026-11-12",
+            "lede": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+            "articleExcerpt": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 - Moomoo. RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+            "contentFingerprint": "5fa38902c8192f57",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst rating note on Blue Owl Capital Corp (OBDC), Blue Owl's flagship BDC and a credit vehicle. It is stock/analyst commentary with no financing, fundraising or litigation event, so importance is low.",
+              "llmReasonZh": "关于Blue Owl Capital Corp (OBDC)的分析师评级报告，该公司是Blue Owl旗下旗舰BDC及信贷投资工具。本文属于股票/分析师评论，不涉及融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Moomoo"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.42,
+              "finalScore": 20.42,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -186250,6 +186358,114 @@
               "keywordScore": 6,
               "semanticScore": 3.0,
               "finalScore": 9.0,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-eb0b45558e05",
+            "title": "Progress Residential Pays $49.7M to Settle FTC Rental Case - Yahoo Finance",
+            "titleZh": "Progress Residential支付4970万美元和解FTC租赁案 - Yahoo Finance",
+            "summary": "Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+            "summaryZh": "Progress Residential支付4970万美元和解FTC租赁案 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzdCdlU5Y1RzX2kzVnRKM2JCNWZpeG1lRXBZbmVTM08tWGloVndXVHJaS3hJOE9mV1hFcURfanRLZFp0Uk9OV0djV1B1OWRmWDlmVDdaMHZMNUh6cmJRQ01iNHVRbkhkallTc2JPajV3cWtPUVYxWjJHang1VThYa2U0cE5vbTVkdU9JMVRZY0RJUjRnOTFUNw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+            "articleExcerpt": "Progress Residential Pays $49.7M to Settle FTC Rental Case - Yahoo Finance. Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+            "contentFingerprint": "4ad1f9999005f823",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit",
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Progress Residential is Pretium's single-family rental platform, which funds itself heavily through SFR securitizations. A $49.7M FTC settlement is regulatory enforcement against a tracked SFR operator, which is relevant to Pretium's SFR and credit exposure. The article does not name Pretium directly; the tag rests on known ownership.",
+              "llmReasonZh": "Progress Residential是Pretium旗下的单户租赁（SFR）平台，主要通过SFR证券化融资。此次4970万美元的FTC和解属于针对一家受跟踪SFR运营商的监管执法行动，与Pretium的SFR及信用敞口相关。文章未直接提及Pretium；该标签基于已知的所有权关系。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.52,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.33
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit",
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 3.97,
+              "finalScore": 17.97,
               "semanticEnabled": true
             }
           }
@@ -187193,6 +187409,104 @@
               "finalScore": 16.38,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-a54a029a0e6c",
+            "title": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance",
+            "titleZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 - Yahoo Finance",
+            "summary": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+            "summaryZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSC1tT0cxZFFLcFM5TzZvaDNyMGRSZHlEV3RHTk54WmJNcEZXQTVSLTdfNFViWDRTaEVZV2tza2JsNnRGRXJLR2tsS1FfLTAwRU1CeXh6cVFyX25PUHdVRk16T1BEVkRDUEc2OXl1TU83ZmEwWWxIeFZtT2NuUG14X3VHYXdFX25pZW5KU0pNVi1zZw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+            "articleExcerpt": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance. Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+            "contentFingerprint": "3f3a540126cd25e2",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is providing up to $1.5B in drug-development funding to Pfizer, which is a structured, royalty/milestone-style financing rather than a buyout. This kind of deal is often done through Blackstone Life Sciences, sometimes alongside Blackstone Credit. The article text is minimal, so it's unclear whether it's a credit or equity-like instrument, and no tracked strategy clearly applies. I included it as a borderline financing event with moderate importance.",
+              "llmReasonZh": "Blackstone将向Pfizer提供最高$1.5B的药物研发资金，属于结构化的特许权使用费/里程碑式融资，而非收购。此类交易通常通过Blackstone Life Sciences进行，有时与Blackstone Credit联合开展。文章内容有限，因此尚不清楚该工具属于信贷类还是类股权工具，且无明确适用的跟踪策略。作为一项边缘性融资事件纳入，重要性中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 13,
+              "semanticScore": 4.7,
+              "finalScore": 17.7,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -187941,6 +188255,116 @@
               "finalScore": 13.93,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-6c57ee485bab",
+            "title": "Apollo Fuels SoftBank's $65B OpenAI Bet - Briefs Finance",
+            "titleZh": "Apollo为SoftBank押注OpenAI的650亿美元投资提供资金 - Briefs Finance",
+            "summary": "Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+            "summaryZh": "Apollo为SoftBank押注OpenAI的650亿美元投资提供资金 Briefs Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkxqc1RQYnVvNER1YzBDRTNGeHljY05zZ1lIMHE1U3ZEUmhaY1ByaXZiMnN3SGg2QWtsTUFoSHB3VlMyci1ocGxEeWRHeFp4MVRqSVR3M1R4NGxGM1hkRV9BWm12VFBtdnRNR0tuTEhFUVpXQ0hDRnVlRFVUTkxVcTdpUHVRLWtBeEROY1pyQjliZw?oc=5",
+            "source": "Briefs Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+            "articleExcerpt": "Apollo Fuels SoftBank's $65B OpenAI Bet - Briefs Finance. Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+            "contentFingerprint": "5a945f5599ee8522",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "The headline says Apollo is providing capital ('fuels') for SoftBank's $65B investment in OpenAI. That most likely means Apollo credit or financing, such as a loan or structured facility backing SoftBank's position. This makes it a large AI-related financing deal. The article body is only the headline, so the exact terms are unconfirmed.",
+              "llmReasonZh": "标题称Apollo为SoftBank对OpenAI的650亿美元投资提供资金（“fuels”）。这很可能意味着Apollo提供信贷或融资，例如为SoftBank所持头寸提供支持的贷款或结构化融资安排。这使其成为一笔与AI相关的大型融资交易。文章正文仅有标题，因此具体条款尚未得到确认。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Briefs Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.88,
+              "finalScore": 22.88,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -188479,6 +188903,114 @@
             "keywordScore": 14,
             "semanticScore": 6.46,
             "finalScore": 20.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-95a5f58dd899",
+          "title": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 - Moomoo",
+          "titleZh": "RBC Capital维持Blue Owl Capital(OBDC.US)“买入”评级，维持目标价$13 - Moomoo",
+          "summary": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+          "summaryZh": "RBC Capital维持Blue Owl Capital(OBDC.US)“买入”评级，维持目标价$13 Moomoo",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWV0YW04eEU5SlJzd1NxTVBBcUhySTcxUVRiRzdXdW1IWWJsVWluRHp6UG1TV0RRdENHbXFDR0Q5VlhmY1lCVXA4a3RINVhuVmlSUkpmNE9QY29pS3pULVBFZHIydFRlRVJrRHo5cXJuOThQZndDalE4WGRUazBoQ242c0w0eDAzQ0loMno2Vk0wZzhmam5QN3Iwd0FnOXUwVXhWOTljWmg?oc=5",
+          "source": "Moomoo",
+          "publishedAt": "2026-11-12",
+          "lede": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+          "articleExcerpt": "RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 - Moomoo. RBC Capital Maintains Blue Owl Capital(OBDC.US) With Buy Rating, Maintains Target Price $13 Moomoo",
+          "contentFingerprint": "5fa38902c8192f57",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst rating note on Blue Owl Capital Corp (OBDC), Blue Owl's flagship BDC and a credit vehicle. It is stock/analyst commentary with no financing, fundraising or litigation event, so importance is low.",
+            "llmReasonZh": "关于Blue Owl Capital Corp (OBDC)的分析师评级报告，该公司是Blue Owl旗下旗舰BDC及信贷投资工具。本文属于股票/分析师评论，不涉及融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Moomoo"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.42,
+            "finalScore": 20.42,
             "semanticEnabled": true
           }
         },
@@ -189079,6 +189611,114 @@
             "keywordScore": 6,
             "semanticScore": 3.0,
             "finalScore": 9.0,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-eb0b45558e05",
+          "title": "Progress Residential Pays $49.7M to Settle FTC Rental Case - Yahoo Finance",
+          "titleZh": "Progress Residential支付4970万美元和解FTC租赁案 - Yahoo Finance",
+          "summary": "Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+          "summaryZh": "Progress Residential支付4970万美元和解FTC租赁案 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzdCdlU5Y1RzX2kzVnRKM2JCNWZpeG1lRXBZbmVTM08tWGloVndXVHJaS3hJOE9mV1hFcURfanRLZFp0Uk9OV0djV1B1OWRmWDlmVDdaMHZMNUh6cmJRQ01iNHVRbkhkallTc2JPajV3cWtPUVYxWjJHang1VThYa2U0cE5vbTVkdU9JMVRZY0RJUjRnOTFUNw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+          "articleExcerpt": "Progress Residential Pays $49.7M to Settle FTC Rental Case - Yahoo Finance. Progress Residential Pays $49.7M to Settle FTC Rental Case Yahoo Finance",
+          "contentFingerprint": "4ad1f9999005f823",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit",
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Progress Residential is Pretium's single-family rental platform, which funds itself heavily through SFR securitizations. A $49.7M FTC settlement is regulatory enforcement against a tracked SFR operator, which is relevant to Pretium's SFR and credit exposure. The article does not name Pretium directly; the tag rests on known ownership.",
+            "llmReasonZh": "Progress Residential是Pretium旗下的单户租赁（SFR）平台，主要通过SFR证券化融资。此次4970万美元的FTC和解属于针对一家受跟踪SFR运营商的监管执法行动，与Pretium的SFR及信用敞口相关。文章未直接提及Pretium；该标签基于已知的所有权关系。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.52,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.33
+              },
+              "event": {
+                "value": 0.93,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit",
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 3.97,
+            "finalScore": 17.97,
             "semanticEnabled": true
           }
         },
@@ -190015,6 +190655,104 @@
           }
         },
         {
+          "id": "2026-11-12-a54a029a0e6c",
+          "title": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance",
+          "titleZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 - Yahoo Finance",
+          "summary": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+          "summaryZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSC1tT0cxZFFLcFM5TzZvaDNyMGRSZHlEV3RHTk54WmJNcEZXQTVSLTdfNFViWDRTaEVZV2tza2JsNnRGRXJLR2tsS1FfLTAwRU1CeXh6cVFyX25PUHdVRk16T1BEVkRDUEc2OXl1TU83ZmEwWWxIeFZtT2NuUG14X3VHYXdFX25pZW5KU0pNVi1zZw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+          "articleExcerpt": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance. Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
+          "contentFingerprint": "3f3a540126cd25e2",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is providing up to $1.5B in drug-development funding to Pfizer, which is a structured, royalty/milestone-style financing rather than a buyout. This kind of deal is often done through Blackstone Life Sciences, sometimes alongside Blackstone Credit. The article text is minimal, so it's unclear whether it's a credit or equity-like instrument, and no tracked strategy clearly applies. I included it as a borderline financing event with moderate importance.",
+            "llmReasonZh": "Blackstone将向Pfizer提供最高$1.5B的药物研发资金，属于结构化的特许权使用费/里程碑式融资，而非收购。此类交易通常通过Blackstone Life Sciences进行，有时与Blackstone Credit联合开展。文章内容有限，因此尚不清楚该工具属于信贷类还是类股权工具，且无明确适用的跟踪策略。作为一项边缘性融资事件纳入，重要性中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 13,
+            "semanticScore": 4.7,
+            "finalScore": 17.7,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-271c6fb35d05",
           "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance",
           "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然稳健 - Yahoo Finance",
@@ -190761,6 +191499,116 @@
           }
         },
         {
+          "id": "2026-11-12-6c57ee485bab",
+          "title": "Apollo Fuels SoftBank's $65B OpenAI Bet - Briefs Finance",
+          "titleZh": "Apollo为SoftBank押注OpenAI的650亿美元投资提供资金 - Briefs Finance",
+          "summary": "Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+          "summaryZh": "Apollo为SoftBank押注OpenAI的650亿美元投资提供资金 Briefs Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkxqc1RQYnVvNER1YzBDRTNGeHljY05zZ1lIMHE1U3ZEUmhaY1ByaXZiMnN3SGg2QWtsTUFoSHB3VlMyci1ocGxEeWRHeFp4MVRqSVR3M1R4NGxGM1hkRV9BWm12VFBtdnRNR0tuTEhFUVpXQ0hDRnVlRFVUTkxVcTdpUHVRLWtBeEROY1pyQjliZw?oc=5",
+          "source": "Briefs Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+          "articleExcerpt": "Apollo Fuels SoftBank's $65B OpenAI Bet - Briefs Finance. Apollo Fuels SoftBank's $65B OpenAI Bet Briefs Finance",
+          "contentFingerprint": "5a945f5599ee8522",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "The headline says Apollo is providing capital ('fuels') for SoftBank's $65B investment in OpenAI. That most likely means Apollo credit or financing, such as a loan or structured facility backing SoftBank's position. This makes it a large AI-related financing deal. The article body is only the headline, so the exact terms are unconfirmed.",
+            "llmReasonZh": "标题称Apollo为SoftBank对OpenAI的650亿美元投资提供资金（“fuels”）。这很可能意味着Apollo提供信贷或融资，例如为SoftBank所持头寸提供支持的贷款或结构化融资安排。这使其成为一笔与AI相关的大型融资交易。文章正文仅有标题，因此具体条款尚未得到确认。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Briefs Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.88,
+            "finalScore": 22.88,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-aadc48b2a949",
           "title": "Italy’s private debt & corporate finance weekly round-up. News from Recordati, CVC, GBL, Banca CF+, and more - BeBeez International",
           "titleZh": "意大利私募债务与企业融资周报：Recordati、CVC、GBL、Banca CF+等最新动态 - BeBeez International",
@@ -190980,13 +191828,544 @@
     },
     "2026-11-13": {
       "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-13-8f1f8facb25c",
+            "title": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat",
+            "titleZh": "Blue Owl Capital (NYSE:OBDC) 股价跌破200日移动均线，是否该卖出？- MarketBeat",
+            "summary": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "summaryZh": "Blue Owl Capital (NYSE:OBDC) 股价跌破200日移动均线，是否该卖出？MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakhEcW1nRWVMbUpKWWpxUUMyQmc5WEkxbTE1RFVDZG9jNlk2ZDRZcDZNeERmQ3ZfZTktZHRVUWZjSWVrZjNGTi15Y3JLN29OcFl5X2JpOEhJdUZ2MVNHUDFEVk1maVpIcFdkLWplRDFnNDA5d3RGWGo2dmIwMTBvUjFsZGdFdVZ3TGs1NGdpRjhmRTB1OHlIbkRGRmMxYUFjdDhnM3R2OWl0V01sM1lCRzE3eXlIYXRUY2x2dGtIRXc0bjRKQkRrVURNT045aXAwZndvSlRZSzBLNE00cXpMOQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-13",
+            "lede": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "articleExcerpt": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat. Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "contentFingerprint": "00a8e8e8d48f9d3c",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's publicly traded BDC, so this is credit exposure. The article is only stock-price technical commentary (shares falling below the 200-day moving average), so importance is low.",
+              "llmReasonZh": "OBDC即Blue Owl Capital Corp，为Blue Owl旗下公开上市的BDC，因此涉及信贷敞口。该文章仅为股价技术面评论（股价跌破200日移动均线），因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.94,
+              "finalScore": 21.94,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-369f636ccb7b",
+            "title": "Blue Owl Technology Finance: Dividend Cut More Than Priced In - Seeking Alpha",
+            "titleZh": "Blue Owl Technology Finance：股价已过度反映股息削减 - Seeking Alpha",
+            "summary": "Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+            "summaryZh": "Blue Owl Technology Finance：股价已过度反映股息削减 Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTR4clpMR2VNN3FWRVBKQWozN2VLandFOGlvX1dsV2VxdkRMYWYtVUJUTzE3N25EZEpLYzRfUkxYb09NTldGRkZZSTN6SzB2aXdDb0MxYktOWl9HeFd6M1VxMjJtRS1OOFFhX1lrOFh6RzloZGpnMGhPbVczSkJBZkJJRHR3TkdQWkg0aGhiNkFyOThOSVRyUXl0emhxSzA2WDFn?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-13",
+            "lede": "Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+            "articleExcerpt": "Blue Owl Technology Finance: Dividend Cut More Than Priced In - Seeking Alpha. Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+            "contentFingerprint": "ee64f26aaa9c5ccf",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.35,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst commentary on Blue Owl Technology Finance (OTF), a Blue Owl BDC. This falls under private credit and is credit-relevant. The underlying dividend cut signals some stress, so importance is set somewhat above routine stock commentary. It is still opinion and valuation analysis, not a new financing, lawsuit or fundraising event.",
+              "llmReasonZh": "Seeking Alpha分析师对Blue Owl旗下BDC Blue Owl Technology Finance (OTF)的评论。该文章属于私募信贷范畴，与信贷相关。其背后的股息削减表明存在一定压力，因此重要性略高于常规股票评论。但该文章仍属观点及估值分析，并非新的融资、诉讼或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.22,
+              "finalScore": 20.22,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "KKR": [
+          {
+            "id": "2026-11-13-0acda8b0a7c3",
+            "title": "Advent seeks up to $500m in renewed Learning Lab sale",
+            "titleZh": "Advent重启The Learning Lab出售计划，寻求最高$500m",
+            "summary": "Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027.",
+            "summaryZh": "据彭博社报道，Advent International正寻求以$400m至$500m的价格出售总部位于新加坡的教育服务提供商The Learning Lab，这是其自2021年以来第二次尝试退出该业务。据报道，这家美国私募股权公司已聘请顾问负责此次出售，部分所得款项预计将用于偿还KKR、HPS Investment Partners和Nomura于2023年提供的SGD$265m私募信贷融资。该笔融资定于2027年到期。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/advent-seeks-up-to-500m-in-renewed-learning-lab-sale",
+            "source": "Google News",
+            "publishedAt": "2026-11-13",
+            "lede": "Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027. Advent acquired The Learning Lab in 2014 and is understood to own the business outright. The company provides educational services to preschool, primary, secondary and junior college students in Singapore, alongside online programmes serving markets including Malaysia, Vietnam, Thailand and Indonesia. The potential exit comes amid declining private equity investment in Asia's education sector. Private equity and venture capital investment in education services across the region fell 87% to $240m in 2025, according to S&P Global, reflecting greater selectivity among investors, concerns over artificial intelligence disruption and a growing backlog of private equity exits.",
+            "articleExcerpt": "Advent seeks up to $500m in renewed Learning Lab sale. Private Equity Wire | Advent seeks up to $500m in renewed Learning… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Advent seeks up to $500m in renewed Learning Lab sale November 13, 2026 at 9:58 am Share this article Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027. Advent acquired The Learning Lab in 2014 and is understood to own the business outright. The company provides educational services to preschool, primary, secondary and junior college students in Singapore, alongside online programmes serving markets including Malaysia, Vietnam,",
+            "contentFingerprint": "2e58d87c1ae0a37b",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Advent's planned sale of The Learning Lab would partly repay an SGD265m private credit facility that KKR (with HPS and Nomura) provided in 2023, due 2027. KKR's role is as a direct lender, so this is a credit angle. KKR is only a secondary mention, and the likely outcome is a repayment event for its credit book, so importance is moderate.",
+              "llmReasonZh": "Advent拟出售The Learning Lab，所得款项将部分用于偿还KKR（联合HPS和Nomura）于2023年提供、2027年到期的SGD265m私募信贷融资。KKR在其中担任直接贷款方，因此具有信贷相关性。KKR仅为次要提及对象，且可能结果是其信贷组合中的一笔还款事件，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.51,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.32
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 3.78,
+              "finalScore": 18.78,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-13-68f83b55f7bd",
+            "title": "Progress Residential must disclose full rental costs under $48.5 million settlement - The Cool Down",
+            "titleZh": "Progress Residential达成4850万美元和解，须披露完整租赁成本 - The Cool Down",
+            "summary": "Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+            "summaryZh": "根据4850万美元和解协议，Progress Residential须披露完整租赁成本 The Cool Down",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEpwdGlwS0dVei1ybjRjUkJGZEFfcjljY2RsdWhLclM4WHpoR1VRUEJFdi1uV2R6UDU4T0dZNThCUC0yQ2NGcE1EcTN6ellMcmdXWDVyOS1aMTJERDNiRE5pdlIzbTNxVnpOOXRmOUpZd0ZPX3NqUVBRaFpQSS14SmswbkVWOHdtbjZMdHAwcjJKcGRMWm5J?oc=5",
+            "source": "The Cool Down",
+            "publishedAt": "2026-11-13",
+            "lede": "Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+            "articleExcerpt": "Progress Residential must disclose full rental costs under $48.5 million settlement - The Cool Down. Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+            "contentFingerprint": "6116f99702bf791c",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Progress Residential is Pretium's single-family rental platform, though the article does not name Pretium. It is settling an FTC case over hidden rental fees for $48.5M and must now disclose full rental costs. Progress is a major issuer of SFR securitizations, so regulatory enforcement and fee-revenue limits matter to SFR credit investors. This is a credit angle, not just equity operating news.",
+              "llmReasonZh": "Progress Residential是Pretium旗下的单户住宅租赁平台，但文章未提及Pretium。该公司就美国联邦贸易委员会（FTC）指控其隐藏租赁费用一案以4850万美元达成和解，今后须披露完整租赁成本。Progress是单户住宅租赁（SFR）证券化产品的主要发行人，因此监管执法及费用收入受限对SFR信贷投资者具有重要意义。这是一个信贷角度的问题，而不仅是股权层面的经营新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.45,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.2
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Cool Down"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 74,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 2.45,
+              "finalScore": 16.45,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-13-eded4b60a6c2",
+            "title": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI - Neuberger Berman",
+            "titleZh": "Neuberger Berman《2026年下半年私募市场展望》：把握集中度、流动性与AI机遇",
+            "summary": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+            "summaryZh": "Neuberger Berman《2026年下半年私募市场展望》：把握集中度、流动性与AI机遇",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpDb1V2TE5zZENjNHQtNzdsYjJNbzJBR1NyY2ktWmxOXzVWcU9MbVpjOFYwN2s3UXJqdG8tQlN4azQ2UmVtRDNOOHZqX1o4a0FvT2VLSWZYd0wzV0huV2NXSmVDNmFPdVg2Q0pLUjlvNUROb084YmpPR1N1alFuZ0I2N0xMdEJtMkgycVVUQ1hvbnY5WHdVaTVoU0w0bGdvODluRU1ZUkRLVzd5THBBR1VUUGFfdUtUTElF?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-11-13",
+            "lede": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+            "articleExcerpt": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI - Neuberger Berman. Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+            "contentFingerprint": "85773ccd7b0b0efa",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.25,
+              "llmExclude": false,
+              "llmReason": "This is a Neuberger Berman private markets outlook piece covering concentration, liquidity and AI. Its private markets scope likely includes private credit, but the text available is only the title, so there is no clear credit-specific content. It is not clearly about a non-credit business, so it is not excluded. It is thought-leadership commentary with no transaction, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "这是一篇Neuberger Berman发布的私募市场展望文章，涵盖集中度、流动性和AI等主题。其私募市场范畴可能包括私募信贷，但可获取的文本仅有标题，因此没有明确的信贷相关内容。该文章并非明确涉及非信贷业务，因此未被排除。该文属于观点性评论，不涉及交易、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.69,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.23,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.25
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Neuberger Berman"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.53,
+              "finalScore": 10.530000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [
           {
@@ -191417,14 +192796,863 @@
               "finalScore": 17.29,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-078d320f17da",
+            "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ",
+            "titleZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 - WSJ",
+            "summary": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "summaryZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtIejc1NGpfcDh3cWxiZElWYmVqOTNYc3lZemtra2M4VnppMWFTSWh3YS1VeHFJZmQ0M3BlT01odFg5WEdfVUlMVHVzLUJqSTUwQ1VoS25OYmZDcVZUSVJYcmN5NFFXTWkyeVBCNzFlSFRQNUVrcnFfcjc0QjZyYV90eThBbWx2VlZWVnVVLTA5V3laMFIxRFRwclZMUTNnT2RxWFFweGpOekU?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-13",
+            "lede": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "articleExcerpt": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ. Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+            "contentFingerprint": "f3f354e558f81d95",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo's originations are primarily credit and lending activity. A record $114B in origination volume, with AI-related financing opportunities highlighted, is directly relevant to its private credit business. It reads as a business update on lending volume rather than a single deal, so it is scored as ordinary financing activity.",
+              "llmReasonZh": "Apollo的发起业务主要为信贷及放贷活动。创纪录的1140亿美元发起规模，加之文中强调的AI相关融资机遇，与其私募信贷业务直接相关。该文属于有关放贷规模的业务进展更新，而非单笔交易，因此被评为常规融资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 86,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.39,
+              "finalScore": 14.39,
+              "semanticEnabled": true
+            }
           }
         ],
-        "TPG": [],
-        "Golub": [],
+        "TPG": [
+          {
+            "id": "2026-11-13-01f2bc80b192",
+            "title": "TPG’s US residential credit fund secures $2bn in first close - IPE Real Assets",
+            "titleZh": "TPG美国住宅信贷基金完成首轮关账，募资$2bn - IPE Real Assets",
+            "summary": "TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+            "summaryZh": "TPG美国住宅信贷基金完成首轮关账，募资$2bn IPE Real Assets",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEhpb0VTOGJ5RVVxRlZqZDdzYWFtRHRoMmpTVFd2NG52SDg0Yy1fRWJ0ZW92Tzg3SnFLd1BHU0FvSDREbHo5T1FLYXpJeDVOQmV6cjh5anFzRUdGNllPZHlDQlVfMXNyT1otQWlOOFhoNkp1bjhMbjNmcVFUSUxHenFIWDhKZ0tybmYzV1djR2NkMjV1Tlc1bDFRSGVzcTNfNjJqeXJsTGI4SEE?oc=5",
+            "source": "IPE Real Assets",
+            "publishedAt": "2026-11-13",
+            "lede": "TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+            "articleExcerpt": "TPG’s US residential credit fund secures $2bn in first close - IPE Real Assets. TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+            "contentFingerprint": "65f768ebc08a10d6",
+            "region": "US",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "resi"
+            ],
+            "sectors": [
+              "resi"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "resi"
+              ],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "TPG's US residential credit fund held a $2bn first close. This is fundraising in TPG's credit business, so it fits the Resi Credit strategy. A first close matters but is less significant than a final close.",
+              "llmReasonZh": "TPG美国住宅信贷基金完成$2bn首轮关账。此事属于TPG信贷业务的募资动态，符合Resi Credit策略。首轮关账具有一定意义，但重要性不及最终关账。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.88,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "IPE Real Assets"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 83,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.79,
+              "finalScore": 21.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Golub": [
+          {
+            "id": "2026-11-13-6393e5c2e410",
+            "title": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October - Investing.com Canada",
+            "titleZh": "Golub Capital Private Credit Fund提交Form 4：David Golub（董事、首席执行官兼受托人），日期：1 October - Investing.com Canada",
+            "summary": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+            "summaryZh": "Golub Capital Private Credit Fund提交Form 4：David Golub（董事、首席执行官兼受托人），日期：1 October，来源：Investing.com Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa3lsUFRkZnJhYVpzbkJPX2l6NV9qMUJ2SER1eWhnYmZTSGItNUd4VThPQjhvM0xrUkl2bjJkY0FUb0RKeHJiX3pIaWt4WmlQQzJhaElIN05KMXNUZ2Y0MDg5OWEtNkIxSjg2V2g0M0U5MEZRZlpVTURxNlBYdXRTWENjVVFRVlJ0Ynlma2VBN2xHUkZHbVZrbU9QNkZpbDhDUUF0ZHlxanlMTWk3YVpBNmZxZTFnYVhGaEtZbjRxbmp0Z0RUMzJoY0ctakdMdXRPZTUzVmg2S0JWakhfaWtOZXM3QjBFYWs?oc=5",
+            "source": "Investing.com Canada",
+            "publishedAt": "2026-11-13",
+            "lede": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+            "articleExcerpt": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October - Investing.com Canada. Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+            "contentFingerprint": "1c356a3d3013fae7",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Routine SEC Form 4 insider-transaction filing by CEO David Golub for Golub Capital Private Credit Fund, a credit vehicle. It is credit-relevant, but it is only an administrative disclosure with no financing, fundraising or litigation event, so importance is low.",
+              "llmReasonZh": "此为Golub Capital Private Credit Fund首席执行官David Golub提交的例行SEC Form 4内部人交易申报，该基金为信贷投资工具。该文件与信贷相关，但仅属行政性披露，不涉及融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.6,
+              "finalScore": 20.6,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CVC": [],
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-13-8f1f8facb25c",
+          "title": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat",
+          "titleZh": "Blue Owl Capital (NYSE:OBDC) 股价跌破200日移动均线，是否该卖出？- MarketBeat",
+          "summary": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "summaryZh": "Blue Owl Capital (NYSE:OBDC) 股价跌破200日移动均线，是否该卖出？MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakhEcW1nRWVMbUpKWWpxUUMyQmc5WEkxbTE1RFVDZG9jNlk2ZDRZcDZNeERmQ3ZfZTktZHRVUWZjSWVrZjNGTi15Y3JLN29OcFl5X2JpOEhJdUZ2MVNHUDFEVk1maVpIcFdkLWplRDFnNDA5d3RGWGo2dmIwMTBvUjFsZGdFdVZ3TGs1NGdpRjhmRTB1OHlIbkRGRmMxYUFjdDhnM3R2OWl0V01sM1lCRzE3eXlIYXRUY2x2dGtIRXc0bjRKQkRrVURNT045aXAwZndvSlRZSzBLNE00cXpMOQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-13",
+          "lede": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "articleExcerpt": "Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat. Blue Owl Capital (NYSE:OBDC) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "contentFingerprint": "00a8e8e8d48f9d3c",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's publicly traded BDC, so this is credit exposure. The article is only stock-price technical commentary (shares falling below the 200-day moving average), so importance is low.",
+            "llmReasonZh": "OBDC即Blue Owl Capital Corp，为Blue Owl旗下公开上市的BDC，因此涉及信贷敞口。该文章仅为股价技术面评论（股价跌破200日移动均线），因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.94,
+            "finalScore": 21.94,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-369f636ccb7b",
+          "title": "Blue Owl Technology Finance: Dividend Cut More Than Priced In - Seeking Alpha",
+          "titleZh": "Blue Owl Technology Finance：股价已过度反映股息削减 - Seeking Alpha",
+          "summary": "Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+          "summaryZh": "Blue Owl Technology Finance：股价已过度反映股息削减 Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTR4clpMR2VNN3FWRVBKQWozN2VLandFOGlvX1dsV2VxdkRMYWYtVUJUTzE3N25EZEpLYzRfUkxYb09NTldGRkZZSTN6SzB2aXdDb0MxYktOWl9HeFd6M1VxMjJtRS1OOFFhX1lrOFh6RzloZGpnMGhPbVczSkJBZkJJRHR3TkdQWkg0aGhiNkFyOThOSVRyUXl0emhxSzA2WDFn?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-13",
+          "lede": "Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+          "articleExcerpt": "Blue Owl Technology Finance: Dividend Cut More Than Priced In - Seeking Alpha. Blue Owl Technology Finance: Dividend Cut More Than Priced In Seeking Alpha",
+          "contentFingerprint": "ee64f26aaa9c5ccf",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.35,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst commentary on Blue Owl Technology Finance (OTF), a Blue Owl BDC. This falls under private credit and is credit-relevant. The underlying dividend cut signals some stress, so importance is set somewhat above routine stock commentary. It is still opinion and valuation analysis, not a new financing, lawsuit or fundraising event.",
+            "llmReasonZh": "Seeking Alpha分析师对Blue Owl旗下BDC Blue Owl Technology Finance (OTF)的评论。该文章属于私募信贷范畴，与信贷相关。其背后的股息削减表明存在一定压力，因此重要性略高于常规股票评论。但该文章仍属观点及估值分析，并非新的融资、诉讼或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.22,
+            "finalScore": 20.22,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-0acda8b0a7c3",
+          "title": "Advent seeks up to $500m in renewed Learning Lab sale",
+          "titleZh": "Advent重启The Learning Lab出售计划，寻求最高$500m",
+          "summary": "Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027.",
+          "summaryZh": "据彭博社报道，Advent International正寻求以$400m至$500m的价格出售总部位于新加坡的教育服务提供商The Learning Lab，这是其自2021年以来第二次尝试退出该业务。据报道，这家美国私募股权公司已聘请顾问负责此次出售，部分所得款项预计将用于偿还KKR、HPS Investment Partners和Nomura于2023年提供的SGD$265m私募信贷融资。该笔融资定于2027年到期。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://privateequitywire.com/news/advent-seeks-up-to-500m-in-renewed-learning-lab-sale",
+          "source": "Google News",
+          "publishedAt": "2026-11-13",
+          "lede": "Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027. Advent acquired The Learning Lab in 2014 and is understood to own the business outright. The company provides educational services to preschool, primary, secondary and junior college students in Singapore, alongside online programmes serving markets including Malaysia, Vietnam, Thailand and Indonesia. The potential exit comes amid declining private equity investment in Asia's education sector. Private equity and venture capital investment in education services across the region fell 87% to $240m in 2025, according to S&P Global, reflecting greater selectivity among investors, concerns over artificial intelligence disruption and a growing backlog of private equity exits.",
+          "articleExcerpt": "Advent seeks up to $500m in renewed Learning Lab sale. Private Equity Wire | Advent seeks up to $500m in renewed Learning… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Advent seeks up to $500m in renewed Learning Lab sale November 13, 2026 at 9:58 am Share this article Advent International is seeking to sell Singapore-based education provider The Learning Lab for between $400m and $500m, marking its second attempt to exit the business since 2021, according to a report by Bloomberg. The US private equity firm has reportedly appointed an adviser to oversee the sale, with part of the proceeds expected to repay a SGD$265m private credit facility provided by KKR, HPS Investment Partners and Nomura in 2023. The financing is scheduled to mature in 2027. Advent acquired The Learning Lab in 2014 and is understood to own the business outright. The company provides educational services to preschool, primary, secondary and junior college students in Singapore, alongside online programmes serving markets including Malaysia, Vietnam,",
+          "contentFingerprint": "2e58d87c1ae0a37b",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Advent's planned sale of The Learning Lab would partly repay an SGD265m private credit facility that KKR (with HPS and Nomura) provided in 2023, due 2027. KKR's role is as a direct lender, so this is a credit angle. KKR is only a secondary mention, and the likely outcome is a repayment event for its credit book, so importance is moderate.",
+            "llmReasonZh": "Advent拟出售The Learning Lab，所得款项将部分用于偿还KKR（联合HPS和Nomura）于2023年提供、2027年到期的SGD265m私募信贷融资。KKR在其中担任直接贷款方，因此具有信贷相关性。KKR仅为次要提及对象，且可能结果是其信贷组合中的一笔还款事件，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.51,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.32
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 3.78,
+            "finalScore": 18.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-68f83b55f7bd",
+          "title": "Progress Residential must disclose full rental costs under $48.5 million settlement - The Cool Down",
+          "titleZh": "Progress Residential达成4850万美元和解，须披露完整租赁成本 - The Cool Down",
+          "summary": "Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+          "summaryZh": "根据4850万美元和解协议，Progress Residential须披露完整租赁成本 The Cool Down",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEpwdGlwS0dVei1ybjRjUkJGZEFfcjljY2RsdWhLclM4WHpoR1VRUEJFdi1uV2R6UDU4T0dZNThCUC0yQ2NGcE1EcTN6ellMcmdXWDVyOS1aMTJERDNiRE5pdlIzbTNxVnpOOXRmOUpZd0ZPX3NqUVBRaFpQSS14SmswbkVWOHdtbjZMdHAwcjJKcGRMWm5J?oc=5",
+          "source": "The Cool Down",
+          "publishedAt": "2026-11-13",
+          "lede": "Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+          "articleExcerpt": "Progress Residential must disclose full rental costs under $48.5 million settlement - The Cool Down. Progress Residential must disclose full rental costs under $48.5 million settlement The Cool Down",
+          "contentFingerprint": "6116f99702bf791c",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Progress Residential is Pretium's single-family rental platform, though the article does not name Pretium. It is settling an FTC case over hidden rental fees for $48.5M and must now disclose full rental costs. Progress is a major issuer of SFR securitizations, so regulatory enforcement and fee-revenue limits matter to SFR credit investors. This is a credit angle, not just equity operating news.",
+            "llmReasonZh": "Progress Residential是Pretium旗下的单户住宅租赁平台，但文章未提及Pretium。该公司就美国联邦贸易委员会（FTC）指控其隐藏租赁费用一案以4850万美元达成和解，今后须披露完整租赁成本。Progress是单户住宅租赁（SFR）证券化产品的主要发行人，因此监管执法及费用收入受限对SFR信贷投资者具有重要意义。这是一个信贷角度的问题，而不仅是股权层面的经营新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.45,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.2
+              },
+              "event": {
+                "value": 0.9,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Cool Down"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 74,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 2.45,
+            "finalScore": 16.45,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-eded4b60a6c2",
+          "title": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI - Neuberger Berman",
+          "titleZh": "Neuberger Berman《2026年下半年私募市场展望》：把握集中度、流动性与AI机遇",
+          "summary": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+          "summaryZh": "Neuberger Berman《2026年下半年私募市场展望》：把握集中度、流动性与AI机遇",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpDb1V2TE5zZENjNHQtNzdsYjJNbzJBR1NyY2ktWmxOXzVWcU9MbVpjOFYwN2s3UXJqdG8tQlN4azQ2UmVtRDNOOHZqX1o4a0FvT2VLSWZYd0wzV0huV2NXSmVDNmFPdVg2Q0pLUjlvNUROb084YmpPR1N1alFuZ0I2N0xMdEJtMkgycVVUQ1hvbnY5WHdVaTVoU0w0bGdvODluRU1ZUkRLVzd5THBBR1VUUGFfdUtUTElF?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-11-13",
+          "lede": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+          "articleExcerpt": "Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI - Neuberger Berman. Private Markets Perspectives 2H 2026: Capitalizing on Concentration, Liquidity and AI Neuberger Berman",
+          "contentFingerprint": "85773ccd7b0b0efa",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.25,
+            "llmExclude": false,
+            "llmReason": "This is a Neuberger Berman private markets outlook piece covering concentration, liquidity and AI. Its private markets scope likely includes private credit, but the text available is only the title, so there is no clear credit-specific content. It is not clearly about a non-credit business, so it is not excluded. It is thought-leadership commentary with no transaction, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "这是一篇Neuberger Berman发布的私募市场展望文章，涵盖集中度、流动性和AI等主题。其私募市场范畴可能包括私募信贷，但可获取的文本仅有标题，因此没有明确的信贷相关内容。该文章并非明确涉及非信贷业务，因此未被排除。该文属于观点性评论，不涉及交易、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.69,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.23,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.25
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Neuberger Berman"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.53,
+            "finalScore": 10.530000000000001,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-13-01882624a15e",
           "title": "Bain Capital Specialty Finance Is Trading For 68 Cents On The Dollar (Upgrade) - Seeking Alpha",
@@ -191849,6 +194077,326 @@
             "finalScore": 17.29,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-13-078d320f17da",
+          "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ",
+          "titleZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 - WSJ",
+          "summary": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "summaryZh": "Apollo发起规模创纪录达1140亿美元，AI领域机遇涌现 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtIejc1NGpfcDh3cWxiZElWYmVqOTNYc3lZemtra2M4VnppMWFTSWh3YS1VeHFJZmQ0M3BlT01odFg5WEdfVUlMVHVzLUJqSTUwQ1VoS25OYmZDcVZUSVJYcmN5NFFXTWkyeVBCNzFlSFRQNUVrcnFfcjc0QjZyYV90eThBbWx2VlZWVnVVLTA5V3laMFIxRFRwclZMUTNnT2RxWFFweGpOekU?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-13",
+          "lede": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "articleExcerpt": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ. Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI WSJ",
+          "contentFingerprint": "f3f354e558f81d95",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo's originations are primarily credit and lending activity. A record $114B in origination volume, with AI-related financing opportunities highlighted, is directly relevant to its private credit business. It reads as a business update on lending volume rather than a single deal, so it is scored as ordinary financing activity.",
+            "llmReasonZh": "Apollo的发起业务主要为信贷及放贷活动。创纪录的1140亿美元发起规模，加之文中强调的AI相关融资机遇，与其私募信贷业务直接相关。该文属于有关放贷规模的业务进展更新，而非单笔交易，因此被评为常规融资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 86,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.39,
+            "finalScore": 14.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-01f2bc80b192",
+          "title": "TPG’s US residential credit fund secures $2bn in first close - IPE Real Assets",
+          "titleZh": "TPG美国住宅信贷基金完成首轮关账，募资$2bn - IPE Real Assets",
+          "summary": "TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+          "summaryZh": "TPG美国住宅信贷基金完成首轮关账，募资$2bn IPE Real Assets",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEhpb0VTOGJ5RVVxRlZqZDdzYWFtRHRoMmpTVFd2NG52SDg0Yy1fRWJ0ZW92Tzg3SnFLd1BHU0FvSDREbHo5T1FLYXpJeDVOQmV6cjh5anFzRUdGNllPZHlDQlVfMXNyT1otQWlOOFhoNkp1bjhMbjNmcVFUSUxHenFIWDhKZ0tybmYzV1djR2NkMjV1Tlc1bDFRSGVzcTNfNjJqeXJsTGI4SEE?oc=5",
+          "source": "IPE Real Assets",
+          "publishedAt": "2026-11-13",
+          "lede": "TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+          "articleExcerpt": "TPG’s US residential credit fund secures $2bn in first close - IPE Real Assets. TPG’s US residential credit fund secures $2bn in first close IPE Real Assets",
+          "contentFingerprint": "65f768ebc08a10d6",
+          "region": "US",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "resi"
+          ],
+          "sectors": [
+            "resi"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "resi"
+            ],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "TPG's US residential credit fund held a $2bn first close. This is fundraising in TPG's credit business, so it fits the Resi Credit strategy. A first close matters but is less significant than a final close.",
+            "llmReasonZh": "TPG美国住宅信贷基金完成$2bn首轮关账。此事属于TPG信贷业务的募资动态，符合Resi Credit策略。首轮关账具有一定意义，但重要性不及最终关账。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.88,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "IPE Real Assets"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 83,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.79,
+            "finalScore": 21.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-6393e5c2e410",
+          "title": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October - Investing.com Canada",
+          "titleZh": "Golub Capital Private Credit Fund提交Form 4：David Golub（董事、首席执行官兼受托人），日期：1 October - Investing.com Canada",
+          "summary": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+          "summaryZh": "Golub Capital Private Credit Fund提交Form 4：David Golub（董事、首席执行官兼受托人），日期：1 October，来源：Investing.com Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa3lsUFRkZnJhYVpzbkJPX2l6NV9qMUJ2SER1eWhnYmZTSGItNUd4VThPQjhvM0xrUkl2bjJkY0FUb0RKeHJiX3pIaWt4WmlQQzJhaElIN05KMXNUZ2Y0MDg5OWEtNkIxSjg2V2g0M0U5MEZRZlpVTURxNlBYdXRTWENjVVFRVlJ0Ynlma2VBN2xHUkZHbVZrbU9QNkZpbDhDUUF0ZHlxanlMTWk3YVpBNmZxZTFnYVhGaEtZbjRxbmp0Z0RUMzJoY0ctakdMdXRPZTUzVmg2S0JWakhfaWtOZXM3QjBFYWs?oc=5",
+          "source": "Investing.com Canada",
+          "publishedAt": "2026-11-13",
+          "lede": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+          "articleExcerpt": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October - Investing.com Canada. Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October Investing.com Canada",
+          "contentFingerprint": "1c356a3d3013fae7",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Routine SEC Form 4 insider-transaction filing by CEO David Golub for Golub Capital Private Credit Fund, a credit vehicle. It is credit-relevant, but it is only an administrative disclosure with no financing, fundraising or litigation event, so importance is low.",
+            "llmReasonZh": "此为Golub Capital Private Credit Fund首席执行官David Golub提交的例行SEC Form 4内部人交易申报，该基金为信贷投资工具。该文件与信贷相关，但仅属行政性披露，不涉及融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.6,
+            "finalScore": 20.6,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -191856,28 +194404,28 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 16,
-      "selected": 5,
+      "count": 15,
+      "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
       "queries": [
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 101,
-      "selected": 5,
+      "selected": 4,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
@@ -191890,12 +194438,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 17,
+      "count": 15,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -191903,20 +194451,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 6,
-      "selected": 3,
+      "count": 8,
+      "selected": 5,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
@@ -191929,20 +194477,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 10,
-      "selected": 3,
+      "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
@@ -191955,12 +194503,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 33,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -191968,7 +194516,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
@@ -191981,12 +194529,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 33,
+      "count": 36,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -191994,51 +194542,51 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 9,
-      "selected": 0,
+      "count": 8,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
       "count": 4,
-      "selected": 0,
+      "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 18,
-      "selected": 2,
+      "count": 17,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 26,
+      "count": 25,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -192046,12 +194594,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 656,
+      "count": 639,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -192068,9 +194616,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-13T03:13:23.996626+00:00",
+      "asOf": "2026-11-13T11:45:40.639295+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-13T03:13:23.996626+00:00"
+  "checkedAt": "2026-11-13T11:45:40.639295+00:00"
 }
