@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-14T15:34:57.888211+00:00",
+  "updatedAt": "2026-11-14T20:35:16.962430+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为核心的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受托管理的信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -187913,6 +187913,106 @@
               "finalScore": 20.7,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-4f3cc54c7ba8",
+            "title": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market - Yahoo Finance",
+            "titleZh": "Blackstone争夺1万亿美元市场，积极拉拢迪拜富豪 - Yahoo Finance",
+            "summary": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+            "summaryZh": "Blackstone积极拉拢迪拜富豪，争夺1万亿美元市场 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVVxczJ6X1ZyUlNmRVI1MW82NGxfY01lOTJVcG9PNjZPZW9JSGxMSDdjSjlvdFZKRFBqd1Jsb0FLUndqVUFOWTZJX3BzeFlJMjZVT1RWd2VEeDZrMzlMa0JkWHJkLXJKRkxhYU9kbkNPbWdyamZ2cnRvTU9YVk1CRV9pTVJpNkVLVnBIMkNNQ3RDYmp5dG5zajVZMVR0Wjg?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-12",
+            "lede": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+            "articleExcerpt": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market - Yahoo Finance. Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+            "contentFingerprint": "badb9ffebe7e332d",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "fundraising"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Blackstone is courting wealthy Dubai investors, part of its push to raise capital from private wealth channels. That push typically includes credit vehicles such as BCRED, so the item is kept, but with low importance. The text names no specific credit strategy, fund close or transaction, so no strategy is tagged.",
+              "llmReasonZh": "Blackstone正积极拉拢迪拜富裕投资者，这是其从私人财富渠道募集资金举措的一部分。该举措通常涵盖BCRED等信贷产品，因此保留此条目，但重要性较低。文中未提及具体的信贷策略、基金募集完成或交易，因此未标注策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.45,
+              "finalScore": 15.45,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -191477,6 +191577,106 @@
           }
         },
         {
+          "id": "2026-11-12-4f3cc54c7ba8",
+          "title": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market - Yahoo Finance",
+          "titleZh": "Blackstone争夺1万亿美元市场，积极拉拢迪拜富豪 - Yahoo Finance",
+          "summary": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+          "summaryZh": "Blackstone积极拉拢迪拜富豪，争夺1万亿美元市场 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVVxczJ6X1ZyUlNmRVI1MW82NGxfY01lOTJVcG9PNjZPZW9JSGxMSDdjSjlvdFZKRFBqd1Jsb0FLUndqVUFOWTZJX3BzeFlJMjZVT1RWd2VEeDZrMzlMa0JkWHJkLXJKRkxhYU9kbkNPbWdyamZ2cnRvTU9YVk1CRV9pTVJpNkVLVnBIMkNNQ3RDYmp5dG5zajVZMVR0Wjg?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-12",
+          "lede": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+          "articleExcerpt": "Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market - Yahoo Finance. Blackstone Courts Dubai’s Rich in Race to Tap $1 Trillion Market Yahoo Finance",
+          "contentFingerprint": "badb9ffebe7e332d",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "fundraising"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Blackstone is courting wealthy Dubai investors, part of its push to raise capital from private wealth channels. That push typically includes credit vehicles such as BCRED, so the item is kept, but with low importance. The text names no specific credit strategy, fund close or transaction, so no strategy is tagged.",
+            "llmReasonZh": "Blackstone正积极拉拢迪拜富裕投资者，这是其从私人财富渠道募集资金举措的一部分。该举措通常涵盖BCRED等信贷产品，因此保留此条目，但重要性较低。文中未提及具体的信贷策略、基金募集完成或交易，因此未标注策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.6,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.45,
+            "finalScore": 15.45,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-271c6fb35d05",
           "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - Yahoo Finance",
           "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然稳健 - Yahoo Finance",
@@ -193833,9 +194033,9 @@
           {
             "id": "2026-11-13-8ee4c3583abd",
             "title": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com",
-            "titleZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 - www.marketscreener.com",
+            "titleZh": "贝恩资本退出后，New World Development考虑进行最多HK$25 billion的供股 - www.marketscreener.com",
             "summary": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
-            "summaryZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 www.marketscreener.com",
+            "summaryZh": "贝恩资本退出后，New World Development考虑进行最多HK$25 billion的供股 www.marketscreener.com",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0NsSnh0eFRwUnRmeGt4YVhYZU8tTHBzTWpGVGZMS0lXLTh2RmxxcThWZXpYd19UR2VvWFd6OFlRdzAxNXhaaXRPMEJ2UTdrWlUtX3NGTUItcmVqd2ZLT2JfX1gzb0I4eWdINmRmV1NHTnp5TktDYjNsX2RGOGxCRnBSSldpbDN0cXVvN2JVdXAtS0xVdnRQdVk2TWVkMm1yVVB0VzJOdUZHME43eTlxMmthSTRXaHhkbFBScTFid1NoRkZhY21Xb0t3V2RYUDgwd2lTRQ?oc=5",
             "source": "www.marketscreener.com",
@@ -193848,12 +194048,16 @@
               "Bain Capital"
             ],
             "strategies": [
+              "private-credit",
               "cre"
             ],
             "sectors": [
+              "private-credit",
               "cre"
             ],
-            "events": [],
+            "events": [
+              "financing"
+            ],
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
@@ -193869,13 +194073,16 @@
               "keywordStrategies": [],
               "titleStrategies": [],
               "llmStrategies": [
+                "private-credit",
                 "cre"
               ],
-              "llmEvents": [],
-              "llmImportance": 0.5,
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
               "llmExclude": false,
-              "llmReason": "New World Development, a stressed Hong Kong property developer, is weighing a rights issue of up to HK$25B after Bain Capital pulled out. The tag is provisional because the article text gives no detail. Bain's role was likely a capital or financing solution for a distressed commercial real estate borrower, which makes it credit-relevant. The rights issue itself is equity, and there is no completed financing event, so importance is moderate. Confirm Bain's role (credit or financing versus a stake purchase or privatization); if it was purely an equity deal, the article should be excluded.",
-              "llmReasonZh": "New World Development是一家陷入困境的香港房地产开发商，在Bain Capital退出后，正考虑进行最高HK$25B的供股。由于文章正文未提供细节，该标签为暂定。Bain的角色可能是为一家陷入困境的商业地产借款人提供资本或融资解决方案，因此与信贷相关。供股本身属于股权融资，且尚无已完成的融资事件，因此重要性为中等。需确认Bain的角色（信贷或融资，还是入股或私有化）；如果纯属股权交易，则应剔除该文章。"
+              "llmReason": "Bain Capital has reportedly walked away from a proposed financing or capital deal with New World Development, a distressed Hong Kong property developer, which is now weighing a rights issue of up to HK$25bn instead. A credit investor should care because Bain's credit and special-situations activity is involved and the borrower is a stressed commercial real estate name. The article text is only a headline, so the nature of Bain's role is inferred.",
+              "llmReasonZh": "据报道，贝恩资本已退出与陷入困境的香港房地产开发商New World Development拟议的一项融资或资本交易，该公司目前转而考虑进行最多HK$25bn的供股。信贷投资者应予关注，因为此事涉及贝恩资本的信贷及特殊机会投资业务，且借款人为承压的商业地产发行人。该文章仅有标题，因此贝恩资本所扮演的角色系推断得出。"
             },
             "rating": {
               "parts": {
@@ -193891,16 +194098,19 @@
                   "code": "llm_strategy",
                   "tagValue": 0.7,
                   "strategies": [
+                    "private-credit",
                     "cre"
                   ],
                   "semanticValue": 0.37
                 },
                 "event": {
-                  "value": 0.72,
+                  "value": 0.82,
                   "code": "major_signal",
                   "ruleValue": 0.95,
-                  "events": [],
-                  "llmValue": 0.5
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
                 },
                 "source": {
                   "value": 0.35,
@@ -193908,9 +194118,9 @@
                   "source": "www.marketscreener.com"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.5
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
                 }
               },
               "weights": {
@@ -193921,12 +194131,12 @@
                 "freshness": 15
               },
               "score": 70,
-              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+              "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 6,
+              "keywordScore": 9,
               "semanticScore": 4.41,
-              "finalScore": 10.41,
+              "finalScore": 13.41,
               "semanticEnabled": true
             }
           },
@@ -194038,6 +194248,112 @@
               "keywordScore": 17,
               "semanticScore": 5.48,
               "finalScore": 22.48,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-d7a0c409cfa4",
+            "title": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - Moomoo",
+            "titleZh": "市场传闻：贝恩资本退出后，新世界发展考虑进行至多HK$25 Billion供股",
+            "summary": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+            "summaryZh": "市场传闻：贝恩资本退出后，新世界发展考虑进行至多HK$25 Billion供股 Moomoo",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHE3MVdrQ0RBaVpFazFidTRmUE90Z2d5b01keU5mX3d5eXRkb1ExM1NuLWRwMURSS1I3M1lJQWJXejdNWnoxRGpINVI3cWFaVGxvNDZzaGNNbldBS09ucVZTVWhUVHdyOS1LLThZeXdia3djejlWQldtUmZXdXpTRG8yYU1CMEtTMlMybFM1RFpaQ2R2akpDS2hnSHRWZkVu?oc=5",
+            "source": "Moomoo",
+            "publishedAt": "2026-11-13",
+            "lede": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+            "articleExcerpt": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - Moomoo. Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+            "contentFingerprint": "7964dc6e229d7ea5",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.45,
+              "llmExclude": false,
+              "llmReason": "Unconfirmed market chatter that New World Development, a distressed Hong Kong property developer, is weighing an equity rights issue of up to HK$25bn after Bain Capital withdrew from a proposed capital or financing deal. Bain's talks with the developer were reportedly a special-situations or credit-style deal, which gives a plausible credit angle, though the article does not confirm this. The rights issue itself is an equity raise and Bain is no longer involved, so relevance is moderate.",
+              "llmReasonZh": "未经证实的市场传闻称，陷入困境的香港房地产开发商新世界发展在贝恩资本退出一项拟议的注资或融资交易后，正考虑进行至多HK$25bn的供股。据报道，贝恩与该开发商的谈判属于特殊机会或信贷类交易，因此具有一定的信贷相关性，但文章并未证实这一点。供股本身属于股权融资，且贝恩已不再参与，因此相关性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.45
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Moomoo"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.59,
+              "finalScore": 10.59,
               "semanticEnabled": true
             }
           }
@@ -194344,6 +194660,104 @@
               "keywordScore": 11,
               "semanticScore": 5.69,
               "finalScore": 16.69,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-b07db0a17396",
+            "title": "Blackstone lines up $200 million loan to refinance ASK credit line - The Economic Times",
+            "titleZh": "Blackstone筹备2亿美元贷款，用于再融资ASK信贷额度 - The Economic Times",
+            "summary": "Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+            "summaryZh": "Blackstone筹备2亿美元贷款，用于再融资ASK信贷额度 The Economic Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYXhlZlJWaGxTZGZCT0tfMmNxakNzSUV4WmpZdGx2dTFiZEprbDBlellVSGxLamp6clhrU01DWVNSZHVzZXF1M3g1WWE2VDBHX183UUo1RVJ1WC01Q1ZSQncwOWxvSWJSNC1vXzY1RmFtVVB1eGYzbDBsdUlHN1MtMEFPM3g4ZGRRNUhnWDZjX2JMRkZBTzlYVlpycERQZXYwcTFDdEZibVpYVEJjbXA5NV9YNU9HZ3RvU2NoOWJ3NVhyMS1yRUpRZUFBQV9NaTczRXVBRkd30gHbAUFVX3lxTE9mY1llVWdSdEtDNHplaFJtdkFpVjVuOGhua19JbS1LeGNnRm9YaUVhcnphYk9qb0w3RmdmTC1SX3FnM0hSOVkyZlZjVm5yZExIQ2t3bHRETnI2UFJ6bTFPZUh5alNiSzY4ZXJ2bjhjbm4yZzR5SktVaVVabmM1d0RMemNkSXJ1cGE4NFpFakZLMFkwQUl6SUhZbklrVVZtdlNLcnNjbDk5YnVmLTRDUF9aRHYwdnI0YzZ0NTZtTlptY1dVT216VWgwRWs0OU45NV9XZDBfZUdoNS14NA?oc=5",
+            "source": "The Economic Times",
+            "publishedAt": "2026-11-13",
+            "lede": "Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+            "articleExcerpt": "Blackstone lines up $200 million loan to refinance ASK credit line - The Economic Times. Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+            "contentFingerprint": "92c2f963034c1f2e",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.55,
+              "llmExclude": false,
+              "llmReason": "Blackstone is arranging a $200M loan to refinance the credit line tied to its acquisition of ASK Asset & Wealth Management. The underlying asset is a private equity holding, but the article is specifically about debt financing, so it is kept as a financing event. No tracked strategy clearly applies, and importance is set slightly below ordinary financing because this is Blackstone borrowing on the PE side rather than its credit business lending.",
+              "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于再融资与其收购ASK Asset & Wealth Management相关的信贷额度。标的资产为私募股权持仓，但本文专门涉及债务融资，因此归类为融资事件。目前没有明确适用的跟踪策略；由于此次是Blackstone私募股权业务端借款，而非其信贷业务放贷，重要性设定略低于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.62,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.55
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Economic Times"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.09,
+              "finalScore": 16.09,
               "semanticEnabled": true
             }
           }
@@ -196243,9 +196657,9 @@
         {
           "id": "2026-11-13-8ee4c3583abd",
           "title": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com",
-          "titleZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 - www.marketscreener.com",
+          "titleZh": "贝恩资本退出后，New World Development考虑进行最多HK$25 billion的供股 - www.marketscreener.com",
           "summary": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
-          "summaryZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 www.marketscreener.com",
+          "summaryZh": "贝恩资本退出后，New World Development考虑进行最多HK$25 billion的供股 www.marketscreener.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0NsSnh0eFRwUnRmeGt4YVhYZU8tTHBzTWpGVGZMS0lXLTh2RmxxcThWZXpYd19UR2VvWFd6OFlRdzAxNXhaaXRPMEJ2UTdrWlUtX3NGTUItcmVqd2ZLT2JfX1gzb0I4eWdINmRmV1NHTnp5TktDYjNsX2RGOGxCRnBSSldpbDN0cXVvN2JVdXAtS0xVdnRQdVk2TWVkMm1yVVB0VzJOdUZHME43eTlxMmthSTRXaHhkbFBScTFid1NoRkZhY21Xb0t3V2RYUDgwd2lTRQ?oc=5",
           "source": "www.marketscreener.com",
@@ -196258,12 +196672,16 @@
             "Bain Capital"
           ],
           "strategies": [
+            "private-credit",
             "cre"
           ],
           "sectors": [
+            "private-credit",
             "cre"
           ],
-          "events": [],
+          "events": [
+            "financing"
+          ],
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
@@ -196279,13 +196697,16 @@
             "keywordStrategies": [],
             "titleStrategies": [],
             "llmStrategies": [
+              "private-credit",
               "cre"
             ],
-            "llmEvents": [],
-            "llmImportance": 0.5,
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
             "llmExclude": false,
-            "llmReason": "New World Development, a stressed Hong Kong property developer, is weighing a rights issue of up to HK$25B after Bain Capital pulled out. The tag is provisional because the article text gives no detail. Bain's role was likely a capital or financing solution for a distressed commercial real estate borrower, which makes it credit-relevant. The rights issue itself is equity, and there is no completed financing event, so importance is moderate. Confirm Bain's role (credit or financing versus a stake purchase or privatization); if it was purely an equity deal, the article should be excluded.",
-            "llmReasonZh": "New World Development是一家陷入困境的香港房地产开发商，在Bain Capital退出后，正考虑进行最高HK$25B的供股。由于文章正文未提供细节，该标签为暂定。Bain的角色可能是为一家陷入困境的商业地产借款人提供资本或融资解决方案，因此与信贷相关。供股本身属于股权融资，且尚无已完成的融资事件，因此重要性为中等。需确认Bain的角色（信贷或融资，还是入股或私有化）；如果纯属股权交易，则应剔除该文章。"
+            "llmReason": "Bain Capital has reportedly walked away from a proposed financing or capital deal with New World Development, a distressed Hong Kong property developer, which is now weighing a rights issue of up to HK$25bn instead. A credit investor should care because Bain's credit and special-situations activity is involved and the borrower is a stressed commercial real estate name. The article text is only a headline, so the nature of Bain's role is inferred.",
+            "llmReasonZh": "据报道，贝恩资本已退出与陷入困境的香港房地产开发商New World Development拟议的一项融资或资本交易，该公司目前转而考虑进行最多HK$25bn的供股。信贷投资者应予关注，因为此事涉及贝恩资本的信贷及特殊机会投资业务，且借款人为承压的商业地产发行人。该文章仅有标题，因此贝恩资本所扮演的角色系推断得出。"
           },
           "rating": {
             "parts": {
@@ -196301,16 +196722,19 @@
                 "code": "llm_strategy",
                 "tagValue": 0.7,
                 "strategies": [
+                  "private-credit",
                   "cre"
                 ],
                 "semanticValue": 0.37
               },
               "event": {
-                "value": 0.72,
+                "value": 0.82,
                 "code": "major_signal",
                 "ruleValue": 0.95,
-                "events": [],
-                "llmValue": 0.5
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
               },
               "source": {
                 "value": 0.35,
@@ -196318,9 +196742,9 @@
                 "source": "www.marketscreener.com"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.5
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
               }
             },
             "weights": {
@@ -196331,12 +196755,12 @@
               "freshness": 15
             },
             "score": 70,
-            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 6,
+            "keywordScore": 9,
             "semanticScore": 4.41,
-            "finalScore": 10.41,
+            "finalScore": 13.41,
             "semanticEnabled": true
           }
         },
@@ -196448,6 +196872,112 @@
             "keywordScore": 17,
             "semanticScore": 5.48,
             "finalScore": 22.48,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-d7a0c409cfa4",
+          "title": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - Moomoo",
+          "titleZh": "市场传闻：贝恩资本退出后，新世界发展考虑进行至多HK$25 Billion供股",
+          "summary": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+          "summaryZh": "市场传闻：贝恩资本退出后，新世界发展考虑进行至多HK$25 Billion供股 Moomoo",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHE3MVdrQ0RBaVpFazFidTRmUE90Z2d5b01keU5mX3d5eXRkb1ExM1NuLWRwMURSS1I3M1lJQWJXejdNWnoxRGpINVI3cWFaVGxvNDZzaGNNbldBS09ucVZTVWhUVHdyOS1LLThZeXdia3djejlWQldtUmZXdXpTRG8yYU1CMEtTMlMybFM1RFpaQ2R2akpDS2hnSHRWZkVu?oc=5",
+          "source": "Moomoo",
+          "publishedAt": "2026-11-13",
+          "lede": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+          "articleExcerpt": "Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - Moomoo. Market Chatter: New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit Moomoo",
+          "contentFingerprint": "7964dc6e229d7ea5",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.45,
+            "llmExclude": false,
+            "llmReason": "Unconfirmed market chatter that New World Development, a distressed Hong Kong property developer, is weighing an equity rights issue of up to HK$25bn after Bain Capital withdrew from a proposed capital or financing deal. Bain's talks with the developer were reportedly a special-situations or credit-style deal, which gives a plausible credit angle, though the article does not confirm this. The rights issue itself is an equity raise and Bain is no longer involved, so relevance is moderate.",
+            "llmReasonZh": "未经证实的市场传闻称，陷入困境的香港房地产开发商新世界发展在贝恩资本退出一项拟议的注资或融资交易后，正考虑进行至多HK$25bn的供股。据报道，贝恩与该开发商的谈判属于特殊机会或信贷类交易，因此具有一定的信贷相关性，但文章并未证实这一点。供股本身属于股权融资，且贝恩已不再参与，因此相关性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.7,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.45
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Moomoo"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.59,
+            "finalScore": 10.59,
             "semanticEnabled": true
           }
         },
@@ -196752,6 +197282,104 @@
             "keywordScore": 11,
             "semanticScore": 5.69,
             "finalScore": 16.69,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-b07db0a17396",
+          "title": "Blackstone lines up $200 million loan to refinance ASK credit line - The Economic Times",
+          "titleZh": "Blackstone筹备2亿美元贷款，用于再融资ASK信贷额度 - The Economic Times",
+          "summary": "Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+          "summaryZh": "Blackstone筹备2亿美元贷款，用于再融资ASK信贷额度 The Economic Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYXhlZlJWaGxTZGZCT0tfMmNxakNzSUV4WmpZdGx2dTFiZEprbDBlellVSGxLamp6clhrU01DWVNSZHVzZXF1M3g1WWE2VDBHX183UUo1RVJ1WC01Q1ZSQncwOWxvSWJSNC1vXzY1RmFtVVB1eGYzbDBsdUlHN1MtMEFPM3g4ZGRRNUhnWDZjX2JMRkZBTzlYVlpycERQZXYwcTFDdEZibVpYVEJjbXA5NV9YNU9HZ3RvU2NoOWJ3NVhyMS1yRUpRZUFBQV9NaTczRXVBRkd30gHbAUFVX3lxTE9mY1llVWdSdEtDNHplaFJtdkFpVjVuOGhua19JbS1LeGNnRm9YaUVhcnphYk9qb0w3RmdmTC1SX3FnM0hSOVkyZlZjVm5yZExIQ2t3bHRETnI2UFJ6bTFPZUh5alNiSzY4ZXJ2bjhjbm4yZzR5SktVaVVabmM1d0RMemNkSXJ1cGE4NFpFakZLMFkwQUl6SUhZbklrVVZtdlNLcnNjbDk5YnVmLTRDUF9aRHYwdnI0YzZ0NTZtTlptY1dVT216VWgwRWs0OU45NV9XZDBfZUdoNS14NA?oc=5",
+          "source": "The Economic Times",
+          "publishedAt": "2026-11-13",
+          "lede": "Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+          "articleExcerpt": "Blackstone lines up $200 million loan to refinance ASK credit line - The Economic Times. Blackstone lines up $200 million loan to refinance ASK credit line The Economic Times",
+          "contentFingerprint": "92c2f963034c1f2e",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.55,
+            "llmExclude": false,
+            "llmReason": "Blackstone is arranging a $200M loan to refinance the credit line tied to its acquisition of ASK Asset & Wealth Management. The underlying asset is a private equity holding, but the article is specifically about debt financing, so it is kept as a financing event. No tracked strategy clearly applies, and importance is set slightly below ordinary financing because this is Blackstone borrowing on the PE side rather than its credit business lending.",
+            "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于再融资与其收购ASK Asset & Wealth Management相关的信贷额度。标的资产为私募股权持仓，但本文专门涉及债务融资，因此归类为融资事件。目前没有明确适用的跟踪策略；由于此次是Blackstone私募股权业务端借款，而非其信贷业务放贷，重要性设定略低于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.62,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.55
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Economic Times"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.09,
+            "finalScore": 16.09,
             "semanticEnabled": true
           }
         },
@@ -197830,6 +198458,110 @@
               "finalScore": 20.08,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-14-57e5066f9ba6",
+            "title": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - 24/7 Wall St.",
+            "titleZh": "25万美元投资Golub Capital与Hercules Capital：为何BDC收益适合放入Roth IRA - 24/7 Wall St.",
+            "summary": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+            "summaryZh": "25万美元投资Golub Capital与Hercules Capital：为何BDC收益适合放入Roth IRA 24/7 Wall St.",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE9WRDVCSzJnM1FfcENTVVVDM3hUcjg4ZF84VmtOdGFPVW1DVVA4VHI5c3VCc0tTRC1pYWl1b3NCSklWRjBaTzd3dl80R3hOZjQwaUlCRjhaNS1OajlGb0pLR0tsdFQzc2R3YkdERVNZRUFYemZTeUNldi1VSUlHbVV2a1NsLUE2RzZlOUphVXYtSkFmbjRWeEZrUkctYzE4TUg4OW5DR3RGVlUydmpPUndkeEZOOTNNNHFjZE1mU0ROWTg?oc=5",
+            "source": "24/7 Wall St.",
+            "publishedAt": "2026-11-14",
+            "lede": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+            "articleExcerpt": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - 24/7 Wall St.. $250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+            "contentFingerprint": "6cc5e8d9c6e42da4",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is retail investing commentary on holding BDC shares (Golub Capital BDC, Hercules Capital) in a Roth IRA for income. It concerns Golub's credit/BDC business, but it is stock-level commentary with no financing, fundraising, or legal event, so importance is low.",
+              "llmReasonZh": "本文为面向散户的投资评论，探讨在Roth IRA中持有BDC股票（Golub Capital BDC、Hercules Capital）以获取收益。内容涉及Golub的信贷/BDC业务，但属于个股层面的评论，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "24/7 Wall St."
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.8,
+              "finalScore": 19.8,
+              "semanticEnabled": true
+            }
           }
         ],
         "CVC": [],
@@ -198171,6 +198903,110 @@
             "finalScore": 20.08,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-14-57e5066f9ba6",
+          "title": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - 24/7 Wall St.",
+          "titleZh": "25万美元投资Golub Capital与Hercules Capital：为何BDC收益适合放入Roth IRA - 24/7 Wall St.",
+          "summary": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+          "summaryZh": "25万美元投资Golub Capital与Hercules Capital：为何BDC收益适合放入Roth IRA 24/7 Wall St.",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE9WRDVCSzJnM1FfcENTVVVDM3hUcjg4ZF84VmtOdGFPVW1DVVA4VHI5c3VCc0tTRC1pYWl1b3NCSklWRjBaTzd3dl80R3hOZjQwaUlCRjhaNS1OajlGb0pLR0tsdFQzc2R3YkdERVNZRUFYemZTeUNldi1VSUlHbVV2a1NsLUE2RzZlOUphVXYtSkFmbjRWeEZrUkctYzE4TUg4OW5DR3RGVlUydmpPUndkeEZOOTNNNHFjZE1mU0ROWTg?oc=5",
+          "source": "24/7 Wall St.",
+          "publishedAt": "2026-11-14",
+          "lede": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+          "articleExcerpt": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - 24/7 Wall St.. $250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA 24/7 Wall St.",
+          "contentFingerprint": "6cc5e8d9c6e42da4",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is retail investing commentary on holding BDC shares (Golub Capital BDC, Hercules Capital) in a Roth IRA for income. It concerns Golub's credit/BDC business, but it is stock-level commentary with no financing, fundraising, or legal event, so importance is low.",
+            "llmReasonZh": "本文为面向散户的投资评论，探讨在Roth IRA中持有BDC股票（Golub Capital BDC、Hercules Capital）以获取收益。内容涉及Golub的信贷/BDC业务，但属于个股层面的评论，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "24/7 Wall St."
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-14T19:38:23.761363+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.8,
+            "finalScore": 19.8,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -198178,7 +199014,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 18,
+      "count": 19,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -198186,12 +199022,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 91,
+      "count": 82,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -198199,7 +199035,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198212,12 +199048,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 13,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -198225,7 +199061,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198238,7 +199074,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198251,7 +199087,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198264,7 +199100,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198277,7 +199113,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198290,12 +199126,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 94,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -198303,7 +199139,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198316,12 +199152,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 7,
+      "count": 8,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -198329,7 +199165,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198342,7 +199178,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198355,7 +199191,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
@@ -198368,12 +199204,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 511,
+      "count": 505,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -198390,9 +199226,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-14T14:40:44.426589+00:00",
+      "asOf": "2026-11-14T19:38:23.761363+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-14T14:40:44.426589+00:00"
+  "checkedAt": "2026-11-14T19:38:23.761363+00:00"
 }
