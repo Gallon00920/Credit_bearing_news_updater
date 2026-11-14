@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-14T07:53:26.332864+00:00",
+  "updatedAt": "2026-11-14T15:34:57.888211+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口一致。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为核心的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -187811,9 +187811,9 @@
           {
             "id": "2026-11-12-a54a029a0e6c",
             "title": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance",
-            "titleZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 - Yahoo Finance",
+            "titleZh": "Pfizer获Blackstone最高15亿美元资金支持其肥胖症项目 - Yahoo Finance",
             "summary": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
-            "summaryZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 Yahoo Finance",
+            "summaryZh": "Pfizer获Blackstone最高15亿美元资金支持其肥胖症项目 Yahoo Finance",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSC1tT0cxZFFLcFM5TzZvaDNyMGRSZHlEV3RHTk54WmJNcEZXQTVSLTdfNFViWDRTaEVZV2tza2JsNnRGRXJLR2tsS1FfLTAwRU1CeXh6cVFyX25PUHdVRk16T1BEVkRDUEc2OXl1TU83ZmEwWWxIeFZtT2NuUG14X3VHYXdFX25pZW5KU0pNVi1zZw?oc=5",
             "source": "Yahoo Finance",
@@ -187825,8 +187825,12 @@
             "gps": [
               "Blackstone"
             ],
-            "strategies": [],
-            "sectors": [],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
             "events": [
               "financing"
             ],
@@ -187844,14 +187848,16 @@
               ],
               "keywordStrategies": [],
               "titleStrategies": [],
-              "llmStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
               "llmEvents": [
                 "financing"
               ],
-              "llmImportance": 0.5,
+              "llmImportance": 0.6,
               "llmExclude": false,
-              "llmReason": "Blackstone is providing up to $1.5B in drug-development funding to Pfizer, which is a structured, royalty/milestone-style financing rather than a buyout. This kind of deal is often done through Blackstone Life Sciences, sometimes alongside Blackstone Credit. The article text is minimal, so it's unclear whether it's a credit or equity-like instrument, and no tracked strategy clearly applies. I included it as a borderline financing event with moderate importance.",
-              "llmReasonZh": "Blackstone将向Pfizer提供最高$1.5B的药物研发资金，属于结构化的特许权使用费/里程碑式融资，而非收购。此类交易通常通过Blackstone Life Sciences进行，有时与Blackstone Credit联合开展。文章内容有限，因此尚不清楚该工具属于信贷类还是类股权工具，且无明确适用的跟踪策略。作为一项边缘性融资事件纳入，重要性中等。"
+              "llmReason": "Blackstone is providing up to $1.5B of funding to Pfizer for an obesity drug program. Deals like this are typically structured R&D or royalty-linked financing, which is a credit-like capital solution rather than an equity buyout. However, they are often run through Blackstone Life Sciences rather than Blackstone Credit, so whether it counts as credit is uncertain. Importance is set slightly below ordinary financing to reflect that.",
+              "llmReasonZh": "Blackstone将为Pfizer的一项肥胖症药物项目提供最高15亿美元资金。此类交易通常采用结构化研发融资或与特许权使用费挂钩的融资形式，属于类信贷资本解决方案，而非股权收购。不过，此类交易通常由Blackstone Life Sciences而非Blackstone Credit执行，因此能否归为信贷类交易尚不确定。为此，其重要性评级略低于一般融资交易。"
             },
             "rating": {
               "parts": {
@@ -187863,20 +187869,22 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.2,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
                   "semanticValue": 0.39
                 },
                 "event": {
-                  "value": 0.6,
+                  "value": 0.65,
                   "code": "financing",
                   "ruleValue": 0.7,
                   "events": [
                     "financing"
                   ],
-                  "llmValue": 0.5
+                  "llmValue": 0.6
                 },
                 "source": {
                   "value": 0.25,
@@ -187884,9 +187892,9 @@
                   "source": "Yahoo Finance"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 1.0
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.1
                 }
               },
               "weights": {
@@ -187896,13 +187904,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 60,
-              "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+              "score": 62,
+              "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 13,
+              "keywordScore": 16,
               "semanticScore": 4.7,
-              "finalScore": 17.7,
+              "finalScore": 20.7,
               "semanticEnabled": true
             }
           }
@@ -188761,6 +188769,110 @@
               "keywordScore": 17,
               "semanticScore": 5.88,
               "finalScore": 22.88,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-0075398b7bd2",
+            "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - TradingView",
+            "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 - TradingView",
+            "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+            "summaryZh": "Apollo Global Management认为，尽管负面消息不断，私募信贷需求依然坚挺 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEdMV0ZOZUUwRkRfUWJwRFk2b1Y4V05RNzhwbVRiTGs4M01BeHVFQ3BtVGZwcFJ4dWE0OGNxSnJLQmQ0dTY5d0x0UWo1bFBNeXZSR3VOQjBnUzMyQ0swVkd4akJtOXhEbHQtS0VuTzBtYXpkdFlXS0o0WTZiZTFpREJUQ1ZRam1yaUhXUzFibzFnME5QcGhQRmNXd2JIckh5ZEVQeV9idnhPVjZ5d2lyelVLVVdfUlBvdDNEUldrYUIzSUY2VEFfZVNxbTczektVa1hIak5nclU0N1FqYW1xemxqSVA?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-12",
+            "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+            "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - TradingView. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+            "contentFingerprint": "d1689b345567d25a",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo management commentary that private credit demand is holding up despite negative headlines. This is credit-relevant manager news about its private credit business, with no specific financing, fundraising or litigation event.",
+              "llmReasonZh": "Apollo管理层表示，尽管负面消息不断，私募信贷需求依然坚挺。这是与信贷相关的资产管理人新闻，涉及其私募信贷业务，不涉及具体的融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.1,
+              "finalScore": 19.1,
               "semanticEnabled": true
             }
           }
@@ -191261,9 +191373,9 @@
         {
           "id": "2026-11-12-a54a029a0e6c",
           "title": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program - Yahoo Finance",
-          "titleZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 - Yahoo Finance",
+          "titleZh": "Pfizer获Blackstone最高15亿美元资金支持其肥胖症项目 - Yahoo Finance",
           "summary": "Pfizer Secures Up to $1.5B Funding From Blackstone for Obesity Program Yahoo Finance",
-          "summaryZh": "Pfizer获Blackstone最高$1.5B资金支持肥胖症项目 Yahoo Finance",
+          "summaryZh": "Pfizer获Blackstone最高15亿美元资金支持其肥胖症项目 Yahoo Finance",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSC1tT0cxZFFLcFM5TzZvaDNyMGRSZHlEV3RHTk54WmJNcEZXQTVSLTdfNFViWDRTaEVZV2tza2JsNnRGRXJLR2tsS1FfLTAwRU1CeXh6cVFyX25PUHdVRk16T1BEVkRDUEc2OXl1TU83ZmEwWWxIeFZtT2NuUG14X3VHYXdFX25pZW5KU0pNVi1zZw?oc=5",
           "source": "Yahoo Finance",
@@ -191275,8 +191387,12 @@
           "gps": [
             "Blackstone"
           ],
-          "strategies": [],
-          "sectors": [],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
           "events": [
             "financing"
           ],
@@ -191294,14 +191410,16 @@
             ],
             "keywordStrategies": [],
             "titleStrategies": [],
-            "llmStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
             "llmEvents": [
               "financing"
             ],
-            "llmImportance": 0.5,
+            "llmImportance": 0.6,
             "llmExclude": false,
-            "llmReason": "Blackstone is providing up to $1.5B in drug-development funding to Pfizer, which is a structured, royalty/milestone-style financing rather than a buyout. This kind of deal is often done through Blackstone Life Sciences, sometimes alongside Blackstone Credit. The article text is minimal, so it's unclear whether it's a credit or equity-like instrument, and no tracked strategy clearly applies. I included it as a borderline financing event with moderate importance.",
-            "llmReasonZh": "Blackstone将向Pfizer提供最高$1.5B的药物研发资金，属于结构化的特许权使用费/里程碑式融资，而非收购。此类交易通常通过Blackstone Life Sciences进行，有时与Blackstone Credit联合开展。文章内容有限，因此尚不清楚该工具属于信贷类还是类股权工具，且无明确适用的跟踪策略。作为一项边缘性融资事件纳入，重要性中等。"
+            "llmReason": "Blackstone is providing up to $1.5B of funding to Pfizer for an obesity drug program. Deals like this are typically structured R&D or royalty-linked financing, which is a credit-like capital solution rather than an equity buyout. However, they are often run through Blackstone Life Sciences rather than Blackstone Credit, so whether it counts as credit is uncertain. Importance is set slightly below ordinary financing to reflect that.",
+            "llmReasonZh": "Blackstone将为Pfizer的一项肥胖症药物项目提供最高15亿美元资金。此类交易通常采用结构化研发融资或与特许权使用费挂钩的融资形式，属于类信贷资本解决方案，而非股权收购。不过，此类交易通常由Blackstone Life Sciences而非Blackstone Credit执行，因此能否归为信贷类交易尚不确定。为此，其重要性评级略低于一般融资交易。"
           },
           "rating": {
             "parts": {
@@ -191313,20 +191431,22 @@
                 ]
               },
               "strategy": {
-                "value": 0.2,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
                 "semanticValue": 0.39
               },
               "event": {
-                "value": 0.6,
+                "value": 0.65,
                 "code": "financing",
                 "ruleValue": 0.7,
                 "events": [
                   "financing"
                 ],
-                "llmValue": 0.5
+                "llmValue": 0.6
               },
               "source": {
                 "value": 0.25,
@@ -191334,9 +191454,9 @@
                 "source": "Yahoo Finance"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 1.0
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.1
               }
             },
             "weights": {
@@ -191346,13 +191466,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 60,
-            "retrievedAt": "2026-11-13T11:45:40.639295+00:00"
+            "score": 62,
+            "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 13,
+            "keywordScore": 16,
             "semanticScore": 4.7,
-            "finalScore": 17.7,
+            "finalScore": 20.7,
             "semanticEnabled": true
           }
         },
@@ -192209,6 +192329,110 @@
             "keywordScore": 17,
             "semanticScore": 5.88,
             "finalScore": 22.88,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-0075398b7bd2",
+          "title": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - TradingView",
+          "titleZh": "Apollo Global Management：尽管负面消息不断，私募信贷需求依然坚挺 - TradingView",
+          "summary": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+          "summaryZh": "Apollo Global Management认为，尽管负面消息不断，私募信贷需求依然坚挺 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEdMV0ZOZUUwRkRfUWJwRFk2b1Y4V05RNzhwbVRiTGs4M01BeHVFQ3BtVGZwcFJ4dWE0OGNxSnJLQmQ0dTY5d0x0UWo1bFBNeXZSR3VOQjBnUzMyQ0swVkd4akJtOXhEbHQtS0VuTzBtYXpkdFlXS0o0WTZiZTFpREJUQ1ZRam1yaUhXUzFibzFnME5QcGhQRmNXd2JIckh5ZEVQeV9idnhPVjZ5d2lyelVLVVdfUlBvdDNEUldrYUIzSUY2VEFfZVNxbTczektVa1hIak5nclU0N1FqYW1xemxqSVA?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-12",
+          "lede": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+          "articleExcerpt": "Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines - TradingView. Apollo Global Management Sees Private Credit Demand Holding Up Despite Negative Headlines TradingView",
+          "contentFingerprint": "d1689b345567d25a",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo management commentary that private credit demand is holding up despite negative headlines. This is credit-relevant manager news about its private credit business, with no specific financing, fundraising or litigation event.",
+            "llmReasonZh": "Apollo管理层表示，尽管负面消息不断，私募信贷需求依然坚挺。这是与信贷相关的资产管理人新闻，涉及其私募信贷业务，不涉及具体的融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.1,
+            "finalScore": 19.1,
             "semanticEnabled": true
           }
         },
@@ -193703,6 +193927,117 @@
               "keywordScore": 6,
               "semanticScore": 4.41,
               "finalScore": 10.41,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-2a140a195885",
+            "title": "Bain Capital Specialty Finance trades at 32% di... - Pluang",
+            "titleZh": "Bain Capital Specialty Finance 折价32%交易... - Pluang",
+            "summary": "Bain Capital Specialty Finance trades at 32% di... Pluang",
+            "summaryZh": "Bain Capital Specialty Finance 折价32%交易... Pluang",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkFmb1RMSUtIXzZnb0p2TDR5eWtfTUx3SW43TkFKaFVPYlk1SXJiaFNGZi12UVVucUVnQzZ6bm1EbHNnaVpmVXpVNlIzb1pjLVdTZHR4cVhScnpELW9IOUg1cXM3MVpldzY2bTBndnRLVzZ1ZDEzQXJIazB0bUN3cVBKS0N1MnRDeG0yc043ZVVPWXBpWUZxM25LZWRGUUpWMnc?oc=5",
+            "source": "Pluang",
+            "publishedAt": "2026-11-13",
+            "lede": "Bain Capital Specialty Finance trades at 32% di... Pluang",
+            "articleExcerpt": "Bain Capital Specialty Finance trades at 32% di... - Pluang. Bain Capital Specialty Finance trades at 32% di... Pluang",
+            "contentFingerprint": "5599a1d9857e3c50",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain's publicly traded BDC, which makes this credit-relevant. The snippet is stock-price commentary: it says the BDC trades at a 32% discount, likely to NAV. A discount that wide can point to market concern about credit quality, so importance is set slightly above the routine stock-commentary level. There is no financing, fundraising or lawsuit event.",
+              "llmReasonZh": "Bain Capital Specialty Finance 是贝恩旗下公开上市的BDC，因此与信贷相关。该摘要为股价评论，称该BDC以32%的折价交易，折价对象很可能是资产净值（NAV）。如此大幅的折价可能反映市场对信贷质量的担忧，因此重要性设定为略高于常规股价评论水平。未涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.45,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Pluang"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.48,
+              "finalScore": 22.48,
               "semanticEnabled": true
             }
           }
@@ -196006,6 +196341,117 @@
           }
         },
         {
+          "id": "2026-11-13-2a140a195885",
+          "title": "Bain Capital Specialty Finance trades at 32% di... - Pluang",
+          "titleZh": "Bain Capital Specialty Finance 折价32%交易... - Pluang",
+          "summary": "Bain Capital Specialty Finance trades at 32% di... Pluang",
+          "summaryZh": "Bain Capital Specialty Finance 折价32%交易... Pluang",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkFmb1RMSUtIXzZnb0p2TDR5eWtfTUx3SW43TkFKaFVPYlk1SXJiaFNGZi12UVVucUVnQzZ6bm1EbHNnaVpmVXpVNlIzb1pjLVdTZHR4cVhScnpELW9IOUg1cXM3MVpldzY2bTBndnRLVzZ1ZDEzQXJIazB0bUN3cVBKS0N1MnRDeG0yc043ZVVPWXBpWUZxM25LZWRGUUpWMnc?oc=5",
+          "source": "Pluang",
+          "publishedAt": "2026-11-13",
+          "lede": "Bain Capital Specialty Finance trades at 32% di... Pluang",
+          "articleExcerpt": "Bain Capital Specialty Finance trades at 32% di... - Pluang. Bain Capital Specialty Finance trades at 32% di... Pluang",
+          "contentFingerprint": "5599a1d9857e3c50",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain's publicly traded BDC, which makes this credit-relevant. The snippet is stock-price commentary: it says the BDC trades at a 32% discount, likely to NAV. A discount that wide can point to market concern about credit quality, so importance is set slightly above the routine stock-commentary level. There is no financing, fundraising or lawsuit event.",
+            "llmReasonZh": "Bain Capital Specialty Finance 是贝恩旗下公开上市的BDC，因此与信贷相关。该摘要为股价评论，称该BDC以32%的折价交易，折价对象很可能是资产净值（NAV）。如此大幅的折价可能反映市场对信贷质量的担忧，因此重要性设定为略高于常规股价评论水平。未涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.45,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Pluang"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.48,
+            "finalScore": 22.48,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-39fc3a21d8a1",
           "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
           "titleZh": "Blackstone斥资$532 million入股IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
@@ -197154,9 +197600,9 @@
           {
             "id": "2026-11-14-aab149d4dd01",
             "title": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times",
-            "titleZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 - The Business Times",
+            "titleZh": "Blackstone旗下QTS将AI相关债券发行规模削减逾一半 - The Business Times",
             "summary": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
-            "summaryZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 The Business Times",
+            "summaryZh": "Blackstone旗下QTS将AI相关债券发行规模削减逾一半 The Business Times",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG1fc1pwTFR0RkNDTkoyOGlBcG5RSGgxNWY5dnlNMnY3VFpRVEU1RHlXRkU0WnQ1Y2JGcFZMTFBZRFNqYlpoYkJGWWo0Z09JZTgwWURwTm9GaGg3NTQ1X3hQRmhrVUlHaldxdmpsNU9BeTRJc2xqMEtiLWtIZ2VDOV9wRUFsaGpCY0c5aW8tWHJUdw?oc=5",
             "source": "The Business Times",
@@ -197169,11 +197615,13 @@
               "Blackstone"
             ],
             "strategies": [
+              "abf",
               "structured",
               "data-center",
               "ai"
             ],
             "sectors": [
+              "abf",
               "structured",
               "data-center",
               "ai"
@@ -197200,6 +197648,7 @@
                 "ai"
               ],
               "llmStrategies": [
+                "abf",
                 "structured",
                 "data-center",
                 "ai"
@@ -197209,8 +197658,8 @@
               ],
               "llmImportance": 0.8,
               "llmExclude": false,
-              "llmReason": "Blackstone-owned QTS, a data center operator, is cutting the size of its AI-related debt sale by more than half. This is a debt issuance (likely a data center securitization), so it has a credit/financing angle even though QTS is an equity holding. The downsizing suggests weaker market demand for AI/data center debt, which matters to credit investors.",
-              "llmReasonZh": "Blackstone旗下数据中心运营商QTS正将其AI相关债券发行规模削减一半以上。此次为债务发行（可能为数据中心资产证券化），因此尽管QTS属于股权持有资产，该事件仍具有信贷/融资层面的意义。发行规模缩减表明市场对AI/数据中心债务的需求走弱，这对信贷投资者具有重要意义。"
+              "llmReason": "QTS is a Blackstone-owned data center operator. It is cutting the size of an AI-related debt sale by more than half. The deal is likely data-center ABS or securitization. A downsized debt offering is a credit financing event and signals weaker market demand, so it is relevant to credit investors even though QTS is held in Blackstone's infrastructure/real estate equity.",
+              "llmReasonZh": "QTS是Blackstone旗下的数据中心运营商，正将一笔AI相关债券发行的规模削减逾一半。该交易可能为数据中心ABS或证券化产品。债券发行缩量属于信贷融资事件，表明市场需求偏弱，因此尽管QTS由Blackstone的基础设施/房地产股权投资持有，该事件仍与信贷投资者相关。"
             },
             "rating": {
               "parts": {
@@ -197226,6 +197675,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "abf",
                     "structured",
                     "data-center",
                     "ai"
@@ -197249,7 +197699,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.0
+                  "days": 0.1
                 }
               },
               "weights": {
@@ -197260,19 +197710,128 @@
                 "freshness": 15
               },
               "score": 73,
-              "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+              "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 20,
+              "keywordScore": 23,
               "semanticScore": 5.31,
-              "finalScore": 25.31,
+              "finalScore": 28.31,
               "semanticEnabled": true
             }
           }
         ],
         "Apollo": [],
         "TPG": [],
-        "Golub": [],
+        "Golub": [
+          {
+            "id": "2026-11-14-e78d03df3b77",
+            "title": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - Yahoo Finance",
+            "titleZh": "在Golub Capital和Hercules Capital投资$250,000：为何BDC收益适合放入Roth IRA - Yahoo Finance",
+            "summary": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+            "summaryZh": "在Golub Capital和Hercules Capital投资$250,000：为何BDC收益适合放入Roth IRA Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzFzcnpBSmotNXJIbDY4NkJwX2dnZHhqLVp2QzFuYzU1LVl2UklCRXR1aUtjMDRLZktNdmNnR3hoQ3g5Wkp0ZzEzZ0Q4NS1rRTlaOHlnQWoyRkRZZWZDc0dBOXlVZGRsNEdidXdrektjRnc1R21Fc25nd1Q5Tl81M01Oemo1c3FocFNjVjZCZnZaaXB4QXN5ZzY3UQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-14",
+            "lede": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+            "articleExcerpt": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - Yahoo Finance. $250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+            "contentFingerprint": "4867ec0fa54b4e99",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Retail investing commentary on owning Golub Capital BDC shares for income in a Roth IRA. It concerns Golub's credit/BDC business but is stock and analyst-style commentary with no financing, fundraising, or legal event.",
+              "llmReasonZh": "关于在Roth IRA中持有Golub Capital BDC股票以获取收益的散户投资评论。内容涉及Golub的信贷/BDC业务，但属于股票及分析师类评论，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.1
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.08,
+              "finalScore": 20.08,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CVC": [],
         "Canyon": []
       },
@@ -197386,9 +197945,9 @@
         {
           "id": "2026-11-14-aab149d4dd01",
           "title": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times",
-          "titleZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 - The Business Times",
+          "titleZh": "Blackstone旗下QTS将AI相关债券发行规模削减逾一半 - The Business Times",
           "summary": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
-          "summaryZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 The Business Times",
+          "summaryZh": "Blackstone旗下QTS将AI相关债券发行规模削减逾一半 The Business Times",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG1fc1pwTFR0RkNDTkoyOGlBcG5RSGgxNWY5dnlNMnY3VFpRVEU1RHlXRkU0WnQ1Y2JGcFZMTFBZRFNqYlpoYkJGWWo0Z09JZTgwWURwTm9GaGg3NTQ1X3hQRmhrVUlHaldxdmpsNU9BeTRJc2xqMEtiLWtIZ2VDOV9wRUFsaGpCY0c5aW8tWHJUdw?oc=5",
           "source": "The Business Times",
@@ -197401,11 +197960,13 @@
             "Blackstone"
           ],
           "strategies": [
+            "abf",
             "structured",
             "data-center",
             "ai"
           ],
           "sectors": [
+            "abf",
             "structured",
             "data-center",
             "ai"
@@ -197432,6 +197993,7 @@
               "ai"
             ],
             "llmStrategies": [
+              "abf",
               "structured",
               "data-center",
               "ai"
@@ -197441,8 +198003,8 @@
             ],
             "llmImportance": 0.8,
             "llmExclude": false,
-            "llmReason": "Blackstone-owned QTS, a data center operator, is cutting the size of its AI-related debt sale by more than half. This is a debt issuance (likely a data center securitization), so it has a credit/financing angle even though QTS is an equity holding. The downsizing suggests weaker market demand for AI/data center debt, which matters to credit investors.",
-            "llmReasonZh": "Blackstone旗下数据中心运营商QTS正将其AI相关债券发行规模削减一半以上。此次为债务发行（可能为数据中心资产证券化），因此尽管QTS属于股权持有资产，该事件仍具有信贷/融资层面的意义。发行规模缩减表明市场对AI/数据中心债务的需求走弱，这对信贷投资者具有重要意义。"
+            "llmReason": "QTS is a Blackstone-owned data center operator. It is cutting the size of an AI-related debt sale by more than half. The deal is likely data-center ABS or securitization. A downsized debt offering is a credit financing event and signals weaker market demand, so it is relevant to credit investors even though QTS is held in Blackstone's infrastructure/real estate equity.",
+            "llmReasonZh": "QTS是Blackstone旗下的数据中心运营商，正将一笔AI相关债券发行的规模削减逾一半。该交易可能为数据中心ABS或证券化产品。债券发行缩量属于信贷融资事件，表明市场需求偏弱，因此尽管QTS由Blackstone的基础设施/房地产股权投资持有，该事件仍与信贷投资者相关。"
           },
           "rating": {
             "parts": {
@@ -197458,6 +198020,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "abf",
                   "structured",
                   "data-center",
                   "ai"
@@ -197481,7 +198044,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.0
+                "days": 0.1
               }
             },
             "weights": {
@@ -197492,12 +198055,120 @@
               "freshness": 15
             },
             "score": 73,
-            "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+            "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 20,
+            "keywordScore": 23,
             "semanticScore": 5.31,
-            "finalScore": 25.31,
+            "finalScore": 28.31,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-e78d03df3b77",
+          "title": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - Yahoo Finance",
+          "titleZh": "在Golub Capital和Hercules Capital投资$250,000：为何BDC收益适合放入Roth IRA - Yahoo Finance",
+          "summary": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+          "summaryZh": "在Golub Capital和Hercules Capital投资$250,000：为何BDC收益适合放入Roth IRA Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzFzcnpBSmotNXJIbDY4NkJwX2dnZHhqLVp2QzFuYzU1LVl2UklCRXR1aUtjMDRLZktNdmNnR3hoQ3g5Wkp0ZzEzZ0Q4NS1rRTlaOHlnQWoyRkRZZWZDc0dBOXlVZGRsNEdidXdrektjRnc1R21Fc25nd1Q5Tl81M01Oemo1c3FocFNjVjZCZnZaaXB4QXN5ZzY3UQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-14",
+          "lede": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+          "articleExcerpt": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - Yahoo Finance. $250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA Yahoo Finance",
+          "contentFingerprint": "4867ec0fa54b4e99",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Retail investing commentary on owning Golub Capital BDC shares for income in a Roth IRA. It concerns Golub's credit/BDC business but is stock and analyst-style commentary with no financing, fundraising, or legal event.",
+            "llmReasonZh": "关于在Roth IRA中持有Golub Capital BDC股票以获取收益的散户投资评论。内容涉及Golub的信贷/BDC业务，但属于股票及分析师类评论，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.1
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-14T14:40:44.426589+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.08,
+            "finalScore": 20.08,
             "semanticEnabled": true
           }
         }
@@ -197507,7 +198178,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 15,
+      "count": 18,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -197515,12 +198186,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 101,
+      "count": 91,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -197528,7 +198199,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
@@ -197541,12 +198212,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 15,
+      "count": 13,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -197554,12 +198225,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 8,
+      "count": 7,
       "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -197567,12 +198238,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 9,
+      "count": 7,
       "selected": 3,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -197580,12 +198251,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 12,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -197593,7 +198264,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
@@ -197606,20 +198277,20 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 20,
-      "selected": 4,
+      "count": 18,
+      "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
@@ -197632,12 +198303,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 33,
+      "count": 30,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -197645,12 +198316,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 6,
+      "count": 7,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -197658,25 +198329,25 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
       "count": 3,
-      "selected": 1,
+      "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 15,
+      "count": 13,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -197684,12 +198355,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
+      "count": 28,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -197697,12 +198368,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 407,
+      "count": 511,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -197719,9 +198390,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-14T07:14:16.209992+00:00",
+      "asOf": "2026-11-14T14:40:44.426589+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-14T07:14:16.209992+00:00"
+  "checkedAt": "2026-11-14T14:40:44.426589+00:00"
 }
