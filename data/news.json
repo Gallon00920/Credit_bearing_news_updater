@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-13T20:08:43.099786+00:00",
+  "updatedAt": "2026-11-14T00:58:58.656026+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -187176,6 +187176,110 @@
               "finalScore": 22.43,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-9a8a569c11e2",
+            "title": "BCSF Financials: Revenue $256.61M, Net Income $61.94M - Quantisnow",
+            "titleZh": "BCSF财务数据：营收$256.61M，净利润$61.94M - Quantisnow",
+            "summary": "BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+            "summaryZh": "BCSF财务数据：营收$256.61M，净利润$61.94M Quantisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbF9pM3VpZG9EN1V5ME1weS1TMnZFaW01MEpiVzFWRUNXVVgxS0lzMWRkWFVGM0hFcE5xTnZMalpRTHJPMTJZNGJhTXdIa3lCZFlqeg?oc=5",
+            "source": "Quantisnow",
+            "publishedAt": "2026-11-12",
+            "lede": "BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+            "articleExcerpt": "BCSF Financials: Revenue $256.61M, Net Income $61.94M - Quantisnow. BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+            "contentFingerprint": "d5f04d74f019b053",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "BCSF is Bain Capital Specialty Finance, Bain Capital's publicly traded BDC, so this is credit-relevant. The article is only an auto-generated financial-results headline (revenue $256.61M, net income $61.94M) with no lawsuit, financing or fundraising event. That puts it between routine manager news and stock/analyst commentary.",
+              "llmReasonZh": "BCSF即Bain Capital Specialty Finance，是Bain Capital旗下公开上市的BDC，因此与信贷相关。该文章仅为自动生成的财务业绩标题（营收$256.61M，净利润$61.94M），不涉及诉讼、融资或募资事件，因此介于常规管理人新闻与股票/分析师评论之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Quantisnow"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.5,
+              "finalScore": 10.5,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -190526,6 +190630,110 @@
           }
         },
         {
+          "id": "2026-11-12-9a8a569c11e2",
+          "title": "BCSF Financials: Revenue $256.61M, Net Income $61.94M - Quantisnow",
+          "titleZh": "BCSF财务数据：营收$256.61M，净利润$61.94M - Quantisnow",
+          "summary": "BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+          "summaryZh": "BCSF财务数据：营收$256.61M，净利润$61.94M Quantisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbF9pM3VpZG9EN1V5ME1weS1TMnZFaW01MEpiVzFWRUNXVVgxS0lzMWRkWFVGM0hFcE5xTnZMalpRTHJPMTJZNGJhTXdIa3lCZFlqeg?oc=5",
+          "source": "Quantisnow",
+          "publishedAt": "2026-11-12",
+          "lede": "BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+          "articleExcerpt": "BCSF Financials: Revenue $256.61M, Net Income $61.94M - Quantisnow. BCSF Financials: Revenue $256.61M, Net Income $61.94M Quantisnow",
+          "contentFingerprint": "d5f04d74f019b053",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "BCSF is Bain Capital Specialty Finance, Bain Capital's publicly traded BDC, so this is credit-relevant. The article is only an auto-generated financial-results headline (revenue $256.61M, net income $61.94M) with no lawsuit, financing or fundraising event. That puts it between routine manager news and stock/analyst commentary.",
+            "llmReasonZh": "BCSF即Bain Capital Specialty Finance，是Bain Capital旗下公开上市的BDC，因此与信贷相关。该文章仅为自动生成的财务业绩标题（营收$256.61M，净利润$61.94M），不涉及诉讼、融资或募资事件，因此介于常规管理人新闻与股票/分析师评论之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Quantisnow"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.5,
+            "finalScore": 10.5,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-9c92c1297d39",
           "title": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) Stock Has Average Target Price of $17.00 - MarketBeat",
           "titleZh": "Blackstone Mortgage Trust, Inc. (NYSE:BXMT) 股票平均目标价为$17.00 - MarketBeat",
@@ -192761,6 +192969,112 @@
               "finalScore": 16.45,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-65e5a182df6d",
+            "title": "Progress Residential agrees to $49.75 million settlement over rental practices - kjzz.com",
+            "titleZh": "Progress Residential就租赁行为达成4975万美元和解 - kjzz.com",
+            "summary": "Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+            "summaryZh": "Progress Residential就租赁行为达成4975万美元和解 kjzz.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanhrZVgxVzlZUDY2U29PdWhRUmNDNThOdF9wYzFrTVFIT0NFNWJGa0l1ZVZmOFRfdjFQWkVETkR4cDNWNG5zV1FWVGR3b1F0eTVtdVJ3NUVRbEV3YzRaMnJWaWM4VmsxZWRmSXdQdy1OME1lYnVSbjZzLW15S09jRGN2bzdJQmxfbnhqUUR3eXY0ZFJvTVZuN1ExRTR6UTctUXJiRlRR?oc=5",
+            "source": "kjzz.com",
+            "publishedAt": "2026-11-13",
+            "lede": "Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+            "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - kjzz.com. Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+            "contentFingerprint": "3e0b476e5f6b9fc0",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Progress Residential is Pretium Partners' single-family rental platform. The $49.75M settlement over rental practices is a regulatory and litigation event affecting Pretium's SFR business, which is a tracked strategy. The article does not name Pretium directly, so the GP tag relies on that ownership link. Not excluded, because SFR is explicitly tracked and the outcome bears on Pretium's resi/SFR exposure.",
+              "llmReasonZh": "Progress Residential是Pretium Partners旗下的单户住宅租赁（SFR）平台。此次就租赁行为达成的4975万美元和解属于监管及诉讼事件，影响Pretium的SFR业务，而该业务属于跟踪策略。文章未直接提及Pretium，因此GP标签基于上述所有权关联。未予排除，因为SFR为明确跟踪的领域，且该结果关系到Pretium在住宅/SFR领域的敞口。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.23
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "kjzz.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 2.81,
+              "finalScore": 8.81,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [
@@ -193183,6 +193497,212 @@
               "keywordScore": 9,
               "semanticScore": 4.46,
               "finalScore": 13.46,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-b2383563d592",
+            "title": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate - BigGo Finance",
+            "titleZh": "BCP拟以资产净值90%收购Investcorp BDC，私募信贷并购加速 - BigGo Finance",
+            "summary": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+            "summaryZh": "BCP拟以资产净值90%收购Investcorp BDC，私募信贷并购加速 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ19FNV9UQlI1eVJRZDFjRnlNQW1pNFEzT3VaeUN3RTNhUl9WNGtaMWdubkd3aEloRjYtRjVGTVdHR2tuUmRFaEExWkhRNHhBYVZSTGFGR1htLXliRC1vbEFkRl9nMExvQUZLNGJvdmwwenpPdkE?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-11-13",
+            "lede": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+            "articleExcerpt": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate - BigGo Finance. BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+            "contentFingerprint": "a3484de3792835ec",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "The article covers a BDC merger: 'BCP' is buying Investcorp's BDC at 90% of NAV amid private-credit consolidation. 'BCP' most likely refers to Bain Capital's private credit vehicle, but this is an inference from the abbreviation and is not confirmed by the article. The deal is a credit/BDC M&A transaction, so it is relevant regardless.",
+              "llmReasonZh": "该文章涉及一宗BDC并购交易：在私募信贷行业整合背景下，“BCP”拟以资产净值的90%收购Investcorp旗下BDC。“BCP”很可能指Bain Capital旗下的私募信贷工具，但这仅是根据缩写作出的推断，文章并未证实。该交易属于信贷/BDC并购交易，因此无论如何均具相关性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.98,
+              "finalScore": 18.98,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-8ee4c3583abd",
+            "title": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com",
+            "titleZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 - www.marketscreener.com",
+            "summary": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+            "summaryZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 www.marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0NsSnh0eFRwUnRmeGt4YVhYZU8tTHBzTWpGVGZMS0lXLTh2RmxxcThWZXpYd19UR2VvWFd6OFlRdzAxNXhaaXRPMEJ2UTdrWlUtX3NGTUItcmVqd2ZLT2JfX1gzb0I4eWdINmRmV1NHTnp5TktDYjNsX2RGOGxCRnBSSldpbDN0cXVvN2JVdXAtS0xVdnRQdVk2TWVkMm1yVVB0VzJOdUZHME43eTlxMmthSTRXaHhkbFBScTFid1NoRkZhY21Xb0t3V2RYUDgwd2lTRQ?oc=5",
+            "source": "www.marketscreener.com",
+            "publishedAt": "2026-11-13",
+            "lede": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+            "articleExcerpt": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com. New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+            "contentFingerprint": "b28797eb32961d26",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "New World Development, a stressed Hong Kong property developer, is weighing a rights issue of up to HK$25B after Bain Capital pulled out. The tag is provisional because the article text gives no detail. Bain's role was likely a capital or financing solution for a distressed commercial real estate borrower, which makes it credit-relevant. The rights issue itself is equity, and there is no completed financing event, so importance is moderate. Confirm Bain's role (credit or financing versus a stake purchase or privatization); if it was purely an equity deal, the article should be excluded.",
+              "llmReasonZh": "New World Development是一家陷入困境的香港房地产开发商，在Bain Capital退出后，正考虑进行最高HK$25B的供股。由于文章正文未提供细节，该标签为暂定。Bain的角色可能是为一家陷入困境的商业地产借款人提供资本或融资解决方案，因此与信贷相关。供股本身属于股权融资，且尚无已完成的融资事件，因此重要性为中等。需确认Bain的角色（信贷或融资，还是入股或私有化）；如果纯属股权交易，则应剔除该文章。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.53,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "www.marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.41,
+              "finalScore": 10.41,
               "semanticEnabled": true
             }
           }
@@ -193707,6 +194227,97 @@
               "keywordScore": 9,
               "semanticScore": 5.39,
               "finalScore": 14.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-159970b03c55",
+            "title": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 - www.marketscreener.com",
+            "titleZh": "Autonomous Research将Apollo Global Management目标价从$158上调至$168 - www.marketscreener.com",
+            "summary": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+            "summaryZh": "Autonomous Research将Apollo Global Management目标价从$158上调至$168 www.marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmI3YURpT1hzLXR6YVMtQnJlaFdxTkR4WWljcjdZV0JJTnkzTmh1ZmhweFNZX1RHOU1fdnRUbTNPSUJ6cVMxLTRreW5XT2d2ZFNmd05jNFFlTEhMb0Q0cndLcXFEMGExY3VLY0h6OVpYM2xvcXJ0VXViaS0yNGNCajBrQU1UTjlDN1dNLUhFdy1GVVRWQklfd3lmMkRWTGlBdkVZR2JjQ1UzTTdBZW9RaW5oR1FKN1UzZDBOdEFLLXV2RG9UZmcxZGExNXQyUlF3U3Nj?oc=5",
+            "source": "www.marketscreener.com",
+            "publishedAt": "2026-11-13",
+            "lede": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+            "articleExcerpt": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 - www.marketscreener.com. Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+            "contentFingerprint": "6d8e3b8630301013",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price target change on Apollo Global Management stock. This is the tracked GP itself, not a name-alike, but the item is stock and analyst commentary with no specific credit transaction, so importance is low.",
+              "llmReasonZh": "分析师调整Apollo Global Management股票目标价。该公司即为所跟踪的GP本身，而非名称相近的其他公司，但本条内容属于股票及分析师评论，未涉及具体信贷交易，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.17,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.34
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "www.marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.1,
+              "finalScore": 7.1,
               "semanticEnabled": true
             }
           }
@@ -194666,6 +195277,112 @@
           }
         },
         {
+          "id": "2026-11-13-65e5a182df6d",
+          "title": "Progress Residential agrees to $49.75 million settlement over rental practices - kjzz.com",
+          "titleZh": "Progress Residential就租赁行为达成4975万美元和解 - kjzz.com",
+          "summary": "Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+          "summaryZh": "Progress Residential就租赁行为达成4975万美元和解 kjzz.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanhrZVgxVzlZUDY2U29PdWhRUmNDNThOdF9wYzFrTVFIT0NFNWJGa0l1ZVZmOFRfdjFQWkVETkR4cDNWNG5zV1FWVGR3b1F0eTVtdVJ3NUVRbEV3YzRaMnJWaWM4VmsxZWRmSXdQdy1OME1lYnVSbjZzLW15S09jRGN2bzdJQmxfbnhqUUR3eXY0ZFJvTVZuN1ExRTR6UTctUXJiRlRR?oc=5",
+          "source": "kjzz.com",
+          "publishedAt": "2026-11-13",
+          "lede": "Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+          "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - kjzz.com. Progress Residential agrees to $49.75 million settlement over rental practices kjzz.com",
+          "contentFingerprint": "3e0b476e5f6b9fc0",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Progress Residential is Pretium Partners' single-family rental platform. The $49.75M settlement over rental practices is a regulatory and litigation event affecting Pretium's SFR business, which is a tracked strategy. The article does not name Pretium directly, so the GP tag relies on that ownership link. Not excluded, because SFR is explicitly tracked and the outcome bears on Pretium's resi/SFR exposure.",
+            "llmReasonZh": "Progress Residential是Pretium Partners旗下的单户住宅租赁（SFR）平台。此次就租赁行为达成的4975万美元和解属于监管及诉讼事件，影响Pretium的SFR业务，而该业务属于跟踪策略。文章未直接提及Pretium，因此GP标签基于上述所有权关联。未予排除，因为SFR为明确跟踪的领域，且该结果关系到Pretium在住宅/SFR领域的敞口。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.23
+              },
+              "event": {
+                "value": 0.93,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "kjzz.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 2.81,
+            "finalScore": 8.81,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-12ba3e178d0f",
           "title": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database",
           "titleZh": "PIMCO与Guggenheim探讨2027年固定收益投资机会 - ETF Database",
@@ -195079,6 +195796,212 @@
             "keywordScore": 9,
             "semanticScore": 4.46,
             "finalScore": 13.46,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-b2383563d592",
+          "title": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate - BigGo Finance",
+          "titleZh": "BCP拟以资产净值90%收购Investcorp BDC，私募信贷并购加速 - BigGo Finance",
+          "summary": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+          "summaryZh": "BCP拟以资产净值90%收购Investcorp BDC，私募信贷并购加速 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ19FNV9UQlI1eVJRZDFjRnlNQW1pNFEzT3VaeUN3RTNhUl9WNGtaMWdubkd3aEloRjYtRjVGTVdHR2tuUmRFaEExWkhRNHhBYVZSTGFGR1htLXliRC1vbEFkRl9nMExvQUZLNGJvdmwwenpPdkE?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-11-13",
+          "lede": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+          "articleExcerpt": "BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate - BigGo Finance. BCP to Buy Investcorp BDC at 90% of NAV as Private-Credit Mergers Accelerate BigGo Finance",
+          "contentFingerprint": "a3484de3792835ec",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "The article covers a BDC merger: 'BCP' is buying Investcorp's BDC at 90% of NAV amid private-credit consolidation. 'BCP' most likely refers to Bain Capital's private credit vehicle, but this is an inference from the abbreviation and is not confirmed by the article. The deal is a credit/BDC M&A transaction, so it is relevant regardless.",
+            "llmReasonZh": "该文章涉及一宗BDC并购交易：在私募信贷行业整合背景下，“BCP”拟以资产净值的90%收购Investcorp旗下BDC。“BCP”很可能指Bain Capital旗下的私募信贷工具，但这仅是根据缩写作出的推断，文章并未证实。该交易属于信贷/BDC并购交易，因此无论如何均具相关性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.98,
+            "finalScore": 18.98,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-8ee4c3583abd",
+          "title": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com",
+          "titleZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 - www.marketscreener.com",
+          "summary": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+          "summaryZh": "Bain Capital退出后，New World Development考虑进行最高HK$25 billion供股 www.marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0NsSnh0eFRwUnRmeGt4YVhYZU8tTHBzTWpGVGZMS0lXLTh2RmxxcThWZXpYd19UR2VvWFd6OFlRdzAxNXhaaXRPMEJ2UTdrWlUtX3NGTUItcmVqd2ZLT2JfX1gzb0I4eWdINmRmV1NHTnp5TktDYjNsX2RGOGxCRnBSSldpbDN0cXVvN2JVdXAtS0xVdnRQdVk2TWVkMm1yVVB0VzJOdUZHME43eTlxMmthSTRXaHhkbFBScTFid1NoRkZhY21Xb0t3V2RYUDgwd2lTRQ?oc=5",
+          "source": "www.marketscreener.com",
+          "publishedAt": "2026-11-13",
+          "lede": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+          "articleExcerpt": "New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit - www.marketscreener.com. New World Development Weighs Up to HK$25 Billion Rights Issue After Bain Capital Exit www.marketscreener.com",
+          "contentFingerprint": "b28797eb32961d26",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "New World Development, a stressed Hong Kong property developer, is weighing a rights issue of up to HK$25B after Bain Capital pulled out. The tag is provisional because the article text gives no detail. Bain's role was likely a capital or financing solution for a distressed commercial real estate borrower, which makes it credit-relevant. The rights issue itself is equity, and there is no completed financing event, so importance is moderate. Confirm Bain's role (credit or financing versus a stake purchase or privatization); if it was purely an equity deal, the article should be excluded.",
+            "llmReasonZh": "New World Development是一家陷入困境的香港房地产开发商，在Bain Capital退出后，正考虑进行最高HK$25B的供股。由于文章正文未提供细节，该标签为暂定。Bain的角色可能是为一家陷入困境的商业地产借款人提供资本或融资解决方案，因此与信贷相关。供股本身属于股权融资，且尚无已完成的融资事件，因此重要性为中等。需确认Bain的角色（信贷或融资，还是入股或私有化）；如果纯属股权交易，则应剔除该文章。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.53,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.72,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "www.marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.41,
+            "finalScore": 10.41,
             "semanticEnabled": true
           }
         },
@@ -195603,6 +196526,97 @@
           }
         },
         {
+          "id": "2026-11-13-159970b03c55",
+          "title": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 - www.marketscreener.com",
+          "titleZh": "Autonomous Research将Apollo Global Management目标价从$158上调至$168 - www.marketscreener.com",
+          "summary": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+          "summaryZh": "Autonomous Research将Apollo Global Management目标价从$158上调至$168 www.marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmI3YURpT1hzLXR6YVMtQnJlaFdxTkR4WWljcjdZV0JJTnkzTmh1ZmhweFNZX1RHOU1fdnRUbTNPSUJ6cVMxLTRreW5XT2d2ZFNmd05jNFFlTEhMb0Q0cndLcXFEMGExY3VLY0h6OVpYM2xvcXJ0VXViaS0yNGNCajBrQU1UTjlDN1dNLUhFdy1GVVRWQklfd3lmMkRWTGlBdkVZR2JjQ1UzTTdBZW9RaW5oR1FKN1UzZDBOdEFLLXV2RG9UZmcxZGExNXQyUlF3U3Nj?oc=5",
+          "source": "www.marketscreener.com",
+          "publishedAt": "2026-11-13",
+          "lede": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+          "articleExcerpt": "Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 - www.marketscreener.com. Autonomous Research Adjusts Price Target on Apollo Global Management to $168 From $158 www.marketscreener.com",
+          "contentFingerprint": "6d8e3b8630301013",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price target change on Apollo Global Management stock. This is the tracked GP itself, not a name-alike, but the item is stock and analyst commentary with no specific credit transaction, so importance is low.",
+            "llmReasonZh": "分析师调整Apollo Global Management股票目标价。该公司即为所跟踪的GP本身，而非名称相近的其他公司，但本条内容属于股票及分析师评论，未涉及具体信贷交易，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.17,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.34
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "www.marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-14T00:10:02.693216+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.1,
+            "finalScore": 7.1,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-01f2bc80b192",
           "title": "TPG’s US residential credit fund secures $2bn in first close - IPE Real Assets",
           "titleZh": "TPG美国住宅信贷基金完成首轮关账，募资$2bn - IPE Real Assets",
@@ -196017,6 +197031,26 @@
           }
         }
       ]
+    },
+    "2026-11-14": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
@@ -196030,20 +197064,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 101,
-      "selected": 6,
+      "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
@@ -196056,7 +197090,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
@@ -196069,12 +197103,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 5,
+      "count": 8,
       "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -196082,12 +197116,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 9,
+      "count": 10,
       "selected": 3,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -196095,12 +197129,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 13,
+      "count": 14,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -196108,7 +197142,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
@@ -196121,12 +197155,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 22,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -196134,7 +197168,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
@@ -196147,12 +197181,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 33,
+      "count": 32,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -196160,12 +197194,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 8,
+      "count": 7,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -196173,7 +197207,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
@@ -196186,12 +197220,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 18,
+      "count": 17,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -196199,12 +197233,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 25,
+      "count": 26,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -196212,12 +197246,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 572,
+      "count": 542,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -196234,9 +197268,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-13T18:59:19.868311+00:00",
+      "asOf": "2026-11-14T00:10:02.693216+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-13T18:59:19.868311+00:00"
+  "checkedAt": "2026-11-14T00:10:02.693216+00:00"
 }
