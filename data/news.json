@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-14T00:58:58.656026+00:00",
+  "updatedAt": "2026-11-14T07:53:26.332864+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口一致。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20777,7 +20777,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受管理的信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为核心的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -197038,19 +197038,470 @@
         "KKR": [],
         "CIFC": [],
         "PAG": [],
-        "Pretium": [],
+        "Pretium": [
+          {
+            "id": "2026-11-14-1b6808ea3863",
+            "title": "Progress Residential agrees to $49.75 million settlement over rental practices - KJZZ",
+            "titleZh": "Progress Residential就租赁行为问题同意支付$49.75 million和解金 - KJZZ",
+            "summary": "Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+            "summaryZh": "Progress Residential就租赁行为问题同意支付$49.75 million和解金 KJZZ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZwZFRrQ25sM2hZdXAyT1dHQjVOYzN6NTJvdGlaUjBXa0xPY0haN2JGdkZiU01SQUdscVhIZHBlbC1uWjlLQl9aMWJtdFNacmdFU0JadTF0SWQ0MnpubDVNakwtSE5mbGVGc2ZZZXFub01PR0tpUGlaekJlbS1aSE0wdnZsOTdNQk1ZWS1JWUlXVTQweWc?oc=5",
+            "source": "KJZZ",
+            "publishedAt": "2026-11-14",
+            "lede": "Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+            "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - KJZZ. Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+            "contentFingerprint": "c767f356c66b9469",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Progress Residential is Pretium Partners' single-family rental platform. A $49.75M settlement over rental practices is a legal/regulatory event. It bears on the SFR operations and cash flows that back Pretium's SFR financing and resi-credit exposure. The article does not name Pretium directly, so the GP link is inferred from known ownership.",
+              "llmReasonZh": "Progress Residential是Pretium Partners旗下的单户租赁（SFR）平台。此次因租赁行为问题达成的$49.75M和解属于法律/监管事件，涉及支撑Pretium SFR融资及住宅信贷敞口的SFR运营与现金流。文章未直接提及Pretium，其与GP的关联系根据已知的所有权关系推断得出。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.25
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KJZZ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 2.96,
+              "finalScore": 8.96,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Guggenheim": [],
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-14-aab149d4dd01",
+            "title": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times",
+            "titleZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 - The Business Times",
+            "summary": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+            "summaryZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 The Business Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG1fc1pwTFR0RkNDTkoyOGlBcG5RSGgxNWY5dnlNMnY3VFpRVEU1RHlXRkU0WnQ1Y2JGcFZMTFBZRFNqYlpoYkJGWWo0Z09JZTgwWURwTm9GaGg3NTQ1X3hQRmhrVUlHaldxdmpsNU9BeTRJc2xqMEtiLWtIZ2VDOV9wRUFsaGpCY0c5aW8tWHJUdw?oc=5",
+            "source": "The Business Times",
+            "publishedAt": "2026-11-14",
+            "lede": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+            "articleExcerpt": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times. Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+            "contentFingerprint": "5a90731873d10e67",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "structured",
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Blackstone-owned QTS, a data center operator, is cutting the size of its AI-related debt sale by more than half. This is a debt issuance (likely a data center securitization), so it has a credit/financing angle even though QTS is an equity holding. The downsizing suggests weaker market demand for AI/data center debt, which matters to credit investors.",
+              "llmReasonZh": "Blackstone旗下数据中心运营商QTS正将其AI相关债券发行规模削减一半以上。此次为债务发行（可能为数据中心资产证券化），因此尽管QTS属于股权持有资产，该事件仍具有信贷/融资层面的意义。发行规模缩减表明市场对AI/数据中心债务的需求走弱，这对信贷投资者具有重要意义。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.75,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Business Times"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.31,
+              "finalScore": 25.31,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
         "TPG": [],
         "Golub": [],
         "CVC": [],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-14-1b6808ea3863",
+          "title": "Progress Residential agrees to $49.75 million settlement over rental practices - KJZZ",
+          "titleZh": "Progress Residential就租赁行为问题同意支付$49.75 million和解金 - KJZZ",
+          "summary": "Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+          "summaryZh": "Progress Residential就租赁行为问题同意支付$49.75 million和解金 KJZZ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZwZFRrQ25sM2hZdXAyT1dHQjVOYzN6NTJvdGlaUjBXa0xPY0haN2JGdkZiU01SQUdscVhIZHBlbC1uWjlLQl9aMWJtdFNacmdFU0JadTF0SWQ0MnpubDVNakwtSE5mbGVGc2ZZZXFub01PR0tpUGlaekJlbS1aSE0wdnZsOTdNQk1ZWS1JWUlXVTQweWc?oc=5",
+          "source": "KJZZ",
+          "publishedAt": "2026-11-14",
+          "lede": "Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+          "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - KJZZ. Progress Residential agrees to $49.75 million settlement over rental practices KJZZ",
+          "contentFingerprint": "c767f356c66b9469",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Progress Residential is Pretium Partners' single-family rental platform. A $49.75M settlement over rental practices is a legal/regulatory event. It bears on the SFR operations and cash flows that back Pretium's SFR financing and resi-credit exposure. The article does not name Pretium directly, so the GP link is inferred from known ownership.",
+            "llmReasonZh": "Progress Residential是Pretium Partners旗下的单户租赁（SFR）平台。此次因租赁行为问题达成的$49.75M和解属于法律/监管事件，涉及支撑Pretium SFR融资及住宅信贷敞口的SFR运营与现金流。文章未直接提及Pretium，其与GP的关联系根据已知的所有权关系推断得出。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.25
+              },
+              "event": {
+                "value": 0.93,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KJZZ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 2.96,
+            "finalScore": 8.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-aab149d4dd01",
+          "title": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times",
+          "titleZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 - The Business Times",
+          "summary": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+          "summaryZh": "Blackstone旗下QTS将AI债券发行规模削减逾半 The Business Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG1fc1pwTFR0RkNDTkoyOGlBcG5RSGgxNWY5dnlNMnY3VFpRVEU1RHlXRkU0WnQ1Y2JGcFZMTFBZRFNqYlpoYkJGWWo0Z09JZTgwWURwTm9GaGg3NTQ1X3hQRmhrVUlHaldxdmpsNU9BeTRJc2xqMEtiLWtIZ2VDOV9wRUFsaGpCY0c5aW8tWHJUdw?oc=5",
+          "source": "The Business Times",
+          "publishedAt": "2026-11-14",
+          "lede": "Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+          "articleExcerpt": "Blackstone’s QTS is cutting AI debt sale by more than half - The Business Times. Blackstone’s QTS is cutting AI debt sale by more than half The Business Times",
+          "contentFingerprint": "5a90731873d10e67",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "structured",
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "structured",
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Blackstone-owned QTS, a data center operator, is cutting the size of its AI-related debt sale by more than half. This is a debt issuance (likely a data center securitization), so it has a credit/financing angle even though QTS is an equity holding. The downsizing suggests weaker market demand for AI/data center debt, which matters to credit investors.",
+            "llmReasonZh": "Blackstone旗下数据中心运营商QTS正将其AI相关债券发行规模削减一半以上。此次为债务发行（可能为数据中心资产证券化），因此尽管QTS属于股权持有资产，该事件仍具有信贷/融资层面的意义。发行规模缩减表明市场对AI/数据中心债务的需求走弱，这对信贷投资者具有重要意义。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.75,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Business Times"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-14T07:14:16.209992+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.31,
+            "finalScore": 25.31,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
@@ -197064,7 +197515,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
@@ -197077,7 +197528,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
@@ -197090,12 +197541,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 16,
+      "count": 15,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -197103,7 +197554,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
@@ -197116,12 +197567,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 10,
+      "count": 9,
       "selected": 3,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -197129,12 +197580,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 14,
+      "count": 10,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -197142,7 +197593,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
@@ -197155,25 +197606,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 24,
-      "selected": 6,
+      "count": 20,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 101,
+      "count": 100,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -197181,12 +197632,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 32,
+      "count": 33,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -197194,12 +197645,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 7,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -197207,7 +197658,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
@@ -197220,12 +197671,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 17,
+      "count": 15,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -197233,12 +197684,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 26,
+      "count": 27,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -197246,12 +197697,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 542,
+      "count": 407,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -197268,9 +197719,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-14T00:10:02.693216+00:00",
+      "asOf": "2026-11-14T07:14:16.209992+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-14T00:10:02.693216+00:00"
+  "checkedAt": "2026-11-14T07:14:16.209992+00:00"
 }
