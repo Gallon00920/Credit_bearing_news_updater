@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-15T12:10:28.327247+00:00",
+  "updatedAt": "2026-11-15T18:47:53.875942+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8098,7 +8098,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20508,7 +20508,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20532,7 +20532,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -193616,6 +193616,109 @@
               "finalScore": 11.25,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-28dbf69d7782",
+            "title": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF - MarketBeat",
+            "titleZh": "Blue Owl Technology Finance (OTF) 2026年股价预测及目标价 $OTF - MarketBeat",
+            "summary": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+            "summaryZh": "Blue Owl Technology Finance (OTF) 2026年股价预测及目标价 $OTF MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcllwVGVwNkxrZEhkMmRmWFo0X3hqM2hPTnRQaVZHYmlvSlBsNXFEQzVVazlvR1FVcmJDV2QtdEp1anA0QnVPbUtXRFI3XzFVaGlmT1VqMnM4WmRyRGN0Zm5n?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-13",
+            "lede": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+            "articleExcerpt": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF - MarketBeat. Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+            "contentFingerprint": "f01ba445ddb2b09a",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "MarketBeat stock forecast and price target page for Blue Owl Technology Finance (OTF), a Blue Owl BDC and therefore a private credit vehicle. It is analyst and stock price commentary only, with no transaction or event, so importance is low.",
+              "llmReasonZh": "MarketBeat关于Blue Owl Technology Finance (OTF) 的股价预测及目标价页面。OTF为Blue Owl旗下BDC，因此属于私募信贷载体。该内容仅为分析师观点及股价评论，不涉及任何交易或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.06,
+              "finalScore": 20.06,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -195103,6 +195206,106 @@
               "finalScore": 20.31,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-7e6c90481cd4",
+            "title": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary - TradingView",
+            "titleZh": "Bain Capital GSS Investment 2026年第三季度：净利润$4.21M — 10-Q摘要 - TradingView",
+            "summary": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+            "summaryZh": "Bain Capital GSS Investment 2026年第三季度：净利润$4.21M — 10-Q摘要 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFJiaUhrSHpka2tnMnJfel9jdDFrTjBkMHpLdUkzRjlja29ESXhpcFRONUlsTFl1TEwzRWxwOFFJNG1MNGRGMGZjV1JNSzRXS3N3ZkVlSkVLY3VuOFNmT3E4SHFkS1IyMDBIMEw1TzNYUjR4UjBjVGxWREJ6bTcwMWoweXRGWXlqLVZoWERmcjZ1NmFQbjBsMG1fM1RadjM5bEZDYWl4VXpuVTVUY2tjbjd0Zk50ZzRCWElaOXNhblRFNU9PQmc?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-13",
+            "lede": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+            "articleExcerpt": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary - TradingView. Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+            "contentFingerprint": "68149720b5d47ab8",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Quarterly 10-Q earnings summary for Bain Capital GSS Investment, a Bain Capital special situations/credit vehicle filing periodic reports (likely BDC-style). Routine financial results, no financing, fundraising or litigation event.",
+              "llmReasonZh": "Bain Capital GSS Investment的季度10-Q业绩摘要。该公司为Bain Capital旗下特殊机会/信贷投资载体，定期提交报告（可能为BDC类结构）。属常规财务业绩，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.35,
+              "finalScore": 11.35,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
@@ -195427,19 +195630,19 @@
             }
           },
           {
-            "id": "2026-11-13-2bb1263d0cfa",
-            "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada",
-            "titleZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？- Yahoo! Finance Canada",
-            "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-            "summaryZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？Yahoo! Finance Canada",
+            "id": "2026-11-13-0cb69f9ff94f",
+            "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo Finance UK",
+            "titleZh": "Blackstone (BX)设立迪拜财富管理办公室并推出$3 Billion基金释放何种信号？ - Yahoo Finance UK",
+            "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+            "summaryZh": "Blackstone (BX)设立迪拜财富管理办公室并推出$3 Billion基金释放何种信号？ Yahoo Finance UK",
             "summaryZhLanguage": "Simplified Chinese",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
-            "source": "Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmVlb0o0MDRsR3FXcUFjdnhyMzJfZkxKOGVuVFplTmNPcmttYVVBNlVwa1pYRlVPYUJqU2o0b1NhV3ZrcUtrUnQ5cDdSWUxZOVVWdVBaZ280TU01V1FRS3ZablNBRmtKZlFzeV9FTVdONmYxdFdvaFhkcmppelVEWGpucE1pel80UmtLRm13?oc=5",
+            "source": "Yahoo Finance UK",
             "publishedAt": "2026-11-13",
-            "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-            "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-            "contentFingerprint": "ea786cc63a0d8dff",
-            "region": "Global",
+            "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+            "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo Finance UK. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+            "contentFingerprint": "5cc660c8b25a8ac6",
+            "region": "Europe",
             "gps": [
               "Blackstone"
             ],
@@ -195469,8 +195672,8 @@
               ],
               "llmImportance": 0.25,
               "llmExclude": false,
-              "llmReason": "Stock-commentary piece (Yahoo Finance / BX 'signaling' framing) about Blackstone opening a Dubai wealth office and a $3B fund. The snippet doesn't say what strategy the fund follows. The wealth channel commonly distributes credit vehicles such as BCRED, so the item isn't excluded, but no credit strategy can be confirmed. Low importance because it is analyst commentary with an unconfirmed credit link.",
-              "llmReasonZh": "这是一篇股票评论文章（Yahoo Finance，以BX\"释放信号\"为切入角度），内容涉及黑石开设迪拜财富管理办公室并推出一只30亿美元基金。摘要未说明该基金采用何种策略。财富管理渠道通常会分销BCRED等信贷产品，因此未将该条目排除，但无法确认其涉及信贷策略。由于属于分析评论且与信贷的关联尚未确认，重要性较低。"
+              "llmReason": "This is analyst-style commentary (Yahoo Finance, BX ticker framing) on Blackstone opening a Dubai wealth office and a $3 billion fund. The text does not say whether the fund is credit or another strategy, so no strategy is tagged. It is not excluded because the fund could be credit-related, but importance is low given the speculative commentary and lack of detail.",
+              "llmReasonZh": "这是一篇分析师风格的评论文章（Yahoo Finance，以BX股票代码为切入点），内容涉及Blackstone开设迪拜财富管理办公室及一只$3 Billion基金。文中未说明该基金属于信贷策略还是其他策略，因此未标注策略类型。由于该基金可能与信贷相关，故未予排除，但鉴于该评论带有推测性且缺乏细节，重要性较低。"
             },
             "rating": {
               "parts": {
@@ -195501,12 +195704,12 @@
                 "source": {
                   "value": 0.25,
                   "code": "tier_aggregator",
-                  "source": "Yahoo! Finance Canada"
+                  "source": "Yahoo Finance UK"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.3
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
                 }
               },
               "weights": {
@@ -195516,15 +195719,22 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 60,
-              "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+              "score": 57,
+              "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
-              "semanticScore": 5.69,
-              "finalScore": 16.69,
+              "keywordScore": 12,
+              "semanticScore": 5.66,
+              "finalScore": 17.66,
               "semanticEnabled": true
-            }
+            },
+            "alternateSources": [
+              {
+                "source": "Yahoo! Finance Canada",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
+                "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada"
+              }
+            ]
           },
           {
             "id": "2026-11-13-b07db0a17396",
@@ -197477,6 +197687,109 @@
           }
         },
         {
+          "id": "2026-11-13-28dbf69d7782",
+          "title": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF - MarketBeat",
+          "titleZh": "Blue Owl Technology Finance (OTF) 2026年股价预测及目标价 $OTF - MarketBeat",
+          "summary": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+          "summaryZh": "Blue Owl Technology Finance (OTF) 2026年股价预测及目标价 $OTF MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcllwVGVwNkxrZEhkMmRmWFo0X3hqM2hPTnRQaVZHYmlvSlBsNXFEQzVVazlvR1FVcmJDV2QtdEp1anA0QnVPbUtXRFI3XzFVaGlmT1VqMnM4WmRyRGN0Zm5n?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-13",
+          "lede": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+          "articleExcerpt": "Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF - MarketBeat. Blue Owl Technology Finance (OTF) Stock Forecast and Price Target 2026 $OTF MarketBeat",
+          "contentFingerprint": "f01ba445ddb2b09a",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "MarketBeat stock forecast and price target page for Blue Owl Technology Finance (OTF), a Blue Owl BDC and therefore a private credit vehicle. It is analyst and stock price commentary only, with no transaction or event, so importance is low.",
+            "llmReasonZh": "MarketBeat关于Blue Owl Technology Finance (OTF) 的股价预测及目标价页面。OTF为Blue Owl旗下BDC，因此属于私募信贷载体。该内容仅为分析师观点及股价评论，不涉及任何交易或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.06,
+            "finalScore": 20.06,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-0acda8b0a7c3",
           "title": "Advent seeks up to $500m in renewed Learning Lab sale",
           "titleZh": "Advent重启The Learning Lab出售计划，寻求最高$500m",
@@ -198951,6 +199264,106 @@
           }
         },
         {
+          "id": "2026-11-13-7e6c90481cd4",
+          "title": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary - TradingView",
+          "titleZh": "Bain Capital GSS Investment 2026年第三季度：净利润$4.21M — 10-Q摘要 - TradingView",
+          "summary": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+          "summaryZh": "Bain Capital GSS Investment 2026年第三季度：净利润$4.21M — 10-Q摘要 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFJiaUhrSHpka2tnMnJfel9jdDFrTjBkMHpLdUkzRjlja29ESXhpcFRONUlsTFl1TEwzRWxwOFFJNG1MNGRGMGZjV1JNSzRXS3N3ZkVlSkVLY3VuOFNmT3E4SHFkS1IyMDBIMEw1TzNYUjR4UjBjVGxWREJ6bTcwMWoweXRGWXlqLVZoWERmcjZ1NmFQbjBsMG1fM1RadjM5bEZDYWl4VXpuVTVUY2tjbjd0Zk50ZzRCWElaOXNhblRFNU9PQmc?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-13",
+          "lede": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+          "articleExcerpt": "Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary - TradingView. Bain Capital GSS Investment 3Q 2026: Net income $4.21M — 10-Q Summary TradingView",
+          "contentFingerprint": "68149720b5d47ab8",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Quarterly 10-Q earnings summary for Bain Capital GSS Investment, a Bain Capital special situations/credit vehicle filing periodic reports (likely BDC-style). Routine financial results, no financing, fundraising or litigation event.",
+            "llmReasonZh": "Bain Capital GSS Investment的季度10-Q业绩摘要。该公司为Bain Capital旗下特殊机会/信贷投资载体，定期提交报告（可能为BDC类结构）。属常规财务业绩，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.35,
+            "finalScore": 11.35,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-39fc3a21d8a1",
           "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
           "titleZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
@@ -199167,19 +199580,19 @@
           }
         },
         {
-          "id": "2026-11-13-2bb1263d0cfa",
-          "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada",
-          "titleZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？- Yahoo! Finance Canada",
-          "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-          "summaryZh": "黑石（BX）设立迪拜财富管理办公室并推出30亿美元基金释放了什么信号？Yahoo! Finance Canada",
+          "id": "2026-11-13-0cb69f9ff94f",
+          "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo Finance UK",
+          "titleZh": "Blackstone (BX)设立迪拜财富管理办公室并推出$3 Billion基金释放何种信号？ - Yahoo Finance UK",
+          "summary": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+          "summaryZh": "Blackstone (BX)设立迪拜财富管理办公室并推出$3 Billion基金释放何种信号？ Yahoo Finance UK",
           "summaryZhLanguage": "Simplified Chinese",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
-          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmVlb0o0MDRsR3FXcUFjdnhyMzJfZkxKOGVuVFplTmNPcmttYVVBNlVwa1pYRlVPYUJqU2o0b1NhV3ZrcUtrUnQ5cDdSWUxZOVVWdVBaZ280TU01V1FRS3ZablNBRmtKZlFzeV9FTVdONmYxdFdvaFhkcmppelVEWGpucE1pel80UmtLRm13?oc=5",
+          "source": "Yahoo Finance UK",
           "publishedAt": "2026-11-13",
-          "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-          "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo! Finance Canada",
-          "contentFingerprint": "ea786cc63a0d8dff",
-          "region": "Global",
+          "lede": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+          "articleExcerpt": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo Finance UK. What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? Yahoo Finance UK",
+          "contentFingerprint": "5cc660c8b25a8ac6",
+          "region": "Europe",
           "gps": [
             "Blackstone"
           ],
@@ -199209,8 +199622,8 @@
             ],
             "llmImportance": 0.25,
             "llmExclude": false,
-            "llmReason": "Stock-commentary piece (Yahoo Finance / BX 'signaling' framing) about Blackstone opening a Dubai wealth office and a $3B fund. The snippet doesn't say what strategy the fund follows. The wealth channel commonly distributes credit vehicles such as BCRED, so the item isn't excluded, but no credit strategy can be confirmed. Low importance because it is analyst commentary with an unconfirmed credit link.",
-            "llmReasonZh": "这是一篇股票评论文章（Yahoo Finance，以BX\"释放信号\"为切入角度），内容涉及黑石开设迪拜财富管理办公室并推出一只30亿美元基金。摘要未说明该基金采用何种策略。财富管理渠道通常会分销BCRED等信贷产品，因此未将该条目排除，但无法确认其涉及信贷策略。由于属于分析评论且与信贷的关联尚未确认，重要性较低。"
+            "llmReason": "This is analyst-style commentary (Yahoo Finance, BX ticker framing) on Blackstone opening a Dubai wealth office and a $3 billion fund. The text does not say whether the fund is credit or another strategy, so no strategy is tagged. It is not excluded because the fund could be credit-related, but importance is low given the speculative commentary and lack of detail.",
+            "llmReasonZh": "这是一篇分析师风格的评论文章（Yahoo Finance，以BX股票代码为切入点），内容涉及Blackstone开设迪拜财富管理办公室及一只$3 Billion基金。文中未说明该基金属于信贷策略还是其他策略，因此未标注策略类型。由于该基金可能与信贷相关，故未予排除，但鉴于该评论带有推测性且缺乏细节，重要性较低。"
           },
           "rating": {
             "parts": {
@@ -199241,12 +199654,12 @@
               "source": {
                 "value": 0.25,
                 "code": "tier_aggregator",
-                "source": "Yahoo! Finance Canada"
+                "source": "Yahoo Finance UK"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.3
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
               }
             },
             "weights": {
@@ -199256,15 +199669,22 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 60,
-            "retrievedAt": "2026-11-13T18:59:19.868311+00:00"
+            "score": 57,
+            "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
-            "semanticScore": 5.69,
-            "finalScore": 16.69,
+            "keywordScore": 12,
+            "semanticScore": 5.66,
+            "finalScore": 17.66,
             "semanticEnabled": true
-          }
+          },
+          "alternateSources": [
+            {
+              "source": "Yahoo! Finance Canada",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN05ocDd6eDZCZmRZZF95T0hKQTF4cDVJWnJqX25DMUJIbzdqY1drYkhFdS1mTmdnOEswcDA5YUxCTWJUc2FJSkxVNWU3a1VJRWRqODlBa3BrMWV4TFZTMU9TMi1HWlU0c0dGbG9HS0xrZGtZSFlKRS1TMmd4bWh1Mml4OWE0S0ZrNi1nekFR?oc=5",
+              "title": "What Is Blackstone (BX) Signaling With Its Dubai Wealth Office And $3 Billion Fund? - Yahoo! Finance Canada"
+            }
+          ]
         },
         {
           "id": "2026-11-13-b07db0a17396",
@@ -202412,9 +202832,224 @@
               "finalScore": 22.3,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-15-3d8f6088514d",
+            "title": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA - TipRanks",
+            "titleZh": "美银将Bain Capital Specialty Finance目标价从$13下调至$11.50 - TipRanks",
+            "summary": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+            "summaryZh": "美银将Bain Capital Specialty Finance目标价从$13下调至$11.50 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGVDMjRFQUhZd2x4WVU4QzJwUWdHVmRmMVpxaW5yQjZoTVIzTnRlUUcydzVUTV9oZklIT1c5bEVHSjloNHl3dWJ3aklFS19iVFhEOF9RR2tuOFNyYVAxY3dwOFdzYy1lbUdRTDdpMGRSWDQxY3dRMS1mMnN0bXNNczZ2XzktNFppRnNSQnAzVXozZ2ZhdlZ6WS02Z2lHNG90UGlTTi1HR2lxM1VoY3M3XzdJUXloOWREUXZ6QVRKbWRBVVFQ?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-15",
+            "lede": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+            "articleExcerpt": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA - TipRanks. Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+            "contentFingerprint": "43a9bffa4c26a406",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price target cut for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC, which is part of its credit business. This is stock and analyst commentary, so importance is low and no event type applies.",
+              "llmReasonZh": "分析师下调Bain Capital Specialty Finance (BCSF)的目标价。BCSF是Bain Capital旗下公开交易的BDC，属于其信贷业务。此为股票及分析师评论，重要性较低，且不适用任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.5,
+              "finalScore": 22.5,
+              "semanticEnabled": true
+            }
           }
         ],
-        "Blackstone": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-15-0b1df80b13ec",
+            "title": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout - Gulf Daily News (Bahrain)",
+            "titleZh": "阿联酋商业：Blackstone与Pimco瞄准海湾地区数十亿美元规模的建设热潮 - Gulf Daily News (Bahrain)",
+            "summary": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+            "summaryZh": "阿联酋商业：Blackstone与Pimco瞄准海湾地区数十亿美元规模的建设热潮 Gulf Daily News (Bahrain)",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN29JNmxXc0g0dkxRb1ZuNXpMU0tubTRuMFM4cUMtTjVJTTQ2T3JnUHpDY25JVDFnZFdmc1c4WkpscTdlZnJ5NXZiMzNiaXFLcWFyNTV2bF8xYzVyMFk3MmVKdmFTX0E5S2hxUFprM1JzTU9laThrWHM4WWFYQkROWDBUaW15dmMyRThsMDBwcVA2NEE3cGs5UE9fOEhycEdyLTBfYWVDQnlxWmxHUUl1RWVhRQ?oc=5",
+            "source": "Gulf Daily News (Bahrain)",
+            "publishedAt": "2026-11-15",
+            "lede": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+            "articleExcerpt": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout - Gulf Daily News (Bahrain). UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+            "contentFingerprint": "59bfcc13b3aa8fe6",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Only a headline is available. Pairing Blackstone with Pimco, a credit-focused manager, to target the Gulf's buildout suggests a private-credit or financing push into the region. No specific transaction or fund close is described, so this is treated as routine manager strategy news. Confidence is moderate.",
+              "llmReasonZh": "仅有标题可供参考。Blackstone与专注于信贷的管理人Pimco共同瞄准海湾地区的建设热潮，表明其可能在该地区推进私募信贷或融资布局。文中未描述具体交易或基金募集完成情况，因此将其视为常规的管理人战略新闻。置信度为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Gulf Daily News (Bahrain)"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.95,
+              "finalScore": 10.95,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Apollo": [],
         "TPG": [],
         "Golub": [],
@@ -202641,6 +203276,220 @@
             "finalScore": 22.3,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-15-3d8f6088514d",
+          "title": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA - TipRanks",
+          "titleZh": "美银将Bain Capital Specialty Finance目标价从$13下调至$11.50 - TipRanks",
+          "summary": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+          "summaryZh": "美银将Bain Capital Specialty Finance目标价从$13下调至$11.50 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGVDMjRFQUhZd2x4WVU4QzJwUWdHVmRmMVpxaW5yQjZoTVIzTnRlUUcydzVUTV9oZklIT1c5bEVHSjloNHl3dWJ3aklFS19iVFhEOF9RR2tuOFNyYVAxY3dwOFdzYy1lbUdRTDdpMGRSWDQxY3dRMS1mMnN0bXNNczZ2XzktNFppRnNSQnAzVXozZ2ZhdlZ6WS02Z2lHNG90UGlTTi1HR2lxM1VoY3M3XzdJUXloOWREUXZ6QVRKbWRBVVFQ?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-15",
+          "lede": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+          "articleExcerpt": "Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA - TipRanks. Bain Capital Specialty Finance price target lowered to $11.50 from $13 at BofA TipRanks",
+          "contentFingerprint": "43a9bffa4c26a406",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price target cut for Bain Capital Specialty Finance (BCSF), Bain Capital's publicly traded BDC, which is part of its credit business. This is stock and analyst commentary, so importance is low and no event type applies.",
+            "llmReasonZh": "分析师下调Bain Capital Specialty Finance (BCSF)的目标价。BCSF是Bain Capital旗下公开交易的BDC，属于其信贷业务。此为股票及分析师评论，重要性较低，且不适用任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.5,
+            "finalScore": 22.5,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-15-0b1df80b13ec",
+          "title": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout - Gulf Daily News (Bahrain)",
+          "titleZh": "阿联酋商业：Blackstone与Pimco瞄准海湾地区数十亿美元规模的建设热潮 - Gulf Daily News (Bahrain)",
+          "summary": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+          "summaryZh": "阿联酋商业：Blackstone与Pimco瞄准海湾地区数十亿美元规模的建设热潮 Gulf Daily News (Bahrain)",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN29JNmxXc0g0dkxRb1ZuNXpMU0tubTRuMFM4cUMtTjVJTTQ2T3JnUHpDY25JVDFnZFdmc1c4WkpscTdlZnJ5NXZiMzNiaXFLcWFyNTV2bF8xYzVyMFk3MmVKdmFTX0E5S2hxUFprM1JzTU9laThrWHM4WWFYQkROWDBUaW15dmMyRThsMDBwcVA2NEE3cGs5UE9fOEhycEdyLTBfYWVDQnlxWmxHUUl1RWVhRQ?oc=5",
+          "source": "Gulf Daily News (Bahrain)",
+          "publishedAt": "2026-11-15",
+          "lede": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+          "articleExcerpt": "UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout - Gulf Daily News (Bahrain). UAE Business: Blackstone and Pimco target Gulf’s multibillion-dollar buildout Gulf Daily News (Bahrain)",
+          "contentFingerprint": "59bfcc13b3aa8fe6",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Only a headline is available. Pairing Blackstone with Pimco, a credit-focused manager, to target the Gulf's buildout suggests a private-credit or financing push into the region. No specific transaction or fund close is described, so this is treated as routine manager strategy news. Confidence is moderate.",
+            "llmReasonZh": "仅有标题可供参考。Blackstone与专注于信贷的管理人Pimco共同瞄准海湾地区的建设热潮，表明其可能在该地区推进私募信贷或融资布局。文中未描述具体交易或基金募集完成情况，因此将其视为常规的管理人战略新闻。置信度为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.65,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Gulf Daily News (Bahrain)"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-15T18:15:56.337898+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.95,
+            "finalScore": 10.95,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -202648,7 +203497,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 19,
+      "count": 18,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -202656,12 +203505,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 71,
+      "count": 65,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -202669,12 +203518,12 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 0,
+      "count": 1,
       "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -202682,12 +203531,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 10,
+      "count": 6,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -202695,12 +203544,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 6,
+      "count": 3,
       "selected": 2,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -202708,12 +203557,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -202721,20 +203570,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 12,
-      "selected": 1,
+      "count": 10,
+      "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
@@ -202747,25 +203596,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 11,
-      "selected": 5,
+      "selected": 6,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 61,
+      "count": 41,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -202773,25 +203622,25 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 31,
-      "selected": 2,
+      "count": 25,
+      "selected": 3,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 8,
+      "count": 9,
       "selected": 3,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -202799,12 +203648,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 5,
+      "count": 2,
       "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -202812,7 +203661,7 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
@@ -202825,7 +203674,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
@@ -202838,12 +203687,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 375,
+      "count": 401,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -202860,9 +203709,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-15T11:41:29.983859+00:00",
+      "asOf": "2026-11-15T18:15:56.337898+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-15T11:41:29.983859+00:00"
+  "checkedAt": "2026-11-15T18:15:56.337898+00:00"
 }
