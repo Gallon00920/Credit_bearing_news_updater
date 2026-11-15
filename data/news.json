@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-15T04:20:56.021227+00:00",
+  "updatedAt": "2026-11-15T12:10:28.327247+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8098,7 +8098,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20508,7 +20508,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20532,7 +20532,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -193517,6 +193517,105 @@
               "finalScore": 11.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-a1a7c8b8c0e2",
+            "title": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - TIKR.com",
+            "titleZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital - TIKR.com",
+            "summary": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+            "summaryZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital TIKR.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSlJCbUJodUx6ZmhfeThqNHZFZC1jdFo3Z3FEQXZLODVMR2ljUjdSZV9TQzhmeWhCOVVzWEFKbTNUeUJUbzB3R29zQ0JBM0lmUFg2NXQyb0FqRExWSlZhRWJMeGtJX0dRN1pnUXhZaXJXaWhvclo5Q3dKZ0g4Qk1jeWYwRmQ3RHhQV2pDbHRpUTdLQQ?oc=5",
+            "source": "TIKR.com",
+            "publishedAt": "2026-11-13",
+            "lede": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+            "articleExcerpt": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - TIKR.com. Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+            "contentFingerprint": "ee2797a9059550a9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock/dividend comparison commentary on Blue Owl Capital (likely the BDC OBDC or Blue Owl's listed stock). Credit-related manager, but this is only investment-advice/analyst commentary with no transaction or event, so importance is low.",
+              "llmReasonZh": "关于Blue Owl Capital（可能为BDC OBDC或Blue Owl上市股票）的股票/股息比较评论。Blue Owl Capital为信贷相关管理人，但本文仅为投资建议/分析师评论，不涉及任何交易或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TIKR.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.25,
+              "finalScore": 11.25,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -195726,6 +195825,98 @@
               "finalScore": 13.809999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-ced4d5c5b100",
+            "title": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD - Simply Wall St",
+            "titleZh": "Blackstone (BX)股价年初至今下跌25%，估值显得合理 - Simply Wall St",
+            "summary": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+            "summaryZh": "Blackstone (BX)股价年初至今下跌25%，估值显得合理 Simply Wall St",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDJXTUwwVWNHbG15S3NKTGFjZDE4UHhEQWRnV0N5MUtKUzU0bnlhM2xmV3Z0MjNaMUJjWTM3Ukt2ZG9sWXl1VWRFMWZmZXYwUXFuWDJQY0p2YTRPVzRuYVJwT2JYLWRTeWEzQks4QW12SFhfNzd6a1ZrTkRGOVoybWdET0prTm1RNm85NEg1WVlDZFFRZTlDZ3JzTER6VC1YUUdrNmp2WUdEbllsR1dadTZfTzl6RjA0X3c0U25oUG5qaUswNmJ1TUVUVnhFVUNrVVJjbUp30gHbAUFVX3lxTE5ETUt0V3E0WXhVbVRQdmpYTmJPNHJZaGFFSTVlb2RNLU9kT3V4M0RCeDJLUFVZTkNwTEwyb0M4ckFYQXM4Rlc3R2FvTHBWRklKZUluSTVkZXJybnJFbFVHY3V3QzFhVnluLV9ycUlMY2lzWkFwYl9kZzN1R1d6dmZOYXJYZVk5dExVQ09LS0F5WmdzOHM4Rmtvek9LUWtORXhOeUR3ZnJyLXIzZXNTZmtkM3dWYVVvWkJYMHVuUy02NkhOWmM3R1dfck1tSHJHV0dpM09DRDhLbEZUYw?oc=5",
+            "source": "Simply Wall St",
+            "publishedAt": "2026-11-13",
+            "lede": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+            "articleExcerpt": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD - Simply Wall St. Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+            "contentFingerprint": "1e83a38fccfbc840",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock valuation and analyst commentary on Blackstone's shares, which are down 25% YTD. It has no specific credit or financing angle, but it is general manager-level market news, so it is kept at low importance rather than excluded.",
+              "llmReasonZh": "关于Blackstone股票估值及分析师评论的报道，其股价年初至今下跌25%。该文章不涉及具体信贷或融资角度，但属于管理人层面的一般市场新闻，因此以低重要性保留而非剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Simply Wall St"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.89,
+              "finalScore": 7.89,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -196245,6 +196436,110 @@
               "keywordScore": 14,
               "semanticScore": 5.36,
               "finalScore": 19.36,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-57489fc7f749",
+            "title": "Tpg re finance trust director Michael Smith buys $64,600 in stock - Investing.com",
+            "titleZh": "TPG RE Finance Trust董事Michael Smith买入64,600美元股票 - Investing.com",
+            "summary": "Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+            "summaryZh": "TPG RE Finance Trust董事Michael Smith买入64,600美元股票 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXBwejhwVkFQS2ZndDU4d2JwLXV0RlJTdWwxd05kSzhucHk1R1F3cURPVEFDenNMczV4MUJUTFJsQUlfYnB4OE9aQlFzc2NxZjNTOEF4MURHRF8xWWVSeVBnWHJUZXdPQVhUZ1JIMGNfdjVIc1RvY2NpTVVGYjJxTVpSNVFkMEpYWmdoRzVZaE5QZzd4S1l0Qmdqa2lUVlIwcnJVaTF2UmQwZjVYR2tWRkVWa016cG5PVl9xZkpBbGRrdElRSndn?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-13",
+            "lede": "Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+            "articleExcerpt": "Tpg re finance trust director Michael Smith buys $64,600 in stock - Investing.com. Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+            "contentFingerprint": "643d007a97af55b7",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "TPG RE Finance Trust is TPG's commercial real estate lending mortgage REIT, so it is credit-relevant. The article covers only a small director stock purchase, which is low-importance stock news with no financing or fundraising event.",
+              "llmReasonZh": "TPG RE Finance Trust是TPG旗下从事商业地产贷款的抵押贷款REIT，因此与信贷相关。该文章仅涉及一笔小额董事股票买入，属于重要性较低的股票新闻，不涉及融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.23,
+              "finalScore": 19.23,
               "semanticEnabled": true
             }
           }
@@ -197079,6 +197374,105 @@
             "keywordScore": 6,
             "semanticScore": 5.42,
             "finalScore": 11.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-a1a7c8b8c0e2",
+          "title": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - TIKR.com",
+          "titleZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital - TIKR.com",
+          "summary": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+          "summaryZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital TIKR.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSlJCbUJodUx6ZmhfeThqNHZFZC1jdFo3Z3FEQXZLODVMR2ljUjdSZV9TQzhmeWhCOVVzWEFKbTNUeUJUbzB3R29zQ0JBM0lmUFg2NXQyb0FqRExWSlZhRWJMeGtJX0dRN1pnUXhZaXJXaWhvclo5Q3dKZ0g4Qk1jeWYwRmQ3RHhQV2pDbHRpUTdLQQ?oc=5",
+          "source": "TIKR.com",
+          "publishedAt": "2026-11-13",
+          "lede": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+          "articleExcerpt": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - TIKR.com. Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital TIKR.com",
+          "contentFingerprint": "ee2797a9059550a9",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock/dividend comparison commentary on Blue Owl Capital (likely the BDC OBDC or Blue Owl's listed stock). Credit-related manager, but this is only investment-advice/analyst commentary with no transaction or event, so importance is low.",
+            "llmReasonZh": "关于Blue Owl Capital（可能为BDC OBDC或Blue Owl上市股票）的股票/股息比较评论。Blue Owl Capital为信贷相关管理人，但本文仅为投资建议/分析师评论，不涉及任何交易或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TIKR.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.25,
+            "finalScore": 11.25,
             "semanticEnabled": true
           }
         },
@@ -199173,6 +199567,98 @@
           }
         },
         {
+          "id": "2026-11-13-ced4d5c5b100",
+          "title": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD - Simply Wall St",
+          "titleZh": "Blackstone (BX)股价年初至今下跌25%，估值显得合理 - Simply Wall St",
+          "summary": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+          "summaryZh": "Blackstone (BX)股价年初至今下跌25%，估值显得合理 Simply Wall St",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDJXTUwwVWNHbG15S3NKTGFjZDE4UHhEQWRnV0N5MUtKUzU0bnlhM2xmV3Z0MjNaMUJjWTM3Ukt2ZG9sWXl1VWRFMWZmZXYwUXFuWDJQY0p2YTRPVzRuYVJwT2JYLWRTeWEzQks4QW12SFhfNzd6a1ZrTkRGOVoybWdET0prTm1RNm85NEg1WVlDZFFRZTlDZ3JzTER6VC1YUUdrNmp2WUdEbllsR1dadTZfTzl6RjA0X3c0U25oUG5qaUswNmJ1TUVUVnhFVUNrVVJjbUp30gHbAUFVX3lxTE5ETUt0V3E0WXhVbVRQdmpYTmJPNHJZaGFFSTVlb2RNLU9kT3V4M0RCeDJLUFVZTkNwTEwyb0M4ckFYQXM4Rlc3R2FvTHBWRklKZUluSTVkZXJybnJFbFVHY3V3QzFhVnluLV9ycUlMY2lzWkFwYl9kZzN1R1d6dmZOYXJYZVk5dExVQ09LS0F5WmdzOHM4Rmtvek9LUWtORXhOeUR3ZnJyLXIzZXNTZmtkM3dWYVVvWkJYMHVuUy02NkhOWmM3R1dfck1tSHJHV0dpM09DRDhLbEZUYw?oc=5",
+          "source": "Simply Wall St",
+          "publishedAt": "2026-11-13",
+          "lede": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+          "articleExcerpt": "Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD - Simply Wall St. Blackstone (BX) Stock Looks Fairly Valued As Shares Fell 25% YTD Simply Wall St",
+          "contentFingerprint": "1e83a38fccfbc840",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock valuation and analyst commentary on Blackstone's shares, which are down 25% YTD. It has no specific credit or financing angle, but it is general manager-level market news, so it is kept at low importance rather than excluded.",
+            "llmReasonZh": "关于Blackstone股票估值及分析师评论的报道，其股价年初至今下跌25%。该文章不涉及具体信贷或融资角度，但属于管理人层面的一般市场新闻，因此以低重要性保留而非剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Simply Wall St"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.89,
+            "finalScore": 7.89,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-10233853606c",
           "title": "How Apollo’s SoftBank Ties Unlocked an Unprecedented OpenAI Bet - Bloomberg.com",
           "titleZh": "Apollo与SoftBank的关系如何促成一笔前所未有的OpenAI押注 - Bloomberg.com",
@@ -199686,6 +200172,110 @@
             "keywordScore": 14,
             "semanticScore": 5.36,
             "finalScore": 19.36,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-57489fc7f749",
+          "title": "Tpg re finance trust director Michael Smith buys $64,600 in stock - Investing.com",
+          "titleZh": "TPG RE Finance Trust董事Michael Smith买入64,600美元股票 - Investing.com",
+          "summary": "Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+          "summaryZh": "TPG RE Finance Trust董事Michael Smith买入64,600美元股票 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXBwejhwVkFQS2ZndDU4d2JwLXV0RlJTdWwxd05kSzhucHk1R1F3cURPVEFDenNMczV4MUJUTFJsQUlfYnB4OE9aQlFzc2NxZjNTOEF4MURHRF8xWWVSeVBnWHJUZXdPQVhUZ1JIMGNfdjVIc1RvY2NpTVVGYjJxTVpSNVFkMEpYWmdoRzVZaE5QZzd4S1l0Qmdqa2lUVlIwcnJVaTF2UmQwZjVYR2tWRkVWa016cG5PVl9xZkpBbGRrdElRSndn?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-13",
+          "lede": "Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+          "articleExcerpt": "Tpg re finance trust director Michael Smith buys $64,600 in stock - Investing.com. Tpg re finance trust director Michael Smith buys $64,600 in stock Investing.com",
+          "contentFingerprint": "643d007a97af55b7",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "TPG RE Finance Trust is TPG's commercial real estate lending mortgage REIT, so it is credit-relevant. The article covers only a small director stock purchase, which is low-importance stock news with no financing or fundraising event.",
+            "llmReasonZh": "TPG RE Finance Trust是TPG旗下从事商业地产贷款的抵押贷款REIT，因此与信贷相关。该文章仅涉及一笔小额董事股票买入，属于重要性较低的股票新闻，不涉及融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.23,
+            "finalScore": 19.23,
             "semanticEnabled": true
           }
         },
@@ -200344,6 +200934,98 @@
               "finalScore": 28.31,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-14-c83948fb8336",
+            "title": "Blackstone (BX) Q2 2026 Earnings Call Transcript - Fortune",
+            "titleZh": "黑石（BX）2026年第二季度财报电话会议实录 - Fortune",
+            "summary": "Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+            "summaryZh": "黑石（BX）2026年第二季度财报电话会议实录 Fortune",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoamduLTNxRnNXb1kydUJzUzNSakxHWkt6UzF2cXNJR0g5MVh2MmtVaWdFMFE0X2NOTm9YQWxTTHd1YWRZTEQwM2l6cG15VUwxa1hGUDhaSjUtTEpZQUFLaFR0WkdWZ1VPQzByaHM0RQ?oc=5",
+            "source": "Fortune",
+            "publishedAt": "2026-11-14",
+            "lede": "Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+            "articleExcerpt": "Blackstone (BX) Q2 2026 Earnings Call Transcript - Fortune. Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+            "contentFingerprint": "c90db91ba5bf8cc1",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "This is Blackstone's Q2 2026 earnings call transcript, a firm-wide corporate update. Earnings calls usually cover the credit and insurance segment (fundraising, private credit flows, performance), so it is relevant to credit exposure. The article text gives no specific credit details, so no strategy or event is tagged and importance is set slightly below routine manager news.",
+              "llmReasonZh": "本文为黑石2026年第二季度财报电话会议实录，属于公司整体层面的业务更新。财报电话会议通常涵盖信贷与保险板块（包括募资、私募信贷资金流向及业绩表现），因此与信贷敞口相关。由于文章内容未提供具体的信贷细节，故未标注任何策略或事件，重要性设定为略低于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Fortune"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.09,
+              "finalScore": 8.09,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -200992,6 +201674,98 @@
           }
         },
         {
+          "id": "2026-11-14-c83948fb8336",
+          "title": "Blackstone (BX) Q2 2026 Earnings Call Transcript - Fortune",
+          "titleZh": "黑石（BX）2026年第二季度财报电话会议实录 - Fortune",
+          "summary": "Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+          "summaryZh": "黑石（BX）2026年第二季度财报电话会议实录 Fortune",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoamduLTNxRnNXb1kydUJzUzNSakxHWkt6UzF2cXNJR0g5MVh2MmtVaWdFMFE0X2NOTm9YQWxTTHd1YWRZTEQwM2l6cG15VUwxa1hGUDhaSjUtTEpZQUFLaFR0WkdWZ1VPQzByaHM0RQ?oc=5",
+          "source": "Fortune",
+          "publishedAt": "2026-11-14",
+          "lede": "Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+          "articleExcerpt": "Blackstone (BX) Q2 2026 Earnings Call Transcript - Fortune. Blackstone (BX) Q2 2026 Earnings Call Transcript Fortune",
+          "contentFingerprint": "c90db91ba5bf8cc1",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "This is Blackstone's Q2 2026 earnings call transcript, a firm-wide corporate update. Earnings calls usually cover the credit and insurance segment (fundraising, private credit flows, performance), so it is relevant to credit exposure. The article text gives no specific credit details, so no strategy or event is tagged and importance is set slightly below routine manager news.",
+            "llmReasonZh": "本文为黑石2026年第二季度财报电话会议实录，属于公司整体层面的业务更新。财报电话会议通常涵盖信贷与保险板块（包括募资、私募信贷资金流向及业绩表现），因此与信贷敞口相关。由于文章内容未提供具体的信贷细节，故未标注任何策略或事件，重要性设定为略低于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Fortune"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.09,
+            "finalScore": 8.09,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-14-93b36321b31e",
           "title": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management",
           "titleZh": "增长强劲、物价上涨，美联储行动滞后 - Apollo Global Management",
@@ -201299,8 +202073,228 @@
     },
     "2026-11-15": {
       "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-15-8118c6be59e3",
+            "title": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance",
+            "titleZh": "信贷收紧之际，KKR与Blue Owl股价受关注 - Yahoo Finance",
+            "summary": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "summaryZh": "信贷收紧之际，KKR与Blue Owl股价受关注 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlNXTTlPUTVmVVZ1aWgtYUVSUzduN2FVWUs0eThqODRtV0RjRHV5eE5iQmh6SHJnS0laX1JiU29Vd1M5ZS1WYTNoV1VhM1gzTzY1eFlRN0JWT2JjcXJiZm5JXy1vQzlsUW5YRFp3bmZjQ1p6WUNuV0NlZXBnR3RHLXczcVdFNjNPRmdGa3VyRnhPdXdN?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-15",
+            "lede": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "articleExcerpt": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance. KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "contentFingerprint": "95d51575fa4b1166",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "titleGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock-focused commentary on KKR and Blue Owl shares amid tightening credit conditions. It is credit-relevant but amounts to stock/analyst commentary with no specific transaction, lawsuit, or fundraising.",
+              "llmReasonZh": "针对信贷条件收紧背景下KKR与Blue Owl股价的股票类评论。与信贷相关，但仅属股票/分析师评论，未涉及具体交易、诉讼或募资事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.98,
+              "finalScore": 23.98,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "KKR": [
+          {
+            "id": "2026-11-15-8118c6be59e3",
+            "title": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance",
+            "titleZh": "信贷收紧之际，KKR与Blue Owl股价受关注 - Yahoo Finance",
+            "summary": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "summaryZh": "信贷收紧之际，KKR与Blue Owl股价受关注 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlNXTTlPUTVmVVZ1aWgtYUVSUzduN2FVWUs0eThqODRtV0RjRHV5eE5iQmh6SHJnS0laX1JiU29Vd1M5ZS1WYTNoV1VhM1gzTzY1eFlRN0JWT2JjcXJiZm5JXy1vQzlsUW5YRFp3bmZjQ1p6WUNuV0NlZXBnR3RHLXczcVdFNjNPRmdGa3VyRnhPdXdN?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-15",
+            "lede": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "articleExcerpt": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance. KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+            "contentFingerprint": "95d51575fa4b1166",
+            "region": "Global",
+            "gps": [
+              "Blue Owl",
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "titleGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "llmGps": [
+                "Blue Owl",
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock-focused commentary on KKR and Blue Owl shares amid tightening credit conditions. It is credit-relevant but amounts to stock/analyst commentary with no specific transaction, lawsuit, or fundraising.",
+              "llmReasonZh": "针对信贷条件收紧背景下KKR与Blue Owl股价的股票类评论。与信贷相关，但仅属股票/分析师评论，未涉及具体交易、诉讼或募资事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.98,
+              "finalScore": 23.98,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
@@ -201429,6 +202423,115 @@
       },
       "items": [
         {
+          "id": "2026-11-15-8118c6be59e3",
+          "title": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance",
+          "titleZh": "信贷收紧之际，KKR与Blue Owl股价受关注 - Yahoo Finance",
+          "summary": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+          "summaryZh": "信贷收紧之际，KKR与Blue Owl股价受关注 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlNXTTlPUTVmVVZ1aWgtYUVSUzduN2FVWUs0eThqODRtV0RjRHV5eE5iQmh6SHJnS0laX1JiU29Vd1M5ZS1WYTNoV1VhM1gzTzY1eFlRN0JWT2JjcXJiZm5JXy1vQzlsUW5YRFp3bmZjQ1p6WUNuV0NlZXBnR3RHLXczcVdFNjNPRmdGa3VyRnhPdXdN?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-15",
+          "lede": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+          "articleExcerpt": "KKR Stock And Blue Owl Shares In Focus As Credit Tightens - Yahoo Finance. KKR Stock And Blue Owl Shares In Focus As Credit Tightens Yahoo Finance",
+          "contentFingerprint": "95d51575fa4b1166",
+          "region": "Global",
+          "gps": [
+            "Blue Owl",
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "KKR"
+            ],
+            "titleGps": [
+              "Blue Owl",
+              "KKR"
+            ],
+            "llmGps": [
+              "Blue Owl",
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock-focused commentary on KKR and Blue Owl shares amid tightening credit conditions. It is credit-relevant but amounts to stock/analyst commentary with no specific transaction, lawsuit, or fundraising.",
+            "llmReasonZh": "针对信贷条件收紧背景下KKR与Blue Owl股价的股票类评论。与信贷相关，但仅属股票/分析师评论，未涉及具体交易、诉讼或募资事项。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl",
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-15T11:41:29.983859+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.98,
+            "finalScore": 23.98,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-15-65ec3e6fee45",
           "title": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks",
           "titleZh": "Bain Capital Specialty Finance财报电话会议显示韧性 - TipRanks",
@@ -201545,7 +202648,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 20,
+      "count": 19,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -201553,20 +202656,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 78,
-      "selected": 1,
+      "count": 71,
+      "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
@@ -201579,12 +202682,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 9,
+      "count": 10,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -201592,20 +202695,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 5,
-      "selected": 1,
+      "count": 6,
+      "selected": 2,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
@@ -201618,12 +202721,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 11,
+      "count": 12,
       "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -201631,7 +202734,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
@@ -201644,64 +202747,64 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 13,
-      "selected": 4,
+      "count": 11,
+      "selected": 5,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 79,
-      "selected": 4,
+      "count": 61,
+      "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
       "count": 31,
-      "selected": 3,
+      "selected": 2,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
       "count": 8,
-      "selected": 2,
+      "selected": 3,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
+      "count": 5,
       "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -201709,12 +202812,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 10,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -201722,12 +202825,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 27,
+      "count": 30,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -201735,7 +202838,7 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     },
     {
@@ -201757,9 +202860,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-15T03:54:47.188332+00:00",
+      "asOf": "2026-11-15T11:41:29.983859+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-15T03:54:47.188332+00:00"
+  "checkedAt": "2026-11-15T11:41:29.983859+00:00"
 }
