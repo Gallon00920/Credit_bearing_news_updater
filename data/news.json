@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-15T18:47:53.875942+00:00",
+  "updatedAt": "2026-11-15T23:51:40.277659+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8098,7 +8098,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20532,7 +20532,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及'HSBC Medium Term Fund - Direct Plan'，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -201446,6 +201446,112 @@
               "finalScore": 8.09,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-14-c76f6a5d8256",
+            "title": "Blackstone is becoming a biotech bank - Axios",
+            "titleZh": "Blackstone正成为生物科技领域的“银行” - Axios",
+            "summary": "Blackstone is becoming a biotech bank Axios",
+            "summaryZh": "Blackstone正成为生物科技领域的“银行” Axios",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNDdlX3ZwbTJLblJTdFh1TGNGQ3dPQmVWME1SeVhaR0pyQkpYMkJVaTlxQjBRam9GNWQ4VXFoR3c0VFhFUjVCWVp0RGh3T05XZVo5TFItTUFrVmxkeXFvaXJzRVd2X0RZc3VfdlYzUzM?oc=5",
+            "source": "Axios",
+            "publishedAt": "2026-11-14",
+            "lede": "Blackstone is becoming a biotech bank Axios",
+            "articleExcerpt": "Blackstone is becoming a biotech bank - Axios. Blackstone is becoming a biotech bank Axios",
+            "contentFingerprint": "da800a4981846c71",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "The headline says Blackstone is acting as a 'bank' to biotech companies, which points to lending and financing activity (likely through Blackstone Life Sciences or its credit arm) rather than an equity buyout. The article text is only the headline, so the details and specific deals are unclear.",
+              "llmReasonZh": "标题称Blackstone正充当生物科技公司的“银行”，表明其涉及贷款和融资活动（可能通过Blackstone Life Sciences或其信贷部门进行），而非股权收购。文章内容仅有标题，因此具体细节和交易情况尚不明确。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Axios"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.0,
+              "finalScore": 11.0,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -202182,6 +202288,112 @@
             "keywordScore": 3,
             "semanticScore": 5.09,
             "finalScore": 8.09,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-c76f6a5d8256",
+          "title": "Blackstone is becoming a biotech bank - Axios",
+          "titleZh": "Blackstone正成为生物科技领域的“银行” - Axios",
+          "summary": "Blackstone is becoming a biotech bank Axios",
+          "summaryZh": "Blackstone正成为生物科技领域的“银行” Axios",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNDdlX3ZwbTJLblJTdFh1TGNGQ3dPQmVWME1SeVhaR0pyQkpYMkJVaTlxQjBRam9GNWQ4VXFoR3c0VFhFUjVCWVp0RGh3T05XZVo5TFItTUFrVmxkeXFvaXJzRVd2X0RZc3VfdlYzUzM?oc=5",
+          "source": "Axios",
+          "publishedAt": "2026-11-14",
+          "lede": "Blackstone is becoming a biotech bank Axios",
+          "articleExcerpt": "Blackstone is becoming a biotech bank - Axios. Blackstone is becoming a biotech bank Axios",
+          "contentFingerprint": "da800a4981846c71",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "The headline says Blackstone is acting as a 'bank' to biotech companies, which points to lending and financing activity (likely through Blackstone Life Sciences or its credit arm) rather than an equity buyout. The article text is only the headline, so the details and specific deals are unclear.",
+            "llmReasonZh": "标题称Blackstone正充当生物科技公司的“银行”，表明其涉及贷款和融资活动（可能通过Blackstone Life Sciences或其信贷部门进行），而非股权收购。文章内容仅有标题，因此具体细节和交易情况尚不明确。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Axios"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.0,
+            "finalScore": 11.0,
             "semanticEnabled": true
           }
         },
@@ -203048,6 +203260,126 @@
               "finalScore": 10.95,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-15-54af7da49b32",
+            "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive",
+            "titleZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% - investingLive",
+            "summary": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+            "summaryZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% investingLive",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tnOFg4MFNKSmFHLVEwT0ZCVzd6bGNsRDlMZnd3dXJCRS1zUlZmQ0xHY0FEcnhoN0w3eUdCOUtSNVNzOFFSWk1zYWRQVF9GSlhvbno3VDBiaWhxdlNGRjRueGo0M25HOC1zNkdKcU5GTUhqdERtMlgtVWh4VS1IT1F0ZW9lNjZ6Tl92ekJJaFNBbWVSbGFIVi0teTRXNlFzZ0dyTmFxQy1tLXJvcHZYSE15d0NtLUVwUU1yUEVHbXhUTkE?oc=5",
+            "source": "investingLive",
+            "publishedAt": "2026-11-15",
+            "lede": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+            "articleExcerpt": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive. Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+            "contentFingerprint": "ed824fb387d765dc",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "titleStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmStrategies": [
+                "structured",
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.85,
+              "llmExclude": false,
+              "llmReason": "Blackstone-owned QTS cut its AI data center debt sale by 60% after investors pushed back on pricing. This is a financing transaction with a clear credit angle, likely a securitization or ABS-style debt issuance. The pricing pushback signals weaker credit market demand for data center debt, which matters to credit investors.",
+              "llmReasonZh": "在投资者对定价提出异议后，Blackstone旗下的QTS将其AI数据中心债券发行规模削减了60%。这是一笔具有明确信用视角的融资交易，很可能属于证券化或ABS类债务发行。定价遭到异议表明信用市场对数据中心债务的需求走弱，这对信用投资者具有重要意义。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.85
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "investingLive"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.08,
+              "finalScore": 25.08,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [],
@@ -203490,6 +203822,126 @@
             "finalScore": 10.95,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-15-54af7da49b32",
+          "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive",
+          "titleZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% - investingLive",
+          "summary": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+          "summaryZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% investingLive",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tnOFg4MFNKSmFHLVEwT0ZCVzd6bGNsRDlMZnd3dXJCRS1zUlZmQ0xHY0FEcnhoN0w3eUdCOUtSNVNzOFFSWk1zYWRQVF9GSlhvbno3VDBiaWhxdlNGRjRueGo0M25HOC1zNkdKcU5GTUhqdERtMlgtVWh4VS1IT1F0ZW9lNjZ6Tl92ekJJaFNBbWVSbGFIVi0teTRXNlFzZ0dyTmFxQy1tLXJvcHZYSE15d0NtLUVwUU1yUEVHbXhUTkE?oc=5",
+          "source": "investingLive",
+          "publishedAt": "2026-11-15",
+          "lede": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+          "articleExcerpt": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive. Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
+          "contentFingerprint": "ed824fb387d765dc",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "structured",
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "structured",
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "titleStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmStrategies": [
+              "structured",
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.85,
+            "llmExclude": false,
+            "llmReason": "Blackstone-owned QTS cut its AI data center debt sale by 60% after investors pushed back on pricing. This is a financing transaction with a clear credit angle, likely a securitization or ABS-style debt issuance. The pricing pushback signals weaker credit market demand for data center debt, which matters to credit investors.",
+            "llmReasonZh": "在投资者对定价提出异议后，Blackstone旗下的QTS将其AI数据中心债券发行规模削减了60%。这是一笔具有明确信用视角的融资交易，很可能属于证券化或ABS类债务发行。定价遭到异议表明信用市场对数据中心债务的需求走弱，这对信用投资者具有重要意义。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.77,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.85
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "investingLive"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.08,
+            "finalScore": 25.08,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -203497,7 +203949,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 18,
+      "count": 19,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -203505,12 +203957,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 65,
+      "count": 58,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -203518,7 +203970,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203531,7 +203983,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203544,7 +203996,7 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203557,12 +204009,12 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 6,
+      "count": 5,
       "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -203570,7 +204022,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203583,7 +204035,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203596,7 +204048,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
@@ -203609,12 +204061,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 41,
+      "count": 34,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -203622,12 +204074,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 25,
+      "count": 26,
       "selected": 3,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -203635,12 +204087,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 9,
+      "count": 10,
       "selected": 3,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -203648,12 +204100,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 2,
+      "count": 3,
       "selected": 2,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -203661,12 +204113,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 8,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -203674,12 +204126,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 30,
+      "count": 31,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -203687,12 +204139,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 401,
+      "count": 402,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -203709,9 +204161,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-15T18:15:56.337898+00:00",
+      "asOf": "2026-11-15T23:17:48.144088+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-15T18:15:56.337898+00:00"
+  "checkedAt": "2026-11-15T23:17:48.144088+00:00"
 }
