@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-14T20:35:16.962430+00:00",
+  "updatedAt": "2026-11-15T00:28:17.375052+00:00",
   "scope": {
     "regions": [
       "US",
@@ -8367,7 +8367,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund为一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务范畴，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20801,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为核心的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种受托管理的信用策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -186442,6 +186442,106 @@
               "finalScore": 7.32,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-12-145ee7c7128b",
+            "title": "FS KKR Capital to Post Investor Presentations on November 12 - TradingView",
+            "titleZh": "FS KKR Capital将于11月12日发布投资者演示材料 - TradingView",
+            "summary": "FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+            "summaryZh": "FS KKR Capital将于11月12日发布投资者演示材料 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1gyNGN6eEMtQ1piMTEyQnA0ZDFrVUtiako3dmtTcElFRWsxaEdqQTAtbzN5Ql9TQjRLMkRWcVY3eDlvV3FGVzhIczBicUVlTmVNejAzRENRMjY3R3ZldEs1VER3d2JQUnctbFNZTkdFUHYxLW9tRk1MeFY4THoxaFBieGRGaFgxRXFUTERGWTlEQzduSm5IYVRlTUZLSWo2YkhMM0tXZ2NFUG9Zb3VmcGx0VTM3WFMtUmdBRk9QRQ?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-12",
+            "lede": "FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+            "articleExcerpt": "FS KKR Capital to Post Investor Presentations on November 12 - TradingView. FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+            "contentFingerprint": "da82375eaa1dfc0b",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital is a KKR-affiliated BDC, which falls under KKR's private credit business. The article is a routine announcement that it will post investor presentations, with no financing, fundraising, or legal event, so it rates as routine manager news.",
+              "llmReasonZh": "FS KKR Capital是KKR关联的BDC（业务发展公司），属于KKR私募信贷业务范畴。该文章为其将发布投资者演示材料的例行公告，不涉及融资、募资或法律事件，因此评级为例行管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.98,
+              "finalScore": 10.98,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -188011,6 +188111,112 @@
               "keywordScore": 11,
               "semanticScore": 4.45,
               "finalScore": 15.45,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-12-9db6d05b1b0d",
+            "title": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny - www.pei-privaterealestate.com",
+            "titleZh": "Term Sheet：Deutsche AM募资；Blackstone纳什维尔投资部署；澳大利亚私募信贷受审查 - www.pei-privaterealestate.com",
+            "summary": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+            "summaryZh": "Term Sheet：Deutsche AM募资；Blackstone纳什维尔投资部署；澳大利亚私募信贷受审查 www.pei-privaterealestate.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUdEWm9tMU5fendQc2tsTWdiTmV2RDVvdnRWamFrNjExdVpXQ191ZS01SHhYZUMwVVBOMmVwWTVIVmxEbXJhSkgzNXpsVGNoRk9NWE53VEdLTnE3NlhaTDAxd202YVU2QUVBcENhQnlBek9LZlh3bUhiUm1Ka1VucTFIZTZVdGNGR1FObXd1MjRLb25mNFdOQWRkZFY1MVlRdnBzY3ZHTFZUUFVzVjEwd2VRNGJHZVFmU1RpUmFjVHJpY2c5UjNpdHlrbXNIeTdzbmZWVEhCUlloT2gzY0YyWA?oc=5",
+            "source": "www.pei-privaterealestate.com",
+            "publishedAt": "2026-11-12",
+            "lede": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+            "articleExcerpt": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny - www.pei-privaterealestate.com. Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+            "contentFingerprint": "14a6d951b04724ff",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a PERE newsletter roundup with only headline text. The Blackstone item ('Nashville deployment') appears to be real estate equity deployment with no stated credit or lending angle, so Blackstone is not tagged. The Australia private credit scrutiny item is a general market and regulatory theme, not tied to any tracked GP. It is kept as low-importance private credit news.",
+              "llmReasonZh": "这是一篇仅含标题文本的PERE新闻简报汇总。Blackstone相关条目（“纳什维尔投资部署”）似为房地产股权投资部署，未提及信贷或贷款相关内容，因此未标记Blackstone。澳大利亚私募信贷受审查一条属于一般性市场与监管主题，未涉及任何跟踪中的GP。该文章作为低重要性私募信贷新闻予以保留。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "www.pei-privaterealestate.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.5
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.9,
+              "finalScore": 19.9,
               "semanticEnabled": true
             }
           }
@@ -190119,6 +190325,106 @@
           }
         },
         {
+          "id": "2026-11-12-145ee7c7128b",
+          "title": "FS KKR Capital to Post Investor Presentations on November 12 - TradingView",
+          "titleZh": "FS KKR Capital将于11月12日发布投资者演示材料 - TradingView",
+          "summary": "FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+          "summaryZh": "FS KKR Capital将于11月12日发布投资者演示材料 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1gyNGN6eEMtQ1piMTEyQnA0ZDFrVUtiako3dmtTcElFRWsxaEdqQTAtbzN5Ql9TQjRLMkRWcVY3eDlvV3FGVzhIczBicUVlTmVNejAzRENRMjY3R3ZldEs1VER3d2JQUnctbFNZTkdFUHYxLW9tRk1MeFY4THoxaFBieGRGaFgxRXFUTERGWTlEQzduSm5IYVRlTUZLSWo2YkhMM0tXZ2NFUG9Zb3VmcGx0VTM3WFMtUmdBRk9QRQ?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-12",
+          "lede": "FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+          "articleExcerpt": "FS KKR Capital to Post Investor Presentations on November 12 - TradingView. FS KKR Capital to Post Investor Presentations on November 12 TradingView",
+          "contentFingerprint": "da82375eaa1dfc0b",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital is a KKR-affiliated BDC, which falls under KKR's private credit business. The article is a routine announcement that it will post investor presentations, with no financing, fundraising, or legal event, so it rates as routine manager news.",
+            "llmReasonZh": "FS KKR Capital是KKR关联的BDC（业务发展公司），属于KKR私募信贷业务范畴。该文章为其将发布投资者演示材料的例行公告，不涉及融资、募资或法律事件，因此评级为例行管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.98,
+            "finalScore": 10.98,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-12-94391086ac34",
           "title": "Progress Residential advertised monthly rents that left out mandatory fees, a class action claimed. - Claim Depot",
           "titleZh": "集体诉讼指控Progress Residential广告月租金未包含强制性费用 - Claim Depot",
@@ -191673,6 +191979,112 @@
             "keywordScore": 11,
             "semanticScore": 4.45,
             "finalScore": 15.45,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-12-9db6d05b1b0d",
+          "title": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny - www.pei-privaterealestate.com",
+          "titleZh": "Term Sheet：Deutsche AM募资；Blackstone纳什维尔投资部署；澳大利亚私募信贷受审查 - www.pei-privaterealestate.com",
+          "summary": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+          "summaryZh": "Term Sheet：Deutsche AM募资；Blackstone纳什维尔投资部署；澳大利亚私募信贷受审查 www.pei-privaterealestate.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUdEWm9tMU5fendQc2tsTWdiTmV2RDVvdnRWamFrNjExdVpXQ191ZS01SHhYZUMwVVBOMmVwWTVIVmxEbXJhSkgzNXpsVGNoRk9NWE53VEdLTnE3NlhaTDAxd202YVU2QUVBcENhQnlBek9LZlh3bUhiUm1Ka1VucTFIZTZVdGNGR1FObXd1MjRLb25mNFdOQWRkZFY1MVlRdnBzY3ZHTFZUUFVzVjEwd2VRNGJHZVFmU1RpUmFjVHJpY2c5UjNpdHlrbXNIeTdzbmZWVEhCUlloT2gzY0YyWA?oc=5",
+          "source": "www.pei-privaterealestate.com",
+          "publishedAt": "2026-11-12",
+          "lede": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+          "articleExcerpt": "Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny - www.pei-privaterealestate.com. Term Sheet: Deutsche AM’s fundraise; Blackstone’s Nashville deployment; Australia’s private credit scrutiny www.pei-privaterealestate.com",
+          "contentFingerprint": "14a6d951b04724ff",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a PERE newsletter roundup with only headline text. The Blackstone item ('Nashville deployment') appears to be real estate equity deployment with no stated credit or lending angle, so Blackstone is not tagged. The Australia private credit scrutiny item is a general market and regulatory theme, not tied to any tracked GP. It is kept as low-importance private credit news.",
+            "llmReasonZh": "这是一篇仅含标题文本的PERE新闻简报汇总。Blackstone相关条目（“纳什维尔投资部署”）似为房地产股权投资部署，未提及信贷或贷款相关内容，因此未标记Blackstone。澳大利亚私募信贷受审查一条属于一般性市场与监管主题，未涉及任何跟踪中的GP。该文章作为低重要性私募信贷新闻予以保留。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.55,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "www.pei-privaterealestate.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.5
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.9,
+            "finalScore": 19.9,
             "semanticEnabled": true
           }
         },
@@ -194362,9 +194774,9 @@
           {
             "id": "2026-11-13-39fc3a21d8a1",
             "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
-            "titleZh": "Blackstone斥资$532 million入股IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
+            "titleZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
             "summary": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter Martin Cid Magazine",
-            "summaryZh": "Blackstone斥资$532 million押注IIFL Finance，跻身印度黄金贷款市场 Martin Cid Magazine",
+            "summaryZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 Martin Cid Magazine",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE9tR1Y1aHNzN2dfRDhGcDNlT3pVUUJzMENobXd4Z3lCVjc5dzZCeFEyQ1c1UlE0UHVydlZWM3I2SVk3eU5VV1ZVNktLSEtvNVkzLW5RMVhiMDZHRUVQV2VBSEs5ZWdvbnRNT0trXy1xSmc0bVRlQ3VkVTh3emNuVVdn?oc=5",
             "source": "Martin Cid Magazine",
@@ -194376,8 +194788,14 @@
             "gps": [
               "Blackstone"
             ],
-            "strategies": [],
-            "sectors": [],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
             "events": [
               "financing"
             ],
@@ -194395,14 +194813,17 @@
               ],
               "keywordStrategies": [],
               "titleStrategies": [],
-              "llmStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
               "llmEvents": [
                 "financing"
               ],
-              "llmImportance": 0.5,
+              "llmImportance": 0.6,
               "llmExclude": false,
-              "llmReason": "Blackstone is investing $532M in IIFL Finance, an Indian non-bank lender focused on gold loans. This is a capital injection into a lending business, so there is a credit angle. However, the deal looks like a minority equity stake, probably from Blackstone's private equity side rather than its credit platform, and no tracked strategy clearly applies. Kept at moderate importance and not excluded, but this is a borderline case.",
-              "llmReasonZh": "Blackstone将向IIFL Finance投资$532M。IIFL Finance是一家专注于黄金贷款的印度非银行贷款机构。此次交易属于对贷款业务的注资，因此具有信贷相关性。然而，该交易似乎是少数股权投资，可能来自Blackstone的私募股权部门而非其信贷平台，且没有明确适用的跟踪策略。维持中等重要性且未予排除，但属于边缘案例。"
+              "llmReason": "Blackstone is putting $532M into IIFL Finance, an Indian non-bank lender focused on gold loans (asset-backed consumer lending). The deal is likely an equity stake, possibly from Blackstone's private equity side, but its subject is a lending business, so it has a credit and lending angle. It is a sizable deal, but because it is probably equity rather than a credit-fund loan, importance is set slightly below ordinary financing.",
+              "llmReasonZh": "Blackstone将向IIFL Finance投资$532M。IIFL Finance是一家专注于黄金贷款（资产支持型消费贷款）的印度非银行贷款机构。该交易可能为股权投资，或来自Blackstone的私募股权业务，但标的为贷款业务，因此具有信贷和贷款方面的关联。交易规模较大，但由于可能属于股权投资而非信贷基金贷款，其重要性略低于一般融资交易。"
             },
             "rating": {
               "parts": {
@@ -194414,20 +194835,23 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.22,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
                   "semanticValue": 0.45
                 },
                 "event": {
-                  "value": 0.6,
+                  "value": 0.65,
                   "code": "financing",
                   "ruleValue": 0.7,
                   "events": [
                     "financing"
                   ],
-                  "llmValue": 0.5
+                  "llmValue": 0.6
                 },
                 "source": {
                   "value": 0.35,
@@ -194435,9 +194859,9 @@
                   "source": "Martin Cid Magazine"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.0
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.5
                 }
               },
               "weights": {
@@ -194447,13 +194871,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 62,
-              "retrievedAt": "2026-11-13T03:13:23.996626+00:00"
+              "score": 65,
+              "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 11,
+              "keywordScore": 17,
               "semanticScore": 5.37,
-              "finalScore": 16.37,
+              "finalScore": 22.37,
               "semanticEnabled": true
             }
           },
@@ -196984,9 +197408,9 @@
         {
           "id": "2026-11-13-39fc3a21d8a1",
           "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
-          "titleZh": "Blackstone斥资$532 million入股IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
+          "titleZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
           "summary": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter Martin Cid Magazine",
-          "summaryZh": "Blackstone斥资$532 million押注IIFL Finance，跻身印度黄金贷款市场 Martin Cid Magazine",
+          "summaryZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 Martin Cid Magazine",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE9tR1Y1aHNzN2dfRDhGcDNlT3pVUUJzMENobXd4Z3lCVjc5dzZCeFEyQ1c1UlE0UHVydlZWM3I2SVk3eU5VV1ZVNktLSEtvNVkzLW5RMVhiMDZHRUVQV2VBSEs5ZWdvbnRNT0trXy1xSmc0bVRlQ3VkVTh3emNuVVdn?oc=5",
           "source": "Martin Cid Magazine",
@@ -196998,8 +197422,14 @@
           "gps": [
             "Blackstone"
           ],
-          "strategies": [],
-          "sectors": [],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
           "events": [
             "financing"
           ],
@@ -197017,14 +197447,17 @@
             ],
             "keywordStrategies": [],
             "titleStrategies": [],
-            "llmStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
             "llmEvents": [
               "financing"
             ],
-            "llmImportance": 0.5,
+            "llmImportance": 0.6,
             "llmExclude": false,
-            "llmReason": "Blackstone is investing $532M in IIFL Finance, an Indian non-bank lender focused on gold loans. This is a capital injection into a lending business, so there is a credit angle. However, the deal looks like a minority equity stake, probably from Blackstone's private equity side rather than its credit platform, and no tracked strategy clearly applies. Kept at moderate importance and not excluded, but this is a borderline case.",
-            "llmReasonZh": "Blackstone将向IIFL Finance投资$532M。IIFL Finance是一家专注于黄金贷款的印度非银行贷款机构。此次交易属于对贷款业务的注资，因此具有信贷相关性。然而，该交易似乎是少数股权投资，可能来自Blackstone的私募股权部门而非其信贷平台，且没有明确适用的跟踪策略。维持中等重要性且未予排除，但属于边缘案例。"
+            "llmReason": "Blackstone is putting $532M into IIFL Finance, an Indian non-bank lender focused on gold loans (asset-backed consumer lending). The deal is likely an equity stake, possibly from Blackstone's private equity side, but its subject is a lending business, so it has a credit and lending angle. It is a sizable deal, but because it is probably equity rather than a credit-fund loan, importance is set slightly below ordinary financing.",
+            "llmReasonZh": "Blackstone将向IIFL Finance投资$532M。IIFL Finance是一家专注于黄金贷款（资产支持型消费贷款）的印度非银行贷款机构。该交易可能为股权投资，或来自Blackstone的私募股权业务，但标的为贷款业务，因此具有信贷和贷款方面的关联。交易规模较大，但由于可能属于股权投资而非信贷基金贷款，其重要性略低于一般融资交易。"
           },
           "rating": {
             "parts": {
@@ -197036,20 +197469,23 @@
                 ]
               },
               "strategy": {
-                "value": 0.22,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
                 "semanticValue": 0.45
               },
               "event": {
-                "value": 0.6,
+                "value": 0.65,
                 "code": "financing",
                 "ruleValue": 0.7,
                 "events": [
                   "financing"
                 ],
-                "llmValue": 0.5
+                "llmValue": 0.6
               },
               "source": {
                 "value": 0.35,
@@ -197057,9 +197493,9 @@
                 "source": "Martin Cid Magazine"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.0
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.5
               }
             },
             "weights": {
@@ -197069,13 +197505,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 62,
-            "retrievedAt": "2026-11-13T03:13:23.996626+00:00"
+            "score": 65,
+            "retrievedAt": "2026-11-14T23:33:15.500240+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 11,
+            "keywordScore": 17,
             "semanticScore": 5.37,
-            "finalScore": 16.37,
+            "finalScore": 22.37,
             "semanticEnabled": true
           }
         },
@@ -199022,20 +199458,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 82,
-      "selected": 2,
+      "count": 80,
+      "selected": 4,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
@@ -199048,12 +199484,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 12,
+      "count": 11,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -199061,25 +199497,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 7,
-      "selected": 4,
+      "count": 4,
+      "selected": 3,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 7,
+      "count": 8,
       "selected": 3,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -199087,12 +199523,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 12,
+      "count": 11,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -199100,7 +199536,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
@@ -199113,7 +199549,7 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
@@ -199126,12 +199562,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 94,
+      "count": 87,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -199139,12 +199575,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 30,
+      "count": 29,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -199152,7 +199588,7 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
@@ -199165,7 +199601,7 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
@@ -199178,12 +199614,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 13,
+      "count": 11,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -199191,12 +199627,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 28,
+      "count": 27,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -199204,12 +199640,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 505,
+      "count": 495,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -199226,9 +199662,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-14T19:38:23.761363+00:00",
+      "asOf": "2026-11-14T23:33:15.500240+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-14T19:38:23.761363+00:00"
+  "checkedAt": "2026-11-14T23:33:15.500240+00:00"
 }
