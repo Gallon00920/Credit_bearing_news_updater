@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-15T00:28:17.375052+00:00",
+  "updatedAt": "2026-11-15T04:20:56.021227+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,275 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-17": {
-      "byGp": {
-        "Blue Owl": [
-          {
-            "id": "2026-08-17-9027dacab558",
-            "title": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales - bloomberg.com",
-            "titleZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 - bloomberg.com",
-            "summary": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-            "summaryZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVlScE51NTBHMTZxVTZZVlZsY25MX1pfd1J1b3ZxYVlXbHc5ejNOQ2k5SU1iTjFCcXVOZFJwXzBhU3BhUEh3dFo3MDdPLXV0dktEUUs0WFd2S3Y5ZHdBbHVnR251SmtvaVBjY25xcV9TSXZPZkcwX0M3WU13b1RUUXlhYUt2Z0VqWE5jVnVVWlNuTDlhZWhaYXUyZk5ST040YmFDd0V4TVlQbFhIVXJKSTBFaXU?oc=5",
-            "source": "bloomberg.com",
-            "publishedAt": "2026-08-17",
-            "lede": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-            "region": "Global",
-            "gps": [
-              "Blue Owl",
-              "Blackstone"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "scoreBreakdown": {
-              "keywordScore": 17,
-              "semanticScore": 0,
-              "finalScore": 17,
-              "semanticEnabled": false
-            },
-            "classificationBreakdown": {
-              "llmReasonZh": "n/a"
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl",
-                    "Blackstone"
-                  ]
-                },
-                "strategy": {
-                  "value": 1.0,
-                  "code": "title_hits_strategy",
-                  "tagValue": 1.0,
-                  "strategies": [
-                    "private-credit"
-                  ]
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 1.0,
-                  "code": "tier_top",
-                  "source": "bloomberg.com"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 88,
-              "retrievedAt": "2026-10-29T09:02:01.310150+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [
-          {
-            "id": "2026-08-17-9027dacab558",
-            "title": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales - bloomberg.com",
-            "titleZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 - bloomberg.com",
-            "summary": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-            "summaryZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVlScE51NTBHMTZxVTZZVlZsY25MX1pfd1J1b3ZxYVlXbHc5ejNOQ2k5SU1iTjFCcXVOZFJwXzBhU3BhUEh3dFo3MDdPLXV0dktEUUs0WFd2S3Y5ZHdBbHVnR251SmtvaVBjY25xcV9TSXZPZkcwX0M3WU13b1RUUXlhYUt2Z0VqWE5jVnVVWlNuTDlhZWhaYXUyZk5ST040YmFDd0V4TVlQbFhIVXJKSTBFaXU?oc=5",
-            "source": "bloomberg.com",
-            "publishedAt": "2026-08-17",
-            "lede": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-            "region": "Global",
-            "gps": [
-              "Blue Owl",
-              "Blackstone"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "scoreBreakdown": {
-              "keywordScore": 17,
-              "semanticScore": 0,
-              "finalScore": 17,
-              "semanticEnabled": false
-            },
-            "classificationBreakdown": {
-              "llmReasonZh": "n/a"
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl",
-                    "Blackstone"
-                  ]
-                },
-                "strategy": {
-                  "value": 1.0,
-                  "code": "title_hits_strategy",
-                  "tagValue": 1.0,
-                  "strategies": [
-                    "private-credit"
-                  ]
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 1.0,
-                  "code": "tier_top",
-                  "source": "bloomberg.com"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 88,
-              "retrievedAt": "2026-10-29T09:02:01.310150+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-17-9027dacab558",
-          "title": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales - bloomberg.com",
-          "titleZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 - bloomberg.com",
-          "summary": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-          "summaryZh": "Blackstone、Blue Owl旗下私募信贷基金加大债券发行力度 bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVlScE51NTBHMTZxVTZZVlZsY25MX1pfd1J1b3ZxYVlXbHc5ejNOQ2k5SU1iTjFCcXVOZFJwXzBhU3BhUEh3dFo3MDdPLXV0dktEUUs0WFd2S3Y5ZHdBbHVnR251SmtvaVBjY25xcV9TSXZPZkcwX0M3WU13b1RUUXlhYUt2Z0VqWE5jVnVVWlNuTDlhZWhaYXUyZk5ST040YmFDd0V4TVlQbFhIVXJKSTBFaXU?oc=5",
-          "source": "bloomberg.com",
-          "publishedAt": "2026-08-17",
-          "lede": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales bloomberg.com",
-          "region": "Global",
-          "gps": [
-            "Blue Owl",
-            "Blackstone"
-          ],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "scoreBreakdown": {
-            "keywordScore": 17,
-            "semanticScore": 0,
-            "finalScore": 17,
-            "semanticEnabled": false
-          },
-          "classificationBreakdown": {
-            "llmReasonZh": "n/a"
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Blue Owl",
-                  "Blackstone"
-                ]
-              },
-              "strategy": {
-                "value": 1.0,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "private-credit"
-                ]
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 1.0,
-                "code": "tier_top",
-                "source": "bloomberg.com"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 88,
-            "retrievedAt": "2026-10-29T09:02:01.310150+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-18": {
       "byGp": {
         "Blue Owl": [],
@@ -8367,7 +8098,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund为一只债券型共同基金，投资于高质量公司债券及货币市场工具，属于其信贷/资产管理业务范畴，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20801,7 +20532,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -193583,6 +193314,209 @@
               "finalScore": 22.86,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-b405988b89d1",
+            "title": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - Yahoo Finance",
+            "titleZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital - Yahoo Finance",
+            "summary": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+            "summaryZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDVsTXpKbjhuN0h0YzBOSkFRR2Q3QWZfRmh0TmlIckFhVUJjMEVQZ0ttc090dXR6TlVrUDlpdlRYeE1tNUxpNW5ybGFqWFhtd3VYd19jeGJURTVVYkhEVkFvZWhDdWFFNTBXVkt2bzFYejZyOVJUXzVEZE93UWN2NzJsUTZOekRENU02dXhiZ3BwSUhaSTUyenlkcGgxMUlwZ1JKLQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-13",
+            "lede": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+            "articleExcerpt": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - Yahoo Finance. Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+            "contentFingerprint": "831af4ac157dd670",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Retail dividend-stock comparison of Blue Owl Capital, which could mean the BDC (OBDC) or Blue Owl Capital Inc. The text is only a headline. This is stock commentary, not a credit event, so importance is low. It isn't excluded because Blue Owl's dividend story is tied to its credit and BDC business.",
+              "llmReasonZh": "面向散户的股息股比较，涉及Blue Owl Capital，可能指BDC（OBDC）或Blue Owl Capital Inc.。文本仅有标题。此为股票评论，并非信用事件，因此重要性较低。未予排除是因为Blue Owl的股息情况与其信贷及BDC业务相关。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.76,
+              "finalScore": 19.759999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-dc74a48b5f21",
+            "title": "Blue Owl Capital Is Extremely Cheap For No Clear Reason - Seeking Alpha",
+            "titleZh": "Blue Owl Capital估值极低却无明确原因 - Seeking Alpha",
+            "summary": "Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+            "summaryZh": "Blue Owl Capital估值极低却无明确原因 Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDBBSE1GTjJjZzd3SmZBWTRKSmxmUUZpemQ0TTMzMmlYVlI0SmRlOWdSbkttLU1xXy1UZURZLUp0YmczRlJTbWlkeVRoZV9tSWZfcU9Jc0h1UkVzUkRrUUFQRHNjU21kYk43WGhkVHJmNVVzN1JVOUNySDZvczJBNUJENC1fdTJ3RTgzTmJHaUdfVlNuZzJDS2I3Mi0?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-13",
+            "lede": "Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+            "articleExcerpt": "Blue Owl Capital Is Extremely Cheap For No Clear Reason - Seeking Alpha. Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+            "contentFingerprint": "11e6167263db92b3",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha valuation opinion on Blue Owl Capital (OWL) stock. Blue Owl's business is mainly credit, so the GP is tagged and the article is not excluded, but this is analyst commentary with no transaction or event, so importance is low.",
+              "llmReasonZh": "Seeking Alpha关于Blue Owl Capital (OWL)股票的估值观点文章。Blue Owl的业务以信贷为主，因此标记了该GP且未排除此文，但本文属于分析师评论，不涉及任何交易或事件，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 48,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.42,
+              "finalScore": 11.42,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -193693,6 +193627,98 @@
               "keywordScore": 15,
               "semanticScore": 3.78,
               "finalScore": 18.78,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-e64f3dfcba5a",
+            "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+            "titleZh": "KKR (KKR) 2026年第一季度财报电话会议实录 - Fortune",
+            "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "summaryZh": "KKR (KKR) 2026年第一季度财报电话会议实录 Fortune",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
+            "source": "Fortune",
+            "publishedAt": "2026-11-13",
+            "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+            "contentFingerprint": "d5fadd7520f73c6c",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is KKR's firm-wide Q1 2026 earnings call transcript. The provided text has no detail, so no specific credit, lending or strategy content can be confirmed. It is not excluded because the call likely covers KKR's credit segment (fundraising, deployment, performance), but it is routine corporate and earnings news with no identifiable financing, fundraising or lawsuit event, so importance is moderate-low.",
+              "llmReasonZh": "本文为KKR全公司层面的2026年第一季度财报电话会议实录。所提供文本未包含具体细节，因此无法确认任何具体的信贷、贷款或策略相关内容。未将其排除是因为该电话会议可能涉及KKR信贷业务板块（募资、资金部署、业绩表现），但其属于常规公司及财报新闻，未发现明确的融资、募资或诉讼事件，因此重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Fortune"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.71,
+              "finalScore": 7.71,
               "semanticEnabled": true
             }
           }
@@ -193909,6 +193935,112 @@
               "keywordScore": 6,
               "semanticScore": 2.81,
               "finalScore": 8.81,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-419da6eb3418",
+            "title": "Progress Residential agrees to $49.75 million settlement over rental practices - KUTV",
+            "titleZh": "Progress Residential就租赁行为达成4975万美元和解 - KUTV",
+            "summary": "Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+            "summaryZh": "Progress Residential就租赁行为达成4975万美元和解 KUTV",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGhHbWlGeUl5aGp3anJnemVIcml2YjZvMVVHRW1aTEp5TmdHaGJfcjlIZE5oYlBFa3JHUnEtQjA1cGpoSnlDakFIRGxEcHd0X0RNVFY1X0Y3ZHBuVHhyM3liUUFpSzNTZGtESDZRM0VkcWpmNjdqaVJKci1uYzlJazRNUUdiYWtzd1d6bll3c2FCbHIwVlE?oc=5",
+            "source": "KUTV",
+            "publishedAt": "2026-11-13",
+            "lede": "Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+            "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - KUTV. Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+            "contentFingerprint": "8dddcf8980142af7",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "Progress Residential, Pretium's single-family rental platform, agreed to a $49.75M settlement over rental practices. Single-family rental is a tracked strategy, and Progress is a frequent issuer of SFR securitizations, so the settlement is relevant to Pretium's SFR credit exposure. The article does not name Pretium, so the GP tag rests on Pretium's known ownership of Progress Residential.",
+              "llmReasonZh": "Progress Residential为Pretium旗下的单户住宅租赁平台，已就其租赁行为达成4975万美元和解。单户住宅租赁属于重点跟踪策略，且Progress是单户住宅租赁（SFR）证券化产品的频繁发行人，因此该和解与Pretium的SFR信用敞口相关。文章未提及Pretium，GP标签的依据是Pretium对Progress Residential的已知所有权。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.47,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.23
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KUTV"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 2.77,
+              "finalScore": 8.77,
               "semanticEnabled": true
             }
           }
@@ -194768,9 +194900,217 @@
               "finalScore": 10.59,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-13-1005bd6d2bf6",
+            "title": "India plans restrictions on private equity ownership of non-bank lenders",
+            "titleZh": "印度拟限制私募股权机构持有非银行贷款机构",
+            "summary": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to...",
+            "summaryZh": "据路透社报道，印度央行正在拟定提案，禁止私募股权机构在一家以上非银行贷款机构中持有控股权益，原因是担心金融压力可能在该行业内蔓延。据报道，印度储备银行（RBI）正考虑实施相关限制，以控制全球私募股权机构或其关联方陷入财务困境所引发的传染风险。根据提案，持股比例为15%或以下的投资将面临较宽松的监管审查，而涉及管理控制权的较大规模持股则将受到……",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/india-plans-restrictions-on-private-equity-ownership-of-non-bank-lenders",
+            "source": "Google News",
+            "publishedAt": "2026-11-13",
+            "lede": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's acquisition of a 41.7% stake in Manappuram Finance, which required the firm to divest its 93% holding in Tyger Capital. The proposals come amid continued foreign investment in India's financial services sector. Private equity investment reached $5.4bn in 2025, up 6% year-on-year, according to Grant Thornton, with a further $3.6bn invested in the first nine months of 2026. Recent transactions include Blackstone's agreement to acquire a 16% stake in IIFL Finance for $535m and Temasek's planned $265m investment in Godrej Capital.",
+            "articleExcerpt": "India plans restrictions on private equity ownership of non-bank lenders. Private Equity Wire | India plans restrictions on private equity… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News India plans restrictions on private equity ownership of non-bank lenders November 13, 2026 at 9:56 am Share this article India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's",
+            "contentFingerprint": "0757a23d90f89ced",
+            "region": "US",
+            "gps": [
+              "Bain Capital",
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital",
+                "Blackstone"
+              ],
+              "titleGps": [],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "The RBI is proposing to limit private equity firms to a controlling stake in only one non-bank lender. That matters to anyone tracking managers' exposure to lending platforms in India. The article cites past RBI conditions on a Bain Capital transaction, likely its NBFC stake. Bain is only mentioned in passing, which makes this a regulatory proposal rather than enforcement, so importance is moderate. The text is truncated.",
+              "llmReasonZh": "印度储备银行（RBI）拟将私募股权机构限制为仅可在一家非银行贷款机构中持有控股权益。这对追踪管理人在印度贷款平台敞口的投资者而言具有重要意义。文章提及RBI此前对一笔Bain Capital交易设定的条件，所涉很可能是其持有的NBFC股权。Bain仅被顺带提及，因此这属于监管提案而非执法行动，重要性为中等。原文内容不完整。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.53,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.31,
+              "finalScore": 20.31,
+              "semanticEnabled": true
+            }
           }
         ],
         "Blackstone": [
+          {
+            "id": "2026-11-13-1005bd6d2bf6",
+            "title": "India plans restrictions on private equity ownership of non-bank lenders",
+            "titleZh": "印度拟限制私募股权机构持有非银行贷款机构",
+            "summary": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to...",
+            "summaryZh": "据路透社报道，印度央行正在拟定提案，禁止私募股权机构在一家以上非银行贷款机构中持有控股权益，原因是担心金融压力可能在该行业内蔓延。据报道，印度储备银行（RBI）正考虑实施相关限制，以控制全球私募股权机构或其关联方陷入财务困境所引发的传染风险。根据提案，持股比例为15%或以下的投资将面临较宽松的监管审查，而涉及管理控制权的较大规模持股则将受到……",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/india-plans-restrictions-on-private-equity-ownership-of-non-bank-lenders",
+            "source": "Google News",
+            "publishedAt": "2026-11-13",
+            "lede": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's acquisition of a 41.7% stake in Manappuram Finance, which required the firm to divest its 93% holding in Tyger Capital. The proposals come amid continued foreign investment in India's financial services sector. Private equity investment reached $5.4bn in 2025, up 6% year-on-year, according to Grant Thornton, with a further $3.6bn invested in the first nine months of 2026. Recent transactions include Blackstone's agreement to acquire a 16% stake in IIFL Finance for $535m and Temasek's planned $265m investment in Godrej Capital.",
+            "articleExcerpt": "India plans restrictions on private equity ownership of non-bank lenders. Private Equity Wire | India plans restrictions on private equity… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News India plans restrictions on private equity ownership of non-bank lenders November 13, 2026 at 9:56 am Share this article India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's",
+            "contentFingerprint": "0757a23d90f89ced",
+            "region": "US",
+            "gps": [
+              "Bain Capital",
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital",
+                "Blackstone"
+              ],
+              "titleGps": [],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "The RBI is proposing to limit private equity firms to a controlling stake in only one non-bank lender. That matters to anyone tracking managers' exposure to lending platforms in India. The article cites past RBI conditions on a Bain Capital transaction, likely its NBFC stake. Bain is only mentioned in passing, which makes this a regulatory proposal rather than enforcement, so importance is moderate. The text is truncated.",
+              "llmReasonZh": "印度储备银行（RBI）拟将私募股权机构限制为仅可在一家非银行贷款机构中持有控股权益。这对追踪管理人在印度贷款平台敞口的投资者而言具有重要意义。文章提及RBI此前对一笔Bain Capital交易设定的条件，所涉很可能是其持有的NBFC股权。Bain仅被顺带提及，因此这属于监管提案而非执法行动，重要性为中等。原文内容不完整。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.53,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.31,
+              "finalScore": 20.31,
+              "semanticEnabled": true
+            }
+          },
           {
             "id": "2026-11-13-39fc3a21d8a1",
             "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
@@ -195182,6 +195522,208 @@
               "keywordScore": 11,
               "semanticScore": 5.09,
               "finalScore": 16.09,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-7eb87f04d8dd",
+            "title": "Blackstone lines up $200M loan to refinance ASK's acquisition debt - Dealroom",
+            "titleZh": "Blackstone筹组2亿美元贷款，为ASK收购债务再融资 - Dealroom",
+            "summary": "Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+            "summaryZh": "Blackstone筹组2亿美元贷款，为ASK收购债务再融资 Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTd1VTVUQjJpcFFQcW5ldm1UN09FeHBNaldCMDRtMlAxZnRJTHQwcUF5TG0xcVBtTjVtbXY1YXdVT01WNklod3NRbEh1ZHNteHFYMjFQaXdoMl9zZDE4Z2ZEMUpPWjJiU1dBS1BXdk5lY2lqTlRkekdTMk00Q2pNMktkdUtlWXZRYUlIMy1RRXYwbEI4NjFLbURPTVNkUWQ2?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-11-13",
+            "lede": "Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+            "articleExcerpt": "Blackstone lines up $200M loan to refinance ASK's acquisition debt - Dealroom. Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+            "contentFingerprint": "69db3b0f0a87b0d5",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is arranging a $200M loan to refinance the acquisition debt from its buyout of ASK Investment Managers. The underlying deal is private equity, but the article is specifically about a debt refinancing, so it has a financing angle and is not excluded. Blackstone is the borrower or sponsor here, not the lender, so no private-credit or other strategy tag applies. Importance is moderate because this is routine sponsor-level financing.",
+              "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于为其收购ASK Investment Managers所产生的收购债务进行再融资。该底层交易属于私募股权交易，但本文专门涉及债务再融资，具有融资属性，因此未被排除。此处Blackstone为借款方或发起方，而非贷款方，因此不适用私募信贷或其他策略标签。由于这属于常规的发起方层面融资，重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Dealroom"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 5.26,
+              "finalScore": 16.259999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-8c4497624a95",
+            "title": "Blackstone buys into India’s IIFL - Financial Times",
+            "titleZh": "Blackstone入股印度IIFL - Financial Times",
+            "summary": "Blackstone buys into India’s IIFL Financial Times",
+            "summaryZh": "Blackstone入股印度IIFL Financial Times",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0tVMzFFVnR5bEQtSFNhblZTSGRDaFc3VEU1bzhjZFpFczlWdjVxQ2VKaXk2ODc0YktjaHJGdHd5NVZFZENRXzlOenBTU2doNE42a0NkNjdYbFNoVXhqaXlsTlJfeEh5MWRlNDRmRVJUeThiUkpGeExBNTB2ZzZvUmpLV0Y?oc=5",
+            "source": "Financial Times",
+            "publishedAt": "2026-11-13",
+            "lede": "Blackstone buys into India’s IIFL Financial Times",
+            "articleExcerpt": "Blackstone buys into India’s IIFL - Financial Times. Blackstone buys into India’s IIFL Financial Times",
+            "contentFingerprint": "48c979e492e99c34",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is taking a stake in IIFL, an Indian non-bank lender (gold loans, home and business finance). The article is only a headline, so it is unclear whether this is Blackstone's PE arm or its credit arm. The target is a lending business, which gives a plausible credit angle, so I tagged it with moderate importance rather than excluding it. If the full article confirms a pure private-equity stake, exclude it.",
+              "llmReasonZh": "Blackstone正在入股IIFL，该公司为印度非银行贷款机构（业务涵盖黄金贷款、住房及企业融资）。该文章仅有标题，因此尚不清楚此次入股由Blackstone的私募股权部门还是信贷部门进行。标的为贷款业务，具有一定的信贷相关性，因此将其标记为中等重要性，而非予以排除。若全文确认这纯属私募股权投资，则予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Financial Times"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 80,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.81,
+              "finalScore": 13.809999999999999,
               "semanticEnabled": true
             }
           }
@@ -195599,6 +196141,110 @@
               "keywordScore": 16,
               "semanticScore": 5.79,
               "finalScore": 21.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-13-1cee5414c563",
+            "title": "TPG RE Finance Trust director buys $16,250 in company stock - Investing.com",
+            "titleZh": "TPG RE Finance Trust董事买入16,250美元公司股票 - Investing.com",
+            "summary": "TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+            "summaryZh": "TPG RE Finance Trust董事买入16,250美元公司股票 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORHRCa1lQM1pXMUo1TEwxZ2hmeTNyaC1xZDcyc3dhTVlZZFVqUDZPdzZOLXFPSFRmQ2FMWTBlVkkxQkFBQ0JKbXlxd20wVE9KSGFQNUVBNWhqQm5RSW85RUdDSWxUa3ZranE1dUZxR3R6LUN1XzNPazl6SDJnX3g4SHZoRGFXT2dvTzBJTWhwdkJOakRqaWMzNFdOUEVka2JRNXZjUzhvZERkcnpOOVEyQTRrUzhiYTZXMGFOdTBxYw?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-13",
+            "lede": "TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+            "articleExcerpt": "TPG RE Finance Trust director buys $16,250 in company stock - Investing.com. TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+            "contentFingerprint": "ebd0d5e1997d3318",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "TPG RE Finance Trust is TPG's commercial real estate lending REIT, so this is credit-relevant. The news is only a small insider stock purchase by a director, a stock-level signal with little credit significance.",
+              "llmReasonZh": "TPG RE Finance Trust是TPG旗下专注商业地产贷款的REIT，因此与信用相关。但该新闻仅涉及一名董事小额买入公司股票的内部人交易，属于股票层面的信号，对信用影响甚微。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.36,
+              "finalScore": 19.36,
               "semanticEnabled": true
             }
           }
@@ -196234,6 +196880,209 @@
           }
         },
         {
+          "id": "2026-11-13-b405988b89d1",
+          "title": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - Yahoo Finance",
+          "titleZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital - Yahoo Finance",
+          "summary": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+          "summaryZh": "退休人士更优股息股之选：Truist vs. Blue Owl Capital Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDVsTXpKbjhuN0h0YzBOSkFRR2Q3QWZfRmh0TmlIckFhVUJjMEVQZ0ttc090dXR6TlVrUDlpdlRYeE1tNUxpNW5ybGFqWFhtd3VYd19jeGJURTVVYkhEVkFvZWhDdWFFNTBXVkt2bzFYejZyOVJUXzVEZE93UWN2NzJsUTZOekRENU02dXhiZ3BwSUhaSTUyenlkcGgxMUlwZ1JKLQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-13",
+          "lede": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+          "articleExcerpt": "Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital - Yahoo Finance. Better Dividend Stock for Retirees: Truist vs. Blue Owl Capital Yahoo Finance",
+          "contentFingerprint": "831af4ac157dd670",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Retail dividend-stock comparison of Blue Owl Capital, which could mean the BDC (OBDC) or Blue Owl Capital Inc. The text is only a headline. This is stock commentary, not a credit event, so importance is low. It isn't excluded because Blue Owl's dividend story is tied to its credit and BDC business.",
+            "llmReasonZh": "面向散户的股息股比较，涉及Blue Owl Capital，可能指BDC（OBDC）或Blue Owl Capital Inc.。文本仅有标题。此为股票评论，并非信用事件，因此重要性较低。未予排除是因为Blue Owl的股息情况与其信贷及BDC业务相关。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.76,
+            "finalScore": 19.759999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-dc74a48b5f21",
+          "title": "Blue Owl Capital Is Extremely Cheap For No Clear Reason - Seeking Alpha",
+          "titleZh": "Blue Owl Capital估值极低却无明确原因 - Seeking Alpha",
+          "summary": "Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+          "summaryZh": "Blue Owl Capital估值极低却无明确原因 Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDBBSE1GTjJjZzd3SmZBWTRKSmxmUUZpemQ0TTMzMmlYVlI0SmRlOWdSbkttLU1xXy1UZURZLUp0YmczRlJTbWlkeVRoZV9tSWZfcU9Jc0h1UkVzUkRrUUFQRHNjU21kYk43WGhkVHJmNVVzN1JVOUNySDZvczJBNUJENC1fdTJ3RTgzTmJHaUdfVlNuZzJDS2I3Mi0?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-13",
+          "lede": "Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+          "articleExcerpt": "Blue Owl Capital Is Extremely Cheap For No Clear Reason - Seeking Alpha. Blue Owl Capital Is Extremely Cheap For No Clear Reason Seeking Alpha",
+          "contentFingerprint": "11e6167263db92b3",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha valuation opinion on Blue Owl Capital (OWL) stock. Blue Owl's business is mainly credit, so the GP is tagged and the article is not excluded, but this is analyst commentary with no transaction or event, so importance is low.",
+            "llmReasonZh": "Seeking Alpha关于Blue Owl Capital (OWL)股票的估值观点文章。Blue Owl的业务以信贷为主，因此标记了该GP且未排除此文，但本文属于分析师评论，不涉及任何交易或事件，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 48,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.42,
+            "finalScore": 11.42,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-0acda8b0a7c3",
           "title": "Advent seeks up to $500m in renewed Learning Lab sale",
           "titleZh": "Advent重启The Learning Lab出售计划，寻求最高$500m",
@@ -196340,6 +197189,98 @@
             "keywordScore": 15,
             "semanticScore": 3.78,
             "finalScore": 18.78,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-e64f3dfcba5a",
+          "title": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune",
+          "titleZh": "KKR (KKR) 2026年第一季度财报电话会议实录 - Fortune",
+          "summary": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "summaryZh": "KKR (KKR) 2026年第一季度财报电话会议实录 Fortune",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yOEY5eG9KSDcwV0pkNWQyZzhPRGdQcjh4RW9OUG1YaG5kSlc2M21Ea2ZfRVZaWjk2TmgzVDFhaC1TQkhVYTF3M3E3RFFIMUs0ZWk4V0ZqOWR0anJna2c?oc=5",
+          "source": "Fortune",
+          "publishedAt": "2026-11-13",
+          "lede": "KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "articleExcerpt": "KKR (KKR) Q1 2026 Earnings Call Transcript - Fortune. KKR (KKR) Q1 2026 Earnings Call Transcript Fortune",
+          "contentFingerprint": "d5fadd7520f73c6c",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is KKR's firm-wide Q1 2026 earnings call transcript. The provided text has no detail, so no specific credit, lending or strategy content can be confirmed. It is not excluded because the call likely covers KKR's credit segment (fundraising, deployment, performance), but it is routine corporate and earnings news with no identifiable financing, fundraising or lawsuit event, so importance is moderate-low.",
+            "llmReasonZh": "本文为KKR全公司层面的2026年第一季度财报电话会议实录。所提供文本未包含具体细节，因此无法确认任何具体的信贷、贷款或策略相关内容。未将其排除是因为该电话会议可能涉及KKR信贷业务板块（募资、资金部署、业绩表现），但其属于常规公司及财报新闻，未发现明确的融资、募资或诉讼事件，因此重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Fortune"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.71,
+            "finalScore": 7.71,
             "semanticEnabled": true
           }
         },
@@ -196552,6 +197493,112 @@
             "keywordScore": 6,
             "semanticScore": 2.81,
             "finalScore": 8.81,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-419da6eb3418",
+          "title": "Progress Residential agrees to $49.75 million settlement over rental practices - KUTV",
+          "titleZh": "Progress Residential就租赁行为达成4975万美元和解 - KUTV",
+          "summary": "Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+          "summaryZh": "Progress Residential就租赁行为达成4975万美元和解 KUTV",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGhHbWlGeUl5aGp3anJnemVIcml2YjZvMVVHRW1aTEp5TmdHaGJfcjlIZE5oYlBFa3JHUnEtQjA1cGpoSnlDakFIRGxEcHd0X0RNVFY1X0Y3ZHBuVHhyM3liUUFpSzNTZGtESDZRM0VkcWpmNjdqaVJKci1uYzlJazRNUUdiYWtzd1d6bll3c2FCbHIwVlE?oc=5",
+          "source": "KUTV",
+          "publishedAt": "2026-11-13",
+          "lede": "Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+          "articleExcerpt": "Progress Residential agrees to $49.75 million settlement over rental practices - KUTV. Progress Residential agrees to $49.75 million settlement over rental practices KUTV",
+          "contentFingerprint": "8dddcf8980142af7",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "Progress Residential, Pretium's single-family rental platform, agreed to a $49.75M settlement over rental practices. Single-family rental is a tracked strategy, and Progress is a frequent issuer of SFR securitizations, so the settlement is relevant to Pretium's SFR credit exposure. The article does not name Pretium, so the GP tag rests on Pretium's known ownership of Progress Residential.",
+            "llmReasonZh": "Progress Residential为Pretium旗下的单户住宅租赁平台，已就其租赁行为达成4975万美元和解。单户住宅租赁属于重点跟踪策略，且Progress是单户住宅租赁（SFR）证券化产品的频繁发行人，因此该和解与Pretium的SFR信用敞口相关。文章未提及Pretium，GP标签的依据是Pretium对Progress Residential的已知所有权。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.47,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.23
+              },
+              "event": {
+                "value": 0.9,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KUTV"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 2.77,
+            "finalScore": 8.77,
             "semanticEnabled": true
           }
         },
@@ -197406,6 +198453,110 @@
           }
         },
         {
+          "id": "2026-11-13-1005bd6d2bf6",
+          "title": "India plans restrictions on private equity ownership of non-bank lenders",
+          "titleZh": "印度拟限制私募股权机构持有非银行贷款机构",
+          "summary": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to...",
+          "summaryZh": "据路透社报道，印度央行正在拟定提案，禁止私募股权机构在一家以上非银行贷款机构中持有控股权益，原因是担心金融压力可能在该行业内蔓延。据报道，印度储备银行（RBI）正考虑实施相关限制，以控制全球私募股权机构或其关联方陷入财务困境所引发的传染风险。根据提案，持股比例为15%或以下的投资将面临较宽松的监管审查，而涉及管理控制权的较大规模持股则将受到……",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://privateequitywire.com/news/india-plans-restrictions-on-private-equity-ownership-of-non-bank-lenders",
+          "source": "Google News",
+          "publishedAt": "2026-11-13",
+          "lede": "India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's acquisition of a 41.7% stake in Manappuram Finance, which required the firm to divest its 93% holding in Tyger Capital. The proposals come amid continued foreign investment in India's financial services sector. Private equity investment reached $5.4bn in 2025, up 6% year-on-year, according to Grant Thornton, with a further $3.6bn invested in the first nine months of 2026. Recent transactions include Blackstone's agreement to acquire a 16% stake in IIFL Finance for $535m and Temasek's planned $265m investment in Godrej Capital.",
+          "articleExcerpt": "India plans restrictions on private equity ownership of non-bank lenders. Private Equity Wire | India plans restrictions on private equity… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News India plans restrictions on private equity ownership of non-bank lenders November 13, 2026 at 9:56 am Share this article India's central bank is preparing proposals that would prevent private equity firms from holding controlling stakes in more than one non-bank lender, amid concerns over the potential spread of financial stress across the sector, according to a report by Reuters . The Reserve Bank of India (RBI) is reportedly considering restrictions designed to limit contagion risks arising from financial difficulties at global private equity firms or their affiliates. Under the proposals, investments of 15% or less would face reduced regulatory scrutiny, while larger holdings involving management control would be subject to tighter oversight. The proposed rules could be issued in early 2027 following public consultation. The RBI has previously imposed similar conditions on individual transactions, including Bain Capital's",
+          "contentFingerprint": "0757a23d90f89ced",
+          "region": "US",
+          "gps": [
+            "Bain Capital",
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital",
+              "Blackstone"
+            ],
+            "titleGps": [],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "The RBI is proposing to limit private equity firms to a controlling stake in only one non-bank lender. That matters to anyone tracking managers' exposure to lending platforms in India. The article cites past RBI conditions on a Bain Capital transaction, likely its NBFC stake. Bain is only mentioned in passing, which makes this a regulatory proposal rather than enforcement, so importance is moderate. The text is truncated.",
+            "llmReasonZh": "印度储备银行（RBI）拟将私募股权机构限制为仅可在一家非银行贷款机构中持有控股权益。这对追踪管理人在印度贷款平台敞口的投资者而言具有重要意义。文章提及RBI此前对一笔Bain Capital交易设定的条件，所涉很可能是其持有的NBFC股权。Bain仅被顺带提及，因此这属于监管提案而非执法行动，重要性为中等。原文内容不完整。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.53,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 4.31,
+            "finalScore": 20.31,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-39fc3a21d8a1",
           "title": "Blackstone’s $532 million IIFL Finance bet buys a seat at India’s gold-loan counter - Martin Cid Magazine",
           "titleZh": "Blackstone斥资$532 million投资IIFL Finance，跻身印度黄金贷款市场 - Martin Cid Magazine",
@@ -197816,6 +198967,208 @@
             "keywordScore": 11,
             "semanticScore": 5.09,
             "finalScore": 16.09,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-7eb87f04d8dd",
+          "title": "Blackstone lines up $200M loan to refinance ASK's acquisition debt - Dealroom",
+          "titleZh": "Blackstone筹组2亿美元贷款，为ASK收购债务再融资 - Dealroom",
+          "summary": "Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+          "summaryZh": "Blackstone筹组2亿美元贷款，为ASK收购债务再融资 Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTd1VTVUQjJpcFFQcW5ldm1UN09FeHBNaldCMDRtMlAxZnRJTHQwcUF5TG0xcVBtTjVtbXY1YXdVT01WNklod3NRbEh1ZHNteHFYMjFQaXdoMl9zZDE4Z2ZEMUpPWjJiU1dBS1BXdk5lY2lqTlRkekdTMk00Q2pNMktkdUtlWXZRYUlIMy1RRXYwbEI4NjFLbURPTVNkUWQ2?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-11-13",
+          "lede": "Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+          "articleExcerpt": "Blackstone lines up $200M loan to refinance ASK's acquisition debt - Dealroom. Blackstone lines up $200M loan to refinance ASK's acquisition debt Dealroom",
+          "contentFingerprint": "69db3b0f0a87b0d5",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is arranging a $200M loan to refinance the acquisition debt from its buyout of ASK Investment Managers. The underlying deal is private equity, but the article is specifically about a debt refinancing, so it has a financing angle and is not excluded. Blackstone is the borrower or sponsor here, not the lender, so no private-credit or other strategy tag applies. Importance is moderate because this is routine sponsor-level financing.",
+            "llmReasonZh": "Blackstone正在安排一笔2亿美元贷款，用于为其收购ASK Investment Managers所产生的收购债务进行再融资。该底层交易属于私募股权交易，但本文专门涉及债务再融资，具有融资属性，因此未被排除。此处Blackstone为借款方或发起方，而非贷款方，因此不适用私募信贷或其他策略标签。由于这属于常规的发起方层面融资，重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.72,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Dealroom"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 5.26,
+            "finalScore": 16.259999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-13-8c4497624a95",
+          "title": "Blackstone buys into India’s IIFL - Financial Times",
+          "titleZh": "Blackstone入股印度IIFL - Financial Times",
+          "summary": "Blackstone buys into India’s IIFL Financial Times",
+          "summaryZh": "Blackstone入股印度IIFL Financial Times",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0tVMzFFVnR5bEQtSFNhblZTSGRDaFc3VEU1bzhjZFpFczlWdjVxQ2VKaXk2ODc0YktjaHJGdHd5NVZFZENRXzlOenBTU2doNE42a0NkNjdYbFNoVXhqaXlsTlJfeEh5MWRlNDRmRVJUeThiUkpGeExBNTB2ZzZvUmpLV0Y?oc=5",
+          "source": "Financial Times",
+          "publishedAt": "2026-11-13",
+          "lede": "Blackstone buys into India’s IIFL Financial Times",
+          "articleExcerpt": "Blackstone buys into India’s IIFL - Financial Times. Blackstone buys into India’s IIFL Financial Times",
+          "contentFingerprint": "48c979e492e99c34",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is taking a stake in IIFL, an Indian non-bank lender (gold loans, home and business finance). The article is only a headline, so it is unclear whether this is Blackstone's PE arm or its credit arm. The target is a lending business, which gives a plausible credit angle, so I tagged it with moderate importance rather than excluding it. If the full article confirms a pure private-equity stake, exclude it.",
+            "llmReasonZh": "Blackstone正在入股IIFL，该公司为印度非银行贷款机构（业务涵盖黄金贷款、住房及企业融资）。该文章仅有标题，因此尚不清楚此次入股由Blackstone的私募股权部门还是信贷部门进行。标的为贷款业务，具有一定的信贷相关性，因此将其标记为中等重要性，而非予以排除。若全文确认这纯属私募股权投资，则予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Financial Times"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 80,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.81,
+            "finalScore": 13.809999999999999,
             "semanticEnabled": true
           }
         },
@@ -198233,6 +199586,110 @@
           }
         },
         {
+          "id": "2026-11-13-1cee5414c563",
+          "title": "TPG RE Finance Trust director buys $16,250 in company stock - Investing.com",
+          "titleZh": "TPG RE Finance Trust董事买入16,250美元公司股票 - Investing.com",
+          "summary": "TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+          "summaryZh": "TPG RE Finance Trust董事买入16,250美元公司股票 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORHRCa1lQM1pXMUo1TEwxZ2hmeTNyaC1xZDcyc3dhTVlZZFVqUDZPdzZOLXFPSFRmQ2FMWTBlVkkxQkFBQ0JKbXlxd20wVE9KSGFQNUVBNWhqQm5RSW85RUdDSWxUa3ZranE1dUZxR3R6LUN1XzNPazl6SDJnX3g4SHZoRGFXT2dvTzBJTWhwdkJOakRqaWMzNFdOUEVka2JRNXZjUzhvZERkcnpOOVEyQTRrUzhiYTZXMGFOdTBxYw?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-13",
+          "lede": "TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+          "articleExcerpt": "TPG RE Finance Trust director buys $16,250 in company stock - Investing.com. TPG RE Finance Trust director buys $16,250 in company stock Investing.com",
+          "contentFingerprint": "ebd0d5e1997d3318",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "TPG RE Finance Trust is TPG's commercial real estate lending REIT, so this is credit-relevant. The news is only a small insider stock purchase by a director, a stock-level signal with little credit significance.",
+            "llmReasonZh": "TPG RE Finance Trust是TPG旗下专注商业地产贷款的REIT，因此与信用相关。但该新闻仅涉及一名董事小额买入公司股票的内部人交易，属于股票层面的信号，对信用影响甚微。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.36,
+            "finalScore": 19.36,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-13-6393e5c2e410",
           "title": "Form 4 Golub Capital Private Credit Fund: David Golub (Director, CEO and Trustee) For: 1 October - Investing.com Canada",
           "titleZh": "Golub Capital Private Credit Fund提交Form 4：David Golub（董事、首席执行官兼受托人），日期：1 October - Investing.com Canada",
@@ -198544,7 +200001,112 @@
     },
     "2026-11-14": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-14-8de764132b0b",
+            "title": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares - Stocktwits",
+            "titleZh": "Saba Capital与Cox Capital对BDC股份发起要约收购后，Blue Owl股价上涨 - Stocktwits",
+            "summary": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+            "summaryZh": "Saba Capital与Cox Capital对BDC股份发起要约收购后，Blue Owl股价上涨 Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcG5xcVBJcXBKLVpsT1BXTEUtV3c4T0JqYWtqcXpnaC1Ray11bTA4WDVLVHdQa0hmWEhjSll1eVFJRHo3N3dwcEpJM1FfYnNKY1dEQ1JDZ3NlTVdFbDlOZEdGX0dlak0zOGdtNUhfUnZLQVdRbGI1dzk0d2h3RVBxWnd4bjFPWGtiN3Ixd1lHN1R5c2NiVG8yNXRLVWRDd050akNjaXVzX25pZXpvZndYVHVmVzRrcHV4a1pFMGFBNU5ZZlRnbXRHVjZMbENaS0tNSU1KaTdJdU1ic3I5LTQxMw?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-11-14",
+            "lede": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+            "articleExcerpt": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares - Stocktwits. Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+            "contentFingerprint": "306d89530ba6f8cd",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Activist investors Saba Capital and Cox Capital made tender offers for shares of Blue Owl BDCs, which is private credit vehicle activity that could signal liquidity or redemption pressure. The framing is stock-price news, but the activist tender offers on BDC shares raise importance above routine stock commentary.",
+              "llmReasonZh": "激进投资者Saba Capital和Cox Capital对Blue Owl旗下BDC的股份发起要约收购，属于私募信贷投资载体相关动态，可能预示流动性或赎回压力。尽管报道以股价新闻为切入点，但激进投资者针对BDC股份的要约收购使其重要性高于常规股市评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.4,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stocktwits"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.77,
+              "finalScore": 20.77,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [],
         "CIFC": [],
         "PAG": [],
@@ -198784,7 +200346,100 @@
             }
           }
         ],
-        "Apollo": [],
+        "Apollo": [
+          {
+            "id": "2026-11-14-93b36321b31e",
+            "title": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management",
+            "titleZh": "增长强劲、物价上涨，美联储行动滞后 - Apollo Global Management",
+            "summary": "Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+            "summaryZh": "增长强劲、物价上涨，美联储行动滞后 Apollo Global Management",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3R3ZjFhZnJrd1pJUUxuYk1kSFhETDVkX3JqQlRVUlRLeWlhOU81a1hFZHdhOUxBaEdsZXpNWUltWU1kMUY5T0VCU040X0tnclFBNjAwa0tfYTRnc0VoWEJqRFVha3ZYdVZFUENJMUtSN2xyTWlRZ29pa1RpNndSTDJ1T0J3emxaTjEtNlV2WlpWTUhfOTgwcUJlb3JQOTFwbXM5cUhrTTI3Ukd4eldpM3V4OHRaV3diQjJr?oc=5",
+            "source": "Apollo Global Management",
+            "publishedAt": "2026-11-14",
+            "lede": "Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+            "articleExcerpt": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management. Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+            "contentFingerprint": "8fbf7fed11a42ac6",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is Apollo's macro commentary (likely Torsten Slok's research note) on growth, inflation and Fed policy. It is market commentary with no specific credit transaction, fundraising or legal event. It is somewhat relevant to credit investors as rate and market views from a credit-heavy manager, so it is kept at low importance.",
+              "llmReasonZh": "这是Apollo关于经济增长、通胀及美联储政策的宏观评论（可能为Torsten Slok的研究报告）。该文属于市场评论，不涉及具体的信贷交易、募资或法律事件。作为以信贷业务为主的资产管理机构对利率和市场的观点，该文对信贷投资者具有一定参考价值，因此保留并列为低重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Apollo Global Management"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 50,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.46,
+              "finalScore": 11.46,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [],
         "Golub": [
           {
@@ -199004,6 +200659,110 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-14-8de764132b0b",
+          "title": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares - Stocktwits",
+          "titleZh": "Saba Capital与Cox Capital对BDC股份发起要约收购后，Blue Owl股价上涨 - Stocktwits",
+          "summary": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+          "summaryZh": "Saba Capital与Cox Capital对BDC股份发起要约收购后，Blue Owl股价上涨 Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcG5xcVBJcXBKLVpsT1BXTEUtV3c4T0JqYWtqcXpnaC1Ray11bTA4WDVLVHdQa0hmWEhjSll1eVFJRHo3N3dwcEpJM1FfYnNKY1dEQ1JDZ3NlTVdFbDlOZEdGX0dlak0zOGdtNUhfUnZLQVdRbGI1dzk0d2h3RVBxWnd4bjFPWGtiN3Ixd1lHN1R5c2NiVG8yNXRLVWRDd050akNjaXVzX25pZXpvZndYVHVmVzRrcHV4a1pFMGFBNU5ZZlRnbXRHVjZMbENaS0tNSU1KaTdJdU1ic3I5LTQxMw?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-11-14",
+          "lede": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+          "articleExcerpt": "Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares - Stocktwits. Blue Owl Stock Rises After Saba Capital And Cox Capital’s Tender Offers For BDC Shares Stocktwits",
+          "contentFingerprint": "306d89530ba6f8cd",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Activist investors Saba Capital and Cox Capital made tender offers for shares of Blue Owl BDCs, which is private credit vehicle activity that could signal liquidity or redemption pressure. The framing is stock-price news, but the activist tender offers on BDC shares raise importance above routine stock commentary.",
+            "llmReasonZh": "激进投资者Saba Capital和Cox Capital对Blue Owl旗下BDC的股份发起要约收购，属于私募信贷投资载体相关动态，可能预示流动性或赎回压力。尽管报道以股价新闻为切入点，但激进投资者针对BDC股份的要约收购使其重要性高于常规股市评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.4,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stocktwits"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.77,
+            "finalScore": 20.77,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-14-1b6808ea3863",
           "title": "Progress Residential agrees to $49.75 million settlement over rental practices - KJZZ",
@@ -199233,6 +200992,98 @@
           }
         },
         {
+          "id": "2026-11-14-93b36321b31e",
+          "title": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management",
+          "titleZh": "增长强劲、物价上涨，美联储行动滞后 - Apollo Global Management",
+          "summary": "Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+          "summaryZh": "增长强劲、物价上涨，美联储行动滞后 Apollo Global Management",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3R3ZjFhZnJrd1pJUUxuYk1kSFhETDVkX3JqQlRVUlRLeWlhOU81a1hFZHdhOUxBaEdsZXpNWUltWU1kMUY5T0VCU040X0tnclFBNjAwa0tfYTRnc0VoWEJqRFVha3ZYdVZFUENJMUtSN2xyTWlRZ29pa1RpNndSTDJ1T0J3emxaTjEtNlV2WlpWTUhfOTgwcUJlb3JQOTFwbXM5cUhrTTI3Ukd4eldpM3V4OHRaV3diQjJr?oc=5",
+          "source": "Apollo Global Management",
+          "publishedAt": "2026-11-14",
+          "lede": "Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+          "articleExcerpt": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management. Strong Growth, Rising Prices and a Fed Behind the Curve Apollo Global Management",
+          "contentFingerprint": "8fbf7fed11a42ac6",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is Apollo's macro commentary (likely Torsten Slok's research note) on growth, inflation and Fed policy. It is market commentary with no specific credit transaction, fundraising or legal event. It is somewhat relevant to credit investors as rate and market views from a credit-heavy manager, so it is kept at low importance.",
+            "llmReasonZh": "这是Apollo关于经济增长、通胀及美联储政策的宏观评论（可能为Torsten Slok的研究报告）。该文属于市场评论，不涉及具体的信贷交易、募资或法律事件。作为以信贷业务为主的资产管理机构对利率和市场的观点，该文对信贷投资者具有一定参考价值，因此保留并列为低重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Apollo Global Management"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 50,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.46,
+            "finalScore": 11.46,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-14-e78d03df3b77",
           "title": "$250,000 in Golub Capital and Hercules Capital: Why BDC Income Belongs in a Roth IRA - Yahoo Finance",
           "titleZh": "在Golub Capital和Hercules Capital投资$250,000：为何BDC收益适合放入Roth IRA - Yahoo Finance",
@@ -199445,12 +201296,256 @@
           }
         }
       ]
+    },
+    "2026-11-15": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-15-65ec3e6fee45",
+            "title": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks",
+            "titleZh": "Bain Capital Specialty Finance财报电话会议显示韧性 - TipRanks",
+            "summary": "Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+            "summaryZh": "Bain Capital Specialty Finance财报电话会议显示韧性 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVJkQWFCdFdvZTVldi1SRlN2T3pFUTcwNXp0WG1mUlg1bTVSdHJhdDBuN1h0NWV6d3E5S0NGb1JaalFIUy1vMDREMUJLT0VMZU5NQlpxNjNLd0dIQXI5aFV1ZS1scGtnWnYyMTJvNi1TQW5jN3dqbi14Ykg4Sms2YnBLOTBMaURqLTdMc2hfZ1B6QmRVdkN5Sm5Md09RdXZydHBKcVhDUHY0R0U3TGstMVpnSUZKQQ?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-15",
+            "lede": "Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+            "articleExcerpt": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks. Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+            "contentFingerprint": "aac4e3e123e022d4",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [
+                "abf"
+              ],
+              "titleStrategies": [
+                "abf"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, part of its credit business. An earnings call summary is routine manager news. The article content is thin and reads like commentary, so importance is set slightly below routine.",
+              "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC，隶属其信贷业务。财报电话会议摘要属于常规管理人新闻。该文章内容单薄，读起来更像评论，因此重要性设定为略低于常规水平。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.3,
+              "finalScore": 22.3,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-15-65ec3e6fee45",
+          "title": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks",
+          "titleZh": "Bain Capital Specialty Finance财报电话会议显示韧性 - TipRanks",
+          "summary": "Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+          "summaryZh": "Bain Capital Specialty Finance财报电话会议显示韧性 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVJkQWFCdFdvZTVldi1SRlN2T3pFUTcwNXp0WG1mUlg1bTVSdHJhdDBuN1h0NWV6d3E5S0NGb1JaalFIUy1vMDREMUJLT0VMZU5NQlpxNjNLd0dIQXI5aFV1ZS1scGtnWnYyMTJvNi1TQW5jN3dqbi14Ykg4Sms2YnBLOTBMaURqLTdMc2hfZ1B6QmRVdkN5Sm5Md09RdXZydHBKcVhDUHY0R0U3TGstMVpnSUZKQQ?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-15",
+          "lede": "Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+          "articleExcerpt": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks. Bain Capital Specialty Finance Earnings Call Signals Resilience TipRanks",
+          "contentFingerprint": "aac4e3e123e022d4",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [
+              "abf"
+            ],
+            "titleStrategies": [
+              "abf"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Bain Capital Specialty Finance is Bain Capital's publicly traded BDC, part of its credit business. An earnings call summary is routine manager news. The article content is thin and reads like commentary, so importance is set slightly below routine.",
+            "llmReasonZh": "Bain Capital Specialty Finance是Bain Capital旗下公开上市的BDC，隶属其信贷业务。财报电话会议摘要属于常规管理人新闻。该文章内容单薄，读起来更像评论，因此重要性设定为略低于常规水平。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-15T03:54:47.188332+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.3,
+            "finalScore": 22.3,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 19,
+      "count": 20,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -199458,20 +201553,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 80,
-      "selected": 4,
+      "count": 78,
+      "selected": 1,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
@@ -199484,12 +201579,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 11,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -199497,46 +201592,46 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 4,
-      "selected": 3,
+      "count": 5,
+      "selected": 1,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
       "count": 8,
-      "selected": 3,
+      "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 11,
-      "selected": 2,
+      "selected": 1,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
@@ -199549,59 +201644,59 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 18,
-      "selected": 6,
+      "count": 13,
+      "selected": 4,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 87,
-      "selected": 6,
+      "count": 79,
+      "selected": 4,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 29,
-      "selected": 6,
+      "count": 31,
+      "selected": 3,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
       "count": 8,
-      "selected": 1,
+      "selected": 2,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
@@ -199614,20 +201709,20 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 11,
-      "selected": 1,
+      "count": 10,
+      "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
@@ -199640,12 +201735,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 495,
+      "count": 375,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -199662,9 +201757,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-14T23:33:15.500240+00:00",
+      "asOf": "2026-11-15T03:54:47.188332+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-14T23:33:15.500240+00:00"
+  "checkedAt": "2026-11-15T03:54:47.188332+00:00"
 }
