@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-16T12:32:28.768333+00:00",
+  "updatedAt": "2026-11-16T23:30:43.917392+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7901,7 +7901,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
           "publishedAt": "2026-09-11",
@@ -7924,7 +7924,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -205248,7 +205248,111 @@
             }
           }
         ],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-16-12235fd1a19b",
+            "title": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis - www.debelegger.nl",
+            "titleZh": "KKR Real Estate Finance Trust (KREF-PA) 股价、图表及分析 - www.debelegger.nl",
+            "summary": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+            "summaryZh": "KKR Real Estate Finance Trust (KREF-PA) 股价、图表及分析 www.debelegger.nl",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VVhfOFdmZVE4eGlXdnRtai1hOGVlNjMzTWgzak1RUEpOX1NraFVwTU03U29wVGQwUW9DM0h6TkJySXpmY05kNk9yUTJaYkpJM1RhSy1zRmg?oc=5",
+            "source": "www.debelegger.nl",
+            "publishedAt": "2026-11-16",
+            "lede": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+            "articleExcerpt": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis - www.debelegger.nl. KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+            "contentFingerprint": "38f4817d8f1e7a20",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so it is credit-relevant. The article is only a stock price and chart page for its preferred shares, with no financing, fundraising or legal event.",
+              "llmReasonZh": "KKR Real Estate Finance Trust 是 KKR 旗下的商业地产贷款平台，因此与信贷相关。该文章仅为其优先股的股价及图表页面，未涉及任何融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "www.debelegger.nl"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.33,
+              "finalScore": 19.33,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
@@ -205366,13 +205470,1349 @@
               "finalScore": 25.38,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-16-cd972c308ff6",
+            "title": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire",
+            "titleZh": "NEUBERGER MUNICIPAL FUND宣布月度分配 - PR Newswire",
+            "summary": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "summaryZh": "NEUBERGER MUNICIPAL FUND宣布月度分配 PR Newswire",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXEzZjNyM1VPQy1udVhVSTRVV3ZBeTVRY1o5TFJnQWxYTTVQWHllQlhwQzZWQTFxYjlFTWY5VFNIaWlERk9iTkdFYndXRzg1LU04SVExZmEwTkV6MW5EMy1EM3M3MEhlWExXUmxKN3FCeVJmcHlZT2x5ZEhHR214OFpiVElDTk1LUW5xcGxiSGYxelZOaUhfTnl5RUVWU09EMVI4aGFlZkVZdWtRRWZEZg?oc=5",
+            "source": "PR Newswire",
+            "publishedAt": "2026-11-16",
+            "lede": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "articleExcerpt": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire. NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+            "contentFingerprint": "9a107c090940dcdb",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Routine monthly distribution notice from Neuberger's closed-end municipal bond fund. It is a fixed-income/credit product, so it is not a non-credit business, but it fits no tracked strategy and involves no financing, fundraising or litigation event. Low relevance.",
+              "llmReasonZh": "Neuberger旗下封闭式市政债券基金发布的例行月度分配公告。该基金属于固定收益/信用类产品，因此并非非信用类业务，但不符合任何跟踪策略，也不涉及融资、募资或诉讼事件。相关性低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.4,
+                  "code": "tier_press_release",
+                  "source": "PR Newswire"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.97,
+              "finalScore": 10.969999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-6832206b47f1",
+            "title": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones - Stock Traders Daily",
+            "titleZh": "利用Neuberger Berman Short Duration Income Etf (NBSD)风险区间进行精准交易 - Stock Traders Daily",
+            "summary": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+            "summaryZh": "利用Neuberger Berman Short Duration Income Etf (NBSD)风险区间进行精准交易 Stock Traders Daily",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbDVhTktYVU9tYjh2WldiSVNTVDNlanBaOWRZaDlzdGtOQjA1ams0ZWlaYzZxM0lqY1A3S0NNeW1JR1FhckF6bFlURHA3Zm5xcGt5QTJsclBwM0dwSzhsRjZEckN1NUUzSElKNUdKdF9xeGJkRW1ZOS0td2hEazkxWGJDVUZyRUZXb1h1TTRmbkVtRDZQNXl5eGdlMUczaHZEc0RxbS11S2h6MWtQQ0NpdHRJckhLdUJZcFRZUV9pVTEtUkZkYkQyckdDUjFYT3VfZm14ZjI1SkFLODFGOG9pX2xUeHAzc3dGQTJqTk1zbkhjTlU?oc=5",
+            "source": "Stock Traders Daily",
+            "publishedAt": "2026-11-16",
+            "lede": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+            "articleExcerpt": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones - Stock Traders Daily. Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+            "contentFingerprint": "464fb8e8de04efb6",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Automated Stock Traders Daily trading/technical-analysis piece on the Neuberger Berman Short Duration Income ETF (NBSD). The fixed-income ETF is credit-related, so it is not excluded. It reports no financing, fundraising, or legal event and maps to no specific tracked strategy, so importance is low (stock price commentary).",
+              "llmReasonZh": "Stock Traders Daily自动生成的关于Neuberger Berman Short Duration Income ETF (NBSD)的交易/技术分析文章。该固定收益ETF与信贷相关，因此未被排除。文章未涉及融资、募资或法律事件，也未对应任何特定的跟踪策略，因此重要性较低（股价评论）。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Stock Traders Daily"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.37,
+              "finalScore": 7.37,
+              "semanticEnabled": true
+            }
           }
         ],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-16-4bc5bd829829",
+            "title": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk - Kalkine",
+            "titleZh": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI)：其主动型美国信贷策略如何平衡收益与风险 - Kalkine",
+            "summary": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+            "summaryZh": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI)：其主动型美国信贷策略如何平衡收益与风险 Kalkine",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMldHT1Zkc1lIMkFQVWo1b1FJN3d3dDZuejVCZGRTcTZsTk0wZnlLTEozbURqLWRrZk40OVpqMlZ1VHF6MDZTVEFRNmw0V1BaRGtpQURHRVpjWGJMemFXLURWUC1PM3VvY3hPRlY1ZlJJY3RNNDFsZVhDZHdacHpudVRGcmlkbERYN0ZRbWthWFhDckk0b09DWEJaSi1iN1RoTnV0TXRtaFkzSmkwa1JHY3hlU215RzJrUnhfN3cxREZpQ01XbmYxQ0gyYVowU2JRRU5QZXBQaWZkQUpVSExtTlZxR1R6d3pZeFI4MHlmNGhsZzNm?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-11-16",
+            "lede": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+            "articleExcerpt": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk - Kalkine. State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+            "contentFingerprint": "f85d084d9780184f",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Kalkine commentary on the State Street–Blackstone High Income ETF, an active US credit product that invests across high yield, leveraged loans and private credit. This is routine product and market commentary, not a launch, close or transaction.",
+              "llmReasonZh": "Kalkine对State Street–Blackstone High Income ETF的评论文章。该产品为主动型美国信贷产品，投资范围涵盖高收益债券、杠杆贷款及私募信贷。本文属于常规产品及市场评论，不涉及产品发行、募资关闭或交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.23,
+              "finalScore": 22.23,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-cc5fa525717d",
+            "title": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback - MLQ.ai",
+            "titleZh": "Blackstone旗下数据中心REIT同意以50亿美元售后回租方式收购13座Amazon数据中心75%权益 - MLQ.ai",
+            "summary": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+            "summaryZh": "Blackstone旗下数据中心REIT同意以50亿美元售后回租方式收购13座Amazon数据中心75%权益 MLQ.ai",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYW5QaGFuVzJKdkctSThjUzY5RjN1UGRQeENlRTZJaE1HWE5EcUFxUXNGNnBJY2UySjZGVnAtYXNtNjUzUlhHdlhFQlRLdktPZWxyei1waU5XZ3BXTFcxTUtxYUVtOHZnV2RTczdvSVVVWUJoZUVZdlJWZkpsOTdkczFXUy1XMUpVaEZwNE5jUktzaFVQZkY1YnRXZ1EzblhhVXA3WC1JaG1WNEd4YXlDNkNLblhrWUpleFJtUFpjcw?oc=5",
+            "source": "MLQ.ai",
+            "publishedAt": "2026-11-16",
+            "lede": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+            "articleExcerpt": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback - MLQ.ai. Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+            "contentFingerprint": "f0dd32c8a87aa493",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "triple-net",
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "triple-net",
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "titleStrategies": [
+                "data-center",
+                "ai"
+              ],
+              "llmStrategies": [
+                "triple-net",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Borderline call. Blackstone's REIT is taking a 75% stake in 13 Amazon data centers through a $5B sale-leaseback. This is real-estate ownership, but a sale-leaseback works like a financing for Amazon and is a credit-like, net-lease structure that depends on Amazon's credit as tenant. That puts it within the tracked net-lease and data-center strategies, so it is tagged as a major financing transaction rather than excluded as a pure equity deal.",
+              "llmReasonZh": "属于边界判断。Blackstone旗下REIT将通过一笔50亿美元的售后回租交易，取得13座Amazon数据中心75%的权益。这虽属不动产所有权交易，但售后回租对Amazon而言实质上相当于一种融资，且属于类信贷的净租赁结构，依赖Amazon作为承租人的信用。因此该交易属于所跟踪的净租赁和数据中心策略范围，被标记为重大融资交易，而非作为纯股权交易予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "triple-net",
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "MLQ.ai"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 4.38,
+              "finalScore": 16.38,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-f8c149bfba87",
+            "title": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. - Stock Titan",
+            "titleZh": "亚马逊售后回租交易涉及13栋建筑，Blackstone Digital (BXDC) 同意收购其中权益 - Stock Titan",
+            "summary": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+            "summaryZh": "亚马逊售后回租交易涉及13栋建筑，Blackstone Digital (BXDC) 同意收购其中权益。Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXA4RjVoQnZ4Snpfd0N2T3QycEpWMXRZSnJfMUFNenhpLW02S1ZYVnJJdGIyNEFRQS1uUmtodkxsbzFLN1V1UUZwOXNZTWZ5aDU3T0c4QWN0UmNaTFI1el92RkYwanh0TV9DSkdGTGNoc1J0LVJvNDNIcXJsRmoxV21oMzVxY3NzT2N0LWJ4RklwaWQ0NUpLZ3lxSmZWbnhYN2Iwb1hQUUR3NnUxdno5Uml1YUxRNTJ6TjJfQWVsOXB5ZEFzeDFZRmhVRQ?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-16",
+            "lede": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+            "articleExcerpt": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. - Stock Titan. Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+            "contentFingerprint": "d641354e94f1c9ac",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "sectors": [
+              "triple-net",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "triple-net",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.65,
+              "llmExclude": false,
+              "llmReason": "Blackstone Digital (BXDC) is buying a stake in an Amazon sale-leaseback covering 13 buildings, likely data centers. A sale-leaseback is a net-lease financing structure that raises capital for Amazon, so it fits the tracked triple-net strategy and is not a pure equity buyout. The article text is thin, so data-center relevance is inferred from the BXDC vehicle and confidence is moderate.",
+              "llmReasonZh": "Blackstone Digital (BXDC) 正在收购亚马逊一项涉及13栋建筑（可能为数据中心）的售后回租交易中的权益。售后回租是一种为亚马逊筹集资金的净租赁融资结构，因此符合所跟踪的三净租赁（triple-net）策略，并非纯粹的股权收购。文章内容较少，数据中心相关性系根据BXDC这一投资载体推断得出，置信度中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "triple-net",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.68,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.65
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 5.45,
+              "finalScore": 14.45,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-2b1de5687616",
+            "title": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal - CoStar",
+            "titleZh": "Blackstone旗下数据中心REIT与Amazon达成50亿美元数据中心售后回租交易 - CoStar",
+            "summary": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+            "summaryZh": "Blackstone旗下数据中心REIT与Amazon达成50亿美元数据中心售后回租交易 CoStar",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGdNa1A5d2JNWDhvQzZJTVJRV1NxUVF3V3JTby1mZjBZNXF6bkZoRGpLUWtXbnVwNm5aeDFRLWJZR1k1d0FoQmJnenlEZWZ1ODFyWGw5dXdZWWVMWXpabFJsTHFya1ZjZ3oyY2o1dXhCbUVYVTBqbHlrSW15Y2dNUUpTSkhZSWZmS09VWVJVc0NINE9GR0xWajR4YXdiVW1UREt0bzZEZGhOQ2JfS1FzQnZwaGNfajItVjVEeC1jRXlqVHBzclE?oc=5",
+            "source": "CoStar",
+            "publishedAt": "2026-11-16",
+            "lede": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+            "articleExcerpt": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal - CoStar. News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+            "contentFingerprint": "aea06baf48f36db3",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "sectors": [
+              "triple-net",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "triple-net",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blackstone's data center REIT agreed a $5B sale-leaseback of Amazon data centers. A sale-leaseback is effectively lease-based financing for Amazon, matching the net lease and data center strategies. It is a large transaction, but the vehicle is a REIT with equity ownership rather than a pure credit fund, so importance is set at an ordinary-financing level rather than higher. Borderline case for exclusion.",
+              "llmReasonZh": "Blackstone旗下数据中心REIT同意以售后回租方式收购Amazon数据中心，交易金额为50亿美元。售后回租实质上是Amazon的租赁型融资，与净租赁及数据中心策略相契合。该交易规模较大，但交易主体为持有股权的REIT，而非纯信贷基金，因此重要性定为普通融资级别，未予上调。属于是否剔除的临界案例。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.68,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "triple-net",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "CoStar"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 75,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.42,
+              "finalScore": 13.42,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Apollo": [
+          {
+            "id": "2026-11-16-2011f595d657",
+            "title": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International",
+            "titleZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 - BeBeez International",
+            "summary": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+            "summaryZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 BeBeez International",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPajZBTmNCQzFOREtXMzA3NU1BandQVTJPX0xvWnF5d2FFQlNEdGFTcGtRckRpS1J0Y0d6VnoyUlM5MXNUaENVUnREN2MxNmoyM3otNGxYal8ycTlMcnJNTHBPYnhDVmktcnVtcDFjVDNwU1hCMUU1LWpCT0xhc1JKVGJzM2ZNQVB3T2V6YzVyYVRKZV9DeVRoRENtTTlxbXhaYVlXdm9GWWRRUzBrYXZ5QWZVdmJfRnZHckNxcG5hdmR4M00yX1lOQXlSc1M1SWR5QkhzM0Y5NXJpRUdaeXFuOVUwSFRQZ1FweXFGTWNXY3NVVHVL?oc=5",
+            "source": "BeBeez International",
+            "publishedAt": "2026-11-16",
+            "lede": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+            "articleExcerpt": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International. Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+            "contentFingerprint": "ce0195cc8ea8cc22",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a stock-price roundup. It mentions Apollo's share move (+5.8%) and a broader sell-off in NYSE-listed private credit firms. It is relevant to Apollo's private credit exposure, but it is market commentary, not a transaction, fundraise or lawsuit, so importance is low.",
+              "llmReasonZh": "本文为股价综述，提及Apollo股价变动（+5.8%）以及纽交所上市私募信贷公司的普遍抛售。内容与Apollo的私募信贷敞口相关，但属于市场评论，并非交易、募资或诉讼，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BeBeez International"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 55,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.36,
+              "finalScore": 21.36,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-055aabc504b7",
+            "title": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration - Yahoo Finance",
+            "titleZh": "Victory Capital与Apollo宣布开展私募市场战略合作 - Yahoo Finance",
+            "summary": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+            "summaryZh": "Victory Capital与Apollo宣布开展私募市场战略合作 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGQ4QU5jTkt6TXVFSUlJeHNPT2J6ajZGNGdUdmpoVVM5RTlYNjd4S1pBbDJnUDZKaU5NRTNPTVBRRmJCWTlHbUJKZ0x5SGhYLUZJbjFJZzdwdWNRUGt4Rk1CN1I3QzRpYmxXRllia2FYSkRlbUhOVThMYnVhOWRneE5WckdzME5RMU8tQ2lLZV9jQTBGbVlBRnZaVWxmY1VTWUZKemhLSDN2QQ?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-16",
+            "lede": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+            "articleExcerpt": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration - Yahoo Finance. Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+            "contentFingerprint": "ec440b3dc47b29d8",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo is forming a strategic private markets partnership with Victory Capital. Apollo's private markets products are mainly credit (private credit and asset-backed), so this is likely credit-relevant. The article has no details, so this is treated as routine manager news with no specific financing or fundraising event.",
+              "llmReasonZh": "Apollo正与Victory Capital建立私募市场战略合作关系。Apollo的私募市场产品以信贷为主（私募信贷及资产支持类），因此该消息可能与信贷相关。文章未提供具体细节，因此将其视为常规管理人新闻，不涉及具体融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.64,
+              "finalScore": 20.64,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-3de869fc2502",
+            "title": "Victory Capital and Apollo team up to broaden private markets access - Alternative Credit Investor",
+            "titleZh": "Victory Capital与Apollo携手拓宽私募市场准入渠道 - Alternative Credit Investor",
+            "summary": "Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+            "summaryZh": "Victory Capital与Apollo携手拓宽私募市场准入渠道 Alternative Credit Investor",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzlENWNfNS0tRlh1VDllQjhySXU4MDhNY0xlWHZzbGZZOWJEYnJnRU5LT2hoODNhbEtTeTFuSU80eXI4bWgyd0daUEsyazYxRVRjUnRmamxteVY1TnlzOVZHOXJWSFI0MlRRRzJJYUtsYWFjT2hBeUZIQTZ4QWlSY0FMUzBhb0stSzc4dWsxWHNNWHlTSW5aS0VGWUdUOFhBeXZndGxQTVJfbEhWcUVBVnYxYkNnUkpnNlE?oc=5",
+            "source": "Alternative Credit Investor",
+            "publishedAt": "2026-11-16",
+            "lede": "Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+            "articleExcerpt": "Victory Capital and Apollo team up to broaden private markets access - Alternative Credit Investor. Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+            "contentFingerprint": "004f094ec0e28bae",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo and Victory Capital are partnering to broaden access to private markets. The piece ran in Alternative Credit Investor, which suggests the partnership is about Apollo's private credit and alternative credit products. The text shown is only the headline repeated, so the credit angle is inferred from the publication rather than stated, which also lowers confidence in the strategy tag. This is routine distribution/partnership news with no financing, fundraising close or litigation.",
+              "llmReasonZh": "Apollo与Victory Capital正开展合作，以拓宽私募市场的准入渠道。该文刊载于Alternative Credit Investor，表明此次合作涉及Apollo的私募信贷及另类信贷产品。所示文本仅为重复的标题，因此信贷相关性系根据刊载媒体推断而非原文明确说明，这也降低了策略标签的可信度。此为常规的分销/合作类新闻，不涉及融资、募资完成或诉讼事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "Alternative Credit Investor"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.32,
+              "finalScore": 20.32,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-54a95e81e629",
+            "title": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets - marketscreener.com",
+            "titleZh": "Apollo与Victory Capital合作为个人投资者提供私募市场投资渠道 - marketscreener.com",
+            "summary": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+            "summaryZh": "Apollo与Victory Capital合作为个人投资者提供私募市场投资渠道 marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVRIMWlQYm5ONkhNNlRqRklILWJGS215UVVHTjBHbmdxWU5QeUhoYzhiQmxYNlB2VzZwZk1ldjFTczQtaDk1bUZqLTFGOXRMalIyTzhTUG5zR2NRRjhUdzMtbjZ4amZ1N3d1ZnByVTJoZWlGazVMbDFkSGZpUGN3a3ZpZnhHem5tbnNmN2ZpQ0J5eWVGNXliNjZ3d1FrS2w4OVJHRFdjbDlnWFI5Ym9raVMzSkphZHkxclRNQkI0bmNhTHA5Uk9uRmRWZEEwakVJZi1kUHFsX210Q0tSb1hUdg?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-11-16",
+            "lede": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+            "articleExcerpt": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets - marketscreener.com. Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+            "contentFingerprint": "3b70309901cfb3a5",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Strategic partnership between Apollo and Victory Capital to give individual investors access to private markets. Apollo's private-markets products for wealth channels are largely credit-oriented, so this is plausibly credit-relevant; the private-credit tag is inferred because the text is very thin. It is routine manager or distribution news, not a fund close or a financing transaction.",
+              "llmReasonZh": "Apollo与Victory Capital达成战略合作，为个人投资者提供私募市场投资渠道。Apollo面向财富管理渠道的私募市场产品以信贷类为主，因此该消息可能与信贷相关；由于原文信息非常有限，私募信贷标签系推断得出。此为常规的管理人或分销类新闻，并非基金募集完成或融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.34,
+              "finalScore": 12.34,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-5814d3c8920c",
+            "title": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch",
+            "titleZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 - Alternatives Watch",
+            "summary": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+            "summaryZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 Alternatives Watch",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpHYWxzN2gxQ2I0dzgyVnZ2ZjlyTHNKU0VHMlhFZjd1N3p6eTR6OVVid1JuR1YwdWxpVjRaLWMwNlNRV2VxN0xfcEVmNGZPZWlwWWU4N3A1dzRCazcwNU9mbnRsdjVnYWhJeFVJQ0s1U0RZelNITTNzMk5wc2VxZk5TaEFjZE5MY3FmRF8wd1oyUDR3N1JOUF9uYVREMkZoRGlyU21mZ3p6QnlVRTRqNDZuYzR4OWh4OHJaRlpONnk4dXJ1YU1V?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-11-16",
+            "lede": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+            "articleExcerpt": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+            "contentFingerprint": "dcc00e5efbf88e0e",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo is expanding its wealth-management distribution through a Victory Capital partnership and an investment in Focus. These channels largely carry Apollo's private credit products to wealth clients, so this is credit-relevant routine manager news. The text is thin, and it does not confirm a specific financing or fund close.",
+              "llmReasonZh": "Apollo正通过与Victory Capital合作及投资Focus，扩大其财富管理分销渠道。这些渠道主要向财富管理客户销售Apollo的私募信贷产品，因此属于与信贷相关的常规管理人动态。文章内容较少，未证实任何具体融资或基金募集完成。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Alternatives Watch"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.2,
+              "finalScore": 12.2,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-9f661814c4cd",
+            "title": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser",
+            "titleZh": "Victory Capital携手Apollo推出私募市场模型投资组合 - planadviser",
+            "summary": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "summaryZh": "Victory Capital携手Apollo推出私募市场模型投资组合 planadviser",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0liTFJhdHByZXAyeU5PakRUQV8tYkRUbmRVUlBTZDRxODJKamxmc2x5aHdSckxvU0NaREVrYU5uZW9WV2pRTEdPTTFaUTlzR2RsUjVJWnZfLXlPY0dhRHZSMUJzckpGSEZ6M3AxSHdoMG9GbmUxS0x1TDB1VnU5MmhJbThNZXpQTlltSUZaQzRGd1k0Wjd3cw?oc=5",
+            "source": "planadviser",
+            "publishedAt": "2026-11-16",
+            "lede": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "articleExcerpt": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser. Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "contentFingerprint": "44e6ee86006bb825",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Victory Capital is partnering with Apollo on private markets model portfolios. Apollo's distribution of private markets products to wealth and retirement channels is credit-heavy (e.g., private credit interval funds), so this counts as routine manager and distribution news relevant to Apollo's credit business. It is not a financing, fundraising close or lawsuit. The private-credit tag is inferred, since the text gives few details.",
+              "llmReasonZh": "Victory Capital正与Apollo合作推出私募市场模型投资组合。Apollo面向财富管理和退休渠道分销的私募市场产品以信贷类为主（例如私募信贷区间基金），因此本文属于与Apollo信贷业务相关的常规管理人及分销动态。本文不涉及融资、募资完成或诉讼。由于原文细节有限，私募信贷标签系推断得出。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "planadviser"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.13,
+              "finalScore": 12.129999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "TPG": [
+          {
+            "id": "2026-11-16-4e3da4919cca",
+            "title": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) - Seeking Alpha",
+            "titleZh": "TPG Mortgage优先股12%股息率值得关注，但伴随风险 (NYSE:MITT.PR.B) - Seeking Alpha",
+            "summary": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+            "summaryZh": "TPG Mortgage优先股12%股息率值得关注，但伴随风险 (NYSE:MITT.PR.B) Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTJ6R29NQVpkdkhpcWFDVVZZT3h3amtYNGpYVm1wdjNEMlNUTnhvSlJUQzBDNmJJWkxSUXBCM1hhQnN4NF8zQjMzc2loZm11bDdrMmdOT1dCWjltMW1nRTZXQmVVYUNhM1AzaGRYM0ZSYlNqcXd2T2RkdHBncEliUjhHQ2FQYjNabDZXQ0JadEJIR0w3cG44MDc5MlhkU1FiMHVTQklfY3J6aEkxOEY0Vm4zSlBBM3B0cTJzUHo1anJDNlE?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-16",
+            "lede": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+            "articleExcerpt": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) - Seeking Alpha. A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+            "contentFingerprint": "5af66e577a521bfe",
+            "region": "US",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [
+              "resi"
+            ],
+            "sectors": [
+              "resi"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "resi"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "MITT (AG Mortgage Investment Trust, now 'TPG Mortgage') is a residential mortgage REIT managed by TPG Angelo Gordon, so it falls within TPG's credit business. The article is Seeking Alpha commentary on preferred-share dividend yield and risk, not a transaction. It is relevant but low importance.",
+              "llmReasonZh": "MITT（AG Mortgage Investment Trust，现更名为“TPG Mortgage”）是一家由TPG Angelo Gordon管理的住宅抵押贷款REIT，因此属于TPG信贷业务范畴。该文章为Seeking Alpha关于优先股股息率及风险的评论，并非交易类新闻。具有相关性，但重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.71,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "resi"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.06,
+              "finalScore": 21.06,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Golub": [],
         "CVC": [],
         "Canyon": []
@@ -205490,6 +206930,1442 @@
             "finalScore": 25.38,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-16-12235fd1a19b",
+          "title": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis - www.debelegger.nl",
+          "titleZh": "KKR Real Estate Finance Trust (KREF-PA) 股价、图表及分析 - www.debelegger.nl",
+          "summary": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+          "summaryZh": "KKR Real Estate Finance Trust (KREF-PA) 股价、图表及分析 www.debelegger.nl",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VVhfOFdmZVE4eGlXdnRtai1hOGVlNjMzTWgzak1RUEpOX1NraFVwTU03U29wVGQwUW9DM0h6TkJySXpmY05kNk9yUTJaYkpJM1RhSy1zRmg?oc=5",
+          "source": "www.debelegger.nl",
+          "publishedAt": "2026-11-16",
+          "lede": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+          "articleExcerpt": "KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis - www.debelegger.nl. KKR Real Estate Finance Trust (KREF-PA) Stock Price, Chart & Analysis www.debelegger.nl",
+          "contentFingerprint": "38f4817d8f1e7a20",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KKR Real Estate Finance Trust is KKR's commercial real estate lending vehicle, so it is credit-relevant. The article is only a stock price and chart page for its preferred shares, with no financing, fundraising or legal event.",
+            "llmReasonZh": "KKR Real Estate Finance Trust 是 KKR 旗下的商业地产贷款平台，因此与信贷相关。该文章仅为其优先股的股价及图表页面，未涉及任何融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "www.debelegger.nl"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.33,
+            "finalScore": 19.33,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-cd972c308ff6",
+          "title": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire",
+          "titleZh": "NEUBERGER MUNICIPAL FUND宣布月度分配 - PR Newswire",
+          "summary": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "summaryZh": "NEUBERGER MUNICIPAL FUND宣布月度分配 PR Newswire",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXEzZjNyM1VPQy1udVhVSTRVV3ZBeTVRY1o5TFJnQWxYTTVQWHllQlhwQzZWQTFxYjlFTWY5VFNIaWlERk9iTkdFYndXRzg1LU04SVExZmEwTkV6MW5EMy1EM3M3MEhlWExXUmxKN3FCeVJmcHlZT2x5ZEhHR214OFpiVElDTk1LUW5xcGxiSGYxelZOaUhfTnl5RUVWU09EMVI4aGFlZkVZdWtRRWZEZg?oc=5",
+          "source": "PR Newswire",
+          "publishedAt": "2026-11-16",
+          "lede": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "articleExcerpt": "NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION - PR Newswire. NEUBERGER MUNICIPAL FUND ANNOUNCES MONTHLY DISTRIBUTION PR Newswire",
+          "contentFingerprint": "9a107c090940dcdb",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Routine monthly distribution notice from Neuberger's closed-end municipal bond fund. It is a fixed-income/credit product, so it is not a non-credit business, but it fits no tracked strategy and involves no financing, fundraising or litigation event. Low relevance.",
+            "llmReasonZh": "Neuberger旗下封闭式市政债券基金发布的例行月度分配公告。该基金属于固定收益/信用类产品，因此并非非信用类业务，但不符合任何跟踪策略，也不涉及融资、募资或诉讼事件。相关性低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.4,
+                "code": "tier_press_release",
+                "source": "PR Newswire"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.97,
+            "finalScore": 10.969999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-6832206b47f1",
+          "title": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones - Stock Traders Daily",
+          "titleZh": "利用Neuberger Berman Short Duration Income Etf (NBSD)风险区间进行精准交易 - Stock Traders Daily",
+          "summary": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+          "summaryZh": "利用Neuberger Berman Short Duration Income Etf (NBSD)风险区间进行精准交易 Stock Traders Daily",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbDVhTktYVU9tYjh2WldiSVNTVDNlanBaOWRZaDlzdGtOQjA1ams0ZWlaYzZxM0lqY1A3S0NNeW1JR1FhckF6bFlURHA3Zm5xcGt5QTJsclBwM0dwSzhsRjZEckN1NUUzSElKNUdKdF9xeGJkRW1ZOS0td2hEazkxWGJDVUZyRUZXb1h1TTRmbkVtRDZQNXl5eGdlMUczaHZEc0RxbS11S2h6MWtQQ0NpdHRJckhLdUJZcFRZUV9pVTEtUkZkYkQyckdDUjFYT3VfZm14ZjI1SkFLODFGOG9pX2xUeHAzc3dGQTJqTk1zbkhjTlU?oc=5",
+          "source": "Stock Traders Daily",
+          "publishedAt": "2026-11-16",
+          "lede": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+          "articleExcerpt": "Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones - Stock Traders Daily. Precision Trading with Neuberger Berman Short Duration Income Etf (NBSD) Risk Zones Stock Traders Daily",
+          "contentFingerprint": "464fb8e8de04efb6",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Automated Stock Traders Daily trading/technical-analysis piece on the Neuberger Berman Short Duration Income ETF (NBSD). The fixed-income ETF is credit-related, so it is not excluded. It reports no financing, fundraising, or legal event and maps to no specific tracked strategy, so importance is low (stock price commentary).",
+            "llmReasonZh": "Stock Traders Daily自动生成的关于Neuberger Berman Short Duration Income ETF (NBSD)的交易/技术分析文章。该固定收益ETF与信贷相关，因此未被排除。文章未涉及融资、募资或法律事件，也未对应任何特定的跟踪策略，因此重要性较低（股价评论）。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Stock Traders Daily"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.37,
+            "finalScore": 7.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-4bc5bd829829",
+          "title": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk - Kalkine",
+          "titleZh": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI)：其主动型美国信贷策略如何平衡收益与风险 - Kalkine",
+          "summary": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+          "summaryZh": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI)：其主动型美国信贷策略如何平衡收益与风险 Kalkine",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMldHT1Zkc1lIMkFQVWo1b1FJN3d3dDZuejVCZGRTcTZsTk0wZnlLTEozbURqLWRrZk40OVpqMlZ1VHF6MDZTVEFRNmw0V1BaRGtpQURHRVpjWGJMemFXLURWUC1PM3VvY3hPRlY1ZlJJY3RNNDFsZVhDZHdacHpudVRGcmlkbERYN0ZRbWthWFhDckk0b09DWEJaSi1iN1RoTnV0TXRtaFkzSmkwa1JHY3hlU215RzJrUnhfN3cxREZpQ01XbmYxQ0gyYVowU2JRRU5QZXBQaWZkQUpVSExtTlZxR1R6d3pZeFI4MHlmNGhsZzNm?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-11-16",
+          "lede": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+          "articleExcerpt": "State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk - Kalkine. State Street Blackstone High Income (AUD Hedged) Active ETF (ASX:SBHI): How Its Active US Credit Strategy Balances Income and Risk Kalkine",
+          "contentFingerprint": "f85d084d9780184f",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Kalkine commentary on the State Street–Blackstone High Income ETF, an active US credit product that invests across high yield, leveraged loans and private credit. This is routine product and market commentary, not a launch, close or transaction.",
+            "llmReasonZh": "Kalkine对State Street–Blackstone High Income ETF的评论文章。该产品为主动型美国信贷产品，投资范围涵盖高收益债券、杠杆贷款及私募信贷。本文属于常规产品及市场评论，不涉及产品发行、募资关闭或交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.23,
+            "finalScore": 22.23,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-cc5fa525717d",
+          "title": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback - MLQ.ai",
+          "titleZh": "Blackstone旗下数据中心REIT同意以50亿美元售后回租方式收购13座Amazon数据中心75%权益 - MLQ.ai",
+          "summary": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+          "summaryZh": "Blackstone旗下数据中心REIT同意以50亿美元售后回租方式收购13座Amazon数据中心75%权益 MLQ.ai",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYW5QaGFuVzJKdkctSThjUzY5RjN1UGRQeENlRTZJaE1HWE5EcUFxUXNGNnBJY2UySjZGVnAtYXNtNjUzUlhHdlhFQlRLdktPZWxyei1waU5XZ3BXTFcxTUtxYUVtOHZnV2RTczdvSVVVWUJoZUVZdlJWZkpsOTdkczFXUy1XMUpVaEZwNE5jUktzaFVQZkY1YnRXZ1EzblhhVXA3WC1JaG1WNEd4YXlDNkNLblhrWUpleFJtUFpjcw?oc=5",
+          "source": "MLQ.ai",
+          "publishedAt": "2026-11-16",
+          "lede": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+          "articleExcerpt": "Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback - MLQ.ai. Blackstone's data center REIT agrees to buy 75% of 13 Amazon data centers in a $5 billion sale-leaseback MLQ.ai",
+          "contentFingerprint": "f0dd32c8a87aa493",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "triple-net",
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "triple-net",
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "titleStrategies": [
+              "data-center",
+              "ai"
+            ],
+            "llmStrategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Borderline call. Blackstone's REIT is taking a 75% stake in 13 Amazon data centers through a $5B sale-leaseback. This is real-estate ownership, but a sale-leaseback works like a financing for Amazon and is a credit-like, net-lease structure that depends on Amazon's credit as tenant. That puts it within the tracked net-lease and data-center strategies, so it is tagged as a major financing transaction rather than excluded as a pure equity deal.",
+            "llmReasonZh": "属于边界判断。Blackstone旗下REIT将通过一笔50亿美元的售后回租交易，取得13座Amazon数据中心75%的权益。这虽属不动产所有权交易，但售后回租对Amazon而言实质上相当于一种融资，且属于类信贷的净租赁结构，依赖Amazon作为承租人的信用。因此该交易属于所跟踪的净租赁和数据中心策略范围，被标记为重大融资交易，而非作为纯股权交易予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "triple-net",
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "MLQ.ai"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 4.38,
+            "finalScore": 16.38,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-f8c149bfba87",
+          "title": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. - Stock Titan",
+          "titleZh": "亚马逊售后回租交易涉及13栋建筑，Blackstone Digital (BXDC) 同意收购其中权益 - Stock Titan",
+          "summary": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+          "summaryZh": "亚马逊售后回租交易涉及13栋建筑，Blackstone Digital (BXDC) 同意收购其中权益。Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXA4RjVoQnZ4Snpfd0N2T3QycEpWMXRZSnJfMUFNenhpLW02S1ZYVnJJdGIyNEFRQS1uUmtodkxsbzFLN1V1UUZwOXNZTWZ5aDU3T0c4QWN0UmNaTFI1el92RkYwanh0TV9DSkdGTGNoc1J0LVJvNDNIcXJsRmoxV21oMzVxY3NzT2N0LWJ4RklwaWQ0NUpLZ3lxSmZWbnhYN2Iwb1hQUUR3NnUxdno5Uml1YUxRNTJ6TjJfQWVsOXB5ZEFzeDFZRmhVRQ?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-16",
+          "lede": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+          "articleExcerpt": "Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. - Stock Titan. Amazon sale-leaseback spans 13 buildings as Blackstone Digital (BXDC) agrees to buy a stake. Stock Titan",
+          "contentFingerprint": "d641354e94f1c9ac",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "triple-net",
+            "data-center"
+          ],
+          "sectors": [
+            "triple-net",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.65,
+            "llmExclude": false,
+            "llmReason": "Blackstone Digital (BXDC) is buying a stake in an Amazon sale-leaseback covering 13 buildings, likely data centers. A sale-leaseback is a net-lease financing structure that raises capital for Amazon, so it fits the tracked triple-net strategy and is not a pure equity buyout. The article text is thin, so data-center relevance is inferred from the BXDC vehicle and confidence is moderate.",
+            "llmReasonZh": "Blackstone Digital (BXDC) 正在收购亚马逊一项涉及13栋建筑（可能为数据中心）的售后回租交易中的权益。售后回租是一种为亚马逊筹集资金的净租赁融资结构，因此符合所跟踪的三净租赁（triple-net）策略，并非纯粹的股权收购。文章内容较少，数据中心相关性系根据BXDC这一投资载体推断得出，置信度中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "triple-net",
+                  "data-center"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.68,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.65
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 5.45,
+            "finalScore": 14.45,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-2b1de5687616",
+          "title": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal - CoStar",
+          "titleZh": "Blackstone旗下数据中心REIT与Amazon达成50亿美元数据中心售后回租交易 - CoStar",
+          "summary": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+          "summaryZh": "Blackstone旗下数据中心REIT与Amazon达成50亿美元数据中心售后回租交易 CoStar",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGdNa1A5d2JNWDhvQzZJTVJRV1NxUVF3V3JTby1mZjBZNXF6bkZoRGpLUWtXbnVwNm5aeDFRLWJZR1k1d0FoQmJnenlEZWZ1ODFyWGw5dXdZWWVMWXpabFJsTHFya1ZjZ3oyY2o1dXhCbUVYVTBqbHlrSW15Y2dNUUpTSkhZSWZmS09VWVJVc0NINE9GR0xWajR4YXdiVW1UREt0bzZEZGhOQ2JfS1FzQnZwaGNfajItVjVEeC1jRXlqVHBzclE?oc=5",
+          "source": "CoStar",
+          "publishedAt": "2026-11-16",
+          "lede": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+          "articleExcerpt": "News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal - CoStar. News | Blackstone’s data center REIT strikes $5 billion Amazon data center sale-leaseback deal CoStar",
+          "contentFingerprint": "aea06baf48f36db3",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "triple-net",
+            "data-center"
+          ],
+          "sectors": [
+            "triple-net",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blackstone's data center REIT agreed a $5B sale-leaseback of Amazon data centers. A sale-leaseback is effectively lease-based financing for Amazon, matching the net lease and data center strategies. It is a large transaction, but the vehicle is a REIT with equity ownership rather than a pure credit fund, so importance is set at an ordinary-financing level rather than higher. Borderline case for exclusion.",
+            "llmReasonZh": "Blackstone旗下数据中心REIT同意以售后回租方式收购Amazon数据中心，交易金额为50亿美元。售后回租实质上是Amazon的租赁型融资，与净租赁及数据中心策略相契合。该交易规模较大，但交易主体为持有股权的REIT，而非纯信贷基金，因此重要性定为普通融资级别，未予上调。属于是否剔除的临界案例。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.68,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "triple-net",
+                  "data-center"
+                ],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "CoStar"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 75,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.42,
+            "finalScore": 13.42,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-2011f595d657",
+          "title": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International",
+          "titleZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 - BeBeez International",
+          "summary": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+          "summaryZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 BeBeez International",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPajZBTmNCQzFOREtXMzA3NU1BandQVTJPX0xvWnF5d2FFQlNEdGFTcGtRckRpS1J0Y0d6VnoyUlM5MXNUaENVUnREN2MxNmoyM3otNGxYal8ycTlMcnJNTHBPYnhDVmktcnVtcDFjVDNwU1hCMUU1LWpCT0xhc1JKVGJzM2ZNQVB3T2V6YzVyYVRKZV9DeVRoRENtTTlxbXhaYVlXdm9GWWRRUzBrYXZ5QWZVdmJfRnZHckNxcG5hdmR4M00yX1lOQXlSc1M1SWR5QkhzM0Y5NXJpRUdaeXFuOVUwSFRQZ1FweXFGTWNXY3NVVHVL?oc=5",
+          "source": "BeBeez International",
+          "publishedAt": "2026-11-16",
+          "lede": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+          "articleExcerpt": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International. Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet BeBeez International",
+          "contentFingerprint": "ce0195cc8ea8cc22",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a stock-price roundup. It mentions Apollo's share move (+5.8%) and a broader sell-off in NYSE-listed private credit firms. It is relevant to Apollo's private credit exposure, but it is market commentary, not a transaction, fundraise or lawsuit, so importance is low.",
+            "llmReasonZh": "本文为股价综述，提及Apollo股价变动（+5.8%）以及纽交所上市私募信贷公司的普遍抛售。内容与Apollo的私募信贷敞口相关，但属于市场评论，并非交易、募资或诉讼，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BeBeez International"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 55,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.36,
+            "finalScore": 21.36,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-055aabc504b7",
+          "title": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration - Yahoo Finance",
+          "titleZh": "Victory Capital与Apollo宣布开展私募市场战略合作 - Yahoo Finance",
+          "summary": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+          "summaryZh": "Victory Capital与Apollo宣布开展私募市场战略合作 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGQ4QU5jTkt6TXVFSUlJeHNPT2J6ajZGNGdUdmpoVVM5RTlYNjd4S1pBbDJnUDZKaU5NRTNPTVBRRmJCWTlHbUJKZ0x5SGhYLUZJbjFJZzdwdWNRUGt4Rk1CN1I3QzRpYmxXRllia2FYSkRlbUhOVThMYnVhOWRneE5WckdzME5RMU8tQ2lLZV9jQTBGbVlBRnZaVWxmY1VTWUZKemhLSDN2QQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-16",
+          "lede": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+          "articleExcerpt": "Victory Capital and Apollo Announce Strategic Private Markets Collaboration - Yahoo Finance. Victory Capital and Apollo Announce Strategic Private Markets Collaboration Yahoo Finance",
+          "contentFingerprint": "ec440b3dc47b29d8",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo is forming a strategic private markets partnership with Victory Capital. Apollo's private markets products are mainly credit (private credit and asset-backed), so this is likely credit-relevant. The article has no details, so this is treated as routine manager news with no specific financing or fundraising event.",
+            "llmReasonZh": "Apollo正与Victory Capital建立私募市场战略合作关系。Apollo的私募市场产品以信贷为主（私募信贷及资产支持类），因此该消息可能与信贷相关。文章未提供具体细节，因此将其视为常规管理人新闻，不涉及具体融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.64,
+            "finalScore": 20.64,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-3de869fc2502",
+          "title": "Victory Capital and Apollo team up to broaden private markets access - Alternative Credit Investor",
+          "titleZh": "Victory Capital与Apollo携手拓宽私募市场准入渠道 - Alternative Credit Investor",
+          "summary": "Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+          "summaryZh": "Victory Capital与Apollo携手拓宽私募市场准入渠道 Alternative Credit Investor",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzlENWNfNS0tRlh1VDllQjhySXU4MDhNY0xlWHZzbGZZOWJEYnJnRU5LT2hoODNhbEtTeTFuSU80eXI4bWgyd0daUEsyazYxRVRjUnRmamxteVY1TnlzOVZHOXJWSFI0MlRRRzJJYUtsYWFjT2hBeUZIQTZ4QWlSY0FMUzBhb0stSzc4dWsxWHNNWHlTSW5aS0VGWUdUOFhBeXZndGxQTVJfbEhWcUVBVnYxYkNnUkpnNlE?oc=5",
+          "source": "Alternative Credit Investor",
+          "publishedAt": "2026-11-16",
+          "lede": "Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+          "articleExcerpt": "Victory Capital and Apollo team up to broaden private markets access - Alternative Credit Investor. Victory Capital and Apollo team up to broaden private markets access Alternative Credit Investor",
+          "contentFingerprint": "004f094ec0e28bae",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo and Victory Capital are partnering to broaden access to private markets. The piece ran in Alternative Credit Investor, which suggests the partnership is about Apollo's private credit and alternative credit products. The text shown is only the headline repeated, so the credit angle is inferred from the publication rather than stated, which also lowers confidence in the strategy tag. This is routine distribution/partnership news with no financing, fundraising close or litigation.",
+            "llmReasonZh": "Apollo与Victory Capital正开展合作，以拓宽私募市场的准入渠道。该文刊载于Alternative Credit Investor，表明此次合作涉及Apollo的私募信贷及另类信贷产品。所示文本仅为重复的标题，因此信贷相关性系根据刊载媒体推断而非原文明确说明，这也降低了策略标签的可信度。此为常规的分销/合作类新闻，不涉及融资、募资完成或诉讼事项。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "Alternative Credit Investor"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.32,
+            "finalScore": 20.32,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-54a95e81e629",
+          "title": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets - marketscreener.com",
+          "titleZh": "Apollo与Victory Capital合作为个人投资者提供私募市场投资渠道 - marketscreener.com",
+          "summary": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+          "summaryZh": "Apollo与Victory Capital合作为个人投资者提供私募市场投资渠道 marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVRIMWlQYm5ONkhNNlRqRklILWJGS215UVVHTjBHbmdxWU5QeUhoYzhiQmxYNlB2VzZwZk1ldjFTczQtaDk1bUZqLTFGOXRMalIyTzhTUG5zR2NRRjhUdzMtbjZ4amZ1N3d1ZnByVTJoZWlGazVMbDFkSGZpUGN3a3ZpZnhHem5tbnNmN2ZpQ0J5eWVGNXliNjZ3d1FrS2w4OVJHRFdjbDlnWFI5Ym9raVMzSkphZHkxclRNQkI0bmNhTHA5Uk9uRmRWZEEwakVJZi1kUHFsX210Q0tSb1hUdg?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-11-16",
+          "lede": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+          "articleExcerpt": "Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets - marketscreener.com. Apollo, Victory Capital Collaborate on Providing Individual Investors Access to Private Markets marketscreener.com",
+          "contentFingerprint": "3b70309901cfb3a5",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Strategic partnership between Apollo and Victory Capital to give individual investors access to private markets. Apollo's private-markets products for wealth channels are largely credit-oriented, so this is plausibly credit-relevant; the private-credit tag is inferred because the text is very thin. It is routine manager or distribution news, not a fund close or a financing transaction.",
+            "llmReasonZh": "Apollo与Victory Capital达成战略合作，为个人投资者提供私募市场投资渠道。Apollo面向财富管理渠道的私募市场产品以信贷类为主，因此该消息可能与信贷相关；由于原文信息非常有限，私募信贷标签系推断得出。此为常规的管理人或分销类新闻，并非基金募集完成或融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.34,
+            "finalScore": 12.34,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-5814d3c8920c",
+          "title": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch",
+          "titleZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 - Alternatives Watch",
+          "summary": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+          "summaryZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 Alternatives Watch",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpHYWxzN2gxQ2I0dzgyVnZ2ZjlyTHNKU0VHMlhFZjd1N3p6eTR6OVVid1JuR1YwdWxpVjRaLWMwNlNRV2VxN0xfcEVmNGZPZWlwWWU4N3A1dzRCazcwNU9mbnRsdjVnYWhJeFVJQ0s1U0RZelNITTNzMk5wc2VxZk5TaEFjZE5MY3FmRF8wd1oyUDR3N1JOUF9uYVREMkZoRGlyU21mZ3p6QnlVRTRqNDZuYzR4OWh4OHJaRlpONnk4dXJ1YU1V?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-11-16",
+          "lede": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+          "articleExcerpt": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+          "contentFingerprint": "dcc00e5efbf88e0e",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo is expanding its wealth-management distribution through a Victory Capital partnership and an investment in Focus. These channels largely carry Apollo's private credit products to wealth clients, so this is credit-relevant routine manager news. The text is thin, and it does not confirm a specific financing or fund close.",
+            "llmReasonZh": "Apollo正通过与Victory Capital合作及投资Focus，扩大其财富管理分销渠道。这些渠道主要向财富管理客户销售Apollo的私募信贷产品，因此属于与信贷相关的常规管理人动态。文章内容较少，未证实任何具体融资或基金募集完成。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Alternatives Watch"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.2,
+            "finalScore": 12.2,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-9f661814c4cd",
+          "title": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser",
+          "titleZh": "Victory Capital携手Apollo推出私募市场模型投资组合 - planadviser",
+          "summary": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "summaryZh": "Victory Capital携手Apollo推出私募市场模型投资组合 planadviser",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0liTFJhdHByZXAyeU5PakRUQV8tYkRUbmRVUlBTZDRxODJKamxmc2x5aHdSckxvU0NaREVrYU5uZW9WV2pRTEdPTTFaUTlzR2RsUjVJWnZfLXlPY0dhRHZSMUJzckpGSEZ6M3AxSHdoMG9GbmUxS0x1TDB1VnU5MmhJbThNZXpQTlltSUZaQzRGd1k0Wjd3cw?oc=5",
+          "source": "planadviser",
+          "publishedAt": "2026-11-16",
+          "lede": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "articleExcerpt": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser. Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "contentFingerprint": "44e6ee86006bb825",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Victory Capital is partnering with Apollo on private markets model portfolios. Apollo's distribution of private markets products to wealth and retirement channels is credit-heavy (e.g., private credit interval funds), so this counts as routine manager and distribution news relevant to Apollo's credit business. It is not a financing, fundraising close or lawsuit. The private-credit tag is inferred, since the text gives few details.",
+            "llmReasonZh": "Victory Capital正与Apollo合作推出私募市场模型投资组合。Apollo面向财富管理和退休渠道分销的私募市场产品以信贷类为主（例如私募信贷区间基金），因此本文属于与Apollo信贷业务相关的常规管理人及分销动态。本文不涉及融资、募资完成或诉讼。由于原文细节有限，私募信贷标签系推断得出。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "planadviser"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.13,
+            "finalScore": 12.129999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-4e3da4919cca",
+          "title": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) - Seeking Alpha",
+          "titleZh": "TPG Mortgage优先股12%股息率值得关注，但伴随风险 (NYSE:MITT.PR.B) - Seeking Alpha",
+          "summary": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+          "summaryZh": "TPG Mortgage优先股12%股息率值得关注，但伴随风险 (NYSE:MITT.PR.B) Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTJ6R29NQVpkdkhpcWFDVVZZT3h3amtYNGpYVm1wdjNEMlNUTnhvSlJUQzBDNmJJWkxSUXBCM1hhQnN4NF8zQjMzc2loZm11bDdrMmdOT1dCWjltMW1nRTZXQmVVYUNhM1AzaGRYM0ZSYlNqcXd2T2RkdHBncEliUjhHQ2FQYjNabDZXQ0JadEJIR0w3cG44MDc5MlhkU1FiMHVTQklfY3J6aEkxOEY0Vm4zSlBBM3B0cTJzUHo1anJDNlE?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-16",
+          "lede": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+          "articleExcerpt": "A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) - Seeking Alpha. A 12% Dividend Yield Worth A Look From TPG Mortgage Comes With Risk (NYSE:MITT.PR.B) Seeking Alpha",
+          "contentFingerprint": "5af66e577a521bfe",
+          "region": "US",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [
+            "resi"
+          ],
+          "sectors": [
+            "resi"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "resi"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "MITT (AG Mortgage Investment Trust, now 'TPG Mortgage') is a residential mortgage REIT managed by TPG Angelo Gordon, so it falls within TPG's credit business. The article is Seeking Alpha commentary on preferred-share dividend yield and risk, not a transaction. It is relevant but low importance.",
+            "llmReasonZh": "MITT（AG Mortgage Investment Trust，现更名为“TPG Mortgage”）是一家由TPG Angelo Gordon管理的住宅抵押贷款REIT，因此属于TPG信贷业务范畴。该文章为Seeking Alpha关于优先股股息率及风险的评论，并非交易类新闻。具有相关性，但重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.71,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "resi"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.06,
+            "finalScore": 21.06,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -205505,47 +208381,47 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "KKR",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 55,
+      "selected": 2,
+      "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 0,
+      "count": 5,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 0,
+      "count": 7,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
       "queries": [
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Pretium",
@@ -205557,8 +208433,8 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "Guggenheim",
@@ -205570,21 +208446,21 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "Neuberger",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 7,
+      "selected": 2,
+      "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "BasePoint",
@@ -205596,103 +208472,103 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "Bain Capital",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 13,
+      "selected": 2,
+      "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 89,
+      "selected": 6,
+      "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 24,
+      "selected": 6,
+      "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 5,
+      "selected": 1,
+      "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 3,
+      "selected": 1,
+      "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 0,
+      "count": 7,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 0,
+      "count": 30,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
       "queries": [
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
-      "errorReason": "HTTP Error 503: Service Unavailable"
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 336,
+      "count": 453,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -205709,9 +208585,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-16T12:18:24.070518+00:00",
+      "asOf": "2026-11-16T22:41:21.898456+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-16T12:18:24.070518+00:00"
+  "checkedAt": "2026-11-16T22:41:21.898456+00:00"
 }
