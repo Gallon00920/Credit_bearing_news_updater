@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-15T23:51:40.277659+00:00",
+  "updatedAt": "2026-11-16T04:12:45.909509+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,180 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-18": {
-      "byGp": {
-        "Blue Owl": [],
-        "KKR": [
-          {
-            "id": "2026-09-11-kkr-static-clo",
-            "title": "KKR reopens Lending Partners shelf with $624 million static CLO",
-            "titleZh": "KKR重启Lending Partners系列，发行6.24亿美元静态CLO",
-            "summary": "KKR priced a $624 million static private-credit CLO under its Lending Partners shelf, according to Private Credit Daily citing Creditflux. The vehicle uses an existing fixed pool of loans and pays down as assets mature, rather than relying on a reinvestment period. For credit investors, the structure is relevant because it converts seasoned direct-lending exposure into rated term funding during a thinner origination market.",
-            "summaryZh": "据Private Credit Daily援引Creditflux报道，KKR在其Lending Partners系列下完成一笔6.24亿美元静态私募信贷CLO的定价。该产品采用既有的固定贷款资产池，随资产到期逐步偿还，而非依赖再投资期。对信贷投资者而言，该结构值得关注，因为它在新增放贷较为清淡的市场环境下，将已有一定存续期的直接贷款敞口转化为具评级的定期融资。",
-            "url": "https://www.privatecreditdaily.com/story/kkr-reopens-lending-partners-shelf-with-624m-static-clo",
-            "source": "Private Credit Daily",
-            "publishedAt": "2026-08-18",
-            "region": "US",
-            "gps": [
-              "KKR"
-            ],
-            "sectors": [
-              "private-credit",
-              "clo"
-            ],
-            "curation": "manual_seed",
-            "classificationBreakdown": {
-              "llmReasonZh": "不适用"
-            },
-            "strategies": [
-              "private-credit",
-              "clo"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "KKR"
-                  ]
-                },
-                "strategy": {
-                  "value": 1.0,
-                  "code": "title_hits_strategy",
-                  "tagValue": 1.0,
-                  "strategies": [
-                    "private-credit",
-                    "clo"
-                  ]
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 0.8,
-                  "code": "tier_trade",
-                  "source": "Private Credit Daily"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 83,
-              "retrievedAt": "2026-10-29T09:02:01.310935+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-09-11-kkr-static-clo",
-          "title": "KKR reopens Lending Partners shelf with $624 million static CLO",
-          "titleZh": "KKR重启Lending Partners系列，发行6.24亿美元静态CLO",
-          "summary": "KKR priced a $624 million static private-credit CLO under its Lending Partners shelf, according to Private Credit Daily citing Creditflux. The vehicle uses an existing fixed pool of loans and pays down as assets mature, rather than relying on a reinvestment period. For credit investors, the structure is relevant because it converts seasoned direct-lending exposure into rated term funding during a thinner origination market.",
-          "summaryZh": "据Private Credit Daily援引Creditflux报道，KKR在其Lending Partners系列下完成一笔6.24亿美元静态私募信贷CLO的定价。该产品采用既有的固定贷款资产池，随资产到期逐步偿还，而非依赖再投资期。对信贷投资者而言，该结构值得关注，因为它在新增放贷较为清淡的市场环境下，将已有一定存续期的直接贷款敞口转化为具评级的定期融资。",
-          "url": "https://www.privatecreditdaily.com/story/kkr-reopens-lending-partners-shelf-with-624m-static-clo",
-          "source": "Private Credit Daily",
-          "publishedAt": "2026-08-18",
-          "region": "US",
-          "gps": [
-            "KKR"
-          ],
-          "sectors": [
-            "private-credit",
-            "clo"
-          ],
-          "curation": "manual_seed",
-          "classificationBreakdown": {
-            "llmReasonZh": "不适用"
-          },
-          "strategies": [
-            "private-credit",
-            "clo"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "KKR"
-                ]
-              },
-              "strategy": {
-                "value": 1.0,
-                "code": "title_hits_strategy",
-                "tagValue": 1.0,
-                "strategies": [
-                  "private-credit",
-                  "clo"
-                ]
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.8,
-                "code": "tier_trade",
-                "source": "Private Credit Daily"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 83,
-            "retrievedAt": "2026-10-29T09:02:01.310935+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-19": {
       "byGp": {
         "Blue Owl": [
@@ -8098,7 +7924,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20508,7 +20334,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20532,7 +20358,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信用为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信用策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -201115,6 +200941,289 @@
               "finalScore": 20.77,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-14-c9af23995eed",
+            "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+            "titleZh": "报道：Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰 - Stocktwits",
+            "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "summaryZh": "报道：Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰 Stocktwits",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+            "source": "Stocktwits",
+            "publishedAt": "2026-11-14",
+            "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+            "contentFingerprint": "46bc462fe8ff3651",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Blue Owl's co-CEO is discussing fallout from halting redemptions. This is most likely tied to its private credit vehicles (BDCs). Redemption pressure is a key credit-investor concern, so importance is high even though the source is a Stocktwits report. No lawsuit, financing, or fundraising event applies.",
+              "llmReasonZh": "Blue Owl联席CEO正在谈论暂停赎回引发的后续影响。此事很可能与其私募信贷工具（BDC）有关。赎回压力是信贷投资者关注的核心问题，因此尽管消息来源为Stocktwits报道，重要性仍为高。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.93,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stocktwits"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.07,
+              "finalScore": 11.07,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-14-d8f833c2466b",
+            "title": "Blue Owl: The Dividend Is Covered (NYSE:OWL) - Seeking Alpha",
+            "titleZh": "Blue Owl：股息有充足覆盖 (NYSE:OWL) - Seeking Alpha",
+            "summary": "Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+            "summaryZh": "Blue Owl：股息有充足覆盖 (NYSE:OWL) Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSGZZaDNzZjBlMkZwNDAwMXZZc3NJYnNDZHNGMW42dEZYc3FuZU95Ym1GMFRNLTdtUHJhV0ZBb0dfLXdKOU1kRkRDV3lIQW44LVBfTWdBN2o2MnZybmVDS3FiRlVZTS04VHU1Qk5PMzVtUDRPSl8zSWppajZ4UQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-14",
+            "lede": "Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+            "articleExcerpt": "Blue Owl: The Dividend Is Covered (NYSE:OWL) - Seeking Alpha. Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+            "contentFingerprint": "09f90dd3ccfaba34",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Seeking Alpha analyst commentary on Blue Owl's (NYSE:OWL) stock dividend coverage. This is stock and analyst commentary about the listed manager, not a credit transaction. Blue Owl is largely credit-driven, so it is not excluded, but importance is low.",
+              "llmReasonZh": "Seeking Alpha分析师关于Blue Owl (NYSE:OWL) 股票股息覆盖情况的评论。本文为针对该上市管理人的股票及分析师评论，并非信贷交易。由于Blue Owl业务以信贷为主，因此未予排除，但重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 5.48,
+              "finalScore": 10.48,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-14-70375efea20a",
+            "title": "Blue Owl Inc. now fully covers its $0.23 divide... - Pluang",
+            "titleZh": "Blue Owl Inc. 现已完全覆盖其 $0.23 股息... - Pluang",
+            "summary": "Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+            "summaryZh": "Blue Owl Inc. 现已完全覆盖其 $0.23 股息... Pluang",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmRxRXBHVUFRRm5jTjlhZFFLZ0VLTEVpRGZpMTFzSHBwNVNUdjlUNkpSWmxGM01HcVNhUmZrbmxKeG83MlhLS3JfWG5wUjA2LWlGNVJHRzZwZTctUHRadVRXQUdNcXNkaHZZS21UVll5Sy02bWNBTU1tdm9YNXJPaU82U0MwRUFvNmlrbk1IWXJXZU9lbnc?oc=5",
+            "source": "Pluang",
+            "publishedAt": "2026-11-14",
+            "lede": "Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+            "articleExcerpt": "Blue Owl Inc. now fully covers its $0.23 divide... - Pluang. Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+            "contentFingerprint": "7fb577efab8c45bb",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Brief stock/dividend-coverage commentary on Blue Owl's public parent company (OWL), likely from a retail investing app. It touches Blue Owl, a credit-heavy manager, but describes no specific credit transaction, fund, or lending activity. Treated as stock/analyst commentary with low importance.",
+              "llmReasonZh": "简要的股票/股息覆盖评论，涉及 Blue Owl 的上市母公司（OWL），可能来自一款散户投资应用。内容涉及以信贷业务为主的资产管理公司 Blue Owl，但未描述任何具体的信贷交易、基金或放贷活动。归类为股票/分析师评论，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Pluang"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.83,
+              "finalScore": 7.83,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [],
@@ -201552,6 +201661,104 @@
               "finalScore": 11.0,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-14-1bbe674be4b1",
+            "title": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme - BioPharma APAC",
+            "titleZh": "Pfizer获Blackstone最高15亿美元资金支持，推进每月一次GLP-1项目 - BioPharma APAC",
+            "summary": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+            "summaryZh": "Pfizer获Blackstone最高15亿美元资金支持，推进每月一次GLP-1项目 BioPharma APAC",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDNEX0RfRmlwQ1RHVWhzNGtHRmt1Y0g4WDhESF9LbllFLUE2WXNMTTgwSkFaczRHcGg1R2JxVnF3WkRPekJiaVhNelVZZEZGc0p6WjNCNWdlOHlSYlVRSDlwV1BTUEVvVVRtZlJGX0FtS2txYUt1bG5aSVVrcDlfM215NnFhZDg4SFZrSWFrblh5ak5sUmptakZQN2k3R2VuRzZGd1RvbFNNNlR5SjFxSkFXY3hyeU5lWGJWMDlFNW9TLUpSTG01a2xvMA?oc=5",
+            "source": "BioPharma APAC",
+            "publishedAt": "2026-11-14",
+            "lede": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+            "articleExcerpt": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme - BioPharma APAC. Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+            "contentFingerprint": "ddfc0531a62f90fd",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone is providing up to $1.5B to fund Pfizer's GLP-1 program. Deals like this are usually structured R&D or royalty-linked financing, a credit-like arrangement rather than an equity buyout, so it is kept as a financing event. The article does not name the Blackstone unit (likely Life Sciences, possibly with Credit), so no tracked strategy clearly applies. Importance is set slightly below ordinary financing for that reason.",
+              "llmReasonZh": "Blackstone将提供最高15亿美元资金，用于支持Pfizer的GLP-1项目。此类交易通常采用结构化研发融资或与特许权使用费挂钩的融资形式，属于类信贷安排，而非股权收购，因此将其归类为融资事件。文章未指明具体参与的Blackstone业务部门（可能为Life Sciences，或有Credit部门参与），因此无法明确对应任何跟踪策略。基于此，其重要性评级略低于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.18,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BioPharma APAC"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 5,
+              "semanticScore": 4.37,
+              "finalScore": 9.370000000000001,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -201968,6 +202175,289 @@
             "keywordScore": 14,
             "semanticScore": 6.77,
             "finalScore": 20.77,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-c9af23995eed",
+          "title": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits",
+          "titleZh": "报道：Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰 - Stocktwits",
+          "summary": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "summaryZh": "报道：Blue Owl联席CEO承认暂停赎回引发的后续影响带来困扰 Stocktwits",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU01REM5MExFeHFGTEhEb2VTaS1tVlc3bUV6S3pBQm1vUF91Y25WMXloTTQ0Mks3ZkZ6alFSMFItVFFNQ2pHOU5PMlZpSWtQMW0wWGJFeWQxUU1CTl80ZEV1UWlvSkttZ1c2bE8yejVNOFlhdGlpcTlaS2NoM2twYUlOUm9GMXhhN1owOGJBdDVUVWE2M1ZSUU80ekVJR0huV1Q1Vmw3UWFoY1N6SVpta2N6UjJwT3ZSY3lWUzhMdTQ1ejM1WS1GcXllMmVZUW5KV0w0?oc=5",
+          "source": "Stocktwits",
+          "publishedAt": "2026-11-14",
+          "lede": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "articleExcerpt": "Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report - Stocktwits. Blue Owl Co-CEO Admits Fallout From Halting Redemptions Is Causing Headaches: Report Stocktwits",
+          "contentFingerprint": "46bc462fe8ff3651",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Blue Owl's co-CEO is discussing fallout from halting redemptions. This is most likely tied to its private credit vehicles (BDCs). Redemption pressure is a key credit-investor concern, so importance is high even though the source is a Stocktwits report. No lawsuit, financing, or fundraising event applies.",
+            "llmReasonZh": "Blue Owl联席CEO正在谈论暂停赎回引发的后续影响。此事很可能与其私募信贷工具（BDC）有关。赎回压力是信贷投资者关注的核心问题，因此尽管消息来源为Stocktwits报道，重要性仍为高。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.93,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stocktwits"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.07,
+            "finalScore": 11.07,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-d8f833c2466b",
+          "title": "Blue Owl: The Dividend Is Covered (NYSE:OWL) - Seeking Alpha",
+          "titleZh": "Blue Owl：股息有充足覆盖 (NYSE:OWL) - Seeking Alpha",
+          "summary": "Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+          "summaryZh": "Blue Owl：股息有充足覆盖 (NYSE:OWL) Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSGZZaDNzZjBlMkZwNDAwMXZZc3NJYnNDZHNGMW42dEZYc3FuZU95Ym1GMFRNLTdtUHJhV0ZBb0dfLXdKOU1kRkRDV3lIQW44LVBfTWdBN2o2MnZybmVDS3FiRlVZTS04VHU1Qk5PMzVtUDRPSl8zSWppajZ4UQ?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-14",
+          "lede": "Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+          "articleExcerpt": "Blue Owl: The Dividend Is Covered (NYSE:OWL) - Seeking Alpha. Blue Owl: The Dividend Is Covered (NYSE:OWL) Seeking Alpha",
+          "contentFingerprint": "09f90dd3ccfaba34",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Seeking Alpha analyst commentary on Blue Owl's (NYSE:OWL) stock dividend coverage. This is stock and analyst commentary about the listed manager, not a credit transaction. Blue Owl is largely credit-driven, so it is not excluded, but importance is low.",
+            "llmReasonZh": "Seeking Alpha分析师关于Blue Owl (NYSE:OWL) 股票股息覆盖情况的评论。本文为针对该上市管理人的股票及分析师评论，并非信贷交易。由于Blue Owl业务以信贷为主，因此未予排除，但重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 5.48,
+            "finalScore": 10.48,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-14-70375efea20a",
+          "title": "Blue Owl Inc. now fully covers its $0.23 divide... - Pluang",
+          "titleZh": "Blue Owl Inc. 现已完全覆盖其 $0.23 股息... - Pluang",
+          "summary": "Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+          "summaryZh": "Blue Owl Inc. 现已完全覆盖其 $0.23 股息... Pluang",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmRxRXBHVUFRRm5jTjlhZFFLZ0VLTEVpRGZpMTFzSHBwNVNUdjlUNkpSWmxGM01HcVNhUmZrbmxKeG83MlhLS3JfWG5wUjA2LWlGNVJHRzZwZTctUHRadVRXQUdNcXNkaHZZS21UVll5Sy02bWNBTU1tdm9YNXJPaU82U0MwRUFvNmlrbk1IWXJXZU9lbnc?oc=5",
+          "source": "Pluang",
+          "publishedAt": "2026-11-14",
+          "lede": "Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+          "articleExcerpt": "Blue Owl Inc. now fully covers its $0.23 divide... - Pluang. Blue Owl Inc. now fully covers its $0.23 divide... Pluang",
+          "contentFingerprint": "7fb577efab8c45bb",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Brief stock/dividend-coverage commentary on Blue Owl's public parent company (OWL), likely from a retail investing app. It touches Blue Owl, a credit-heavy manager, but describes no specific credit transaction, fund, or lending activity. Treated as stock/analyst commentary with low importance.",
+            "llmReasonZh": "简要的股票/股息覆盖评论，涉及 Blue Owl 的上市母公司（OWL），可能来自一款散户投资应用。内容涉及以信贷业务为主的资产管理公司 Blue Owl，但未描述任何具体的信贷交易、基金或放贷活动。归类为股票/分析师评论，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Pluang"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.83,
+            "finalScore": 7.83,
             "semanticEnabled": true
           }
         },
@@ -202398,6 +202888,104 @@
           }
         },
         {
+          "id": "2026-11-14-1bbe674be4b1",
+          "title": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme - BioPharma APAC",
+          "titleZh": "Pfizer获Blackstone最高15亿美元资金支持，推进每月一次GLP-1项目 - BioPharma APAC",
+          "summary": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+          "summaryZh": "Pfizer获Blackstone最高15亿美元资金支持，推进每月一次GLP-1项目 BioPharma APAC",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDNEX0RfRmlwQ1RHVWhzNGtHRmt1Y0g4WDhESF9LbllFLUE2WXNMTTgwSkFaczRHcGg1R2JxVnF3WkRPekJiaVhNelVZZEZGc0p6WjNCNWdlOHlSYlVRSDlwV1BTUEVvVVRtZlJGX0FtS2txYUt1bG5aSVVrcDlfM215NnFhZDg4SFZrSWFrblh5ak5sUmptakZQN2k3R2VuRzZGd1RvbFNNNlR5SjFxSkFXY3hyeU5lWGJWMDlFNW9TLUpSTG01a2xvMA?oc=5",
+          "source": "BioPharma APAC",
+          "publishedAt": "2026-11-14",
+          "lede": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+          "articleExcerpt": "Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme - BioPharma APAC. Pfizer Secures Up to $1.5 Billion From Blackstone to Advance Monthly GLP-1 Programme BioPharma APAC",
+          "contentFingerprint": "ddfc0531a62f90fd",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone is providing up to $1.5B to fund Pfizer's GLP-1 program. Deals like this are usually structured R&D or royalty-linked financing, a credit-like arrangement rather than an equity buyout, so it is kept as a financing event. The article does not name the Blackstone unit (likely Life Sciences, possibly with Credit), so no tracked strategy clearly applies. Importance is set slightly below ordinary financing for that reason.",
+            "llmReasonZh": "Blackstone将提供最高15亿美元资金，用于支持Pfizer的GLP-1项目。此类交易通常采用结构化研发融资或与特许权使用费挂钩的融资形式，属于类信贷安排，而非股权收购，因此将其归类为融资事件。文章未指明具体参与的Blackstone业务部门（可能为Life Sciences，或有Credit部门参与），因此无法明确对应任何跟踪策略。基于此，其重要性评级略低于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.18,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BioPharma APAC"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 5,
+            "semanticScore": 4.37,
+            "finalScore": 9.370000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-14-93b36321b31e",
           "title": "Strong Growth, Rising Prices and a Fed Behind the Curve - Apollo Global Management",
           "titleZh": "增长强劲、物价上涨，美联储行动滞后 - Apollo Global Management",
@@ -202814,6 +203402,101 @@
               "finalScore": 23.98,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-15-90a51f9e4654",
+            "title": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "titleZh": "Blue Owl Capital Inc. (OWL) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+            "summary": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "summaryZh": "Blue Owl Capital Inc. (OWL) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qWDdoZkQ2NE9hUDlrQ3ZTSWlmaXM5U3pjeXNhMkRhcF9GWmlNZFZqX2JIYmRDaGJtcVEycVhuNnM1Y0tyVkl0ZEJRZ25zSElN?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-15",
+            "lede": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "articleExcerpt": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+            "contentFingerprint": "babbb17bee3c3100",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a generic Yahoo Finance stock quote page for Blue Owl Capital (OWL) with no substantive news. It concerns stock price and market data only, with no credit-specific event, so importance is low.",
+              "llmReasonZh": "这是Yahoo Finance上关于Blue Owl Capital (OWL) 的通用股票报价页面，并无实质性新闻内容。该页面仅涉及股价及市场数据，不涉及任何信用相关事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.26,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 47,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.32,
+              "finalScore": 17.32,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -202923,6 +203606,210 @@
               "keywordScore": 18,
               "semanticScore": 5.98,
               "finalScore": 23.98,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-15-81bb2ae1a5f3",
+            "title": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit - TipRanks",
+            "titleZh": "KKR Credit Income Fund公布每单位有形资产净值（NTA）估值为AUD2.2960 - TipRanks",
+            "summary": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+            "summaryZh": "KKR Credit Income Fund公布每单位有形资产净值（NTA）估值为AUD2.2960 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNW51VW9UTy1QbWhSQ3ZKMWhlTmpDSG9ySTZEX0I4cGV2VjVDVllYdGx3OVR3QzJhUVBjX2hVNzA5Nk1Obm42OXRGV0lSaUVrYk5qa0NhTlF3TThuWjlnU3Fna1V3VnpSVlVfbXY3X0UyT0JYWFJfN3ZVQ0hkOEpEY1BRcTBUTXFmd2o4NzlkWUFSTTFpczY4aEVzM2t0WkRzcFlsaHQ1amNrN21aUmRGZnRsVk4xMDIx?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-15",
+            "lede": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+            "articleExcerpt": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit - TipRanks. KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+            "contentFingerprint": "d35b5f7eb615e7f3",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "KKR Credit Income Fund (ASX-listed credit vehicle) reported a routine NTA per-unit estimate. This is credit-relevant manager news but a routine valuation update with no financing, fundraising or lawsuit event.",
+              "llmReasonZh": "KKR Credit Income Fund（在澳大利亚证券交易所（ASX）上市的信贷投资工具）公布了例行的每单位有形资产净值（NTA）估值。该消息属于与信贷相关的管理人新闻，但仅为例行估值更新，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.25,
+              "finalScore": 19.25,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-15-3f4877833930",
+            "title": "KKR CLO 69: Fund Performance - PitchBook",
+            "titleZh": "KKR CLO 69：基金业绩 - PitchBook",
+            "summary": "KKR CLO 69: Fund Performance PitchBook",
+            "summaryZh": "KKR CLO 69：基金业绩 PitchBook",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CRjhha1hFS3FkSHV1bEtDMEdOX3B3RFFKdUQzQzBnYk15Q1VwVUY2X1RGbEdUX3ZPTUFNdGFVUXpqWkVmZ1h1UC02NlhZdHFnWEdKa2dlQTg?oc=5",
+            "source": "PitchBook",
+            "publishedAt": "2026-11-15",
+            "lede": "KKR CLO 69: Fund Performance PitchBook",
+            "articleExcerpt": "KKR CLO 69: Fund Performance - PitchBook. KKR CLO 69: Fund Performance PitchBook",
+            "contentFingerprint": "e3936ae4a2945e7f",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "clo"
+            ],
+            "sectors": [
+              "clo"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [
+                "clo"
+              ],
+              "titleStrategies": [
+                "clo"
+              ],
+              "llmStrategies": [
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "PitchBook fund-performance profile page for KKR CLO 69, a KKR credit vehicle (CLO). It is relevant to KKR's credit business, but it is a database listing rather than news, with no financing, fundraising or lawsuit event, so importance is low.",
+              "llmReasonZh": "PitchBook上KKR CLO 69的基金业绩概况页面，该基金为KKR旗下信贷工具（CLO）。该内容与KKR信贷业务相关，但属于数据库条目而非新闻，不涉及融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "clo"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.8,
+                  "code": "tier_trade",
+                  "source": "PitchBook"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 13,
+              "semanticScore": 5.36,
+              "finalScore": 18.36,
               "semanticEnabled": true
             }
           }
@@ -203499,6 +204386,305 @@
           }
         },
         {
+          "id": "2026-11-15-90a51f9e4654",
+          "title": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "titleZh": "Blue Owl Capital Inc. (OWL) 股价、新闻、报价及历史数据 - Yahoo! Finance Canada",
+          "summary": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summaryZh": "Blue Owl Capital Inc. (OWL) 股价、新闻、报价及历史数据 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qWDdoZkQ2NE9hUDlrQ3ZTSWlmaXM5U3pjeXNhMkRhcF9GWmlNZFZqX2JIYmRDaGJtcVEycVhuNnM1Y0tyVkl0ZEJRZ25zSElN?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-15",
+          "lede": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "articleExcerpt": "Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History - Yahoo! Finance Canada. Blue Owl Capital Inc. (OWL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "contentFingerprint": "babbb17bee3c3100",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a generic Yahoo Finance stock quote page for Blue Owl Capital (OWL) with no substantive news. It concerns stock price and market data only, with no credit-specific event, so importance is low.",
+            "llmReasonZh": "这是Yahoo Finance上关于Blue Owl Capital (OWL) 的通用股票报价页面，并无实质性新闻内容。该页面仅涉及股价及市场数据，不涉及任何信用相关事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.26,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 47,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.32,
+            "finalScore": 17.32,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-15-81bb2ae1a5f3",
+          "title": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit - TipRanks",
+          "titleZh": "KKR Credit Income Fund公布每单位有形资产净值（NTA）估值为AUD2.2960 - TipRanks",
+          "summary": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+          "summaryZh": "KKR Credit Income Fund公布每单位有形资产净值（NTA）估值为AUD2.2960 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNW51VW9UTy1QbWhSQ3ZKMWhlTmpDSG9ySTZEX0I4cGV2VjVDVllYdGx3OVR3QzJhUVBjX2hVNzA5Nk1Obm42OXRGV0lSaUVrYk5qa0NhTlF3TThuWjlnU3Fna1V3VnpSVlVfbXY3X0UyT0JYWFJfN3ZVQ0hkOEpEY1BRcTBUTXFmd2o4NzlkWUFSTTFpczY4aEVzM2t0WkRzcFlsaHQ1amNrN21aUmRGZnRsVk4xMDIx?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-15",
+          "lede": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+          "articleExcerpt": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit - TipRanks. KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit TipRanks",
+          "contentFingerprint": "d35b5f7eb615e7f3",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "KKR Credit Income Fund (ASX-listed credit vehicle) reported a routine NTA per-unit estimate. This is credit-relevant manager news but a routine valuation update with no financing, fundraising or lawsuit event.",
+            "llmReasonZh": "KKR Credit Income Fund（在澳大利亚证券交易所（ASX）上市的信贷投资工具）公布了例行的每单位有形资产净值（NTA）估值。该消息属于与信贷相关的管理人新闻，但仅为例行估值更新，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.25,
+            "finalScore": 19.25,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-15-3f4877833930",
+          "title": "KKR CLO 69: Fund Performance - PitchBook",
+          "titleZh": "KKR CLO 69：基金业绩 - PitchBook",
+          "summary": "KKR CLO 69: Fund Performance PitchBook",
+          "summaryZh": "KKR CLO 69：基金业绩 PitchBook",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CRjhha1hFS3FkSHV1bEtDMEdOX3B3RFFKdUQzQzBnYk15Q1VwVUY2X1RGbEdUX3ZPTUFNdGFVUXpqWkVmZ1h1UC02NlhZdHFnWEdKa2dlQTg?oc=5",
+          "source": "PitchBook",
+          "publishedAt": "2026-11-15",
+          "lede": "KKR CLO 69: Fund Performance PitchBook",
+          "articleExcerpt": "KKR CLO 69: Fund Performance - PitchBook. KKR CLO 69: Fund Performance PitchBook",
+          "contentFingerprint": "e3936ae4a2945e7f",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "clo"
+          ],
+          "sectors": [
+            "clo"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [
+              "clo"
+            ],
+            "titleStrategies": [
+              "clo"
+            ],
+            "llmStrategies": [
+              "clo"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "PitchBook fund-performance profile page for KKR CLO 69, a KKR credit vehicle (CLO). It is relevant to KKR's credit business, but it is a database listing rather than news, with no financing, fundraising or lawsuit event, so importance is low.",
+            "llmReasonZh": "PitchBook上KKR CLO 69的基金业绩概况页面，该基金为KKR旗下信贷工具（CLO）。该内容与KKR信贷业务相关，但属于数据库条目而非新闻，不涉及融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "clo"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.8,
+                "code": "tier_trade",
+                "source": "PitchBook"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-16T03:55:25.045296+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 13,
+            "semanticScore": 5.36,
+            "finalScore": 18.36,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-15-65ec3e6fee45",
           "title": "Bain Capital Specialty Finance Earnings Call Signals Resilience - TipRanks",
           "titleZh": "Bain Capital Specialty Finance财报电话会议显示韧性 - TipRanks",
@@ -203944,12 +205130,32 @@
           }
         }
       ]
+    },
+    "2026-11-16": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 19,
+      "count": 17,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -203957,12 +205163,12 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 58,
+      "count": 61,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -203970,12 +205176,12 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 1,
+      "count": 3,
       "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -203983,12 +205189,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 6,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -203996,38 +205202,38 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 3,
-      "selected": 2,
+      "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 5,
-      "selected": 1,
+      "count": 4,
+      "selected": 0,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -204035,7 +205241,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
@@ -204048,20 +205254,20 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 11,
-      "selected": 6,
+      "count": 10,
+      "selected": 2,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
@@ -204074,46 +205280,46 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 26,
-      "selected": 3,
+      "count": 22,
+      "selected": 1,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
       "queries": [
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 10,
-      "selected": 3,
+      "count": 9,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 3,
-      "selected": 2,
+      "count": 4,
+      "selected": 1,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
@@ -204126,7 +205332,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
@@ -204139,12 +205345,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 402,
+      "count": 408,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -204161,9 +205367,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-15T23:17:48.144088+00:00",
+      "asOf": "2026-11-16T03:55:25.045296+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-15T23:17:48.144088+00:00"
+  "checkedAt": "2026-11-16T03:55:25.045296+00:00"
 }
