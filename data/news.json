@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-17T15:12:16.123490+00:00",
+  "updatedAt": "2026-11-17T23:22:30.354865+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7498,7 +7498,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -19908,7 +19908,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -19932,7 +19932,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -203833,9 +203833,9 @@
           {
             "id": "2026-11-15-54af7da49b32",
             "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive",
-            "titleZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% - investingLive",
+            "titleZh": "周末 - Blackstone旗下QTS因投资者对定价不满将AI数据中心债券发行规模削减60% - investingLive",
             "summary": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
-            "summaryZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% investingLive",
+            "summaryZh": "周末 - Blackstone旗下QTS因投资者对定价不满将AI数据中心债券发行规模削减60% investingLive",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tnOFg4MFNKSmFHLVEwT0ZCVzd6bGNsRDlMZnd3dXJCRS1zUlZmQ0xHY0FEcnhoN0w3eUdCOUtSNVNzOFFSWk1zYWRQVF9GSlhvbno3VDBiaWhxdlNGRjRueGo0M25HOC1zNkdKcU5GTUhqdERtMlgtVWh4VS1IT1F0ZW9lNjZ6Tl92ekJJaFNBbWVSbGFIVi0teTRXNlFzZ0dyTmFxQy1tLXJvcHZYSE15d0NtLUVwUU1yUEVHbXhUTkE?oc=5",
             "source": "investingLive",
@@ -203848,11 +203848,13 @@
               "Blackstone"
             ],
             "strategies": [
+              "abf",
               "structured",
               "data-center",
               "ai"
             ],
             "sectors": [
+              "abf",
               "structured",
               "data-center",
               "ai"
@@ -203881,6 +203883,7 @@
                 "ai"
               ],
               "llmStrategies": [
+                "abf",
                 "structured",
                 "data-center",
                 "ai"
@@ -203890,8 +203893,8 @@
               ],
               "llmImportance": 0.85,
               "llmExclude": false,
-              "llmReason": "Blackstone-owned QTS cut its AI data center debt sale by 60% after investors pushed back on pricing. This is a financing transaction with a clear credit angle, likely a securitization or ABS-style debt issuance. The pricing pushback signals weaker credit market demand for data center debt, which matters to credit investors.",
-              "llmReasonZh": "在投资者对定价提出异议后，Blackstone旗下的QTS将其AI数据中心债券发行规模削减了60%。这是一笔具有明确信用视角的融资交易，很可能属于证券化或ABS类债务发行。定价遭到异议表明信用市场对数据中心债务的需求走弱，这对信用投资者具有重要意义。"
+              "llmReason": "Blackstone portfolio company QTS cut an AI data center debt sale (likely ABS/CMBS securitization) by 60% after investors pushed back on pricing. This is a credit/financing event, and it signals weaker demand for data center debt, which matters to credit investors. QTS is a Blackstone infrastructure/real estate equity holding, but the article is about debt issuance, so it should not be excluded.",
+              "llmReasonZh": "Blackstone投资组合公司QTS在投资者对定价提出异议后，将一笔AI数据中心债券发行（可能为ABS/CMBS证券化）规模削减60%。这是一起信贷/融资事件，表明市场对数据中心债务的需求走弱，对信贷投资者具有重要意义。QTS是Blackstone持有的基础设施/房地产股权资产，但本文涉及的是债券发行，因此不应被排除。"
             },
             "rating": {
               "parts": {
@@ -203907,6 +203910,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "abf",
                     "structured",
                     "data-center",
                     "ai"
@@ -203928,9 +203932,9 @@
                   "source": "investingLive"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.5
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.4
                 }
               },
               "weights": {
@@ -203940,13 +203944,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 73,
-              "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+              "score": 70,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 20,
+              "keywordScore": 23,
               "semanticScore": 5.08,
-              "finalScore": 25.08,
+              "finalScore": 28.08,
               "semanticEnabled": true
             }
           }
@@ -204802,9 +204806,9 @@
         {
           "id": "2026-11-15-54af7da49b32",
           "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing - investingLive",
-          "titleZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% - investingLive",
+          "titleZh": "周末 - Blackstone旗下QTS因投资者对定价不满将AI数据中心债券发行规模削减60% - investingLive",
           "summary": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing investingLive",
-          "summaryZh": "周末 - 投资者对定价提出异议，Blackstone旗下QTS将AI数据中心债券发行规模削减60% investingLive",
+          "summaryZh": "周末 - Blackstone旗下QTS因投资者对定价不满将AI数据中心债券发行规模削减60% investingLive",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tnOFg4MFNKSmFHLVEwT0ZCVzd6bGNsRDlMZnd3dXJCRS1zUlZmQ0xHY0FEcnhoN0w3eUdCOUtSNVNzOFFSWk1zYWRQVF9GSlhvbno3VDBiaWhxdlNGRjRueGo0M25HOC1zNkdKcU5GTUhqdERtMlgtVWh4VS1IT1F0ZW9lNjZ6Tl92ekJJaFNBbWVSbGFIVi0teTRXNlFzZ0dyTmFxQy1tLXJvcHZYSE15d0NtLUVwUU1yUEVHbXhUTkE?oc=5",
           "source": "investingLive",
@@ -204817,11 +204821,13 @@
             "Blackstone"
           ],
           "strategies": [
+            "abf",
             "structured",
             "data-center",
             "ai"
           ],
           "sectors": [
+            "abf",
             "structured",
             "data-center",
             "ai"
@@ -204850,6 +204856,7 @@
               "ai"
             ],
             "llmStrategies": [
+              "abf",
               "structured",
               "data-center",
               "ai"
@@ -204859,8 +204866,8 @@
             ],
             "llmImportance": 0.85,
             "llmExclude": false,
-            "llmReason": "Blackstone-owned QTS cut its AI data center debt sale by 60% after investors pushed back on pricing. This is a financing transaction with a clear credit angle, likely a securitization or ABS-style debt issuance. The pricing pushback signals weaker credit market demand for data center debt, which matters to credit investors.",
-            "llmReasonZh": "在投资者对定价提出异议后，Blackstone旗下的QTS将其AI数据中心债券发行规模削减了60%。这是一笔具有明确信用视角的融资交易，很可能属于证券化或ABS类债务发行。定价遭到异议表明信用市场对数据中心债务的需求走弱，这对信用投资者具有重要意义。"
+            "llmReason": "Blackstone portfolio company QTS cut an AI data center debt sale (likely ABS/CMBS securitization) by 60% after investors pushed back on pricing. This is a credit/financing event, and it signals weaker demand for data center debt, which matters to credit investors. QTS is a Blackstone infrastructure/real estate equity holding, but the article is about debt issuance, so it should not be excluded.",
+            "llmReasonZh": "Blackstone投资组合公司QTS在投资者对定价提出异议后，将一笔AI数据中心债券发行（可能为ABS/CMBS证券化）规模削减60%。这是一起信贷/融资事件，表明市场对数据中心债务的需求走弱，对信贷投资者具有重要意义。QTS是Blackstone持有的基础设施/房地产股权资产，但本文涉及的是债券发行，因此不应被排除。"
           },
           "rating": {
             "parts": {
@@ -204876,6 +204883,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "abf",
                   "structured",
                   "data-center",
                   "ai"
@@ -204897,9 +204905,9 @@
                 "source": "investingLive"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.5
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.4
               }
             },
             "weights": {
@@ -204909,13 +204917,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 73,
-            "retrievedAt": "2026-11-15T23:17:48.144088+00:00"
+            "score": 70,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 20,
+            "keywordScore": 23,
             "semanticScore": 5.08,
-            "finalScore": 25.08,
+            "finalScore": 28.08,
             "semanticEnabled": true
           }
         }
@@ -205552,6 +205560,98 @@
               "keywordScore": 14,
               "semanticScore": 5.33,
               "finalScore": 19.33,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-bd166f2f1369",
+            "title": "Mizuho initiates KKR stock with outperform rating on fee growth - Investing.com",
+            "titleZh": "瑞穗首次覆盖KKR股票，基于费用收入增长给予“跑赢大盘”评级 - Investing.com",
+            "summary": "Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+            "summaryZh": "瑞穗首次覆盖KKR股票，基于费用收入增长给予“跑赢大盘”评级 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1dNbzBpU0Q5bW85MzFDVGQwWW5wQmRGTnFzRjVvSWhMYThwakhnQ1RCNjV4bGJtWlhpekpnNDhHNDdDcFE3bmdxaElUeGhGb3dRdmVVNE92WVRYV2NEZklpOF9ncWw5ZjZya3hZVGtfVmd3LWFnVVJfSDllSzQtU1JCczRUNDBNOU5ybm44am1fNVVFWmtnak94bnNySWZsbkhLTWJyUGpTb21oenh3OUlzOV8zZVdEclpQV2RZRFg?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-16",
+            "lede": "Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+            "articleExcerpt": "Mizuho initiates KKR stock with outperform rating on fee growth - Investing.com. Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+            "contentFingerprint": "c7973207c7b6ad35",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst initiation on KKR stock (Mizuho outperform, fee growth). This is stock/analyst commentary about the firm as a whole, with no specific credit transaction, fundraising or litigation. It is kept at low importance because fee growth at a multi-strategy manager is partly driven by its credit platform, so it is not purely non-credit news.",
+              "llmReasonZh": "分析师首次覆盖KKR股票（瑞穗给予“跑赢大盘”评级，理由为费用收入增长）。此为针对公司整体的股票/分析师评论，不涉及具体信贷交易、募资或诉讼。之所以以低重要性保留，是因为多策略管理人的费用收入增长部分来自其信贷平台，因此并非纯粹的非信贷新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.23,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.46
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.56,
+              "finalScore": 8.559999999999999,
               "semanticEnabled": true
             }
           }
@@ -206731,6 +206831,116 @@
               "keywordScore": 6,
               "semanticScore": 5.02,
               "finalScore": 11.02,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-69173378a19e",
+            "title": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal - BigGo Finance",
+            "titleZh": "Blackstone旗下BXDC首秀：达成50亿美元AWS数据中心交易 - BigGo Finance",
+            "summary": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+            "summaryZh": "Blackstone旗下BXDC首秀：达成50亿美元AWS数据中心交易 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Q0VnRHFaRWlyOWFkVnRfZHpQdFN5TWJzc0p5RVFTenpCaS04SjZpcEJkejVNcFE1TU43NFdzcGJyZzFBcFQzbkdjcE9LZ2Jrd0g1cTZQOGp3SERjYnVtd1hQa3Fwd2stVjdma3ZpMm01aHhkd2c?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-11-16",
+            "lede": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+            "articleExcerpt": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal - BigGo Finance. Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+            "contentFingerprint": "9c0b0ff2d87d831a",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Blackstone's new BXDC vehicle debuts with a $5B AWS-linked data center deal, which falls under the tracked data-center strategy. The snippet does not show whether BXDC is a credit or financing vehicle or an equity/real estate platform. It is kept provisionally as a large transaction in a tracked strategy and should be excluded if the full text shows it is a pure equity acquisition.",
+              "llmReasonZh": "Blackstone新设的BXDC平台以一笔与AWS相关的50亿美元数据中心交易首次亮相，属于重点跟踪的数据中心策略范畴。摘要未显示BXDC是信贷或融资平台，还是股权/房地产平台。作为跟踪策略中的大额交易，暂予保留；若全文显示其为纯股权收购，则应予以剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.65,
+              "finalScore": 19.65,
               "semanticEnabled": true
             }
           }
@@ -208289,6 +208499,98 @@
           }
         },
         {
+          "id": "2026-11-16-bd166f2f1369",
+          "title": "Mizuho initiates KKR stock with outperform rating on fee growth - Investing.com",
+          "titleZh": "瑞穗首次覆盖KKR股票，基于费用收入增长给予“跑赢大盘”评级 - Investing.com",
+          "summary": "Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+          "summaryZh": "瑞穗首次覆盖KKR股票，基于费用收入增长给予“跑赢大盘”评级 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1dNbzBpU0Q5bW85MzFDVGQwWW5wQmRGTnFzRjVvSWhMYThwakhnQ1RCNjV4bGJtWlhpekpnNDhHNDdDcFE3bmdxaElUeGhGb3dRdmVVNE92WVRYV2NEZklpOF9ncWw5ZjZya3hZVGtfVmd3LWFnVVJfSDllSzQtU1JCczRUNDBNOU5ybm44am1fNVVFWmtnak94bnNySWZsbkhLTWJyUGpTb21oenh3OUlzOV8zZVdEclpQV2RZRFg?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-16",
+          "lede": "Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+          "articleExcerpt": "Mizuho initiates KKR stock with outperform rating on fee growth - Investing.com. Mizuho initiates KKR stock with outperform rating on fee growth Investing.com",
+          "contentFingerprint": "c7973207c7b6ad35",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst initiation on KKR stock (Mizuho outperform, fee growth). This is stock/analyst commentary about the firm as a whole, with no specific credit transaction, fundraising or litigation. It is kept at low importance because fee growth at a multi-strategy manager is partly driven by its credit platform, so it is not purely non-credit news.",
+            "llmReasonZh": "分析师首次覆盖KKR股票（瑞穗给予“跑赢大盘”评级，理由为费用收入增长）。此为针对公司整体的股票/分析师评论，不涉及具体信贷交易、募资或诉讼。之所以以低重要性保留，是因为多策略管理人的费用收入增长部分来自其信贷平台，因此并非纯粹的非信贷新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.23,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.46
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.56,
+            "finalScore": 8.559999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-16-c8ac3e1f6ae0",
           "title": "Parkland Communities Secures $50 Million Credit Facility With Anchor Loans - citybiz",
           "titleZh": "Parkland Communities获Anchor Loans提供5000万美元信贷额度 - citybiz",
@@ -209339,6 +209641,116 @@
             "keywordScore": 6,
             "semanticScore": 5.02,
             "finalScore": 11.02,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-69173378a19e",
+          "title": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal - BigGo Finance",
+          "titleZh": "Blackstone旗下BXDC首秀：达成50亿美元AWS数据中心交易 - BigGo Finance",
+          "summary": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+          "summaryZh": "Blackstone旗下BXDC首秀：达成50亿美元AWS数据中心交易 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Q0VnRHFaRWlyOWFkVnRfZHpQdFN5TWJzc0p5RVFTenpCaS04SjZpcEJkejVNcFE1TU43NFdzcGJyZzFBcFQzbkdjcE9LZ2Jrd0g1cTZQOGp3SERjYnVtd1hQa3Fwd2stVjdma3ZpMm01aHhkd2c?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-11-16",
+          "lede": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+          "articleExcerpt": "Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal - BigGo Finance. Blackstone's BXDC Makes Debut With $5 Billion AWS Data Center Deal BigGo Finance",
+          "contentFingerprint": "9c0b0ff2d87d831a",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "data-center"
+          ],
+          "sectors": [
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Blackstone's new BXDC vehicle debuts with a $5B AWS-linked data center deal, which falls under the tracked data-center strategy. The snippet does not show whether BXDC is a credit or financing vehicle or an equity/real estate platform. It is kept provisionally as a large transaction in a tracked strategy and should be excluded if the full text shows it is a pure equity acquisition.",
+            "llmReasonZh": "Blackstone新设的BXDC平台以一笔与AWS相关的50亿美元数据中心交易首次亮相，属于重点跟踪的数据中心策略范畴。摘要未显示BXDC是信贷或融资平台，还是股权/房地产平台。作为跟踪策略中的大额交易，暂予保留；若全文显示其为纯股权收购，则应予以剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.65,
+            "finalScore": 19.65,
             "semanticEnabled": true
           }
         },
@@ -210471,6 +210883,97 @@
               "finalScore": 21.54,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-db8432067cdc",
+            "title": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target - www.marketscreener.com",
+            "titleZh": "瑞穗首次覆盖KKR & Co，给予“跑赢大盘”评级，目标价$116 - www.marketscreener.com",
+            "summary": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+            "summaryZh": "瑞穗首次覆盖KKR & Co，给予“跑赢大盘”评级，目标价$116 www.marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVBDZkxDX1VCQnE3eXdQN3dzUWlEdi1LbzJvdjFacFgyTVRicFdST3NtS0pGS011V05QRHhVRDNEZWJ3dWVhYkFsaEpudkFvSUlWdDVlUWhwdzg5aGMxWnNkVXJheFBpRkt3dF9WcWdZYWxBZkhVX3RfalBtUVpmOTRvdTBzNDB5Z0JhUXZ3WXR1QWVxdGdHM09qbGlXTS1aa2lSR0RhYndrSXZLUDkyOVJn?oc=5",
+            "source": "www.marketscreener.com",
+            "publishedAt": "2026-11-17",
+            "lede": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+            "articleExcerpt": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target - www.marketscreener.com. Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+            "contentFingerprint": "888c762e741921fc",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is analyst coverage initiation (Mizuho, Outperform, $116 PT) on KKR's parent-company stock. It has no specific credit activity, but it is firm-level news about a tracked GP rather than about its non-credit business, so it is kept at low importance as stock/analyst commentary.",
+              "llmReasonZh": "此为分析师首次覆盖报告（瑞穗，“跑赢大盘”评级，目标价$116），针对KKR母公司股票。该文章不涉及具体信贷活动，但属于所跟踪普通合伙人（GP）的公司层面新闻，而非关于其非信贷业务的新闻，因此作为股票/分析师评论保留，重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "www.marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.83,
+              "finalScore": 7.83,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -210479,7 +210982,114 @@
         "Guggenheim": [],
         "Neuberger": [],
         "BasePoint": [],
-        "Bain Capital": [],
+        "Bain Capital": [
+          {
+            "id": "2026-11-17-8c76b9d5aea2",
+            "title": "Bain Capital lands $136M refi on Central Texas built-to-rents - The Real Deal",
+            "titleZh": "Bain Capital为德州中部定制租赁住宅获得1.36亿美元再融资 - The Real Deal",
+            "summary": "Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+            "summaryZh": "Bain Capital为德州中部定制租赁住宅获得1.36亿美元再融资 The Real Deal",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWNYMXdjRzc0MlVUWUFEbTRfQTJvWHRMLWxfVnNmOEtqZmNsLWwxSmNvSEFRMGxVak9WQndkZjEwNzhLRVk2dmdjLUFiVzRFZ2VvS0dHTHZjNkRyRHBYeWxzV0J0R0ZabzAtcEIwLWpMU2VtZ01tbTlHZFE3eTZKNlRvQXpGQjlVcXRoN1FLaVE5bU43RVVSN3VBX29YaGZzaHZj?oc=5",
+            "source": "The Real Deal",
+            "publishedAt": "2026-11-17",
+            "lede": "Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+            "articleExcerpt": "Bain Capital lands $136M refi on Central Texas built-to-rents - The Real Deal. Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+            "contentFingerprint": "5856313182144033",
+            "region": "Global",
+            "gps": [
+              "Bain Capital"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Bain Capital"
+              ],
+              "titleGps": [
+                "Bain Capital"
+              ],
+              "llmGps": [
+                "Bain Capital"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Bain Capital secured a $136M refinancing on Central Texas build-to-rent homes. This is ordinary financing tied to single-family rental assets. Bain appears to be the borrower, not the lender, but the deal is still debt financing, so it is not excluded.",
+              "llmReasonZh": "Bain Capital为德州中部的定制租赁（build-to-rent）住宅获得1.36亿美元再融资。该交易属于与单户租赁资产相关的常规融资。Bain似乎是借款方而非贷款方，但该交易仍属于债务融资，因此未被排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Bain Capital"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.53,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.36
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Real Deal"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.34,
+              "finalScore": 10.34,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Blackstone": [
           {
             "id": "2026-11-17-7ce069604b32",
@@ -210910,6 +211520,560 @@
               "finalScore": 12.129999999999999,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-94593539e83a",
+            "title": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing - bloomingbit",
+            "titleZh": "Apollo CEO：若无Nvidia财务支持，Neocloud融资或将收紧 - bloomingbit",
+            "summary": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+            "summaryZh": "Apollo CEO表示，若无Nvidia财务支持，Neocloud融资可能收紧 bloomingbit",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZDB2d0dpWVZzdkZBMkszb0RVUldJbHZIcERPY29UVjBvdXNWOGFUdjdhYjlHSGlLcGVfRC1VUk1TY0xvTFY5ZnRfS2RPUzkyWENyOA?oc=5",
+            "source": "bloomingbit",
+            "publishedAt": "2026-11-17",
+            "lede": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+            "articleExcerpt": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing - bloomingbit. Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+            "contentFingerprint": "83702bb263a0e7ba",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Apollo's CEO is commenting on financing conditions for neocloud (GPU/AI compute) providers. This bears directly on Apollo's private credit and AI-infrastructure lending activity. It is market commentary rather than a specific transaction, so importance is moderate.",
+              "llmReasonZh": "Apollo CEO就Neocloud（GPU/AI算力）提供商的融资环境发表评论，这直接关系到Apollo的私募信贷及AI基础设施贷款业务。该内容属于市场评论而非具体交易，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "bloomingbit"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 6.04,
+              "finalScore": 26.04,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-ed996558eba8",
+            "title": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' - CNBC",
+            "titleZh": "Apollo首席执行官Marc Rowan警告：新型云服务商融资渠道或将“消失” - CNBC",
+            "summary": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+            "summaryZh": "Apollo首席执行官Marc Rowan警告新型云服务商融资渠道或将“消失” CNBC",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTWhZd1oxMk5VTHEzb090TkN0SzRabHRueS04akFTY0g5Rm5SLWNCX01uczI3NGNnWGR1NEhvZ3VRQTN3Szk5cGFnUmdNT29xYzNTMTJFbFN4b1hiMTdENGh4Vkc3b2tfTlJNb3Y2UjF4VE83RFlRY9IBfkFVX3lxTE1XVnoxMFVzdjNRbHdfdUM5SXIwM1hhSUxOMFpQWkxDSFgxQk12UHB1YWQyLUxkMFZfZDB1U2tHNUZSbTl5VWFxVjd5QU1LN0JPZ1pCMEQ1dDZ5Szd0MU9sbnlLNmlqV2tLczBjNFhocWZKdGc1UVZRTTV2eVQ1UQ?oc=5",
+            "source": "CNBC",
+            "publishedAt": "2026-11-17",
+            "lede": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+            "articleExcerpt": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' - CNBC. Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+            "contentFingerprint": "71c79ae159afcca4",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "data-center",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo's CEO is commenting on credit markets: he warns that financing access for neoclouds (AI/GPU compute providers) could disappear. This bears directly on Apollo's credit and lending business in AI infrastructure and GPU financing. It is market commentary rather than a specific transaction, so it is rated as routine manager news.",
+              "llmReasonZh": "Apollo首席执行官就信贷市场发表评论，警告新型云服务商（AI/GPU算力提供商）的融资渠道可能消失。这与Apollo在AI基础设施及GPU融资领域的信贷和放贷业务直接相关。该内容属于市场评论而非具体交易，因此被评为常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "data-center",
+                    "ai"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "CNBC"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 67,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.69,
+              "finalScore": 25.69,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-471e0a7fd7e1",
+            "title": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets - Benzinga",
+            "titleZh": "Apollo首席执行官Marc Rowan：AI热潮或需高达8万亿美元资金，将重塑美国信贷市场 - Benzinga",
+            "summary": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+            "summaryZh": "Apollo首席执行官Marc Rowan表示，AI热潮可能需要高达8万亿美元资金，并将重塑美国信贷市场 Benzinga",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2ZJQXFLdGdsNkdWdXo2TWRTNEc5WWRfTkdGUUlZN3RadHR0cm1BckVSbERCczRXdnlPb2dVZTRvOGFVYmI0dUdpMEJyUFI0OVBucEhLYlNsYmRIRFdYVEtWaTlGRE5tdE1SZWxaZU5pSHdMcHkxUTFLODNTYmY3SC02Wk9aSkZRc2JRYjRCbTJtbnpIeDhnV29FaHVxanlLU1czQ2xTMVVtY3A1TGZxU1FBLXVUN2cydWlRbHZLZHlhYnpNNDZZRjBFbE1xaGZlNV9pUGdtS3V6emF2WXVWUjJfWDhfQW1pNzNB?oc=5",
+            "source": "Benzinga",
+            "publishedAt": "2026-11-17",
+            "lede": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+            "articleExcerpt": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets - Benzinga. Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+            "contentFingerprint": "d5df846123f70339",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Apollo CEO commentary on AI capital needs reshaping US credit markets is relevant to Apollo's credit business and AI financing. It is executive market commentary, not a specific transaction or fundraise.",
+              "llmReasonZh": "Apollo首席执行官关于AI资本需求重塑美国信贷市场的评论，与Apollo的信贷业务及AI融资相关。该内容属于高管市场评论，而非具体交易或募资。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Benzinga"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 4.84,
+              "finalScore": 23.84,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-8cc6ceb2d0a2",
+            "title": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC - Traders Union",
+            "titleZh": "Apollo Global Management首席执行官在CNBC谈AI融资风险与私募信贷 - Traders Union",
+            "summary": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+            "summaryZh": "Apollo Global Management首席执行官在CNBC谈AI融资风险与私募信贷 Traders Union",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGphelMzWFBJZlhrcXl4ckxuRGdsODdfVjRPeThVUjBSQU4zV1VUUWNFYnpDYVZZaFdjZk5hWFQ4OC1PN0c4dmtxa2dEelpZSDhGajJ5ZDBWamMyRGxpY0dlSGRzRTM2dVVVcXVfQm9ES01SdEhRQ29kRTB2dFEzMVF2T1A0MWRkTXJ4ZGxobHZJR1dlYzhJ?oc=5",
+            "source": "Traders Union",
+            "publishedAt": "2026-11-17",
+            "lede": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+            "articleExcerpt": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC - Traders Union. Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+            "contentFingerprint": "d376765fa0675622",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "titleStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo's CEO comments on AI financing risks and private credit in a CNBC interview. This is credit-relevant manager commentary, not a specific transaction, lawsuit or fundraise, so it rates as routine manager news.",
+              "llmReasonZh": "Apollo首席执行官在CNBC专访中就AI融资风险及私募信贷发表评论。此为与信贷相关的管理人评论，并非具体交易、诉讼或募资事项，因此评级为常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Traders Union"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.43,
+              "finalScore": 23.43,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-e5dafaec12f5",
+            "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
+            "titleZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 - BigGo Finance",
+            "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+            "summaryZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 BigGo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
+            "source": "BigGo Finance",
+            "publishedAt": "2026-11-17",
+            "lede": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+            "articleExcerpt": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance. Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+            "contentFingerprint": "65673e3369dc466c",
+            "region": "US",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo CEO Marc Rowan says the AI buildout could need up to $8 trillion in financing, which would test U.S. credit markets. This bears directly on Apollo's credit business and AI infrastructure lending. It is executive market commentary with no specific transaction, so no event type applies.",
+              "llmReasonZh": "Apollo首席执行官Marc Rowan表示，AI基础设施建设可能需要高达8万亿美元的融资，这将考验美国信贷市场。此事与Apollo的信贷业务及AI基础设施贷款直接相关。该内容属于高管市场评论，未涉及具体交易，因此不适用任何事件类型。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "BigGo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.12,
+              "finalScore": 22.12,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -211015,6 +212179,434 @@
               "keywordScore": 14,
               "semanticScore": 6.03,
               "finalScore": 20.03,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-301384e4d9c4",
+            "title": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "Golub Capital BDC, Inc. (OGL.F) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "Golub Capital BDC, Inc. (OGL.F) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ja1FDWElSc1YzSlZ5Y2ROaVhGY054R3hzWFNmcDVxbkh6LWUwSFdlUFhGRzU3QWttN01Xd0dZRmNIcFlpa2cwUS1TaGstOW1neWdfbE42ajlLYU85N3NVNmhxWQ?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart - Yahoo Finance UK. Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "246c66a287d3416c",
+            "region": "Europe",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a Yahoo Finance seasonal returns chart page for Golub Capital BDC, Golub's credit vehicle, so it falls under private credit. It is only stock price data, with no news or event, so importance is low.",
+              "llmReasonZh": "这是Golub旗下信贷投资工具Golub Capital BDC在Yahoo Finance上的季节性回报图表页面，因此属于私募信贷范畴。该页面仅为股价数据，不涉及任何新闻或事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.28,
+              "finalScore": 21.28,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-b708e340ba2d",
+            "title": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results - Quantisnow",
+            "titleZh": "Golub Capital BDC, Inc.公布2026财年第四季度财务业绩 - Quantisnow",
+            "summary": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+            "summaryZh": "Golub Capital BDC, Inc.公布2026财年第四季度财务业绩 Quantisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1JvZHlUa2FCWTQ5NkVHNE9pdkU1S016QjZFeHR2c2tDRHNINXFCdGJzMHBTM1hReVNobEFQVHVmcnJUUkp1bWNsbUtBSTVrYUpHTE00eEc2bU9JR0J4cHBVRTJfSGthZVJibnZIRmlyOU5fWnZ4SVJ6eGNHQlJjcHZPeHFBUTlDNnA2a3JyTUF3ZGREUTZSOVk0THVRQjF6aEFva3R4UEwwQQ?oc=5",
+            "source": "Quantisnow",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+            "articleExcerpt": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results - Quantisnow. Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+            "contentFingerprint": "8d8d5bba1e0263de",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is reporting quarterly results. It is Golub's direct-lending BDC, so the item is credit-relevant routine manager news with no financing, fundraising or litigation event.",
+              "llmReasonZh": "Golub Capital BDC发布季度业绩。该公司是Golub旗下的直接贷款BDC，因此本条属于与信贷相关的常规管理人新闻，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Quantisnow"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.36,
+              "finalScore": 20.36,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-ac70ec6c610d",
+            "title": "Golub Capital Stock At $12.40: Private Credit's First Crack? - Yahoo Finance",
+            "titleZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？- Yahoo Finance",
+            "summary": "Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+            "summaryZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazdCbWRaX2xmN2Z3eG9mWFd4OEs4RlMxUkczVlRDRGdKNDhMZWFPaWFiWFFacnZlUDN3ZUJmU05zY1VJRmg3dng3TEhybGVfY3UyUFFzeVlSTERTTlR2empuVTZTRGlXei01UllHVW9oRF9zdzBmZlBXaVhkRGc3ZFRFX3duVDAxMWtrZ2UyM194eW1E?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+            "articleExcerpt": "Golub Capital Stock At $12.40: Private Credit's First Crack? - Yahoo Finance. Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+            "contentFingerprint": "1390f072ec6dfb9b",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Stock price and analyst commentary on Golub Capital BDC, a private credit vehicle. The 'first crack' framing hints at possible credit stress, but there is no concrete event.",
+              "llmReasonZh": "涉及私募信贷载体Golub Capital BDC的股价及分析师评论。\"首现裂痕\"的表述暗示可能存在信用压力，但并无具体事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.96,
+              "finalScore": 19.96,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-36e47a3ef450",
+            "title": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose - TradingView",
+            "titleZh": "GBDC：收入下降及信用估值下调加大拖累FY26回报，非应计资产上升 - TradingView",
+            "summary": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+            "summaryZh": "GBDC：收入下降及信用估值下调加大拖累FY26回报，非应计资产上升 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdDF4SG1xT0lxVnN2RlZrZEZMbkNOajgyWGRKQUZVTXV1MnpKNkV4blZ0bjM4djcxa2pjWHhqTjJfVDFSaWpOLU5kVDFJS2J6Um01VDlCWHRLRE1IQjEzVVJZRnNJcTFXYUxjTnpocFllZHdla3VXVmY5dV9jd2plMk5ZckRNTkY4Qk5VX0RMOUNoQVF1aUhSN1BlWlFoeldDT2pQajFXbXV4RkJzZlQyVDdld2VNeERnZk13NDJrYjNiNHM1RTJwX3lHNFFIdnUxRUVNeC13dkRWTVA4S2otd1M0Y1dfTkxUS0otMU5FbUlmbnVr?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-17",
+            "lede": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+            "articleExcerpt": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose - TradingView. GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+            "contentFingerprint": "74e08540acd1e5e5",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "GBDC is Golub Capital BDC, a direct lending vehicle. The article reports weaker returns from lower income and negative credit marks, plus rising non-accruals. These are credit-quality deterioration signals that matter to a private credit investor. It is not a lawsuit, financing or fundraising event.",
+              "llmReasonZh": "GBDC即Golub Capital BDC，为一家直接贷款机构。文章报道，受收入下降和负面信用估值调整影响，其回报走弱，同时非应计资产上升。这些均为信用质量恶化信号，对私募信贷投资者具有重要意义。该事件不属于诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.79,
+              "finalScore": 18.79,
               "semanticEnabled": true
             }
           }
@@ -211228,6 +212820,203 @@
             "keywordScore": 16,
             "semanticScore": 5.54,
             "finalScore": 21.54,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-db8432067cdc",
+          "title": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target - www.marketscreener.com",
+          "titleZh": "瑞穗首次覆盖KKR & Co，给予“跑赢大盘”评级，目标价$116 - www.marketscreener.com",
+          "summary": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+          "summaryZh": "瑞穗首次覆盖KKR & Co，给予“跑赢大盘”评级，目标价$116 www.marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVBDZkxDX1VCQnE3eXdQN3dzUWlEdi1LbzJvdjFacFgyTVRicFdST3NtS0pGS011V05QRHhVRDNEZWJ3dWVhYkFsaEpudkFvSUlWdDVlUWhwdzg5aGMxWnNkVXJheFBpRkt3dF9WcWdZYWxBZkhVX3RfalBtUVpmOTRvdTBzNDB5Z0JhUXZ3WXR1QWVxdGdHM09qbGlXTS1aa2lSR0RhYndrSXZLUDkyOVJn?oc=5",
+          "source": "www.marketscreener.com",
+          "publishedAt": "2026-11-17",
+          "lede": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+          "articleExcerpt": "Mizuho Initiates KKR & Co at Outperform With $116 Price Target - www.marketscreener.com. Mizuho Initiates KKR & Co at Outperform With $116 Price Target www.marketscreener.com",
+          "contentFingerprint": "888c762e741921fc",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is analyst coverage initiation (Mizuho, Outperform, $116 PT) on KKR's parent-company stock. It has no specific credit activity, but it is firm-level news about a tracked GP rather than about its non-credit business, so it is kept at low importance as stock/analyst commentary.",
+            "llmReasonZh": "此为分析师首次覆盖报告（瑞穗，“跑赢大盘”评级，目标价$116），针对KKR母公司股票。该文章不涉及具体信贷活动，但属于所跟踪普通合伙人（GP）的公司层面新闻，而非关于其非信贷业务的新闻，因此作为股票/分析师评论保留，重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "www.marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.83,
+            "finalScore": 7.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-8c76b9d5aea2",
+          "title": "Bain Capital lands $136M refi on Central Texas built-to-rents - The Real Deal",
+          "titleZh": "Bain Capital为德州中部定制租赁住宅获得1.36亿美元再融资 - The Real Deal",
+          "summary": "Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+          "summaryZh": "Bain Capital为德州中部定制租赁住宅获得1.36亿美元再融资 The Real Deal",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWNYMXdjRzc0MlVUWUFEbTRfQTJvWHRMLWxfVnNmOEtqZmNsLWwxSmNvSEFRMGxVak9WQndkZjEwNzhLRVk2dmdjLUFiVzRFZ2VvS0dHTHZjNkRyRHBYeWxzV0J0R0ZabzAtcEIwLWpMU2VtZ01tbTlHZFE3eTZKNlRvQXpGQjlVcXRoN1FLaVE5bU43RVVSN3VBX29YaGZzaHZj?oc=5",
+          "source": "The Real Deal",
+          "publishedAt": "2026-11-17",
+          "lede": "Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+          "articleExcerpt": "Bain Capital lands $136M refi on Central Texas built-to-rents - The Real Deal. Bain Capital lands $136M refi on Central Texas built-to-rents The Real Deal",
+          "contentFingerprint": "5856313182144033",
+          "region": "Global",
+          "gps": [
+            "Bain Capital"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Bain Capital"
+            ],
+            "titleGps": [
+              "Bain Capital"
+            ],
+            "llmGps": [
+              "Bain Capital"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Bain Capital secured a $136M refinancing on Central Texas build-to-rent homes. This is ordinary financing tied to single-family rental assets. Bain appears to be the borrower, not the lender, but the deal is still debt financing, so it is not excluded.",
+            "llmReasonZh": "Bain Capital为德州中部的定制租赁（build-to-rent）住宅获得1.36亿美元再融资。该交易属于与单户租赁资产相关的常规融资。Bain似乎是借款方而非贷款方，但该交易仍属于债务融资，因此未被排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Bain Capital"
+                ]
+              },
+              "strategy": {
+                "value": 0.53,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.36
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Real Deal"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.34,
+            "finalScore": 10.34,
             "semanticEnabled": true
           }
         },
@@ -211551,6 +213340,560 @@
           }
         },
         {
+          "id": "2026-11-17-94593539e83a",
+          "title": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing - bloomingbit",
+          "titleZh": "Apollo CEO：若无Nvidia财务支持，Neocloud融资或将收紧 - bloomingbit",
+          "summary": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+          "summaryZh": "Apollo CEO表示，若无Nvidia财务支持，Neocloud融资可能收紧 bloomingbit",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZDB2d0dpWVZzdkZBMkszb0RVUldJbHZIcERPY29UVjBvdXNWOGFUdjdhYjlHSGlLcGVfRC1VUk1TY0xvTFY5ZnRfS2RPUzkyWENyOA?oc=5",
+          "source": "bloomingbit",
+          "publishedAt": "2026-11-17",
+          "lede": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+          "articleExcerpt": "Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing - bloomingbit. Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing bloomingbit",
+          "contentFingerprint": "83702bb263a0e7ba",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Apollo's CEO is commenting on financing conditions for neocloud (GPU/AI compute) providers. This bears directly on Apollo's private credit and AI-infrastructure lending activity. It is market commentary rather than a specific transaction, so importance is moderate.",
+            "llmReasonZh": "Apollo CEO就Neocloud（GPU/AI算力）提供商的融资环境发表评论，这直接关系到Apollo的私募信贷及AI基础设施贷款业务。该内容属于市场评论而非具体交易，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "bloomingbit"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 6.04,
+            "finalScore": 26.04,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-ed996558eba8",
+          "title": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' - CNBC",
+          "titleZh": "Apollo首席执行官Marc Rowan警告：新型云服务商融资渠道或将“消失” - CNBC",
+          "summary": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+          "summaryZh": "Apollo首席执行官Marc Rowan警告新型云服务商融资渠道或将“消失” CNBC",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTWhZd1oxMk5VTHEzb090TkN0SzRabHRueS04akFTY0g5Rm5SLWNCX01uczI3NGNnWGR1NEhvZ3VRQTN3Szk5cGFnUmdNT29xYzNTMTJFbFN4b1hiMTdENGh4Vkc3b2tfTlJNb3Y2UjF4VE83RFlRY9IBfkFVX3lxTE1XVnoxMFVzdjNRbHdfdUM5SXIwM1hhSUxOMFpQWkxDSFgxQk12UHB1YWQyLUxkMFZfZDB1U2tHNUZSbTl5VWFxVjd5QU1LN0JPZ1pCMEQ1dDZ5Szd0MU9sbnlLNmlqV2tLczBjNFhocWZKdGc1UVZRTTV2eVQ1UQ?oc=5",
+          "source": "CNBC",
+          "publishedAt": "2026-11-17",
+          "lede": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+          "articleExcerpt": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' - CNBC. Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' CNBC",
+          "contentFingerprint": "71c79ae159afcca4",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "data-center",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "data-center",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "data-center",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo's CEO is commenting on credit markets: he warns that financing access for neoclouds (AI/GPU compute providers) could disappear. This bears directly on Apollo's credit and lending business in AI infrastructure and GPU financing. It is market commentary rather than a specific transaction, so it is rated as routine manager news.",
+            "llmReasonZh": "Apollo首席执行官就信贷市场发表评论，警告新型云服务商（AI/GPU算力提供商）的融资渠道可能消失。这与Apollo在AI基础设施及GPU融资领域的信贷和放贷业务直接相关。该内容属于市场评论而非具体交易，因此被评为常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "data-center",
+                  "ai"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "CNBC"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 67,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.69,
+            "finalScore": 25.69,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-471e0a7fd7e1",
+          "title": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets - Benzinga",
+          "titleZh": "Apollo首席执行官Marc Rowan：AI热潮或需高达8万亿美元资金，将重塑美国信贷市场 - Benzinga",
+          "summary": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+          "summaryZh": "Apollo首席执行官Marc Rowan表示，AI热潮可能需要高达8万亿美元资金，并将重塑美国信贷市场 Benzinga",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2ZJQXFLdGdsNkdWdXo2TWRTNEc5WWRfTkdGUUlZN3RadHR0cm1BckVSbERCczRXdnlPb2dVZTRvOGFVYmI0dUdpMEJyUFI0OVBucEhLYlNsYmRIRFdYVEtWaTlGRE5tdE1SZWxaZU5pSHdMcHkxUTFLODNTYmY3SC02Wk9aSkZRc2JRYjRCbTJtbnpIeDhnV29FaHVxanlLU1czQ2xTMVVtY3A1TGZxU1FBLXVUN2cydWlRbHZLZHlhYnpNNDZZRjBFbE1xaGZlNV9pUGdtS3V6emF2WXVWUjJfWDhfQW1pNzNB?oc=5",
+          "source": "Benzinga",
+          "publishedAt": "2026-11-17",
+          "lede": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+          "articleExcerpt": "Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets - Benzinga. Apollo CEO Marc Rowan Says AI Boom Could Require Up to $8 Trillion, Reshape US Credit Markets Benzinga",
+          "contentFingerprint": "d5df846123f70339",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Apollo CEO commentary on AI capital needs reshaping US credit markets is relevant to Apollo's credit business and AI financing. It is executive market commentary, not a specific transaction or fundraise.",
+            "llmReasonZh": "Apollo首席执行官关于AI资本需求重塑美国信贷市场的评论，与Apollo的信贷业务及AI融资相关。该内容属于高管市场评论，而非具体交易或募资。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Benzinga"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 4.84,
+            "finalScore": 23.84,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-8cc6ceb2d0a2",
+          "title": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC - Traders Union",
+          "titleZh": "Apollo Global Management首席执行官在CNBC谈AI融资风险与私募信贷 - Traders Union",
+          "summary": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+          "summaryZh": "Apollo Global Management首席执行官在CNBC谈AI融资风险与私募信贷 Traders Union",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGphelMzWFBJZlhrcXl4ckxuRGdsODdfVjRPeThVUjBSQU4zV1VUUWNFYnpDYVZZaFdjZk5hWFQ4OC1PN0c4dmtxa2dEelpZSDhGajJ5ZDBWamMyRGxpY0dlSGRzRTM2dVVVcXVfQm9ES01SdEhRQ29kRTB2dFEzMVF2T1A0MWRkTXJ4ZGxobHZJR1dlYzhJ?oc=5",
+          "source": "Traders Union",
+          "publishedAt": "2026-11-17",
+          "lede": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+          "articleExcerpt": "Apollo Global Management CEO discusses AI financing risks, private credit on CNBC - Traders Union. Apollo Global Management CEO discusses AI financing risks, private credit on CNBC Traders Union",
+          "contentFingerprint": "d376765fa0675622",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "titleStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo's CEO comments on AI financing risks and private credit in a CNBC interview. This is credit-relevant manager commentary, not a specific transaction, lawsuit or fundraise, so it rates as routine manager news.",
+            "llmReasonZh": "Apollo首席执行官在CNBC专访中就AI融资风险及私募信贷发表评论。此为与信贷相关的管理人评论，并非具体交易、诉讼或募资事项，因此评级为常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Traders Union"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.43,
+            "finalScore": 23.43,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-e5dafaec12f5",
+          "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
+          "titleZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 - BigGo Finance",
+          "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+          "summaryZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 BigGo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
+          "source": "BigGo Finance",
+          "publishedAt": "2026-11-17",
+          "lede": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+          "articleExcerpt": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance. Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
+          "contentFingerprint": "65673e3369dc466c",
+          "region": "US",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo CEO Marc Rowan says the AI buildout could need up to $8 trillion in financing, which would test U.S. credit markets. This bears directly on Apollo's credit business and AI infrastructure lending. It is executive market commentary with no specific transaction, so no event type applies.",
+            "llmReasonZh": "Apollo首席执行官Marc Rowan表示，AI基础设施建设可能需要高达8万亿美元的融资，这将考验美国信贷市场。此事与Apollo的信贷业务及AI基础设施贷款直接相关。该内容属于高管市场评论，未涉及具体交易，因此不适用任何事件类型。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "BigGo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.12,
+            "finalScore": 22.12,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-17-e8f10296ea7d",
           "title": "Golub Capital Stock At $12.40: Private Credit’s First Crack? - Trefis",
           "titleZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？ - Trefis",
@@ -211653,6 +213996,434 @@
             "finalScore": 20.03,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-17-301384e4d9c4",
+          "title": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "Golub Capital BDC, Inc. (OGL.F) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "Golub Capital BDC, Inc. (OGL.F) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ja1FDWElSc1YzSlZ5Y2ROaVhGY054R3hzWFNmcDVxbkh6LWUwSFdlUFhGRzU3QWttN01Xd0dZRmNIcFlpa2cwUS1TaGstOW1neWdfbE42ajlLYU85N3NVNmhxWQ?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart - Yahoo Finance UK. Golub Capital BDC, Inc. (OGL.F) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "246c66a287d3416c",
+          "region": "Europe",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a Yahoo Finance seasonal returns chart page for Golub Capital BDC, Golub's credit vehicle, so it falls under private credit. It is only stock price data, with no news or event, so importance is low.",
+            "llmReasonZh": "这是Golub旗下信贷投资工具Golub Capital BDC在Yahoo Finance上的季节性回报图表页面，因此属于私募信贷范畴。该页面仅为股价数据，不涉及任何新闻或事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.28,
+            "finalScore": 21.28,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-b708e340ba2d",
+          "title": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results - Quantisnow",
+          "titleZh": "Golub Capital BDC, Inc.公布2026财年第四季度财务业绩 - Quantisnow",
+          "summary": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+          "summaryZh": "Golub Capital BDC, Inc.公布2026财年第四季度财务业绩 Quantisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1JvZHlUa2FCWTQ5NkVHNE9pdkU1S016QjZFeHR2c2tDRHNINXFCdGJzMHBTM1hReVNobEFQVHVmcnJUUkp1bWNsbUtBSTVrYUpHTE00eEc2bU9JR0J4cHBVRTJfSGthZVJibnZIRmlyOU5fWnZ4SVJ6eGNHQlJjcHZPeHFBUTlDNnA2a3JyTUF3ZGREUTZSOVk0THVRQjF6aEFva3R4UEwwQQ?oc=5",
+          "source": "Quantisnow",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+          "articleExcerpt": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results - Quantisnow. Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results Quantisnow",
+          "contentFingerprint": "8d8d5bba1e0263de",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is reporting quarterly results. It is Golub's direct-lending BDC, so the item is credit-relevant routine manager news with no financing, fundraising or litigation event.",
+            "llmReasonZh": "Golub Capital BDC发布季度业绩。该公司是Golub旗下的直接贷款BDC，因此本条属于与信贷相关的常规管理人新闻，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Quantisnow"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.36,
+            "finalScore": 20.36,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-ac70ec6c610d",
+          "title": "Golub Capital Stock At $12.40: Private Credit's First Crack? - Yahoo Finance",
+          "titleZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？- Yahoo Finance",
+          "summary": "Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+          "summaryZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazdCbWRaX2xmN2Z3eG9mWFd4OEs4RlMxUkczVlRDRGdKNDhMZWFPaWFiWFFacnZlUDN3ZUJmU05zY1VJRmg3dng3TEhybGVfY3UyUFFzeVlSTERTTlR2empuVTZTRGlXei01UllHVW9oRF9zdzBmZlBXaVhkRGc3ZFRFX3duVDAxMWtrZ2UyM194eW1E?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+          "articleExcerpt": "Golub Capital Stock At $12.40: Private Credit's First Crack? - Yahoo Finance. Golub Capital Stock At $12.40: Private Credit's First Crack? Yahoo Finance",
+          "contentFingerprint": "1390f072ec6dfb9b",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Stock price and analyst commentary on Golub Capital BDC, a private credit vehicle. The 'first crack' framing hints at possible credit stress, but there is no concrete event.",
+            "llmReasonZh": "涉及私募信贷载体Golub Capital BDC的股价及分析师评论。\"首现裂痕\"的表述暗示可能存在信用压力，但并无具体事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.96,
+            "finalScore": 19.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-36e47a3ef450",
+          "title": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose - TradingView",
+          "titleZh": "GBDC：收入下降及信用估值下调加大拖累FY26回报，非应计资产上升 - TradingView",
+          "summary": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+          "summaryZh": "GBDC：收入下降及信用估值下调加大拖累FY26回报，非应计资产上升 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdDF4SG1xT0lxVnN2RlZrZEZMbkNOajgyWGRKQUZVTXV1MnpKNkV4blZ0bjM4djcxa2pjWHhqTjJfVDFSaWpOLU5kVDFJS2J6Um01VDlCWHRLRE1IQjEzVVJZRnNJcTFXYUxjTnpocFllZHdla3VXVmY5dV9jd2plMk5ZckRNTkY4Qk5VX0RMOUNoQVF1aUhSN1BlWlFoeldDT2pQajFXbXV4RkJzZlQyVDdld2VNeERnZk13NDJrYjNiNHM1RTJwX3lHNFFIdnUxRUVNeC13dkRWTVA4S2otd1M0Y1dfTkxUS0otMU5FbUlmbnVr?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-17",
+          "lede": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+          "articleExcerpt": "GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose - TradingView. GBDC: Lower income and higher credit marks cut FY26 returns as non-accruals rose TradingView",
+          "contentFingerprint": "74e08540acd1e5e5",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "GBDC is Golub Capital BDC, a direct lending vehicle. The article reports weaker returns from lower income and negative credit marks, plus rising non-accruals. These are credit-quality deterioration signals that matter to a private credit investor. It is not a lawsuit, financing or fundraising event.",
+            "llmReasonZh": "GBDC即Golub Capital BDC，为一家直接贷款机构。文章报道，受收入下降和负面信用估值调整影响，其回报走弱，同时非应计资产上升。这些均为信用质量恶化信号，对私募信贷投资者具有重要意义。该事件不属于诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.5,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.79,
+            "finalScore": 18.79,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -211660,7 +214431,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 22,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -211668,25 +214439,25 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 91,
-      "selected": 4,
+      "count": 100,
+      "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 0,
+      "count": 4,
       "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -211694,25 +214465,25 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 0,
+      "count": 6,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
       "queries": [
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
-      "errorReason": "HTTP Error 429: Too Many Requests"
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 2,
+      "count": 4,
       "selected": 1,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -211720,7 +214491,7 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
@@ -211733,7 +214504,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
@@ -211746,7 +214517,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
@@ -211759,25 +214530,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 28,
-      "selected": 2,
+      "count": 26,
+      "selected": 3,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 96,
+      "count": 99,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -211785,12 +214556,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 27,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -211798,12 +214569,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 5,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -211811,25 +214582,25 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 4,
-      "selected": 1,
+      "count": 5,
+      "selected": 4,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 15,
+      "count": 21,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -211837,7 +214608,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
@@ -211850,12 +214621,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 646,
+      "count": 605,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -211872,9 +214643,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-17T14:01:59.614308+00:00",
+      "asOf": "2026-11-17T22:05:56.702521+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-17T14:01:59.614308+00:00"
+  "checkedAt": "2026-11-17T22:05:56.702521+00:00"
 }
