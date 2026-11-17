@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-16T23:30:43.917392+00:00",
+  "updatedAt": "2026-11-17T05:49:38.976622+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,432 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-19": {
-      "byGp": {
-        "Blue Owl": [
-          {
-            "id": "2026-08-19-4890ecfced6e",
-            "title": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) - Seeking Alpha",
-            "titleZh": "Blue Owl Technology Finance：第二季度表现优异，更高收益催化因素显现 (NYSE:OTF) - Seeking Alpha",
-            "summary": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-            "summaryZh": "Blue Owl Technology Finance：第二季度表现优异，更高收益催化因素显现 (NYSE:OTF) Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDVldmZ6VWZGbTJiQWU2bkpmb1gyV3EwajlEQVdDQ1ROTWE0M0JjODJZUVlRWEVETEgwaFNVV2tyMHBldzBjSk9rYUZBbkZsdDlnMTUtOG5zaE5OdFotYWItX1ZJempMUUtKdkZ5NnFsendSc2VfdmYwak9OZm85TTVnaWpxc2lVbDQ1NE9ZMEVTUWFGZmphZnRqMjliQ3RxSFI0ZFFpelRtZTRCeGh6czAxOHo?oc=5",
-            "source": "Seeking Alpha",
-            "publishedAt": "2026-08-19",
-            "lede": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-            "articleExcerpt": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-            "contentFingerprint": "4cb9aa2c38c45579",
-            "region": "US",
-            "gps": [
-              "Blue Owl"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "Blue Owl",
-                "Blue Owl"
-              ],
-              "llmGps": [
-                "Blue Owl",
-                "Blue Owl"
-              ],
-              "keywordSectors": [
-                "software"
-              ],
-              "llmSectors": [
-                "software",
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "The article title references 'Blue Owl Technology Finance' and ticker NYSE:OTF — OTF is a publicly traded vehicle sponsored by Blue Owl focused on technology-focused direct lending (i.e., private credit), consistent with Blue Owl’s credit platform. 'Technology Finance' implies software sector exposure via direct lending to software companies.",
-              "llmReasonZh": "文章标题提及“Blue Owl Technology Finance”及股票代码NYSE:OTF——OTF是由Blue Owl发起的公开交易投资工具，专注于科技领域直接贷款（即私募信贷），与Blue Owl的信贷平台定位一致。“Technology Finance”意味着通过向软件公司提供直接贷款而形成对软件行业的敞口。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 23,
-              "semanticScore": 6.27,
-              "finalScore": 29.27,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.56,
-                  "code": "body_strategy",
-                  "tagValue": 0.6,
-                  "strategies": [
-                    "private-credit"
-                  ],
-                  "semanticValue": 0.52
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 0.25,
-                  "code": "tier_aggregator",
-                  "source": "Seeking Alpha"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 64,
-              "retrievedAt": "2026-10-29T09:02:01.311528+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          },
-          {
-            "id": "2026-08-19-4e5be34f2b1f",
-            "title": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) - Seeking Alpha",
-            "titleZh": "Blue Owl Technology Finance：业绩拐点即将到来 (NYSE:OTF) - Seeking Alpha",
-            "summary": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-            "summaryZh": "Blue Owl Technology Finance：业绩拐点即将到来 (NYSE:OTF) Seeking Alpha",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHUzV3pGMlZQTWRRMkkwT3hKTGJPSDg3MW9icG1FQVEtc1NWRlhJQ1p6elgxTmlLa3JwYWE2TS0xRkJJUDRRd3VlZkRGekxSa3VRclBfOE9MMWJNTGROQzFoVWNDaXo1ZXM2RnNzdkYzN01BV0ljdVRleGVfWUx3ZVhmOWxIUHRyc013WHFINTdWZFd3cTYzaQ?oc=5",
-            "source": "Seeking Alpha",
-            "publishedAt": "2026-08-19",
-            "lede": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-            "articleExcerpt": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-            "contentFingerprint": "e986ea1ff608a400",
-            "region": "US",
-            "gps": [
-              "Blue Owl"
-            ],
-            "sectors": [
-              "private-credit"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "Blue Owl",
-                "Blue Owl"
-              ],
-              "llmGps": [
-                "Blue Owl",
-                "Blue Owl"
-              ],
-              "keywordSectors": [
-                "software"
-              ],
-              "llmSectors": [
-                "software",
-                "private credit / direct lending"
-              ],
-              "llmExclude": false,
-              "llmReason": "The article title references 'Blue Owl Technology Finance' and ticker NYSE:OTF, indicating coverage of Blue Owl’s technology-focused credit vehicle (OTF is Blue Owl Technology Finance Corp, a publicly traded BDC focused on direct lending to software companies). This falls squarely within tracked credit activity — private credit/direct lending with a software sub-sector focus.",
-              "llmReasonZh": "文章标题提及“Blue Owl Technology Finance”及股票代码NYSE:OTF，表明其报道对象为Blue Owl旗下专注于科技领域的信贷投资工具（OTF即Blue Owl Technology Finance Corp，是一家公开上市的BDC，专注于向软件公司提供直接贷款）。该内容完全属于所跟踪的信贷活动范畴，即聚焦软件细分领域的私募信贷/直接贷款。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 23,
-              "semanticScore": 5.96,
-              "finalScore": 28.96,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "private-credit"
-            ],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Blue Owl"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.55,
-                  "code": "body_strategy",
-                  "tagValue": 0.6,
-                  "strategies": [
-                    "private-credit"
-                  ],
-                  "semanticValue": 0.5
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 0.25,
-                  "code": "tier_aggregator",
-                  "source": "Seeking Alpha"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 64,
-              "retrievedAt": "2026-10-29T09:02:01.311969+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-19-4890ecfced6e",
-          "title": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) - Seeking Alpha",
-          "titleZh": "Blue Owl Technology Finance：第二季度表现优异，更高收益催化因素显现 (NYSE:OTF) - Seeking Alpha",
-          "summary": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-          "summaryZh": "Blue Owl Technology Finance：第二季度表现优异，更高收益催化因素显现 (NYSE:OTF) Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDVldmZ6VWZGbTJiQWU2bkpmb1gyV3EwajlEQVdDQ1ROTWE0M0JjODJZUVlRWEVETEgwaFNVV2tyMHBldzBjSk9rYUZBbkZsdDlnMTUtOG5zaE5OdFotYWItX1ZJempMUUtKdkZ5NnFsendSc2VfdmYwak9OZm85TTVnaWpxc2lVbDQ1NE9ZMEVTUWFGZmphZnRqMjliQ3RxSFI0ZFFpelRtZTRCeGh6czAxOHo?oc=5",
-          "source": "Seeking Alpha",
-          "publishedAt": "2026-08-19",
-          "lede": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-          "articleExcerpt": "Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: Q2 Outperformance And Higher Income Catalysts (NYSE:OTF) Seeking Alpha",
-          "contentFingerprint": "4cb9aa2c38c45579",
-          "region": "US",
-          "gps": [
-            "Blue Owl"
-          ],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "Blue Owl",
-              "Blue Owl"
-            ],
-            "llmGps": [
-              "Blue Owl",
-              "Blue Owl"
-            ],
-            "keywordSectors": [
-              "software"
-            ],
-            "llmSectors": [
-              "software",
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "The article title references 'Blue Owl Technology Finance' and ticker NYSE:OTF — OTF is a publicly traded vehicle sponsored by Blue Owl focused on technology-focused direct lending (i.e., private credit), consistent with Blue Owl’s credit platform. 'Technology Finance' implies software sector exposure via direct lending to software companies.",
-            "llmReasonZh": "文章标题提及“Blue Owl Technology Finance”及股票代码NYSE:OTF——OTF是由Blue Owl发起的公开交易投资工具，专注于科技领域直接贷款（即私募信贷），与Blue Owl的信贷平台定位一致。“Technology Finance”意味着通过向软件公司提供直接贷款而形成对软件行业的敞口。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 23,
-            "semanticScore": 6.27,
-            "finalScore": 29.27,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Blue Owl"
-                ]
-              },
-              "strategy": {
-                "value": 0.56,
-                "code": "body_strategy",
-                "tagValue": 0.6,
-                "strategies": [
-                  "private-credit"
-                ],
-                "semanticValue": 0.52
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.25,
-                "code": "tier_aggregator",
-                "source": "Seeking Alpha"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 64,
-            "retrievedAt": "2026-10-29T09:02:01.311528+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        },
-        {
-          "id": "2026-08-19-4e5be34f2b1f",
-          "title": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) - Seeking Alpha",
-          "titleZh": "Blue Owl Technology Finance：业绩拐点即将到来 (NYSE:OTF) - Seeking Alpha",
-          "summary": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-          "summaryZh": "Blue Owl Technology Finance：业绩拐点即将到来 (NYSE:OTF) Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHUzV3pGMlZQTWRRMkkwT3hKTGJPSDg3MW9icG1FQVEtc1NWRlhJQ1p6elgxTmlLa3JwYWE2TS0xRkJJUDRRd3VlZkRGekxSa3VRclBfOE9MMWJNTGROQzFoVWNDaXo1ZXM2RnNzdkYzN01BV0ljdVRleGVfWUx3ZVhmOWxIUHRyc013WHFINTdWZFd3cTYzaQ?oc=5",
-          "source": "Seeking Alpha",
-          "publishedAt": "2026-08-19",
-          "lede": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-          "articleExcerpt": "Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) - Seeking Alpha. Blue Owl Technology Finance: The Turnaround Is Coming (NYSE:OTF) Seeking Alpha",
-          "contentFingerprint": "e986ea1ff608a400",
-          "region": "US",
-          "gps": [
-            "Blue Owl"
-          ],
-          "sectors": [
-            "private-credit"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "Blue Owl",
-              "Blue Owl"
-            ],
-            "llmGps": [
-              "Blue Owl",
-              "Blue Owl"
-            ],
-            "keywordSectors": [
-              "software"
-            ],
-            "llmSectors": [
-              "software",
-              "private credit / direct lending"
-            ],
-            "llmExclude": false,
-            "llmReason": "The article title references 'Blue Owl Technology Finance' and ticker NYSE:OTF, indicating coverage of Blue Owl’s technology-focused credit vehicle (OTF is Blue Owl Technology Finance Corp, a publicly traded BDC focused on direct lending to software companies). This falls squarely within tracked credit activity — private credit/direct lending with a software sub-sector focus.",
-            "llmReasonZh": "文章标题提及“Blue Owl Technology Finance”及股票代码NYSE:OTF，表明其报道对象为Blue Owl旗下专注于科技领域的信贷投资工具（OTF即Blue Owl Technology Finance Corp，是一家公开上市的BDC，专注于向软件公司提供直接贷款）。该内容完全属于所跟踪的信贷活动范畴，即聚焦软件细分领域的私募信贷/直接贷款。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 23,
-            "semanticScore": 5.96,
-            "finalScore": 28.96,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "private-credit"
-          ],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Blue Owl"
-                ]
-              },
-              "strategy": {
-                "value": 0.55,
-                "code": "body_strategy",
-                "tagValue": 0.6,
-                "strategies": [
-                  "private-credit"
-                ],
-                "semanticValue": 0.5
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.25,
-                "code": "tier_aggregator",
-                "source": "Seeking Alpha"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 64,
-            "retrievedAt": "2026-10-29T09:02:01.311969+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-20": {
       "byGp": {
         "Blue Owl": [],
@@ -7901,7 +7475,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
           "publishedAt": "2026-09-11",
@@ -7924,7 +7498,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务范畴，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure."
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -20334,7 +19908,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "此条目的中文摘要尚未人工整理；请先参考英文摘要与原文链接。",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -20358,7 +19932,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy."
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -203497,6 +203071,114 @@
               "finalScore": 17.32,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-15-68115eedecb7",
+            "title": "Blue Owl Capital Corporation (OBDC) options chain - Yahoo Finance UK",
+            "titleZh": "Blue Owl Capital Corporation (OBDC) 期权链 - Yahoo Finance UK",
+            "summary": "Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+            "summaryZh": "Blue Owl Capital Corporation (OBDC) 期权链 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmpZMzVpcFIwMWZUb3o5SnNSM2dtNVJkdk1SWTAyaEI4SFF6TFd1NGF0eFhxdTZXbFBMUE5taHF5eDdOMlVQZ1pkMG8xekNCVWUtU2Y1bWVOUEdwdEFKNHF0dXdOalJrOWlpTmNiN0VzaUFrdm1HYWdNY2tlcGtGT3BXbmR3MEJoemF5Z0RLVnVKQQ?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-15",
+            "lede": "Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+            "articleExcerpt": "Blue Owl Capital Corporation (OBDC) options chain - Yahoo Finance UK. Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+            "contentFingerprint": "299e7da1e06149fd",
+            "region": "Europe",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance options chain page for Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, so it falls under credit. The page is stock and options market data with no news content, so importance is low.",
+              "llmReasonZh": "Yahoo Finance 关于 Blue Owl Capital Corporation (OBDC) 的期权链页面，OBDC 为 Blue Owl 旗下公开交易的 BDC（业务发展公司），因此属于信贷类别。该页面仅为股票及期权市场数据，无新闻内容，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.8,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.6
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 7.18,
+              "finalScore": 22.18,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -204481,6 +204163,114 @@
           }
         },
         {
+          "id": "2026-11-15-68115eedecb7",
+          "title": "Blue Owl Capital Corporation (OBDC) options chain - Yahoo Finance UK",
+          "titleZh": "Blue Owl Capital Corporation (OBDC) 期权链 - Yahoo Finance UK",
+          "summary": "Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+          "summaryZh": "Blue Owl Capital Corporation (OBDC) 期权链 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmpZMzVpcFIwMWZUb3o5SnNSM2dtNVJkdk1SWTAyaEI4SFF6TFd1NGF0eFhxdTZXbFBMUE5taHF5eDdOMlVQZ1pkMG8xekNCVWUtU2Y1bWVOUEdwdEFKNHF0dXdOalJrOWlpTmNiN0VzaUFrdm1HYWdNY2tlcGtGT3BXbmR3MEJoemF5Z0RLVnVKQQ?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-15",
+          "lede": "Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+          "articleExcerpt": "Blue Owl Capital Corporation (OBDC) options chain - Yahoo Finance UK. Blue Owl Capital Corporation (OBDC) options chain Yahoo Finance UK",
+          "contentFingerprint": "299e7da1e06149fd",
+          "region": "Europe",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance options chain page for Blue Owl Capital Corporation (OBDC), Blue Owl's publicly traded BDC, so it falls under credit. The page is stock and options market data with no news content, so importance is low.",
+            "llmReasonZh": "Yahoo Finance 关于 Blue Owl Capital Corporation (OBDC) 的期权链页面，OBDC 为 Blue Owl 旗下公开交易的 BDC（业务发展公司），因此属于信贷类别。该页面仅为股票及期权市场数据，无新闻内容，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.8,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.6
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 7.18,
+            "finalScore": 22.18,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-15-81bb2ae1a5f3",
           "title": "KKR Credit Income Fund Reports NTA Estimate of AUD2.2960 Per Unit - TipRanks",
           "titleZh": "KKR Credit Income Fund公布每单位有形资产净值（NTA）估值为AUD2.2960 - TipRanks",
@@ -205244,6 +205034,419 @@
               "keywordScore": 22,
               "semanticScore": 3.38,
               "finalScore": 25.38,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-4c9a9eaad418",
+            "title": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock - MarketBeat",
+            "titleZh": "Blue Owl Capital (NYSE:OBDC) 董事增持1,000股公司股票 - MarketBeat",
+            "summary": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+            "summaryZh": "Blue Owl Capital (NYSE:OBDC) 董事增持1,000股公司股票 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFE5LWsxY3RuWlJTakgtNmdVMUZGNGs2cHlaZkdvTTUzSTBNMkVKbTlOYXlyV2o4YjIwMkl2T0I4TWk2aU55NjYwOGF6Z0hCUTFCNWpWTlVEdnk4bUx3VXFMbFFzTE14T085RzNnUjdvaWhkX3d4SnZIMFVKMTVFemlxZWlyYjZDeHRna2JQN0FtZ0dIcFRnUTE3REpyeEV3LVQ4ZjM0c0xCTGQ0MG5QbHQzd2NVMUpaR05maWdFbUhBYnRYVTh4SjRuOA?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-16",
+            "lede": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+            "articleExcerpt": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock - MarketBeat. Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+            "contentFingerprint": "d40f433086765572",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's publicly traded BDC, so the article falls under its private-credit business. A director buying 1,000 shares is a small insider purchase, similar to stock-price news, with no financing, fundraising or legal event. Low importance.",
+              "llmReasonZh": "OBDC即Blue Owl Capital Corp，是Blue Owl旗下公开上市的BDC，因此该文章属于其私募信贷业务范畴。一名董事买入1,000股属于小规模内部人增持，性质类似股价新闻，不涉及融资、募资或法律事件。重要性低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.79,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.58
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.92,
+              "finalScore": 22.92,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-0bb4c75e56ba",
+            "title": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price - MarketBeat",
+            "titleZh": "Keefe, Bruyette & Woods下调Blue Owl Technology Finance (NYSE:OTF)股价预期 - MarketBeat",
+            "summary": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+            "summaryZh": "Keefe, Bruyette & Woods下调Blue Owl Technology Finance (NYSE:OTF)股价预期 MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWlltUHFpR283TnF2SHN3aU92d1hVcGFQVWQ0cm9PTlZPT1dxZWZZMkNTVWROcWNiWWdMdGcyMFRSWEk3elJPSXZRRFltdnNqbTBZTnRkLUhEa1NiVmJ3VTdzdjZjWDZMOTdGZjNYNXZ4dW96X1YwaWtiTFNkMEpJVzZ3ZmJvdXVaV3d2MmxDR09XazNXQ3d4aEJBbDZvMmZTQ1BUbjRBSGxaSzd2cXdqTG5wQ3dwYXFuR2xLamJURVdOVTJ4eXc2R05yR2o3Vy1qRWtXU2ZwcldCYzBoc01JdWN2ZTM1RGZoZVFxS2xpa19mQQ?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-16",
+            "lede": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+            "articleExcerpt": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price - MarketBeat. Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+            "contentFingerprint": "e4427678a510f3f9",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price-target cut on Blue Owl Technology Finance (OTF), a Blue Owl BDC and so a credit vehicle. This is stock price / analyst commentary only, with no financing, fundraising or legal event.",
+              "llmReasonZh": "分析师下调Blue Owl Technology Finance (OTF)目标价。该公司为Blue Owl旗下BDC，属于信贷投资工具。本文仅涉及股价及分析师评论，不涉及融资、募资或法律事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.37,
+              "finalScore": 22.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-58e6bdf1fb89",
+            "title": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). - Stock Titan",
+            "titleZh": "七家实体披露在Blue Owl Technology Finance (OTF)中拥有共同投票权 - Stock Titan",
+            "summary": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+            "summaryZh": "七家实体披露在Blue Owl Technology Finance (OTF)中拥有共同投票权。Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnBXNWNlSE1HQlFWbWZIUUVOeDFicEozNVg1U0txVWxOQXlLcmE5TlNjOGV3Z0VEbmw3QWpWX2FKWlMtM1dOejZXU1pYWURoR29Fdmg5YU1EbGhZMlFNekFZVFdBSlB3TnNBMUVxWG1Tbk9ONi1NTGE5QmdXQXd6QWpUbnNTd0FQdnViUnM2T1VxckJfeVcwcElyOW90NkVicXA0cVN0VnpMcWdDRVZGLTZhR0d2UkRIQnRnMXlyQlZTSGtpSzhKZG5R?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-16",
+            "lede": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+            "articleExcerpt": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). - Stock Titan. Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+            "contentFingerprint": "e6a8aeff6d0bac7a",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so it falls under private credit. The article is a routine ownership filing (shared voting power disclosed by seven entities). It reports no financing, fundraising or legal event, so its importance is low.",
+              "llmReasonZh": "Blue Owl Technology Finance (OTF)是Blue Owl旗下的BDC，因此属于私募信贷范畴。该文章为一份常规持股申报（七家实体披露共同投票权），未涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.62,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 62,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.39,
+              "finalScore": 20.39,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-8450ceb2ca30",
+            "title": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com - Investing.com South Africa",
+            "titleZh": "Keefe Bruyette基于估值下调Blue Owl Technology Finance目标股价",
+            "summary": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+            "summaryZh": "Keefe Bruyette基于估值下调Blue Owl Technology Finance目标股价 By Investing.com Investing.com South Africa",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3V0a2UxcXMzWkhZZmh0d1NUS2VtY3lwVWd4SzV4SUZkSUdEU1FFRXlLMGdXVnBhd3cyQnJka1daU3pvYlc4cTJKLTRGQ2c2VUVYOWo4eE9kYXppbElkT2oyeTdWbHFhbnh1SE5KMU1tRjNGbEY0LWZLSHNxdnlaODAxaWo0ODduUmFMLTQzODBpMjdwdkFDOEpMb2JXbHJmQlRYVlZWVWdyQS1uVWFuSEk1ZXlUeFhETzRNT0FaSkcyMmdKVWdPMnNESk1Tc1Q2Wm0yYWZPMA?oc=5",
+            "source": "Investing.com South Africa",
+            "publishedAt": "2026-11-16",
+            "lede": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+            "articleExcerpt": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com - Investing.com South Africa. Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+            "contentFingerprint": "26d40d534c3deb5f",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst price target cut on Blue Owl Technology Finance (OTF), a Blue Owl BDC and therefore credit-relevant. This is stock price / analyst commentary only, with no financing, fundraising or litigation event.",
+              "llmReasonZh": "分析师下调Blue Owl Technology Finance（OTF）目标价；OTF为Blue Owl旗下BDC，因此与信贷相关。本文仅涉及股价/分析师评论，不涉及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": [
+                    "financing"
+                  ]
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com South Africa"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.12,
+              "finalScore": 20.12,
               "semanticEnabled": true
             }
           }
@@ -206100,6 +206303,120 @@
               "finalScore": 13.42,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-16-c572a5b23b45",
+            "title": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms - Alternatives Watch",
+            "titleZh": "Blackstone数据中心REIT完成与Amazon的50亿美元售后回租交易，预计中期选举后将面临更多障碍 - Alternatives Watch",
+            "summary": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+            "summaryZh": "Blackstone数据中心REIT完成与Amazon的50亿美元售后回租交易，预计中期选举后将面临更多障碍 Alternatives Watch",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeDFsSHhwVzRwV2F2b1N3WDc0MXEtY0RleHY4amlBWmNOS2JBQ1dUMFlDSDFhU0RSRWR6Nkcxb25pY21jMmRGSEdqeVdZWmxEXzFVU0syS2QtZkRFWENDbjFyT2tKdGg1SVkzdTRPWW5MWDFRR1FIanhnMXVmUDNPd1FfOWVLc0wtS1Z1dVVZQTZOQTlCYUIyZDItZUk4Z3BYX2d6aGdMY2k3Qmlra0pXY3JTekhkS1lwc3JUUVZoS1pmUmFVNHFYYi1NOUs2STYyclJJTHdzUVA2OUE?oc=5",
+            "source": "Alternatives Watch",
+            "publishedAt": "2026-11-16",
+            "lede": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+            "articleExcerpt": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms - Alternatives Watch. Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+            "contentFingerprint": "684a776023864c2e",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "sectors": [
+              "triple-net",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "triple-net",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "A Blackstone data center REIT completed a $5bn sale-leaseback with Amazon. This is a lease-based financing for Amazon and fits the tracked net-lease and data-center strategies, though it is real-estate-vehicle activity rather than pure lending. The midterm 'hurdles' comment is commentary only.",
+              "llmReasonZh": "一只Blackstone旗下数据中心REIT完成了与Amazon的50亿美元售后回租交易。该交易属于Amazon的租赁式融资，符合所跟踪的净租赁及数据中心策略，但其性质为房地产投资工具的交易活动，而非纯粹的贷款业务。有关中期选举“障碍”的表述仅属评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.67,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "triple-net",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.35
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Alternatives Watch"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 4.17,
+              "finalScore": 13.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -206509,17 +206826,17 @@
           },
           {
             "id": "2026-11-16-5814d3c8920c",
-            "title": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch",
+            "title": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties - Alternatives Watch",
             "titleZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 - Alternatives Watch",
-            "summary": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+            "summary": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
             "summaryZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 Alternatives Watch",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpHYWxzN2gxQ2I0dzgyVnZ2ZjlyTHNKU0VHMlhFZjd1N3p6eTR6OVVid1JuR1YwdWxpVjRaLWMwNlNRV2VxN0xfcEVmNGZPZWlwWWU4N3A1dzRCazcwNU9mbnRsdjVnYWhJeFVJQ0s1U0RZelNITTNzMk5wc2VxZk5TaEFjZE5MY3FmRF8wd1oyUDR3N1JOUF9uYVREMkZoRGlyU21mZ3p6QnlVRTRqNDZuYzR4OWh4OHJaRlpONnk4dXJ1YU1V?oc=5",
             "source": "Alternatives Watch",
             "publishedAt": "2026-11-16",
-            "lede": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
-            "articleExcerpt": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
-            "contentFingerprint": "dcc00e5efbf88e0e",
+            "lede": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
+            "articleExcerpt": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
+            "contentFingerprint": "d9385fc6d7ae3d51",
             "region": "Global",
             "gps": [
               "Apollo"
@@ -206534,12 +206851,8 @@
             "curation": "rss_filter",
             "excludedByClassifier": false,
             "classificationBreakdown": {
-              "keywordGps": [
-                "Apollo"
-              ],
-              "titleGps": [
-                "Apollo"
-              ],
+              "keywordGps": [],
+              "titleGps": [],
               "llmGps": [
                 "Apollo"
               ],
@@ -206551,14 +206864,14 @@
               "llmEvents": [],
               "llmImportance": 0.5,
               "llmExclude": false,
-              "llmReason": "Apollo is expanding its wealth-management distribution through a Victory Capital partnership and an investment in Focus. These channels largely carry Apollo's private credit products to wealth clients, so this is credit-relevant routine manager news. The text is thin, and it does not confirm a specific financing or fund close.",
-              "llmReasonZh": "Apollo正通过与Victory Capital合作及投资Focus，扩大其财富管理分销渠道。这些渠道主要向财富管理客户销售Apollo的私募信贷产品，因此属于与信贷相关的常规管理人动态。文章内容较少，未证实任何具体融资或基金募集完成。"
+              "llmReason": "Apollo is expanding its wealth-channel distribution through a partnership with Victory Capital and an investment in Focus. Apollo's wealth-management push centers largely on its private credit products, so this is routine strategic manager news with a credit angle, not a loan, fund close or legal event. The text is only a headline, so the private-credit tag and the absence of a financing event are inferred rather than confirmed.",
+              "llmReasonZh": "Apollo正通过与Victory Capital合作以及投资Focus，扩大其财富渠道分销。Apollo的财富管理布局主要围绕其私募信贷产品展开，因此这属于带有信贷视角的常规管理人战略新闻，而非贷款、基金募集完成或法律事件。由于原文仅有标题，私募信贷标签及无融资事件的判断系推断得出，尚未得到证实。"
             },
             "rating": {
               "parts": {
                 "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
                   "gps": [
                     "Apollo"
                   ]
@@ -206570,7 +206883,7 @@
                   "strategies": [
                     "private-credit"
                   ],
-                  "semanticValue": 0.52
+                  "semanticValue": 0.53
                 },
                 "event": {
                   "value": 0.35,
@@ -206587,7 +206900,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.4
+                  "days": 0.7
                 }
               },
               "weights": {
@@ -206597,13 +206910,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 60,
-              "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+              "score": 54,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
             },
             "scoreBreakdown": {
               "keywordScore": 6,
-              "semanticScore": 6.2,
-              "finalScore": 12.2,
+              "semanticScore": 6.33,
+              "finalScore": 12.33,
               "semanticEnabled": true
             }
           },
@@ -206704,6 +207017,112 @@
               "keywordScore": 6,
               "semanticScore": 6.13,
               "finalScore": 12.129999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-16-2a373d48585d",
+            "title": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports - marketscreener.com",
+            "titleZh": "彭博社：Apollo Global Management将向Focus Financial Partners投资25亿美元 - marketscreener.com",
+            "summary": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+            "summaryZh": "彭博社报道，Apollo Global Management将向Focus Financial Partners投资25亿美元。来源：marketscreener.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjhxX28yQlU1V2FjZFNVdWthRVhVTTg5RnhSQ3BNUWs1Mzd4WExZYlQtT0hqcHJVQk9KYzF3eHZISHlRUXBXNkRNbi1qSzMxRzJ4dFVRUFM0V29aOExGZFk1eWRwX0htUUNrRVZoZkpYOGRrWjhyY0V4bFZLUEVGb2VwZjRBNng3YkZhVjFDRnZseHlTSy14ZzViMVlZMmlLRHFOdUp2SDBsaTFlRENFM2ZZbm91NXBWTVg4Ykhld2lHOURjZmp5ZDhrTnRxMTE3OEJBNmoyQS1hXzFfdzh3?oc=5",
+            "source": "marketscreener.com",
+            "publishedAt": "2026-11-16",
+            "lede": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+            "articleExcerpt": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports - marketscreener.com. Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+            "contentFingerprint": "7b2c56ddb0b247a9",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Apollo is reportedly investing $2.5B in wealth-management firm Focus Financial Partners. The snippet does not say how the deal is structured. Apollo's large minority investments in sponsor-owned companies are typically hybrid or structured capital (preferred equity or debt) from its credit platform, so this is tentatively treated as a credit financing. If the article shows it is a pure equity buyout stake, it should be excluded.",
+              "llmReasonZh": "据报道，Apollo拟向财富管理公司Focus Financial Partners投资25亿美元。摘要未说明交易结构。Apollo对私募股权发起人旗下公司进行的大额少数股权投资，通常是由其信贷平台提供的混合型或结构化资本（优先股或债务），因此暂将此交易视为信贷融资。如文章显示该投资为纯股权收购持股，则应予以排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.77,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "marketscreener.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.18,
+              "finalScore": 12.18,
               "semanticEnabled": true
             }
           }
@@ -206928,6 +207347,419 @@
             "keywordScore": 22,
             "semanticScore": 3.38,
             "finalScore": 25.38,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-4c9a9eaad418",
+          "title": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock - MarketBeat",
+          "titleZh": "Blue Owl Capital (NYSE:OBDC) 董事增持1,000股公司股票 - MarketBeat",
+          "summary": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+          "summaryZh": "Blue Owl Capital (NYSE:OBDC) 董事增持1,000股公司股票 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFE5LWsxY3RuWlJTakgtNmdVMUZGNGs2cHlaZkdvTTUzSTBNMkVKbTlOYXlyV2o4YjIwMkl2T0I4TWk2aU55NjYwOGF6Z0hCUTFCNWpWTlVEdnk4bUx3VXFMbFFzTE14T085RzNnUjdvaWhkX3d4SnZIMFVKMTVFemlxZWlyYjZDeHRna2JQN0FtZ0dIcFRnUTE3REpyeEV3LVQ4ZjM0c0xCTGQ0MG5QbHQzd2NVMUpaR05maWdFbUhBYnRYVTh4SjRuOA?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-16",
+          "lede": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+          "articleExcerpt": "Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock - MarketBeat. Blue Owl Capital (NYSE:OBDC) Director Buys 1,000 Shares of Company Stock MarketBeat",
+          "contentFingerprint": "d40f433086765572",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "OBDC is Blue Owl Capital Corp, Blue Owl's publicly traded BDC, so the article falls under its private-credit business. A director buying 1,000 shares is a small insider purchase, similar to stock-price news, with no financing, fundraising or legal event. Low importance.",
+            "llmReasonZh": "OBDC即Blue Owl Capital Corp，是Blue Owl旗下公开上市的BDC，因此该文章属于其私募信贷业务范畴。一名董事买入1,000股属于小规模内部人增持，性质类似股价新闻，不涉及融资、募资或法律事件。重要性低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.79,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.58
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.92,
+            "finalScore": 22.92,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-0bb4c75e56ba",
+          "title": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price - MarketBeat",
+          "titleZh": "Keefe, Bruyette & Woods下调Blue Owl Technology Finance (NYSE:OTF)股价预期 - MarketBeat",
+          "summary": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+          "summaryZh": "Keefe, Bruyette & Woods下调Blue Owl Technology Finance (NYSE:OTF)股价预期 MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWlltUHFpR283TnF2SHN3aU92d1hVcGFQVWQ0cm9PTlZPT1dxZWZZMkNTVWROcWNiWWdMdGcyMFRSWEk3elJPSXZRRFltdnNqbTBZTnRkLUhEa1NiVmJ3VTdzdjZjWDZMOTdGZjNYNXZ4dW96X1YwaWtiTFNkMEpJVzZ3ZmJvdXVaV3d2MmxDR09XazNXQ3d4aEJBbDZvMmZTQ1BUbjRBSGxaSzd2cXdqTG5wQ3dwYXFuR2xLamJURVdOVTJ4eXc2R05yR2o3Vy1qRWtXU2ZwcldCYzBoc01JdWN2ZTM1RGZoZVFxS2xpa19mQQ?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-16",
+          "lede": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+          "articleExcerpt": "Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price - MarketBeat. Keefe, Bruyette & Woods Has Lowered Expectations for Blue Owl Technology Finance (NYSE:OTF) Stock Price MarketBeat",
+          "contentFingerprint": "e4427678a510f3f9",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price-target cut on Blue Owl Technology Finance (OTF), a Blue Owl BDC and so a credit vehicle. This is stock price / analyst commentary only, with no financing, fundraising or legal event.",
+            "llmReasonZh": "分析师下调Blue Owl Technology Finance (OTF)目标价。该公司为Blue Owl旗下BDC，属于信贷投资工具。本文仅涉及股价及分析师评论，不涉及融资、募资或法律事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.37,
+            "finalScore": 22.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-58e6bdf1fb89",
+          "title": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). - Stock Titan",
+          "titleZh": "七家实体披露在Blue Owl Technology Finance (OTF)中拥有共同投票权 - Stock Titan",
+          "summary": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+          "summaryZh": "七家实体披露在Blue Owl Technology Finance (OTF)中拥有共同投票权。Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnBXNWNlSE1HQlFWbWZIUUVOeDFicEozNVg1U0txVWxOQXlLcmE5TlNjOGV3Z0VEbmw3QWpWX2FKWlMtM1dOejZXU1pYWURoR29Fdmg5YU1EbGhZMlFNekFZVFdBSlB3TnNBMUVxWG1Tbk9ONi1NTGE5QmdXQXd6QWpUbnNTd0FQdnViUnM2T1VxckJfeVcwcElyOW90NkVicXA0cVN0VnpMcWdDRVZGLTZhR0d2UkRIQnRnMXlyQlZTSGtpSzhKZG5R?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-16",
+          "lede": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+          "articleExcerpt": "Seven entities report shared voting power in Blue Owl Technology Finance (OTF). - Stock Titan. Seven entities report shared voting power in Blue Owl Technology Finance (OTF). Stock Titan",
+          "contentFingerprint": "e6a8aeff6d0bac7a",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blue Owl Technology Finance (OTF) is a Blue Owl BDC, so it falls under private credit. The article is a routine ownership filing (shared voting power disclosed by seven entities). It reports no financing, fundraising or legal event, so its importance is low.",
+            "llmReasonZh": "Blue Owl Technology Finance (OTF)是Blue Owl旗下的BDC，因此属于私募信贷范畴。该文章为一份常规持股申报（七家实体披露共同投票权），未涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.62,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 62,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.39,
+            "finalScore": 20.39,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-8450ceb2ca30",
+          "title": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com - Investing.com South Africa",
+          "titleZh": "Keefe Bruyette基于估值下调Blue Owl Technology Finance目标股价",
+          "summary": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+          "summaryZh": "Keefe Bruyette基于估值下调Blue Owl Technology Finance目标股价 By Investing.com Investing.com South Africa",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3V0a2UxcXMzWkhZZmh0d1NUS2VtY3lwVWd4SzV4SUZkSUdEU1FFRXlLMGdXVnBhd3cyQnJka1daU3pvYlc4cTJKLTRGQ2c2VUVYOWo4eE9kYXppbElkT2oyeTdWbHFhbnh1SE5KMU1tRjNGbEY0LWZLSHNxdnlaODAxaWo0ODduUmFMLTQzODBpMjdwdkFDOEpMb2JXbHJmQlRYVlZWVWdyQS1uVWFuSEk1ZXlUeFhETzRNT0FaSkcyMmdKVWdPMnNESk1Tc1Q2Wm0yYWZPMA?oc=5",
+          "source": "Investing.com South Africa",
+          "publishedAt": "2026-11-16",
+          "lede": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+          "articleExcerpt": "Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com - Investing.com South Africa. Keefe Bruyette cuts Blue Owl Technology Finance stock price target on valuation By Investing.com Investing.com South Africa",
+          "contentFingerprint": "26d40d534c3deb5f",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst price target cut on Blue Owl Technology Finance (OTF), a Blue Owl BDC and therefore credit-relevant. This is stock price / analyst commentary only, with no financing, fundraising or litigation event.",
+            "llmReasonZh": "分析师下调Blue Owl Technology Finance（OTF）目标价；OTF为Blue Owl旗下BDC，因此与信贷相关。本文仅涉及股价/分析师评论，不涉及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": [
+                  "financing"
+                ]
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com South Africa"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.12,
+            "finalScore": 20.12,
             "semanticEnabled": true
           }
         },
@@ -207661,6 +208493,120 @@
           }
         },
         {
+          "id": "2026-11-16-c572a5b23b45",
+          "title": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms - Alternatives Watch",
+          "titleZh": "Blackstone数据中心REIT完成与Amazon的50亿美元售后回租交易，预计中期选举后将面临更多障碍 - Alternatives Watch",
+          "summary": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+          "summaryZh": "Blackstone数据中心REIT完成与Amazon的50亿美元售后回租交易，预计中期选举后将面临更多障碍 Alternatives Watch",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeDFsSHhwVzRwV2F2b1N3WDc0MXEtY0RleHY4amlBWmNOS2JBQ1dUMFlDSDFhU0RSRWR6Nkcxb25pY21jMmRGSEdqeVdZWmxEXzFVU0syS2QtZkRFWENDbjFyT2tKdGg1SVkzdTRPWW5MWDFRR1FIanhnMXVmUDNPd1FfOWVLc0wtS1Z1dVVZQTZOQTlCYUIyZDItZUk4Z3BYX2d6aGdMY2k3Qmlra0pXY3JTekhkS1lwc3JUUVZoS1pmUmFVNHFYYi1NOUs2STYyclJJTHdzUVA2OUE?oc=5",
+          "source": "Alternatives Watch",
+          "publishedAt": "2026-11-16",
+          "lede": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+          "articleExcerpt": "Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms - Alternatives Watch. Blackstone data center REIT notches $5bn Amazon sale-leaseback, expects more hurdles after midterms Alternatives Watch",
+          "contentFingerprint": "684a776023864c2e",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "triple-net",
+            "data-center"
+          ],
+          "sectors": [
+            "triple-net",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "triple-net",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "A Blackstone data center REIT completed a $5bn sale-leaseback with Amazon. This is a lease-based financing for Amazon and fits the tracked net-lease and data-center strategies, though it is real-estate-vehicle activity rather than pure lending. The midterm 'hurdles' comment is commentary only.",
+            "llmReasonZh": "一只Blackstone旗下数据中心REIT完成了与Amazon的50亿美元售后回租交易。该交易属于Amazon的租赁式融资，符合所跟踪的净租赁及数据中心策略，但其性质为房地产投资工具的交易活动，而非纯粹的贷款业务。有关中期选举“障碍”的表述仅属评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.67,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "triple-net",
+                  "data-center"
+                ],
+                "semanticValue": 0.35
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Alternatives Watch"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 4.17,
+            "finalScore": 13.17,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-16-2011f595d657",
           "title": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International",
           "titleZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 - BeBeez International",
@@ -208066,17 +209012,17 @@
         },
         {
           "id": "2026-11-16-5814d3c8920c",
-          "title": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch",
+          "title": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties - Alternatives Watch",
           "titleZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 - Alternatives Watch",
-          "summary": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
+          "summary": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
           "summaryZh": "与Victory Capital合作及投资Focus，Apollo深化财富管理布局 Alternatives Watch",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpHYWxzN2gxQ2I0dzgyVnZ2ZjlyTHNKU0VHMlhFZjd1N3p6eTR6OVVid1JuR1YwdWxpVjRaLWMwNlNRV2VxN0xfcEVmNGZPZWlwWWU4N3A1dzRCazcwNU9mbnRsdjVnYWhJeFVJQ0s1U0RZelNITTNzMk5wc2VxZk5TaEFjZE5MY3FmRF8wd1oyUDR3N1JOUF9uYVREMkZoRGlyU21mZ3p6QnlVRTRqNDZuYzR4OWh4OHJaRlpONnk4dXJ1YU1V?oc=5",
           "source": "Alternatives Watch",
           "publishedAt": "2026-11-16",
-          "lede": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
-          "articleExcerpt": "Victory Capital partnership, Focus investment deepens Apollo wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepens Apollo wealth management ties Alternatives Watch",
-          "contentFingerprint": "dcc00e5efbf88e0e",
+          "lede": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
+          "articleExcerpt": "Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties - Alternatives Watch. Victory Capital partnership, Focus investment deepen Apollo’s wealth management ties Alternatives Watch",
+          "contentFingerprint": "d9385fc6d7ae3d51",
           "region": "Global",
           "gps": [
             "Apollo"
@@ -208091,12 +209037,8 @@
           "curation": "rss_filter",
           "excludedByClassifier": false,
           "classificationBreakdown": {
-            "keywordGps": [
-              "Apollo"
-            ],
-            "titleGps": [
-              "Apollo"
-            ],
+            "keywordGps": [],
+            "titleGps": [],
             "llmGps": [
               "Apollo"
             ],
@@ -208108,14 +209050,14 @@
             "llmEvents": [],
             "llmImportance": 0.5,
             "llmExclude": false,
-            "llmReason": "Apollo is expanding its wealth-management distribution through a Victory Capital partnership and an investment in Focus. These channels largely carry Apollo's private credit products to wealth clients, so this is credit-relevant routine manager news. The text is thin, and it does not confirm a specific financing or fund close.",
-            "llmReasonZh": "Apollo正通过与Victory Capital合作及投资Focus，扩大其财富管理分销渠道。这些渠道主要向财富管理客户销售Apollo的私募信贷产品，因此属于与信贷相关的常规管理人动态。文章内容较少，未证实任何具体融资或基金募集完成。"
+            "llmReason": "Apollo is expanding its wealth-channel distribution through a partnership with Victory Capital and an investment in Focus. Apollo's wealth-management push centers largely on its private credit products, so this is routine strategic manager news with a credit angle, not a loan, fund close or legal event. The text is only a headline, so the private-credit tag and the absence of a financing event are inferred rather than confirmed.",
+            "llmReasonZh": "Apollo正通过与Victory Capital合作以及投资Focus，扩大其财富渠道分销。Apollo的财富管理布局主要围绕其私募信贷产品展开，因此这属于带有信贷视角的常规管理人战略新闻，而非贷款、基金募集完成或法律事件。由于原文仅有标题，私募信贷标签及无融资事件的判断系推断得出，尚未得到证实。"
           },
           "rating": {
             "parts": {
               "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
+                "value": 0.7,
+                "code": "llm_tagged_gp",
                 "gps": [
                   "Apollo"
                 ]
@@ -208127,7 +209069,7 @@
                 "strategies": [
                   "private-credit"
                 ],
-                "semanticValue": 0.52
+                "semanticValue": 0.53
               },
               "event": {
                 "value": 0.35,
@@ -208144,7 +209086,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.4
+                "days": 0.7
               }
             },
             "weights": {
@@ -208154,13 +209096,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 60,
-            "retrievedAt": "2026-11-16T22:41:21.898456+00:00"
+            "score": 54,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
-            "semanticScore": 6.2,
-            "finalScore": 12.2,
+            "semanticScore": 6.33,
+            "finalScore": 12.33,
             "semanticEnabled": true
           }
         },
@@ -208261,6 +209203,112 @@
             "keywordScore": 6,
             "semanticScore": 6.13,
             "finalScore": 12.129999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-2a373d48585d",
+          "title": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports - marketscreener.com",
+          "titleZh": "彭博社：Apollo Global Management将向Focus Financial Partners投资25亿美元 - marketscreener.com",
+          "summary": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+          "summaryZh": "彭博社报道，Apollo Global Management将向Focus Financial Partners投资25亿美元。来源：marketscreener.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjhxX28yQlU1V2FjZFNVdWthRVhVTTg5RnhSQ3BNUWs1Mzd4WExZYlQtT0hqcHJVQk9KYzF3eHZISHlRUXBXNkRNbi1qSzMxRzJ4dFVRUFM0V29aOExGZFk1eWRwX0htUUNrRVZoZkpYOGRrWjhyY0V4bFZLUEVGb2VwZjRBNng3YkZhVjFDRnZseHlTSy14ZzViMVlZMmlLRHFOdUp2SDBsaTFlRENFM2ZZbm91NXBWTVg4Ykhld2lHOURjZmp5ZDhrTnRxMTE3OEJBNmoyQS1hXzFfdzh3?oc=5",
+          "source": "marketscreener.com",
+          "publishedAt": "2026-11-16",
+          "lede": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+          "articleExcerpt": "Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports - marketscreener.com. Apollo Global Management Investing $2.50 Billion in Focus Financial Partners, Bloomberg Reports marketscreener.com",
+          "contentFingerprint": "7b2c56ddb0b247a9",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Apollo is reportedly investing $2.5B in wealth-management firm Focus Financial Partners. The snippet does not say how the deal is structured. Apollo's large minority investments in sponsor-owned companies are typically hybrid or structured capital (preferred equity or debt) from its credit platform, so this is tentatively treated as a credit financing. If the article shows it is a pure equity buyout stake, it should be excluded.",
+            "llmReasonZh": "据报道，Apollo拟向财富管理公司Focus Financial Partners投资25亿美元。摘要未说明交易结构。Apollo对私募股权发起人旗下公司进行的大额少数股权投资，通常是由其信贷平台提供的混合型或结构化资本（优先股或债务），因此暂将此交易视为信贷融资。如文章显示该投资为纯股权收购持股，则应予以排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.77,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "marketscreener.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.18,
+            "finalScore": 12.18,
             "semanticEnabled": true
           }
         },
@@ -208368,25 +209416,247 @@
           }
         }
       ]
+    },
+    "2026-11-17": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [
+          {
+            "id": "2026-11-17-9f661814c4cd",
+            "title": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser",
+            "titleZh": "Victory Capital携手Apollo推出私募市场模型投资组合 - planadviser",
+            "summary": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "summaryZh": "Victory Capital携手Apollo推出私募市场模型投资组合 planadviser",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0liTFJhdHByZXAyeU5PakRUQV8tYkRUbmRVUlBTZDRxODJKamxmc2x5aHdSckxvU0NaREVrYU5uZW9WV2pRTEdPTTFaUTlzR2RsUjVJWnZfLXlPY0dhRHZSMUJzckpGSEZ6M3AxSHdoMG9GbmUxS0x1TDB1VnU5MmhJbThNZXpQTlltSUZaQzRGd1k0Wjd3cw?oc=5",
+            "source": "planadviser",
+            "publishedAt": "2026-11-17",
+            "lede": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "articleExcerpt": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser. Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+            "contentFingerprint": "b2f16f22756fa4d3",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Victory Capital partnering with Apollo on private markets model portfolios is routine distribution news. Apollo's private-markets offerings for wealth channels are largely credit-focused, so this is tentatively tagged private credit. It is not a financing or fundraising close.",
+              "llmReasonZh": "Victory Capital与Apollo就私募市场模型投资组合开展合作，属于常规分销类新闻。Apollo面向财富管理渠道的私募市场产品以信贷为主，因此暂将本条标记为私募信贷。本条并非融资或募资完成事项。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "planadviser"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 6.13,
+              "finalScore": 12.129999999999999,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-17-9f661814c4cd",
+          "title": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser",
+          "titleZh": "Victory Capital携手Apollo推出私募市场模型投资组合 - planadviser",
+          "summary": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "summaryZh": "Victory Capital携手Apollo推出私募市场模型投资组合 planadviser",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0liTFJhdHByZXAyeU5PakRUQV8tYkRUbmRVUlBTZDRxODJKamxmc2x5aHdSckxvU0NaREVrYU5uZW9WV2pRTEdPTTFaUTlzR2RsUjVJWnZfLXlPY0dhRHZSMUJzckpGSEZ6M3AxSHdoMG9GbmUxS0x1TDB1VnU5MmhJbThNZXpQTlltSUZaQzRGd1k0Wjd3cw?oc=5",
+          "source": "planadviser",
+          "publishedAt": "2026-11-17",
+          "lede": "Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "articleExcerpt": "Victory Capital Taps Apollo for Private Markets Model Portfolios - planadviser. Victory Capital Taps Apollo for Private Markets Model Portfolios planadviser",
+          "contentFingerprint": "b2f16f22756fa4d3",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Victory Capital partnering with Apollo on private markets model portfolios is routine distribution news. Apollo's private-markets offerings for wealth channels are largely credit-focused, so this is tentatively tagged private credit. It is not a financing or fundraising close.",
+            "llmReasonZh": "Victory Capital与Apollo就私募市场模型投资组合开展合作，属于常规分销类新闻。Apollo面向财富管理渠道的私募市场产品以信贷为主，因此暂将本条标记为私募信贷。本条并非融资或募资完成事项。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "planadviser"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-17T04:54:53.099267+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 6.13,
+            "finalScore": 12.129999999999999,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 0,
-      "selected": 0,
-      "status": "error",
+      "count": 21,
+      "selected": 6,
+      "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
       "queries": [
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
-      "errorReason": "HTTP Error 429: Too Many Requests"
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
+      "errorReason": ""
     },
     {
       "firm": "KKR",
-      "count": 55,
+      "count": 62,
       "selected": 2,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
@@ -208394,7 +209664,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
@@ -208407,12 +209677,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 7,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -208420,38 +209690,38 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 0,
+      "count": 2,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
-      "errorReason": "HTTP Error 429: Too Many Requests"
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Guggenheim",
       "count": 0,
       "selected": 0,
-      "status": "error",
+      "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
-      "errorReason": "HTTP Error 429: Too Many Requests"
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
+      "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 6,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -208459,7 +209729,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
@@ -208472,25 +209742,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "Bain Capital",
-      "count": 13,
-      "selected": 2,
+      "count": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 89,
+      "count": 90,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -208498,12 +209768,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 24,
+      "count": 22,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -208511,38 +209781,38 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 5,
-      "selected": 1,
-      "status": "ok",
+      "count": 0,
+      "selected": 0,
+      "status": "error",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
-      "errorReason": ""
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "Golub",
-      "count": 3,
-      "selected": 1,
-      "status": "ok",
+      "count": 0,
+      "selected": 0,
+      "status": "error",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
-      "errorReason": ""
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
+      "errorReason": "HTTP Error 429: Too Many Requests"
     },
     {
       "firm": "CVC",
-      "count": 7,
+      "count": 12,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -208550,12 +209820,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 30,
+      "count": 26,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -208563,12 +209833,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 453,
+      "count": 573,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -208585,9 +209855,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-16T22:41:21.898456+00:00",
+      "asOf": "2026-11-17T04:54:53.099267+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-16T22:41:21.898456+00:00"
+  "checkedAt": "2026-11-17T04:54:53.099267+00:00"
 }
