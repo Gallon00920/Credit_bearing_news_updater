@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-18T14:01:43.596634+00:00",
+  "updatedAt": "2026-11-18T22:20:13.455377+00:00",
   "scope": {
     "regions": [
       "US",
@@ -19556,7 +19556,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -19580,7 +19580,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -216401,7 +216401,118 @@
     },
     "2026-11-18": {
       "byGp": {
-        "Blue Owl": [],
+        "Blue Owl": [
+          {
+            "id": "2026-11-18-f0a5a75c6904",
+            "title": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan - The Business Journals",
+            "titleZh": "Blue Owl Capital获九位数贷款后以7.795亿美元收购Gainesville数据中心 - The Business Journals",
+            "summary": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+            "summaryZh": "Blue Owl Capital获九位数贷款后以7.795亿美元收购Gainesville数据中心 The Business Journals",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEpjTVpsSEdveFdrWmZQOThRc0tNVWhNRlNteS1CbXNaQWRGS0pGcHNtSm13SHpmelBQUzdKT2xRR3QtSnJuVzlDUmZDdlV4d1ZCU2Nhd0F2eGZhRUhRVXFfZmhjVlpGNXpMbEdZQ0d0UTVEd28tNUdfNFdJNUtpOEVCQ05rNmVhNjdRN1FJOW5qbWNZNUZZS09qVm5WV05LN0E?oc=5",
+            "source": "The Business Journals",
+            "publishedAt": "2026-11-18",
+            "lede": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+            "articleExcerpt": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan - The Business Journals. Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+            "contentFingerprint": "4435a2b37c11a5d5",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "data-center"
+            ],
+            "sectors": [
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blue Owl acquired a Gainesville data center for $779.5M backed by a nine-figure loan. The asset purchase alone sits in its real-assets/net-lease platform, but the secured acquisition financing gives it a credit angle.",
+              "llmReasonZh": "Blue Owl以7.795亿美元收购Gainesville一处数据中心，交易由一笔九位数贷款提供支持。该资产收购本身属于其实物资产/净租赁平台，但有担保的收购融资使其具有信贷层面的关联。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "data-center"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The Business Journals"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.06,
+              "finalScore": 22.06,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "KKR": [
           {
             "id": "2026-11-18-82b0ab8c2ba0",
@@ -216926,6 +217037,216 @@
               "finalScore": 10.940000000000001,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-1ce4b9c5afc1",
+            "title": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) - Seeking Alpha",
+            "titleZh": "KKR Real Estate Finance：杠杆率仍然过高（NYSE:KREF）- Seeking Alpha",
+            "summary": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+            "summaryZh": "KKR Real Estate Finance：杠杆率仍然过高（NYSE:KREF）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZW85UlFwcTBud0RVdWdjdkl4dUF4a1V0Ulphek5PN3NWc3BpSzV3Rmd5a1BQYmZ2QVUwVFUyU284TTE3cVJ1ZXVkSnF2UkZ5Q21zTC03NFJENUlmOVZTSm9qcnMxRTlWWkdxdjBqRW1OVzFqTzNPTTdPZndVcU5RQ3ZocEszc2c4OXBETmtxV2RFV0lR?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-18",
+            "lede": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+            "articleExcerpt": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) - Seeking Alpha. KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+            "contentFingerprint": "74a069bd6a164a5b",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "KREF is KKR's commercial real estate mortgage REIT, so this is KKR credit/lending exposure. The piece is a Seeking Alpha analyst opinion about leverage, so importance is analyst-commentary level and there is no transaction, fundraise or lawsuit.",
+              "llmReasonZh": "KREF是KKR旗下的商业地产抵押贷款REIT，因此本文涉及KKR的信贷/贷款敞口。该文为Seeking Alpha分析师关于杠杆率的观点文章，重要性属于分析师评论级别，不涉及交易、募资或诉讼。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 5.29,
+              "finalScore": 21.29,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-c337135f0b20",
+            "title": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio - citybiz",
+            "titleZh": "Litmus Music获Carlyle和KKR 4.75亿美元投资，扩充音乐版权组合 - citybiz",
+            "summary": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+            "summaryZh": "Litmus Music获Carlyle和KKR 4.75亿美元投资，扩充音乐版权组合 citybiz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzJTZzdfb09PaWYwVXFUNVpUZWR2MzluYjJSNzZ2Y1M3bW94NU1fV2xfVmM5Y01kQTA3V2U0VEU3eGRzdHdGMjBpekZWdjdYNDZFZWotbGJkUDVWcE52Y3ZTcXhQMDJIZXJYYUxuMlhJV0NYeGRhVW1qM3pBUmNJSkQ0anpnNk54Y1MzTWVxUDBKNkhVNVI2OFZQQ2pWeDN5ZzVLZWFDNk9FWXdaSmJjTjJxdjY2elIwLXFuYTdLVXBDQjhINlVPUVREUnhwS3JYUXc?oc=5",
+            "source": "citybiz",
+            "publishedAt": "2026-11-18",
+            "lede": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+            "articleExcerpt": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio - citybiz. Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+            "contentFingerprint": "c8f373b05d5ea2e5",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "KKR (with non-tracked Carlyle) put $475M into Litmus Music to expand its music-rights portfolio. Music-royalty deals are commonly done through KKR's asset-based finance and credit platforms, so this is plausibly credit/ABF exposure. However, the snippet does not say whether KKR invested debt or equity. If it turns out to be an equity stake from a non-credit fund, the article should be excluded.",
+              "llmReasonZh": "KKR（与非追踪机构Carlyle一同）向Litmus Music投资4.75亿美元，用于扩充其音乐版权组合。音乐版税类交易通常通过KKR的资产支持融资（ABF）及信贷平台完成，因此这可能属于信贷/ABF敞口。但摘要并未说明KKR的投资属于债权还是股权。若最终确认为非信贷基金的股权投资，则应排除该文章。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "citybiz"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.95,
+              "finalScore": 12.95,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -217029,7 +217350,338 @@
             }
           }
         ],
-        "Neuberger": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-18-d1658a47a4c0",
+            "title": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - PR Newswire",
+            "titleZh": "Jeeves宣布获得3亿美元融资，引入Neuberger Berman助力全球快速扩张 - PR Newswire",
+            "summary": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+            "summaryZh": "Jeeves宣布获得3亿美元融资，引入Neuberger Berman助力全球快速扩张 PR Newswire",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalJCaXdUSGJwZlA1cFdUTFJRVm5GaUFkRUhhVDZwTDhTbWM4R3pENHNwY3VTNkJZN2xaeFdsWFY5cTAtUXVsR184cy1ibFhyZS1aWDY4bW5wWTJtYVBMX0xaZWxlekNHdUZHeGJLWHh0cVdMcjdKM1VJcVVxVGxrRnBBWC0tbHgyNzQ5Y2dHZnB5Xy1YaGQzam5Cb3FPeXdtQ2QyQ2txZXRqRU5wd041TGh0cF91a2ZZY0xtc2dIcjJpemVjaGR6VEFtbzZaY2dWOGpTbDZsMm1CMklNYmc?oc=5",
+            "source": "PR Newswire",
+            "publishedAt": "2026-11-18",
+            "lede": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+            "articleExcerpt": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - PR Newswire. Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+            "contentFingerprint": "12606922dbd4233f",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Fintech Jeeves announced $300M in financing with Neuberger Berman added as a provider. This is likely a debt or credit facility backed by card or spend receivables, which makes it ordinary private-credit/ABF lending activity. Inferred from the headline only, since the article text gives no further detail.",
+              "llmReasonZh": "金融科技公司Jeeves宣布获得3亿美元融资，Neuberger Berman新加入成为资金提供方。该融资可能是以信用卡或消费支出应收账款为支持的债务或信贷额度，因此属于常规的私募信贷/资产支持融资（ABF）放贷活动。此判断仅根据标题推断，文章正文未提供更多细节。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.4,
+                  "code": "tier_press_release",
+                  "source": "PR Newswire"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 71,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 20,
+              "semanticScore": 5.89,
+              "finalScore": 25.89,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-d771627b35ec",
+            "title": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion - Dealroom",
+            "titleZh": "Jeeves获Neuberger Berman提供$300M债务融资以支持扩张 - Dealroom",
+            "summary": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+            "summaryZh": "Jeeves获Neuberger Berman提供$300M债务融资以支持扩张 Dealroom",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWExWa0lOSWZneTk5YnJkajIxcENONG5IUldIWkl2MHFDZnJDOURZNjRzQ0FNZTMzSVVqZnZVTFotNVRhZDd4YnVHUVJUbzFZUm1IZFBJNm9DSGJ3OVJqVWw0T0lZRUNoanBIdkZhZjRETkpwTXYzLWt6S3NOVFo5QU9XMjVEVGdpbFdka0stSkdmSkg4MmVYNlRBTWZlU0EwRXhEQjZ1dVg?oc=5",
+            "source": "Dealroom",
+            "publishedAt": "2026-11-18",
+            "lede": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+            "articleExcerpt": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion - Dealroom. Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+            "contentFingerprint": "f91d39cc08ece7fb",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman provided a $300M debt facility to fintech Jeeves. This is a direct lending deal by a tracked GP's credit business. Facilities for card and spend-management fintechs are typically asset-backed by receivables. It is an ordinary financing event.",
+              "llmReasonZh": "Neuberger Berman向金融科技公司Jeeves提供了$300M债务融资。这是一笔由受跟踪GP旗下信贷业务开展的直接贷款交易。面向企业卡及支出管理类金融科技公司的融资通常以应收账款作为资产支持。这属于常规融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Dealroom"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.12,
+              "finalScore": 23.12,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-745b146d66c8",
+            "title": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - TradingView",
+            "titleZh": "Jeeves宣布获得3亿美元融资，Neuberger Berman加入以推动全球快速扩张 - TradingView",
+            "summary": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+            "summaryZh": "Jeeves宣布获得3亿美元融资，Neuberger Berman加入以推动全球快速扩张 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWmRWdFNOeXRHVFE0REE5c0tGMUNWUlBucHgzY0RoVmdPNkpvcHliRU15Qm9hNG5Gdk5HR2xUMFoxblVHZ0F1T2c5Z3hBUVV2SVdBZUtnbC00bi1oUW10SVRpdllzOUNLX25oX2hvTHFIcjhZdkl2OEVadm4zOUNvcHdudVpHSllPS1hWeXBzOC14TkhidmlYWXRiQ3RVWUxCczJjc0ZyYnUwS3hsdEJWbkJrYlFNaU9RckpLMFA1NldzcW9wQ01OWEI4em1JMTBUZk5EU0szSGNBdGdoS011STQ2U09TNjVwR01aYlJvWTlxXzFr?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-18",
+            "lede": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+            "articleExcerpt": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - TradingView. Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+            "contentFingerprint": "eaa7fd11d276a9c8",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Fintech Jeeves announced $300M in financing with Neuberger Berman joining as a capital provider. Fintech card and spend-management financings like this are typically debt or credit facilities, which fits Neuberger's private credit / asset-based lending business. The snippet doesn't confirm whether it is debt or equity, so the strategy tags are an inference. Treated as ordinary financing.",
+              "llmReasonZh": "金融科技公司Jeeves宣布获得3亿美元融资，Neuberger Berman作为资金提供方加入。此类金融科技支付卡及支出管理类融资通常为债务或信贷额度，与Neuberger的私募信贷/资产支持贷款业务相契合。摘要未确认该融资属于债务还是股权，因此策略标签系推断得出。按普通融资处理。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.6,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.02,
+              "finalScore": 23.02,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "BasePoint": [],
         "Bain Capital": [],
         "Blackstone": [
@@ -217263,6 +217915,110 @@
               "keywordScore": 26,
               "semanticScore": 4.91,
               "finalScore": 30.91,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-d2b0fc548bf2",
+            "title": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money - Yahoo! Finance Canada",
+            "titleZh": "Blackstone的Chant称结构化交易适合保险资金 - Yahoo! Finance Canada",
+            "summary": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+            "summaryZh": "Blackstone的Chant称结构化交易适合保险资金 Yahoo! Finance Canada",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1VXQUtjQUI1QmF1aThINHRwWmFpSkV2Y2dHVHBlSVA3ZjVMS0pMVW5VZ0VjRG04a2RabEx0VzBqdUZwXzlac3VEV3pnYkNwdmdlU2pzZGlYcUdScllxYUlrblZMMmRDVmM2ZExRUHkzQ0ZUTndDcnprSk9zZ1M4UTZVQ25NV1JZM05wX083R1pUN2M?oc=5",
+            "source": "Yahoo! Finance Canada",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+            "articleExcerpt": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money - Yahoo! Finance Canada. Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+            "contentFingerprint": "2710f790fb0209d9",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "structured"
+            ],
+            "sectors": [
+              "structured"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "structured"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "A Blackstone credit executive (Chant) comments that structured credit deals suit insurance capital. This is relevant to Blackstone's credit and structured-finance business, but it is commentary with no specific transaction, fundraise or legal event, so it is routine manager news.",
+              "llmReasonZh": "Blackstone一位信贷高管（Chant）表示，结构化信贷交易适合保险资金。这与Blackstone的信贷及结构化融资业务相关，但仅为评论性内容，未涉及具体交易、募资或法律事件，因此属于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.58,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo! Finance Canada"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 64,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.44,
+              "finalScore": 19.44,
               "semanticEnabled": true
             }
           }
@@ -217501,7 +218257,111 @@
           }
         ],
         "TPG": [],
-        "Golub": [],
+        "Golub": [
+          {
+            "id": "2026-11-18-0c9491ea1371",
+            "title": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus",
+            "titleZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… - GuruFocus",
+            "summary": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+            "summaryZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlJmaEhEb292cEpReUM3d3lRUEw3eTg2dUQybUhfaGRwQW9yMnZFc2JVclZZWmVqc3A0bC1ZOExUcGVwVmJOQ2NvejZoLV9Ld2lJQVU4M0tyUTkzNTFYcjE5am12VzBEUWF4QmpZLUExanppUGJRTFQwcVEwanBiUWlRY0l5c0lSN0ZPYVFYek1WYV9tOWFMOWEwSXBNS0xWTUNvVTYzT3Eyem4ySkk0N2xQN09yUFNPTGgwTl8wZw?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-18",
+            "lede": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+            "articleExcerpt": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus. Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+            "contentFingerprint": "b1cff4c74866c9b3",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is a publicly traded direct-lending BDC, so this is core credit exposure. The headline points to a challenging Q4 and a possible dividend cut, which signals credit or earnings stress that credit investors should watch. No lawsuit, financing or fundraising event applies.",
+              "llmReasonZh": "Golub Capital BDC 是一家公开上市的直接贷款型 BDC，因此属于核心信贷敞口。标题显示其第四季度表现承压并可能削减股息，这预示着信用或盈利方面的压力，值得信贷投资者关注。不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.78,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.56
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.4
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.69,
+              "finalScore": 20.69,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CVC": [
           {
             "id": "2026-11-18-a69c65603f13",
@@ -217630,6 +218490,116 @@
         "Canyon": []
       },
       "items": [
+        {
+          "id": "2026-11-18-f0a5a75c6904",
+          "title": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan - The Business Journals",
+          "titleZh": "Blue Owl Capital获九位数贷款后以7.795亿美元收购Gainesville数据中心 - The Business Journals",
+          "summary": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+          "summaryZh": "Blue Owl Capital获九位数贷款后以7.795亿美元收购Gainesville数据中心 The Business Journals",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEpjTVpsSEdveFdrWmZQOThRc0tNVWhNRlNteS1CbXNaQWRGS0pGcHNtSm13SHpmelBQUzdKT2xRR3QtSnJuVzlDUmZDdlV4d1ZCU2Nhd0F2eGZhRUhRVXFfZmhjVlpGNXpMbEdZQ0d0UTVEd28tNUdfNFdJNUtpOEVCQ05rNmVhNjdRN1FJOW5qbWNZNUZZS09qVm5WV05LN0E?oc=5",
+          "source": "The Business Journals",
+          "publishedAt": "2026-11-18",
+          "lede": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+          "articleExcerpt": "Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan - The Business Journals. Blue Owl Capital snags Gainesville data center for $779.5M after securing nine-figure loan The Business Journals",
+          "contentFingerprint": "4435a2b37c11a5d5",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "data-center"
+          ],
+          "sectors": [
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blue Owl acquired a Gainesville data center for $779.5M backed by a nine-figure loan. The asset purchase alone sits in its real-assets/net-lease platform, but the secured acquisition financing gives it a credit angle.",
+            "llmReasonZh": "Blue Owl以7.795亿美元收购Gainesville一处数据中心，交易由一笔九位数贷款提供支持。该资产收购本身属于其实物资产/净租赁平台，但有担保的收购融资使其具有信贷层面的关联。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "data-center"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The Business Journals"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.06,
+            "finalScore": 22.06,
+            "semanticEnabled": true
+          }
+        },
         {
           "id": "2026-11-18-82b0ab8c2ba0",
           "title": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor - Music Business Worldwide",
@@ -218155,6 +219125,216 @@
           }
         },
         {
+          "id": "2026-11-18-1ce4b9c5afc1",
+          "title": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) - Seeking Alpha",
+          "titleZh": "KKR Real Estate Finance：杠杆率仍然过高（NYSE:KREF）- Seeking Alpha",
+          "summary": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+          "summaryZh": "KKR Real Estate Finance：杠杆率仍然过高（NYSE:KREF）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZW85UlFwcTBud0RVdWdjdkl4dUF4a1V0Ulphek5PN3NWc3BpSzV3Rmd5a1BQYmZ2QVUwVFUyU284TTE3cVJ1ZXVkSnF2UkZ5Q21zTC03NFJENUlmOVZTSm9qcnMxRTlWWkdxdjBqRW1OVzFqTzNPTTdPZndVcU5RQ3ZocEszc2c4OXBETmtxV2RFV0lR?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-18",
+          "lede": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+          "articleExcerpt": "KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) - Seeking Alpha. KKR Real Estate Finance: Leverage Remains Too High (NYSE:KREF) Seeking Alpha",
+          "contentFingerprint": "74a069bd6a164a5b",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "KREF is KKR's commercial real estate mortgage REIT, so this is KKR credit/lending exposure. The piece is a Seeking Alpha analyst opinion about leverage, so importance is analyst-commentary level and there is no transaction, fundraise or lawsuit.",
+            "llmReasonZh": "KREF是KKR旗下的商业地产抵押贷款REIT，因此本文涉及KKR的信贷/贷款敞口。该文为Seeking Alpha分析师关于杠杆率的观点文章，重要性属于分析师评论级别，不涉及交易、募资或诉讼。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 5.29,
+            "finalScore": 21.29,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-c337135f0b20",
+          "title": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio - citybiz",
+          "titleZh": "Litmus Music获Carlyle和KKR 4.75亿美元投资，扩充音乐版权组合 - citybiz",
+          "summary": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+          "summaryZh": "Litmus Music获Carlyle和KKR 4.75亿美元投资，扩充音乐版权组合 citybiz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzJTZzdfb09PaWYwVXFUNVpUZWR2MzluYjJSNzZ2Y1M3bW94NU1fV2xfVmM5Y01kQTA3V2U0VEU3eGRzdHdGMjBpekZWdjdYNDZFZWotbGJkUDVWcE52Y3ZTcXhQMDJIZXJYYUxuMlhJV0NYeGRhVW1qM3pBUmNJSkQ0anpnNk54Y1MzTWVxUDBKNkhVNVI2OFZQQ2pWeDN5ZzVLZWFDNk9FWXdaSmJjTjJxdjY2elIwLXFuYTdLVXBDQjhINlVPUVREUnhwS3JYUXc?oc=5",
+          "source": "citybiz",
+          "publishedAt": "2026-11-18",
+          "lede": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+          "articleExcerpt": "Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio - citybiz. Litmus Music Secures $475 Million Investment From Carlyle and KKR to Expand Music Rights Portfolio citybiz",
+          "contentFingerprint": "c8f373b05d5ea2e5",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "KKR (with non-tracked Carlyle) put $475M into Litmus Music to expand its music-rights portfolio. Music-royalty deals are commonly done through KKR's asset-based finance and credit platforms, so this is plausibly credit/ABF exposure. However, the snippet does not say whether KKR invested debt or equity. If it turns out to be an equity stake from a non-credit fund, the article should be excluded.",
+            "llmReasonZh": "KKR（与非追踪机构Carlyle一同）向Litmus Music投资4.75亿美元，用于扩充其音乐版权组合。音乐版税类交易通常通过KKR的资产支持融资（ABF）及信贷平台完成，因此这可能属于信贷/ABF敞口。但摘要并未说明KKR的投资属于债权还是股权。若最终确认为非信贷基金的股权投资，则应排除该文章。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "citybiz"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.95,
+            "finalScore": 12.95,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-1aef84e96bf2",
           "title": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha",
           "titleZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）- Seeking Alpha",
@@ -218247,6 +219427,336 @@
             "keywordScore": 3,
             "semanticScore": 4.79,
             "finalScore": 7.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-d1658a47a4c0",
+          "title": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - PR Newswire",
+          "titleZh": "Jeeves宣布获得3亿美元融资，引入Neuberger Berman助力全球快速扩张 - PR Newswire",
+          "summary": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+          "summaryZh": "Jeeves宣布获得3亿美元融资，引入Neuberger Berman助力全球快速扩张 PR Newswire",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalJCaXdUSGJwZlA1cFdUTFJRVm5GaUFkRUhhVDZwTDhTbWM4R3pENHNwY3VTNkJZN2xaeFdsWFY5cTAtUXVsR184cy1ibFhyZS1aWDY4bW5wWTJtYVBMX0xaZWxlekNHdUZHeGJLWHh0cVdMcjdKM1VJcVVxVGxrRnBBWC0tbHgyNzQ5Y2dHZnB5Xy1YaGQzam5Cb3FPeXdtQ2QyQ2txZXRqRU5wd041TGh0cF91a2ZZY0xtc2dIcjJpemVjaGR6VEFtbzZaY2dWOGpTbDZsMm1CMklNYmc?oc=5",
+          "source": "PR Newswire",
+          "publishedAt": "2026-11-18",
+          "lede": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+          "articleExcerpt": "Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - PR Newswire. Jeeves Announces $300M in Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion PR Newswire",
+          "contentFingerprint": "12606922dbd4233f",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Fintech Jeeves announced $300M in financing with Neuberger Berman added as a provider. This is likely a debt or credit facility backed by card or spend receivables, which makes it ordinary private-credit/ABF lending activity. Inferred from the headline only, since the article text gives no further detail.",
+            "llmReasonZh": "金融科技公司Jeeves宣布获得3亿美元融资，Neuberger Berman新加入成为资金提供方。该融资可能是以信用卡或消费支出应收账款为支持的债务或信贷额度，因此属于常规的私募信贷/资产支持融资（ABF）放贷活动。此判断仅根据标题推断，文章正文未提供更多细节。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.4,
+                "code": "tier_press_release",
+                "source": "PR Newswire"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 71,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 20,
+            "semanticScore": 5.89,
+            "finalScore": 25.89,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-d771627b35ec",
+          "title": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion - Dealroom",
+          "titleZh": "Jeeves获Neuberger Berman提供$300M债务融资以支持扩张 - Dealroom",
+          "summary": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+          "summaryZh": "Jeeves获Neuberger Berman提供$300M债务融资以支持扩张 Dealroom",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWExWa0lOSWZneTk5YnJkajIxcENONG5IUldIWkl2MHFDZnJDOURZNjRzQ0FNZTMzSVVqZnZVTFotNVRhZDd4YnVHUVJUbzFZUm1IZFBJNm9DSGJ3OVJqVWw0T0lZRUNoanBIdkZhZjRETkpwTXYzLWt6S3NOVFo5QU9XMjVEVGdpbFdka0stSkdmSkg4MmVYNlRBTWZlU0EwRXhEQjZ1dVg?oc=5",
+          "source": "Dealroom",
+          "publishedAt": "2026-11-18",
+          "lede": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+          "articleExcerpt": "Jeeves lands $300M debt facility from Neuberger Berman to fund expansion - Dealroom. Jeeves lands $300M debt facility from Neuberger Berman to fund expansion Dealroom",
+          "contentFingerprint": "f91d39cc08ece7fb",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman provided a $300M debt facility to fintech Jeeves. This is a direct lending deal by a tracked GP's credit business. Facilities for card and spend-management fintechs are typically asset-backed by receivables. It is an ordinary financing event.",
+            "llmReasonZh": "Neuberger Berman向金融科技公司Jeeves提供了$300M债务融资。这是一笔由受跟踪GP旗下信贷业务开展的直接贷款交易。面向企业卡及支出管理类金融科技公司的融资通常以应收账款作为资产支持。这属于常规融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Dealroom"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.12,
+            "finalScore": 23.12,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-745b146d66c8",
+          "title": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - TradingView",
+          "titleZh": "Jeeves宣布获得3亿美元融资，Neuberger Berman加入以推动全球快速扩张 - TradingView",
+          "summary": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+          "summaryZh": "Jeeves宣布获得3亿美元融资，Neuberger Berman加入以推动全球快速扩张 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWmRWdFNOeXRHVFE0REE5c0tGMUNWUlBucHgzY0RoVmdPNkpvcHliRU15Qm9hNG5Gdk5HR2xUMFoxblVHZ0F1T2c5Z3hBUVV2SVdBZUtnbC00bi1oUW10SVRpdllzOUNLX25oX2hvTHFIcjhZdkl2OEVadm4zOUNvcHdudVpHSllPS1hWeXBzOC14TkhidmlYWXRiQ3RVWUxCczJjc0ZyYnUwS3hsdEJWbkJrYlFNaU9RckpLMFA1NldzcW9wQ01OWEI4em1JMTBUZk5EU0szSGNBdGdoS011STQ2U09TNjVwR01aYlJvWTlxXzFr?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-18",
+          "lede": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+          "articleExcerpt": "Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion - TradingView. Jeeves Announces $300 Mln In Financing, Adding Neuberger Berman To Fuel Rapid Global Expansion TradingView",
+          "contentFingerprint": "eaa7fd11d276a9c8",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Fintech Jeeves announced $300M in financing with Neuberger Berman joining as a capital provider. Fintech card and spend-management financings like this are typically debt or credit facilities, which fits Neuberger's private credit / asset-based lending business. The snippet doesn't confirm whether it is debt or equity, so the strategy tags are an inference. Treated as ordinary financing.",
+            "llmReasonZh": "金融科技公司Jeeves宣布获得3亿美元融资，Neuberger Berman作为资金提供方加入。此类金融科技支付卡及支出管理类融资通常为债务或信贷额度，与Neuberger的私募信贷/资产支持贷款业务相契合。摘要未确认该融资属于债务还是股权，因此策略标签系推断得出。按普通融资处理。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.6,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.02,
+            "finalScore": 23.02,
             "semanticEnabled": true
           }
         },
@@ -218484,6 +219994,110 @@
           }
         },
         {
+          "id": "2026-11-18-d2b0fc548bf2",
+          "title": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money - Yahoo! Finance Canada",
+          "titleZh": "Blackstone的Chant称结构化交易适合保险资金 - Yahoo! Finance Canada",
+          "summary": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+          "summaryZh": "Blackstone的Chant称结构化交易适合保险资金 Yahoo! Finance Canada",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1VXQUtjQUI1QmF1aThINHRwWmFpSkV2Y2dHVHBlSVA3ZjVMS0pMVW5VZ0VjRG04a2RabEx0VzBqdUZwXzlac3VEV3pnYkNwdmdlU2pzZGlYcUdScllxYUlrblZMMmRDVmM2ZExRUHkzQ0ZUTndDcnprSk9zZ1M4UTZVQ25NV1JZM05wX083R1pUN2M?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-11-18",
+          "lede": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+          "articleExcerpt": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money - Yahoo! Finance Canada. Blackstone's Chant Says Structured Deals Are Fit for Insurance Money Yahoo! Finance Canada",
+          "contentFingerprint": "2710f790fb0209d9",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "structured"
+          ],
+          "sectors": [
+            "structured"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "structured"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "A Blackstone credit executive (Chant) comments that structured credit deals suit insurance capital. This is relevant to Blackstone's credit and structured-finance business, but it is commentary with no specific transaction, fundraise or legal event, so it is routine manager news.",
+            "llmReasonZh": "Blackstone一位信贷高管（Chant）表示，结构化信贷交易适合保险资金。这与Blackstone的信贷及结构化融资业务相关，但仅为评论性内容，未涉及具体交易、募资或法律事件，因此属于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.58,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo! Finance Canada"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 64,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.44,
+            "finalScore": 19.44,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-f75b62703cde",
           "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
           "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
@@ -218590,6 +220204,109 @@
             "finalScore": 26.73,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-18-0c9491ea1371",
+          "title": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus",
+          "titleZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… - GuruFocus",
+          "summary": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+          "summaryZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlJmaEhEb292cEpReUM3d3lRUEw3eTg2dUQybUhfaGRwQW9yMnZFc2JVclZZWmVqc3A0bC1ZOExUcGVwVmJOQ2NvejZoLV9Ld2lJQVU4M0tyUTkzNTFYcjE5am12VzBEUWF4QmpZLUExanppUGJRTFQwcVEwanBiUWlRY0l5c0lSN0ZPYVFYek1WYV9tOWFMOWEwSXBNS0xWTUNvVTYzT3Eyem4ySkk0N2xQN09yUFNPTGgwTl8wZw?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-18",
+          "lede": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+          "articleExcerpt": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus. Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su GuruFocus",
+          "contentFingerprint": "b1cff4c74866c9b3",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is a publicly traded direct-lending BDC, so this is core credit exposure. The headline points to a challenging Q4 and a possible dividend cut, which signals credit or earnings stress that credit investors should watch. No lawsuit, financing or fundraising event applies.",
+            "llmReasonZh": "Golub Capital BDC 是一家公开上市的直接贷款型 BDC，因此属于核心信贷敞口。标题显示其第四季度表现承压并可能削减股息，这预示着信用或盈利方面的压力，值得信贷投资者关注。不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.78,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.56
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.4
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-18T21:01:43.271561+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.69,
+            "finalScore": 20.69,
+            "semanticEnabled": true
+          }
         }
       ]
     }
@@ -218597,7 +220314,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 24,
+      "count": 28,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -218605,7 +220322,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
@@ -218618,12 +220335,12 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 7,
+      "count": 6,
       "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -218631,7 +220348,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
@@ -218644,25 +220361,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 5,
-      "selected": 0,
+      "count": 4,
+      "selected": 1,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 7,
+      "count": 8,
       "selected": 2,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -218670,20 +220387,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
       "count": 8,
-      "selected": 2,
+      "selected": 5,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
@@ -218696,12 +220413,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 17,
+      "count": 20,
       "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -218709,12 +220426,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 99,
+      "count": 102,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -218722,12 +220439,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 27,
+      "count": 29,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -218735,12 +220452,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 8,
+      "count": 9,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -218748,12 +220465,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 11,
+      "count": 13,
       "selected": 6,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -218761,12 +220478,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 21,
+      "count": 24,
       "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -218774,12 +220491,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 24,
+      "count": 22,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -218787,12 +220504,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 701,
+      "count": 654,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -218809,9 +220526,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-18T12:40:24.111316+00:00",
+      "asOf": "2026-11-18T21:01:43.271561+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-18T12:40:24.111316+00:00"
+  "checkedAt": "2026-11-18T21:01:43.271561+00:00"
 }
