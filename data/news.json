@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-18T05:16:37.391047+00:00",
+  "updatedAt": "2026-11-18T14:01:43.596634+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7146,7 +7146,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -19556,7 +19556,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -19580,7 +19580,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，特别是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体而言是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -205817,6 +205817,98 @@
               "finalScore": 7.37,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-16-7dad792da8f6",
+            "title": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders - Stock Titan",
+            "titleZh": "Neuberger Municipal Fund将于Dec. 15向持有人派发每股$0.05417 - Stock Titan",
+            "summary": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+            "summaryZh": "Neuberger Municipal Fund将于Dec. 15向持有人派发每股$0.05417 Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeS1tbjFKcm16Tm5IdGVYazlWZGwxdGNtSDZJMV9TQkJmN0J5SHZBN1EwWUVMc2x1MUp5ZVRfRng3X3lvTTQ0MkhSU1VCOGstbG50LVE3RFNRM3RlZ2NoREwzS3FWOU9FdGVvR085R29iZndDSm5nYUhab3UxWExRXzdyM05pOUJiaTluMVpnMldpajdCU0I3bGtkTTU?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-16",
+            "lede": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+            "articleExcerpt": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders - Stock Titan. A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+            "contentFingerprint": "bbea2cd83fab3570",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Routine monthly distribution from Neuberger's closed-end municipal bond fund. It is a fixed-income/credit vehicle, so it is not excluded, but it matches no tracked strategy and involves no financing, fundraising, or legal event. This is shareholder-payout news of minimal significance.",
+              "llmReasonZh": "Neuberger旗下封闭式市政债券基金的例行月度分配。该基金属于固定收益/信用投资工具，因此未被排除，但与任何追踪策略均不匹配，且不涉及融资、募资或法律事件。此为重要性极低的股东派息新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 44,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.13,
+              "finalScore": 8.129999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "BasePoint": [],
@@ -207613,7 +207705,108 @@
           }
         ],
         "Golub": [],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-11-16-200543635c22",
+            "title": "Watch CNBC's full interview with CVC Marathon's Bruce Richards - CNBC",
+            "titleZh": "观看CNBC对CVC Marathon的Bruce Richards的完整专访 - CNBC",
+            "summary": "Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+            "summaryZh": "观看CNBC对CVC Marathon的Bruce Richards的完整专访 CNBC",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTVGN1ZBLWhxMmZSNUgwaGgzMWNCdl8zRUhUaVc3WlVGUzM4bzhTNVgyMmtiSkVRRjlCbUJnbndqdEhrWWJYWTlaVDNXajlfRHI4a0VscWZERF9PYjRDQ0JSVWVHVEJqejNjLUozdE45cUJvZjMxR3dLOFVkXzh4a1dSc3pTMm9sTnRiblNPN3dsV0twaUNCeGlGZVFwVTBwZlVZblhB?oc=5",
+            "source": "CNBC",
+            "publishedAt": "2026-11-16",
+            "lede": "Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+            "articleExcerpt": "Watch CNBC's full interview with CVC Marathon's Bruce Richards - CNBC. Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+            "contentFingerprint": "e1ffc5eeb2b14334",
+            "region": "Global",
+            "gps": [
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CVC"
+              ],
+              "titleGps": [
+                "CVC"
+              ],
+              "llmGps": [
+                "CVC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "CNBC interview with Bruce Richards of CVC Marathon, CVC's credit platform (Marathon Asset Management, acquired by CVC). This is credit-relevant manager commentary with no transaction, fundraising or legal event. The article has no substantive content, so it is treated as low-importance routine manager or market commentary.",
+              "llmReasonZh": "CNBC对CVC旗下信贷平台CVC Marathon（即被CVC收购的Marathon Asset Management）的Bruce Richards进行的专访。该内容属于与信贷相关的管理人评论，不涉及交易、募资或法律事件。文章缺乏实质性内容，因此被视为低重要性的常规管理人或市场评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CVC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "CNBC"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.48,
+              "finalScore": 10.48,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
       "items": [
@@ -208729,6 +208922,98 @@
             "keywordScore": 3,
             "semanticScore": 4.37,
             "finalScore": 7.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-16-7dad792da8f6",
+          "title": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders - Stock Titan",
+          "titleZh": "Neuberger Municipal Fund将于Dec. 15向持有人派发每股$0.05417 - Stock Titan",
+          "summary": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+          "summaryZh": "Neuberger Municipal Fund将于Dec. 15向持有人派发每股$0.05417 Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeS1tbjFKcm16Tm5IdGVYazlWZGwxdGNtSDZJMV9TQkJmN0J5SHZBN1EwWUVMc2x1MUp5ZVRfRng3X3lvTTQ0MkhSU1VCOGstbG50LVE3RFNRM3RlZ2NoREwzS3FWOU9FdGVvR085R29iZndDSm5nYUhab3UxWExRXzdyM05pOUJiaTluMVpnMldpajdCU0I3bGtkTTU?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-16",
+          "lede": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+          "articleExcerpt": "A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders - Stock Titan. A $0.05417-per-share payout is due Dec. 15 to Neuberger Municipal Fund holders Stock Titan",
+          "contentFingerprint": "bbea2cd83fab3570",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Routine monthly distribution from Neuberger's closed-end municipal bond fund. It is a fixed-income/credit vehicle, so it is not excluded, but it matches no tracked strategy and involves no financing, fundraising, or legal event. This is shareholder-payout news of minimal significance.",
+            "llmReasonZh": "Neuberger旗下封闭式市政债券基金的例行月度分配。该基金属于固定收益/信用投资工具，因此未被排除，但与任何追踪策略均不匹配，且不涉及融资、募资或法律事件。此为重要性极低的股东派息新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 44,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.13,
+            "finalScore": 8.129999999999999,
             "semanticEnabled": true
           }
         },
@@ -210516,6 +210801,106 @@
             "finalScore": 21.06,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-16-200543635c22",
+          "title": "Watch CNBC's full interview with CVC Marathon's Bruce Richards - CNBC",
+          "titleZh": "观看CNBC对CVC Marathon的Bruce Richards的完整专访 - CNBC",
+          "summary": "Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+          "summaryZh": "观看CNBC对CVC Marathon的Bruce Richards的完整专访 CNBC",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTVGN1ZBLWhxMmZSNUgwaGgzMWNCdl8zRUhUaVc3WlVGUzM4bzhTNVgyMmtiSkVRRjlCbUJnbndqdEhrWWJYWTlaVDNXajlfRHI4a0VscWZERF9PYjRDQ0JSVWVHVEJqejNjLUozdE45cUJvZjMxR3dLOFVkXzh4a1dSc3pTMm9sTnRiblNPN3dsV0twaUNCeGlGZVFwVTBwZlVZblhB?oc=5",
+          "source": "CNBC",
+          "publishedAt": "2026-11-16",
+          "lede": "Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+          "articleExcerpt": "Watch CNBC's full interview with CVC Marathon's Bruce Richards - CNBC. Watch CNBC's full interview with CVC Marathon's Bruce Richards CNBC",
+          "contentFingerprint": "e1ffc5eeb2b14334",
+          "region": "Global",
+          "gps": [
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CVC"
+            ],
+            "titleGps": [
+              "CVC"
+            ],
+            "llmGps": [
+              "CVC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "CNBC interview with Bruce Richards of CVC Marathon, CVC's credit platform (Marathon Asset Management, acquired by CVC). This is credit-relevant manager commentary with no transaction, fundraising or legal event. The article has no substantive content, so it is treated as low-importance routine manager or market commentary.",
+            "llmReasonZh": "CNBC对CVC旗下信贷平台CVC Marathon（即被CVC收购的Marathon Asset Management）的Bruce Richards进行的专访。该内容属于与信贷相关的管理人评论，不涉及交易、募资或法律事件。文章缺乏实质性内容，因此被视为低重要性的常规管理人或市场评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CVC"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "CNBC"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.48,
+            "finalScore": 10.48,
+            "semanticEnabled": true
+          }
         }
       ]
     },
@@ -210928,7 +211313,104 @@
             }
           }
         ],
-        "CIFC": [],
+        "CIFC": [
+          {
+            "id": "2026-11-17-494f40826816",
+            "title": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart - Yahoo Finance UK",
+            "titleZh": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) 季节性回报图表 - Yahoo Finance UK",
+            "summary": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+            "summaryZh": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) 季节性回报图表 Yahoo Finance UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fanh5Ulk4bWt6QXR6dGRwN25PSE5BbWIyeXp1YTdxdEZZd0drbnJDcjl3Y25NekZ4UGpuTkUxZFdfZGlvNEI4R2VuOUNMbWxscEFSd1pSSDlrS0hrWVZyMGNCVnV2Z2ZGUFE?oc=5",
+            "source": "Yahoo Finance UK",
+            "publishedAt": "2026-11-17",
+            "lede": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+            "articleExcerpt": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart - Yahoo Finance UK. CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+            "contentFingerprint": "99640895a36f5f07",
+            "region": "Europe",
+            "gps": [
+              "CIFC"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "CIFC"
+              ],
+              "titleGps": [
+                "CIFC"
+              ],
+              "llmGps": [
+                "CIFC"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "This is a Yahoo Finance seasonal returns chart page for a CIFC floating-rate credit fund share class. The fund is credit-related, but the page has no substantive news, no financing or fundraising event, and no clear strategy beyond generic floating-rate credit, so importance is low, similar to price commentary.",
+              "llmReasonZh": "这是Yahoo Finance上一只CIFC浮动利率信贷基金份额类别的季节性回报图表页面。该基金与信贷相关，但页面无实质性新闻，无融资或募资事件，除一般性浮动利率信贷外亦无明确策略，因此重要性较低，类似于价格评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "CIFC"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance UK"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 12,
+              "semanticScore": 4.58,
+              "finalScore": 16.58,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "PAG": [],
         "Pretium": [],
         "Guggenheim": [],
@@ -212110,9 +212592,9 @@
           {
             "id": "2026-11-17-e5dafaec12f5",
             "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
-            "titleZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 - BigGo Finance",
+            "titleZh": "Apollo的Rowan：AI建设融资需求或高达8万亿美元，考验美国信贷市场 - BigGo Finance",
             "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
-            "summaryZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 BigGo Finance",
+            "summaryZh": "Apollo的Rowan认为AI建设融资需求或高达8万亿美元，考验美国信贷市场 BigGo Finance",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
             "source": "BigGo Finance",
@@ -212126,10 +212608,12 @@
             ],
             "strategies": [
               "private-credit",
+              "data-center",
               "ai"
             ],
             "sectors": [
               "private-credit",
+              "data-center",
               "ai"
             ],
             "events": [
@@ -212155,13 +212639,14 @@
               ],
               "llmStrategies": [
                 "private-credit",
+                "data-center",
                 "ai"
               ],
               "llmEvents": [],
               "llmImportance": 0.5,
               "llmExclude": false,
-              "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs (up to $8T) and their impact on U.S. credit markets. This is relevant to Apollo's credit and lending business and to the AI financing theme. It is market commentary rather than a specific transaction, so no event type applies and importance is moderate.",
-              "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施融资需求（最高8万亿美元）及其对美国信贷市场的影响发表评论。此内容与Apollo的信贷及贷款业务以及AI融资主题相关。由于属于市场评论而非具体交易，因此不适用任何事件类型，重要性为中等。"
+              "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs of up to $8 trillion and the strain on U.S. credit markets. This is credit-relevant market commentary from a tracked GP's credit/financing business, not a specific deal, fund, or lawsuit, so no event type applies.",
+              "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施高达8万亿美元的融资需求及其对美国信贷市场造成的压力发表评论。这是来自受跟踪GP信贷/融资业务的信贷相关市场评论，并非具体交易、基金或诉讼，因此不适用任何事件类型。"
             },
             "rating": {
               "parts": {
@@ -212178,6 +212663,7 @@
                   "tagValue": 1.0,
                   "strategies": [
                     "private-credit",
+                    "data-center",
                     "ai"
                   ],
                   "semanticValue": 0.51
@@ -212197,9 +212683,9 @@
                   "source": "BigGo Finance"
                 },
                 "freshness": {
-                  "value": 1.0,
-                  "code": "within_24h",
-                  "days": 0.7
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.0
                 }
               },
               "weights": {
@@ -212209,13 +212695,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 69,
-              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+              "score": 66,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 19,
+              "keywordScore": 22,
               "semanticScore": 6.12,
-              "finalScore": 25.12,
+              "finalScore": 28.12,
               "semanticEnabled": true
             }
           }
@@ -213169,6 +213655,110 @@
               "finalScore": 20.05,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-dc947b046fa7",
+            "title": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary - TradingView",
+            "titleZh": "Golub Capital BDC 2026财年：每股收益$0.37 — 10-K摘要 - TradingView",
+            "summary": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+            "summaryZh": "Golub Capital BDC 2026财年：每股收益$0.37 — 10-K摘要 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjFEOEdJdlFSSDhneGM4al9VYllaNjcwazVaUjZJYUxwOEtFdm1QYVc3eVBsa211YTNNX3VQS3JwUFh1QTI1Q1RoNE9kZkkwdkhsRUJWYjFjcVhQVHRLY2s0N2R4LTA2SUJsMG5PZHp6U2NoenBUYTY4QzA0emNqbnZfMlNKRUpfSDFhM3luQldQODNiYlltSjdqV1otbTdUekNrdklfUzZmdW5lOVE?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+            "articleExcerpt": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary - TradingView. Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+            "contentFingerprint": "17d559578ef9ef5f",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is a direct-lending BDC in Golub's credit business. The article is a short TradingView auto-summary of an earnings report (10-K, EPS $0.37). It is credit-relevant but routine, with no financing, fundraising or litigation event, so importance sits between routine manager news and stock commentary.",
+              "llmReasonZh": "Golub Capital BDC是Golub信贷业务旗下的直接贷款型BDC。本文为TradingView自动生成的财报简短摘要（10-K，每股收益$0.37）。该内容与信贷相关但属常规信息，不涉及融资、募资或诉讼事件，因此重要性介于常规管理人新闻与股票评论之间。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.19,
+              "finalScore": 20.19,
+              "semanticEnabled": true
+            }
           }
         ],
         "CVC": [],
@@ -213575,6 +214165,102 @@
             "keywordScore": 3,
             "semanticScore": 4.83,
             "finalScore": 7.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-494f40826816",
+          "title": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart - Yahoo Finance UK",
+          "titleZh": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) 季节性回报图表 - Yahoo Finance UK",
+          "summary": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+          "summaryZh": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) 季节性回报图表 Yahoo Finance UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fanh5Ulk4bWt6QXR6dGRwN25PSE5BbWIyeXp1YTdxdEZZd0drbnJDcjl3Y25NekZ4UGpuTkUxZFdfZGlvNEI4R2VuOUNMbWxscEFSd1pSSDlrS0hrWVZyMGNCVnV2Z2ZGUFE?oc=5",
+          "source": "Yahoo Finance UK",
+          "publishedAt": "2026-11-17",
+          "lede": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+          "articleExcerpt": "CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart - Yahoo Finance UK. CIFC Global Floating Rt Crdt B-1 USD Acc (0P0001PDNP) Seasonal returns chart Yahoo Finance UK",
+          "contentFingerprint": "99640895a36f5f07",
+          "region": "Europe",
+          "gps": [
+            "CIFC"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "CIFC"
+            ],
+            "titleGps": [
+              "CIFC"
+            ],
+            "llmGps": [
+              "CIFC"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "This is a Yahoo Finance seasonal returns chart page for a CIFC floating-rate credit fund share class. The fund is credit-related, but the page has no substantive news, no financing or fundraising event, and no clear strategy beyond generic floating-rate credit, so importance is low, similar to price commentary.",
+            "llmReasonZh": "这是Yahoo Finance上一只CIFC浮动利率信贷基金份额类别的季节性回报图表页面。该基金与信贷相关，但页面无实质性新闻，无融资或募资事件，除一般性浮动利率信贷外亦无明确策略，因此重要性较低，类似于价格评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "CIFC"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance UK"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 12,
+            "semanticScore": 4.58,
+            "finalScore": 16.58,
             "semanticEnabled": true
           }
         },
@@ -214546,9 +215232,9 @@
         {
           "id": "2026-11-17-e5dafaec12f5",
           "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
-          "titleZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 - BigGo Finance",
+          "titleZh": "Apollo的Rowan：AI建设融资需求或高达8万亿美元，考验美国信贷市场 - BigGo Finance",
           "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
-          "summaryZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 BigGo Finance",
+          "summaryZh": "Apollo的Rowan认为AI建设融资需求或高达8万亿美元，考验美国信贷市场 BigGo Finance",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
           "source": "BigGo Finance",
@@ -214562,10 +215248,12 @@
           ],
           "strategies": [
             "private-credit",
+            "data-center",
             "ai"
           ],
           "sectors": [
             "private-credit",
+            "data-center",
             "ai"
           ],
           "events": [
@@ -214591,13 +215279,14 @@
             ],
             "llmStrategies": [
               "private-credit",
+              "data-center",
               "ai"
             ],
             "llmEvents": [],
             "llmImportance": 0.5,
             "llmExclude": false,
-            "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs (up to $8T) and their impact on U.S. credit markets. This is relevant to Apollo's credit and lending business and to the AI financing theme. It is market commentary rather than a specific transaction, so no event type applies and importance is moderate.",
-            "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施融资需求（最高8万亿美元）及其对美国信贷市场的影响发表评论。此内容与Apollo的信贷及贷款业务以及AI融资主题相关。由于属于市场评论而非具体交易，因此不适用任何事件类型，重要性为中等。"
+            "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs of up to $8 trillion and the strain on U.S. credit markets. This is credit-relevant market commentary from a tracked GP's credit/financing business, not a specific deal, fund, or lawsuit, so no event type applies.",
+            "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施高达8万亿美元的融资需求及其对美国信贷市场造成的压力发表评论。这是来自受跟踪GP信贷/融资业务的信贷相关市场评论，并非具体交易、基金或诉讼，因此不适用任何事件类型。"
           },
           "rating": {
             "parts": {
@@ -214614,6 +215303,7 @@
                 "tagValue": 1.0,
                 "strategies": [
                   "private-credit",
+                  "data-center",
                   "ai"
                 ],
                 "semanticValue": 0.51
@@ -214633,9 +215323,9 @@
                 "source": "BigGo Finance"
               },
               "freshness": {
-                "value": 1.0,
-                "code": "within_24h",
-                "days": 0.7
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.0
               }
             },
             "weights": {
@@ -214645,13 +215335,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 69,
-            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            "score": 66,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 19,
+            "keywordScore": 22,
             "semanticScore": 6.12,
-            "finalScore": 25.12,
+            "finalScore": 28.12,
             "semanticEnabled": true
           }
         },
@@ -215602,34 +216292,2312 @@
             "finalScore": 20.05,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-17-dc947b046fa7",
+          "title": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary - TradingView",
+          "titleZh": "Golub Capital BDC 2026财年：每股收益$0.37 — 10-K摘要 - TradingView",
+          "summary": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+          "summaryZh": "Golub Capital BDC 2026财年：每股收益$0.37 — 10-K摘要 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjFEOEdJdlFSSDhneGM4al9VYllaNjcwazVaUjZJYUxwOEtFdm1QYVc3eVBsa211YTNNX3VQS3JwUFh1QTI1Q1RoNE9kZkkwdkhsRUJWYjFjcVhQVHRLY2s0N2R4LTA2SUJsMG5PZHp6U2NoenBUYTY4QzA0emNqbnZfMlNKRUpfSDFhM3luQldQODNiYlltSjdqV1otbTdUekNrdklfUzZmdW5lOVE?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+          "articleExcerpt": "Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary - TradingView. Golub Capital BDC FY 2026: EPS $0.37 — 10-K Summary TradingView",
+          "contentFingerprint": "17d559578ef9ef5f",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is a direct-lending BDC in Golub's credit business. The article is a short TradingView auto-summary of an earnings report (10-K, EPS $0.37). It is credit-relevant but routine, with no financing, fundraising or litigation event, so importance sits between routine manager news and stock commentary.",
+            "llmReasonZh": "Golub Capital BDC是Golub信贷业务旗下的直接贷款型BDC。本文为TradingView自动生成的财报简短摘要（10-K，每股收益$0.37）。该内容与信贷相关但属常规信息，不涉及融资、募资或诉讼事件，因此重要性介于常规管理人新闻与股票评论之间。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.19,
+            "finalScore": 20.19,
+            "semanticEnabled": true
+          }
         }
       ]
     },
     "2026-11-18": {
       "byGp": {
         "Blue Owl": [],
-        "KKR": [],
+        "KKR": [
+          {
+            "id": "2026-11-18-82b0ab8c2ba0",
+            "title": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor - Music Business Worldwide",
+            "titleZh": "Carlyle支持的Litmus Music获4.75亿美元新资本，KKR加入成为投资方 - Music Business Worldwide",
+            "summary": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+            "summaryZh": "Carlyle支持的Litmus Music获4.75亿美元新资本，KKR加入成为投资方 Music Business Worldwide",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWs4aGVXeWp1U2swaHdFNG8xWHVHYzdEUGU4blFBTXJMcENRZWhnSm5sMUszNzRVV3VIYkl5UFdOUDBTbUNmS3QwX0RpM0hfdjRkeTVDN0p3bTZ5WUp4aGJranZTcnVVeDlLVjN4ZXp3VG1aU1ZLNmFkTE1OeW9kcDg1X3hYRVJiNVllc2huWXBiMmg3UTJYOXk5U0h5aW80U09ta2dLNGVUbzNidEE1WmlzNE12NXBzak9jQ3ZnM1ZmbW9TN0E?oc=5",
+            "source": "Music Business Worldwide",
+            "publishedAt": "2026-11-18",
+            "lede": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+            "articleExcerpt": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor - Music Business Worldwide. Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+            "contentFingerprint": "339fc078a271310e",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "Litmus Music, a music-catalog acquirer backed by Carlyle, raised $475m in new capital with KKR joining as an investor. The provided text does not say which KKR vehicle invested or whether the capital is debt or equity. Music royalty and catalog deals are usually handled by KKR's asset-based finance (credit) business, so this is tentatively tagged as an ABF financing. It should be re-checked and excluded if KKR's stake turns out to be a pure equity investment.",
+              "llmReasonZh": "Litmus Music是一家由Carlyle支持的音乐版权目录收购公司，已筹集4.75亿美元新资本，KKR加入成为投资方。现有文本未说明KKR通过哪一投资工具出资，也未说明该笔资本属于债务还是股权。音乐版税及版权目录交易通常由KKR的资产支持融资（信贷）业务负责，因此暂将其标记为资产支持融资（ABF）交易。应进一步核实，如KKR所持权益最终确认为纯股权投资，则应予以剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Music Business Worldwide"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 5.03,
+              "finalScore": 13.030000000000001,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-3f9407e9f6f1",
+            "title": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat",
+            "titleZh": "FS KKR Capital (NYSE:FSK) 股价跌破200日移动均线，是否该卖出？- MarketBeat",
+            "summary": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "summaryZh": "FS KKR Capital (NYSE:FSK) 股价跌破200日移动均线，是否该卖出？MarketBeat",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2kwVzM2LWs4Y3ZRdnQ3WWFhbnNlZ1B0dmR1Snl4RmE2akVvUzV2azh3RWhsc3dxZmladkIybXVDM21YMDFZUVdkRXlQYkw3aXFPcC0yV0lRdVNGbXpTTVF6aE5zTnFObW9QVG1xaDFqeGRFQldfU0JTQTJNcDlhQVl3cGMwMUI4SW9JYW0yWTVJQ3RoWTd0NVJkVmYtYVhPbjU1SFN0M295N0FBeDJKVVFtT2N6dDh1VjZ1c1g5NVRnREYyR1d2NWdDZWx2bUtad3oxRDNIUzdmb2Vp?oc=5",
+            "source": "MarketBeat",
+            "publishedAt": "2026-11-18",
+            "lede": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "articleExcerpt": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat. FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+            "contentFingerprint": "d1b197643578cd43",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "FS KKR Capital (FSK) is a publicly traded BDC that KKR co-manages, so it falls under KKR's credit and direct-lending business. The article only covers the share price falling below its 200-day moving average, which is technical stock commentary. No lawsuit, financing or fundraising event is involved, so importance is low.",
+              "llmReasonZh": "FS KKR Capital (FSK) 是由KKR联合管理的上市BDC（商业发展公司），因此属于KKR信贷及直接贷款业务范畴。该文章仅涉及其股价跌破200日移动均线，属于股票技术面评论，不涉及诉讼、融资或募资事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "MarketBeat"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 51,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 8,
+              "semanticScore": 4.64,
+              "finalScore": 12.64,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-9e9de0f337b3",
+            "title": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Quantisnow",
+            "titleZh": "Litmus Music宣布获Carlyle和KKR战略投资以加速增长 - Quantisnow",
+            "summary": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+            "summaryZh": "Litmus Music宣布获Carlyle和KKR战略投资以加速增长 Quantisnow",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzRpS25EU0RUcnJkWExfV3hIX19jU3BwM2tPQ0FRY1dBUzVLUlBLaTl3QTREZ0tLbDZVdVhNbUtaWlBRRjR2S01VbFBXWDhRMmNtYzZ5WkFiY0t1cDQ4c0ZNVFF3NjBPWTkyblUxbTlSVjlzYUhfUVVVV1drUzlHN2VMVmhkT2UzUEkwT2JtWDNrVmdCb3JoUjJ1MVQzWGdqX05pQU04QzRjR3JUajhF?oc=5",
+            "source": "Quantisnow",
+            "publishedAt": "2026-11-18",
+            "lede": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+            "articleExcerpt": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Quantisnow. Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+            "contentFingerprint": "a19db0434d4cde55",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "KKR co-invested with Carlyle in music-rights company Litmus Music. The snippet does not name the KKR strategy involved. KKR typically makes music-catalog and royalty investments through its Asset-Based Finance (credit) platform, so this is tentatively tagged as an ABF financing. It should be re-checked and excluded if the full text shows a private equity deal.",
+              "llmReasonZh": "KKR与Carlyle共同投资音乐版权公司Litmus Music。摘要未注明KKR参与投资的具体策略。KKR通常通过其资产支持融资（信贷）平台进行音乐版权目录及版税投资，因此暂将此交易标记为ABF融资。应予以复核，如全文显示为私募股权交易，则应予以剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Quantisnow"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.24,
+              "finalScore": 11.24,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-ca9935d67b99",
+            "title": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music - WSJ",
+            "titleZh": "独家 | KKR联手Carlyle向录音版权收购方Litmus Music注资4.75亿美元 - WSJ",
+            "summary": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+            "summaryZh": "独家 | KKR联手Carlyle向录音版权收购方Litmus Music注资4.75亿美元 WSJ",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWNBMmNyZ1NxQnNXU0JuLVRSRm1uMTNiU1Z4MnpfemZIa2k3RHBsWVFLS0FfQlVxQnltN1F6bnNHZ3JKM0dHell6ZHRIV0dwaUFhTWZ4N0NiMFpOQmpDVFdKRXVjc1RVclo4WlFxX0plbnI2eEtGbURRWTdhQm9tUENlbXBsQmZlZVZ2eFRpRzRRbWtVNXJDSjVTOVhQbFFYa3puZ3kya1FhX3lWZUpHUDVRcHdqSl9acWVzY2xhcy1PLXVh?oc=5",
+            "source": "WSJ",
+            "publishedAt": "2026-11-18",
+            "lede": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+            "articleExcerpt": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music - WSJ. Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+            "contentFingerprint": "3a027df279f9a9de",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "KKR is joining Carlyle in a $475M capital commitment to Litmus Music, which buys recording rights. KKR has typically made music-royalty investments through its asset-based finance and credit platform (e.g., Chord Music Partners), so this is likely ABF financing. The snippet does not say whether the money is debt or equity, so importance is set slightly below ordinary financing.",
+              "llmReasonZh": "KKR联手Carlyle向收购录音版权的Litmus Music提供4.75亿美元资本承诺。KKR通常通过其资产支持融资（ABF）及信贷平台进行音乐版税投资（如Chord Music Partners），因此本次交易很可能属于ABF融资。摘要未说明该笔资金为债务还是股权，因此重要性设定为略低于普通融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "WSJ"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 84,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.01,
+              "finalScore": 11.01,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-5465bbebd92c",
+            "title": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding - Billboard",
+            "titleZh": "Carlyle、KKR为Litmus提供4.75亿美元新融资 - Billboard",
+            "summary": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+            "summaryZh": "Carlyle、KKR为Litmus提供4.75亿美元新融资 Billboard",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNldPY0p6Z3dTeVdjaTJEa25raGdKc3FIOEVPQ2t2MnFDN2tqN2tsM3lUOGpiUWs0UGVwaWx3N0NrdW53OS10QVd4MXBJRDVJdGg5LWxDSEVfeTFZbk85a0FkU3lhQW1VYXlKN1lzTHM5NjQ0Y3pvSmV0dUNRQWZoTnptdHlIVWM?oc=5",
+            "source": "Billboard",
+            "publishedAt": "2026-11-18",
+            "lede": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+            "articleExcerpt": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding - Billboard. Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+            "contentFingerprint": "3861a845ad080c5f",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "KKR co-led $475M in fresh funding for Litmus Music, a music-catalog acquirer. Such funding is typically structured as asset-backed or royalty-secured debt, which would fall under KKR's asset-based finance business. The snippet does not say whether KKR's piece is debt or equity, so the tag is kept with moderate importance. Carlyle is not a tracked GP.",
+              "llmReasonZh": "KKR联合领投音乐版权收购方Litmus Music的4.75亿美元新融资。此类融资通常采用资产支持或以版权收益为担保的债务结构，属于KKR资产支持融资（asset-based finance）业务范畴。摘要未说明KKR出资部分为债务还是股权，因此保留该标签并设为中等重要性。Carlyle不属于跟踪的GP。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Billboard"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 68,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.94,
+              "finalScore": 10.940000000000001,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "CIFC": [],
         "PAG": [],
         "Pretium": [],
-        "Guggenheim": [],
+        "Guggenheim": [
+          {
+            "id": "2026-11-18-1aef84e96bf2",
+            "title": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha",
+            "titleZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）- Seeking Alpha",
+            "summary": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+            "summaryZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmU1NEpXRUR6M0NUZW5zblpySjhsV0xabTZDRm1BaGJ5cExlS1FKbTJLVXNLeDFXcW1vVXg1UjFOdDJwVGp0WGR0UGUxV3ZYLUY4Y005cWdnTUx1RVpFazRMR0xoRDY0MlJWVjQ5MzBnVGxTQTdiRFJjRGRZOVZqQThvQjdNcWxMUkhOMEZvbW53SENzWGFfOWlmTQ?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-18",
+            "lede": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+            "articleExcerpt": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha. Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+            "contentFingerprint": "a2430afefc53400c",
+            "region": "Global",
+            "gps": [
+              "Guggenheim"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Guggenheim"
+              ],
+              "titleGps": [
+                "Guggenheim"
+              ],
+              "llmGps": [
+                "Guggenheim"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "This is a quarterly commentary for Guggenheim Investments' Macro Opportunities Fund (GIOIX), a fixed-income and credit mutual fund. That makes it credit-relevant manager news. It is routine fund commentary, with no financing, fundraising or litigation event. The article text gives no detail, so no specific strategy can be confirmed and importance is low-moderate.",
+              "llmReasonZh": "本文为Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论，该基金为一只固定收益及信贷类共同基金，因此属于与信贷相关的管理人新闻。本文为例行基金评论，不涉及融资、募资或诉讼事件。文章正文未提供细节，无法确认任何具体策略，重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Guggenheim"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.79,
+              "finalScore": 7.79,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Neuberger": [],
         "BasePoint": [],
         "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
+        "Blackstone": [
+          {
+            "id": "2026-11-18-476a3416e810",
+            "title": "Blackstone flags junk rating risk for Anthropic over $63B deal - NewsBytes",
+            "titleZh": "Blackstone警示Anthropic因630亿美元交易面临垃圾级评级风险 - NewsBytes",
+            "summary": "Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+            "summaryZh": "Blackstone警示Anthropic因630亿美元交易面临垃圾级评级风险 NewsBytes",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFFyQUJ3b2FfeXJwQlFhQnBBTHpnVVBCZVJiSFUwQVBNSldNdU5ZczY3UC1zTnZ2NkgzeWFvQzE0V0pLeHRKNEpXazRQQl9ZU29EVk45cGZBQXlLeWx5d01kOEhUa2tYdzU2OGVXRWt6V1VOSUxjbURmSFNneUNwQm8tckF0VFM3c0l2bWFUb0dsNVFRYzRIMC0zdFVjQUx3ZUdab0FYT1NGT3d0SGc?oc=5",
+            "source": "NewsBytes",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+            "articleExcerpt": "Blackstone flags junk rating risk for Anthropic over $63B deal - NewsBytes. Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+            "contentFingerprint": "1e0fb4190d5eb7ae",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blackstone is flagging junk (sub-investment-grade) rating risk for Anthropic over a $63B deal. That is a credit assessment of the financing around a large AI transaction, which falls under Blackstone's credit/lending business. The article text is only a headline, so the GP's exact role in the deal is unclear.",
+              "llmReasonZh": "Blackstone警示Anthropic因一项630亿美元交易面临垃圾级（低于投资级）评级风险。这是对一项大型AI交易相关融资的信用评估，属于Blackstone信贷/贷款业务范畴。该文章内容仅有标题，因此该GP在交易中的具体角色尚不明确。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.51,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.32
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "NewsBytes"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 9,
+              "semanticScore": 3.83,
+              "finalScore": 12.83,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-a69c65603f13",
+            "title": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms",
+            "titleZh": "Blackstone与Apollo瞄准Solvency II改革前的€10trn欧盟保险市场",
+            "summary": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall.",
+            "summaryZh": "据Bloomberg援引S&P Global Ratings的报道，Blackstone、Apollo Global Management和Pimco正寻求在Solvency II改革前扩大其在欧盟€10trn保险资产市场中的份额。按保险公司现有持仓计算，该改革可释放€80bn监管资本。相关变更将于2027年1月30日生效，届时将有更多长期股权持仓可适用22%的资本要求，而普通上市股票的资本要求为39%，大多数私募股权及其他非上市投资为49%。部分优先级结构化信贷投资的资本要求也将下调。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/6-blackstone-and-apollo-target-10trn-eu-insurance-market-ahead-of-solvency-ii-reforms",
+            "source": "Google News",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC Capital Partners is already discussing the changes with insurers across Europe. Insurers will still need to approve new mandates, build expertise and assess how less liquid assets fit the cash flows they need to meet policyholder obligations. Some changes will have limited direct impact on large insurers such as Allianz, AXA and Generali, which use internal models to calculate capital requirements. The European Insurance and Occupational Pensions Authority and the European Central Bank have also raised concerns that the reforms could weaken capital buffers. A parallel package aims to revive Europe’s securitisation market by lowering bank capital requirements on certain exposures. Europe had nearly €1.3trn of securitisations outstanding at the end of June, up 2.7% year on year, according to the Association for Financial Markets in Europe. Securitisations account for less than 1% of EU insurers’ investment portfolios, according to MetLife Investment Management, leaving room for growth as European managers compete with a deeper US market for new allocations.",
+            "articleExcerpt": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms. Private Equity Wire | Blackstone and Apollo target €10trn EU… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms November 18, 2026 at 10:30 am Share this article Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC",
+            "contentFingerprint": "6de8b995eaa022da",
+            "region": "US",
+            "gps": [
+              "Blackstone",
+              "Apollo",
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "titleGps": [
+                "Blackstone",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "keywordStrategies": [
+                "structured",
+                "clo"
+              ],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone and Apollo (with Pimco) are courting EU insurers' €10trn of assets ahead of the Solvency II reforms. The reforms lower capital charges on senior structured credit, and Blackstone cites growing insurer demand for CLOs and private investment-grade credit, so this is credit-relevant. CVC is mentioned at the truncated end of the text, likely in a credit context. There is no specific transaction, fund close or litigation, so this is routine market and manager news.",
+              "llmReasonZh": "Blackstone和Apollo（以及Pimco）正在Solvency II改革前争取欧盟保险公司的€10trn资产。该改革将降低优先级结构化信贷的资本要求，且Blackstone提到保险公司对CLO和私募投资级信贷的需求日益增长，因此与信贷相关。文本截断的末尾提及CVC，很可能涉及信贷背景。文中未涉及具体交易、基金募集完成或诉讼，因此属于常规市场及管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone",
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 26,
+              "semanticScore": 4.91,
+              "finalScore": 30.91,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "Apollo": [
+          {
+            "id": "2026-11-18-a69c65603f13",
+            "title": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms",
+            "titleZh": "Blackstone与Apollo瞄准Solvency II改革前的€10trn欧盟保险市场",
+            "summary": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall.",
+            "summaryZh": "据Bloomberg援引S&P Global Ratings的报道，Blackstone、Apollo Global Management和Pimco正寻求在Solvency II改革前扩大其在欧盟€10trn保险资产市场中的份额。按保险公司现有持仓计算，该改革可释放€80bn监管资本。相关变更将于2027年1月30日生效，届时将有更多长期股权持仓可适用22%的资本要求，而普通上市股票的资本要求为39%，大多数私募股权及其他非上市投资为49%。部分优先级结构化信贷投资的资本要求也将下调。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/6-blackstone-and-apollo-target-10trn-eu-insurance-market-ahead-of-solvency-ii-reforms",
+            "source": "Google News",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC Capital Partners is already discussing the changes with insurers across Europe. Insurers will still need to approve new mandates, build expertise and assess how less liquid assets fit the cash flows they need to meet policyholder obligations. Some changes will have limited direct impact on large insurers such as Allianz, AXA and Generali, which use internal models to calculate capital requirements. The European Insurance and Occupational Pensions Authority and the European Central Bank have also raised concerns that the reforms could weaken capital buffers. A parallel package aims to revive Europe’s securitisation market by lowering bank capital requirements on certain exposures. Europe had nearly €1.3trn of securitisations outstanding at the end of June, up 2.7% year on year, according to the Association for Financial Markets in Europe. Securitisations account for less than 1% of EU insurers’ investment portfolios, according to MetLife Investment Management, leaving room for growth as European managers compete with a deeper US market for new allocations.",
+            "articleExcerpt": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms. Private Equity Wire | Blackstone and Apollo target €10trn EU… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms November 18, 2026 at 10:30 am Share this article Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC",
+            "contentFingerprint": "6de8b995eaa022da",
+            "region": "US",
+            "gps": [
+              "Blackstone",
+              "Apollo",
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "titleGps": [
+                "Blackstone",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "keywordStrategies": [
+                "structured",
+                "clo"
+              ],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone and Apollo (with Pimco) are courting EU insurers' €10trn of assets ahead of the Solvency II reforms. The reforms lower capital charges on senior structured credit, and Blackstone cites growing insurer demand for CLOs and private investment-grade credit, so this is credit-relevant. CVC is mentioned at the truncated end of the text, likely in a credit context. There is no specific transaction, fund close or litigation, so this is routine market and manager news.",
+              "llmReasonZh": "Blackstone和Apollo（以及Pimco）正在Solvency II改革前争取欧盟保险公司的€10trn资产。该改革将降低优先级结构化信贷的资本要求，且Blackstone提到保险公司对CLO和私募投资级信贷的需求日益增长，因此与信贷相关。文本截断的末尾提及CVC，很可能涉及信贷背景。文中未涉及具体交易、基金募集完成或诉讼，因此属于常规市场及管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone",
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 26,
+              "semanticScore": 4.91,
+              "finalScore": 30.91,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-f75b62703cde",
+            "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
+            "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
+            "summary": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+            "summaryZh": "Apollo欧洲负责人认为人工智能与国防领域存在巨大融资需求 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1FObktXUU5yMUN2QzFrcXE4SjNsWVB2Uk1mbEd1anFpVFlod0Z5OFhBNFhJNUt4WkFaUS02T3Z2ZzNhY0VDRk5FeEtRR3BmckliMUoxMjNnUWdkcllSdDZ0WWR6bjJ4MVNQOG14Qnk2QTNwU1RPREs3MmhoVkxJSmtfdmNCaU9yNWxqekRVajB3RGl6Zm5JLWY5QWw2QXcxUlYwa3kxcWlWcWpzMWtYd0E3azM?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-18",
+            "lede": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+            "articleExcerpt": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com. Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+            "contentFingerprint": "41d9fcf5656597a9",
+            "region": "Europe",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Apollo's Europe head comments on large financing demand for AI and defense. This is credit and financing commentary relevant to Apollo's lending business. No specific transaction, fund close or lawsuit is mentioned, so it is routine manager news.",
+              "llmReasonZh": "Apollo欧洲负责人就人工智能和国防领域的大规模融资需求发表评论。此为与Apollo贷款业务相关的信贷及融资评论。文中未提及具体交易、基金募集完成或诉讼，因此属于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.48
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 79,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 21,
+              "semanticScore": 5.73,
+              "finalScore": 26.73,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "TPG": [],
         "Golub": [],
-        "CVC": [],
+        "CVC": [
+          {
+            "id": "2026-11-18-a69c65603f13",
+            "title": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms",
+            "titleZh": "Blackstone与Apollo瞄准Solvency II改革前的€10trn欧盟保险市场",
+            "summary": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall.",
+            "summaryZh": "据Bloomberg援引S&P Global Ratings的报道，Blackstone、Apollo Global Management和Pimco正寻求在Solvency II改革前扩大其在欧盟€10trn保险资产市场中的份额。按保险公司现有持仓计算，该改革可释放€80bn监管资本。相关变更将于2027年1月30日生效，届时将有更多长期股权持仓可适用22%的资本要求，而普通上市股票的资本要求为39%，大多数私募股权及其他非上市投资为49%。部分优先级结构化信贷投资的资本要求也将下调。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/6-blackstone-and-apollo-target-10trn-eu-insurance-market-ahead-of-solvency-ii-reforms",
+            "source": "Google News",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC Capital Partners is already discussing the changes with insurers across Europe. Insurers will still need to approve new mandates, build expertise and assess how less liquid assets fit the cash flows they need to meet policyholder obligations. Some changes will have limited direct impact on large insurers such as Allianz, AXA and Generali, which use internal models to calculate capital requirements. The European Insurance and Occupational Pensions Authority and the European Central Bank have also raised concerns that the reforms could weaken capital buffers. A parallel package aims to revive Europe’s securitisation market by lowering bank capital requirements on certain exposures. Europe had nearly €1.3trn of securitisations outstanding at the end of June, up 2.7% year on year, according to the Association for Financial Markets in Europe. Securitisations account for less than 1% of EU insurers’ investment portfolios, according to MetLife Investment Management, leaving room for growth as European managers compete with a deeper US market for new allocations.",
+            "articleExcerpt": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms. Private Equity Wire | Blackstone and Apollo target €10trn EU… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms November 18, 2026 at 10:30 am Share this article Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC",
+            "contentFingerprint": "6de8b995eaa022da",
+            "region": "US",
+            "gps": [
+              "Blackstone",
+              "Apollo",
+              "CVC"
+            ],
+            "strategies": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "sectors": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "titleGps": [
+                "Blackstone",
+                "Apollo"
+              ],
+              "llmGps": [
+                "Blackstone",
+                "Apollo",
+                "CVC"
+              ],
+              "keywordStrategies": [
+                "structured",
+                "clo"
+              ],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "structured",
+                "clo"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone and Apollo (with Pimco) are courting EU insurers' €10trn of assets ahead of the Solvency II reforms. The reforms lower capital charges on senior structured credit, and Blackstone cites growing insurer demand for CLOs and private investment-grade credit, so this is credit-relevant. CVC is mentioned at the truncated end of the text, likely in a credit context. There is no specific transaction, fund close or litigation, so this is routine market and manager news.",
+              "llmReasonZh": "Blackstone和Apollo（以及Pimco）正在Solvency II改革前争取欧盟保险公司的€10trn资产。该改革将降低优先级结构化信贷的资本要求，且Blackstone提到保险公司对CLO和私募投资级信贷的需求日益增长，因此与信贷相关。文本截断的末尾提及CVC，很可能涉及信贷背景。文中未涉及具体交易、基金募集完成或诉讼，因此属于常规市场及管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone",
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "structured",
+                    "clo"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 66,
+              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 26,
+              "semanticScore": 4.91,
+              "finalScore": 30.91,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Canyon": []
       },
-      "items": []
+      "items": [
+        {
+          "id": "2026-11-18-82b0ab8c2ba0",
+          "title": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor - Music Business Worldwide",
+          "titleZh": "Carlyle支持的Litmus Music获4.75亿美元新资本，KKR加入成为投资方 - Music Business Worldwide",
+          "summary": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+          "summaryZh": "Carlyle支持的Litmus Music获4.75亿美元新资本，KKR加入成为投资方 Music Business Worldwide",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWs4aGVXeWp1U2swaHdFNG8xWHVHYzdEUGU4blFBTXJMcENRZWhnSm5sMUszNzRVV3VIYkl5UFdOUDBTbUNmS3QwX0RpM0hfdjRkeTVDN0p3bTZ5WUp4aGJranZTcnVVeDlLVjN4ZXp3VG1aU1ZLNmFkTE1OeW9kcDg1X3hYRVJiNVllc2huWXBiMmg3UTJYOXk5U0h5aW80U09ta2dLNGVUbzNidEE1WmlzNE12NXBzak9jQ3ZnM1ZmbW9TN0E?oc=5",
+          "source": "Music Business Worldwide",
+          "publishedAt": "2026-11-18",
+          "lede": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+          "articleExcerpt": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor - Music Business Worldwide. Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor Music Business Worldwide",
+          "contentFingerprint": "339fc078a271310e",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "Litmus Music, a music-catalog acquirer backed by Carlyle, raised $475m in new capital with KKR joining as an investor. The provided text does not say which KKR vehicle invested or whether the capital is debt or equity. Music royalty and catalog deals are usually handled by KKR's asset-based finance (credit) business, so this is tentatively tagged as an ABF financing. It should be re-checked and excluded if KKR's stake turns out to be a pure equity investment.",
+            "llmReasonZh": "Litmus Music是一家由Carlyle支持的音乐版权目录收购公司，已筹集4.75亿美元新资本，KKR加入成为投资方。现有文本未说明KKR通过哪一投资工具出资，也未说明该笔资本属于债务还是股权。音乐版税及版权目录交易通常由KKR的资产支持融资（信贷）业务负责，因此暂将其标记为资产支持融资（ABF）交易。应进一步核实，如KKR所持权益最终确认为纯股权投资，则应予以剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Music Business Worldwide"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 5.03,
+            "finalScore": 13.030000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-3f9407e9f6f1",
+          "title": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat",
+          "titleZh": "FS KKR Capital (NYSE:FSK) 股价跌破200日移动均线，是否该卖出？- MarketBeat",
+          "summary": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "summaryZh": "FS KKR Capital (NYSE:FSK) 股价跌破200日移动均线，是否该卖出？MarketBeat",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2kwVzM2LWs4Y3ZRdnQ3WWFhbnNlZ1B0dmR1Snl4RmE2akVvUzV2azh3RWhsc3dxZmladkIybXVDM21YMDFZUVdkRXlQYkw3aXFPcC0yV0lRdVNGbXpTTVF6aE5zTnFObW9QVG1xaDFqeGRFQldfU0JTQTJNcDlhQVl3cGMwMUI4SW9JYW0yWTVJQ3RoWTd0NVJkVmYtYVhPbjU1SFN0M295N0FBeDJKVVFtT2N6dDh1VjZ1c1g5NVRnREYyR1d2NWdDZWx2bUtad3oxRDNIUzdmb2Vp?oc=5",
+          "source": "MarketBeat",
+          "publishedAt": "2026-11-18",
+          "lede": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "articleExcerpt": "FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? - MarketBeat. FS KKR Capital (NYSE:FSK) Share Price Breaks Below 200 Day Moving Average - Time to Sell? MarketBeat",
+          "contentFingerprint": "d1b197643578cd43",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "FS KKR Capital (FSK) is a publicly traded BDC that KKR co-manages, so it falls under KKR's credit and direct-lending business. The article only covers the share price falling below its 200-day moving average, which is technical stock commentary. No lawsuit, financing or fundraising event is involved, so importance is low.",
+            "llmReasonZh": "FS KKR Capital (FSK) 是由KKR联合管理的上市BDC（商业发展公司），因此属于KKR信贷及直接贷款业务范畴。该文章仅涉及其股价跌破200日移动均线，属于股票技术面评论，不涉及诉讼、融资或募资事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "MarketBeat"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 51,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 8,
+            "semanticScore": 4.64,
+            "finalScore": 12.64,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-9e9de0f337b3",
+          "title": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Quantisnow",
+          "titleZh": "Litmus Music宣布获Carlyle和KKR战略投资以加速增长 - Quantisnow",
+          "summary": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+          "summaryZh": "Litmus Music宣布获Carlyle和KKR战略投资以加速增长 Quantisnow",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzRpS25EU0RUcnJkWExfV3hIX19jU3BwM2tPQ0FRY1dBUzVLUlBLaTl3QTREZ0tLbDZVdVhNbUtaWlBRRjR2S01VbFBXWDhRMmNtYzZ5WkFiY0t1cDQ4c0ZNVFF3NjBPWTkyblUxbTlSVjlzYUhfUVVVV1drUzlHN2VMVmhkT2UzUEkwT2JtWDNrVmdCb3JoUjJ1MVQzWGdqX05pQU04QzRjR3JUajhF?oc=5",
+          "source": "Quantisnow",
+          "publishedAt": "2026-11-18",
+          "lede": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+          "articleExcerpt": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Quantisnow. Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Quantisnow",
+          "contentFingerprint": "a19db0434d4cde55",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "KKR co-invested with Carlyle in music-rights company Litmus Music. The snippet does not name the KKR strategy involved. KKR typically makes music-catalog and royalty investments through its Asset-Based Finance (credit) platform, so this is tentatively tagged as an ABF financing. It should be re-checked and excluded if the full text shows a private equity deal.",
+            "llmReasonZh": "KKR与Carlyle共同投资音乐版权公司Litmus Music。摘要未注明KKR参与投资的具体策略。KKR通常通过其资产支持融资（信贷）平台进行音乐版权目录及版税投资，因此暂将此交易标记为ABF融资。应予以复核，如全文显示为私募股权交易，则应予以剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Quantisnow"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.24,
+            "finalScore": 11.24,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-ca9935d67b99",
+          "title": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music - WSJ",
+          "titleZh": "独家 | KKR联手Carlyle向录音版权收购方Litmus Music注资4.75亿美元 - WSJ",
+          "summary": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+          "summaryZh": "独家 | KKR联手Carlyle向录音版权收购方Litmus Music注资4.75亿美元 WSJ",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWNBMmNyZ1NxQnNXU0JuLVRSRm1uMTNiU1Z4MnpfemZIa2k3RHBsWVFLS0FfQlVxQnltN1F6bnNHZ3JKM0dHell6ZHRIV0dwaUFhTWZ4N0NiMFpOQmpDVFdKRXVjc1RVclo4WlFxX0plbnI2eEtGbURRWTdhQm9tUENlbXBsQmZlZVZ2eFRpRzRRbWtVNXJDSjVTOVhQbFFYa3puZ3kya1FhX3lWZUpHUDVRcHdqSl9acWVzY2xhcy1PLXVh?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-11-18",
+          "lede": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+          "articleExcerpt": "Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music - WSJ. Exclusive | KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music WSJ",
+          "contentFingerprint": "3a027df279f9a9de",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "KKR is joining Carlyle in a $475M capital commitment to Litmus Music, which buys recording rights. KKR has typically made music-royalty investments through its asset-based finance and credit platform (e.g., Chord Music Partners), so this is likely ABF financing. The snippet does not say whether the money is debt or equity, so importance is set slightly below ordinary financing.",
+            "llmReasonZh": "KKR联手Carlyle向收购录音版权的Litmus Music提供4.75亿美元资本承诺。KKR通常通过其资产支持融资（ABF）及信贷平台进行音乐版税投资（如Chord Music Partners），因此本次交易很可能属于ABF融资。摘要未说明该笔资金为债务还是股权，因此重要性设定为略低于普通融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "WSJ"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 84,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.01,
+            "finalScore": 11.01,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-5465bbebd92c",
+          "title": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding - Billboard",
+          "titleZh": "Carlyle、KKR为Litmus提供4.75亿美元新融资 - Billboard",
+          "summary": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+          "summaryZh": "Carlyle、KKR为Litmus提供4.75亿美元新融资 Billboard",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNldPY0p6Z3dTeVdjaTJEa25raGdKc3FIOEVPQ2t2MnFDN2tqN2tsM3lUOGpiUWs0UGVwaWx3N0NrdW53OS10QVd4MXBJRDVJdGg5LWxDSEVfeTFZbk85a0FkU3lhQW1VYXlKN1lzTHM5NjQ0Y3pvSmV0dUNRQWZoTnptdHlIVWM?oc=5",
+          "source": "Billboard",
+          "publishedAt": "2026-11-18",
+          "lede": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+          "articleExcerpt": "Carlyle, KKR Back Litmus with $475 Million In Fresh Funding - Billboard. Carlyle, KKR Back Litmus with $475 Million In Fresh Funding Billboard",
+          "contentFingerprint": "3861a845ad080c5f",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "KKR co-led $475M in fresh funding for Litmus Music, a music-catalog acquirer. Such funding is typically structured as asset-backed or royalty-secured debt, which would fall under KKR's asset-based finance business. The snippet does not say whether KKR's piece is debt or equity, so the tag is kept with moderate importance. Carlyle is not a tracked GP.",
+            "llmReasonZh": "KKR联合领投音乐版权收购方Litmus Music的4.75亿美元新融资。此类融资通常采用资产支持或以版权收益为担保的债务结构，属于KKR资产支持融资（asset-based finance）业务范畴。摘要未说明KKR出资部分为债务还是股权，因此保留该标签并设为中等重要性。Carlyle不属于跟踪的GP。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Billboard"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 68,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.94,
+            "finalScore": 10.940000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-1aef84e96bf2",
+          "title": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha",
+          "titleZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）- Seeking Alpha",
+          "summary": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+          "summaryZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmU1NEpXRUR6M0NUZW5zblpySjhsV0xabTZDRm1BaGJ5cExlS1FKbTJLVXNLeDFXcW1vVXg1UjFOdDJwVGp0WGR0UGUxV3ZYLUY4Y005cWdnTUx1RVpFazRMR0xoRDY0MlJWVjQ5MzBnVGxTQTdiRFJjRGRZOVZqQThvQjdNcWxMUkhOMEZvbW53SENzWGFfOWlmTQ?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-18",
+          "lede": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+          "articleExcerpt": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha. Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) Seeking Alpha",
+          "contentFingerprint": "a2430afefc53400c",
+          "region": "Global",
+          "gps": [
+            "Guggenheim"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Guggenheim"
+            ],
+            "titleGps": [
+              "Guggenheim"
+            ],
+            "llmGps": [
+              "Guggenheim"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "This is a quarterly commentary for Guggenheim Investments' Macro Opportunities Fund (GIOIX), a fixed-income and credit mutual fund. That makes it credit-relevant manager news. It is routine fund commentary, with no financing, fundraising or litigation event. The article text gives no detail, so no specific strategy can be confirmed and importance is low-moderate.",
+            "llmReasonZh": "本文为Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论，该基金为一只固定收益及信贷类共同基金，因此属于与信贷相关的管理人新闻。本文为例行基金评论，不涉及融资、募资或诉讼事件。文章正文未提供细节，无法确认任何具体策略，重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Guggenheim"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.55,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.79,
+            "finalScore": 7.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-476a3416e810",
+          "title": "Blackstone flags junk rating risk for Anthropic over $63B deal - NewsBytes",
+          "titleZh": "Blackstone警示Anthropic因630亿美元交易面临垃圾级评级风险 - NewsBytes",
+          "summary": "Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+          "summaryZh": "Blackstone警示Anthropic因630亿美元交易面临垃圾级评级风险 NewsBytes",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFFyQUJ3b2FfeXJwQlFhQnBBTHpnVVBCZVJiSFUwQVBNSldNdU5ZczY3UC1zTnZ2NkgzeWFvQzE0V0pLeHRKNEpXazRQQl9ZU29EVk45cGZBQXlLeWx5d01kOEhUa2tYdzU2OGVXRWt6V1VOSUxjbURmSFNneUNwQm8tckF0VFM3c0l2bWFUb0dsNVFRYzRIMC0zdFVjQUx3ZUdab0FYT1NGT3d0SGc?oc=5",
+          "source": "NewsBytes",
+          "publishedAt": "2026-11-18",
+          "lede": "Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+          "articleExcerpt": "Blackstone flags junk rating risk for Anthropic over $63B deal - NewsBytes. Blackstone flags junk rating risk for Anthropic over $63B deal NewsBytes",
+          "contentFingerprint": "1e0fb4190d5eb7ae",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blackstone is flagging junk (sub-investment-grade) rating risk for Anthropic over a $63B deal. That is a credit assessment of the financing around a large AI transaction, which falls under Blackstone's credit/lending business. The article text is only a headline, so the GP's exact role in the deal is unclear.",
+            "llmReasonZh": "Blackstone警示Anthropic因一项630亿美元交易面临垃圾级（低于投资级）评级风险。这是对一项大型AI交易相关融资的信用评估，属于Blackstone信贷/贷款业务范畴。该文章内容仅有标题，因此该GP在交易中的具体角色尚不明确。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.51,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.32
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "NewsBytes"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 9,
+            "semanticScore": 3.83,
+            "finalScore": 12.83,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-a69c65603f13",
+          "title": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms",
+          "titleZh": "Blackstone与Apollo瞄准Solvency II改革前的€10trn欧盟保险市场",
+          "summary": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall.",
+          "summaryZh": "据Bloomberg援引S&P Global Ratings的报道，Blackstone、Apollo Global Management和Pimco正寻求在Solvency II改革前扩大其在欧盟€10trn保险资产市场中的份额。按保险公司现有持仓计算，该改革可释放€80bn监管资本。相关变更将于2027年1月30日生效，届时将有更多长期股权持仓可适用22%的资本要求，而普通上市股票的资本要求为39%，大多数私募股权及其他非上市投资为49%。部分优先级结构化信贷投资的资本要求也将下调。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://privateequitywire.com/news/6-blackstone-and-apollo-target-10trn-eu-insurance-market-ahead-of-solvency-ii-reforms",
+          "source": "Google News",
+          "publishedAt": "2026-11-18",
+          "lede": "Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC Capital Partners is already discussing the changes with insurers across Europe. Insurers will still need to approve new mandates, build expertise and assess how less liquid assets fit the cash flows they need to meet policyholder obligations. Some changes will have limited direct impact on large insurers such as Allianz, AXA and Generali, which use internal models to calculate capital requirements. The European Insurance and Occupational Pensions Authority and the European Central Bank have also raised concerns that the reforms could weaken capital buffers. A parallel package aims to revive Europe’s securitisation market by lowering bank capital requirements on certain exposures. Europe had nearly €1.3trn of securitisations outstanding at the end of June, up 2.7% year on year, according to the Association for Financial Markets in Europe. Securitisations account for less than 1% of EU insurers’ investment portfolios, according to MetLife Investment Management, leaving room for growth as European managers compete with a deeper US market for new allocations.",
+          "articleExcerpt": "Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms. Private Equity Wire | Blackstone and Apollo target €10trn EU… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Blackstone and Apollo target €10trn EU insurance market ahead of Solvency II reforms November 18, 2026 at 10:30 am Share this article Blackstone, Apollo Global Management and Pimco are seeking a larger share of the EU’s €10trn insurance asset market ahead of Solvency II reforms that could free up €80bn in regulatory capital based on insurers’ existing holdings, according to a Bloomberg report citing S&P Global Ratings. The changes, due to take effect on 30 January 2027, will allow more long-term equity holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed equities and 49% for most private equity and other unlisted investments. Capital charges on some senior structured credit investments are also set to fall. Blackstone has reported growing insurer interest in collateralised loan obligations (CLOs) and private investment-grade credit, while CVC",
+          "contentFingerprint": "6de8b995eaa022da",
+          "region": "US",
+          "gps": [
+            "Blackstone",
+            "Apollo",
+            "CVC"
+          ],
+          "strategies": [
+            "private-credit",
+            "structured",
+            "clo"
+          ],
+          "sectors": [
+            "private-credit",
+            "structured",
+            "clo"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone",
+              "Apollo",
+              "CVC"
+            ],
+            "titleGps": [
+              "Blackstone",
+              "Apollo"
+            ],
+            "llmGps": [
+              "Blackstone",
+              "Apollo",
+              "CVC"
+            ],
+            "keywordStrategies": [
+              "structured",
+              "clo"
+            ],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "structured",
+              "clo"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone and Apollo (with Pimco) are courting EU insurers' €10trn of assets ahead of the Solvency II reforms. The reforms lower capital charges on senior structured credit, and Blackstone cites growing insurer demand for CLOs and private investment-grade credit, so this is credit-relevant. CVC is mentioned at the truncated end of the text, likely in a credit context. There is no specific transaction, fund close or litigation, so this is routine market and manager news.",
+            "llmReasonZh": "Blackstone和Apollo（以及Pimco）正在Solvency II改革前争取欧盟保险公司的€10trn资产。该改革将降低优先级结构化信贷的资本要求，且Blackstone提到保险公司对CLO和私募投资级信贷的需求日益增长，因此与信贷相关。文本截断的末尾提及CVC，很可能涉及信贷背景。文中未涉及具体交易、基金募集完成或诉讼，因此属于常规市场及管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone",
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "structured",
+                  "clo"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 66,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 26,
+            "semanticScore": 4.91,
+            "finalScore": 30.91,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-f75b62703cde",
+          "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
+          "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
+          "summary": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+          "summaryZh": "Apollo欧洲负责人认为人工智能与国防领域存在巨大融资需求 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1FObktXUU5yMUN2QzFrcXE4SjNsWVB2Uk1mbEd1anFpVFlod0Z5OFhBNFhJNUt4WkFaUS02T3Z2ZzNhY0VDRk5FeEtRR3BmckliMUoxMjNnUWdkcllSdDZ0WWR6bjJ4MVNQOG14Qnk2QTNwU1RPREs3MmhoVkxJSmtfdmNCaU9yNWxqekRVajB3RGl6Zm5JLWY5QWw2QXcxUlYwa3kxcWlWcWpzMWtYd0E3azM?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-18",
+          "lede": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+          "articleExcerpt": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com. Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense Bloomberg.com",
+          "contentFingerprint": "41d9fcf5656597a9",
+          "region": "Europe",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Apollo's Europe head comments on large financing demand for AI and defense. This is credit and financing commentary relevant to Apollo's lending business. No specific transaction, fund close or lawsuit is mentioned, so it is routine manager news.",
+            "llmReasonZh": "Apollo欧洲负责人就人工智能和国防领域的大规模融资需求发表评论。此为与Apollo贷款业务相关的信贷及融资评论。文中未提及具体交易、基金募集完成或诉讼，因此属于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.48
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 79,
+            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 21,
+            "semanticScore": 5.73,
+            "finalScore": 26.73,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 26,
+      "count": 24,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -215637,38 +218605,38 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 100,
-      "selected": 1,
+      "selected": 6,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 4,
-      "selected": 0,
+      "count": 7,
+      "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 8,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -215676,12 +218644,12 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 4,
+      "count": 5,
       "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
@@ -215689,25 +218657,25 @@
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 6,
-      "selected": 1,
+      "count": 7,
+      "selected": 2,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 7,
+      "count": 8,
       "selected": 2,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -215715,7 +218683,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
@@ -215728,12 +218696,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 22,
+      "count": 17,
       "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -215741,12 +218709,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 101,
+      "count": 99,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -215754,12 +218722,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 24,
+      "count": 27,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -215767,12 +218735,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 7,
+      "count": 8,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -215780,12 +218748,12 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 10,
+      "count": 11,
       "selected": 6,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -215793,20 +218761,20 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 19,
-      "selected": 0,
+      "count": 21,
+      "selected": 1,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
@@ -215819,12 +218787,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 726,
+      "count": 701,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -215841,9 +218809,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-18T03:59:30.802067+00:00",
+      "asOf": "2026-11-18T12:40:24.111316+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-18T03:59:30.802067+00:00"
+  "checkedAt": "2026-11-18T12:40:24.111316+00:00"
 }
