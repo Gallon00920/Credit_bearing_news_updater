@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-17T23:22:30.354865+00:00",
+  "updatedAt": "2026-11-18T05:16:37.391047+00:00",
   "scope": {
     "regions": [
       "US",
@@ -172,358 +172,6 @@
     }
   },
   "dates": {
-    "2026-08-20": {
-      "byGp": {
-        "Blue Owl": [],
-        "KKR": [],
-        "CIFC": [],
-        "PAG": [],
-        "Pretium": [],
-        "Guggenheim": [
-          {
-            "id": "2026-08-20-780f01224183",
-            "title": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs - finance.yahoo.com",
-            "titleZh": "Guggenheim Investments推出两只新ETF，扩展主动型ETF平台 - finance.yahoo.com",
-            "summary": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs finance.yahoo.com",
-            "summaryZh": "Guggenheim Investments推出两只新ETF，扩展其主动型ETF平台 finance.yahoo.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkx4M3lVeXhWZmJVVlRCMlBfbGdkbzBRUkl4VkpUdHhab2t3cTVWZGhJZHRzXzJHM0RMbHI3QXJxNUVkTlRKNWhmUjdBZUZtMi0zWi01bFlxUkhwS1l4NzdtSUF3MUswdXJTOWRPNWt6Q0lIZW5BakUtUnBqbDdvREhmVXkzS2dhLXM0N2FnVjJGakF2NHYzMTFHanNXYy1neGNDX0hQSnloQQ?oc=5",
-            "source": "finance.yahoo.com",
-            "publishedAt": "2026-08-20",
-            "lede": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs finance.yahoo.com",
-            "region": "Global",
-            "gps": [
-              "Guggenheim"
-            ],
-            "sectors": [],
-            "curation": "rss_filter",
-            "scoreBreakdown": {
-              "keywordScore": 11,
-              "semanticScore": 0,
-              "finalScore": 11,
-              "semanticEnabled": false
-            },
-            "classificationBreakdown": {
-              "llmReasonZh": "无"
-            },
-            "strategies": [],
-            "events": [
-              "financing"
-            ],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Guggenheim"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.0,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": []
-                },
-                "event": {
-                  "value": 0.7,
-                  "code": "financing",
-                  "ruleValue": 0.7,
-                  "events": [
-                    "financing"
-                  ]
-                },
-                "source": {
-                  "value": 0.25,
-                  "code": "tier_aggregator",
-                  "source": "finance.yahoo.com"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 57,
-              "retrievedAt": "2026-10-29T09:02:01.312627+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          },
-          {
-            "id": "2026-08-20-5a2b857ef4f7",
-            "title": "Problems at Guggenheim Strategic Opportunities Fund (GOF) - The Bear Cave | Substack",
-            "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 问题重重 - The Bear Cave | Substack",
-            "summary": "Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-            "summaryZh": "Guggenheim Strategic Opportunities Fund (GOF) 存在的问题 The Bear Cave | Substack",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRzFnWHphZXl1Ukx4am0xZU0tV2UxRFRRZkVmcmhxX09zcGJHXzdRemJqZFpOUlQ5QkFtN3IwdTRiTjdfREpMeDNIYjNxOVFiaHg4N29yZXFsckl0cHV3ZHZFRy1oVjNYam9FRjVDYWMwV0xqYXc?oc=5",
-            "source": "The Bear Cave | Substack",
-            "publishedAt": "2026-08-20",
-            "lede": "Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-            "articleExcerpt": "Problems at Guggenheim Strategic Opportunities Fund (GOF) - The Bear Cave | Substack. Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-            "region": "Global",
-            "gps": [
-              "Guggenheim"
-            ],
-            "sectors": [
-              "clo"
-            ],
-            "curation": "rss_filter",
-            "excludedByClassifier": false,
-            "classificationBreakdown": {
-              "keywordGps": [
-                "Guggenheim"
-              ],
-              "llmGps": [
-                "Guggenheim"
-              ],
-              "keywordSectors": [],
-              "llmSectors": [
-                "CLO"
-              ],
-              "llmExclude": false,
-              "llmReason": "Guggenheim Strategic Opportunities Fund (GOF) is a publicly traded closed-end fund managed by Guggenheim Investments, primarily invested in a diversified portfolio of credit instruments including CLOs, high-yield bonds, and leveraged loans — squarely within tracked credit/structured-finance activity. CLO is a tracked sub-sector.",
-              "llmReasonZh": "Guggenheim Strategic Opportunities Fund (GOF) 是一只由 Guggenheim Investments 管理的公开交易封闭式基金，主要投资于多元化的信贷工具组合，包括CLO、高收益债券和杠杆贷款，完全属于所追踪的信贷/结构化融资领域。CLO为所追踪的细分领域。"
-            },
-            "scoreBreakdown": {
-              "keywordScore": 6,
-              "semanticScore": 5.86,
-              "finalScore": 11.86,
-              "semanticEnabled": true
-            },
-            "strategies": [
-              "clo"
-            ],
-            "events": [],
-            "rating": {
-              "parts": {
-                "institution": {
-                  "value": 1.0,
-                  "code": "title_names_gp",
-                  "gps": [
-                    "Guggenheim"
-                  ]
-                },
-                "strategy": {
-                  "value": 0.54,
-                  "code": "body_strategy",
-                  "tagValue": 0.6,
-                  "strategies": [
-                    "clo"
-                  ],
-                  "semanticValue": 0.49
-                },
-                "event": {
-                  "value": 0.2,
-                  "code": "routine",
-                  "ruleValue": 0.2,
-                  "events": []
-                },
-                "source": {
-                  "value": 0.35,
-                  "code": "tier_other",
-                  "source": "The Bear Cave | Substack"
-                },
-                "freshness": {
-                  "value": 0.8,
-                  "code": "estimated"
-                }
-              },
-              "weights": {
-                "institution": 18,
-                "strategy": 12,
-                "event": 30,
-                "source": 25,
-                "freshness": 15
-              },
-              "score": 51,
-              "retrievedAt": "2026-10-29T09:02:01.313101+00:00"
-            },
-            "summaryZhLanguage": "Simplified Chinese"
-          }
-        ],
-        "Neuberger": [],
-        "BasePoint": [],
-        "Bain Capital": [],
-        "Blackstone": [],
-        "Apollo": [],
-        "TPG": [],
-        "Golub": [],
-        "CVC": [],
-        "Canyon": []
-      },
-      "items": [
-        {
-          "id": "2026-08-20-780f01224183",
-          "title": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs - finance.yahoo.com",
-          "titleZh": "Guggenheim Investments推出两只新ETF，扩展主动型ETF平台 - finance.yahoo.com",
-          "summary": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs finance.yahoo.com",
-          "summaryZh": "Guggenheim Investments推出两只新ETF，扩展其主动型ETF平台 finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkx4M3lVeXhWZmJVVlRCMlBfbGdkbzBRUkl4VkpUdHhab2t3cTVWZGhJZHRzXzJHM0RMbHI3QXJxNUVkTlRKNWhmUjdBZUZtMi0zWi01bFlxUkhwS1l4NzdtSUF3MUswdXJTOWRPNWt6Q0lIZW5BakUtUnBqbDdvREhmVXkzS2dhLXM0N2FnVjJGakF2NHYzMTFHanNXYy1neGNDX0hQSnloQQ?oc=5",
-          "source": "finance.yahoo.com",
-          "publishedAt": "2026-08-20",
-          "lede": "Guggenheim Investments Expands Active ETF Platform with Launch of Two New ETFs finance.yahoo.com",
-          "region": "Global",
-          "gps": [
-            "Guggenheim"
-          ],
-          "sectors": [],
-          "curation": "rss_filter",
-          "scoreBreakdown": {
-            "keywordScore": 11,
-            "semanticScore": 0,
-            "finalScore": 11,
-            "semanticEnabled": false
-          },
-          "classificationBreakdown": {
-            "llmReasonZh": "无"
-          },
-          "strategies": [],
-          "events": [
-            "financing"
-          ],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Guggenheim"
-                ]
-              },
-              "strategy": {
-                "value": 0.0,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": []
-              },
-              "event": {
-                "value": 0.7,
-                "code": "financing",
-                "ruleValue": 0.7,
-                "events": [
-                  "financing"
-                ]
-              },
-              "source": {
-                "value": 0.25,
-                "code": "tier_aggregator",
-                "source": "finance.yahoo.com"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 57,
-            "retrievedAt": "2026-10-29T09:02:01.312627+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        },
-        {
-          "id": "2026-08-20-5a2b857ef4f7",
-          "title": "Problems at Guggenheim Strategic Opportunities Fund (GOF) - The Bear Cave | Substack",
-          "titleZh": "Guggenheim Strategic Opportunities Fund (GOF) 问题重重 - The Bear Cave | Substack",
-          "summary": "Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-          "summaryZh": "Guggenheim Strategic Opportunities Fund (GOF) 存在的问题 The Bear Cave | Substack",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRzFnWHphZXl1Ukx4am0xZU0tV2UxRFRRZkVmcmhxX09zcGJHXzdRemJqZFpOUlQ5QkFtN3IwdTRiTjdfREpMeDNIYjNxOVFiaHg4N29yZXFsckl0cHV3ZHZFRy1oVjNYam9FRjVDYWMwV0xqYXc?oc=5",
-          "source": "The Bear Cave | Substack",
-          "publishedAt": "2026-08-20",
-          "lede": "Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-          "articleExcerpt": "Problems at Guggenheim Strategic Opportunities Fund (GOF) - The Bear Cave | Substack. Problems at Guggenheim Strategic Opportunities Fund (GOF) The Bear Cave | Substack",
-          "region": "Global",
-          "gps": [
-            "Guggenheim"
-          ],
-          "sectors": [
-            "clo"
-          ],
-          "curation": "rss_filter",
-          "excludedByClassifier": false,
-          "classificationBreakdown": {
-            "keywordGps": [
-              "Guggenheim"
-            ],
-            "llmGps": [
-              "Guggenheim"
-            ],
-            "keywordSectors": [],
-            "llmSectors": [
-              "CLO"
-            ],
-            "llmExclude": false,
-            "llmReason": "Guggenheim Strategic Opportunities Fund (GOF) is a publicly traded closed-end fund managed by Guggenheim Investments, primarily invested in a diversified portfolio of credit instruments including CLOs, high-yield bonds, and leveraged loans — squarely within tracked credit/structured-finance activity. CLO is a tracked sub-sector.",
-            "llmReasonZh": "Guggenheim Strategic Opportunities Fund (GOF) 是一只由 Guggenheim Investments 管理的公开交易封闭式基金，主要投资于多元化的信贷工具组合，包括CLO、高收益债券和杠杆贷款，完全属于所追踪的信贷/结构化融资领域。CLO为所追踪的细分领域。"
-          },
-          "scoreBreakdown": {
-            "keywordScore": 6,
-            "semanticScore": 5.86,
-            "finalScore": 11.86,
-            "semanticEnabled": true
-          },
-          "strategies": [
-            "clo"
-          ],
-          "events": [],
-          "rating": {
-            "parts": {
-              "institution": {
-                "value": 1.0,
-                "code": "title_names_gp",
-                "gps": [
-                  "Guggenheim"
-                ]
-              },
-              "strategy": {
-                "value": 0.54,
-                "code": "body_strategy",
-                "tagValue": 0.6,
-                "strategies": [
-                  "clo"
-                ],
-                "semanticValue": 0.49
-              },
-              "event": {
-                "value": 0.2,
-                "code": "routine",
-                "ruleValue": 0.2,
-                "events": []
-              },
-              "source": {
-                "value": 0.35,
-                "code": "tier_other",
-                "source": "The Bear Cave | Substack"
-              },
-              "freshness": {
-                "value": 0.8,
-                "code": "estimated"
-              }
-            },
-            "weights": {
-              "institution": 18,
-              "strategy": 12,
-              "event": 30,
-              "source": 25,
-              "freshness": 15
-            },
-            "score": 51,
-            "retrievedAt": "2026-10-29T09:02:01.313101+00:00"
-          },
-          "summaryZhLanguage": "Simplified Chinese"
-        }
-      ]
-    },
     "2026-08-24": {
       "byGp": {
         "Blue Owl": [],
@@ -7498,7 +7146,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -19908,7 +19556,7 @@
           "title": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "titleZh": "HSBC Medium Term Fund - Direct Plan - IDCW - financialexpress.com",
           "summary": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
-          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW financialexpress.com",
+          "summaryZh": "HSBC Medium Term Fund - Direct Plan - IDCW（financialexpress.com）",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdqUnhIeTByOXZLUWZYUzBHanEwOGQ0Rkd0Y3ZwOE9TVl9HQlFhMHUyVi1hSDNlY3ZkdEtFQklSb3pjanI0QVAwWlRRWE8wWTJhY2FaTkY2SE5XUDlsS0hMbVhiRGhsX2NaV1VhTlpXeDhZXzhwM3RwZlRpTF9nLVhoZnpva3FMWGlJRElfOENpWFpFNkNscVdRa0hYWmc?oc=5",
           "source": "financialexpress.com",
@@ -19932,7 +19580,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相契合，特别是投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -206943,6 +206591,106 @@
               "finalScore": 19.65,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-16-cc2746afc0b0",
+            "title": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing - Securities.io",
+            "titleZh": "J&J获Blackstone提供7.5亿美元研发融资，待Ollin交易完成 - Securities.io",
+            "summary": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+            "summaryZh": "J&J获Blackstone提供7.5亿美元研发融资，待Ollin交易完成 Securities.io",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXFOMVd4OVo3blY5NW5BTWZ3NEFLQnRkbVc2SnNqYk0tUmJhbVQwV0x3T09oS2kxNXBfN3IwSTdNOV95N3RveGEtQnpzVXFmd0RzN0ZLTlZ1TDJSZnBNQVYzSVdoYnlDeG9GZW1hSi1IVlNKbXl3ZnFjYVE5aDN5VFBNTlMyLTZ4M05KbGlKQnZsMzh1aVhzTWhsajBGOFRlUU5NWDFTRnhIQQ?oc=5",
+            "source": "Securities.io",
+            "publishedAt": "2026-11-16",
+            "lede": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+            "articleExcerpt": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing - Securities.io. J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+            "contentFingerprint": "f3c224d79e178731",
+            "region": "US",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing",
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is providing $750M of R&D funding to J&J. This is a structured, financing-like arrangement, typically repaid through milestones or royalties, so it has a financing angle. However, it most likely comes from Blackstone Life Sciences, which is not a core credit platform. The deal does not map to any tracked credit strategy, so importance is moderate.",
+              "llmReasonZh": "Blackstone将向J&J提供7.5亿美元研发资金。该安排属于结构化、类融资性质，通常通过里程碑付款或特许权使用费偿还，因此具有融资属性。但资金很可能来自Blackstone Life Sciences，并非核心信贷平台。该交易未对应任何跟踪中的信贷策略，因此重要性为中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "financing",
+                    "fundraising"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Securities.io"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.93,
+              "finalScore": 20.93,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -209755,6 +209503,106 @@
           }
         },
         {
+          "id": "2026-11-16-cc2746afc0b0",
+          "title": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing - Securities.io",
+          "titleZh": "J&J获Blackstone提供7.5亿美元研发融资，待Ollin交易完成 - Securities.io",
+          "summary": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+          "summaryZh": "J&J获Blackstone提供7.5亿美元研发融资，待Ollin交易完成 Securities.io",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXFOMVd4OVo3blY5NW5BTWZ3NEFLQnRkbVc2SnNqYk0tUmJhbVQwV0x3T09oS2kxNXBfN3IwSTdNOV95N3RveGEtQnpzVXFmd0RzN0ZLTlZ1TDJSZnBNQVYzSVdoYnlDeG9GZW1hSi1IVlNKbXl3ZnFjYVE5aDN5VFBNTlMyLTZ4M05KbGlKQnZsMzh1aVhzTWhsajBGOFRlUU5NWDFTRnhIQQ?oc=5",
+          "source": "Securities.io",
+          "publishedAt": "2026-11-16",
+          "lede": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+          "articleExcerpt": "J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing - Securities.io. J&J Secures $750 Million in Blackstone R&D Funding, Pending Ollin Closing Securities.io",
+          "contentFingerprint": "f3c224d79e178731",
+          "region": "US",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing",
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is providing $750M of R&D funding to J&J. This is a structured, financing-like arrangement, typically repaid through milestones or royalties, so it has a financing angle. However, it most likely comes from Blackstone Life Sciences, which is not a core credit platform. The deal does not map to any tracked credit strategy, so importance is moderate.",
+            "llmReasonZh": "Blackstone将向J&J提供7.5亿美元研发资金。该安排属于结构化、类融资性质，通常通过里程碑付款或特许权使用费偿还，因此具有融资属性。但资金很可能来自Blackstone Life Sciences，并非核心信贷平台。该交易未对应任何跟踪中的信贷策略，因此重要性为中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.65,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "financing",
+                  "fundraising"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Securities.io"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 4.93,
+            "finalScore": 20.93,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-16-2011f595d657",
           "title": "Trading Floor: Crescent Capital (+8%), Apollo Global Management (+5.8%), Italmobiliare (+5.6%), Tikehau (-5.5%), NYSE-listed private credit firms plummet - BeBeez International",
           "titleZh": "交易大厅：Crescent Capital（+8%）、Apollo Global Management（+5.8%）、Italmobiliare（+5.6%）、Tikehau（-5.5%），纽交所上市私募信贷公司股价暴跌 - BeBeez International",
@@ -210777,6 +210625,110 @@
               "finalScore": 20.57,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-c5d90de08a34",
+            "title": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case - Simply Wall St",
+            "titleZh": "OWL：私募信贷与财富管理业务仍居主导，募资实力进一步夯实投资逻辑 - Simply Wall St",
+            "summary": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+            "summaryZh": "OWL：私募信贷与财富管理业务仍居主导，募资实力进一步夯实投资逻辑 Simply Wall St",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNTE8xVzVUQjBCLTZONlNGNU52Z3dXd0Z1WGR2eWVMal9FcjE5ZjdYZXlYZjN4bXVxMTJ4dlFENHFTaERGc09aaDJTUndQLWtGMkd4RTZSaUx5NnpGZUdrWjRxYkpTRzNwYTZNUFUtVnFwaVVJMDRqakhTSmtGWnVYWlY5T3BpVGpTdWF6SVl6d1RmOVdmQmxaQWlwUF8xRjZRSWJjN0NWX29KcHBvUWV5LWxGVTA2bjMySjRiTmlQeTJHRzl1UmcybVFLeTBvSjNLT0t2UEpJcWZOMWNWNGVoNHJrdnZ1NkUxRU5PT3p2UDNmR3F6eHJzWFBNdE9nZ1BTeUM3ZG1oM1c4Q0k0ZWVfZlgyZXNReVgzcXlBeW9ORGtaZ0xyaG9mbW96YXA2ZDJqUnpQRmtrSHNZUm02NE1oMF85emFDNkpBUzRZMmc5cy1JOHp1OGNpa2w0V1RNdW1CaVlycXNEUF9rZUN5VXBCbkFweUJjX0c4?oc=5",
+            "source": "Simply Wall St",
+            "publishedAt": "2026-11-17",
+            "lede": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+            "articleExcerpt": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case - Simply Wall St. OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+            "contentFingerprint": "442b0b3f97e85fd9",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "fundraising"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Simply Wall St analyst/stock commentary on Blue Owl (OWL) highlighting its private credit and wealth businesses and fundraising strength. It reports no specific fund close or transaction, so no event type is tagged and importance is set at the stock-commentary level.",
+              "llmReasonZh": "Simply Wall St 针对 Blue Owl (OWL) 的分析师/个股评论，重点提及其私募信贷与财富管理业务以及募资实力。文章未报道具体的基金募集完成或交易，因此未标注事件类型，重要性按个股评论级别设定。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.48,
+                  "code": "fundraising",
+                  "ruleValue": 0.8,
+                  "events": [
+                    "fundraising"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Simply Wall St"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 57,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.9,
+              "finalScore": 18.9,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -211309,6 +211261,100 @@
               "finalScore": 16.79,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-634f8c48d540",
+            "title": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com",
+            "titleZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone - Investing.com",
+            "summary": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "summaryZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUlPbzNBUTRGZ1lXaUwycTFZY0FQNWk1WHM4TjlSaVZldFdtRVNFdFp1ZjR0eFNaS0g1VkkzY3FCVlBlN0U4MDdXR0NyWm1udGE1SGlKQUh2UE5LajBtSTBZSVBSXzk4a1ZXUFVoS2didDQ1cjlwd3I4NEpGZTNGZTltdU1oa3gtanJVeWlmcGU5UWxZd0xPclMxN3lBOVNyM2swX1JRY3VMcnZLWEJMMjFlb05RV1JXZTl1SDhBYkg1TllkN05pVjhB?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-17",
+            "lede": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "articleExcerpt": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com. Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "contentFingerprint": "f0ae4e53097ca1a5",
+            "region": "Global",
+            "gps": [
+              "Blackstone",
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone",
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst initiation of coverage on publicly listed asset managers (Apollo, Blackstone; Ares is not tracked). This is stock and analyst commentary with no specific credit transaction, lawsuit or fundraising. Both firms' businesses are heavily credit-driven, so the article is kept at low importance rather than excluded.",
+              "llmReasonZh": "分析师首次覆盖上市资产管理公司（Apollo、Blackstone；Ares未在跟踪范围内）。本文属于股票及分析师评论，未涉及具体信贷交易、诉讼或募资事项。鉴于两家公司的业务高度依赖信贷，本文以低重要性保留，而非剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.25,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 47,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 5.97,
+              "finalScore": 12.969999999999999,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -211418,6 +211464,100 @@
               "keywordScore": 13,
               "semanticScore": 3.79,
               "finalScore": 16.79,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-634f8c48d540",
+            "title": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com",
+            "titleZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone - Investing.com",
+            "summary": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "summaryZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUlPbzNBUTRGZ1lXaUwycTFZY0FQNWk1WHM4TjlSaVZldFdtRVNFdFp1ZjR0eFNaS0g1VkkzY3FCVlBlN0U4MDdXR0NyWm1udGE1SGlKQUh2UE5LajBtSTBZSVBSXzk4a1ZXUFVoS2didDQ1cjlwd3I4NEpGZTNGZTltdU1oa3gtanJVeWlmcGU5UWxZd0xPclMxN3lBOVNyM2swX1JRY3VMcnZLWEJMMjFlb05RV1JXZTl1SDhBYkg1TllkN05pVjhB?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-17",
+            "lede": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "articleExcerpt": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com. Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+            "contentFingerprint": "f0ae4e53097ca1a5",
+            "region": "Global",
+            "gps": [
+              "Blackstone",
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone",
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Analyst initiation of coverage on publicly listed asset managers (Apollo, Blackstone; Ares is not tracked). This is stock and analyst commentary with no specific credit transaction, lawsuit or fundraising. Both firms' businesses are heavily credit-driven, so the article is kept at low importance rather than excluded.",
+              "llmReasonZh": "分析师首次覆盖上市资产管理公司（Apollo、Blackstone；Ares未在跟踪范围内）。本文属于股票及分析师评论，未涉及具体信贷交易、诉讼或募资事项。鉴于两家公司的业务高度依赖信贷，本文以低重要性保留，而非剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.25,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 47,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 5.97,
+              "finalScore": 12.969999999999999,
               "semanticEnabled": true
             }
           },
@@ -211970,9 +212110,9 @@
           {
             "id": "2026-11-17-e5dafaec12f5",
             "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
-            "titleZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 - BigGo Finance",
+            "titleZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 - BigGo Finance",
             "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
-            "summaryZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 BigGo Finance",
+            "summaryZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 BigGo Finance",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
             "source": "BigGo Finance",
@@ -211985,9 +212125,11 @@
               "Apollo"
             ],
             "strategies": [
+              "private-credit",
               "ai"
             ],
             "sectors": [
+              "private-credit",
               "ai"
             ],
             "events": [
@@ -212012,13 +212154,14 @@
                 "ai"
               ],
               "llmStrategies": [
+                "private-credit",
                 "ai"
               ],
               "llmEvents": [],
               "llmImportance": 0.5,
               "llmExclude": false,
-              "llmReason": "Apollo CEO Marc Rowan says the AI buildout could need up to $8 trillion in financing, which would test U.S. credit markets. This bears directly on Apollo's credit business and AI infrastructure lending. It is executive market commentary with no specific transaction, so no event type applies.",
-              "llmReasonZh": "Apollo首席执行官Marc Rowan表示，AI基础设施建设可能需要高达8万亿美元的融资，这将考验美国信贷市场。此事与Apollo的信贷业务及AI基础设施贷款直接相关。该内容属于高管市场评论，未涉及具体交易，因此不适用任何事件类型。"
+              "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs (up to $8T) and their impact on U.S. credit markets. This is relevant to Apollo's credit and lending business and to the AI financing theme. It is market commentary rather than a specific transaction, so no event type applies and importance is moderate.",
+              "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施融资需求（最高8万亿美元）及其对美国信贷市场的影响发表评论。此内容与Apollo的信贷及贷款业务以及AI融资主题相关。由于属于市场评论而非具体交易，因此不适用任何事件类型，重要性为中等。"
             },
             "rating": {
               "parts": {
@@ -212034,6 +212177,7 @@
                   "code": "title_hits_strategy",
                   "tagValue": 1.0,
                   "strategies": [
+                    "private-credit",
                     "ai"
                   ],
                   "semanticValue": 0.51
@@ -212055,7 +212199,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.4
+                  "days": 0.7
                 }
               },
               "weights": {
@@ -212066,12 +212210,12 @@
                 "freshness": 15
               },
               "score": 69,
-              "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 16,
+              "keywordScore": 19,
               "semanticScore": 6.12,
-              "finalScore": 22.12,
+              "finalScore": 25.12,
               "semanticEnabled": true
             }
           }
@@ -212609,6 +212753,422 @@
               "finalScore": 18.79,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-17-00f5c4e56e97",
+            "title": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline - ChartMill",
+            "titleZh": "Golub Capital BDC (NASDAQ:GBDC) 第四季度营收逊于预期、NAV下降，股价下滑 - ChartMill",
+            "summary": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+            "summaryZh": "Golub Capital BDC (NASDAQ:GBDC) 第四季度业绩喜忧参半，营收逊于预期且NAV下降，股价下滑 ChartMill",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQam1FTU5ZNXl1Vk9kZGhMUGdlM1JPVUJ2cHc5Qm54TW9GWndMZlM1TVZHSnhGQ0ZKeXV0QXVpSkFWOEMxaGRVdkE3SkJWU252dTI2ZHAzVjlDTVBhbVpWZUFCSzhIRVBmMGpyQ0o2NElKR1d2NnFxSEtKMnAxd25kbVh0R1g1ckc4ZUlYcGhfel90cUlFcFQwZzg2dnNGVElkeU1hV2syOE93R25jOWhBVVJFa1NDSDlNX3JCUEZCZzlTQUgyS2pKSjVCZw?oc=5",
+            "source": "ChartMill",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+            "articleExcerpt": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline - ChartMill. Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+            "contentFingerprint": "a3368f47c245650f",
+            "region": "US",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is a credit vehicle. The article covers its stock decline after a Q4 revenue miss and NAV decline. It is mostly stock-price commentary, but the NAV decline is credit-relevant, so importance is set above the 0.15 baseline for stock news.",
+              "llmReasonZh": "Golub Capital BDC 是一家信贷投资工具。本文报道了其在第四季度营收逊于预期及NAV下降后股价下跌的情况。文章主要为股价评论，但NAV下降与信贷相关，因此重要性评分设定高于股票新闻0.15的基准值。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "ChartMill"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 6.38,
+              "finalScore": 22.38,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-541c83825bce",
+            "title": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com - Investing.com UK",
+            "titleZh": "Golub Capital BDC即将发布财报，营收压力加剧 - Investing.com UK",
+            "summary": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+            "summaryZh": "Golub Capital BDC即将发布财报，营收压力加剧 - Investing.com UK",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaU1fZHVzUHVrZnUtQzJLOTB5YXZhVGw0STNaQ29Wb0FtdG1rVnlueG0wM2IzWDVycldPdk5XSlhGUHJNclRUcHN4XzI1dFhraVZoeGZvSzl5TWVxQjM0UnRzTWhweFFHdDFXck9xRGFhWm9ydEdZRjdWYjFVdTFvcmt6blV0T3ZwMkhiazlGOTdNX0VzRnhldTl5SFpWMnNDTlM0b29jcjBmdDRKb212aU9IUlk0MXhOV2pLN3RlWQ?oc=5",
+            "source": "Investing.com UK",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+            "articleExcerpt": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com - Investing.com UK. Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+            "contentFingerprint": "ea96c569ee4be55e",
+            "region": "Europe",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Earnings preview for Golub Capital BDC, Golub's private credit vehicle. It is credit-relevant but amounts to analyst and stock commentary on revenue pressure, with no lawsuit, financing or fundraising event.",
+              "llmReasonZh": "Golub Capital BDC（Golub旗下私募信贷投资工具）的财报前瞻。该文章与信贷相关，但内容主要是分析师对营收压力的评论及股票点评，不涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.17,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com UK"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.37,
+              "finalScore": 21.37,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-651ee064c2ab",
+            "title": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates - GuruFocus",
+            "titleZh": "Golub Capital BDC Inc公布每股收益$0.08、营收$82.5 Million，未达分析师预期 - GuruFocus",
+            "summary": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+            "summaryZh": "Golub Capital BDC Inc公布每股收益$0.08、营收$82.5 Million，未达分析师预期 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3dzbk9aeVVXM2RDZHhUSnlzOEdpZ1BtYUJ2dHRsTTVDZXVFZzFfeFNSbVRHaGd1WFBZMlRLZ2k5VlNCZGc4ZHJNSEdGNVdNX3pOVHhBU3lkYmw0S3BJUWp3NVdwX2NfcWpmOHVRTi00Tnktcjl5TUFwN1FMcXRGYTBVTE1xYVZnTU5oMHpaclFZR0VMZ1h5YTI4dzAtWW9WQUlDTXktWHlTc0Q3ZFlBVzhWWVN2bFpLeE01bW56SGM5VTQ?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+            "articleExcerpt": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates - GuruFocus. Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+            "contentFingerprint": "61182851522bced3",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is Golub's publicly traded direct-lending BDC, so it is credit-relevant. This is an earnings report that missed analyst estimates. That makes it routine performance and analyst-type news, not a financing, fundraising or legal event. The low EPS may signal some pressure on credit performance, so importance is set slightly above pure stock commentary.",
+              "llmReasonZh": "Golub Capital BDC是Golub旗下公开交易的直接贷款型BDC，因此与信贷相关。本文为一份未达分析师预期的财报，属于常规业绩及分析师类新闻，而非融资、募资或法律事件。较低的每股收益可能预示信贷表现承压，因此重要性设定为略高于纯粹的股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.53
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.36,
+              "finalScore": 20.36,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-65e05f4c0b8c",
+            "title": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot - KVUE",
+            "titleZh": "Golub Capital BDC：第四财季业绩速览 - KVUE",
+            "summary": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+            "summaryZh": "Golub Capital BDC：第四财季业绩速览 KVUE",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRExRYllUXy1TLTdPVVZYcl9QcC1GcEZHR1EzQWFidlNlRG1uUjJQWXFJX3JKSUdYZjNUNFZ4ZDZIbENFLUtWRzNPTU9vWmhPR2xiODJmWC14cWFQVFp3bzdncFJxUzdQVjhIcFVoc05UYlpBLWFOMXY5cF9oMDFuUmgydjI3c3h6eXhLOUE5VzhrV3UtX0Z6Rk4ycVp5QXNRZDdkTmhTYnVFUzVNdl9Zb0VtcDlnbzU4a01wclJKdWZPRVZtOTNFbEZNR1p3UkFrUmROMWI3SEFqbXM?oc=5",
+            "source": "KVUE",
+            "publishedAt": "2026-11-17",
+            "lede": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+            "articleExcerpt": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot - KVUE. Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+            "contentFingerprint": "8b1d3d872f3287c3",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "This is an earnings snapshot for Golub Capital BDC, a direct-lending BDC, so it falls under Golub's credit business. Quarterly results are routine manager news, slightly below standard importance because the article has almost no content. The 'KVUE' tag looks like a syndication artifact, since KVUE is a TV station, not a ticker.",
+              "llmReasonZh": "本文为直接贷款类BDC Golub Capital BDC的业绩速览，属于Golub信贷业务范畴。季度业绩属于管理人常规新闻，因文章几乎没有实质内容，重要性略低于标准水平。“KVUE”标签疑似新闻分发过程中产生的附带信息，因为KVUE是一家电视台，并非股票代码。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "KVUE"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.7
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.05,
+              "finalScore": 20.05,
+              "semanticEnabled": true
+            }
           }
         ],
         "CVC": [],
@@ -212716,6 +213276,110 @@
             "keywordScore": 14,
             "semanticScore": 6.57,
             "finalScore": 20.57,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-c5d90de08a34",
+          "title": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case - Simply Wall St",
+          "titleZh": "OWL：私募信贷与财富管理业务仍居主导，募资实力进一步夯实投资逻辑 - Simply Wall St",
+          "summary": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+          "summaryZh": "OWL：私募信贷与财富管理业务仍居主导，募资实力进一步夯实投资逻辑 Simply Wall St",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNTE8xVzVUQjBCLTZONlNGNU52Z3dXd0Z1WGR2eWVMal9FcjE5ZjdYZXlYZjN4bXVxMTJ4dlFENHFTaERGc09aaDJTUndQLWtGMkd4RTZSaUx5NnpGZUdrWjRxYkpTRzNwYTZNUFUtVnFwaVVJMDRqakhTSmtGWnVYWlY5T3BpVGpTdWF6SVl6d1RmOVdmQmxaQWlwUF8xRjZRSWJjN0NWX29KcHBvUWV5LWxGVTA2bjMySjRiTmlQeTJHRzl1UmcybVFLeTBvSjNLT0t2UEpJcWZOMWNWNGVoNHJrdnZ1NkUxRU5PT3p2UDNmR3F6eHJzWFBNdE9nZ1BTeUM3ZG1oM1c4Q0k0ZWVfZlgyZXNReVgzcXlBeW9ORGtaZ0xyaG9mbW96YXA2ZDJqUnpQRmtrSHNZUm02NE1oMF85emFDNkpBUzRZMmc5cy1JOHp1OGNpa2w0V1RNdW1CaVlycXNEUF9rZUN5VXBCbkFweUJjX0c4?oc=5",
+          "source": "Simply Wall St",
+          "publishedAt": "2026-11-17",
+          "lede": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+          "articleExcerpt": "OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case - Simply Wall St. OWL: Private Credit And Wealth Still Lead, Fundraising Strength Deepens The Case Simply Wall St",
+          "contentFingerprint": "442b0b3f97e85fd9",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "fundraising"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [],
+            "titleGps": [],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Simply Wall St analyst/stock commentary on Blue Owl (OWL) highlighting its private credit and wealth businesses and fundraising strength. It reports no specific fund close or transaction, so no event type is tagged and importance is set at the stock-commentary level.",
+            "llmReasonZh": "Simply Wall St 针对 Blue Owl (OWL) 的分析师/个股评论，重点提及其私募信贷与财富管理业务以及募资实力。文章未报道具体的基金募集完成或交易，因此未标注事件类型，重要性按个股评论级别设定。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.48,
+                "code": "fundraising",
+                "ruleValue": 0.8,
+                "events": [
+                  "fundraising"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Simply Wall St"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 57,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.9,
+            "finalScore": 18.9,
             "semanticEnabled": true
           }
         },
@@ -213236,6 +213900,100 @@
             "keywordScore": 13,
             "semanticScore": 3.79,
             "finalScore": 16.79,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-634f8c48d540",
+          "title": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com",
+          "titleZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone - Investing.com",
+          "summary": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+          "summaryZh": "Mizuho首次覆盖资产管理公司，看好Apollo、Ares和Blackstone Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUlPbzNBUTRGZ1lXaUwycTFZY0FQNWk1WHM4TjlSaVZldFdtRVNFdFp1ZjR0eFNaS0g1VkkzY3FCVlBlN0U4MDdXR0NyWm1udGE1SGlKQUh2UE5LajBtSTBZSVBSXzk4a1ZXUFVoS2didDQ1cjlwd3I4NEpGZTNGZTltdU1oa3gtanJVeWlmcGU5UWxZd0xPclMxN3lBOVNyM2swX1JRY3VMcnZLWEJMMjFlb05RV1JXZTl1SDhBYkg1TllkN05pVjhB?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-17",
+          "lede": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+          "articleExcerpt": "Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone - Investing.com. Mizuho starts coverage of asset managers, backs Apollo, Ares and Blackstone Investing.com",
+          "contentFingerprint": "f0ae4e53097ca1a5",
+          "region": "Global",
+          "gps": [
+            "Blackstone",
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone",
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Analyst initiation of coverage on publicly listed asset managers (Apollo, Blackstone; Ares is not tracked). This is stock and analyst commentary with no specific credit transaction, lawsuit or fundraising. Both firms' businesses are heavily credit-driven, so the article is kept at low importance rather than excluded.",
+            "llmReasonZh": "分析师首次覆盖上市资产管理公司（Apollo、Blackstone；Ares未在跟踪范围内）。本文属于股票及分析师评论，未涉及具体信贷交易、诉讼或募资事项。鉴于两家公司的业务高度依赖信贷，本文以低重要性保留，而非剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.25,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 47,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 7,
+            "semanticScore": 5.97,
+            "finalScore": 12.969999999999999,
             "semanticEnabled": true
           }
         },
@@ -213788,9 +214546,9 @@
         {
           "id": "2026-11-17-e5dafaec12f5",
           "title": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets - BigGo Finance",
-          "titleZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 - BigGo Finance",
+          "titleZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 - BigGo Finance",
           "summary": "Apollo's Rowan Sees AI Buildout Demanding Up to $8 Trillion in Financing, Testing U.S. Credit Markets BigGo Finance",
-          "summaryZh": "Apollo的Rowan：AI基础设施建设或需高达8万亿美元融资，考验美国信贷市场 BigGo Finance",
+          "summaryZh": "Apollo的Rowan预计AI建设融资需求高达8万亿美元，考验美国信贷市场 BigGo Finance",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQ211MFNLYVM1bVF1RHMwSU80c3Z3bTJFcV9ENDdHTFRuTmhXOTJFWC1LLWd0ZHBmdmZOSGoxVkdoVkxGTmxqXzVvbnI0cDd0ZVhnaWZpNGNlUnRzY21uY0NlV3ZwMld2dTRJOHVVdTYzbmJMQlE?oc=5",
           "source": "BigGo Finance",
@@ -213803,9 +214561,11 @@
             "Apollo"
           ],
           "strategies": [
+            "private-credit",
             "ai"
           ],
           "sectors": [
+            "private-credit",
             "ai"
           ],
           "events": [
@@ -213830,13 +214590,14 @@
               "ai"
             ],
             "llmStrategies": [
+              "private-credit",
               "ai"
             ],
             "llmEvents": [],
             "llmImportance": 0.5,
             "llmExclude": false,
-            "llmReason": "Apollo CEO Marc Rowan says the AI buildout could need up to $8 trillion in financing, which would test U.S. credit markets. This bears directly on Apollo's credit business and AI infrastructure lending. It is executive market commentary with no specific transaction, so no event type applies.",
-            "llmReasonZh": "Apollo首席执行官Marc Rowan表示，AI基础设施建设可能需要高达8万亿美元的融资，这将考验美国信贷市场。此事与Apollo的信贷业务及AI基础设施贷款直接相关。该内容属于高管市场评论，未涉及具体交易，因此不适用任何事件类型。"
+            "llmReason": "Apollo CEO Marc Rowan comments on AI infrastructure financing needs (up to $8T) and their impact on U.S. credit markets. This is relevant to Apollo's credit and lending business and to the AI financing theme. It is market commentary rather than a specific transaction, so no event type applies and importance is moderate.",
+            "llmReasonZh": "Apollo首席执行官Marc Rowan就AI基础设施融资需求（最高8万亿美元）及其对美国信贷市场的影响发表评论。此内容与Apollo的信贷及贷款业务以及AI融资主题相关。由于属于市场评论而非具体交易，因此不适用任何事件类型，重要性为中等。"
           },
           "rating": {
             "parts": {
@@ -213852,6 +214613,7 @@
                 "code": "title_hits_strategy",
                 "tagValue": 1.0,
                 "strategies": [
+                  "private-credit",
                   "ai"
                 ],
                 "semanticValue": 0.51
@@ -213873,7 +214635,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.4
+                "days": 0.7
               }
             },
             "weights": {
@@ -213884,12 +214646,12 @@
               "freshness": 15
             },
             "score": 69,
-            "retrievedAt": "2026-11-17T22:05:56.702521+00:00"
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 16,
+            "keywordScore": 19,
             "semanticScore": 6.12,
-            "finalScore": 22.12,
+            "finalScore": 25.12,
             "semanticEnabled": true
           }
         },
@@ -214424,14 +215186,450 @@
             "finalScore": 18.79,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-17-00f5c4e56e97",
+          "title": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline - ChartMill",
+          "titleZh": "Golub Capital BDC (NASDAQ:GBDC) 第四季度营收逊于预期、NAV下降，股价下滑 - ChartMill",
+          "summary": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+          "summaryZh": "Golub Capital BDC (NASDAQ:GBDC) 第四季度业绩喜忧参半，营收逊于预期且NAV下降，股价下滑 ChartMill",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQam1FTU5ZNXl1Vk9kZGhMUGdlM1JPVUJ2cHc5Qm54TW9GWndMZlM1TVZHSnhGQ0ZKeXV0QXVpSkFWOEMxaGRVdkE3SkJWU252dTI2ZHAzVjlDTVBhbVpWZUFCSzhIRVBmMGpyQ0o2NElKR1d2NnFxSEtKMnAxd25kbVh0R1g1ckc4ZUlYcGhfel90cUlFcFQwZzg2dnNGVElkeU1hV2syOE93R25jOWhBVVJFa1NDSDlNX3JCUEZCZzlTQUgyS2pKSjVCZw?oc=5",
+          "source": "ChartMill",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+          "articleExcerpt": "Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline - ChartMill. Golub Capital BDC (NASDAQ:GBDC) Slides After Mixed Q4 Revenue Miss and NAV Decline ChartMill",
+          "contentFingerprint": "a3368f47c245650f",
+          "region": "US",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is a credit vehicle. The article covers its stock decline after a Q4 revenue miss and NAV decline. It is mostly stock-price commentary, but the NAV decline is credit-relevant, so importance is set above the 0.15 baseline for stock news.",
+            "llmReasonZh": "Golub Capital BDC 是一家信贷投资工具。本文报道了其在第四季度营收逊于预期及NAV下降后股价下跌的情况。文章主要为股价评论，但NAV下降与信贷相关，因此重要性评分设定高于股票新闻0.15的基准值。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "ChartMill"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 6.38,
+            "finalScore": 22.38,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-541c83825bce",
+          "title": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com - Investing.com UK",
+          "titleZh": "Golub Capital BDC即将发布财报，营收压力加剧 - Investing.com UK",
+          "summary": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+          "summaryZh": "Golub Capital BDC即将发布财报，营收压力加剧 - Investing.com UK",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaU1fZHVzUHVrZnUtQzJLOTB5YXZhVGw0STNaQ29Wb0FtdG1rVnlueG0wM2IzWDVycldPdk5XSlhGUHJNclRUcHN4XzI1dFhraVZoeGZvSzl5TWVxQjM0UnRzTWhweFFHdDFXck9xRGFhWm9ydEdZRjdWYjFVdTFvcmt6blV0T3ZwMkhiazlGOTdNX0VzRnhldTl5SFpWMnNDTlM0b29jcjBmdDRKb212aU9IUlk0MXhOV2pLN3RlWQ?oc=5",
+          "source": "Investing.com UK",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+          "articleExcerpt": "Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com - Investing.com UK. Golub Capital BDC earnings on deck as revenue pressures mount By Investing.com Investing.com UK",
+          "contentFingerprint": "ea96c569ee4be55e",
+          "region": "Europe",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Earnings preview for Golub Capital BDC, Golub's private credit vehicle. It is credit-relevant but amounts to analyst and stock commentary on revenue pressure, with no lawsuit, financing or fundraising event.",
+            "llmReasonZh": "Golub Capital BDC（Golub旗下私募信贷投资工具）的财报前瞻。该文章与信贷相关，但内容主要是分析师对营收压力的评论及股票点评，不涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.17,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com UK"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.37,
+            "finalScore": 21.37,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-651ee064c2ab",
+          "title": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates - GuruFocus",
+          "titleZh": "Golub Capital BDC Inc公布每股收益$0.08、营收$82.5 Million，未达分析师预期 - GuruFocus",
+          "summary": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+          "summaryZh": "Golub Capital BDC Inc公布每股收益$0.08、营收$82.5 Million，未达分析师预期 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3dzbk9aeVVXM2RDZHhUSnlzOEdpZ1BtYUJ2dHRsTTVDZXVFZzFfeFNSbVRHaGd1WFBZMlRLZ2k5VlNCZGc4ZHJNSEdGNVdNX3pOVHhBU3lkYmw0S3BJUWp3NVdwX2NfcWpmOHVRTi00Tnktcjl5TUFwN1FMcXRGYTBVTE1xYVZnTU5oMHpaclFZR0VMZ1h5YTI4dzAtWW9WQUlDTXktWHlTc0Q3ZFlBVzhWWVN2bFpLeE01bW56SGM5VTQ?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+          "articleExcerpt": "Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates - GuruFocus. Golub Capital BDC Inc Reports $0.08 EPS and $82.5 Million Revenue; Misses Analyst Estimates GuruFocus",
+          "contentFingerprint": "61182851522bced3",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is Golub's publicly traded direct-lending BDC, so it is credit-relevant. This is an earnings report that missed analyst estimates. That makes it routine performance and analyst-type news, not a financing, fundraising or legal event. The low EPS may signal some pressure on credit performance, so importance is set slightly above pure stock commentary.",
+            "llmReasonZh": "Golub Capital BDC是Golub旗下公开交易的直接贷款型BDC，因此与信贷相关。本文为一份未达分析师预期的财报，属于常规业绩及分析师类新闻，而非融资、募资或法律事件。较低的每股收益可能预示信贷表现承压，因此重要性设定为略高于纯粹的股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.53
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.36,
+            "finalScore": 20.36,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-65e05f4c0b8c",
+          "title": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot - KVUE",
+          "titleZh": "Golub Capital BDC：第四财季业绩速览 - KVUE",
+          "summary": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+          "summaryZh": "Golub Capital BDC：第四财季业绩速览 KVUE",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRExRYllUXy1TLTdPVVZYcl9QcC1GcEZHR1EzQWFidlNlRG1uUjJQWXFJX3JKSUdYZjNUNFZ4ZDZIbENFLUtWRzNPTU9vWmhPR2xiODJmWC14cWFQVFp3bzdncFJxUzdQVjhIcFVoc05UYlpBLWFOMXY5cF9oMDFuUmgydjI3c3h6eXhLOUE5VzhrV3UtX0Z6Rk4ycVp5QXNRZDdkTmhTYnVFUzVNdl9Zb0VtcDlnbzU4a01wclJKdWZPRVZtOTNFbEZNR1p3UkFrUmROMWI3SEFqbXM?oc=5",
+          "source": "KVUE",
+          "publishedAt": "2026-11-17",
+          "lede": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+          "articleExcerpt": "Golub Capital BDC: Fiscal Q4 Earnings Snapshot - KVUE. Golub Capital BDC: Fiscal Q4 Earnings Snapshot KVUE",
+          "contentFingerprint": "8b1d3d872f3287c3",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "This is an earnings snapshot for Golub Capital BDC, a direct-lending BDC, so it falls under Golub's credit business. Quarterly results are routine manager news, slightly below standard importance because the article has almost no content. The 'KVUE' tag looks like a syndication artifact, since KVUE is a TV station, not a ticker.",
+            "llmReasonZh": "本文为直接贷款类BDC Golub Capital BDC的业绩速览，属于Golub信贷业务范畴。季度业绩属于管理人常规新闻，因文章几乎没有实质内容，重要性略低于标准水平。“KVUE”标签疑似新闻分发过程中产生的附带信息，因为KVUE是一家电视台，并非股票代码。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "KVUE"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.7
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-18T03:59:30.802067+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.05,
+            "finalScore": 20.05,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-18": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 24,
+      "count": 26,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -214439,20 +215637,20 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "KKR",
       "count": 100,
-      "selected": 6,
+      "selected": 1,
       "status": "ok",
       "query": "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
       "queries": [
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214465,12 +215663,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 6,
+      "count": 8,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -214478,20 +215676,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
       "count": 4,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214504,7 +215702,7 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214517,7 +215715,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214530,25 +215728,25 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 26,
-      "selected": 3,
+      "count": 22,
+      "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 99,
+      "count": 101,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -214556,7 +215754,7 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214569,12 +215767,12 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 6,
+      "count": 7,
       "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
@@ -214582,25 +215780,25 @@
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 5,
-      "selected": 4,
+      "count": 10,
+      "selected": 6,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 21,
+      "count": 19,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -214608,7 +215806,7 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
@@ -214621,12 +215819,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 605,
+      "count": 726,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -214643,9 +215841,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-17T22:05:56.702521+00:00",
+      "asOf": "2026-11-18T03:59:30.802067+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-17T22:05:56.702521+00:00"
+  "checkedAt": "2026-11-18T03:59:30.802067+00:00"
 }
