@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-18T22:20:13.455377+00:00",
+  "updatedAt": "2026-11-19T03:27:04.038733+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7146,7 +7146,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -19580,7 +19580,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与HSBC Asset Management以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -211331,8 +211331,12 @@
             "gps": [
               "CIFC"
             ],
-            "strategies": [],
-            "sectors": [],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
             "events": [
               "financing"
             ],
@@ -211350,12 +211354,14 @@
               ],
               "keywordStrategies": [],
               "titleStrategies": [],
-              "llmStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
               "llmEvents": [],
               "llmImportance": 0.15,
               "llmExclude": false,
-              "llmReason": "This is a Yahoo Finance seasonal returns chart page for a CIFC floating-rate credit fund share class. The fund is credit-related, but the page has no substantive news, no financing or fundraising event, and no clear strategy beyond generic floating-rate credit, so importance is low, similar to price commentary.",
-              "llmReasonZh": "这是Yahoo Finance上一只CIFC浮动利率信贷基金份额类别的季节性回报图表页面。该基金与信贷相关，但页面无实质性新闻，无融资或募资事件，除一般性浮动利率信贷外亦无明确策略，因此重要性较低，类似于价格评论。"
+              "llmReason": "This is a Yahoo Finance seasonal returns chart page for the CIFC Global Floating Rate Credit fund. The fund is a CIFC credit product, so the GP tag is relevant, but the page is only a price/returns data page with no news content. No lawsuit, financing or fundraising event is involved. The strategy fit is loose: floating-rate credit is closest to private credit and leveraged-loan exposure.",
+              "llmReasonZh": "这是 Yahoo Finance 上 CIFC Global Floating Rate Credit 基金的季节性回报图表页面。该基金为 CIFC 旗下信贷产品，因此 GP 标签具有相关性，但该页面仅为价格/回报数据页面，不含新闻内容。不涉及诉讼、融资或募资事件。策略匹配度较低：浮动利率信贷最接近私募信贷和杠杆贷款敞口。"
             },
             "rating": {
               "parts": {
@@ -211367,10 +211373,12 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.19,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
                   "semanticValue": 0.38
                 },
                 "event": {
@@ -211390,7 +211398,7 @@
                 "freshness": {
                   "value": 0.8,
                   "code": "within_7d",
-                  "days": 1.0
+                  "days": 1.6
                 }
               },
               "weights": {
@@ -211400,13 +211408,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 51,
-              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+              "score": 55,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 12,
+              "keywordScore": 15,
               "semanticScore": 4.58,
-              "finalScore": 16.58,
+              "finalScore": 19.58,
               "semanticEnabled": true
             }
           }
@@ -211835,6 +211843,112 @@
               "keywordScore": 7,
               "semanticScore": 5.97,
               "finalScore": 12.969999999999999,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-17-d661902475c0",
+            "title": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction - HoopsHype",
+            "titleZh": "Blackstone、Ares与Arctos洽谈为NBA欧洲联赛场馆建设提供资金 - HoopsHype",
+            "summary": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+            "summaryZh": "Blackstone、Ares与Arctos洽谈为NBA欧洲联赛场馆建设提供资金 HoopsHype",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRUlnSXpiWTlyUTItR2hXcklsOEFvem9FNUYtbTMxRnFOeTZybEFJbENaZkhaZG5hRjR3SUpjOEk2eWZha1Q4dmFXQmtILTkwVE10MVZsTlhRWXdCVHdPNXdKOHB3WFZMNXZyVDM0cC0wS09YZWhGb293STFFSVgyLWpGRXBjd2d5ZXFlbFBEQzFZZk9zdldOU3ljWGoteWxxbldwenBLNm5VYjRRS2JGVmxkWnNobmlob3VmR2x0ZWliMEtnSThqZDRERWY2UzY3NHVuaDlOTWQ0STUxNnkzbA?oc=5",
+            "source": "HoopsHype",
+            "publishedAt": "2026-11-17",
+            "lede": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+            "articleExcerpt": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction - HoopsHype. Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+            "contentFingerprint": "83b40425cbcaaa6c",
+            "region": "Europe",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Blackstone is in talks, alongside Ares (a credit-heavy manager) and Arctos, to fund construction of NBA Europe arenas. This is project or construction financing rather than a pure sports equity stake, so it plausibly has a private-credit angle. Importance is moderate because the deal is only at the talks stage and the debt-versus-equity structure is not confirmed. Ares and Arctos are not tracked.",
+              "llmReasonZh": "Blackstone正与Ares（一家以信贷业务为主的资产管理公司）及Arctos洽谈，为NBA欧洲联赛场馆建设提供资金。这属于项目或建设融资，而非单纯的体育股权投资，因此可能涉及私募信贷。重要性为中等，因为交易仍处于洽谈阶段，且债务与股权结构尚未确定。Ares和Arctos不在跟踪范围内。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "HoopsHype"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 7,
+              "semanticScore": 4.92,
+              "finalScore": 11.92,
               "semanticEnabled": true
             }
           }
@@ -214185,8 +214299,12 @@
           "gps": [
             "CIFC"
           ],
-          "strategies": [],
-          "sectors": [],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
           "events": [
             "financing"
           ],
@@ -214204,12 +214322,14 @@
             ],
             "keywordStrategies": [],
             "titleStrategies": [],
-            "llmStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
             "llmEvents": [],
             "llmImportance": 0.15,
             "llmExclude": false,
-            "llmReason": "This is a Yahoo Finance seasonal returns chart page for a CIFC floating-rate credit fund share class. The fund is credit-related, but the page has no substantive news, no financing or fundraising event, and no clear strategy beyond generic floating-rate credit, so importance is low, similar to price commentary.",
-            "llmReasonZh": "这是Yahoo Finance上一只CIFC浮动利率信贷基金份额类别的季节性回报图表页面。该基金与信贷相关，但页面无实质性新闻，无融资或募资事件，除一般性浮动利率信贷外亦无明确策略，因此重要性较低，类似于价格评论。"
+            "llmReason": "This is a Yahoo Finance seasonal returns chart page for the CIFC Global Floating Rate Credit fund. The fund is a CIFC credit product, so the GP tag is relevant, but the page is only a price/returns data page with no news content. No lawsuit, financing or fundraising event is involved. The strategy fit is loose: floating-rate credit is closest to private credit and leveraged-loan exposure.",
+            "llmReasonZh": "这是 Yahoo Finance 上 CIFC Global Floating Rate Credit 基金的季节性回报图表页面。该基金为 CIFC 旗下信贷产品，因此 GP 标签具有相关性，但该页面仅为价格/回报数据页面，不含新闻内容。不涉及诉讼、融资或募资事件。策略匹配度较低：浮动利率信贷最接近私募信贷和杠杆贷款敞口。"
           },
           "rating": {
             "parts": {
@@ -214221,10 +214341,12 @@
                 ]
               },
               "strategy": {
-                "value": 0.19,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
                 "semanticValue": 0.38
               },
               "event": {
@@ -214244,7 +214366,7 @@
               "freshness": {
                 "value": 0.8,
                 "code": "within_7d",
-                "days": 1.0
+                "days": 1.6
               }
             },
             "weights": {
@@ -214254,13 +214376,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 51,
-            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            "score": 55,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 12,
+            "keywordScore": 15,
             "semanticScore": 4.58,
-            "finalScore": 16.58,
+            "finalScore": 19.58,
             "semanticEnabled": true
           }
         },
@@ -214680,6 +214802,112 @@
             "keywordScore": 7,
             "semanticScore": 5.97,
             "finalScore": 12.969999999999999,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-17-d661902475c0",
+          "title": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction - HoopsHype",
+          "titleZh": "Blackstone、Ares与Arctos洽谈为NBA欧洲联赛场馆建设提供资金 - HoopsHype",
+          "summary": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+          "summaryZh": "Blackstone、Ares与Arctos洽谈为NBA欧洲联赛场馆建设提供资金 HoopsHype",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRUlnSXpiWTlyUTItR2hXcklsOEFvem9FNUYtbTMxRnFOeTZybEFJbENaZkhaZG5hRjR3SUpjOEk2eWZha1Q4dmFXQmtILTkwVE10MVZsTlhRWXdCVHdPNXdKOHB3WFZMNXZyVDM0cC0wS09YZWhGb293STFFSVgyLWpGRXBjd2d5ZXFlbFBEQzFZZk9zdldOU3ljWGoteWxxbldwenBLNm5VYjRRS2JGVmxkWnNobmlob3VmR2x0ZWliMEtnSThqZDRERWY2UzY3NHVuaDlOTWQ0STUxNnkzbA?oc=5",
+          "source": "HoopsHype",
+          "publishedAt": "2026-11-17",
+          "lede": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+          "articleExcerpt": "Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction - HoopsHype. Blackstone, Ares and Arctos in talks to fund NBA Europe arena construction HoopsHype",
+          "contentFingerprint": "83b40425cbcaaa6c",
+          "region": "Europe",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Blackstone is in talks, alongside Ares (a credit-heavy manager) and Arctos, to fund construction of NBA Europe arenas. This is project or construction financing rather than a pure sports equity stake, so it plausibly has a private-credit angle. Importance is moderate because the deal is only at the talks stage and the debt-versus-equity structure is not confirmed. Ares and Arctos are not tracked.",
+            "llmReasonZh": "Blackstone正与Ares（一家以信贷业务为主的资产管理公司）及Arctos洽谈，为NBA欧洲联赛场馆建设提供资金。这属于项目或建设融资，而非单纯的体育股权投资，因此可能涉及私募信贷。重要性为中等，因为交易仍处于洽谈阶段，且债务与股权结构尚未确定。Ares和Arctos不在跟踪范围内。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "HoopsHype"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 7,
+            "semanticScore": 4.92,
+            "finalScore": 11.92,
             "semanticEnabled": true
           }
         },
@@ -217247,6 +217475,316 @@
               "finalScore": 12.95,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-c80709477085",
+            "title": "KKR Credit Income Fund Provides Estimated NTA Update - TipRanks",
+            "titleZh": "KKR Credit Income Fund发布每股有形资产净值（NTA）估算更新 - TipRanks",
+            "summary": "KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+            "summaryZh": "KKR Credit Income Fund发布每股有形资产净值（NTA）估算更新 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnpHek53VjBqTEtreGtKUElmVDRhWW5McDd1aVFfLWl1OWJwN1pmR19hUjN0cldiSmMweVNTYUV5M0tBOTB4clRJQm9yUndzYUpnQVo1NHhTX1RIOGw5dTdnQXljTzhucmhBeXU5QmNBTjdHNFhneDRjdHdib0dfMElERmtnUnMyWkxERDVFWVVaUXBUV0VGV25jTjFNN2tRVGltVjBMbw?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-18",
+            "lede": "KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+            "articleExcerpt": "KKR Credit Income Fund Provides Estimated NTA Update - TipRanks. KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+            "contentFingerprint": "3441ba74a59a4ab4",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "A routine NTA (net tangible asset) update for the KKR Credit Income Fund, an ASX-listed vehicle in KKR's credit business. This is credit-relevant, but it is periodic reporting with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "KKR Credit Income Fund为KKR信贷业务旗下在澳大利亚证券交易所（ASX）上市的投资工具，此次为其例行的有形资产净值（NTA）更新。该内容与信贷相关，但属于定期披露，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.84,
+              "finalScore": 19.84,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-bf4b58b260fd",
+            "title": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 - Kalkine",
+            "titleZh": "KKR Credit Income Fund截至16 November 2026的NTA升至$2.3012 - Kalkine",
+            "summary": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+            "summaryZh": "KKR Credit Income Fund截至16 November 2026的NTA升至$2.3012 Kalkine",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcEE5V1NodENzaGpkc0dMZ2hPQVlPaGZiQ3k4Y0dsN0owamxwcDV4bXI5Z0c3blhvU3psR2lFVE9XRWc0bUhwVWtKSmVKYmpVZXNzTzBBQnl4Y1psU2RqYlBBRTNaZVJ2amlXRHJBLWp0cjczaVBIRjNuUTRWWE5SWHJtYURUR2l4eHRWYkhNaHo1eUVSYzRnZVF0d3VrTndSaHV3T0FORnhzZw?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-11-18",
+            "lede": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+            "articleExcerpt": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 - Kalkine. KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+            "contentFingerprint": "fb47b832d70b3542",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "This is a routine NTA (net tangible asset) update for KKR Credit Income Fund, an ASX-listed vehicle for KKR's credit business. It is credit-relevant, but it amounts to a price/valuation data point with no financing, fundraising or legal event, so importance is low.",
+              "llmReasonZh": "这是KKR Credit Income Fund的例行NTA（有形资产净值）更新。该基金是在ASX上市的KKR信贷业务投资工具。此消息与信贷相关，但仅为价格/估值数据点，不涉及融资、募资或法律事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.42
+                },
+                "event": {
+                  "value": 0.2,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.2
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.07,
+              "finalScore": 19.07,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-f1b4e1455499",
+            "title": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR - Music Week",
+            "titleZh": "Litmus Music获Carlyle和KKR新增4.75亿美元资本承诺 - Music Week",
+            "summary": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+            "summaryZh": "Litmus Music获Carlyle和KKR新增4.75亿美元资本承诺 Music Week",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS01uWjFEVl9qb0s5dzFuRmw2T2dPTXVZSVROOWpOUHQ4dS1zeW1KeElsUEVKRXIwSVptZzMwZkxLWW1qaXhUNXhiTHFpXy1iMURqeU9ES2lZV3kwNzk0WjVGRG9qUHpPT3k2TkRJbTBuZGg4cF9ZczJKVHBhRG5na0cxMEZaLUlXaWZoMlFETThnQ1g3aFNyZWRFbnRnSkpua0pYTzc3YnRPbUpkSTlpRGNCLUQ2bklIOF85THcyNA?oc=5",
+            "source": "Music Week",
+            "publishedAt": "2026-11-18",
+            "lede": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+            "articleExcerpt": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR - Music Week. Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+            "contentFingerprint": "01b68c1b81df1811",
+            "region": "US",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.65,
+              "llmExclude": false,
+              "llmReason": "Litmus Music, a music-catalog acquirer, secured $475m in capital commitments. Carlyle (not tracked) is the equity backer. KKR's role is most likely a debt facility from its credit/asset-based finance funds, backed by music royalty assets. That makes it a financing event for KKR's credit business. The snippet does not confirm KKR's role, so importance is set slightly below ordinary financing.",
+              "llmReasonZh": "音乐版权目录收购方Litmus Music获得4.75亿美元资本承诺。Carlyle（未跟踪）为股权支持方。KKR的角色很可能是通过其信贷/资产支持融资基金提供以音乐版税资产为担保的债务融资，因此这对KKR信贷业务而言属于融资事件。由于摘要未确认KKR的具体角色，重要性评级略低于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.38
+                },
+                "event": {
+                  "value": 0.68,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.65
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Music Week"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 69,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.59,
+              "finalScore": 15.59,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -217270,8 +217808,12 @@
             "gps": [
               "Guggenheim"
             ],
-            "strategies": [],
-            "sectors": [],
+            "strategies": [
+              "structured"
+            ],
+            "sectors": [
+              "structured"
+            ],
             "events": [
               "fundraising"
             ],
@@ -217289,12 +217831,14 @@
               ],
               "keywordStrategies": [],
               "titleStrategies": [],
-              "llmStrategies": [],
+              "llmStrategies": [
+                "structured"
+              ],
               "llmEvents": [],
               "llmImportance": 0.3,
               "llmExclude": false,
-              "llmReason": "This is a quarterly commentary for Guggenheim Investments' Macro Opportunities Fund (GIOIX), a fixed-income and credit mutual fund. That makes it credit-relevant manager news. It is routine fund commentary, with no financing, fundraising or litigation event. The article text gives no detail, so no specific strategy can be confirmed and importance is low-moderate.",
-              "llmReasonZh": "本文为Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论，该基金为一只固定收益及信贷类共同基金，因此属于与信贷相关的管理人新闻。本文为例行基金评论，不涉及融资、募资或诉讼事件。文章正文未提供细节，无法确认任何具体策略，重要性为中低。"
+              "llmReason": "This is a quarterly commentary on Guggenheim Investments' Macro Opportunities Fund (GIOIX), a credit-oriented fixed-income mutual fund that typically holds structured credit, ABS, CLOs and high-yield. That makes it relevant to Guggenheim's credit business. It is routine manager or market commentary with no lawsuit, financing or fundraising event, so importance is low. The strategy tag is inferred from the fund's typical holdings because the article text gives no detail.",
+              "llmReasonZh": "本文是关于Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论。该基金是一只以信贷为导向的固定收益共同基金，通常持有结构化信贷、ABS、CLO及高收益债券，因此与Guggenheim的信贷业务相关。本文属于常规的管理人或市场评论，不涉及诉讼、融资或募资事件，因此重要性较低。由于文章正文未提供具体细节，策略标签系根据该基金的典型持仓推断得出。"
             },
             "rating": {
               "parts": {
@@ -217306,10 +217850,12 @@
                   ]
                 },
                 "strategy": {
-                  "value": 0.2,
-                  "code": "no_strategy",
-                  "tagValue": 0.0,
-                  "strategies": [],
+                  "value": 0.55,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "structured"
+                  ],
                   "semanticValue": 0.4
                 },
                 "event": {
@@ -217329,7 +217875,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.0
+                  "days": 0.6
                 }
               },
               "weights": {
@@ -217339,13 +217885,13 @@
                 "source": 25,
                 "freshness": 15
               },
-              "score": 58,
-              "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+              "score": 62,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 3,
+              "keywordScore": 6,
               "semanticScore": 4.79,
-              "finalScore": 7.79,
+              "finalScore": 10.79,
               "semanticEnabled": true
             }
           }
@@ -218021,6 +218567,98 @@
               "finalScore": 19.44,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-ab14141e6b60",
+            "title": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - - Insurance Edge",
+            "titleZh": "Aon与Blackstone合作推出Cortina Syndicate 1956 - Insurance Edge",
+            "summary": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+            "summaryZh": "Aon与Blackstone合作推出Cortina Syndicate 1956 - Insurance Edge",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTJWVFdiTjhIZ3luNFRFX3dBUC1rc0kzdXFfQWpUcGtqb3ZoY2pHdnJVY2JDRkp4Zk5XdV9CR2dOVkpfVTd5VGZPa0hDV1NPblV4UFF2bXZUOXBTaFpTeEJtaUtOdTA5OG1FU1FaM3hQaDBTeTJ2UG1rZHdOY2JlZ3VENU9MYnBNVFdtYXgzdGJwY0JVXzN6U0dOYXdNN3dxeEE?oc=5",
+            "source": "Insurance Edge",
+            "publishedAt": "2026-11-18",
+            "lede": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+            "articleExcerpt": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - - Insurance Edge. Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+            "contentFingerprint": "c530721ac00c244f",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.35,
+              "llmExclude": false,
+              "llmReason": "Blackstone and Aon are partnering on Lloyd's Syndicate 1956 (Cortina), an insurance underwriting vehicle. Blackstone's insurance activity sits within its credit and insurance platform, so it is loosely credit-adjacent and not clearly a buyout or infrastructure deal. The article body gives no detail on financing, fundraising or litigation, and no tracked strategy applies, so it is tagged as routine manager news with low-moderate importance.",
+              "llmReasonZh": "Blackstone与Aon正就劳合社Syndicate 1956(Cortina)开展合作,该辛迪加为一家保险承保平台。Blackstone的保险业务隶属其信贷与保险平台,因此该事项与信贷仅有间接关联,且并非明确的收购或基础设施交易。文章正文未提供有关融资、募资或诉讼的细节,亦不涉及任何追踪策略,因此被归类为管理人常规新闻,重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.28,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.35
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Insurance Edge"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.21,
+              "finalScore": 8.21,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -218252,6 +218890,114 @@
               "keywordScore": 21,
               "semanticScore": 5.73,
               "finalScore": 26.73,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-4d1d4a731095",
+            "title": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital - Yahoo Finance",
+            "titleZh": "Apollo Global Management (APO)：AI需要8万亿美元资本 - Yahoo Finance",
+            "summary": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+            "summaryZh": "Apollo Global Management (APO) 认为AI需要8万亿美元资本 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0kxUmFGUTZFc19GenVEdnRTeUlMY2d6a2tjOHYzU2FYcW9RTHdHTjBGZldEdzZhRGpiS2xLanBGTzNXanpjTnZ1Tl9ZVm9CemdsVzB4dGtiSjhzV29XajNBOGlvN0N2dDYzeG9UQjQwX3dKc0ZQVWdfSlFYa2pMUmJTRHRfNzg2SVdLQUdIcFZwYlNmSUZxUHh2eHU4dw?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-18",
+            "lede": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+            "articleExcerpt": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital - Yahoo Finance. Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+            "contentFingerprint": "f983ecb2524a5a62",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Apollo commentary on AI's capital needs, likely referencing its private credit and investment-grade financing push for AI infrastructure. This is market and manager commentary with no specific transaction, so it has low-moderate importance.",
+              "llmReasonZh": "Apollo就AI资本需求发表评论，可能涉及其为AI基础设施推进的私募信贷及投资级融资业务。该内容属于市场及管理人评论，未涉及具体交易，因此重要性为中低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.6,
+              "finalScore": 19.6,
               "semanticEnabled": true
             }
           }
@@ -219335,6 +220081,316 @@
           }
         },
         {
+          "id": "2026-11-18-c80709477085",
+          "title": "KKR Credit Income Fund Provides Estimated NTA Update - TipRanks",
+          "titleZh": "KKR Credit Income Fund发布每股有形资产净值（NTA）估算更新 - TipRanks",
+          "summary": "KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+          "summaryZh": "KKR Credit Income Fund发布每股有形资产净值（NTA）估算更新 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnpHek53VjBqTEtreGtKUElmVDRhWW5McDd1aVFfLWl1OWJwN1pmR19hUjN0cldiSmMweVNTYUV5M0tBOTB4clRJQm9yUndzYUpnQVo1NHhTX1RIOGw5dTdnQXljTzhucmhBeXU5QmNBTjdHNFhneDRjdHdib0dfMElERmtnUnMyWkxERDVFWVVaUXBUV0VGV25jTjFNN2tRVGltVjBMbw?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-18",
+          "lede": "KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+          "articleExcerpt": "KKR Credit Income Fund Provides Estimated NTA Update - TipRanks. KKR Credit Income Fund Provides Estimated NTA Update TipRanks",
+          "contentFingerprint": "3441ba74a59a4ab4",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "A routine NTA (net tangible asset) update for the KKR Credit Income Fund, an ASX-listed vehicle in KKR's credit business. This is credit-relevant, but it is periodic reporting with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "KKR Credit Income Fund为KKR信贷业务旗下在澳大利亚证券交易所（ASX）上市的投资工具，此次为其例行的有形资产净值（NTA）更新。该内容与信贷相关，但属于定期披露，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.84,
+            "finalScore": 19.84,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-bf4b58b260fd",
+          "title": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 - Kalkine",
+          "titleZh": "KKR Credit Income Fund截至16 November 2026的NTA升至$2.3012 - Kalkine",
+          "summary": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+          "summaryZh": "KKR Credit Income Fund截至16 November 2026的NTA升至$2.3012 Kalkine",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcEE5V1NodENzaGpkc0dMZ2hPQVlPaGZiQ3k4Y0dsN0owamxwcDV4bXI5Z0c3blhvU3psR2lFVE9XRWc0bUhwVWtKSmVKYmpVZXNzTzBBQnl4Y1psU2RqYlBBRTNaZVJ2amlXRHJBLWp0cjczaVBIRjNuUTRWWE5SWHJtYURUR2l4eHRWYkhNaHo1eUVSYzRnZVF0d3VrTndSaHV3T0FORnhzZw?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-11-18",
+          "lede": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+          "articleExcerpt": "KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 - Kalkine. KKR Credit Income Fund NTA Rises to $2.3012 as at 16 November 2026 Kalkine",
+          "contentFingerprint": "fb47b832d70b3542",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "This is a routine NTA (net tangible asset) update for KKR Credit Income Fund, an ASX-listed vehicle for KKR's credit business. It is credit-relevant, but it amounts to a price/valuation data point with no financing, fundraising or legal event, so importance is low.",
+            "llmReasonZh": "这是KKR Credit Income Fund的例行NTA（有形资产净值）更新。该基金是在ASX上市的KKR信贷业务投资工具。此消息与信贷相关，但仅为价格/估值数据点，不涉及融资、募资或法律事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.42
+              },
+              "event": {
+                "value": 0.2,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.2
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.07,
+            "finalScore": 19.07,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-f1b4e1455499",
+          "title": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR - Music Week",
+          "titleZh": "Litmus Music获Carlyle和KKR新增4.75亿美元资本承诺 - Music Week",
+          "summary": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+          "summaryZh": "Litmus Music获Carlyle和KKR新增4.75亿美元资本承诺 Music Week",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS01uWjFEVl9qb0s5dzFuRmw2T2dPTXVZSVROOWpOUHQ4dS1zeW1KeElsUEVKRXIwSVptZzMwZkxLWW1qaXhUNXhiTHFpXy1iMURqeU9ES2lZV3kwNzk0WjVGRG9qUHpPT3k2TkRJbTBuZGg4cF9ZczJKVHBhRG5na0cxMEZaLUlXaWZoMlFETThnQ1g3aFNyZWRFbnRnSkpua0pYTzc3YnRPbUpkSTlpRGNCLUQ2bklIOF85THcyNA?oc=5",
+          "source": "Music Week",
+          "publishedAt": "2026-11-18",
+          "lede": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+          "articleExcerpt": "Litmus Music secures $475m in new capital commitments from Carlyle and KKR - Music Week. Litmus Music secures $475m in new capital commitments from Carlyle and KKR Music Week",
+          "contentFingerprint": "01b68c1b81df1811",
+          "region": "US",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.65,
+            "llmExclude": false,
+            "llmReason": "Litmus Music, a music-catalog acquirer, secured $475m in capital commitments. Carlyle (not tracked) is the equity backer. KKR's role is most likely a debt facility from its credit/asset-based finance funds, backed by music royalty assets. That makes it a financing event for KKR's credit business. The snippet does not confirm KKR's role, so importance is set slightly below ordinary financing.",
+            "llmReasonZh": "音乐版权目录收购方Litmus Music获得4.75亿美元资本承诺。Carlyle（未跟踪）为股权支持方。KKR的角色很可能是通过其信贷/资产支持融资基金提供以音乐版税资产为担保的债务融资，因此这对KKR信贷业务而言属于融资事件。由于摘要未确认KKR的具体角色，重要性评级略低于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.38
+              },
+              "event": {
+                "value": 0.68,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.65
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Music Week"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 69,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.59,
+            "finalScore": 15.59,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-1aef84e96bf2",
           "title": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha",
           "titleZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）- Seeking Alpha",
@@ -219351,8 +220407,12 @@
           "gps": [
             "Guggenheim"
           ],
-          "strategies": [],
-          "sectors": [],
+          "strategies": [
+            "structured"
+          ],
+          "sectors": [
+            "structured"
+          ],
           "events": [
             "fundraising"
           ],
@@ -219370,12 +220430,14 @@
             ],
             "keywordStrategies": [],
             "titleStrategies": [],
-            "llmStrategies": [],
+            "llmStrategies": [
+              "structured"
+            ],
             "llmEvents": [],
             "llmImportance": 0.3,
             "llmExclude": false,
-            "llmReason": "This is a quarterly commentary for Guggenheim Investments' Macro Opportunities Fund (GIOIX), a fixed-income and credit mutual fund. That makes it credit-relevant manager news. It is routine fund commentary, with no financing, fundraising or litigation event. The article text gives no detail, so no specific strategy can be confirmed and importance is low-moderate.",
-            "llmReasonZh": "本文为Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论，该基金为一只固定收益及信贷类共同基金，因此属于与信贷相关的管理人新闻。本文为例行基金评论，不涉及融资、募资或诉讼事件。文章正文未提供细节，无法确认任何具体策略，重要性为中低。"
+            "llmReason": "This is a quarterly commentary on Guggenheim Investments' Macro Opportunities Fund (GIOIX), a credit-oriented fixed-income mutual fund that typically holds structured credit, ABS, CLOs and high-yield. That makes it relevant to Guggenheim's credit business. It is routine manager or market commentary with no lawsuit, financing or fundraising event, so importance is low. The strategy tag is inferred from the fund's typical holdings because the article text gives no detail.",
+            "llmReasonZh": "本文是关于Guggenheim Investments旗下Macro Opportunities Fund（GIOIX）的季度评论。该基金是一只以信贷为导向的固定收益共同基金，通常持有结构化信贷、ABS、CLO及高收益债券，因此与Guggenheim的信贷业务相关。本文属于常规的管理人或市场评论，不涉及诉讼、融资或募资事件，因此重要性较低。由于文章正文未提供具体细节，策略标签系根据该基金的典型持仓推断得出。"
           },
           "rating": {
             "parts": {
@@ -219387,10 +220449,12 @@
                 ]
               },
               "strategy": {
-                "value": 0.2,
-                "code": "no_strategy",
-                "tagValue": 0.0,
-                "strategies": [],
+                "value": 0.55,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "structured"
+                ],
                 "semanticValue": 0.4
               },
               "event": {
@@ -219410,7 +220474,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.0
+                "days": 0.6
               }
             },
             "weights": {
@@ -219420,13 +220484,13 @@
               "source": 25,
               "freshness": 15
             },
-            "score": 58,
-            "retrievedAt": "2026-11-18T12:40:24.111316+00:00"
+            "score": 62,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 3,
+            "keywordScore": 6,
             "semanticScore": 4.79,
-            "finalScore": 7.79,
+            "finalScore": 10.79,
             "semanticEnabled": true
           }
         },
@@ -220098,6 +221162,98 @@
           }
         },
         {
+          "id": "2026-11-18-ab14141e6b60",
+          "title": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - - Insurance Edge",
+          "titleZh": "Aon与Blackstone合作推出Cortina Syndicate 1956 - Insurance Edge",
+          "summary": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+          "summaryZh": "Aon与Blackstone合作推出Cortina Syndicate 1956 - Insurance Edge",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTJWVFdiTjhIZ3luNFRFX3dBUC1rc0kzdXFfQWpUcGtqb3ZoY2pHdnJVY2JDRkp4Zk5XdV9CR2dOVkpfVTd5VGZPa0hDV1NPblV4UFF2bXZUOXBTaFpTeEJtaUtOdTA5OG1FU1FaM3hQaDBTeTJ2UG1rZHdOY2JlZ3VENU9MYnBNVFdtYXgzdGJwY0JVXzN6U0dOYXdNN3dxeEE?oc=5",
+          "source": "Insurance Edge",
+          "publishedAt": "2026-11-18",
+          "lede": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+          "articleExcerpt": "Aon and Blackstone Working Together on Cortina Syndicate 1956 - - Insurance Edge. Aon and Blackstone Working Together on Cortina Syndicate 1956 - Insurance Edge",
+          "contentFingerprint": "c530721ac00c244f",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.35,
+            "llmExclude": false,
+            "llmReason": "Blackstone and Aon are partnering on Lloyd's Syndicate 1956 (Cortina), an insurance underwriting vehicle. Blackstone's insurance activity sits within its credit and insurance platform, so it is loosely credit-adjacent and not clearly a buyout or infrastructure deal. The article body gives no detail on financing, fundraising or litigation, and no tracked strategy applies, so it is tagged as routine manager news with low-moderate importance.",
+            "llmReasonZh": "Blackstone与Aon正就劳合社Syndicate 1956(Cortina)开展合作,该辛迪加为一家保险承保平台。Blackstone的保险业务隶属其信贷与保险平台,因此该事项与信贷仅有间接关联,且并非明确的收购或基础设施交易。文章正文未提供有关融资、募资或诉讼的细节,亦不涉及任何追踪策略,因此被归类为管理人常规新闻,重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.28,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.35
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Insurance Edge"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.21,
+            "finalScore": 8.21,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-f75b62703cde",
           "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
           "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
@@ -220206,6 +221362,114 @@
           }
         },
         {
+          "id": "2026-11-18-4d1d4a731095",
+          "title": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital - Yahoo Finance",
+          "titleZh": "Apollo Global Management (APO)：AI需要8万亿美元资本 - Yahoo Finance",
+          "summary": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+          "summaryZh": "Apollo Global Management (APO) 认为AI需要8万亿美元资本 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0kxUmFGUTZFc19GenVEdnRTeUlMY2d6a2tjOHYzU2FYcW9RTHdHTjBGZldEdzZhRGpiS2xLanBGTzNXanpjTnZ1Tl9ZVm9CemdsVzB4dGtiSjhzV29XajNBOGlvN0N2dDYzeG9UQjQwX3dKc0ZQVWdfSlFYa2pMUmJTRHRfNzg2SVdLQUdIcFZwYlNmSUZxUHh2eHU4dw?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-18",
+          "lede": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+          "articleExcerpt": "Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital - Yahoo Finance. Apollo Global Management (APO) Sees AI Needing $8 Trillion Of Capital Yahoo Finance",
+          "contentFingerprint": "f983ecb2524a5a62",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Apollo commentary on AI's capital needs, likely referencing its private credit and investment-grade financing push for AI infrastructure. This is market and manager commentary with no specific transaction, so it has low-moderate importance.",
+            "llmReasonZh": "Apollo就AI资本需求发表评论，可能涉及其为AI基础设施推进的私募信贷及投资级融资业务。该内容属于市场及管理人评论，未涉及具体交易，因此重要性为中低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.6,
+            "finalScore": 19.6,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-0c9491ea1371",
           "title": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus",
           "titleZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… - GuruFocus",
@@ -220309,12 +221573,1194 @@
           }
         }
       ]
+    },
+    "2026-11-19": {
+      "byGp": {
+        "Blue Owl": [
+          {
+            "id": "2026-11-19-235ddb107596",
+            "title": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News - TradingView",
+            "titleZh": "Blue Owl拟为亚马逊租用的数据中心发行5.13亿美元商业抵押贷款支持证券 - Bloomberg News - TradingView",
+            "summary": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+            "summaryZh": "Blue Owl拟为亚马逊租用的数据中心发行5.13亿美元商业抵押贷款支持证券 - Bloomberg News TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ2JNSnlqWHVoYjN0VGZZdHc0dS1OUXdXczB5YnlQeHl0SjhKbFR4MXUtakJCaWJlOU1TbjFRNTZzNjFuREw3VzZILWZUbmUwejRDVU1fcXJJUUZRVkI1SmYxMUpHQ2JXLUtNekZmWHBrZkoyWm9JSUNjS2M4MmRYeURISlp3NVFCY2NhaWFUMXVBbzI0UzNPT2VjWWtLYlZ2a0dLOTdFWms4ekt5Sm9Xeloxc2R4U2RhYU1SUFNYTmtvY2tKTFNZOXZpYk5uRHh6YjR4OEJsNUVPd3hmRzQtcVlMQU4tVExoUHU5S1dySzh0aGdwazBPSHIxTXlhRFdoXzBZblRmTHdURFE?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-19",
+            "lede": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+            "articleExcerpt": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News - TradingView. Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+            "contentFingerprint": "2c89d9be1a369d99",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "structured",
+              "resi",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "sectors": [
+              "structured",
+              "resi",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "resi",
+                "cre",
+                "data-center"
+              ],
+              "titleStrategies": [
+                "resi",
+                "cre",
+                "data-center"
+              ],
+              "llmStrategies": [
+                "structured",
+                "triple-net",
+                "cre",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is planning a $513M CMBS securitization backed by an Amazon-leased data center. This is a structured-finance debt issuance tied to Blue Owl's real estate and net-lease credit activity, so it is credit-relevant financing.",
+              "llmReasonZh": "Blue Owl正计划发行一笔5.13亿美元的CMBS证券化产品，以一座由亚马逊租用的数据中心作为支持资产。这是一项与Blue Owl房地产及净租赁信贷业务相关的结构化融资债务发行，属于与信贷相关的融资。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "resi",
+                    "triple-net",
+                    "cre",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.54
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 28,
+              "semanticScore": 6.44,
+              "finalScore": 34.44,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-52f92bb9703c",
+            "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center - Bloomberg.com",
+            "titleZh": "Blue Owl拟发行5.13亿美元CMBS，以亚马逊租用的数据中心为支持 - Bloomberg.com",
+            "summary": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+            "summaryZh": "Blue Owl拟发行5.13亿美元CMBS，以亚马逊租用的数据中心为支持 Bloomberg.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVaaktqamVpSXJCWjhzSEJrUkRaVUpKNUpEamI3VWpUMW43WlVraDRuY25BV19GUHNId04wNnZnTTVNc1EwNGtSMzcxdVliVXlHOHl1bzd0Wm41T19fa1c5MEI3c2lxMU1FRWlaWXllZmtqUGN3ZW1aQ0s3YjU4OE1vVkJnWlBVTHlhaURjQ0hfeW9KSW51SW9EWEZIX0ppUmtwVXZFM2NNLUJBMERhOU1R?oc=5",
+            "source": "Bloomberg.com",
+            "publishedAt": "2026-11-19",
+            "lede": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+            "articleExcerpt": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center - Bloomberg.com. Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+            "contentFingerprint": "a33cfebda6452e38",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "sectors": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "cre",
+                "data-center"
+              ],
+              "titleStrategies": [
+                "cre",
+                "data-center"
+              ],
+              "llmStrategies": [
+                "structured",
+                "triple-net",
+                "cre",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is issuing a $513M CMBS securitization backed by an Amazon-leased data center. This is credit and structured-finance activity tied to data-center and net-lease real estate, so it counts as an ordinary financing transaction.",
+              "llmReasonZh": "Blue Owl正在发行一笔5.13亿美元的CMBS证券化产品，其基础资产为一处由亚马逊租用的数据中心。这属于与数据中心及净租赁房地产相关的信贷和结构化融资活动，因此被归类为常规融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.72,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "triple-net",
+                    "cre",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.45
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 1.0,
+                  "code": "tier_top",
+                  "source": "Bloomberg.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 88,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 18,
+              "semanticScore": 5.4,
+              "finalScore": 23.4,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-c458b36fa7d0",
+            "title": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan - FourWeekMBA",
+            "titleZh": "Blue Owl拟发行$513M CMBS；其信托获得$512.6M贷款 - FourWeekMBA",
+            "summary": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+            "summaryZh": "Blue Owl拟发行$513M CMBS；其信托获得$512.6M贷款 FourWeekMBA",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDJydVRwY3FBQUFXcmhqckdBeVJ0M011MXgyeVNFa204QXUwYnpPaTN1VFd1Vk1NMmdzVFJrM2JDMEx5NjBKa1d3ZktRUkxMSlJRNWZuREtib05vcXRkQmNxREhIdFhoWklJV2s3V01Wc1RVa1dPTHNzbEN5VFJ5aGp2dXptejdu?oc=5",
+            "source": "FourWeekMBA",
+            "publishedAt": "2026-11-19",
+            "lede": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+            "articleExcerpt": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan - FourWeekMBA. Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+            "contentFingerprint": "13bfc8a55d96c192",
+            "region": "Global",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "structured",
+              "cre"
+            ],
+            "sectors": [
+              "structured",
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "cre"
+              ],
+              "titleStrategies": [
+                "cre"
+              ],
+              "llmStrategies": [
+                "structured",
+                "cre"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is planning a $513M CMBS securitization backed by a $512.6M loan to its trust. This is a commercial real estate structured-finance transaction, so it counts as credit-relevant financing activity.",
+              "llmReasonZh": "Blue Owl正计划发行一笔$513M的CMBS证券化产品，基础资产为向其信托发放的一笔$512.6M贷款。这是一笔商业地产结构化融资交易，因此属于与信贷相关的融资活动。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "cre"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "FourWeekMBA"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 72,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.88,
+              "finalScore": 22.88,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [
+          {
+            "id": "2026-11-19-8c406e0a01f6",
+            "title": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot - Neuberger Berman",
+            "titleZh": "为何私人住宅信贷是房地产领域60万亿美元的盲点 - Neuberger Berman",
+            "summary": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+            "summaryZh": "为何私人住宅信贷是房地产领域60万亿美元的盲点 Neuberger Berman",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUk5NSGhJNTVRTkhub3BIMkh1aGUyN2Y0Y3pWX19DV3otdjNlcnhQbHJGd1dnNm1MdjhxSEZtb29yQXlKZWgwSDBrdjJNcGtrSlZqRENpV1hONTZQUUlIUVRGdVVqbFpxQ241SkxLMWtzSksyTS1mYzdaMVhPOUtremNFVWw0cG9ORTRIMGpheEM4U3JvaWJnN3Z5R0ZUNzFqeC0zdjVZSVd1NHVXMG5zNTFkYzZCQjNPX3Fn?oc=5",
+            "source": "Neuberger Berman",
+            "publishedAt": "2026-11-19",
+            "lede": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+            "articleExcerpt": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot - Neuberger Berman. Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+            "contentFingerprint": "2643c43e26b3cdaf",
+            "region": "Global",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "private-credit",
+              "resi"
+            ],
+            "sectors": [
+              "private-credit",
+              "resi"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [
+                "resi"
+              ],
+              "titleStrategies": [
+                "resi"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "resi"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman thought-leadership piece on private residential credit. It is credit-relevant to a tracked GP's resi/private credit strategy, but there is no transaction, fundraising or legal event, so it ranks slightly below routine manager news.",
+              "llmReasonZh": "Neuberger Berman发布的关于私人住宅信贷的思想领导力文章。该文章与所追踪GP的住宅/私募信贷策略具有信贷相关性，但未涉及交易、募资或法律事件，因此排名略低于常规管理人新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.65,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "resi"
+                  ],
+                  "semanticValue": 0.29
+                },
+                "event": {
+                  "value": 0.3,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Neuberger Berman"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 3.48,
+              "finalScore": 20.48,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [
+          {
+            "id": "2026-11-19-fe2189854e60",
+            "title": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress - TipRanks",
+            "titleZh": "Golub Capital BDC财报电话会显示其在信贷压力下保持韧性 - TipRanks",
+            "summary": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+            "summaryZh": "Golub Capital BDC财报电话会显示其在信贷压力下保持韧性 TipRanks",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW03QTh5MThOcTRhVHZTbnY3NVZkdERsR28wWGxHQ1Jmdlh5c3lkX2wwZURTVnA5Z0VQSXMxSHdJMkdoa3dyMlp3WWZuWFpZaWR5aW9jcHpXNEdZZmFjekRtamxwVjFIdzlqelljdmlzMGJrS25VNUJKNFczUlJsWjBqQ2tUY2lxaWhRbmlWeUtRNTNxem12cVA5SFU1bGFxYnRiTEJlcmpZc0dPTlNMNFFfcXJINXdrSnJZ?oc=5",
+            "source": "TipRanks",
+            "publishedAt": "2026-11-19",
+            "lede": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+            "articleExcerpt": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress - TipRanks. Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+            "contentFingerprint": "38a6c4d9e0a31b95",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Earnings call summary for Golub Capital BDC, Golub's direct-lending BDC, mentioning credit stress. It is routine manager news about the credit business with no financing, fundraising or litigation event. The credit-stress angle makes it somewhat relevant, but this is a TipRanks recap rather than a disclosure of defaults.",
+              "llmReasonZh": "Golub Capital BDC（Golub旗下直接贷款BDC）的财报电话会摘要，提及信贷压力。属于有关信贷业务的常规管理人新闻，不涉及融资、募资或诉讼事件。信贷压力角度使其具有一定相关性，但这只是TipRanks的回顾文章，并非违约披露。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.77,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "TipRanks"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.0
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 59,
+              "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.55,
+              "finalScore": 20.55,
+              "semanticEnabled": true
+            }
+          }
+        ],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": [
+        {
+          "id": "2026-11-19-235ddb107596",
+          "title": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News - TradingView",
+          "titleZh": "Blue Owl拟为亚马逊租用的数据中心发行5.13亿美元商业抵押贷款支持证券 - Bloomberg News - TradingView",
+          "summary": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+          "summaryZh": "Blue Owl拟为亚马逊租用的数据中心发行5.13亿美元商业抵押贷款支持证券 - Bloomberg News TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ2JNSnlqWHVoYjN0VGZZdHc0dS1OUXdXczB5YnlQeHl0SjhKbFR4MXUtakJCaWJlOU1TbjFRNTZzNjFuREw3VzZILWZUbmUwejRDVU1fcXJJUUZRVkI1SmYxMUpHQ2JXLUtNekZmWHBrZkoyWm9JSUNjS2M4MmRYeURISlp3NVFCY2NhaWFUMXVBbzI0UzNPT2VjWWtLYlZ2a0dLOTdFWms4ekt5Sm9Xeloxc2R4U2RhYU1SUFNYTmtvY2tKTFNZOXZpYk5uRHh6YjR4OEJsNUVPd3hmRzQtcVlMQU4tVExoUHU5S1dySzh0aGdwazBPSHIxTXlhRFdoXzBZblRmTHdURFE?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-19",
+          "lede": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+          "articleExcerpt": "Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News - TradingView. Blue Owl plans $513 million commercial mortgage backed securities for Amazon-leased data center - Bloomberg News TradingView",
+          "contentFingerprint": "2c89d9be1a369d99",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "structured",
+            "resi",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "sectors": [
+            "structured",
+            "resi",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "resi",
+              "cre",
+              "data-center"
+            ],
+            "titleStrategies": [
+              "resi",
+              "cre",
+              "data-center"
+            ],
+            "llmStrategies": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is planning a $513M CMBS securitization backed by an Amazon-leased data center. This is a structured-finance debt issuance tied to Blue Owl's real estate and net-lease credit activity, so it is credit-relevant financing.",
+            "llmReasonZh": "Blue Owl正计划发行一笔5.13亿美元的CMBS证券化产品，以一座由亚马逊租用的数据中心作为支持资产。这是一项与Blue Owl房地产及净租赁信贷业务相关的结构化融资债务发行，属于与信贷相关的融资。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "resi",
+                  "triple-net",
+                  "cre",
+                  "data-center"
+                ],
+                "semanticValue": 0.54
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 28,
+            "semanticScore": 6.44,
+            "finalScore": 34.44,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-52f92bb9703c",
+          "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center - Bloomberg.com",
+          "titleZh": "Blue Owl拟发行5.13亿美元CMBS，以亚马逊租用的数据中心为支持 - Bloomberg.com",
+          "summary": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+          "summaryZh": "Blue Owl拟发行5.13亿美元CMBS，以亚马逊租用的数据中心为支持 Bloomberg.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVaaktqamVpSXJCWjhzSEJrUkRaVUpKNUpEamI3VWpUMW43WlVraDRuY25BV19GUHNId04wNnZnTTVNc1EwNGtSMzcxdVliVXlHOHl1bzd0Wm41T19fa1c5MEI3c2lxMU1FRWlaWXllZmtqUGN3ZW1aQ0s3YjU4OE1vVkJnWlBVTHlhaURjQ0hfeW9KSW51SW9EWEZIX0ppUmtwVXZFM2NNLUJBMERhOU1R?oc=5",
+          "source": "Bloomberg.com",
+          "publishedAt": "2026-11-19",
+          "lede": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+          "articleExcerpt": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center - Bloomberg.com. Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center Bloomberg.com",
+          "contentFingerprint": "a33cfebda6452e38",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "structured",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "sectors": [
+            "structured",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "cre",
+              "data-center"
+            ],
+            "titleStrategies": [
+              "cre",
+              "data-center"
+            ],
+            "llmStrategies": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is issuing a $513M CMBS securitization backed by an Amazon-leased data center. This is credit and structured-finance activity tied to data-center and net-lease real estate, so it counts as an ordinary financing transaction.",
+            "llmReasonZh": "Blue Owl正在发行一笔5.13亿美元的CMBS证券化产品，其基础资产为一处由亚马逊租用的数据中心。这属于与数据中心及净租赁房地产相关的信贷和结构化融资活动，因此被归类为常规融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.72,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "triple-net",
+                  "cre",
+                  "data-center"
+                ],
+                "semanticValue": 0.45
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 1.0,
+                "code": "tier_top",
+                "source": "Bloomberg.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 88,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 18,
+            "semanticScore": 5.4,
+            "finalScore": 23.4,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-c458b36fa7d0",
+          "title": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan - FourWeekMBA",
+          "titleZh": "Blue Owl拟发行$513M CMBS；其信托获得$512.6M贷款 - FourWeekMBA",
+          "summary": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+          "summaryZh": "Blue Owl拟发行$513M CMBS；其信托获得$512.6M贷款 FourWeekMBA",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDJydVRwY3FBQUFXcmhqckdBeVJ0M011MXgyeVNFa204QXUwYnpPaTN1VFd1Vk1NMmdzVFJrM2JDMEx5NjBKa1d3ZktRUkxMSlJRNWZuREtib05vcXRkQmNxREhIdFhoWklJV2s3V01Wc1RVa1dPTHNzbEN5VFJ5aGp2dXptejdu?oc=5",
+          "source": "FourWeekMBA",
+          "publishedAt": "2026-11-19",
+          "lede": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+          "articleExcerpt": "Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan - FourWeekMBA. Blue Owl Plans $513M CMBS; Its Trust Took a $512.6M Loan FourWeekMBA",
+          "contentFingerprint": "13bfc8a55d96c192",
+          "region": "Global",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "structured",
+            "cre"
+          ],
+          "sectors": [
+            "structured",
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "cre"
+            ],
+            "titleStrategies": [
+              "cre"
+            ],
+            "llmStrategies": [
+              "structured",
+              "cre"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is planning a $513M CMBS securitization backed by a $512.6M loan to its trust. This is a commercial real estate structured-finance transaction, so it counts as credit-relevant financing activity.",
+            "llmReasonZh": "Blue Owl正计划发行一笔$513M的CMBS证券化产品，基础资产为向其信托发放的一笔$512.6M贷款。这是一笔商业地产结构化融资交易，因此属于与信贷相关的融资活动。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "cre"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "FourWeekMBA"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 72,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.88,
+            "finalScore": 22.88,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-8c406e0a01f6",
+          "title": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot - Neuberger Berman",
+          "titleZh": "为何私人住宅信贷是房地产领域60万亿美元的盲点 - Neuberger Berman",
+          "summary": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+          "summaryZh": "为何私人住宅信贷是房地产领域60万亿美元的盲点 Neuberger Berman",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUk5NSGhJNTVRTkhub3BIMkh1aGUyN2Y0Y3pWX19DV3otdjNlcnhQbHJGd1dnNm1MdjhxSEZtb29yQXlKZWgwSDBrdjJNcGtrSlZqRENpV1hONTZQUUlIUVRGdVVqbFpxQ241SkxLMWtzSksyTS1mYzdaMVhPOUtremNFVWw0cG9ORTRIMGpheEM4U3JvaWJnN3Z5R0ZUNzFqeC0zdjVZSVd1NHVXMG5zNTFkYzZCQjNPX3Fn?oc=5",
+          "source": "Neuberger Berman",
+          "publishedAt": "2026-11-19",
+          "lede": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+          "articleExcerpt": "Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot - Neuberger Berman. Why Private Residential Credit Is Real Estate's $60 Trillion Blind Spot Neuberger Berman",
+          "contentFingerprint": "2643c43e26b3cdaf",
+          "region": "Global",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "private-credit",
+            "resi"
+          ],
+          "sectors": [
+            "private-credit",
+            "resi"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [
+              "resi"
+            ],
+            "titleStrategies": [
+              "resi"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "resi"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman thought-leadership piece on private residential credit. It is credit-relevant to a tracked GP's resi/private credit strategy, but there is no transaction, fundraising or legal event, so it ranks slightly below routine manager news.",
+            "llmReasonZh": "Neuberger Berman发布的关于私人住宅信贷的思想领导力文章。该文章与所追踪GP的住宅/私募信贷策略具有信贷相关性，但未涉及交易、募资或法律事件，因此排名略低于常规管理人新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.65,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "resi"
+                ],
+                "semanticValue": 0.29
+              },
+              "event": {
+                "value": 0.3,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Neuberger Berman"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 3.48,
+            "finalScore": 20.48,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-fe2189854e60",
+          "title": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress - TipRanks",
+          "titleZh": "Golub Capital BDC财报电话会显示其在信贷压力下保持韧性 - TipRanks",
+          "summary": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+          "summaryZh": "Golub Capital BDC财报电话会显示其在信贷压力下保持韧性 TipRanks",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW03QTh5MThOcTRhVHZTbnY3NVZkdERsR28wWGxHQ1Jmdlh5c3lkX2wwZURTVnA5Z0VQSXMxSHdJMkdoa3dyMlp3WWZuWFpZaWR5aW9jcHpXNEdZZmFjekRtamxwVjFIdzlqelljdmlzMGJrS25VNUJKNFczUlJsWjBqQ2tUY2lxaWhRbmlWeUtRNTNxem12cVA5SFU1bGFxYnRiTEJlcmpZc0dPTlNMNFFfcXJINXdrSnJZ?oc=5",
+          "source": "TipRanks",
+          "publishedAt": "2026-11-19",
+          "lede": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+          "articleExcerpt": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress - TipRanks. Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress TipRanks",
+          "contentFingerprint": "38a6c4d9e0a31b95",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Earnings call summary for Golub Capital BDC, Golub's direct-lending BDC, mentioning credit stress. It is routine manager news about the credit business with no financing, fundraising or litigation event. The credit-stress angle makes it somewhat relevant, but this is a TipRanks recap rather than a disclosure of defaults.",
+            "llmReasonZh": "Golub Capital BDC（Golub旗下直接贷款BDC）的财报电话会摘要，提及信贷压力。属于有关信贷业务的常规管理人新闻，不涉及融资、募资或诉讼事件。信贷压力角度使其具有一定相关性，但这只是TipRanks的回顾文章，并非违约披露。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.77,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "TipRanks"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.0
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 59,
+            "retrievedAt": "2026-11-19T02:24:33.326524+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.55,
+            "finalScore": 20.55,
+            "semanticEnabled": true
+          }
+        }
+      ]
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 28,
+      "count": 32,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -220322,7 +222768,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220335,7 +222781,7 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220348,12 +222794,12 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 7,
+      "count": 9,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -220361,46 +222807,46 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 4,
-      "selected": 1,
+      "count": 5,
+      "selected": 0,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
-      "selected": 2,
+      "count": 7,
+      "selected": 1,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
       "queries": [
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 8,
-      "selected": 5,
+      "count": 7,
+      "selected": 4,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220413,12 +222859,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 20,
+      "count": 19,
       "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -220426,7 +222872,7 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220439,12 +222885,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 29,
+      "count": 28,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -220452,20 +222898,20 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
       "count": 9,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220478,20 +222924,20 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 24,
-      "selected": 1,
+      "count": 28,
+      "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
       "queries": [
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
@@ -220504,12 +222950,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 654,
+      "count": 622,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -220526,9 +222972,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-18T21:01:43.271561+00:00",
+      "asOf": "2026-11-19T02:24:33.326524+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-18T21:01:43.271561+00:00"
+  "checkedAt": "2026-11-19T02:24:33.326524+00:00"
 }
