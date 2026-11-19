@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-19T12:00:31.123465+00:00",
+  "updatedAt": "2026-11-19T20:31:33.156228+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7146,7 +7146,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券和货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -19580,7 +19580,7 @@
             ],
             "llmExclude": false,
             "llmReason": "The article title references 'HSBC Medium Term Fund - Direct Plan', which aligns with HSBC Asset Management's credit-focused mutual fund offerings—specifically medium-term debt funds investing in high-quality corporate bonds and other fixed-income instruments, falling under private credit/direct lending scope as a managed credit strategy.",
-            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相契合，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
+            "llmReasonZh": "文章标题提及“HSBC Medium Term Fund - Direct Plan”，与汇丰资产管理（HSBC Asset Management）以信贷为重点的共同基金产品相符，具体为投资于高质量公司债券及其他固定收益工具的中期债券基金，作为一种管理型信贷策略，属于私募信贷/直接贷款范畴。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -212923,7 +212923,100 @@
             }
           }
         ],
-        "TPG": [],
+        "TPG": [
+          {
+            "id": "2026-11-17-49a25f3e910f",
+            "title": "Q3 2026 TPG Inc Earnings Call Transcript - GuruFocus",
+            "titleZh": "TPG Inc 2026年第三季度财报电话会议记录 - GuruFocus",
+            "summary": "Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+            "summaryZh": "TPG Inc 2026年第三季度财报电话会议记录 GuruFocus",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mT2pwS1RiSFJ3OVA5b3dmSkw4RmlBXzY2RzhITVpXcG80NWJOdDBzVTFUR0RJZkZPWjJhczJCZHB2RDhyYUh2dFROMWRXMGZDazdaTldzd3MyWUpuTWpySlRZdVU1N2RsYVZj?oc=5",
+            "source": "GuruFocus",
+            "publishedAt": "2026-11-17",
+            "lede": "Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+            "articleExcerpt": "Q3 2026 TPG Inc Earnings Call Transcript - GuruFocus. Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+            "contentFingerprint": "ff016514654f8b87",
+            "region": "Global",
+            "gps": [
+              "TPG"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "TPG"
+              ],
+              "titleGps": [
+                "TPG"
+              ],
+              "llmGps": [
+                "TPG"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Generic TPG Inc Q3 2026 earnings call transcript listing with no content shown. Earnings calls for a multi-strategy manager usually cover credit (TPG Angelo Gordon), so it is kept but rated low importance. Without the text, no specific credit strategy or event can be identified.",
+              "llmReasonZh": "此为TPG Inc 2026年第三季度财报电话会议记录的一般性条目，未显示具体内容。多策略管理人的财报电话会议通常会涉及信贷业务（TPG Angelo Gordon），因此予以保留，但重要性评级较低。由于缺少正文，无法识别具体的信贷策略或事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "TPG"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.19,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "GuruFocus"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 2.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 49,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.46,
+              "finalScore": 7.46,
+              "semanticEnabled": true
+            }
+          }
+        ],
         "Golub": [
           {
             "id": "2026-11-17-e8f10296ea7d",
@@ -215779,6 +215872,98 @@
           }
         },
         {
+          "id": "2026-11-17-49a25f3e910f",
+          "title": "Q3 2026 TPG Inc Earnings Call Transcript - GuruFocus",
+          "titleZh": "TPG Inc 2026年第三季度财报电话会议记录 - GuruFocus",
+          "summary": "Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+          "summaryZh": "TPG Inc 2026年第三季度财报电话会议记录 GuruFocus",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mT2pwS1RiSFJ3OVA5b3dmSkw4RmlBXzY2RzhITVpXcG80NWJOdDBzVTFUR0RJZkZPWjJhczJCZHB2RDhyYUh2dFROMWRXMGZDazdaTldzd3MyWUpuTWpySlRZdVU1N2RsYVZj?oc=5",
+          "source": "GuruFocus",
+          "publishedAt": "2026-11-17",
+          "lede": "Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+          "articleExcerpt": "Q3 2026 TPG Inc Earnings Call Transcript - GuruFocus. Q3 2026 TPG Inc Earnings Call Transcript GuruFocus",
+          "contentFingerprint": "ff016514654f8b87",
+          "region": "Global",
+          "gps": [
+            "TPG"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "TPG"
+            ],
+            "titleGps": [
+              "TPG"
+            ],
+            "llmGps": [
+              "TPG"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Generic TPG Inc Q3 2026 earnings call transcript listing with no content shown. Earnings calls for a multi-strategy manager usually cover credit (TPG Angelo Gordon), so it is kept but rated low importance. Without the text, no specific credit strategy or event can be identified.",
+            "llmReasonZh": "此为TPG Inc 2026年第三季度财报电话会议记录的一般性条目，未显示具体内容。多策略管理人的财报电话会议通常会涉及信贷业务（TPG Angelo Gordon），因此予以保留，但重要性评级较低。由于缺少正文，无法识别具体的信贷策略或事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "TPG"
+                ]
+              },
+              "strategy": {
+                "value": 0.19,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "GuruFocus"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 2.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 49,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.46,
+            "finalScore": 7.46,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-17-e8f10296ea7d",
           "title": "Golub Capital Stock At $12.40: Private Credit’s First Crack? - Trefis",
           "titleZh": "Golub Capital股价跌至$12.40：私募信贷首现裂痕？ - Trefis",
@@ -218093,6 +218278,112 @@
               "finalScore": 15.59,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-f751144f5901",
+            "title": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Stock Titan",
+            "titleZh": "Litmus Music宣布获Carlyle与KKR战略投资以加速增长 - Stock Titan",
+            "summary": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+            "summaryZh": "Litmus Music宣布获Carlyle与KKR战略投资以加速增长 Stock Titan",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjhMMDA3MGlhYWhOZ2pPaHZhVk9HQ3IxNEp2NDU1Q0VGS08wZUQ1eGZKTWU5YnVZM3dKdGt6MlltWkZGb2ZIbURkZ0w0aFRVOEljQmIxRThXcFNCRW90Tjk2Q29NR2NFaXV1cnhrTWl6WTR4OGI0M2VBLUp5cUtQX0QwNkExREp1RXU1UU83c1RSV3Bnem1tNElLZTVXd1pxdnhyNzNRVzhyaEhRaDZHWXlmMXlpYWJzbHdWcw?oc=5",
+            "source": "Stock Titan",
+            "publishedAt": "2026-11-18",
+            "lede": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+            "articleExcerpt": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Stock Titan. Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+            "contentFingerprint": "33a25b204ae04cb9",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "abf"
+            ],
+            "sectors": [
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.6,
+              "llmExclude": false,
+              "llmReason": "KKR (with Carlyle) is making a strategic investment in Litmus Music, a music-catalog/royalty acquirer. The article text gives only the headline and does not specify which KKR vehicle is investing. KKR has made similar royalty investments through its Asset-Based Finance strategy (e.g., Chord Music Partners), so this is tagged ABF/financing provisionally. If the full release shows a purely private-equity stake, it should be excluded.",
+              "llmReasonZh": "KKR（与Carlyle一道）对音乐版权目录/版税收购方Litmus Music进行战略投资。文章内容仅包含标题，未说明KKR具体通过哪一投资工具进行投资。KKR此前曾通过其资产支持融资（Asset-Based Finance）策略进行过类似的版税投资（如Chord Music Partners），因此暂将其标记为ABF/融资类。若完整公告显示该投资纯属私募股权入股，则应予以剔除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "abf"
+                  ],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.65,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.6
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Stock Titan"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 5.28,
+              "finalScore": 11.280000000000001,
+              "semanticEnabled": true
+            }
           }
         ],
         "CIFC": [],
@@ -219065,6 +219356,114 @@
               "keywordScore": 6,
               "semanticScore": 4.23,
               "finalScore": 10.23,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-70ab0accede1",
+            "title": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick - Yahoo Finance",
+            "titleZh": "Blackstone的Jon Gray：AI需求强劲，泡沫担忧难以成立 - Yahoo Finance",
+            "summary": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+            "summaryZh": "Blackstone的Jon Gray表示，AI需求过于强劲，泡沫担忧难以成立 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFRJaDROY29iUnhTTlBINm1iX3ptNFJlbUIxd0k2WUFuVUZGSUVyWVR3SDlHX1RodE43bHFtMlk4VFh5QUJyN3RCRUpTeHpUTGE3UnB0dFBnQlNKTU81R19BbXk5akFYV0hNcHVpUEtKbmE5V013VUZWMThmNXZKTVEwc1hWU2puT1JYN3RMZmFqUjRrQ1E?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+            "articleExcerpt": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick - Yahoo Finance. Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+            "contentFingerprint": "3d707d6fc0d225ff",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [
+              "ai"
+            ],
+            "sectors": [
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "ai"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone President Jon Gray gives firm-wide market commentary on AI demand and bubble fears. It touches the tracked AI theme, where Blackstone is active including data-center and AI-infrastructure financing, but it is not a specific credit transaction, fund event or legal matter. Kept at low importance rather than excluded because the firm-wide view is relevant to Blackstone's AI and data-center lending exposure.",
+              "llmReasonZh": "Blackstone总裁Jon Gray就AI需求及泡沫担忧发表了全公司层面的市场评论。该内容涉及所追踪的AI主题，Blackstone在该领域较为活跃，包括数据中心及AI基础设施融资，但并非具体的信贷交易、基金事件或法律事项。由于该公司层面的观点与Blackstone在AI及数据中心贷款方面的敞口相关，因此以低重要性保留，而非排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.7,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "ai"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 4.69,
+              "finalScore": 18.69,
               "semanticEnabled": true
             }
           }
@@ -220902,6 +221301,112 @@
           }
         },
         {
+          "id": "2026-11-18-f751144f5901",
+          "title": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Stock Titan",
+          "titleZh": "Litmus Music宣布获Carlyle与KKR战略投资以加速增长 - Stock Titan",
+          "summary": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+          "summaryZh": "Litmus Music宣布获Carlyle与KKR战略投资以加速增长 Stock Titan",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjhMMDA3MGlhYWhOZ2pPaHZhVk9HQ3IxNEp2NDU1Q0VGS08wZUQ1eGZKTWU5YnVZM3dKdGt6MlltWkZGb2ZIbURkZ0w0aFRVOEljQmIxRThXcFNCRW90Tjk2Q29NR2NFaXV1cnhrTWl6WTR4OGI0M2VBLUp5cUtQX0QwNkExREp1RXU1UU83c1RSV3Bnem1tNElLZTVXd1pxdnhyNzNRVzhyaEhRaDZHWXlmMXlpYWJzbHdWcw?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-11-18",
+          "lede": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+          "articleExcerpt": "Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth - Stock Titan. Litmus Music Announces Strategic Investment from Carlyle and KKR to Accelerate Growth Stock Titan",
+          "contentFingerprint": "33a25b204ae04cb9",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "abf"
+          ],
+          "sectors": [
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.6,
+            "llmExclude": false,
+            "llmReason": "KKR (with Carlyle) is making a strategic investment in Litmus Music, a music-catalog/royalty acquirer. The article text gives only the headline and does not specify which KKR vehicle is investing. KKR has made similar royalty investments through its Asset-Based Finance strategy (e.g., Chord Music Partners), so this is tagged ABF/financing provisionally. If the full release shows a purely private-equity stake, it should be excluded.",
+            "llmReasonZh": "KKR（与Carlyle一道）对音乐版权目录/版税收购方Litmus Music进行战略投资。文章内容仅包含标题，未说明KKR具体通过哪一投资工具进行投资。KKR此前曾通过其资产支持融资（Asset-Based Finance）策略进行过类似的版税投资（如Chord Music Partners），因此暂将其标记为ABF/融资类。若完整公告显示该投资纯属私募股权入股，则应予以剔除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "abf"
+                ],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.65,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.6
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Stock Titan"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 5.28,
+            "finalScore": 11.280000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-1aef84e96bf2",
           "title": "Guggenheim Macro Opportunities Fund Q3 2026 Commentary (GIOIX) - Seeking Alpha",
           "titleZh": "Guggenheim Macro Opportunities Fund 2026年第三季度评论（GIOIX）- Seeking Alpha",
@@ -221865,6 +222370,114 @@
           }
         },
         {
+          "id": "2026-11-18-70ab0accede1",
+          "title": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick - Yahoo Finance",
+          "titleZh": "Blackstone的Jon Gray：AI需求强劲，泡沫担忧难以成立 - Yahoo Finance",
+          "summary": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+          "summaryZh": "Blackstone的Jon Gray表示，AI需求过于强劲，泡沫担忧难以成立 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFRJaDROY29iUnhTTlBINm1iX3ptNFJlbUIxd0k2WUFuVUZGSUVyWVR3SDlHX1RodE43bHFtMlk4VFh5QUJyN3RCRUpTeHpUTGE3UnB0dFBnQlNKTU81R19BbXk5akFYV0hNcHVpUEtKbmE5V013VUZWMThmNXZKTVEwc1hWU2puT1JYN3RMZmFqUjRrQ1E?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-18",
+          "lede": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+          "articleExcerpt": "Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick - Yahoo Finance. Blackstone’s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick Yahoo Finance",
+          "contentFingerprint": "3d707d6fc0d225ff",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [
+            "ai"
+          ],
+          "sectors": [
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "ai"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone President Jon Gray gives firm-wide market commentary on AI demand and bubble fears. It touches the tracked AI theme, where Blackstone is active including data-center and AI-infrastructure financing, but it is not a specific credit transaction, fund event or legal matter. Kept at low importance rather than excluded because the firm-wide view is relevant to Blackstone's AI and data-center lending exposure.",
+            "llmReasonZh": "Blackstone总裁Jon Gray就AI需求及泡沫担忧发表了全公司层面的市场评论。该内容涉及所追踪的AI主题，Blackstone在该领域较为活跃，包括数据中心及AI基础设施融资，但并非具体的信贷交易、基金事件或法律事项。由于该公司层面的观点与Blackstone在AI及数据中心贷款方面的敞口相关，因此以低重要性保留，而非排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.7,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "ai"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 4.69,
+            "finalScore": 18.69,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-f75b62703cde",
           "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
           "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
@@ -222562,9 +223175,9 @@
           {
             "id": "2026-11-19-20296b8a6f8a",
             "title": "Blue Owl intends to issue $513 million in CMBS to finance the acquisition of a fully leased data center in Northern Virginia by Amazon (AMZN.US). - Moomoo",
-            "titleZh": "Blue Owl拟发行5.13亿美元CMBS，为收购北弗吉尼亚州一座由亚马逊(AMZN.US)全部租用的数据中心融资 - Moomoo",
+            "titleZh": "Blue Owl拟发行5.13亿美元CMBS，为收购亚马逊(AMZN.US)全租北弗吉尼亚数据中心融资 - Moomoo",
             "summary": "Blue Owl intends to issue $513 million in CMBS to finance the acquisition of a fully leased data center in Northern Virginia by Amazon (AMZN.US). Moomoo",
-            "summaryZh": "Blue Owl拟发行5.13亿美元商业抵押贷款支持证券(CMBS)，为收购北弗吉尼亚州一座由亚马逊(AMZN.US)全部租用的数据中心提供融资。Moomoo",
+            "summaryZh": "Blue Owl拟发行5.13亿美元商业抵押贷款支持证券（CMBS），为收购一座位于北弗吉尼亚、由亚马逊(AMZN.US)全部租用的数据中心提供融资。Moomoo",
             "summaryZhLanguage": "Simplified Chinese",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjUwUzNVQ1AxalhETXRRbWNQeERCZHNRNWtzZGFSbndUM0tLVklmSU5vSGJ0QmNKYXFwM3R4R1k1c1ZvdkFBWkxpNlA4UnlaaEs0bGo1eXZ3X1dfTXljOGV6MThleDZFaHNoa21UMjlNWWlEQzV2T2l1N0hPNkRnNHNoaXpSSlhFQ0lYUTNydVIxcmZxTnBF?oc=5",
             "source": "Moomoo",
@@ -222578,11 +223191,13 @@
             ],
             "strategies": [
               "structured",
+              "triple-net",
               "cre",
               "data-center"
             ],
             "sectors": [
               "structured",
+              "triple-net",
               "cre",
               "data-center"
             ],
@@ -222611,16 +223226,17 @@
               ],
               "llmStrategies": [
                 "structured",
+                "triple-net",
                 "cre",
                 "data-center"
               ],
               "llmEvents": [
                 "financing"
               ],
-              "llmImportance": 0.7,
+              "llmImportance": 0.75,
               "llmExclude": false,
-              "llmReason": "Blue Owl is issuing $513M of CMBS, a securitized debt issuance, to finance the acquisition of a data center fully leased to Amazon in Northern Virginia. That is credit and structured-finance activity tied to data-center real estate, so it counts as an ordinary financing event and should not be excluded.",
-              "llmReasonZh": "Blue Owl正发行5.13亿美元CMBS（一种证券化债务发行），为收购北弗吉尼亚州一座全部租予亚马逊的数据中心提供融资。这属于与数据中心房地产相关的信贷及结构化融资活动，因此应视为常规融资事件，不应排除。"
+              "llmReason": "Blue Owl plans a $513M CMBS issuance (a securitization) to finance its acquisition of a data center in Northern Virginia that is fully leased to Amazon. This is a credit and structured-finance transaction, not pure equity. The single-tenant, fully leased setup points to a net-lease structure. It is a sizable but ordinary financing deal.",
+              "llmReasonZh": "Blue Owl计划发行5.13亿美元CMBS（一种证券化产品），为其收购一座位于北弗吉尼亚、由亚马逊全部租用的数据中心提供融资。这是一笔信用及结构化融资交易，而非纯股权交易。单一租户、全部出租的安排表明其采用净租赁结构。该交易规模可观，但属于常规融资交易。"
             },
             "rating": {
               "parts": {
@@ -222637,19 +223253,20 @@
                   "tagValue": 1.0,
                   "strategies": [
                     "structured",
+                    "triple-net",
                     "cre",
                     "data-center"
                   ],
                   "semanticValue": 0.54
                 },
                 "event": {
-                  "value": 0.82,
+                  "value": 0.85,
                   "code": "major_signal",
                   "ruleValue": 0.95,
                   "events": [
                     "financing"
                   ],
-                  "llmValue": 0.7
+                  "llmValue": 0.75
                 },
                 "source": {
                   "value": 0.35,
@@ -222659,7 +223276,7 @@
                 "freshness": {
                   "value": 1.0,
                   "code": "within_24h",
-                  "days": 0.0
+                  "days": 0.3
                 }
               },
               "weights": {
@@ -222670,12 +223287,136 @@
                 "freshness": 15
               },
               "score": 76,
-              "retrievedAt": "2026-11-19T10:57:42.099392+00:00"
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
             },
             "scoreBreakdown": {
-              "keywordScore": 20,
+              "keywordScore": 23,
               "semanticScore": 6.44,
-              "finalScore": 26.44,
+              "finalScore": 29.44,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-1d24162c98d5",
+            "title": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) - Seeking Alpha",
+            "titleZh": "Blue Owl筹备5.13亿美元CMBS发行，为Amazon租用的数据中心融资 - 报道 (OWL:NYSE) - Seeking Alpha",
+            "summary": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+            "summaryZh": "Blue Owl筹备5.13亿美元CMBS发行，为Amazon租用的数据中心融资 - 报道 (OWL:NYSE) Seeking Alpha",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUxEcGY0aG9oY0c1d1d0MThzWDIwUUZiMkhtZkZKeXkwdGNLSklQc1NfMjRCSV9ESEpqN1lTQThDVWx3SnVvNWdjRFpjcUlCM01NOXlYUTZoYWpBR3JkLURaMzdCZzZuUHg4UERsT0FlUkx1MTRzVWhMUF94WnNvajliVmY0TU1GUzJySFhKR3ByMWNoVURwT0FWZWxqWTJNTDAydlJqYnpYY1lIdGZ2cldn?oc=5",
+            "source": "Seeking Alpha",
+            "publishedAt": "2026-11-19",
+            "lede": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+            "articleExcerpt": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) - Seeking Alpha. Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+            "contentFingerprint": "95bd14c6470b6093",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "sectors": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "cre",
+                "data-center"
+              ],
+              "titleStrategies": [
+                "cre",
+                "data-center"
+              ],
+              "llmStrategies": [
+                "structured",
+                "triple-net",
+                "cre",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is preparing a $513M CMBS securitization to finance an Amazon-leased data center. This is a structured-finance debt issuance with a credit angle, not an equity or infra asset sale. Triple-net is tagged because the asset is a single-tenant leased property, consistent with Blue Owl's net-lease business. Importance is a sizable but ordinary financing.",
+              "llmReasonZh": "Blue Owl正准备进行一笔5.13亿美元的CMBS证券化交易，为Amazon租用的数据中心提供融资。这是一笔具有信用视角的结构化融资债务发行，而非股权或基础设施资产出售。标记为三净租赁（triple-net），因为该资产为单一租户租赁物业，与Blue Owl的净租赁业务一致。重要性：规模较大但属常规融资。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "structured",
+                    "triple-net",
+                    "cre",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Seeking Alpha"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 6.17,
+              "finalScore": 23.17,
               "semanticEnabled": true
             }
           }
@@ -223094,6 +223835,198 @@
               "finalScore": 21.96,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-19-9e4ccbb51824",
+            "title": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team - citybiz",
+            "titleZh": "Pretium携手Hilltop团队将住宅房地产债务平台拓展至英国 - citybiz",
+            "summary": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+            "summaryZh": "Pretium携手Hilltop团队将住宅房地产债务平台拓展至英国 citybiz",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm5TSkQzQmpHdnhCMVc5TXRfTGxPWmpISXR2dENoa0NlcVV6Y1BBMW0wUElQTmRuaWVLTU1TclB0aVBHQ01TdmRERkRlRnphSmhFRnJLU1Y1WlBfTHg4VERwVHVNZldFTV9Ydk9qRWZsZ0ZON005T0k5WWRLU0dZQVptclhoLXNSOXg2Y0FxT3VnMVZJRFBENFE3S2lWdzVpaUFlQXNUaGNFVFpnVVlMVzVKbmlLVVBGX3c?oc=5",
+            "source": "citybiz",
+            "publishedAt": "2026-11-19",
+            "lede": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+            "articleExcerpt": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team - citybiz. Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+            "contentFingerprint": "17672eaf91a143e3",
+            "region": "Europe",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "resi"
+            ],
+            "sectors": [
+              "resi"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "resi"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Pretium is expanding its residential real estate debt (resi credit) platform into the UK by bringing on the Hilltop team. This is a credit-relevant platform expansion and routine manager news, with no specific financing or fundraising event.",
+              "llmReasonZh": "Pretium通过引入Hilltop团队，将其住宅房地产债务（住宅信贷）平台拓展至英国。此为与信贷相关的平台扩张及常规管理人动态，不涉及具体融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.61,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "resi"
+                  ],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "citybiz"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 60,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 15,
+              "semanticScore": 6.17,
+              "finalScore": 21.17,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-df129686d525",
+            "title": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium - Osborne Clarke",
+            "titleZh": "Osborne Clarke为Hilltop Capital Partners出售予Pretium提供法律顾问服务 - Osborne Clarke",
+            "summary": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+            "summaryZh": "Osborne Clarke为Hilltop Capital Partners出售予Pretium提供法律顾问服务 Osborne Clarke",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBELUQxNEMzRTJRTEVWY2lzVWM5NW00Q29Sbk5DUG9SS3hUaXEtQUZ4aGozNWExS2ZKTTNzU2RkaWVEQXNIancwTnlROXFyUXY5aHc?oc=5",
+            "source": "Osborne Clarke",
+            "publishedAt": "2026-11-19",
+            "lede": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+            "articleExcerpt": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium - Osborne Clarke. Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+            "contentFingerprint": "26a5ad29e03d2ad0",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.45,
+              "llmExclude": false,
+              "llmReason": "Law-firm announcement that Hilltop Capital Partners is being sold to Pretium. Pretium is a tracked manager whose business centers on residential credit, mortgage and SFR, so an acquisition by it may affect its credit platform. The article gives no detail on Hilltop's business or any financing terms, so no strategy or event type can be confirmed. Kept at moderate importance as routine manager M&A news.",
+              "llmReasonZh": "律师事务所公告称Hilltop Capital Partners将被出售予Pretium。Pretium是受跟踪的管理人，其业务以住宅信贷、抵押贷款及单户租赁住房（SFR）为核心，因此该收购可能对其信贷平台产生影响。文章未提供Hilltop业务或任何融资条款的细节，因此无法确认相关策略或事件类型。作为常规管理人并购新闻，保持中等重要性。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.21,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.33,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.45
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Osborne Clarke"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 54,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.96,
+              "finalScore": 7.96,
+              "semanticEnabled": true
+            }
           }
         ],
         "Guggenheim": [
@@ -223416,6 +224349,116 @@
               "finalScore": 22.94,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-19-3a2a422b0049",
+            "title": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations - FF News",
+            "titleZh": "Jeeves获Neuberger Berman提供3亿美元融资，拓展全球金融科技业务 - FF News",
+            "summary": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+            "summaryZh": "Jeeves获Neuberger Berman提供3亿美元融资，拓展全球金融科技业务 FF News",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQU1ZbE5RMWhXS1Z6cVVJTFlsUFpRUGdaWkM3Ui1tYlFsVkNIWUU1UElQQy1nYXBQV25STFFPVEp3UWZFVzdWb0tTTEhWYkNaQXktNThKcWFNMmh4Tl9KZVowUndkdU5JZ0ZDMEtNcGZpWkZJWHZFSy1KVll6TGQtSFpWZDUyU3JiTTdyQ2lDamVUbEpCMnR2VEVETzJsWmFPc0g4aHE4RDNUcnBMdmZsRzhFTQ?oc=5",
+            "source": "FF News",
+            "publishedAt": "2026-11-19",
+            "lede": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+            "articleExcerpt": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations - FF News. Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+            "contentFingerprint": "c5e88c33950fc1c2",
+            "region": "US",
+            "gps": [
+              "Neuberger"
+            ],
+            "strategies": [
+              "private-credit",
+              "abf"
+            ],
+            "sectors": [
+              "private-credit",
+              "abf"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Neuberger"
+              ],
+              "titleGps": [
+                "Neuberger"
+              ],
+              "llmGps": [
+                "Neuberger"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit",
+                "abf"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Neuberger Berman is providing $300M of financing to the fintech Jeeves. This is a credit and lending transaction, likely private credit or an asset-based facility backing card or receivables lending. It counts as an ordinary financing event.",
+              "llmReasonZh": "Neuberger Berman向金融科技公司Jeeves提供3亿美元融资。这是一笔信贷与贷款交易，可能是私募信贷或资产支持融资安排，用于支持其信用卡或应收账款贷款业务。属于常规融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Neuberger"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit",
+                    "abf"
+                  ],
+                  "semanticValue": 0.49
+                },
+                "event": {
+                  "value": 0.7,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "FF News"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 5.82,
+              "finalScore": 24.82,
+              "semanticEnabled": true
+            }
           }
         ],
         "BasePoint": [],
@@ -223628,6 +224671,104 @@
               "finalScore": 16.82,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-19-05f41051cf03",
+            "title": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal - ad-hoc-news.de",
+            "titleZh": "Blackstone股票：Fitch认为拟议的IIFL交易将提振资本 - ad-hoc-news.de",
+            "summary": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+            "summaryZh": "Blackstone股票：Fitch认为拟议的IIFL交易将提振资本 ad-hoc-news.de",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTJlclIzWk1YUUlFZ25ObFNFcUJ6TEI2NjM3emxZYTlDN244SEtIQlQxaTBuZHJMVm1SNkNHb1VVTmlQWm0tN2xSQ0Y1SmhNSWpaNWVITmtNTWl6eTlhay02aXhVM0E1cFliWW5laWZOY3Z1aGd6dTJvQ3l5aHpya3hNb0xvLURmUnRFLWFvcm4yc1VSNGZqVFRIWWFJNGlrZ2toVFNEUVdCUjRZYmdZNEhlanNoRktibmpxWW9EeHVhcFRJeFE?oc=5",
+            "source": "ad-hoc-news.de",
+            "publishedAt": "2026-11-19",
+            "lede": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+            "articleExcerpt": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal - ad-hoc-news.de. Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+            "contentFingerprint": "9a7639faa298145c",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.4,
+              "llmExclude": false,
+              "llmReason": "Fitch says Blackstone's proposed capital injection into IIFL, an Indian lender, would strengthen IIFL's capital. A capital deal into a lending business with a rating-agency credit view is borderline relevant. The thin text and stock-news framing limit importance. It is likely an equity stake rather than a credit strategy, so no strategy is tagged.",
+              "llmReasonZh": "Fitch表示，Blackstone拟向印度贷款机构IIFL注资，此举将增强IIFL的资本实力。一笔涉及贷款业务、并附有评级机构信用观点的资本交易，相关性处于边缘。文本内容单薄且以股票新闻为框架，限制了其重要性。该交易可能属于股权投资而非信用策略，因此未标注任何策略。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.22,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.44
+                },
+                "event": {
+                  "value": 0.55,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.4
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "ad-hoc-news.de"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 61,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 5.33,
+              "finalScore": 8.33,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -223734,6 +224875,119 @@
               "keywordScore": 17,
               "semanticScore": 5.26,
               "finalScore": 22.259999999999998,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-784ee81092ad",
+            "title": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports - MLQ.ai",
+            "titleZh": "据FT报道，Apollo取消向曼城母公司City Football Group提供的$2 billion贷款 - MLQ.ai",
+            "summary": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+            "summaryZh": "据FT报道，Apollo取消向曼城母公司City Football Group提供的$2 billion贷款 MLQ.ai",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWhzQ0xndWNEM3V4NjUzejBpNWlpVDVSNkVVcVFwOERwVGhMZ3BNSHQwNEt3elBlbjJleUQ2WExhYzRnT1VIVXl1eVRxcHA0dXViX3NnNENwWloxenY4ZnhITXVDNW5JRVZYV3VWcWRrNTVEaVpPQ1JUa2VYbnhZRUFITjB0S3ZKeVY4Y3AwWExwVWRUNV90T1Jmelo5ek1tQkxjSDJMQTRfZjRtc3paQw?oc=5",
+            "source": "MLQ.ai",
+            "publishedAt": "2026-11-19",
+            "lede": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+            "articleExcerpt": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports - MLQ.ai. Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+            "contentFingerprint": "b2f97097f7af95e3",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit",
+              "ai"
+            ],
+            "sectors": [
+              "private-credit",
+              "ai"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [
+                "ai"
+              ],
+              "titleStrategies": [
+                "ai"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Apollo's credit business scrapped a planned $2B private loan to City Football Group. This is a credit/financing event, not a sports-equity investment, so it is relevant and not excluded.",
+              "llmReasonZh": "Apollo旗下信贷业务取消了一笔原计划向City Football Group提供的$2B私募贷款。该事件属于信贷/融资事件，而非体育类股权投资，因此具有相关性，未被排除。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.73,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "ai"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.85,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "MLQ.ai"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.3
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 17,
+              "semanticScore": 5.63,
+              "finalScore": 22.63,
               "semanticEnabled": true
             }
           }
@@ -224223,9 +225477,9 @@
         {
           "id": "2026-11-19-20296b8a6f8a",
           "title": "Blue Owl intends to issue $513 million in CMBS to finance the acquisition of a fully leased data center in Northern Virginia by Amazon (AMZN.US). - Moomoo",
-          "titleZh": "Blue Owl拟发行5.13亿美元CMBS，为收购北弗吉尼亚州一座由亚马逊(AMZN.US)全部租用的数据中心融资 - Moomoo",
+          "titleZh": "Blue Owl拟发行5.13亿美元CMBS，为收购亚马逊(AMZN.US)全租北弗吉尼亚数据中心融资 - Moomoo",
           "summary": "Blue Owl intends to issue $513 million in CMBS to finance the acquisition of a fully leased data center in Northern Virginia by Amazon (AMZN.US). Moomoo",
-          "summaryZh": "Blue Owl拟发行5.13亿美元商业抵押贷款支持证券(CMBS)，为收购北弗吉尼亚州一座由亚马逊(AMZN.US)全部租用的数据中心提供融资。Moomoo",
+          "summaryZh": "Blue Owl拟发行5.13亿美元商业抵押贷款支持证券（CMBS），为收购一座位于北弗吉尼亚、由亚马逊(AMZN.US)全部租用的数据中心提供融资。Moomoo",
           "summaryZhLanguage": "Simplified Chinese",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjUwUzNVQ1AxalhETXRRbWNQeERCZHNRNWtzZGFSbndUM0tLVklmSU5vSGJ0QmNKYXFwM3R4R1k1c1ZvdkFBWkxpNlA4UnlaaEs0bGo1eXZ3X1dfTXljOGV6MThleDZFaHNoa21UMjlNWWlEQzV2T2l1N0hPNkRnNHNoaXpSSlhFQ0lYUTNydVIxcmZxTnBF?oc=5",
           "source": "Moomoo",
@@ -224239,11 +225493,13 @@
           ],
           "strategies": [
             "structured",
+            "triple-net",
             "cre",
             "data-center"
           ],
           "sectors": [
             "structured",
+            "triple-net",
             "cre",
             "data-center"
           ],
@@ -224272,16 +225528,17 @@
             ],
             "llmStrategies": [
               "structured",
+              "triple-net",
               "cre",
               "data-center"
             ],
             "llmEvents": [
               "financing"
             ],
-            "llmImportance": 0.7,
+            "llmImportance": 0.75,
             "llmExclude": false,
-            "llmReason": "Blue Owl is issuing $513M of CMBS, a securitized debt issuance, to finance the acquisition of a data center fully leased to Amazon in Northern Virginia. That is credit and structured-finance activity tied to data-center real estate, so it counts as an ordinary financing event and should not be excluded.",
-            "llmReasonZh": "Blue Owl正发行5.13亿美元CMBS（一种证券化债务发行），为收购北弗吉尼亚州一座全部租予亚马逊的数据中心提供融资。这属于与数据中心房地产相关的信贷及结构化融资活动，因此应视为常规融资事件，不应排除。"
+            "llmReason": "Blue Owl plans a $513M CMBS issuance (a securitization) to finance its acquisition of a data center in Northern Virginia that is fully leased to Amazon. This is a credit and structured-finance transaction, not pure equity. The single-tenant, fully leased setup points to a net-lease structure. It is a sizable but ordinary financing deal.",
+            "llmReasonZh": "Blue Owl计划发行5.13亿美元CMBS（一种证券化产品），为其收购一座位于北弗吉尼亚、由亚马逊全部租用的数据中心提供融资。这是一笔信用及结构化融资交易，而非纯股权交易。单一租户、全部出租的安排表明其采用净租赁结构。该交易规模可观，但属于常规融资交易。"
           },
           "rating": {
             "parts": {
@@ -224298,19 +225555,20 @@
                 "tagValue": 1.0,
                 "strategies": [
                   "structured",
+                  "triple-net",
                   "cre",
                   "data-center"
                 ],
                 "semanticValue": 0.54
               },
               "event": {
-                "value": 0.82,
+                "value": 0.85,
                 "code": "major_signal",
                 "ruleValue": 0.95,
                 "events": [
                   "financing"
                 ],
-                "llmValue": 0.7
+                "llmValue": 0.75
               },
               "source": {
                 "value": 0.35,
@@ -224320,7 +225578,7 @@
               "freshness": {
                 "value": 1.0,
                 "code": "within_24h",
-                "days": 0.0
+                "days": 0.3
               }
             },
             "weights": {
@@ -224331,12 +225589,136 @@
               "freshness": 15
             },
             "score": 76,
-            "retrievedAt": "2026-11-19T10:57:42.099392+00:00"
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
           },
           "scoreBreakdown": {
-            "keywordScore": 20,
+            "keywordScore": 23,
             "semanticScore": 6.44,
-            "finalScore": 26.44,
+            "finalScore": 29.44,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-1d24162c98d5",
+          "title": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) - Seeking Alpha",
+          "titleZh": "Blue Owl筹备5.13亿美元CMBS发行，为Amazon租用的数据中心融资 - 报道 (OWL:NYSE) - Seeking Alpha",
+          "summary": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+          "summaryZh": "Blue Owl筹备5.13亿美元CMBS发行，为Amazon租用的数据中心融资 - 报道 (OWL:NYSE) Seeking Alpha",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUxEcGY0aG9oY0c1d1d0MThzWDIwUUZiMkhtZkZKeXkwdGNLSklQc1NfMjRCSV9ESEpqN1lTQThDVWx3SnVvNWdjRFpjcUlCM01NOXlYUTZoYWpBR3JkLURaMzdCZzZuUHg4UERsT0FlUkx1MTRzVWhMUF94WnNvajliVmY0TU1GUzJySFhKR3ByMWNoVURwT0FWZWxqWTJNTDAydlJqYnpYY1lIdGZ2cldn?oc=5",
+          "source": "Seeking Alpha",
+          "publishedAt": "2026-11-19",
+          "lede": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+          "articleExcerpt": "Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) - Seeking Alpha. Blue Owl readies $513M CMBS sale to fund Amazon-leased data center - report (OWL:NYSE) Seeking Alpha",
+          "contentFingerprint": "95bd14c6470b6093",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "structured",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "sectors": [
+            "structured",
+            "triple-net",
+            "cre",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "cre",
+              "data-center"
+            ],
+            "titleStrategies": [
+              "cre",
+              "data-center"
+            ],
+            "llmStrategies": [
+              "structured",
+              "triple-net",
+              "cre",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is preparing a $513M CMBS securitization to finance an Amazon-leased data center. This is a structured-finance debt issuance with a credit angle, not an equity or infra asset sale. Triple-net is tagged because the asset is a single-tenant leased property, consistent with Blue Owl's net-lease business. Importance is a sizable but ordinary financing.",
+            "llmReasonZh": "Blue Owl正准备进行一笔5.13亿美元的CMBS证券化交易，为Amazon租用的数据中心提供融资。这是一笔具有信用视角的结构化融资债务发行，而非股权或基础设施资产出售。标记为三净租赁（triple-net），因为该资产为单一租户租赁物业，与Blue Owl的净租赁业务一致。重要性：规模较大但属常规融资。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "structured",
+                  "triple-net",
+                  "cre",
+                  "data-center"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Seeking Alpha"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 6.17,
+            "finalScore": 23.17,
             "semanticEnabled": true
           }
         },
@@ -224751,6 +226133,198 @@
           }
         },
         {
+          "id": "2026-11-19-9e4ccbb51824",
+          "title": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team - citybiz",
+          "titleZh": "Pretium携手Hilltop团队将住宅房地产债务平台拓展至英国 - citybiz",
+          "summary": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+          "summaryZh": "Pretium携手Hilltop团队将住宅房地产债务平台拓展至英国 citybiz",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm5TSkQzQmpHdnhCMVc5TXRfTGxPWmpISXR2dENoa0NlcVV6Y1BBMW0wUElQTmRuaWVLTU1TclB0aVBHQ01TdmRERkRlRnphSmhFRnJLU1Y1WlBfTHg4VERwVHVNZldFTV9Ydk9qRWZsZ0ZON005T0k5WWRLU0dZQVptclhoLXNSOXg2Y0FxT3VnMVZJRFBENFE3S2lWdzVpaUFlQXNUaGNFVFpnVVlMVzVKbmlLVVBGX3c?oc=5",
+          "source": "citybiz",
+          "publishedAt": "2026-11-19",
+          "lede": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+          "articleExcerpt": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team - citybiz. Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+          "contentFingerprint": "17672eaf91a143e3",
+          "region": "Europe",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "resi"
+          ],
+          "sectors": [
+            "resi"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "resi"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Pretium is expanding its residential real estate debt (resi credit) platform into the UK by bringing on the Hilltop team. This is a credit-relevant platform expansion and routine manager news, with no specific financing or fundraising event.",
+            "llmReasonZh": "Pretium通过引入Hilltop团队，将其住宅房地产债务（住宅信贷）平台拓展至英国。此为与信贷相关的平台扩张及常规管理人动态，不涉及具体融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.61,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "resi"
+                ],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "citybiz"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 60,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 15,
+            "semanticScore": 6.17,
+            "finalScore": 21.17,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-df129686d525",
+          "title": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium - Osborne Clarke",
+          "titleZh": "Osborne Clarke为Hilltop Capital Partners出售予Pretium提供法律顾问服务 - Osborne Clarke",
+          "summary": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+          "summaryZh": "Osborne Clarke为Hilltop Capital Partners出售予Pretium提供法律顾问服务 Osborne Clarke",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBELUQxNEMzRTJRTEVWY2lzVWM5NW00Q29Sbk5DUG9SS3hUaXEtQUZ4aGozNWExS2ZKTTNzU2RkaWVEQXNIancwTnlROXFyUXY5aHc?oc=5",
+          "source": "Osborne Clarke",
+          "publishedAt": "2026-11-19",
+          "lede": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+          "articleExcerpt": "Osborne Clarke advises Hilltop Capital Partners on sale to Pretium - Osborne Clarke. Osborne Clarke advises Hilltop Capital Partners on sale to Pretium Osborne Clarke",
+          "contentFingerprint": "26a5ad29e03d2ad0",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.45,
+            "llmExclude": false,
+            "llmReason": "Law-firm announcement that Hilltop Capital Partners is being sold to Pretium. Pretium is a tracked manager whose business centers on residential credit, mortgage and SFR, so an acquisition by it may affect its credit platform. The article gives no detail on Hilltop's business or any financing terms, so no strategy or event type can be confirmed. Kept at moderate importance as routine manager M&A news.",
+            "llmReasonZh": "律师事务所公告称Hilltop Capital Partners将被出售予Pretium。Pretium是受跟踪的管理人，其业务以住宅信贷、抵押贷款及单户租赁住房（SFR）为核心，因此该收购可能对其信贷平台产生影响。文章未提供Hilltop业务或任何融资条款的细节，因此无法确认相关策略或事件类型。作为常规管理人并购新闻，保持中等重要性。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.21,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.33,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.45
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Osborne Clarke"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 54,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.96,
+            "finalScore": 7.96,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-19-8302ee630287",
           "title": "Guggenheim Municipal Income Fund Q3 2026 Commentary - Seeking Alpha",
           "titleZh": "Guggenheim Municipal Income Fund 2026年第三季度评述 - Seeking Alpha",
@@ -225069,6 +226643,116 @@
           }
         },
         {
+          "id": "2026-11-19-3a2a422b0049",
+          "title": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations - FF News",
+          "titleZh": "Jeeves获Neuberger Berman提供3亿美元融资，拓展全球金融科技业务 - FF News",
+          "summary": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+          "summaryZh": "Jeeves获Neuberger Berman提供3亿美元融资，拓展全球金融科技业务 FF News",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQU1ZbE5RMWhXS1Z6cVVJTFlsUFpRUGdaWkM3Ui1tYlFsVkNIWUU1UElQQy1nYXBQV25STFFPVEp3UWZFVzdWb0tTTEhWYkNaQXktNThKcWFNMmh4Tl9KZVowUndkdU5JZ0ZDMEtNcGZpWkZJWHZFSy1KVll6TGQtSFpWZDUyU3JiTTdyQ2lDamVUbEpCMnR2VEVETzJsWmFPc0g4aHE4RDNUcnBMdmZsRzhFTQ?oc=5",
+          "source": "FF News",
+          "publishedAt": "2026-11-19",
+          "lede": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+          "articleExcerpt": "Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations - FF News. Jeeves Secures $300 Million Financing from Neuberger Berman to Scale Global Fintech Operations FF News",
+          "contentFingerprint": "c5e88c33950fc1c2",
+          "region": "US",
+          "gps": [
+            "Neuberger"
+          ],
+          "strategies": [
+            "private-credit",
+            "abf"
+          ],
+          "sectors": [
+            "private-credit",
+            "abf"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Neuberger"
+            ],
+            "titleGps": [
+              "Neuberger"
+            ],
+            "llmGps": [
+              "Neuberger"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit",
+              "abf"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Neuberger Berman is providing $300M of financing to the fintech Jeeves. This is a credit and lending transaction, likely private credit or an asset-based facility backing card or receivables lending. It counts as an ordinary financing event.",
+            "llmReasonZh": "Neuberger Berman向金融科技公司Jeeves提供3亿美元融资。这是一笔信贷与贷款交易，可能是私募信贷或资产支持融资安排，用于支持其信用卡或应收账款贷款业务。属于常规融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Neuberger"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit",
+                  "abf"
+                ],
+                "semanticValue": 0.49
+              },
+              "event": {
+                "value": 0.7,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "FF News"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 5.82,
+            "finalScore": 24.82,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-19-17331a2a7b8c",
           "title": "Blackstone Mortgage Trust (BXMT) Cuts Dividend As Investors Reassess Whether The Stock Is A Bargain - Yahoo Finance Singapore",
           "titleZh": "Blackstone Mortgage Trust (BXMT) 削减股息，投资者重新评估该股是否被低估 - Yahoo Finance Singapore",
@@ -225277,6 +226961,104 @@
           }
         },
         {
+          "id": "2026-11-19-05f41051cf03",
+          "title": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal - ad-hoc-news.de",
+          "titleZh": "Blackstone股票：Fitch认为拟议的IIFL交易将提振资本 - ad-hoc-news.de",
+          "summary": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+          "summaryZh": "Blackstone股票：Fitch认为拟议的IIFL交易将提振资本 ad-hoc-news.de",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTJlclIzWk1YUUlFZ25ObFNFcUJ6TEI2NjM3emxZYTlDN244SEtIQlQxaTBuZHJMVm1SNkNHb1VVTmlQWm0tN2xSQ0Y1SmhNSWpaNWVITmtNTWl6eTlhay02aXhVM0E1cFliWW5laWZOY3Z1aGd6dTJvQ3l5aHpya3hNb0xvLURmUnRFLWFvcm4yc1VSNGZqVFRIWWFJNGlrZ2toVFNEUVdCUjRZYmdZNEhlanNoRktibmpxWW9EeHVhcFRJeFE?oc=5",
+          "source": "ad-hoc-news.de",
+          "publishedAt": "2026-11-19",
+          "lede": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+          "articleExcerpt": "Blackstone stock: Fitch sees capital lift from proposed IIFL deal - ad-hoc-news.de. Blackstone stock: Fitch sees capital lift from proposed IIFL deal ad-hoc-news.de",
+          "contentFingerprint": "9a7639faa298145c",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.4,
+            "llmExclude": false,
+            "llmReason": "Fitch says Blackstone's proposed capital injection into IIFL, an Indian lender, would strengthen IIFL's capital. A capital deal into a lending business with a rating-agency credit view is borderline relevant. The thin text and stock-news framing limit importance. It is likely an equity stake rather than a credit strategy, so no strategy is tagged.",
+            "llmReasonZh": "Fitch表示，Blackstone拟向印度贷款机构IIFL注资，此举将增强IIFL的资本实力。一笔涉及贷款业务、并附有评级机构信用观点的资本交易，相关性处于边缘。文本内容单薄且以股票新闻为框架，限制了其重要性。该交易可能属于股权投资而非信用策略，因此未标注任何策略。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.22,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.44
+              },
+              "event": {
+                "value": 0.55,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.4
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "ad-hoc-news.de"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 61,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 5.33,
+            "finalScore": 8.33,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-19-19627b752ae3",
           "title": "Apollo scraps $2 billion loan to Manchester City owner, FT says - Reuters",
           "titleZh": "英国《金融时报》称Apollo取消向曼城所有者提供的20亿美元贷款 - 路透社",
@@ -225379,6 +227161,119 @@
             "keywordScore": 17,
             "semanticScore": 5.26,
             "finalScore": 22.259999999999998,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-784ee81092ad",
+          "title": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports - MLQ.ai",
+          "titleZh": "据FT报道，Apollo取消向曼城母公司City Football Group提供的$2 billion贷款 - MLQ.ai",
+          "summary": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+          "summaryZh": "据FT报道，Apollo取消向曼城母公司City Football Group提供的$2 billion贷款 MLQ.ai",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWhzQ0xndWNEM3V4NjUzejBpNWlpVDVSNkVVcVFwOERwVGhMZ3BNSHQwNEt3elBlbjJleUQ2WExhYzRnT1VIVXl1eVRxcHA0dXViX3NnNENwWloxenY4ZnhITXVDNW5JRVZYV3VWcWRrNTVEaVpPQ1JUa2VYbnhZRUFITjB0S3ZKeVY4Y3AwWExwVWRUNV90T1Jmelo5ek1tQkxjSDJMQTRfZjRtc3paQw?oc=5",
+          "source": "MLQ.ai",
+          "publishedAt": "2026-11-19",
+          "lede": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+          "articleExcerpt": "Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports - MLQ.ai. Apollo scraps a $2 billion loan to Manchester City owner City Football Group, the FT reports MLQ.ai",
+          "contentFingerprint": "b2f97097f7af95e3",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit",
+            "ai"
+          ],
+          "sectors": [
+            "private-credit",
+            "ai"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [
+              "ai"
+            ],
+            "titleStrategies": [
+              "ai"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Apollo's credit business scrapped a planned $2B private loan to City Football Group. This is a credit/financing event, not a sports-equity investment, so it is relevant and not excluded.",
+            "llmReasonZh": "Apollo旗下信贷业务取消了一笔原计划向City Football Group提供的$2B私募贷款。该事件属于信贷/融资事件，而非体育类股权投资，因此具有相关性，未被排除。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.73,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "ai"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.85,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "MLQ.ai"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.3
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-19T19:19:22.429122+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 17,
+            "semanticScore": 5.63,
+            "finalScore": 22.63,
             "semanticEnabled": true
           }
         },
@@ -225492,7 +227387,7 @@
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 33,
+      "count": 31,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -225500,7 +227395,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
@@ -225513,12 +227408,12 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
-      "count": 5,
+      "count": 4,
       "selected": 1,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
@@ -225526,7 +227421,7 @@
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
@@ -225539,25 +227434,25 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 7,
-      "selected": 3,
+      "count": 4,
+      "selected": 4,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Guggenheim",
-      "count": 8,
+      "count": 11,
       "selected": 2,
       "status": "ok",
       "query": "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
@@ -225565,20 +227460,20 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 9,
-      "selected": 5,
+      "count": 10,
+      "selected": 6,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
       "queries": [
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
@@ -225591,12 +227486,12 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
-      "count": 24,
+      "count": 23,
       "selected": 1,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
@@ -225604,12 +227499,12 @@
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 100,
+      "count": 65,
       "selected": 6,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
@@ -225617,12 +227512,12 @@
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 31,
+      "count": 29,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -225630,25 +227525,25 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 11,
-      "selected": 0,
+      "count": 10,
+      "selected": 1,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
-      "count": 12,
+      "count": 11,
       "selected": 6,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
@@ -225656,12 +227551,12 @@
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 25,
+      "count": 22,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -225669,12 +227564,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 1,
+      "count": 21,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -225682,12 +227577,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 642,
+      "count": 634,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -225704,9 +227599,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-19T10:57:42.099392+00:00",
+      "asOf": "2026-11-19T19:19:22.429122+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-19T10:57:42.099392+00:00"
+  "checkedAt": "2026-11-19T19:19:22.429122+00:00"
 }
