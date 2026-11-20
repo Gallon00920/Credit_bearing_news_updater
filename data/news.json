@@ -1,7 +1,7 @@
 {
   "startDate": "2026-09-11",
   "retentionDays": 90,
-  "updatedAt": "2026-11-19T20:31:33.156228+00:00",
+  "updatedAt": "2026-11-20T02:43:57.654567+00:00",
   "scope": {
     "regions": [
       "US",
@@ -7146,7 +7146,7 @@
             ],
             "llmExclude": false,
             "llmReason": "HSBC AM's Medium Term Fund is a debt mutual fund investing in high-quality corporate bonds and money market instruments — falls under its credit/asset management business, consistent with tracked credit exposure.",
-            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所追踪的信贷敞口相符。"
+            "llmReasonZh": "HSBC AM旗下的Medium Term Fund是一只投资于高质量公司债券及货币市场工具的债券型共同基金，属于其信贷/资产管理业务，与所跟踪的信用敞口相符。"
           },
           "scoreBreakdown": {
             "keywordScore": 6,
@@ -217232,6 +217232,118 @@
               "finalScore": 21.25,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-668777ffb79e",
+            "title": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal",
+            "titleZh": "直接贷款机构为L Catterton收购Fullscript交易提供13亿美元融资",
+            "summary": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar.",
+            "summaryZh": "据Bloomberg报道，一批私募信贷管理人提供了一笔13亿美元贷款，为L Catterton和Altas Partners收购医疗健康平台Fullscript多数股权提供融资，取代此前由Morgan Stanley牵头的银行团承销的债务承诺。据报道，Morgan Stanley将该笔贷款配售给多家直接贷款机构，包括Antares Capital、Blue Owl Capital、Carlyle和Golub Capital。该贷款定价为有担保隔夜融资利率（SOFR）加400个基点，发行价为面值的96%。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/direct-lenders-provide-1-3bn-for-l-cattertons-fullscript-deal",
+            "source": "Google News",
+            "publishedAt": "2026-11-18",
+            "lede": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum spread of 400 basis points and would otherwise have had to fund the acquisition under their underwriting commitments. Fullscript announced in September that L Catterton and Altas Partners would acquire a majority stake from HGGC and Snapdragon Capital Partners.",
+            "articleExcerpt": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal. Private Equity Wire | Direct lenders provide $1.3bn for L Catterton’s… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Direct lenders provide $1.3bn for L Catterton’s Fullscript deal November 18, 2026 at 10:09 am Share this article A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum",
+            "contentFingerprint": "57758a45ef083402",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "Golub"
+              ],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl and Golub are among the direct lenders providing a $1.3bn private credit loan for L Catterton/Altas Partners' acquisition of Fullscript. The loan replaces bank-underwritten debt after leveraged loan syndication demand fell short. This is credit/lending activity, so the article is a financing event. It rates slightly above ordinary financing because the deal is sizable and shows private credit taking over from a struggling syndicated market (issued at 96 OID).",
+              "llmReasonZh": "Blue Owl和Golub位列为L Catterton/Altas Partners收购Fullscript提供13亿美元私募信贷贷款的直接贷款机构之中。在杠杆贷款银团需求不足后，该贷款取代了银行承销的债务。此为信贷/放贷活动，因此本文属于融资事件。由于交易规模较大，且显示私募信贷正在接替表现疲弱的银团市场（以96的原始发行折价发行），其评级略高于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.69,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.62,
+              "finalScore": 20.62,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -219466,6 +219578,196 @@
               "finalScore": 18.69,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-a354af5848dc",
+            "title": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters - The United Indian",
+            "titleZh": "IIFL Finance股价在Fairfax以₹3,454 crore退出后大涨7%：Blackstone ₹5,000 crore投资为何重要 - The United Indian",
+            "summary": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+            "summaryZh": "IIFL Finance股价在Fairfax以₹3,454 crore退出后大涨7%：Blackstone ₹5,000 crore投资为何重要 The United Indian",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcF9CVkxCSTltS3JsMXpVYndsNDRGdFV4UWpqekdOZWxsc3otS0IzR0M4MVlHS1hqdm54WnJzLXVYb2M1cDY4V3pyUTB5X0RyMHp4ZzFaYmdPc2ZGNHhEWVB0UE1OU2VFUFJvRHpKSzJzdGNVX253MER6TEppQ29hd3YtbjZIeGRJTGZQcUdRWURhM3QyRmU2cW1R?oc=5",
+            "source": "The United Indian",
+            "publishedAt": "2026-11-18",
+            "lede": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+            "articleExcerpt": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters - The United Indian. IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+            "contentFingerprint": "afe38296ba903e54",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone is investing ₹5,000 crore in IIFL Finance, an Indian lender (NBFC), after Fairfax's exit. That gives the story a lending and financing angle, so it is not excluded. The snippet does not say whether this is Blackstone's credit arm or a private-equity stake, and no tracked strategy clearly applies. Importance is kept low because the piece is framed around the share-price move.",
+              "llmReasonZh": "在Fairfax退出后，Blackstone将向印度贷款机构（NBFC）IIFL Finance投资₹5,000 crore。该事件涉及贷款与融资层面，因此未被排除。摘要未说明此次投资是由Blackstone旗下信贷部门进行还是属于私募股权入股，且没有明确适用的跟踪策略。由于报道以股价变动为主线，重要性评级保持较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.4
+                },
+                "event": {
+                  "value": 0.5,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "The United Indian"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 4.74,
+              "finalScore": 15.74,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-ce671f78eaf7",
+            "title": "Blackstone’s Gray says market shakeout could benefit firm - Investing.com",
+            "titleZh": "黑石集团Gray称市场洗牌或令公司受益 - Investing.com",
+            "summary": "Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+            "summaryZh": "黑石集团Gray称市场洗牌或令公司受益 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWtzdDBBYlV3OGdoMjhQWGdfNy0wNXZFWEJ1VWtCeU96dFdmYXBDd21ZUUdta3VoaERnVEx5eVJwMDlTTWJFUnVfdXp6eEI0RU9xLVRMZXdFOFllYWN5ZzluQjRGT3d6N3R5cWY4c1dqY2lkRHhnQjh6ZzJ6OFQ1eWZBNFM4TmIzS1Vxa1BzQ011YjUyaE5zMTRJSzBkdDlabTY4anVqNWprZmdpb1JjZVZfdw?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-18",
+            "lede": "Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+            "articleExcerpt": "Blackstone’s Gray says market shakeout could benefit firm - Investing.com. Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+            "contentFingerprint": "445f5de7ecd0914d",
+            "region": "Global",
+            "gps": [
+              "Blackstone"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blackstone"
+              ],
+              "titleGps": [
+                "Blackstone"
+              ],
+              "llmGps": [
+                "Blackstone"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "Blackstone president Jon Gray comments on a market shakeout benefiting the firm. This is general firm-wide manager commentary. Not tied to a specific non-credit equity deal, so not excluded, but there is no specific credit transaction, strategy, or event. Low-moderate relevance.",
+              "llmReasonZh": "黑石集团总裁Jon Gray评论称市场洗牌将令公司受益。此为公司层面的一般性管理人评论。由于未涉及特定的非信贷类股权交易，故未予排除，但亦不涉及具体的信贷交易、策略或事件。相关性为低至中等。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blackstone"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.2,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.41
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 46,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 3,
+              "semanticScore": 4.9,
+              "finalScore": 7.9,
+              "semanticEnabled": true
+            }
           }
         ],
         "Apollo": [
@@ -219807,6 +220109,102 @@
               "finalScore": 19.6,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-18-d22ebaad4790",
+            "title": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership - Yahoo Finance",
+            "titleZh": "Apollo Global Management (APO) 与 Victory Capital 合作后，其看涨逻辑或将生变 - Yahoo Finance",
+            "summary": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+            "summaryZh": "Apollo Global Management (APO) 与 Victory Capital 合作后，其看涨逻辑或将生变 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWtaTVBqSjNYSElFSVJrRG9rYVkyTF9OWW9rWkNjTGhPWFI5amJTTzZ3NXltN1I1Z3E4blVPR2NYdTU1RDlBMm9mc2p2V3A1U0I5RV9XY3cyWDFBTk9TMUdPS1pFZng1cUFnOG4yazZVcUxReHBQWHZNcDU0ZlM3SzR5LTNsN1FxMlowVEc1TzJ5dkhySWc?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-18",
+            "lede": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+            "articleExcerpt": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership - Yahoo Finance. Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+            "contentFingerprint": "246af3e454b0714b",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [],
+            "sectors": [],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [],
+              "llmEvents": [],
+              "llmImportance": 0.15,
+              "llmExclude": false,
+              "llmReason": "Yahoo Finance stock/analyst commentary on Apollo's investment thesis after its Victory Capital partnership. The partnership involves distribution of Apollo's private markets/credit products, so it is credit-adjacent manager news. The piece itself is stock commentary with no specific financing, fundraising, or lawsuit event, so importance is low.",
+              "llmReasonZh": "Yahoo Finance 发布的股票/分析师评论，探讨 Apollo 与 Victory Capital 合作后的投资逻辑。该合作涉及 Apollo 私募市场/信贷产品的分销，因此属于与信贷相关的资产管理机构新闻。该文本身为股票评论，未涉及具体的融资、募资或诉讼事件，因此重要性较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.26,
+                  "code": "no_strategy",
+                  "tagValue": 0.0,
+                  "strategies": [],
+                  "semanticValue": 0.51
+                },
+                "event": {
+                  "value": 0.42,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.15
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 52,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 11,
+              "semanticScore": 6.14,
+              "finalScore": 17.14,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -219911,6 +220309,326 @@
               "keywordScore": 14,
               "semanticScore": 6.69,
               "finalScore": 20.69,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-01a45e23a69c",
+            "title": "Golub Capital BDC Q4 Earnings Call Highlights - TradingView",
+            "titleZh": "Golub Capital BDC第四季度财报电话会议要点 - TradingView",
+            "summary": "Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+            "summaryZh": "Golub Capital BDC第四季度财报电话会议要点 TradingView",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnFZRFRfdkNFQUhzTGY4Z1QySGlMRG5oMHg5RVM3V2N6LWtTdWxXaW5fWHZDcW9GQUl5dzJ5MTFJNjBDZ18xTmJtTTBGTWpOcnR2SHNXNktYTVVNandxSkc2aW9LcHlPX2NnYUY3QTRmUE0yaVZsT0g3UXppQXB6aXBDZEhTSlB3bVZya2R0bnVVUVV6d043R1RpMEIySG4tRkFUckFZaXJOdw?oc=5",
+            "source": "TradingView",
+            "publishedAt": "2026-11-18",
+            "lede": "Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+            "articleExcerpt": "Golub Capital BDC Q4 Earnings Call Highlights - TradingView. Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+            "contentFingerprint": "818f7923d126e4f5",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Golub Capital BDC is Golub's direct-lending BDC vehicle. A quarterly earnings call recap is routine manager news about its private credit business. No lawsuit, financing, or fundraising event is indicated.",
+              "llmReasonZh": "Golub Capital BDC是Golub旗下的直接贷款BDC工具。季度财报电话会议回顾属于有关其私募信贷业务的常规管理人新闻。未显示涉及诉讼、融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.75,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.5
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "TradingView"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.02,
+              "finalScore": 20.02,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-3cf10321a5e5",
+            "title": "Golub Capital BDC Q4 Earnings Call Highlights - NewsBreak: Local News & Alerts",
+            "titleZh": "Golub Capital BDC第四季度财报电话会议要点 - NewsBreak: Local News & Alerts",
+            "summary": "Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+            "summaryZh": "Golub Capital BDC第四季度财报电话会议要点 NewsBreak: Local News & Alerts",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdyR0xQYTgtZ21oTGl2dHRhcVFDbnVDUk9JWE42WUhfVUt2Nm13LW5GaVo0TW5oVmxhc2hCRzJlaG9lNzNHYTZRY3NmLTU5R2lfU2ZtMUQ4Y1ZFU3BZU1U1Vml6aGFMYW16MkdOdUtLNVRmb3NwZzB3b2NVYldsWGY2Y3hjZDludHZhNm9ucjFHNXRxUlRaWFFLNTJHTWV3Rm1FQUEzYTI3QQ?oc=5",
+            "source": "NewsBreak: Local News & Alerts",
+            "publishedAt": "2026-11-18",
+            "lede": "Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+            "articleExcerpt": "Golub Capital BDC Q4 Earnings Call Highlights - NewsBreak: Local News & Alerts. Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+            "contentFingerprint": "90c76d4c7769bc1c",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "This is Golub Capital BDC's Q4 earnings call highlights, which is routine reporting from Golub's direct-lending BDC and so credit-relevant. No financing, fundraising or litigation event is described.",
+              "llmReasonZh": "本文为Golub Capital BDC第四季度财报电话会议要点，属于Golub旗下直接贷款BDC的常规披露，因此与信用相关。文中未提及融资、募资或诉讼事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.74,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.35,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "NewsBreak: Local News & Alerts"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 58,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.68,
+              "finalScore": 19.68,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-18-668777ffb79e",
+            "title": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal",
+            "titleZh": "直接贷款机构为L Catterton收购Fullscript交易提供13亿美元融资",
+            "summary": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar.",
+            "summaryZh": "据Bloomberg报道，一批私募信贷管理人提供了一笔13亿美元贷款，为L Catterton和Altas Partners收购医疗健康平台Fullscript多数股权提供融资，取代此前由Morgan Stanley牵头的银行团承销的债务承诺。据报道，Morgan Stanley将该笔贷款配售给多家直接贷款机构，包括Antares Capital、Blue Owl Capital、Carlyle和Golub Capital。该贷款定价为有担保隔夜融资利率（SOFR）加400个基点，发行价为面值的96%。",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://privateequitywire.com/news/direct-lenders-provide-1-3bn-for-l-cattertons-fullscript-deal",
+            "source": "Google News",
+            "publishedAt": "2026-11-18",
+            "lede": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum spread of 400 basis points and would otherwise have had to fund the acquisition under their underwriting commitments. Fullscript announced in September that L Catterton and Altas Partners would acquire a majority stake from HGGC and Snapdragon Capital Partners.",
+            "articleExcerpt": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal. Private Equity Wire | Direct lenders provide $1.3bn for L Catterton’s… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Direct lenders provide $1.3bn for L Catterton’s Fullscript deal November 18, 2026 at 10:09 am Share this article A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum",
+            "contentFingerprint": "57758a45ef083402",
+            "region": "US",
+            "gps": [
+              "Blue Owl",
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl",
+                "Golub"
+              ],
+              "titleGps": [],
+              "llmGps": [
+                "Blue Owl",
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl and Golub are among the direct lenders providing a $1.3bn private credit loan for L Catterton/Altas Partners' acquisition of Fullscript. The loan replaces bank-underwritten debt after leveraged loan syndication demand fell short. This is credit/lending activity, so the article is a financing event. It rates slightly above ordinary financing because the deal is sizable and shows private credit taking over from a struggling syndicated market (issued at 96 OID).",
+              "llmReasonZh": "Blue Owl和Golub位列为L Catterton/Altas Partners收购Fullscript提供13亿美元私募信贷贷款的直接贷款机构之中。在杠杆贷款银团需求不足后，该贷款取代了银行承销的债务。此为信贷/放贷活动，因此本文属于融资事件。由于交易规模较大，且显示私募信贷正在接替表现疲弱的银团市场（以96的原始发行折价发行），其评级略高于一般融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 0.7,
+                  "code": "llm_tagged_gp",
+                  "gps": [
+                    "Blue Owl",
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.69,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.39
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Google News"
+                },
+                "freshness": {
+                  "value": 0.8,
+                  "code": "within_7d",
+                  "days": 1.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 63,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 16,
+              "semanticScore": 4.62,
+              "finalScore": 20.62,
               "semanticEnabled": true
             }
           }
@@ -222478,6 +223196,196 @@
           }
         },
         {
+          "id": "2026-11-18-a354af5848dc",
+          "title": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters - The United Indian",
+          "titleZh": "IIFL Finance股价在Fairfax以₹3,454 crore退出后大涨7%：Blackstone ₹5,000 crore投资为何重要 - The United Indian",
+          "summary": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+          "summaryZh": "IIFL Finance股价在Fairfax以₹3,454 crore退出后大涨7%：Blackstone ₹5,000 crore投资为何重要 The United Indian",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcF9CVkxCSTltS3JsMXpVYndsNDRGdFV4UWpqekdOZWxsc3otS0IzR0M4MVlHS1hqdm54WnJzLXVYb2M1cDY4V3pyUTB5X0RyMHp4ZzFaYmdPc2ZGNHhEWVB0UE1OU2VFUFJvRHpKSzJzdGNVX253MER6TEppQ29hd3YtbjZIeGRJTGZQcUdRWURhM3QyRmU2cW1R?oc=5",
+          "source": "The United Indian",
+          "publishedAt": "2026-11-18",
+          "lede": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+          "articleExcerpt": "IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters - The United Indian. IIFL Finance Share Price Surges 7% After ₹3,454 Crore Fairfax Exit: Why Blackstone's ₹5,000 Crore Investment Matters The United Indian",
+          "contentFingerprint": "afe38296ba903e54",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone is investing ₹5,000 crore in IIFL Finance, an Indian lender (NBFC), after Fairfax's exit. That gives the story a lending and financing angle, so it is not excluded. The snippet does not say whether this is Blackstone's credit arm or a private-equity stake, and no tracked strategy clearly applies. Importance is kept low because the piece is framed around the share-price move.",
+            "llmReasonZh": "在Fairfax退出后，Blackstone将向印度贷款机构（NBFC）IIFL Finance投资₹5,000 crore。该事件涉及贷款与融资层面，因此未被排除。摘要未说明此次投资是由Blackstone旗下信贷部门进行还是属于私募股权入股，且没有明确适用的跟踪策略。由于报道以股价变动为主线，重要性评级保持较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.4
+              },
+              "event": {
+                "value": 0.5,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "The United Indian"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 4.74,
+            "finalScore": 15.74,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-ce671f78eaf7",
+          "title": "Blackstone’s Gray says market shakeout could benefit firm - Investing.com",
+          "titleZh": "黑石集团Gray称市场洗牌或令公司受益 - Investing.com",
+          "summary": "Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+          "summaryZh": "黑石集团Gray称市场洗牌或令公司受益 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWtzdDBBYlV3OGdoMjhQWGdfNy0wNXZFWEJ1VWtCeU96dFdmYXBDd21ZUUdta3VoaERnVEx5eVJwMDlTTWJFUnVfdXp6eEI0RU9xLVRMZXdFOFllYWN5ZzluQjRGT3d6N3R5cWY4c1dqY2lkRHhnQjh6ZzJ6OFQ1eWZBNFM4TmIzS1Vxa1BzQ011YjUyaE5zMTRJSzBkdDlabTY4anVqNWprZmdpb1JjZVZfdw?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-18",
+          "lede": "Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+          "articleExcerpt": "Blackstone’s Gray says market shakeout could benefit firm - Investing.com. Blackstone’s Gray says market shakeout could benefit firm Investing.com",
+          "contentFingerprint": "445f5de7ecd0914d",
+          "region": "Global",
+          "gps": [
+            "Blackstone"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blackstone"
+            ],
+            "titleGps": [
+              "Blackstone"
+            ],
+            "llmGps": [
+              "Blackstone"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "Blackstone president Jon Gray comments on a market shakeout benefiting the firm. This is general firm-wide manager commentary. Not tied to a specific non-credit equity deal, so not excluded, but there is no specific credit transaction, strategy, or event. Low-moderate relevance.",
+            "llmReasonZh": "黑石集团总裁Jon Gray评论称市场洗牌将令公司受益。此为公司层面的一般性管理人评论。由于未涉及特定的非信贷类股权交易，故未予排除，但亦不涉及具体的信贷交易、策略或事件。相关性为低至中等。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blackstone"
+                ]
+              },
+              "strategy": {
+                "value": 0.2,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.41
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 46,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 3,
+            "semanticScore": 4.9,
+            "finalScore": 7.9,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-f75b62703cde",
           "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense - Bloomberg.com",
           "titleZh": "Apollo欧洲负责人：人工智能与国防领域融资需求巨大 - Bloomberg.com",
@@ -222694,6 +223602,102 @@
           }
         },
         {
+          "id": "2026-11-18-d22ebaad4790",
+          "title": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership - Yahoo Finance",
+          "titleZh": "Apollo Global Management (APO) 与 Victory Capital 合作后，其看涨逻辑或将生变 - Yahoo Finance",
+          "summary": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+          "summaryZh": "Apollo Global Management (APO) 与 Victory Capital 合作后，其看涨逻辑或将生变 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWtaTVBqSjNYSElFSVJrRG9rYVkyTF9OWW9rWkNjTGhPWFI5amJTTzZ3NXltN1I1Z3E4blVPR2NYdTU1RDlBMm9mc2p2V3A1U0I5RV9XY3cyWDFBTk9TMUdPS1pFZng1cUFnOG4yazZVcUxReHBQWHZNcDU0ZlM3SzR5LTNsN1FxMlowVEc1TzJ5dkhySWc?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-18",
+          "lede": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+          "articleExcerpt": "Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership - Yahoo Finance. Learn Why The Bull Case For Apollo Global Management (APO) Could Change Following Victory Capital Partnership Yahoo Finance",
+          "contentFingerprint": "246af3e454b0714b",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [],
+          "sectors": [],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [],
+            "llmEvents": [],
+            "llmImportance": 0.15,
+            "llmExclude": false,
+            "llmReason": "Yahoo Finance stock/analyst commentary on Apollo's investment thesis after its Victory Capital partnership. The partnership involves distribution of Apollo's private markets/credit products, so it is credit-adjacent manager news. The piece itself is stock commentary with no specific financing, fundraising, or lawsuit event, so importance is low.",
+            "llmReasonZh": "Yahoo Finance 发布的股票/分析师评论，探讨 Apollo 与 Victory Capital 合作后的投资逻辑。该合作涉及 Apollo 私募市场/信贷产品的分销，因此属于与信贷相关的资产管理机构新闻。该文本身为股票评论，未涉及具体的融资、募资或诉讼事件，因此重要性较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.26,
+                "code": "no_strategy",
+                "tagValue": 0.0,
+                "strategies": [],
+                "semanticValue": 0.51
+              },
+              "event": {
+                "value": 0.42,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.15
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 52,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 11,
+            "semanticScore": 6.14,
+            "finalScore": 17.14,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-18-0c9491ea1371",
           "title": "Golub Capital BDC (GBDC) Reports Challenging Q4 with Dividend Su - GuruFocus",
           "titleZh": "Golub Capital BDC (GBDC) 公布第四季度业绩承压，股息…… - GuruFocus",
@@ -222793,6 +223797,326 @@
             "keywordScore": 14,
             "semanticScore": 6.69,
             "finalScore": 20.69,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-01a45e23a69c",
+          "title": "Golub Capital BDC Q4 Earnings Call Highlights - TradingView",
+          "titleZh": "Golub Capital BDC第四季度财报电话会议要点 - TradingView",
+          "summary": "Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+          "summaryZh": "Golub Capital BDC第四季度财报电话会议要点 TradingView",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnFZRFRfdkNFQUhzTGY4Z1QySGlMRG5oMHg5RVM3V2N6LWtTdWxXaW5fWHZDcW9GQUl5dzJ5MTFJNjBDZ18xTmJtTTBGTWpOcnR2SHNXNktYTVVNandxSkc2aW9LcHlPX2NnYUY3QTRmUE0yaVZsT0g3UXppQXB6aXBDZEhTSlB3bVZya2R0bnVVUVV6d043R1RpMEIySG4tRkFUckFZaXJOdw?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-11-18",
+          "lede": "Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+          "articleExcerpt": "Golub Capital BDC Q4 Earnings Call Highlights - TradingView. Golub Capital BDC Q4 Earnings Call Highlights TradingView",
+          "contentFingerprint": "818f7923d126e4f5",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Golub Capital BDC is Golub's direct-lending BDC vehicle. A quarterly earnings call recap is routine manager news about its private credit business. No lawsuit, financing, or fundraising event is indicated.",
+            "llmReasonZh": "Golub Capital BDC是Golub旗下的直接贷款BDC工具。季度财报电话会议回顾属于有关其私募信贷业务的常规管理人新闻。未显示涉及诉讼、融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.75,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.5
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "TradingView"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.02,
+            "finalScore": 20.02,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-3cf10321a5e5",
+          "title": "Golub Capital BDC Q4 Earnings Call Highlights - NewsBreak: Local News & Alerts",
+          "titleZh": "Golub Capital BDC第四季度财报电话会议要点 - NewsBreak: Local News & Alerts",
+          "summary": "Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+          "summaryZh": "Golub Capital BDC第四季度财报电话会议要点 NewsBreak: Local News & Alerts",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdyR0xQYTgtZ21oTGl2dHRhcVFDbnVDUk9JWE42WUhfVUt2Nm13LW5GaVo0TW5oVmxhc2hCRzJlaG9lNzNHYTZRY3NmLTU5R2lfU2ZtMUQ4Y1ZFU3BZU1U1Vml6aGFMYW16MkdOdUtLNVRmb3NwZzB3b2NVYldsWGY2Y3hjZDludHZhNm9ucjFHNXRxUlRaWFFLNTJHTWV3Rm1FQUEzYTI3QQ?oc=5",
+          "source": "NewsBreak: Local News & Alerts",
+          "publishedAt": "2026-11-18",
+          "lede": "Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+          "articleExcerpt": "Golub Capital BDC Q4 Earnings Call Highlights - NewsBreak: Local News & Alerts. Golub Capital BDC Q4 Earnings Call Highlights NewsBreak: Local News & Alerts",
+          "contentFingerprint": "90c76d4c7769bc1c",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "This is Golub Capital BDC's Q4 earnings call highlights, which is routine reporting from Golub's direct-lending BDC and so credit-relevant. No financing, fundraising or litigation event is described.",
+            "llmReasonZh": "本文为Golub Capital BDC第四季度财报电话会议要点，属于Golub旗下直接贷款BDC的常规披露，因此与信用相关。文中未提及融资、募资或诉讼事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.74,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.35,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "NewsBreak: Local News & Alerts"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 58,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.68,
+            "finalScore": 19.68,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-18-668777ffb79e",
+          "title": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal",
+          "titleZh": "直接贷款机构为L Catterton收购Fullscript交易提供13亿美元融资",
+          "summary": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar.",
+          "summaryZh": "据Bloomberg报道，一批私募信贷管理人提供了一笔13亿美元贷款，为L Catterton和Altas Partners收购医疗健康平台Fullscript多数股权提供融资，取代此前由Morgan Stanley牵头的银行团承销的债务承诺。据报道，Morgan Stanley将该笔贷款配售给多家直接贷款机构，包括Antares Capital、Blue Owl Capital、Carlyle和Golub Capital。该贷款定价为有担保隔夜融资利率（SOFR）加400个基点，发行价为面值的96%。",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://privateequitywire.com/news/direct-lenders-provide-1-3bn-for-l-cattertons-fullscript-deal",
+          "source": "Google News",
+          "publishedAt": "2026-11-18",
+          "lede": "A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum spread of 400 basis points and would otherwise have had to fund the acquisition under their underwriting commitments. Fullscript announced in September that L Catterton and Altas Partners would acquire a majority stake from HGGC and Snapdragon Capital Partners.",
+          "articleExcerpt": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal. Private Equity Wire | Direct lenders provide $1.3bn for L Catterton’s… News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Contact About Privacy Policy Trademark Policy Terms & Conditions News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory Search Private Equity Wire Search News Reports What's On Awards Summits Webinars Analysis Interviews Features Directory News Reports What's On Analysis News Direct lenders provide $1.3bn for L Catterton’s Fullscript deal November 18, 2026 at 10:09 am Share this article A group of private credit managers has provided a $1.3bn loan to finance L Catterton and Altas Partners’ acquisition of a majority stake in healthcare platform Fullscript, replacing debt commitments underwritten by a Morgan Stanley-led bank group, according to a report by Bloomberg. Morgan Stanley reportedly placed the loan with direct lenders including Antares Capital, Blue Owl Capital, Carlyle and Golub Capital. It priced at 400 basis points above the Secured Overnight Financing Rate and was issued at 96 cents on the dollar. Morgan Stanley also provided a $230m revolving credit facility. The placement followed early talks with leveraged loan investors that generated insufficient demand for a syndication in that market. The banks had committed to a maximum",
+          "contentFingerprint": "57758a45ef083402",
+          "region": "US",
+          "gps": [
+            "Blue Owl",
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl",
+              "Golub"
+            ],
+            "titleGps": [],
+            "llmGps": [
+              "Blue Owl",
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Blue Owl and Golub are among the direct lenders providing a $1.3bn private credit loan for L Catterton/Altas Partners' acquisition of Fullscript. The loan replaces bank-underwritten debt after leveraged loan syndication demand fell short. This is credit/lending activity, so the article is a financing event. It rates slightly above ordinary financing because the deal is sizable and shows private credit taking over from a struggling syndicated market (issued at 96 OID).",
+            "llmReasonZh": "Blue Owl和Golub位列为L Catterton/Altas Partners收购Fullscript提供13亿美元私募信贷贷款的直接贷款机构之中。在杠杆贷款银团需求不足后，该贷款取代了银行承销的债务。此为信贷/放贷活动，因此本文属于融资事件。由于交易规模较大，且显示私募信贷正在接替表现疲弱的银团市场（以96的原始发行折价发行），其评级略高于一般融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 0.7,
+                "code": "llm_tagged_gp",
+                "gps": [
+                  "Blue Owl",
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.69,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.39
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Google News"
+              },
+              "freshness": {
+                "value": 0.8,
+                "code": "within_7d",
+                "days": 1.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 63,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 16,
+            "semanticScore": 4.62,
+            "finalScore": 20.62,
             "semanticEnabled": true
           }
         }
@@ -223419,6 +224743,120 @@
               "finalScore": 23.17,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-19-3560d50a93cb",
+            "title": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center - Yahoo Finance",
+            "titleZh": "Blue Owl向华尔街融资5.13亿美元，为Amazon数据中心提供资金 - Yahoo Finance",
+            "summary": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+            "summaryZh": "Blue Owl向华尔街融资5.13亿美元，为Amazon数据中心提供资金 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3R0OEMtRXkzTnNZLW5nUEdwY1daN0draVFLeHlHNXNBRzVGc0Z0ZHlWYVVrZHc3N0IxdFRnTThmb2hZRlBjWUVWZm5Lb29hZUdMaHo5WEFIOVNZeG5tWkhMOU9XNnVmM2IwVm5Mb3NwbFVTbEhZYl9hQUNic19TZ1g0NXZYaHF1WF9FUEhKUGI?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-19",
+            "lede": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+            "articleExcerpt": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center - Yahoo Finance. Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+            "contentFingerprint": "7a4336129d50988e",
+            "region": "US",
+            "gps": [
+              "Blue Owl"
+            ],
+            "strategies": [
+              "private-credit",
+              "data-center"
+            ],
+            "sectors": [
+              "private-credit",
+              "data-center"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Blue Owl"
+              ],
+              "titleGps": [
+                "Blue Owl"
+              ],
+              "llmGps": [
+                "Blue Owl"
+              ],
+              "keywordStrategies": [
+                "data-center"
+              ],
+              "titleStrategies": [
+                "data-center"
+              ],
+              "llmStrategies": [
+                "private-credit",
+                "data-center"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.75,
+              "llmExclude": false,
+              "llmReason": "Blue Owl is raising $513M of debt from Wall Street to finance an Amazon data center. That is a credit and financing transaction tied to its data-center and digital-infrastructure lending activity, so it is relevant to credit exposure. Rated slightly above ordinary financing given the size and the hyperscaler tenant.",
+              "llmReasonZh": "Blue Owl正向华尔街筹集5.13亿美元债务资金，为一座Amazon数据中心提供融资。这是一笔与其数据中心及数字基础设施贷款业务相关的信贷融资交易，因此与信用敞口相关。鉴于其规模及超大规模云服务商租户，评级略高于普通融资交易。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Blue Owl"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit",
+                    "data-center"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.72,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.75
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 70,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 19,
+              "semanticScore": 6.25,
+              "finalScore": 25.25,
+              "semanticEnabled": true
+            }
           }
         ],
         "KKR": [
@@ -223525,6 +224963,106 @@
               "keywordScore": 8,
               "semanticScore": 4.62,
               "finalScore": 12.620000000000001,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-e7afcfc07d95",
+            "title": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit - Kalkine",
+            "titleZh": "KKR Credit Income Fund确认10月实际分派为每单位AUD 0.01670000 - Kalkine",
+            "summary": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+            "summaryZh": "KKR Credit Income Fund确认10月实际分派为每单位AUD 0.01670000 Kalkine",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1kwWG13VGtkTVpqa3BNcWZ5empERUFrWHBaREpYVE5FUEZYaGUyc0x4SDVzN3dhT2JqbFNpZ2VtT0diUmhVV0hSMF9vN09uTTJRYlp1bGJMeFVLVWZTdm01cHF3cF95RjE4X0RSTTlBcFNxbWZaTzJia3VsbFBXNnlzTWM1MEZKb2hHSGpzU1NsZE05Vjd4cTEzaFltQ0N6WWc4eEx5dmZJVTRteFdoTzBQRmUwTEpFS0s2Y2ozTlBNR0I5anc?oc=5",
+            "source": "Kalkine",
+            "publishedAt": "2026-11-19",
+            "lede": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+            "articleExcerpt": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit - Kalkine. KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+            "contentFingerprint": "ea1ed0d4fc6f3adf",
+            "region": "Global",
+            "gps": [
+              "KKR"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "KKR"
+              ],
+              "titleGps": [
+                "KKR"
+              ],
+              "llmGps": [
+                "KKR"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.3,
+              "llmExclude": false,
+              "llmReason": "The article covers a routine monthly distribution announcement from KKR Credit Income Fund (ASX-listed KCI), which is a KKR credit vehicle, so it is credit-relevant. The fund holds a mix of private and public credit, so the private-credit tag is approximate. It involves no financing, fundraising, or legal event, and a distribution notice carries low informational value.",
+              "llmReasonZh": "该文章报道了KKR Credit Income Fund（澳交所上市，代码KCI）的例行月度分派公告。该基金为KKR旗下信贷投资工具，因此与信贷相关。该基金同时持有私募信贷和公开市场信贷资产，因此私募信贷标签仅为近似归类。该事件不涉及融资、募资或法律事项，且分派公告的信息价值较低。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "KKR"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.56,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.25,
+                  "code": "routine",
+                  "ruleValue": 0.2,
+                  "events": [],
+                  "llmValue": 0.3
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Kalkine"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 56,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.15,
+              "finalScore": 19.15,
               "semanticEnabled": true
             }
           }
@@ -224025,6 +225563,216 @@
               "keywordScore": 3,
               "semanticScore": 4.96,
               "finalScore": 7.96,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-3ac581ef5555",
+            "title": "Pretium Expands Real Estate Debt Platform - Yahoo Finance",
+            "titleZh": "Pretium扩展房地产债务平台 - Yahoo Finance",
+            "summary": "Pretium Expands Real Estate Debt Platform Yahoo Finance",
+            "summaryZh": "Pretium扩展房地产债务平台 Yahoo Finance",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGQ4RlQ0cVp3SnlqSmZtaGFjWFZ2LXA3QXVia1Y0TUc4TFNwNzYzUlBMajA0VTctVG55VmR3WEVUYnphRXpCc2dCSGpHU202Ylc2UGlHY3laU1ZSSGZEQjRWN1ZZeGJxdFhHZFhtbUFkQkhZQ0V6LUp1eVpVVWxJLWkxcTA1cC1UQWo1ekdULWdLUmRpLUhNZ053?oc=5",
+            "source": "Yahoo Finance",
+            "publishedAt": "2026-11-19",
+            "lede": "Pretium Expands Real Estate Debt Platform Yahoo Finance",
+            "articleExcerpt": "Pretium Expands Real Estate Debt Platform - Yahoo Finance. Pretium Expands Real Estate Debt Platform Yahoo Finance",
+            "contentFingerprint": "b59b3193ffbe66d3",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "cre"
+            ],
+            "sectors": [
+              "cre"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "cre"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.5,
+              "llmExclude": false,
+              "llmReason": "Pretium is expanding its real estate debt (lending) platform, which is credit-relevant manager news. The article text is only a headline, so the CRE tag is inferred from 'real estate debt' and no specific financing or fundraising event can be confirmed.",
+              "llmReasonZh": "Pretium正在扩展其房地产债务（贷款）平台，属于与信贷相关的管理人动态。该文章正文仅有标题，因此CRE标签系根据“房地产债务”一词推断，且无法确认具体的融资或募资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.63,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "cre"
+                  ],
+                  "semanticValue": 0.55
+                },
+                "event": {
+                  "value": 0.6,
+                  "code": "financing",
+                  "ruleValue": 0.7,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.5
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Yahoo Finance"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 65,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.63,
+              "finalScore": 20.63,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-155c2e1b06f1",
+            "title": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M - Multifamily Dive",
+            "titleZh": "Progress Residential及其所有者Pretium Partners以$50M和解FTC租赁费用诉讼 - Multifamily Dive",
+            "summary": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+            "summaryZh": "Progress Residential及其所有者Pretium Partners以$50M和解FTC租赁费用诉讼 Multifamily Dive",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenBaei1JbmtISUNoOHY2UV9ZODdIa1NlaHJTcnBWOFN2WGlySVprTWZMcURNX29XOG1Rcm5aZjVDcF9wYjByX25tMmFLNmhDY3kyanNMRzN6Y3B0dVB2ZEZiSFA5VXhmYXJkcGJ1S2QzLUwyTXFfMkdtY0xfeEZEajdQSkNKZnFieUMtMm91SDN2dTVWZ2VmaWcyMElGTzdjQkxqTS1B?oc=5",
+            "source": "Multifamily Dive",
+            "publishedAt": "2026-11-19",
+            "lede": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+            "articleExcerpt": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M - Multifamily Dive. Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+            "contentFingerprint": "857b37ab15953316",
+            "region": "Global",
+            "gps": [
+              "Pretium"
+            ],
+            "strategies": [
+              "sfr"
+            ],
+            "sectors": [
+              "sfr"
+            ],
+            "events": [
+              "lawsuit"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Pretium"
+              ],
+              "titleGps": [
+                "Pretium"
+              ],
+              "llmGps": [
+                "Pretium"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "sfr"
+              ],
+              "llmEvents": [
+                "lawsuit"
+              ],
+              "llmImportance": 0.9,
+              "llmExclude": false,
+              "llmReason": "Pretium's single-family rental platform Progress Residential settled an FTC enforcement suit over rental fees for $50M. This is regulatory enforcement in SFR, a tracked strategy that is closely tied to Pretium's housing and residential credit business, so it is credit-relevant rather than unrelated equity news.",
+              "llmReasonZh": "Pretium旗下独栋住宅租赁平台Progress Residential就FTC针对租赁费用提起的执法诉讼以$50M达成和解。这属于独栋住宅租赁（SFR）领域的监管执法事件，而SFR是重点跟踪的策略，与Pretium的住房及住宅信贷业务密切相关，因此具有信贷相关性，而非无关的股权类新闻。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Pretium"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.54,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "sfr"
+                  ],
+                  "semanticValue": 0.37
+                },
+                "event": {
+                  "value": 0.95,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit"
+                  ],
+                  "llmValue": 0.9
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Multifamily Dive"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 77,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 6,
+              "semanticScore": 4.47,
+              "finalScore": 10.469999999999999,
               "semanticEnabled": true
             }
           }
@@ -224990,6 +226738,221 @@
               "finalScore": 22.63,
               "semanticEnabled": true
             }
+          },
+          {
+            "id": "2026-11-19-da1becfb07c6",
+            "title": "Apollo Drops £1.5bn Financing Deal After City Verdict - cwibc.co.id",
+            "titleZh": "Apollo在伦敦金融城裁决后放弃15亿英镑融资交易 - cwibc.co.id",
+            "summary": "Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+            "summaryZh": "Apollo在伦敦金融城裁决后放弃15亿英镑融资交易 cwibc.co.id",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRDA4U2M2clBvaUdGaGVRTzVEcmxFbFkxMFdCWUFqWjRBNlZvOEdTaUl6Vk9tcmxQVEtFQ3lTVmNRLVZEQzRNSkJxSlRpWVJOQkNUeFVtb0FEdkpYcFl2Y2puOUlJQQ?oc=5",
+            "source": "cwibc.co.id",
+            "publishedAt": "2026-11-19",
+            "lede": "Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+            "articleExcerpt": "Apollo Drops £1.5bn Financing Deal After City Verdict - cwibc.co.id. Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+            "contentFingerprint": "6da3c166496cc880",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "lawsuit",
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing",
+                "lawsuit"
+              ],
+              "llmImportance": 0.8,
+              "llmExclude": false,
+              "llmReason": "The headline says Apollo withdrew from a £1.5bn financing deal after a 'City verdict' (likely a UK court or regulatory decision). That points to Apollo's credit/financing business and a dropped major transaction with a legal angle. The article body has almost no detail, so the strategy (private credit) and the counterparty can't be confirmed, and importance is tempered slightly.",
+              "llmReasonZh": "标题显示，Apollo在一项\"伦敦金融城裁决\"（可能是英国法院或监管机构的决定）后退出一笔15亿英镑的融资交易。这涉及Apollo的信贷/融资业务，以及一笔附带法律因素、已被放弃的重大交易。文章正文几乎没有细节，因此无法确认所涉策略（私募信贷）及交易对手方，重要性评级相应略微下调。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.59,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.47
+                },
+                "event": {
+                  "value": 0.9,
+                  "code": "lawsuit",
+                  "ruleValue": 1.0,
+                  "events": [
+                    "lawsuit",
+                    "financing"
+                  ],
+                  "llmValue": 0.8
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "cwibc.co.id"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 76,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.67,
+              "finalScore": 19.67,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-901ef634b824",
+            "title": "Apollo Walked Away From A $2 Billion Man City Loan - Finimize",
+            "titleZh": "Apollo退出对Man City的20亿美元贷款 - Finimize",
+            "summary": "Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+            "summaryZh": "Apollo退出对Man City的20亿美元贷款 Finimize",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVkxUlQ1bGJrVzdGbktIeWlQZUg0YjExZFUtNkc3amVOblFQZ0NhSThoWmdBb2lZZnVJWnlYUmIybzQxQmFreVY3eTlSeFRLMnN1NTdHZkRpdzdrNmNnMnkxd0YzeE45TXNGZzVkaUxmQlBhdmRyUEdpc09GNWlSYzh4emo?oc=5",
+            "source": "Finimize",
+            "publishedAt": "2026-11-19",
+            "lede": "Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+            "articleExcerpt": "Apollo Walked Away From A $2 Billion Man City Loan - Finimize. Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+            "contentFingerprint": "e2bd7045312173be",
+            "region": "Global",
+            "gps": [
+              "Apollo"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [
+              "financing"
+            ],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Apollo"
+              ],
+              "titleGps": [
+                "Apollo"
+              ],
+              "llmGps": [
+                "Apollo"
+              ],
+              "keywordStrategies": [],
+              "titleStrategies": [],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [
+                "financing"
+              ],
+              "llmImportance": 0.7,
+              "llmExclude": false,
+              "llmReason": "Apollo is the asset manager, and it withdrew from a proposed $2B loan to Manchester City. That is a private credit lending decision, not a sports equity investment, so the article is credit-relevant. Tagged as a financing event of ordinary-to-notable importance.",
+              "llmReasonZh": "Apollo为资产管理公司，已退出拟向Manchester City提供的20亿美元贷款。这属于私募信贷放贷决策，而非体育领域的股权投资，因此该文章与信贷相关。标记为重要性一般至较高的融资事件。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Apollo"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.57,
+                  "code": "llm_strategy",
+                  "tagValue": 0.7,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.43
+                },
+                "event": {
+                  "value": 0.82,
+                  "code": "major_signal",
+                  "ruleValue": 0.95,
+                  "events": [
+                    "financing"
+                  ],
+                  "llmValue": 0.7
+                },
+                "source": {
+                  "value": 0.35,
+                  "code": "tier_other",
+                  "source": "Finimize"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 73,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 5.17,
+              "finalScore": 19.17,
+              "semanticEnabled": true
+            }
           }
         ],
         "TPG": [],
@@ -225095,6 +227058,109 @@
               "keywordScore": 14,
               "semanticScore": 6.55,
               "finalScore": 20.55,
+              "semanticEnabled": true
+            }
+          },
+          {
+            "id": "2026-11-19-b8f53a9a36d6",
+            "title": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs - Investing.com",
+            "titleZh": "富国银行因信贷成本下调Golub Capital BDC目标股价 - Investing.com",
+            "summary": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+            "summaryZh": "富国银行因信贷成本下调Golub Capital BDC目标股价 Investing.com",
+            "summaryZhLanguage": "Simplified Chinese",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkVzQnZITFNoc1NuWDJ0ZFprdGlKZFpRaTJyM3FCaGdmbWVmNW00bkR1Z09MQlNMdzhuTk14U0pKQWRMTGRXLXVTSGI0UGx2VGlwc0szcklMVlFkOHJkV0dMd2txcHdXVS1abzRkRjV4eW5CVUFFenptYTd4U0VDdTEtNXdhRGtYRXBIYlMyWnRiNk5Ubk5OMmFvdnkyYkNRYnhSSHJzOEpEdzFyaUdYcmViRGU1bDhUbmN0bXd4aFhhUHdudlprdA?oc=5",
+            "source": "Investing.com",
+            "publishedAt": "2026-11-19",
+            "lede": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+            "articleExcerpt": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs - Investing.com. Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+            "contentFingerprint": "cba27316757f6b46",
+            "region": "Global",
+            "gps": [
+              "Golub"
+            ],
+            "strategies": [
+              "private-credit"
+            ],
+            "sectors": [
+              "private-credit"
+            ],
+            "events": [],
+            "curation": "rss_filter",
+            "excludedByClassifier": false,
+            "classificationBreakdown": {
+              "keywordGps": [
+                "Golub"
+              ],
+              "titleGps": [
+                "Golub"
+              ],
+              "llmGps": [
+                "Golub"
+              ],
+              "keywordStrategies": [
+                "private-credit"
+              ],
+              "titleStrategies": [
+                "private-credit"
+              ],
+              "llmStrategies": [
+                "private-credit"
+              ],
+              "llmEvents": [],
+              "llmImportance": 0.2,
+              "llmExclude": false,
+              "llmReason": "Wells Fargo cut its price target on Golub Capital BDC, a credit vehicle, citing credit costs. This is analyst commentary, but the mention of credit costs gives a slight signal on credit quality, so importance is set a little above routine stock commentary.",
+              "llmReasonZh": "富国银行以信贷成本为由，下调了信贷投资工具Golub Capital BDC的目标股价。此为分析师评论，但其中提及的信贷成本对信贷质量具有一定的信号意义，因此重要性略高于常规股票评论。"
+            },
+            "rating": {
+              "parts": {
+                "institution": {
+                  "value": 1.0,
+                  "code": "title_names_gp",
+                  "gps": [
+                    "Golub"
+                  ]
+                },
+                "strategy": {
+                  "value": 0.76,
+                  "code": "title_hits_strategy",
+                  "tagValue": 1.0,
+                  "strategies": [
+                    "private-credit"
+                  ],
+                  "semanticValue": 0.52
+                },
+                "event": {
+                  "value": 0.15,
+                  "code": "stock_commentary",
+                  "ruleValue": 0.15,
+                  "events": []
+                },
+                "source": {
+                  "value": 0.25,
+                  "code": "tier_aggregator",
+                  "source": "Investing.com"
+                },
+                "freshness": {
+                  "value": 1.0,
+                  "code": "within_24h",
+                  "days": 0.6
+                }
+              },
+              "weights": {
+                "institution": 18,
+                "strategy": 12,
+                "event": 30,
+                "source": 25,
+                "freshness": 15
+              },
+              "score": 53,
+              "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+            },
+            "scoreBreakdown": {
+              "keywordScore": 14,
+              "semanticScore": 6.26,
+              "finalScore": 20.259999999999998,
               "semanticEnabled": true
             }
           }
@@ -225723,6 +227789,120 @@
           }
         },
         {
+          "id": "2026-11-19-3560d50a93cb",
+          "title": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center - Yahoo Finance",
+          "titleZh": "Blue Owl向华尔街融资5.13亿美元，为Amazon数据中心提供资金 - Yahoo Finance",
+          "summary": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+          "summaryZh": "Blue Owl向华尔街融资5.13亿美元，为Amazon数据中心提供资金 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3R0OEMtRXkzTnNZLW5nUEdwY1daN0draVFLeHlHNXNBRzVGc0Z0ZHlWYVVrZHc3N0IxdFRnTThmb2hZRlBjWUVWZm5Lb29hZUdMaHo5WEFIOVNZeG5tWkhMOU9XNnVmM2IwVm5Mb3NwbFVTbEhZYl9hQUNic19TZ1g0NXZYaHF1WF9FUEhKUGI?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-19",
+          "lede": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+          "articleExcerpt": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center - Yahoo Finance. Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center Yahoo Finance",
+          "contentFingerprint": "7a4336129d50988e",
+          "region": "US",
+          "gps": [
+            "Blue Owl"
+          ],
+          "strategies": [
+            "private-credit",
+            "data-center"
+          ],
+          "sectors": [
+            "private-credit",
+            "data-center"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Blue Owl"
+            ],
+            "titleGps": [
+              "Blue Owl"
+            ],
+            "llmGps": [
+              "Blue Owl"
+            ],
+            "keywordStrategies": [
+              "data-center"
+            ],
+            "titleStrategies": [
+              "data-center"
+            ],
+            "llmStrategies": [
+              "private-credit",
+              "data-center"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.75,
+            "llmExclude": false,
+            "llmReason": "Blue Owl is raising $513M of debt from Wall Street to finance an Amazon data center. That is a credit and financing transaction tied to its data-center and digital-infrastructure lending activity, so it is relevant to credit exposure. Rated slightly above ordinary financing given the size and the hyperscaler tenant.",
+            "llmReasonZh": "Blue Owl正向华尔街筹集5.13亿美元债务资金，为一座Amazon数据中心提供融资。这是一笔与其数据中心及数字基础设施贷款业务相关的信贷融资交易，因此与信用敞口相关。鉴于其规模及超大规模云服务商租户，评级略高于普通融资交易。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Blue Owl"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit",
+                  "data-center"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.72,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.75
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 70,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 19,
+            "semanticScore": 6.25,
+            "finalScore": 25.25,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-19-d757134d3dbf",
           "title": "What Does Carlyle and KKR's (NYSE:KKR) $475 Million Investment in Litmus Music Mean for Music Rights? - Kalkine",
           "titleZh": "Carlyle与KKR（NYSE:KKR）向Litmus Music投资4.75亿美元对音乐版权意味着什么？- Kalkine",
@@ -225825,6 +228005,106 @@
             "keywordScore": 8,
             "semanticScore": 4.62,
             "finalScore": 12.620000000000001,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-e7afcfc07d95",
+          "title": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit - Kalkine",
+          "titleZh": "KKR Credit Income Fund确认10月实际分派为每单位AUD 0.01670000 - Kalkine",
+          "summary": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+          "summaryZh": "KKR Credit Income Fund确认10月实际分派为每单位AUD 0.01670000 Kalkine",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1kwWG13VGtkTVpqa3BNcWZ5empERUFrWHBaREpYVE5FUEZYaGUyc0x4SDVzN3dhT2JqbFNpZ2VtT0diUmhVV0hSMF9vN09uTTJRYlp1bGJMeFVLVWZTdm01cHF3cF95RjE4X0RSTTlBcFNxbWZaTzJia3VsbFBXNnlzTWM1MEZKb2hHSGpzU1NsZE05Vjd4cTEzaFltQ0N6WWc4eEx5dmZJVTRteFdoTzBQRmUwTEpFS0s2Y2ozTlBNR0I5anc?oc=5",
+          "source": "Kalkine",
+          "publishedAt": "2026-11-19",
+          "lede": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+          "articleExcerpt": "KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit - Kalkine. KKR Credit Income Fund Confirms Actual October Distribution of AUD 0.01670000 Per Unit Kalkine",
+          "contentFingerprint": "ea1ed0d4fc6f3adf",
+          "region": "Global",
+          "gps": [
+            "KKR"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "KKR"
+            ],
+            "titleGps": [
+              "KKR"
+            ],
+            "llmGps": [
+              "KKR"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.3,
+            "llmExclude": false,
+            "llmReason": "The article covers a routine monthly distribution announcement from KKR Credit Income Fund (ASX-listed KCI), which is a KKR credit vehicle, so it is credit-relevant. The fund holds a mix of private and public credit, so the private-credit tag is approximate. It involves no financing, fundraising, or legal event, and a distribution notice carries low informational value.",
+            "llmReasonZh": "该文章报道了KKR Credit Income Fund（澳交所上市，代码KCI）的例行月度分派公告。该基金为KKR旗下信贷投资工具，因此与信贷相关。该基金同时持有私募信贷和公开市场信贷资产，因此私募信贷标签仅为近似归类。该事件不涉及融资、募资或法律事项，且分派公告的信息价值较低。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "KKR"
+                ]
+              },
+              "strategy": {
+                "value": 0.56,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.25,
+                "code": "routine",
+                "ruleValue": 0.2,
+                "events": [],
+                "llmValue": 0.3
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Kalkine"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 56,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.15,
+            "finalScore": 19.15,
             "semanticEnabled": true
           }
         },
@@ -226321,6 +228601,216 @@
             "keywordScore": 3,
             "semanticScore": 4.96,
             "finalScore": 7.96,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-3ac581ef5555",
+          "title": "Pretium Expands Real Estate Debt Platform - Yahoo Finance",
+          "titleZh": "Pretium扩展房地产债务平台 - Yahoo Finance",
+          "summary": "Pretium Expands Real Estate Debt Platform Yahoo Finance",
+          "summaryZh": "Pretium扩展房地产债务平台 Yahoo Finance",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGQ4RlQ0cVp3SnlqSmZtaGFjWFZ2LXA3QXVia1Y0TUc4TFNwNzYzUlBMajA0VTctVG55VmR3WEVUYnphRXpCc2dCSGpHU202Ylc2UGlHY3laU1ZSSGZEQjRWN1ZZeGJxdFhHZFhtbUFkQkhZQ0V6LUp1eVpVVWxJLWkxcTA1cC1UQWo1ekdULWdLUmRpLUhNZ053?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-11-19",
+          "lede": "Pretium Expands Real Estate Debt Platform Yahoo Finance",
+          "articleExcerpt": "Pretium Expands Real Estate Debt Platform - Yahoo Finance. Pretium Expands Real Estate Debt Platform Yahoo Finance",
+          "contentFingerprint": "b59b3193ffbe66d3",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "cre"
+          ],
+          "sectors": [
+            "cre"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "cre"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.5,
+            "llmExclude": false,
+            "llmReason": "Pretium is expanding its real estate debt (lending) platform, which is credit-relevant manager news. The article text is only a headline, so the CRE tag is inferred from 'real estate debt' and no specific financing or fundraising event can be confirmed.",
+            "llmReasonZh": "Pretium正在扩展其房地产债务（贷款）平台，属于与信贷相关的管理人动态。该文章正文仅有标题，因此CRE标签系根据“房地产债务”一词推断，且无法确认具体的融资或募资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.63,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "cre"
+                ],
+                "semanticValue": 0.55
+              },
+              "event": {
+                "value": 0.6,
+                "code": "financing",
+                "ruleValue": 0.7,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.5
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Yahoo Finance"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 65,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.63,
+            "finalScore": 20.63,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-155c2e1b06f1",
+          "title": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M - Multifamily Dive",
+          "titleZh": "Progress Residential及其所有者Pretium Partners以$50M和解FTC租赁费用诉讼 - Multifamily Dive",
+          "summary": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+          "summaryZh": "Progress Residential及其所有者Pretium Partners以$50M和解FTC租赁费用诉讼 Multifamily Dive",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenBaei1JbmtISUNoOHY2UV9ZODdIa1NlaHJTcnBWOFN2WGlySVprTWZMcURNX29XOG1Rcm5aZjVDcF9wYjByX25tMmFLNmhDY3kyanNMRzN6Y3B0dVB2ZEZiSFA5VXhmYXJkcGJ1S2QzLUwyTXFfMkdtY0xfeEZEajdQSkNKZnFieUMtMm91SDN2dTVWZ2VmaWcyMElGTzdjQkxqTS1B?oc=5",
+          "source": "Multifamily Dive",
+          "publishedAt": "2026-11-19",
+          "lede": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+          "articleExcerpt": "Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M - Multifamily Dive. Progress Residential, owner Pretium Partners settle FTC rental fee suit for $50M Multifamily Dive",
+          "contentFingerprint": "857b37ab15953316",
+          "region": "Global",
+          "gps": [
+            "Pretium"
+          ],
+          "strategies": [
+            "sfr"
+          ],
+          "sectors": [
+            "sfr"
+          ],
+          "events": [
+            "lawsuit"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Pretium"
+            ],
+            "titleGps": [
+              "Pretium"
+            ],
+            "llmGps": [
+              "Pretium"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "sfr"
+            ],
+            "llmEvents": [
+              "lawsuit"
+            ],
+            "llmImportance": 0.9,
+            "llmExclude": false,
+            "llmReason": "Pretium's single-family rental platform Progress Residential settled an FTC enforcement suit over rental fees for $50M. This is regulatory enforcement in SFR, a tracked strategy that is closely tied to Pretium's housing and residential credit business, so it is credit-relevant rather than unrelated equity news.",
+            "llmReasonZh": "Pretium旗下独栋住宅租赁平台Progress Residential就FTC针对租赁费用提起的执法诉讼以$50M达成和解。这属于独栋住宅租赁（SFR）领域的监管执法事件，而SFR是重点跟踪的策略，与Pretium的住房及住宅信贷业务密切相关，因此具有信贷相关性，而非无关的股权类新闻。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Pretium"
+                ]
+              },
+              "strategy": {
+                "value": 0.54,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "sfr"
+                ],
+                "semanticValue": 0.37
+              },
+              "event": {
+                "value": 0.95,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit"
+                ],
+                "llmValue": 0.9
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Multifamily Dive"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 77,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 6,
+            "semanticScore": 4.47,
+            "finalScore": 10.469999999999999,
             "semanticEnabled": true
           }
         },
@@ -227278,6 +229768,221 @@
           }
         },
         {
+          "id": "2026-11-19-da1becfb07c6",
+          "title": "Apollo Drops £1.5bn Financing Deal After City Verdict - cwibc.co.id",
+          "titleZh": "Apollo在伦敦金融城裁决后放弃15亿英镑融资交易 - cwibc.co.id",
+          "summary": "Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+          "summaryZh": "Apollo在伦敦金融城裁决后放弃15亿英镑融资交易 cwibc.co.id",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRDA4U2M2clBvaUdGaGVRTzVEcmxFbFkxMFdCWUFqWjRBNlZvOEdTaUl6Vk9tcmxQVEtFQ3lTVmNRLVZEQzRNSkJxSlRpWVJOQkNUeFVtb0FEdkpYcFl2Y2puOUlJQQ?oc=5",
+          "source": "cwibc.co.id",
+          "publishedAt": "2026-11-19",
+          "lede": "Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+          "articleExcerpt": "Apollo Drops £1.5bn Financing Deal After City Verdict - cwibc.co.id. Apollo Drops £1.5bn Financing Deal After City Verdict cwibc.co.id",
+          "contentFingerprint": "6da3c166496cc880",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "lawsuit",
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing",
+              "lawsuit"
+            ],
+            "llmImportance": 0.8,
+            "llmExclude": false,
+            "llmReason": "The headline says Apollo withdrew from a £1.5bn financing deal after a 'City verdict' (likely a UK court or regulatory decision). That points to Apollo's credit/financing business and a dropped major transaction with a legal angle. The article body has almost no detail, so the strategy (private credit) and the counterparty can't be confirmed, and importance is tempered slightly.",
+            "llmReasonZh": "标题显示，Apollo在一项\"伦敦金融城裁决\"（可能是英国法院或监管机构的决定）后退出一笔15亿英镑的融资交易。这涉及Apollo的信贷/融资业务，以及一笔附带法律因素、已被放弃的重大交易。文章正文几乎没有细节，因此无法确认所涉策略（私募信贷）及交易对手方，重要性评级相应略微下调。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.59,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.47
+              },
+              "event": {
+                "value": 0.9,
+                "code": "lawsuit",
+                "ruleValue": 1.0,
+                "events": [
+                  "lawsuit",
+                  "financing"
+                ],
+                "llmValue": 0.8
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "cwibc.co.id"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 76,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.67,
+            "finalScore": 19.67,
+            "semanticEnabled": true
+          }
+        },
+        {
+          "id": "2026-11-19-901ef634b824",
+          "title": "Apollo Walked Away From A $2 Billion Man City Loan - Finimize",
+          "titleZh": "Apollo退出对Man City的20亿美元贷款 - Finimize",
+          "summary": "Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+          "summaryZh": "Apollo退出对Man City的20亿美元贷款 Finimize",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVkxUlQ1bGJrVzdGbktIeWlQZUg0YjExZFUtNkc3amVOblFQZ0NhSThoWmdBb2lZZnVJWnlYUmIybzQxQmFreVY3eTlSeFRLMnN1NTdHZkRpdzdrNmNnMnkxd0YzeE45TXNGZzVkaUxmQlBhdmRyUEdpc09GNWlSYzh4emo?oc=5",
+          "source": "Finimize",
+          "publishedAt": "2026-11-19",
+          "lede": "Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+          "articleExcerpt": "Apollo Walked Away From A $2 Billion Man City Loan - Finimize. Apollo Walked Away From A $2 Billion Man City Loan Finimize",
+          "contentFingerprint": "e2bd7045312173be",
+          "region": "Global",
+          "gps": [
+            "Apollo"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [
+            "financing"
+          ],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Apollo"
+            ],
+            "titleGps": [
+              "Apollo"
+            ],
+            "llmGps": [
+              "Apollo"
+            ],
+            "keywordStrategies": [],
+            "titleStrategies": [],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [
+              "financing"
+            ],
+            "llmImportance": 0.7,
+            "llmExclude": false,
+            "llmReason": "Apollo is the asset manager, and it withdrew from a proposed $2B loan to Manchester City. That is a private credit lending decision, not a sports equity investment, so the article is credit-relevant. Tagged as a financing event of ordinary-to-notable importance.",
+            "llmReasonZh": "Apollo为资产管理公司，已退出拟向Manchester City提供的20亿美元贷款。这属于私募信贷放贷决策，而非体育领域的股权投资，因此该文章与信贷相关。标记为重要性一般至较高的融资事件。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Apollo"
+                ]
+              },
+              "strategy": {
+                "value": 0.57,
+                "code": "llm_strategy",
+                "tagValue": 0.7,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.43
+              },
+              "event": {
+                "value": 0.82,
+                "code": "major_signal",
+                "ruleValue": 0.95,
+                "events": [
+                  "financing"
+                ],
+                "llmValue": 0.7
+              },
+              "source": {
+                "value": 0.35,
+                "code": "tier_other",
+                "source": "Finimize"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 73,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 5.17,
+            "finalScore": 19.17,
+            "semanticEnabled": true
+          }
+        },
+        {
           "id": "2026-11-19-fe2189854e60",
           "title": "Golub Capital BDC Earnings Call Shows Resilience Amid Credit Stress - TipRanks",
           "titleZh": "Golub Capital BDC财报电话会显示其在信贷压力下保持韧性 - TipRanks",
@@ -227380,14 +230085,137 @@
             "finalScore": 20.55,
             "semanticEnabled": true
           }
+        },
+        {
+          "id": "2026-11-19-b8f53a9a36d6",
+          "title": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs - Investing.com",
+          "titleZh": "富国银行因信贷成本下调Golub Capital BDC目标股价 - Investing.com",
+          "summary": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+          "summaryZh": "富国银行因信贷成本下调Golub Capital BDC目标股价 Investing.com",
+          "summaryZhLanguage": "Simplified Chinese",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkVzQnZITFNoc1NuWDJ0ZFprdGlKZFpRaTJyM3FCaGdmbWVmNW00bkR1Z09MQlNMdzhuTk14U0pKQWRMTGRXLXVTSGI0UGx2VGlwc0szcklMVlFkOHJkV0dMd2txcHdXVS1abzRkRjV4eW5CVUFFenptYTd4U0VDdTEtNXdhRGtYRXBIYlMyWnRiNk5Ubk5OMmFvdnkyYkNRYnhSSHJzOEpEdzFyaUdYcmViRGU1bDhUbmN0bXd4aFhhUHdudlprdA?oc=5",
+          "source": "Investing.com",
+          "publishedAt": "2026-11-19",
+          "lede": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+          "articleExcerpt": "Wells Fargo cuts Golub Capital BDC stock price target on credit costs - Investing.com. Wells Fargo cuts Golub Capital BDC stock price target on credit costs Investing.com",
+          "contentFingerprint": "cba27316757f6b46",
+          "region": "Global",
+          "gps": [
+            "Golub"
+          ],
+          "strategies": [
+            "private-credit"
+          ],
+          "sectors": [
+            "private-credit"
+          ],
+          "events": [],
+          "curation": "rss_filter",
+          "excludedByClassifier": false,
+          "classificationBreakdown": {
+            "keywordGps": [
+              "Golub"
+            ],
+            "titleGps": [
+              "Golub"
+            ],
+            "llmGps": [
+              "Golub"
+            ],
+            "keywordStrategies": [
+              "private-credit"
+            ],
+            "titleStrategies": [
+              "private-credit"
+            ],
+            "llmStrategies": [
+              "private-credit"
+            ],
+            "llmEvents": [],
+            "llmImportance": 0.2,
+            "llmExclude": false,
+            "llmReason": "Wells Fargo cut its price target on Golub Capital BDC, a credit vehicle, citing credit costs. This is analyst commentary, but the mention of credit costs gives a slight signal on credit quality, so importance is set a little above routine stock commentary.",
+            "llmReasonZh": "富国银行以信贷成本为由，下调了信贷投资工具Golub Capital BDC的目标股价。此为分析师评论，但其中提及的信贷成本对信贷质量具有一定的信号意义，因此重要性略高于常规股票评论。"
+          },
+          "rating": {
+            "parts": {
+              "institution": {
+                "value": 1.0,
+                "code": "title_names_gp",
+                "gps": [
+                  "Golub"
+                ]
+              },
+              "strategy": {
+                "value": 0.76,
+                "code": "title_hits_strategy",
+                "tagValue": 1.0,
+                "strategies": [
+                  "private-credit"
+                ],
+                "semanticValue": 0.52
+              },
+              "event": {
+                "value": 0.15,
+                "code": "stock_commentary",
+                "ruleValue": 0.15,
+                "events": []
+              },
+              "source": {
+                "value": 0.25,
+                "code": "tier_aggregator",
+                "source": "Investing.com"
+              },
+              "freshness": {
+                "value": 1.0,
+                "code": "within_24h",
+                "days": 0.6
+              }
+            },
+            "weights": {
+              "institution": 18,
+              "strategy": 12,
+              "event": 30,
+              "source": 25,
+              "freshness": 15
+            },
+            "score": 53,
+            "retrievedAt": "2026-11-20T01:33:54.028721+00:00"
+          },
+          "scoreBreakdown": {
+            "keywordScore": 14,
+            "semanticScore": 6.26,
+            "finalScore": 20.259999999999998,
+            "semanticEnabled": true
+          }
         }
       ]
+    },
+    "2026-11-20": {
+      "byGp": {
+        "Blue Owl": [],
+        "KKR": [],
+        "CIFC": [],
+        "PAG": [],
+        "Pretium": [],
+        "Guggenheim": [],
+        "Neuberger": [],
+        "BasePoint": [],
+        "Bain Capital": [],
+        "Blackstone": [],
+        "Apollo": [],
+        "TPG": [],
+        "Golub": [],
+        "CVC": [],
+        "Canyon": []
+      },
+      "items": []
     }
   },
   "coverage": [
     {
       "firm": "Blue Owl",
-      "count": 31,
+      "count": 34,
       "selected": 6,
       "status": "ok",
       "query": "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
@@ -227395,7 +230223,7 @@
         "\"Blue Owl\" OR \"BlueOwl\" OR \"Dyal Capital\"",
         "Blue Owl private credit direct lending BDC"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
@@ -227408,25 +230236,25 @@
         "\"KKR\" OR \"Kohlberg Kravis Roberts\"",
         "KKR private credit direct lending asset-based finance CLO"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "CIFC",
       "count": 4,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"CIFC\" OR \"CIFC Asset Management\"",
       "queries": [
         "\"CIFC\" OR \"CIFC Asset Management\"",
         "CIFC CLO credit"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "PAG",
-      "count": 6,
+      "count": 7,
       "selected": 0,
       "status": "ok",
       "query": "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
@@ -227434,20 +230262,20 @@
         "\"PAG\" credit OR \"PAG\" fund OR \"Pacific Alliance Group\"",
         "PAG private credit direct lending real estate credit"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Pretium",
-      "count": 4,
-      "selected": 4,
+      "count": 5,
+      "selected": 5,
       "status": "ok",
       "query": "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
       "queries": [
         "\"Pretium Partners\" OR \"Pretium\" credit OR \"Pretium\" housing",
         "Pretium residential credit mortgage"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
@@ -227460,12 +230288,12 @@
         "\"Guggenheim Investments\" OR \"Guggenheim Partners\" OR \"Guggenheim\" credit",
         "Guggenheim private credit CLO asset backed lending"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Neuberger",
-      "count": 10,
+      "count": 11,
       "selected": 6,
       "status": "ok",
       "query": "\"Neuberger Berman\"",
@@ -227473,7 +230301,7 @@
         "\"Neuberger Berman\"",
         "Neuberger Berman private credit direct lending"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
@@ -227486,38 +230314,38 @@
         "\"BasePoint Capital\" OR \"BasePoint\" credit OR \"BasePoint\" fund",
         "BasePoint private credit asset backed lending"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Bain Capital",
       "count": 23,
-      "selected": 1,
+      "selected": 0,
       "status": "ok",
       "query": "\"Bain Capital\" OR \"BainCapital\"",
       "queries": [
         "\"Bain Capital\" OR \"BainCapital\"",
         "Bain Capital credit private debt direct lending"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Blackstone",
-      "count": 65,
-      "selected": 6,
+      "count": 57,
+      "selected": 5,
       "status": "ok",
       "query": "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
       "queries": [
         "\"Blackstone\" credit OR \"Blackstone\" fund OR \"Blackstone\" investment",
         "Blackstone private credit direct lending BCRED"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Apollo",
-      "count": 29,
+      "count": 28,
       "selected": 6,
       "status": "ok",
       "query": "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
@@ -227525,38 +230353,38 @@
         "\"Apollo Global Management\" OR \"Apollo Management\" OR \"Apollo\" credit",
         "Apollo private credit direct lending asset backed finance"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "TPG",
-      "count": 10,
-      "selected": 1,
+      "count": 13,
+      "selected": 0,
       "status": "ok",
       "query": "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
       "queries": [
         "\"TPG\" credit OR \"TPG\" fund OR \"Angelo Gordon\"",
         "TPG Angelo Gordon private credit"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Golub",
       "count": 11,
-      "selected": 6,
+      "selected": 5,
       "status": "ok",
       "query": "\"Golub Capital\" OR \"Golub\" credit",
       "queries": [
         "\"Golub Capital\" OR \"Golub\" credit",
         "Golub Capital BDC direct lending"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "CVC",
-      "count": 22,
+      "count": 21,
       "selected": 0,
       "status": "ok",
       "query": "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
@@ -227564,12 +230392,12 @@
         "\"CVC Capital Partners\" OR \"CVC Credit\" OR \"CVC\" fund",
         "CVC Credit private credit CLO"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Canyon",
-      "count": 21,
+      "count": 25,
       "selected": 0,
       "status": "ok",
       "query": "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
@@ -227577,12 +230405,12 @@
         "\"Canyon Partners\" OR \"Canyon Capital Advisors\" OR \"Canyon\" credit",
         "Canyon Partners credit fund"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     },
     {
       "firm": "Portfolio",
-      "count": 634,
+      "count": 731,
       "selected": 6,
       "status": "ok",
       "query": "private credit direct lending Blue Owl Blackstone Apollo BDC; private credit direct lending KKR Bain Capital Guggenheim Golub",
@@ -227599,9 +230427,9 @@
         "site:dbrs.morningstar.com \"single-family rental\" OR \"residential mortgage\" OR \"commercial mortgage\" OR \"net lease\" OR aircraft",
         "site:pitchbook.com \"private credit\" OR \"direct lending\" OR CLO OR \"leveraged loan\" OR BDC"
       ],
-      "asOf": "2026-11-19T19:19:22.429122+00:00",
+      "asOf": "2026-11-20T01:33:54.028721+00:00",
       "errorReason": ""
     }
   ],
-  "checkedAt": "2026-11-19T19:19:22.429122+00:00"
+  "checkedAt": "2026-11-20T01:33:54.028721+00:00"
 }
